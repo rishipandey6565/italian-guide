@@ -1,71 +1,38 @@
-name: EPG Schedule Extractor
+name: Update TV Schedule
 
 on:
   schedule:
-    # Run every day at 00:30 UTC (01:30/02:30 Italian time depending on DST)
-    - cron: '30 0 * * *'
-  
-  workflow_dispatch:  # Allow manual trigger
-  
-  push:
-    branches:
-      - main
-    paths:
-      - 'channels.txt'
-      - 'epg_schedule_extractor.py'
-      - '.github/workflows/epg-extractor.yml'
+    # Runs at 01:00 UTC every day
+    - cron: '0 1 * * *'
+  workflow_dispatch: # Allows you to run it manually from GitHub UI
 
 permissions:
-  contents: write  # Required to commit and push changes
+  contents: write
 
 jobs:
-  extract-schedule:
+  build:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      
+
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
-      
+          python-version: '3.9'
+
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install pytz
-      
-      - name: Run EPG extractor
+          pip install -r requirements.txt
+
+      - name: Run EPG Ripper
+        run: python epg_ripper.py
+
+      - name: Commit and Push changes
         run: |
-          python epg_schedule_extractor.py
-      
-      - name: Check for changes
-        id: check_changes
-        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
           git add schedule/
-          if git diff --staged --quiet; then
-            echo "changes=false" >> $GITHUB_OUTPUT
-            echo "No changes to commit"
-          else
-            echo "changes=true" >> $GITHUB_OUTPUT
-            echo "Changes detected"
-          fi
-      
-      - name: Commit and push changes
-        if: steps.check_changes.outputs.changes == 'true'
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git commit -m "Update TV schedules - $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
-      
-      - name: Upload schedule as artifact (for debugging)
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: schedules
-          path: schedule/
-          retention-days: 7
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update TV Schedule [skip ci]" && git push)
