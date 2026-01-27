@@ -29,19 +29,10 @@ jobs:
       - name: Run EPG Ripper
         run: python epg_ripper.py
 
-- name: Commit and Push changes
+      - name: Commit and Push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          
-          # Add all changes (if any)
-          git add .
-          
-          # Check if there are changes to commit. If not, exit cleanly.
-          if git diff --staged --quiet; then
-            echo "No changes to commit (Schedule folder might be empty)."
-            exit 0
-          else
-            git commit -m "Update TV Schedule [skip ci]"
-            git push
-          fi
+          git add schedule/
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update TV Schedule [skip ci]" && git push)
