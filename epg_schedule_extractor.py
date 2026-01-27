@@ -1,430 +1,228 @@
-#!/usr/bin/env python3
-"""
-EPG Schedule Extractor
-Extracts TV channel schedules from XML/XML.GZ files and saves them as JSON
-"""
-
+import os
 import gzip
 import json
-import os
-import sys
+import requests
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
-from pathlib import Path
-from typing import List, Dict, Tuple, Optional
-from urllib.request import urlopen, Request
-from io import BytesIO
+from datetime import datetime, timedelta, time
 import pytz
+import io
+import re
 
+# --- Configuration ---
+# Add your EPG URLs here. The script detects .gz automatically.
+EPG_URLS = [
+    "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+    # "https://example.com/another_schedule.xml", 
+]
 
-class EPGExtractor:
-    def __init__(self, urls: List[str], channels_file: str = "channels.txt"):
-        """
-        Initialize EPG Extractor
-        
-        Args:
-            urls: List of EPG source URLs (can be .xml or .xml.gz)
-            channels_file: Path to file containing channel IDs and names
-        """
-        self.urls = urls
-        self.channels_file = channels_file
-        self.italian_tz = pytz.timezone('Europe/Rome')
-        self.utc_tz = pytz.UTC
-        
-        # Load channel mappings
-        self.channel_mappings = self.load_channel_mappings()
-        
-    def load_channel_mappings(self) -> List[Tuple[str, str]]:
-        """
-        Load channel mappings from channels.txt
-        Format: channel_id, channel_name
-        
-        Returns:
-            List of tuples (channel_id, channel_name)
-        """
-        mappings = []
-        
-        if not os.path.exists(self.channels_file):
-            print(f"Warning: {self.channels_file} not found!")
-            return mappings
-        
-        with open(self.channels_file, 'r', encoding='utf-8') as f:
-            for line in f:
-                line = line.strip()
-                if not line or line.startswith('#'):
-                    continue
-                    
-                parts = [p.strip() for p in line.split(',')]
-                if len(parts) >= 2:
-                    channel_id, channel_name = parts[0], parts[1]
-                    mappings.append((channel_id, channel_name))
-                    print(f"Loaded channel: {channel_name} ({channel_id})")
-        
-        return mappings
-    
-    def download_and_extract(self, url: str) -> str:
-        """
-        Download and extract XML content from URL
-        
-        Args:
-            url: URL to download from
-            
-        Returns:
-            XML content as string
-        """
-        print(f"Downloading from: {url}")
-        
-        # Create request with headers to avoid blocks
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-        }
-        request = Request(url, headers=headers)
-        
-        with urlopen(request, timeout=60) as response:
-            content = response.read()
-        
-        # Check if content is gzipped
-        if url.endswith('.gz') or content[:2] == b'\x1f\x8b':
-            print("Extracting gzip content...")
-            with gzip.GzipFile(fileobj=BytesIO(content)) as gz:
-                xml_content = gz.read().decode('utf-8')
-        else:
-            xml_content = content.decode('utf-8')
-        
-        print(f"Downloaded and extracted {len(xml_content)} bytes")
-        return xml_content
-    
-    def parse_datetime(self, dt_str: str) -> datetime:
-        """
-        Parse XMLTV datetime format: 20260126050000 +0000
-        
-        Args:
-            dt_str: DateTime string from XML
-            
-        Returns:
-            datetime object in UTC
-        """
-        # Format: YYYYMMDDHHmmss +offset
-        dt_part = dt_str.split()[0]
-        dt = datetime.strptime(dt_part, '%Y%m%d%H%M%S')
-        return self.utc_tz.localize(dt)
-    
-    def format_time(self, dt: datetime) -> str:
-        """
-        Format datetime to HH:MM AM/PM format
-        
-        Args:
-            dt: datetime object
-            
-        Returns:
-            Formatted time string
-        """
-        return dt.strftime('%I:%M %p').lstrip('0')
-    
-    def get_italian_date_range(self, day_offset: int = 0) -> Tuple[datetime, datetime]:
-        """
-        Get start and end of day in Italian timezone
-        
-        Args:
-            day_offset: 0 for today, 1 for tomorrow
-            
-        Returns:
-            Tuple of (start_datetime, end_datetime) in UTC
-        """
-        # Get current date in Italian timezone
-        now_italian = datetime.now(self.italian_tz)
-        target_date = now_italian.date() + timedelta(days=day_offset)
-        
-        # Create start and end of day in Italian timezone
-        start_italian = self.italian_tz.localize(
-            datetime.combine(target_date, datetime.min.time())
-        )
-        end_italian = self.italian_tz.localize(
-            datetime.combine(target_date, datetime.max.time())
-        )
-        
-        # Convert to UTC
-        start_utc = start_italian.astimezone(self.utc_tz)
-        end_utc = end_italian.astimezone(self.utc_tz)
-        
-        return start_utc, end_utc
-    
-    def extract_channel_data(self, root: ET.Element) -> Dict[str, Dict]:
-        """
-        Extract channel information from XML
-        
-        Args:
-            root: XML root element
-            
-        Returns:
-            Dictionary mapping channel_id to channel info
-        """
-        channels = {}
-        
-        for channel_elem in root.findall('channel'):
-            channel_id = channel_elem.get('id')
-            display_name_elem = channel_elem.find('display-name')
-            
-            if channel_id and display_name_elem is not None:
-                channels[channel_id] = {
-                    'id': channel_id,
-                    'name': display_name_elem.text
-                }
-        
-        return channels
-    
-    def extract_programmes(self, root: ET.Element, channel_id: str, 
-                          start_range: datetime, end_range: datetime) -> List[Dict]:
-        """
-        Extract programme data for a specific channel and time range
-        
-        Args:
-            root: XML root element
-            channel_id: Channel ID to filter
-            start_range: Start of time range (UTC)
-            end_range: End of time range (UTC)
-            
-        Returns:
-            List of programme dictionaries
-        """
-        programmes = []
-        
-        for prog in root.findall('programme'):
-            if prog.get('channel') != channel_id:
-                continue
-            
-            start_str = prog.get('start')
-            stop_str = prog.get('stop')
-            
-            if not start_str or not stop_str:
-                continue
-            
-            try:
-                start_utc = self.parse_datetime(start_str)
-                stop_utc = self.parse_datetime(stop_str)
-                
-                # Check if programme overlaps with our time range
-                if stop_utc < start_range or start_utc > end_range:
-                    continue
-                
-                # Adjust times if they cross boundaries
-                adjusted_start = max(start_utc, start_range)
-                adjusted_stop = min(stop_utc, end_range)
-                
-                # Convert to Italian timezone for display
-                start_italian = adjusted_start.astimezone(self.italian_tz)
-                stop_italian = adjusted_stop.astimezone(self.italian_tz)
-                
-                # Extract programme details
-                title_elem = prog.find('title')
-                desc_elem = prog.find('desc')
-                icon_elem = prog.find('icon')
-                episode_elem = prog.find('episode-num')
-                
-                # Get all categories
-                categories = [cat.text for cat in prog.findall('category') if cat.text]
-                
-                programme_data = {
-                    'title': title_elem.text if title_elem is not None else 'Unknown',
-                    'start_time': self.format_time(start_italian),
-                    'end_time': self.format_time(stop_italian),
-                    'description': desc_elem.text if desc_elem is not None else '',
-                    'categories': categories,  # Save all categories
-                    'logo': icon_elem.get('src') if icon_elem is not None else '',
-                    'episode': episode_elem.text if episode_elem is not None else ''
-                }
-                
-                programmes.append(programme_data)
-                
-            except Exception as e:
-                print(f"Error parsing programme: {e}")
-                continue
-        
-        return programmes
-    
-    def save_schedule(self, channel_name: str, date_label: str, 
-                     programmes: List[Dict], date_str: str):
-        """
-        Save schedule to JSON file
-        
-        Args:
-            channel_name: Name of the channel
-            date_label: 'today' or 'tomorrow'
-            programmes: List of programme data
-            date_str: Date string for the schedule
-        """
-        try:
-            # Create directory
-            output_dir = Path('schedule') / date_label
-            output_dir.mkdir(parents=True, exist_ok=True)
-            
-            # Sanitize channel name for filename
-            safe_name = channel_name.replace(' ', '-').replace('/', '-').replace('\\', '-')
-            output_file = output_dir / f"{safe_name}.json"
-            
-            # Prepare JSON data
-            schedule_data = {
-                'channel_name': channel_name,
-                'date': date_str,
-                'programmes': programmes
-            }
-            
-            # Save to file
-            with open(output_file, 'w', encoding='utf-8') as f:
-                json.dump(schedule_data, f, ensure_ascii=False, indent=2)
-            
-            print(f"✓ Saved {len(programmes)} programmes to {output_file}")
-            return True
-        except Exception as e:
-            print(f"✗ Error saving schedule for {channel_name}: {e}")
-            return False
-    
-    def process(self):
-        """
-        Main processing function
-        """
-        if not self.channel_mappings:
-            print("❌ No channels to process!")
-            print("Please add channels to channels.txt")
-            return
-        
-        print(f"📺 Processing {len(self.channel_mappings)} channels")
-        
-        # Download and parse all XML sources
-        all_roots = []
-        for url in self.urls:
-            try:
-                xml_content = self.download_and_extract(url)
-                root = ET.fromstring(xml_content)
-                all_roots.append(root)
-                print(f"✓ Successfully loaded EPG from {url}")
-            except Exception as e:
-                print(f"✗ Error processing {url}: {e}")
-                continue
-        
-        if not all_roots:
-            print("❌ No XML data loaded!")
-            return
-        
-        total_saved = 0
-        total_failed = 0
-        
-        # Process for today and tomorrow
-        for day_offset, day_label in [(0, 'today'), (1, 'tomorrow')]:
-            start_range, end_range = self.get_italian_date_range(day_offset)
-            date_str = start_range.astimezone(self.italian_tz).strftime('%Y-%m-%d')
-            
-            print(f"\n{'='*60}")
-            print(f"📅 Processing {day_label.upper()} ({date_str})")
-            print(f"{'='*60}")
-            
-            # Process each channel
-            for channel_id, channel_name in self.channel_mappings:
-                print(f"\n🔍 Processing: {channel_name}")
-                
-                all_programmes = []
-                found = False
-                
-                # Search in all XML sources
-                for root in all_roots:
-                    # Extract channel data to verify existence
-                    channels = self.extract_channel_data(root)
-                    
-                    # Try to find by ID first, then by name
-                    if channel_id in channels:
-                        found = True
-                        programmes = self.extract_programmes(
-                            root, channel_id, start_range, end_range
-                        )
-                        all_programmes.extend(programmes)
-                        print(f"  Found by ID: {channel_id}")
-                    else:
-                        # Search by name
-                        for cid, cdata in channels.items():
-                            if cdata['name'] == channel_name:
-                                found = True
-                                programmes = self.extract_programmes(
-                                    root, cid, start_range, end_range
-                                )
-                                all_programmes.extend(programmes)
-                                print(f"  Found by name: {channel_name} (ID: {cid})")
-                                break
-                
-                if found and all_programmes:
-                    # Sort by start time
-                    all_programmes.sort(key=lambda x: x['start_time'])
-                    if self.save_schedule(channel_name, day_label, all_programmes, date_str):
-                        total_saved += 1
-                    else:
-                        total_failed += 1
-                else:
-                    print(f"  ⚠️  No schedule found for {channel_name}")
-                    total_failed += 1
-        
-        # Print summary
-        print(f"\n{'='*60}")
-        print(f"📊 SUMMARY")
-        print(f"{'='*60}")
-        print(f"✓ Successfully saved: {total_saved} channel schedules")
-        if total_failed > 0:
-            print(f"✗ Failed: {total_failed} channel schedules")
-        print(f"{'='*60}")
+CHANNEL_FILE = "channel.txt"
+OUTPUT_DIR_TODAY = "schedule/today"
+OUTPUT_DIR_TOMORROW = "schedule/tomorrow"
+TZ_ITALY = pytz.timezone('Europe/Rome')
+TZ_UTC = pytz.timezone('UTC')
 
-
-def main():
+def load_channels_to_track():
     """
-    Main entry point
+    Reads channel.txt and returns a list of dictionaries.
+    Format expected: ChannelID, ChannelName
     """
-    print("=" * 60)
-    print("EPG SCHEDULE EXTRACTOR")
-    print("=" * 60)
+    channels = []
+    if not os.path.exists(CHANNEL_FILE):
+        print(f"Error: {CHANNEL_FILE} not found.")
+        return []
     
-    # Configuration
-    URLS = [
-        'https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz',
-        # Add more URLs here if needed
-        # 'https://example.com/epg.xml',  # Direct XML
-    ]
-    
-    CHANNELS_FILE = 'channels.txt'
-    
-    # Check if channels file exists
-    if not os.path.exists(CHANNELS_FILE):
-        print(f"\n❌ ERROR: {CHANNELS_FILE} not found!")
-        print(f"Please create {CHANNELS_FILE} with your channel list.")
-        print("Format: channel_id, channel_name")
-        print("Example:")
-        print("  Sky.Serie.it, Sky Serie")
-        print("  Rai1.it, Rai 1")
-        sys.exit(1)
-    
+    with open(CHANNEL_FILE, 'r', encoding='utf-8') as f:
+        for line in f:
+            parts = [p.strip() for p in line.split(',')]
+            if len(parts) >= 2:
+                # Store both ID and Name provided by user
+                channels.append({
+                    "user_id": parts[0],
+                    "user_name": parts[1],
+                    "found_xml_id": None # Will be populated later
+                })
+    return channels
+
+def get_xml_root(url):
+    """
+    Downloads and parses XML from a URL (handles .gz and raw .xml).
+    """
     try:
-        extractor = EPGExtractor(URLS, CHANNELS_FILE)
-        extractor.process()
+        print(f"Downloading: {url}")
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
         
-        print("\n" + "=" * 60)
-        print("✓ PROCESSING COMPLETE!")
-        print("=" * 60)
+        content = response.content
         
-        # Check if schedule directory was created
-        if os.path.exists('schedule'):
-            today_count = len(list(Path('schedule/today').glob('*.json'))) if Path('schedule/today').exists() else 0
-            tomorrow_count = len(list(Path('schedule/tomorrow').glob('*.json'))) if Path('schedule/tomorrow').exists() else 0
-            print(f"\n📁 Files created:")
-            print(f"  - Today: {today_count} files")
-            print(f"  - Tomorrow: {tomorrow_count} files")
-        else:
-            print("\n⚠️  No schedule files created. Check logs above for errors.")
+        # Check if it is gzipped (Magic number 1f 8b) or URL ends in .gz
+        if url.endswith('.gz') or content[:2] == b'\x1f\x8b':
+            try:
+                content = gzip.decompress(content)
+            except OSError:
+                print("Warning: Failed to decompress. Trying as plain text.")
         
-    except KeyboardInterrupt:
-        print("\n\n⚠️  Process interrupted by user")
-        sys.exit(1)
+        return ET.fromstring(content)
     except Exception as e:
-        print(f"\n❌ FATAL ERROR: {e}")
-        import traceback
-        traceback.print_exc()
-        sys.exit(1)
+        print(f"Error processing {url}: {e}")
+        return None
 
+def parse_xmltv_date(date_str):
+    """
+    Parses XMLTV date format: YYYYMMDDHHMMSS +0000
+    Returns a datetime object in UTC.
+    """
+    # Remove space before timezone if present
+    date_str = date_str.replace(" +", "+") 
+    try:
+        # Format usually: 20260126050000+0000
+        dt = datetime.strptime(date_str, "%Y%m%d%H%M%S%z")
+        return dt
+    except ValueError:
+        return None
 
-if __name__ == '__main__':
-    main()
+def sanitize_filename(name):
+    """Converts 'Sky Serie' to 'Sky-Serie'"""
+    return re.sub(r'[^a-zA-Z0-9]', '-', name).strip('-')
+
+def extract_schedule():
+    channels_to_track = load_channels_to_track()
+    if not channels_to_track:
+        print("No channels to track found.")
+        return
+
+    # Prepare data structure: { 'Channel Name': [list of programs] }
+    all_extracted_data = {} 
+    
+    # Iterate over all URLs
+    for url in EPG_URLS:
+        root = get_xml_root(url)
+        if root is None:
+            continue
+            
+        # 1. Map User Channel Names/IDs to XML IDs
+        # We need to find the correct 'id' used in the XML <programme> tags
+        xml_channel_map = {} # Map xml_id -> display_name
+        
+        for channel in root.findall('channel'):
+            c_id = channel.get('id')
+            display_name = channel.find('display-name')
+            c_name = display_name.text if display_name is not None else ""
+            
+            # Check against our list
+            for track in channels_to_track:
+                # Match Logic: Try ID match first, then Name match
+                if track['user_id'] == c_id:
+                    track['found_xml_id'] = c_id
+                elif track['user_name'].lower() == c_name.lower() and track['found_xml_id'] is None:
+                    track['found_xml_id'] = c_id
+        
+        # Filter only channels we found in this XML
+        active_ids = {c['found_xml_id']: c for c in channels_to_track if c['found_xml_id']}
+
+        # 2. Parse Programmes
+        for prog in root.findall('programme'):
+            channel_id = prog.get('channel')
+            
+            if channel_id in active_ids:
+                user_channel_info = active_ids[channel_id]
+                channel_name_clean = user_channel_info['user_name']
+                
+                # Times
+                start_utc = parse_xmltv_date(prog.get('start'))
+                stop_utc = parse_xmltv_date(prog.get('stop'))
+                
+                if not start_utc or not stop_utc:
+                    continue
+
+                # Convert to Italy Time
+                start_it = start_utc.astimezone(TZ_ITALY)
+                stop_it = stop_utc.astimezone(TZ_ITALY)
+                
+                # Extract Metadata
+                title_el = prog.find('title')
+                desc_el = prog.find('desc')
+                cat_el = prog.find('category')
+                icon_el = prog.find('icon')
+                ep_el = prog.find('episode-num')
+                
+                program_data = {
+                    "show_name": title_el.text if title_el is not None else "No Title",
+                    "description": desc_el.text if desc_el is not None else "",
+                    "category": cat_el.text if cat_el is not None else "",
+                    "start_dt": start_it, # Keep as object for sorting/filtering
+                    "end_dt": stop_it,
+                    "logo_url": icon_el.get('src') if icon_el is not None else "",
+                    "episode": ep_el.text if ep_el is not None else ""
+                }
+                
+                if channel_name_clean not in all_extracted_data:
+                    all_extracted_data[channel_name_clean] = []
+                all_extracted_data[channel_name_clean].append(program_data)
+
+    # 3. Process and Save Data (Today/Tomorrow Split)
+    now_italy = datetime.now(TZ_ITALY)
+    today_date = now_italy.date()
+    tomorrow_date = today_date + timedelta(days=1)
+    
+    # Create directories
+    os.makedirs(OUTPUT_DIR_TODAY, exist_ok=True)
+    os.makedirs(OUTPUT_DIR_TOMORROW, exist_ok=True)
+
+    for ch_name, programs in all_extracted_data.items():
+        # Sort programs by start time
+        programs.sort(key=lambda x: x['start_dt'])
+        
+        for target_date, folder in [(today_date, OUTPUT_DIR_TODAY), (tomorrow_date, OUTPUT_DIR_TOMORROW)]:
+            daily_schedule = []
+            
+            # Define Day Start and End in Italy time
+            day_start = TZ_ITALY.localize(datetime.combine(target_date, time.min))
+            day_end = TZ_ITALY.localize(datetime.combine(target_date, time.max))
+            
+            for p in programs:
+                p_start = p['start_dt']
+                p_end = p['end_dt']
+                
+                # Check overlap
+                # (Start is before day end AND End is after day start)
+                if p_start <= day_end and p_end >= day_start:
+                    
+                    # Logic: "if a show start 11:40 PM and end 12:40 AM then save it as 12:00 Am to 12:40 am"
+                    # We clip the start time if it starts before the current day
+                    display_start = p_start
+                    if p_start < day_start:
+                        display_start = day_start
+                    
+                    # We usually do NOT clip the end time for the viewer context, 
+                    # but if you want strictly 24h files, we can clip end too.
+                    # Based on your request, I will only clip the start to show it starts at 00:00 for that day.
+                    
+                    fmt = "%Y-%m-%d %H:%M:%S"
+                    
+                    entry = {
+                        "show_name": p['show_name'],
+                        "show_logo": p['logo_url'],
+                        "start_time": display_start.strftime(fmt),
+                        "end_time": p_end.strftime(fmt), # Keeping original end time
+                        "episode_number": p['episode'],
+                        "show_category": p['category'],
+                        "show_description": p['description']
+                    }
+                    daily_schedule.append(entry)
+            
+            if daily_schedule:
+                json_output = {
+                    "channel_name": ch_name,
+                    "date": str(target_date),
+                    "programs": daily_schedule
+                }
+                
+                filename = f"{sanitize_filename(ch_name)}.json"
+                file_path = os.path.join(folder, filename)
+                
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    json.dump(json_output, f, indent=2, ensure_ascii=False)
+                print(f"Saved {file_path}")
+
+if __name__ == "__main__":
+    extract_schedule()
