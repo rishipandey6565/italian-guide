@@ -229,7 +229,7 @@ class EPGExtractor:
                     'start_time': self.format_time(start_italian),
                     'end_time': self.format_time(stop_italian),
                     'description': desc_elem.text if desc_elem is not None else '',
-                    'category': categories[0] if categories else '',
+                    'categories': categories,  # Save all categories
                     'logo': icon_elem.get('src') if icon_elem is not None else '',
                     'episode': episode_elem.text if episode_elem is not None else ''
                 }
@@ -253,34 +253,42 @@ class EPGExtractor:
             programmes: List of programme data
             date_str: Date string for the schedule
         """
-        # Create directory
-        output_dir = Path('schedule') / date_label
-        output_dir.mkdir(parents=True, exist_ok=True)
-        
-        # Sanitize channel name for filename
-        safe_name = channel_name.replace(' ', '-').replace('/', '-')
-        output_file = output_dir / f"{safe_name}.json"
-        
-        # Prepare JSON data
-        schedule_data = {
-            'channel_name': channel_name,
-            'date': date_str,
-            'programmes': programmes
-        }
-        
-        # Save to file
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(schedule_data, f, ensure_ascii=False, indent=2)
-        
-        print(f"Saved {len(programmes)} programmes to {output_file}")
+        try:
+            # Create directory
+            output_dir = Path('schedule') / date_label
+            output_dir.mkdir(parents=True, exist_ok=True)
+            
+            # Sanitize channel name for filename
+            safe_name = channel_name.replace(' ', '-').replace('/', '-').replace('\\', '-')
+            output_file = output_dir / f"{safe_name}.json"
+            
+            # Prepare JSON data
+            schedule_data = {
+                'channel_name': channel_name,
+                'date': date_str,
+                'programmes': programmes
+            }
+            
+            # Save to file
+            with open(output_file, 'w', encoding='utf-8') as f:
+                json.dump(schedule_data, f, ensure_ascii=False, indent=2)
+            
+            print(f"✓ Saved {len(programmes)} programmes to {output_file}")
+            return True
+        except Exception as e:
+            print(f"✗ Error saving schedule for {channel_name}: {e}")
+            return False
     
     def process(self):
         """
         Main processing function
         """
         if not self.channel_mappings:
-            print("No channels to process!")
+            print("❌ No channels to process!")
+            print("Please add channels to channels.txt")
             return
+        
+        print(f"📺 Processing {len(self.channel_mappings)} channels")
         
         # Download and parse all XML sources
         all_roots = []
@@ -289,13 +297,17 @@ class EPGExtractor:
                 xml_content = self.download_and_extract(url)
                 root = ET.fromstring(xml_content)
                 all_roots.append(root)
+                print(f"✓ Successfully loaded EPG from {url}")
             except Exception as e:
-                print(f"Error processing {url}: {e}")
+                print(f"✗ Error processing {url}: {e}")
                 continue
         
         if not all_roots:
-            print("No XML data loaded!")
+            print("❌ No XML data loaded!")
             return
+        
+        total_saved = 0
+        total_failed = 0
         
         # Process for today and tomorrow
         for day_offset, day_label in [(0, 'today'), (1, 'tomorrow')]:
@@ -303,12 +315,12 @@ class EPGExtractor:
             date_str = start_range.astimezone(self.italian_tz).strftime('%Y-%m-%d')
             
             print(f"\n{'='*60}")
-            print(f"Processing {day_label.upper()} ({date_str})")
+            print(f"📅 Processing {day_label.upper()} ({date_str})")
             print(f"{'='*60}")
             
             # Process each channel
             for channel_id, channel_name in self.channel_mappings:
-                print(f"\nProcessing: {channel_name}")
+                print(f"\n🔍 Processing: {channel_name}")
                 
                 all_programmes = []
                 found = False
@@ -325,6 +337,7 @@ class EPGExtractor:
                             root, channel_id, start_range, end_range
                         )
                         all_programmes.extend(programmes)
+                        print(f"  Found by ID: {channel_id}")
                     else:
                         # Search by name
                         for cid, cdata in channels.items():
@@ -334,20 +347,38 @@ class EPGExtractor:
                                     root, cid, start_range, end_range
                                 )
                                 all_programmes.extend(programmes)
+                                print(f"  Found by name: {channel_name} (ID: {cid})")
                                 break
                 
                 if found and all_programmes:
                     # Sort by start time
                     all_programmes.sort(key=lambda x: x['start_time'])
-                    self.save_schedule(channel_name, day_label, all_programmes, date_str)
+                    if self.save_schedule(channel_name, day_label, all_programmes, date_str):
+                        total_saved += 1
+                    else:
+                        total_failed += 1
                 else:
                     print(f"  ⚠️  No schedule found for {channel_name}")
+                    total_failed += 1
+        
+        # Print summary
+        print(f"\n{'='*60}")
+        print(f"📊 SUMMARY")
+        print(f"{'='*60}")
+        print(f"✓ Successfully saved: {total_saved} channel schedules")
+        if total_failed > 0:
+            print(f"✗ Failed: {total_failed} channel schedules")
+        print(f"{'='*60}")
 
 
 def main():
     """
     Main entry point
     """
+    print("=" * 60)
+    print("EPG SCHEDULE EXTRACTOR")
+    print("=" * 60)
+    
     # Configuration
     URLS = [
         'https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz',
@@ -357,14 +388,42 @@ def main():
     
     CHANNELS_FILE = 'channels.txt'
     
-    print("EPG Schedule Extractor")
-    print("=" * 60)
+    # Check if channels file exists
+    if not os.path.exists(CHANNELS_FILE):
+        print(f"\n❌ ERROR: {CHANNELS_FILE} not found!")
+        print(f"Please create {CHANNELS_FILE} with your channel list.")
+        print("Format: channel_id, channel_name")
+        print("Example:")
+        print("  Sky.Serie.it, Sky Serie")
+        print("  Rai1.it, Rai 1")
+        sys.exit(1)
     
-    extractor = EPGExtractor(URLS, CHANNELS_FILE)
-    extractor.process()
-    
-    print("\n" + "=" * 60)
-    print("Processing complete!")
+    try:
+        extractor = EPGExtractor(URLS, CHANNELS_FILE)
+        extractor.process()
+        
+        print("\n" + "=" * 60)
+        print("✓ PROCESSING COMPLETE!")
+        print("=" * 60)
+        
+        # Check if schedule directory was created
+        if os.path.exists('schedule'):
+            today_count = len(list(Path('schedule/today').glob('*.json'))) if Path('schedule/today').exists() else 0
+            tomorrow_count = len(list(Path('schedule/tomorrow').glob('*.json'))) if Path('schedule/tomorrow').exists() else 0
+            print(f"\n📁 Files created:")
+            print(f"  - Today: {today_count} files")
+            print(f"  - Tomorrow: {tomorrow_count} files")
+        else:
+            print("\n⚠️  No schedule files created. Check logs above for errors.")
+        
+    except KeyboardInterrupt:
+        print("\n\n⚠️  Process interrupted by user")
+        sys.exit(1)
+    except Exception as e:
+        print(f"\n❌ FATAL ERROR: {e}")
+        import traceback
+        traceback.print_exc()
+        sys.exit(1)
 
 
 if __name__ == '__main__':
