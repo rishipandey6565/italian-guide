@@ -1,138 +1,21 @@
 {
   "channel_name": "Sky Atlantic",
-  "date": "2026-01-30",
+  "date": "2026-01-31",
   "programs": [
     {
-      "show_name": "Il tatuatore di Auschwitz",
-      "show_logo": "https://guidatv.sky.it/uuid/8a393c1a-3bc1-464b-b13a-d3e0f6cf2800/cover?territory=IT&md5ChecksumParam=bd3fe93cb269cc540dd3e1394c1df037",
-      "start_time": "2026-01-30 00:00:00",
-      "end_time": "2026-01-30 00:00:00",
-      "episode_number": "S1 E5",
-      "show_category": "Intrattenimento",
-      "show_description": "Nel campo c'e' la sensazione che la fine sia vicina, ma nel panico e nella paura i nazisti diventano sempre piu' irregolari e piu' pericolosi."
-    },
-    {
-      "show_name": "Il tatuatore di Auschwitz",
-      "show_logo": "https://guidatv.sky.it/uuid/355f87f3-2371-4581-95bd-b66bac393516/cover?territory=IT&md5ChecksumParam=bd3fe93cb269cc540dd3e1394c1df037",
-      "start_time": "2026-01-30 00:00:00",
-      "end_time": "2026-01-30 01:05:00",
-      "episode_number": "S1 E6",
-      "show_category": "Intrattenimento",
-      "show_description": "Dopo la guerra, Lali e Gita costruiscono una vita insieme, ma il passato non li abbandona. Anni dopo, Heather si reca ad Auschwitz e scrive il libro che Lali avrebbe amato."
-    },
-    {
-      "show_name": "Yellowstone",
-      "show_logo": "https://guidatv.sky.it/uuid/be811153-8e4d-4fdd-90be-06662ad57fa2/cover?territory=IT&md5ChecksumParam=e9022336003b5732f2bc13f748ef4f3a",
-      "start_time": "2026-01-30 01:05:00",
-      "end_time": "2026-01-30 02:00:00",
-      "episode_number": "S4 E7",
-      "show_category": "Intrattenimento",
-      "show_description": "Il Governatore Perry mette John in una posizione molto complicata. Intanto Carter cerca di riconquistare la fiducia di Beth, mentre Jamie sta per avere una sorpresa."
-    },
-    {
-      "show_name": "Yellowstone",
-      "show_logo": "https://guidatv.sky.it/uuid/041a0d19-7042-4ef8-b406-7141b66fafcc/cover?territory=IT&md5ChecksumParam=e9022336003b5732f2bc13f748ef4f3a",
-      "start_time": "2026-01-30 02:00:00",
-      "end_time": "2026-01-30 02:50:00",
-      "episode_number": "S4 E8",
-      "show_category": "Intrattenimento",
-      "show_description": "Le tensioni con i manifestanti aumentano, ma Beth pensa di avere un piano per risolvere la questione. Nel frattempo Monica e Kayce condividono un momento speciale."
-    },
-    {
-      "show_name": "The Walking Dead",
-      "show_logo": "https://guidatv.sky.it/uuid/88f83018-1698-4f17-83b4-a05368743125/cover?territory=IT&md5ChecksumParam=34c1171c95324173fdd938bfd25e77e8",
-      "start_time": "2026-01-30 02:50:00",
-      "end_time": "2026-01-30 03:35:00",
-      "episode_number": "S1 E3",
-      "show_category": "Intrattenimento",
-      "show_description": "Rick torna ad Atlanta per recuperare la borsa delle armi e salvare la vita di un uomo. Lori e Shane affrontano il ritorno di una persona che credevano morta."
-    },
-    {
-      "show_name": "The Walking Dead",
-      "show_logo": "https://guidatv.sky.it/uuid/07dcd55a-ac66-49fa-9846-b2fef91a17e7/cover?territory=IT&md5ChecksumParam=34c1171c95324173fdd938bfd25e77e8",
-      "start_time": "2026-01-30 03:35:00",
-      "end_time": "2026-01-30 04:20:00",
-      "episode_number": "S1 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "La missione di Rick ad Atlanta viene messa a rischio quando le cose vanno male. Jim perde la testa nel campo."
-    },
-    {
-      "show_name": "Gomorra: Le Origini. Fratelli di set",
-      "show_logo": "https://guidatv.sky.it/uuid/71f3e36e-af5a-4cdf-9d11-00fda5fd0677/cover?territory=IT&md5ChecksumParam=756538291ddd145021bc371c0e3d28d4",
-      "start_time": "2026-01-30 04:20:00",
-      "end_time": "2026-01-30 04:50:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Amici sul set e nella vita: i giovani protagonisti di Gomorra Le Origini si raccontano al regista della serie, Marco D’Amore."
-    },
-    {
-      "show_name": "Gomorra: Le origini",
-      "show_logo": "https://guidatv.sky.it/uuid/e3014af9-a0cd-4471-97fa-04e93d80dfaa/COVER_TITLE_TALL?territory=IT&version=2f2c2150-f0b9-3e86-bf75-f773e82b821a&w=600&h=800&md5ChecksumParam=a862ef50b9c98b82fc9e829a440eb21b",
-      "start_time": "2026-01-30 04:50:00",
-      "end_time": "2026-01-30 05:45:00",
-      "episode_number": "S1 E5",
-      "show_category": "Intrattenimento",
-      "show_description": "Le Origini Ep.05 - Pietro e Imma fanno i conti con quanto accaduto la notte precedente. Mentre Angelo sembra aver ottenuto finalmente tutto cio' che vuole. Con sottotitoli."
-    },
-    {
-      "show_name": "Gomorra - Le Origini - Speciale Backstage",
-      "show_logo": "https://guidatv.sky.it/uuid/6a35dcaa-2b41-4f9d-997b-23d5c5a5d259/cover?territory=IT&md5ChecksumParam=11bb37f270c38f26a5c6a2ee91c21370",
-      "start_time": "2026-01-30 05:45:00",
-      "end_time": "2026-01-30 06:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Tutti i segreti del dietro le quinte di Gomorra Le Origini, la serie che racconta l’iniziazione criminale di Pietro Savastano."
-    },
-    {
-      "show_name": "Gomorra: Le origini",
+      "show_name": "Gomorra - Le Origini",
       "show_logo": "https://guidatv.sky.it/uuid/28b38764-ff1f-4af1-9433-00398040b876/COVER_TITLE_TALL?territory=IT&version=2f2c2150-f0b9-3e86-bf75-f773e82b821a&w=600&h=800&md5ChecksumParam=a862ef50b9c98b82fc9e829a440eb21b",
-      "start_time": "2026-01-30 06:05:00",
-      "end_time": "2026-01-30 07:00:00",
+      "start_time": "2026-01-31 00:00:00",
+      "end_time": "2026-01-31 00:10:00",
       "episode_number": "S1 E5",
       "show_category": "Intrattenimento",
-      "show_description": "Pietro e Imma si trovano a dover fare i conti con quanto accaduto la notte precedente. Intanto, dal canto suo, Angelo sembra essere riuscito a ottenere finalmente tutto ciò che vuole."
-    },
-    {
-      "show_name": "Yellowstone",
-      "show_logo": "https://guidatv.sky.it/uuid/041a0d19-7042-4ef8-b406-7141b66fafcc/cover?territory=IT&md5ChecksumParam=e9022336003b5732f2bc13f748ef4f3a",
-      "start_time": "2026-01-30 07:00:00",
-      "end_time": "2026-01-30 07:50:00",
-      "episode_number": "S4 E8",
-      "show_category": "Intrattenimento",
-      "show_description": "Le tensioni con i manifestanti aumentano, ma Beth pensa di avere un piano per risolvere la questione. Nel frattempo Monica e Kayce condividono un momento speciale."
-    },
-    {
-      "show_name": "The Walking Dead",
-      "show_logo": "https://guidatv.sky.it/uuid/88f83018-1698-4f17-83b4-a05368743125/cover?territory=IT&md5ChecksumParam=34c1171c95324173fdd938bfd25e77e8",
-      "start_time": "2026-01-30 07:50:00",
-      "end_time": "2026-01-30 08:35:00",
-      "episode_number": "S1 E3",
-      "show_category": "Intrattenimento",
-      "show_description": "Rick torna ad Atlanta per recuperare la borsa delle armi e salvare la vita di un uomo. Lori e Shane affrontano il ritorno di una persona che credevano morta."
-    },
-    {
-      "show_name": "The Walking Dead",
-      "show_logo": "https://guidatv.sky.it/uuid/07dcd55a-ac66-49fa-9846-b2fef91a17e7/cover?territory=IT&md5ChecksumParam=34c1171c95324173fdd938bfd25e77e8",
-      "start_time": "2026-01-30 08:35:00",
-      "end_time": "2026-01-30 09:25:00",
-      "episode_number": "S1 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "La missione di Rick ad Atlanta viene messa a rischio quando le cose vanno male. Jim perde la testa nel campo."
-    },
-    {
-      "show_name": "Gomorra: Le origini",
-      "show_logo": "https://guidatv.sky.it/uuid/86a4bd42-8950-4ff7-ac4e-5a212a5d3a95/COVER_TITLE_TALL?territory=IT&version=2f2c2150-f0b9-3e86-bf75-f773e82b821a&w=600&h=800&md5ChecksumParam=a862ef50b9c98b82fc9e829a440eb21b",
-      "start_time": "2026-01-30 09:25:00",
-      "end_time": "2026-01-30 10:20:00",
-      "episode_number": "S1 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "Angelo e' in grave pericolo e Pietro sa di non poterlo abbandonare. Cosi' come Imma sa che deve aiutare la sua amica Annalisa, costi quel che costi. Con sottotitoli."
+      "show_description": "Pietro e Imma fanno i conti con quanto accaduto la notte precedente. Mentre Angelo sembra aver ottenuto finalmente tutto ciò che vuole. Con sottotitoli."
     },
     {
       "show_name": "Breaking Bad",
       "show_logo": "https://guidatv.sky.it/uuid/00021a93-ba53-4e58-9028-54887b674dee/COVER_TITLE_TALL?territory=IT&version=b8aac298-df39-3df5-9ff5-15f83c2398ca&w=600&h=800&md5ChecksumParam=7822d6b30f780584632d53b369efc21e",
-      "start_time": "2026-01-30 10:20:00",
-      "end_time": "2026-01-30 11:10:00",
+      "start_time": "2026-01-31 00:10:00",
+      "end_time": "2026-01-31 01:00:00",
       "episode_number": "S1 E5",
       "show_category": "Intrattenimento",
       "show_description": "Walter e Skyler partecipano al compleanno di Elliott Schwartz, ex collega e socio di lui, in una lussuosa villa. Durante l'occasione, il festeggiato propone un impiego redditizio al suo vecchio amico."
@@ -140,53 +23,17 @@
     {
       "show_name": "Breaking Bad",
       "show_logo": "https://guidatv.sky.it/uuid/2df28e38-b42a-4403-8c6b-0a086c3a8bb4/COVER_TITLE_TALL?territory=IT&version=b8aac298-df39-3df5-9ff5-15f83c2398ca&w=600&h=800&md5ChecksumParam=7822d6b30f780584632d53b369efc21e",
-      "start_time": "2026-01-30 11:10:00",
-      "end_time": "2026-01-30 12:05:00",
+      "start_time": "2026-01-31 01:00:00",
+      "end_time": "2026-01-31 01:50:00",
       "episode_number": "S1 E6",
       "show_category": "Intrattenimento",
       "show_description": "Walter è affetto dai sintomi della chemioterapia, mentre la DEA accumula sospetti. Jesse fa conoscenza con Tuco, un boss della droga."
     },
     {
-      "show_name": "Seal Team",
-      "show_logo": "https://guidatv.sky.it/uuid/82f9ff7a-ee6c-4e16-b69f-87891a196ec8/cover?territory=IT&md5ChecksumParam=5b46e1562754620fbfa36c025dde77b4",
-      "start_time": "2026-01-30 12:05:00",
-      "end_time": "2026-01-30 12:50:00",
-      "episode_number": "S2 E12",
-      "show_category": "Intrattenimento",
-      "show_description": "Il Bravo Team si reca in Turchia per salvare una giovane americana che ha sposato volontariamente un leader dell'ISIS."
-    },
-    {
-      "show_name": "Il tatuatore di Auschwitz",
-      "show_logo": "https://guidatv.sky.it/uuid/8a393c1a-3bc1-464b-b13a-d3e0f6cf2800/cover?territory=IT&md5ChecksumParam=bd3fe93cb269cc540dd3e1394c1df037",
-      "start_time": "2026-01-30 12:50:00",
-      "end_time": "2026-01-30 13:45:00",
-      "episode_number": "S1 E5",
-      "show_category": "Intrattenimento",
-      "show_description": "Nel campo c'e' la sensazione che la fine sia vicina, ma nel panico e nella paura i nazisti diventano sempre piu' irregolari e piu' pericolosi."
-    },
-    {
-      "show_name": "Il tatuatore di Auschwitz",
-      "show_logo": "https://guidatv.sky.it/uuid/355f87f3-2371-4581-95bd-b66bac393516/cover?territory=IT&md5ChecksumParam=bd3fe93cb269cc540dd3e1394c1df037",
-      "start_time": "2026-01-30 13:45:00",
-      "end_time": "2026-01-30 14:50:00",
-      "episode_number": "S1 E6",
-      "show_category": "Intrattenimento",
-      "show_description": "Dopo la guerra, Lali e Gita costruiscono una vita insieme, ma il passato non li abbandona. Anni dopo, Heather si reca ad Auschwitz e scrive il libro che Lali avrebbe amato."
-    },
-    {
-      "show_name": "Gomorra: Le origini",
-      "show_logo": "https://guidatv.sky.it/uuid/86a4bd42-8950-4ff7-ac4e-5a212a5d3a95/COVER_TITLE_TALL?territory=IT&version=2f2c2150-f0b9-3e86-bf75-f773e82b821a&w=600&h=800&md5ChecksumParam=a862ef50b9c98b82fc9e829a440eb21b",
-      "start_time": "2026-01-30 14:50:00",
-      "end_time": "2026-01-30 15:50:00",
-      "episode_number": "S1 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "Angelo e' in grave pericolo e Pietro sa di non poterlo abbandonare. Cosi' come Imma sa che deve aiutare la sua amica Annalisa, costi quel che costi. Con sottotitoli."
-    },
-    {
       "show_name": "Yellowstone",
       "show_logo": "https://guidatv.sky.it/uuid/5845c081-e1ad-409a-8ef3-7730649b129b/cover?territory=IT&md5ChecksumParam=e9022336003b5732f2bc13f748ef4f3a",
-      "start_time": "2026-01-30 15:50:00",
-      "end_time": "2026-01-30 16:45:00",
+      "start_time": "2026-01-31 01:50:00",
+      "end_time": "2026-01-31 02:50:00",
       "episode_number": "S4 E9",
       "show_category": "Intrattenimento",
       "show_description": "John e Beth hanno un durissimo scontro. Intanto Kayce inizia una nuova ricerca, e Jimmy e' costretto a prendere una decisione difficile."
@@ -194,17 +41,53 @@
     {
       "show_name": "Yellowstone",
       "show_logo": "https://guidatv.sky.it/uuid/a8cb7f9c-d08e-4d48-8044-a05435a9f5b5/cover?territory=IT&md5ChecksumParam=e9022336003b5732f2bc13f748ef4f3a",
-      "start_time": "2026-01-30 16:45:00",
-      "end_time": "2026-01-30 18:05:00",
+      "start_time": "2026-01-31 02:50:00",
+      "end_time": "2026-01-31 04:05:00",
       "episode_number": "S4 E10",
       "show_category": "Intrattenimento",
       "show_description": "Per i Dutton, la famiglia e' tutto. Ma delle verita' venute a galla minacciano seriamente questo fondamentale legame..."
     },
     {
+      "show_name": "Gomorra: Le Origini. Fratelli di set",
+      "show_logo": "https://guidatv.sky.it/uuid/71f3e36e-af5a-4cdf-9d11-00fda5fd0677/cover?territory=IT&md5ChecksumParam=756538291ddd145021bc371c0e3d28d4",
+      "start_time": "2026-01-31 04:05:00",
+      "end_time": "2026-01-31 04:30:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Amici sul set e nella vita: i giovani protagonisti di Gomorra Le Origini si raccontano al regista della serie, Marco D’Amore."
+    },
+    {
+      "show_name": "Seal Team",
+      "show_logo": "https://guidatv.sky.it/uuid/1e0ab6a3-1468-4795-85e1-fac288da1cbc/cover?territory=IT&md5ChecksumParam=5b46e1562754620fbfa36c025dde77b4",
+      "start_time": "2026-01-31 04:30:00",
+      "end_time": "2026-01-31 05:15:00",
+      "episode_number": "S2 E13",
+      "show_category": "Intrattenimento",
+      "show_description": "Il Bravo Team cerca disperatamente di salvare Sonny da una situazione di pericolo di vita, dopo che e' rimasto intrappolato nel tubo di un siluro di un sottomarino."
+    },
+    {
+      "show_name": "Seal Team",
+      "show_logo": "https://guidatv.sky.it/uuid/cbbefb36-5b83-419e-bf5e-37b78281f5fc/cover?territory=IT&md5ChecksumParam=5b46e1562754620fbfa36c025dde77b4",
+      "start_time": "2026-01-31 05:15:00",
+      "end_time": "2026-01-31 06:00:00",
+      "episode_number": "S2 E14",
+      "show_category": "Intrattenimento",
+      "show_description": "Il Bravo Team collabora con l'esercito congolese in una missione segreta per catturare il capo di un gruppo di miliziani ribelli."
+    },
+    {
+      "show_name": "Gomorra - Le Origini - Speciale Backstage",
+      "show_logo": "https://guidatv.sky.it/uuid/6a35dcaa-2b41-4f9d-997b-23d5c5a5d259/cover?territory=IT&md5ChecksumParam=11bb37f270c38f26a5c6a2ee91c21370",
+      "start_time": "2026-01-31 06:00:00",
+      "end_time": "2026-01-31 06:20:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Tutti i segreti del dietro le quinte di Gomorra Le Origini, la serie che racconta l’iniziazione criminale di Pietro Savastano."
+    },
+    {
       "show_name": "The Walking Dead",
       "show_logo": "https://guidatv.sky.it/uuid/5d7b4c3d-8734-4a11-9eeb-1e0f1391ed2e/cover?territory=IT&md5ChecksumParam=34c1171c95324173fdd938bfd25e77e8",
-      "start_time": "2026-01-30 18:05:00",
-      "end_time": "2026-01-30 18:55:00",
+      "start_time": "2026-01-31 06:20:00",
+      "end_time": "2026-01-31 07:05:00",
       "episode_number": "S1 E5",
       "show_category": "Intrattenimento",
       "show_description": "Rick cerca la sua famiglia in un mondo terrorizzato dai morti che camminano. Morgan e Duane aiutano Rick a imparare le nuove regole di sopravvivenza."
@@ -212,47 +95,182 @@
     {
       "show_name": "The Walking Dead",
       "show_logo": "https://guidatv.sky.it/uuid/71f25914-c1c7-42b5-abff-6b688982407c/cover?territory=IT&md5ChecksumParam=34c1171c95324173fdd938bfd25e77e8",
-      "start_time": "2026-01-30 18:55:00",
-      "end_time": "2026-01-30 19:40:00",
+      "start_time": "2026-01-31 07:05:00",
+      "end_time": "2026-01-31 07:55:00",
       "episode_number": "S1 E6",
       "show_category": "Intrattenimento",
       "show_description": "Rick e il gruppo vengono ammessi al Centro di Controllo Malattie da uno strano dottore. Ma non tutto è come sembra nel rifugio appena trovato."
     },
     {
-      "show_name": "Seal Team",
-      "show_logo": "https://guidatv.sky.it/uuid/1e0ab6a3-1468-4795-85e1-fac288da1cbc/cover?territory=IT&md5ChecksumParam=5b46e1562754620fbfa36c025dde77b4",
-      "start_time": "2026-01-30 19:40:00",
-      "end_time": "2026-01-30 21:15:00",
-      "episode_number": "S2 E13",
+      "show_name": "Gomorra: Le origini",
+      "show_logo": "https://guidatv.sky.it/uuid/86a4bd42-8950-4ff7-ac4e-5a212a5d3a95/COVER_TITLE_TALL?territory=IT&version=2f2c2150-f0b9-3e86-bf75-f773e82b821a&w=600&h=800&md5ChecksumParam=a862ef50b9c98b82fc9e829a440eb21b",
+      "start_time": "2026-01-31 07:55:00",
+      "end_time": "2026-01-31 08:50:00",
+      "episode_number": "S1 E4",
       "show_category": "Intrattenimento",
-      "show_description": "Il Bravo Team cerca disperatamente di salvare Sonny da una situazione di pericolo di vita, dopo che e' rimasto intrappolato nel tubo di un siluro di un sottomarino."
+      "show_description": "Angelo e' in grave pericolo e Pietro sa di non poterlo abbandonare. Cosi' come Imma sa che deve aiutare la sua amica Annalisa, costi quel che costi. Con sottotitoli."
+    },
+    {
+      "show_name": "Gomorra - Le Origini",
+      "show_logo": "https://guidatv.sky.it/uuid/28b38764-ff1f-4af1-9433-00398040b876/COVER_TITLE_TALL?territory=IT&version=2f2c2150-f0b9-3e86-bf75-f773e82b821a&w=600&h=800&md5ChecksumParam=a862ef50b9c98b82fc9e829a440eb21b",
+      "start_time": "2026-01-31 08:50:00",
+      "end_time": "2026-01-31 09:45:00",
+      "episode_number": "S1 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "Pietro e Imma fanno i conti con quanto accaduto la notte precedente. Mentre Angelo sembra aver ottenuto finalmente tutto ciò che vuole. Con sottotitoli."
+    },
+    {
+      "show_name": "Gomorra - Le Origini - Speciale Backstage",
+      "show_logo": "https://guidatv.sky.it/uuid/6a35dcaa-2b41-4f9d-997b-23d5c5a5d259/cover?territory=IT&md5ChecksumParam=11bb37f270c38f26a5c6a2ee91c21370",
+      "start_time": "2026-01-31 09:45:00",
+      "end_time": "2026-01-31 10:00:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Tutti i segreti del dietro le quinte di Gomorra Le Origini, la serie che racconta l’iniziazione criminale di Pietro Savastano."
+    },
+    {
+      "show_name": "Il tatuatore di Auschwitz",
+      "show_logo": "https://guidatv.sky.it/uuid/8a393c1a-3bc1-464b-b13a-d3e0f6cf2800/cover?territory=IT&md5ChecksumParam=bd3fe93cb269cc540dd3e1394c1df037",
+      "start_time": "2026-01-31 10:00:00",
+      "end_time": "2026-01-31 11:00:00",
+      "episode_number": "S1 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "Nel campo c'e' la sensazione che la fine sia vicina, ma nel panico e nella paura i nazisti diventano sempre piu' irregolari e piu' pericolosi."
+    },
+    {
+      "show_name": "Il tatuatore di Auschwitz",
+      "show_logo": "https://guidatv.sky.it/uuid/355f87f3-2371-4581-95bd-b66bac393516/cover?territory=IT&md5ChecksumParam=bd3fe93cb269cc540dd3e1394c1df037",
+      "start_time": "2026-01-31 11:00:00",
+      "end_time": "2026-01-31 12:05:00",
+      "episode_number": "S1 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Dopo la guerra, Lali e Gita costruiscono una vita insieme, ma il passato non li abbandona. Anni dopo, Heather si reca ad Auschwitz e scrive il libro che Lali avrebbe amato."
+    },
+    {
+      "show_name": "Breaking Bad",
+      "show_logo": "https://guidatv.sky.it/uuid/00021a93-ba53-4e58-9028-54887b674dee/COVER_TITLE_TALL?territory=IT&version=b8aac298-df39-3df5-9ff5-15f83c2398ca&w=600&h=800&md5ChecksumParam=7822d6b30f780584632d53b369efc21e",
+      "start_time": "2026-01-31 12:05:00",
+      "end_time": "2026-01-31 12:50:00",
+      "episode_number": "S1 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "Walter e Skyler partecipano al compleanno di Elliott Schwartz, ex collega e socio di lui, in una lussuosa villa. Durante l'occasione, il festeggiato propone un impiego redditizio al suo vecchio amico."
+    },
+    {
+      "show_name": "Breaking Bad",
+      "show_logo": "https://guidatv.sky.it/uuid/2df28e38-b42a-4403-8c6b-0a086c3a8bb4/COVER_TITLE_TALL?territory=IT&version=b8aac298-df39-3df5-9ff5-15f83c2398ca&w=600&h=800&md5ChecksumParam=7822d6b30f780584632d53b369efc21e",
+      "start_time": "2026-01-31 12:50:00",
+      "end_time": "2026-01-31 13:45:00",
+      "episode_number": "S1 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Walter è affetto dai sintomi della chemioterapia, mentre la DEA accumula sospetti. Jesse fa conoscenza con Tuco, un boss della droga."
     },
     {
       "show_name": "Gomorra: Le origini",
+      "show_logo": "https://guidatv.sky.it/uuid/86a4bd42-8950-4ff7-ac4e-5a212a5d3a95/COVER_TITLE_TALL?territory=IT&version=2f2c2150-f0b9-3e86-bf75-f773e82b821a&w=600&h=800&md5ChecksumParam=a862ef50b9c98b82fc9e829a440eb21b",
+      "start_time": "2026-01-31 13:45:00",
+      "end_time": "2026-01-31 14:40:00",
+      "episode_number": "S1 E4",
+      "show_category": "Intrattenimento",
+      "show_description": "Angelo e' in grave pericolo e Pietro sa di non poterlo abbandonare. Cosi' come Imma sa che deve aiutare la sua amica Annalisa, costi quel che costi. Con sottotitoli."
+    },
+    {
+      "show_name": "Gomorra - Le Origini",
       "show_logo": "https://guidatv.sky.it/uuid/28b38764-ff1f-4af1-9433-00398040b876/COVER_TITLE_TALL?territory=IT&version=2f2c2150-f0b9-3e86-bf75-f773e82b821a&w=600&h=800&md5ChecksumParam=a862ef50b9c98b82fc9e829a440eb21b",
-      "start_time": "2026-01-30 21:15:00",
-      "end_time": "2026-01-30 22:15:00",
+      "start_time": "2026-01-31 14:40:00",
+      "end_time": "2026-01-31 15:35:00",
       "episode_number": "S1 E5",
       "show_category": "Intrattenimento",
-      "show_description": "Pietro e Imma si trovano a dover fare i conti con quanto accaduto la notte precedente. Intanto, dal canto suo, Angelo sembra essere riuscito a ottenere finalmente tutto ciò che vuole."
+      "show_description": "Pietro e Imma fanno i conti con quanto accaduto la notte precedente. Mentre Angelo sembra aver ottenuto finalmente tutto ciò che vuole. Con sottotitoli."
+    },
+    {
+      "show_name": "Breaking Bad",
+      "show_logo": "https://guidatv.sky.it/uuid/00021a93-ba53-4e58-9028-54887b674dee/COVER_TITLE_TALL?territory=IT&version=b8aac298-df39-3df5-9ff5-15f83c2398ca&w=600&h=800&md5ChecksumParam=7822d6b30f780584632d53b369efc21e",
+      "start_time": "2026-01-31 15:35:00",
+      "end_time": "2026-01-31 16:30:00",
+      "episode_number": "S1 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "Walter e Skyler partecipano al compleanno di Elliott Schwartz, ex collega e socio di lui, in una lussuosa villa. Durante l'occasione, il festeggiato propone un impiego redditizio al suo vecchio amico."
+    },
+    {
+      "show_name": "Breaking Bad",
+      "show_logo": "https://guidatv.sky.it/uuid/2df28e38-b42a-4403-8c6b-0a086c3a8bb4/COVER_TITLE_TALL?territory=IT&version=b8aac298-df39-3df5-9ff5-15f83c2398ca&w=600&h=800&md5ChecksumParam=7822d6b30f780584632d53b369efc21e",
+      "start_time": "2026-01-31 16:30:00",
+      "end_time": "2026-01-31 17:20:00",
+      "episode_number": "S1 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Walter è affetto dai sintomi della chemioterapia, mentre la DEA accumula sospetti. Jesse fa conoscenza con Tuco, un boss della droga."
+    },
+    {
+      "show_name": "Il tatuatore di Auschwitz",
+      "show_logo": "https://guidatv.sky.it/uuid/8a393c1a-3bc1-464b-b13a-d3e0f6cf2800/cover?territory=IT&md5ChecksumParam=bd3fe93cb269cc540dd3e1394c1df037",
+      "start_time": "2026-01-31 17:20:00",
+      "end_time": "2026-01-31 18:15:00",
+      "episode_number": "S1 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "Nel campo c'e' la sensazione che la fine sia vicina, ma nel panico e nella paura i nazisti diventano sempre piu' irregolari e piu' pericolosi."
+    },
+    {
+      "show_name": "Il tatuatore di Auschwitz",
+      "show_logo": "https://guidatv.sky.it/uuid/355f87f3-2371-4581-95bd-b66bac393516/cover?territory=IT&md5ChecksumParam=bd3fe93cb269cc540dd3e1394c1df037",
+      "start_time": "2026-01-31 18:15:00",
+      "end_time": "2026-01-31 19:20:00",
+      "episode_number": "S1 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Dopo la guerra, Lali e Gita costruiscono una vita insieme, ma il passato non li abbandona. Anni dopo, Heather si reca ad Auschwitz e scrive il libro che Lali avrebbe amato."
     },
     {
       "show_name": "Gomorra: Le origini",
-      "show_logo": "https://guidatv.sky.it/uuid/28b38764-ff1f-4af1-9433-00398040b876/COVER_TITLE_TALL?territory=IT&version=2f2c2150-f0b9-3e86-bf75-f773e82b821a&w=600&h=800&md5ChecksumParam=a862ef50b9c98b82fc9e829a440eb21b",
-      "start_time": "2026-01-30 22:15:00",
-      "end_time": "2026-01-30 23:10:00",
-      "episode_number": "S1 E5",
+      "show_logo": "https://guidatv.sky.it/uuid/86a4bd42-8950-4ff7-ac4e-5a212a5d3a95/COVER_TITLE_TALL?territory=IT&version=2f2c2150-f0b9-3e86-bf75-f773e82b821a&w=600&h=800&md5ChecksumParam=a862ef50b9c98b82fc9e829a440eb21b",
+      "start_time": "2026-01-31 19:20:00",
+      "end_time": "2026-01-31 20:15:00",
+      "episode_number": "S1 E4",
       "show_category": "Intrattenimento",
-      "show_description": "Pietro e Imma si trovano a dover fare i conti con quanto accaduto la notte precedente. Intanto, dal canto suo, Angelo sembra essere riuscito a ottenere finalmente tutto ciò che vuole."
+      "show_description": "Angelo e' in grave pericolo e Pietro sa di non poterlo abbandonare. Cosi' come Imma sa che deve aiutare la sua amica Annalisa, costi quel che costi. Con sottotitoli."
     },
     {
-      "show_name": "Gomorra: Le origini",
+      "show_name": "Gomorra - Le Origini",
       "show_logo": "https://guidatv.sky.it/uuid/28b38764-ff1f-4af1-9433-00398040b876/COVER_TITLE_TALL?territory=IT&version=2f2c2150-f0b9-3e86-bf75-f773e82b821a&w=600&h=800&md5ChecksumParam=a862ef50b9c98b82fc9e829a440eb21b",
-      "start_time": "2026-01-30 23:10:00",
-      "end_time": "2026-01-31 00:10:00",
+      "start_time": "2026-01-31 20:15:00",
+      "end_time": "2026-01-31 21:15:00",
       "episode_number": "S1 E5",
       "show_category": "Intrattenimento",
-      "show_description": "Pietro e Imma si trovano a dover fare i conti con quanto accaduto la notte precedente. Intanto, dal canto suo, Angelo sembra essere riuscito a ottenere finalmente tutto ciò che vuole."
+      "show_description": "Pietro e Imma fanno i conti con quanto accaduto la notte precedente. Mentre Angelo sembra aver ottenuto finalmente tutto ciò che vuole. Con sottotitoli."
+    },
+    {
+      "show_name": "Breaking Bad",
+      "show_logo": "https://guidatv.sky.it/uuid/00021a93-ba53-4e58-9028-54887b674dee/COVER_TITLE_TALL?territory=IT&version=b8aac298-df39-3df5-9ff5-15f83c2398ca&w=600&h=800&md5ChecksumParam=7822d6b30f780584632d53b369efc21e",
+      "start_time": "2026-01-31 21:15:00",
+      "end_time": "2026-01-31 22:05:00",
+      "episode_number": "S1 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "Walter e Skyler partecipano al compleanno di Elliott Schwartz, ex collega e socio di lui, in una lussuosa villa. Durante l'occasione, il festeggiato propone un impiego redditizio al suo vecchio amico."
+    },
+    {
+      "show_name": "Breaking Bad",
+      "show_logo": "https://guidatv.sky.it/uuid/2df28e38-b42a-4403-8c6b-0a086c3a8bb4/COVER_TITLE_TALL?territory=IT&version=b8aac298-df39-3df5-9ff5-15f83c2398ca&w=600&h=800&md5ChecksumParam=7822d6b30f780584632d53b369efc21e",
+      "start_time": "2026-01-31 22:05:00",
+      "end_time": "2026-01-31 22:55:00",
+      "episode_number": "S1 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Walter è affetto dai sintomi della chemioterapia, mentre la DEA accumula sospetti. Jesse fa conoscenza con Tuco, un boss della droga."
+    },
+    {
+      "show_name": "Gomorra - Le Origini",
+      "show_logo": "https://guidatv.sky.it/uuid/28b38764-ff1f-4af1-9433-00398040b876/COVER_TITLE_TALL?territory=IT&version=2f2c2150-f0b9-3e86-bf75-f773e82b821a&w=600&h=800&md5ChecksumParam=a862ef50b9c98b82fc9e829a440eb21b",
+      "start_time": "2026-01-31 22:55:00",
+      "end_time": "2026-01-31 23:55:00",
+      "episode_number": "S1 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "Pietro e Imma fanno i conti con quanto accaduto la notte precedente. Mentre Angelo sembra aver ottenuto finalmente tutto ciò che vuole. Con sottotitoli."
+    },
+    {
+      "show_name": "Il tatuatore di Auschwitz",
+      "show_logo": "https://guidatv.sky.it/uuid/8a393c1a-3bc1-464b-b13a-d3e0f6cf2800/cover?territory=IT&md5ChecksumParam=bd3fe93cb269cc540dd3e1394c1df037",
+      "start_time": "2026-01-31 23:55:00",
+      "end_time": "2026-02-01 00:50:00",
+      "episode_number": "S1 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "Nel campo c'e' la sensazione che la fine sia vicina, ma nel panico e nella paura i nazisti diventano sempre piu' irregolari e piu' pericolosi."
     }
   ]
 }
