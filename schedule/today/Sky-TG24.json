@@ -1,0 +1,555 @@
+{
+  "channel_name": "Sky TG24",
+  "date": "2026-01-31",
+  "programs": [
+    {
+      "show_name": "Sky Meteo24",
+      "show_logo": "https://guidatv.sky.it/uuid/2a13b983-3936-4e0d-a17d-b64d011abb5b/cover?territory=IT&md5ChecksumParam=685a0e80c6625ee1377143be65dc8e25",
+      "start_time": "2026-01-31 00:00:00",
+      "end_time": "2026-01-31 00:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali."
+    },
+    {
+      "show_name": "Skyline",
+      "show_logo": "https://guidatv.sky.it/uuid/0968d612-ef07-463d-871c-b8703371ea34/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 00:00:00",
+      "end_time": "2026-01-31 00:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
+    },
+    {
+      "show_name": "TG24 Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/7cafe852-3fc8-4ebe-a40a-4c7f989a8251/cover?territory=IT&md5ChecksumParam=806b7e3b55576b9b5f0ed8dbec0d50cb",
+      "start_time": "2026-01-31 00:30:00",
+      "end_time": "2026-01-31 01:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale con la lettura dei principali quotidiani."
+    },
+    {
+      "show_name": "TG24 Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/7cafe852-3fc8-4ebe-a40a-4c7f989a8251/cover?territory=IT&md5ChecksumParam=806b7e3b55576b9b5f0ed8dbec0d50cb",
+      "start_time": "2026-01-31 01:00:00",
+      "end_time": "2026-01-31 01:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale con la lettura dei principali quotidiani."
+    },
+    {
+      "show_name": "TG24 Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/7cafe852-3fc8-4ebe-a40a-4c7f989a8251/cover?territory=IT&md5ChecksumParam=806b7e3b55576b9b5f0ed8dbec0d50cb",
+      "start_time": "2026-01-31 01:30:00",
+      "end_time": "2026-01-31 02:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale con la lettura dei principali quotidiani."
+    },
+    {
+      "show_name": "TG24 Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/7cafe852-3fc8-4ebe-a40a-4c7f989a8251/cover?territory=IT&md5ChecksumParam=806b7e3b55576b9b5f0ed8dbec0d50cb",
+      "start_time": "2026-01-31 02:00:00",
+      "end_time": "2026-01-31 02:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale con la lettura dei principali quotidiani."
+    },
+    {
+      "show_name": "TG24 Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/7cafe852-3fc8-4ebe-a40a-4c7f989a8251/cover?territory=IT&md5ChecksumParam=806b7e3b55576b9b5f0ed8dbec0d50cb",
+      "start_time": "2026-01-31 02:30:00",
+      "end_time": "2026-01-31 03:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale con la lettura dei principali quotidiani."
+    },
+    {
+      "show_name": "TG24 Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/7cafe852-3fc8-4ebe-a40a-4c7f989a8251/cover?territory=IT&md5ChecksumParam=806b7e3b55576b9b5f0ed8dbec0d50cb",
+      "start_time": "2026-01-31 03:00:00",
+      "end_time": "2026-01-31 03:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale con la lettura dei principali quotidiani."
+    },
+    {
+      "show_name": "TG24 Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/7cafe852-3fc8-4ebe-a40a-4c7f989a8251/cover?territory=IT&md5ChecksumParam=806b7e3b55576b9b5f0ed8dbec0d50cb",
+      "start_time": "2026-01-31 03:30:00",
+      "end_time": "2026-01-31 04:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale con la lettura dei principali quotidiani."
+    },
+    {
+      "show_name": "TG24 Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/7cafe852-3fc8-4ebe-a40a-4c7f989a8251/cover?territory=IT&md5ChecksumParam=806b7e3b55576b9b5f0ed8dbec0d50cb",
+      "start_time": "2026-01-31 04:00:00",
+      "end_time": "2026-01-31 04:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale con la lettura dei principali quotidiani."
+    },
+    {
+      "show_name": "TG24 Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/7cafe852-3fc8-4ebe-a40a-4c7f989a8251/cover?territory=IT&md5ChecksumParam=806b7e3b55576b9b5f0ed8dbec0d50cb",
+      "start_time": "2026-01-31 04:30:00",
+      "end_time": "2026-01-31 05:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale con la lettura dei principali quotidiani."
+    },
+    {
+      "show_name": "TG24 Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/7cafe852-3fc8-4ebe-a40a-4c7f989a8251/cover?territory=IT&md5ChecksumParam=806b7e3b55576b9b5f0ed8dbec0d50cb",
+      "start_time": "2026-01-31 05:00:00",
+      "end_time": "2026-01-31 05:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale con la lettura dei principali quotidiani."
+    },
+    {
+      "show_name": "TG24 Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/7cafe852-3fc8-4ebe-a40a-4c7f989a8251/cover?territory=IT&md5ChecksumParam=806b7e3b55576b9b5f0ed8dbec0d50cb",
+      "start_time": "2026-01-31 05:30:00",
+      "end_time": "2026-01-31 06:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale con la lettura dei principali quotidiani."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 06:00:00",
+      "end_time": "2026-01-31 06:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 06:30:00",
+      "end_time": "2026-01-31 06:55:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "TG24 Preview",
+      "show_logo": "https://guidatv.sky.it/uuid/1435d750-95d0-4ad2-86df-5a12a9145183/cover?territory=IT&md5ChecksumParam=60135fff73841a9bcab0a571ff4e9537",
+      "start_time": "2026-01-31 06:55:00",
+      "end_time": "2026-01-31 07:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "TG24 Preview."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 07:00:00",
+      "end_time": "2026-01-31 07:20:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "Sky Meteo24",
+      "show_logo": "https://guidatv.sky.it/uuid/2a13b983-3936-4e0d-a17d-b64d011abb5b/cover?territory=IT&md5ChecksumParam=685a0e80c6625ee1377143be65dc8e25",
+      "start_time": "2026-01-31 07:20:00",
+      "end_time": "2026-01-31 07:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali."
+    },
+    {
+      "show_name": "TG24 Pagine",
+      "show_logo": "https://guidatv.sky.it/uuid/2cf17e23-fc9b-497b-ba0f-46cdca4aaa5c/COVER_TITLE_TALL?territory=IT&version=eb117ca3-4fd5-3df6-85c6-817f394f3675&w=600&h=800&md5ChecksumParam=41dceeabb68adcd313c53b111e7f3641",
+      "start_time": "2026-01-31 07:30:00",
+      "end_time": "2026-01-31 08:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "I quotidiani italiani e stranieri, i siti e i social nella rassegna di Sky TG24. Disponibile anche sul sito e su tutte le piattaforme."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 08:00:00",
+      "end_time": "2026-01-31 08:20:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "Sky Meteo24",
+      "show_logo": "https://guidatv.sky.it/uuid/2a13b983-3936-4e0d-a17d-b64d011abb5b/cover?territory=IT&md5ChecksumParam=685a0e80c6625ee1377143be65dc8e25",
+      "start_time": "2026-01-31 08:20:00",
+      "end_time": "2026-01-31 08:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali."
+    },
+    {
+      "show_name": "TG24 Pagine",
+      "show_logo": "https://guidatv.sky.it/uuid/2cf17e23-fc9b-497b-ba0f-46cdca4aaa5c/COVER_TITLE_TALL?territory=IT&version=eb117ca3-4fd5-3df6-85c6-817f394f3675&w=600&h=800&md5ChecksumParam=41dceeabb68adcd313c53b111e7f3641",
+      "start_time": "2026-01-31 08:30:00",
+      "end_time": "2026-01-31 09:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "I quotidiani italiani e stranieri, i siti e i social nella rassegna di Sky TG24. Disponibile anche sul sito e su tutte le piattaforme."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 09:00:00",
+      "end_time": "2026-01-31 09:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "TG24 Pagine",
+      "show_logo": "https://guidatv.sky.it/uuid/2cf17e23-fc9b-497b-ba0f-46cdca4aaa5c/COVER_TITLE_TALL?territory=IT&version=eb117ca3-4fd5-3df6-85c6-817f394f3675&w=600&h=800&md5ChecksumParam=41dceeabb68adcd313c53b111e7f3641",
+      "start_time": "2026-01-31 09:30:00",
+      "end_time": "2026-01-31 10:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "I quotidiani italiani e stranieri, i siti e i social nella rassegna di Sky TG24. Disponibile anche sul sito e su tutte le piattaforme."
+    },
+    {
+      "show_name": "TG24 Agenda",
+      "show_logo": "https://guidatv.sky.it/uuid/e4e28d82-7c29-4630-97c6-85e1423a052c/cover?territory=IT&md5ChecksumParam=9e4fc88401323a5d85a47b32aa33356f",
+      "start_time": "2026-01-31 10:00:00",
+      "end_time": "2026-01-31 10:30:00",
+      "episode_number": "",
+      "show_category": "Altro",
+      "show_description": "La settimana che sta per cominciare, letta in anteprima per raccontare il contesto, le notizie e i dibattiti al centro della settimana. Conduce Lavinia Spingardi."
+    },
+    {
+      "show_name": "TG24 Agenda",
+      "show_logo": "https://guidatv.sky.it/uuid/e4e28d82-7c29-4630-97c6-85e1423a052c/cover?territory=IT&md5ChecksumParam=9e4fc88401323a5d85a47b32aa33356f",
+      "start_time": "2026-01-31 10:30:00",
+      "end_time": "2026-01-31 11:00:00",
+      "episode_number": "",
+      "show_category": "Altro",
+      "show_description": "La settimana che sta per cominciare, letta in anteprima per raccontare il contesto, le notizie e i dibattiti al centro della settimana. Conduce Lavinia Spingardi."
+    },
+    {
+      "show_name": "TG24 Agenda",
+      "show_logo": "https://guidatv.sky.it/uuid/e4e28d82-7c29-4630-97c6-85e1423a052c/cover?territory=IT&md5ChecksumParam=9e4fc88401323a5d85a47b32aa33356f",
+      "start_time": "2026-01-31 11:00:00",
+      "end_time": "2026-01-31 11:30:00",
+      "episode_number": "",
+      "show_category": "Altro",
+      "show_description": "La settimana che sta per cominciare, letta in anteprima per raccontare il contesto, le notizie e i dibattiti al centro della settimana. Conduce Lavinia Spingardi."
+    },
+    {
+      "show_name": "TG24 Agenda",
+      "show_logo": "https://guidatv.sky.it/uuid/e4e28d82-7c29-4630-97c6-85e1423a052c/cover?territory=IT&md5ChecksumParam=9e4fc88401323a5d85a47b32aa33356f",
+      "start_time": "2026-01-31 11:30:00",
+      "end_time": "2026-01-31 12:00:00",
+      "episode_number": "",
+      "show_category": "Altro",
+      "show_description": "La settimana che sta per cominciare, letta in anteprima per raccontare il contesto, le notizie e i dibattiti al centro della settimana. Conduce Lavinia Spingardi."
+    },
+    {
+      "show_name": "Il TG di Mezzogiorno",
+      "show_logo": "https://guidatv.sky.it/uuid/65a502a6-c03f-4a15-b260-4442210fafa6/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 12:00:00",
+      "end_time": "2026-01-31 12:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. La domanda del giorno, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 12:30:00",
+      "end_time": "2026-01-31 12:55:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "TG24 Preview",
+      "show_logo": "https://guidatv.sky.it/uuid/1435d750-95d0-4ad2-86df-5a12a9145183/cover?territory=IT&md5ChecksumParam=60135fff73841a9bcab0a571ff4e9537",
+      "start_time": "2026-01-31 12:55:00",
+      "end_time": "2026-01-31 13:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "TG24 Preview."
+    },
+    {
+      "show_name": "Ore 13",
+      "show_logo": "https://guidatv.sky.it/uuid/72025f36-48ae-4177-9000-b60681dc9aff/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 13:00:00",
+      "end_time": "2026-01-31 13:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. Le notizie della giornata raccontate con collegamenti live e approfondimenti. Con una finestra aperta su quello che funziona e su quello che non funziona nel nostro Paese. E, sempre, il fatto principale del giorno analizzato e commentato da un esperto."
+    },
+    {
+      "show_name": "Ore 13",
+      "show_logo": "https://guidatv.sky.it/uuid/72025f36-48ae-4177-9000-b60681dc9aff/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 13:30:00",
+      "end_time": "2026-01-31 13:50:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. Le notizie della giornata raccontate con collegamenti live e approfondimenti. Con una finestra aperta su quello che funziona e su quello che non funziona nel nostro Paese. E, sempre, il fatto principale del giorno analizzato e commentato da un esperto."
+    },
+    {
+      "show_name": "Extra Time",
+      "show_logo": "https://guidatv.sky.it/uuid/1fbba515-6652-474a-93db-53c0cc2d631f/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 13:50:00",
+      "end_time": "2026-01-31 14:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 14:00:00",
+      "end_time": "2026-01-31 14:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 14:30:00",
+      "end_time": "2026-01-31 15:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "Drive Club",
+      "show_logo": "https://guidatv.sky.it/uuid/55e0d022-3e0b-4ed6-aff4-1b48f842a703/COVER_TITLE_TALL?territory=IT&version=ec3c0700-a3d0-325d-8ed6-4286a45fec10&w=600&h=800&md5ChecksumParam=723e671088dfb3a43e1feb1232ed16f7",
+      "start_time": "2026-01-31 15:30:00",
+      "end_time": "2026-01-31 15:40:00",
+      "episode_number": "S7 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La rubrica di Sky TG24 dedicata alla mobilità. Si parla di prove su strada, sostenibilità, con interviste ai manager del mondo dell'automobile e spazio alle supercar che fanno sognare."
+    },
+    {
+      "show_name": "Incipit",
+      "show_logo": "https://guidatv.sky.it/uuid/de70dd71-59ee-408c-8395-be225aedc460/cover?territory=IT&md5ChecksumParam=e3dc245cddf8ae115c474eab7ff4bebb",
+      "start_time": "2026-01-31 15:40:00",
+      "end_time": "2026-01-31 16:00:00",
+      "episode_number": "S6 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il giornalista è tornato in libreria con un romanzo ambientato a Cabiaglio e con protagonisti sette ragazzi che si troveranno su fronti opposti durante la seconda guerra mondiale."
+    },
+    {
+      "show_name": "Sky TG25",
+      "show_logo": "https://guidatv.sky.it/uuid/524fc8ee-6484-4126-997b-c934f35fc363/COVER_TITLE_TALL?territory=IT&version=defea74c-8c5e-3263-9890-71022afd6438&w=600&h=800&md5ChecksumParam=803e87d8d88c3e435de8834107c9297a",
+      "start_time": "2026-01-31 16:00:00",
+      "end_time": "2026-01-31 16:45:00",
+      "episode_number": "S3 E5",
+      "show_category": "Informazione",
+      "show_description": "Uno spazio per approfondire la stretta attualità e per raccontare i fatti sfuggiti dai radar, con ospiti in studio e sevizi dedicati. Ogni sabato alle h 16."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 16:45:00",
+      "end_time": "2026-01-31 16:50:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "Sky Meteo24",
+      "show_logo": "https://guidatv.sky.it/uuid/2a13b983-3936-4e0d-a17d-b64d011abb5b/cover?territory=IT&md5ChecksumParam=685a0e80c6625ee1377143be65dc8e25",
+      "start_time": "2026-01-31 16:50:00",
+      "end_time": "2026-01-31 17:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 17:00:00",
+      "end_time": "2026-01-31 17:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 17:30:00",
+      "end_time": "2026-01-31 18:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 18:00:00",
+      "end_time": "2026-01-31 18:10:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "Countdown - Dallo spazio alla Terra",
+      "show_logo": "https://guidatv.sky.it/uuid/2e32e2cb-abfd-43bf-9ffb-58254f8d251f/cover?territory=IT&md5ChecksumParam=27e7588811940379959ca6921f014520",
+      "start_time": "2026-01-31 18:10:00",
+      "end_time": "2026-01-31 18:30:00",
+      "episode_number": "S4 E2",
+      "show_category": "Altri Programmi",
+      "show_description": "Countdown: Dallo spazio alla Terra."
+    },
+    {
+      "show_name": "TG24 Progress",
+      "show_logo": "https://guidatv.sky.it/uuid/58c27262-fffd-415c-ae87-f8a26f135f87/cover?territory=IT&md5ChecksumParam=6f9aee16aef1d508429d154c9ccc53e3",
+      "start_time": "2026-01-31 18:30:00",
+      "end_time": "2026-01-31 18:55:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "L'attualita' e i temi piu' interessanti del dibattito pubblico globale, interpretati con il filtro dell'innovazione, cosa sta cambiando e come cambiera' ancora il nostro modo di vivere. Conduce  Alberto Giuffre'."
+    },
+    {
+      "show_name": "TG24 Preview",
+      "show_logo": "https://guidatv.sky.it/uuid/1435d750-95d0-4ad2-86df-5a12a9145183/cover?territory=IT&md5ChecksumParam=60135fff73841a9bcab0a571ff4e9537",
+      "start_time": "2026-01-31 18:55:00",
+      "end_time": "2026-01-31 19:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "TG24 Preview."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 19:00:00",
+      "end_time": "2026-01-31 19:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 19:30:00",
+      "end_time": "2026-01-31 19:55:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "TG24 Preview",
+      "show_logo": "https://guidatv.sky.it/uuid/1435d750-95d0-4ad2-86df-5a12a9145183/cover?territory=IT&md5ChecksumParam=60135fff73841a9bcab0a571ff4e9537",
+      "start_time": "2026-01-31 19:55:00",
+      "end_time": "2026-01-31 20:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "TG24 Preview."
+    },
+    {
+      "show_name": "Ore 20",
+      "show_logo": "https://guidatv.sky.it/uuid/49fecad2-0545-424d-a0d4-e97561f7a103/cover?territory=IT&md5ChecksumParam=f2da0aa6ca6033fdc991f8bdcb77ad60",
+      "start_time": "2026-01-31 20:00:00",
+      "end_time": "2026-01-31 20:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. Le notizie dall'Italia e dal mondo con collegamenti live, approfondimenti e analisi. Interviste e inchieste esclusive, i principali fatti del giorno aggiornati in tempo reale."
+    },
+    {
+      "show_name": "Ore 20",
+      "show_logo": "https://guidatv.sky.it/uuid/49fecad2-0545-424d-a0d4-e97561f7a103/cover?territory=IT&md5ChecksumParam=f2da0aa6ca6033fdc991f8bdcb77ad60",
+      "start_time": "2026-01-31 20:30:00",
+      "end_time": "2026-01-31 20:50:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. Le notizie dall'Italia e dal mondo con collegamenti live, approfondimenti e analisi. Interviste e inchieste esclusive, i principali fatti del giorno aggiornati in tempo reale."
+    },
+    {
+      "show_name": "Extra Time",
+      "show_logo": "https://guidatv.sky.it/uuid/1fbba515-6652-474a-93db-53c0cc2d631f/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 20:50:00",
+      "end_time": "2026-01-31 21:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale."
+    },
+    {
+      "show_name": "Made in Italy",
+      "show_logo": "https://guidatv.sky.it/uuid/9d68fccc-4296-44ed-bad5-8b9a96fad2b1/COVER_TITLE_TALL?territory=IT&version=a6a9a07f-4435-374e-8ca5-19bb0e616cf4&w=600&h=800&md5ChecksumParam=1e757659b9b7b0a04f2d709c101e0cf0",
+      "start_time": "2026-01-31 21:00:00",
+      "end_time": "2026-01-31 21:30:00",
+      "episode_number": "S3 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Donnafugata - Creativita', innovazione, imprenditorialita', stile, eleganza, ricerca: un viaggio alla scoperta delle eccellenze italiane e dei suoi protagonisti."
+    },
+    {
+      "show_name": "Echo: Quello che rimane",
+      "show_logo": "https://guidatv.sky.it/uuid/7e0a2028-2664-4c02-9ce1-fd6bcb5343bd/COVER_TITLE_TALL?territory=IT&version=61f6cf37-4438-3dbc-bebc-537260e97c7d&w=600&h=800&md5ChecksumParam=4fc1d822ae99332ebf23a7f73c0a5a9a",
+      "start_time": "2026-01-31 21:30:00",
+      "end_time": "2026-01-31 22:00:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Si indaga su ciò che resta delle persone dopo la loro scomparsa. Un racconto selettivo e profondo delle tracce lasciate nel presente, tra memorie, parole, opere e risonanze emotive."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 22:00:00",
+      "end_time": "2026-01-31 22:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 22:30:00",
+      "end_time": "2026-01-31 22:55:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "TG24 Preview",
+      "show_logo": "https://guidatv.sky.it/uuid/1435d750-95d0-4ad2-86df-5a12a9145183/cover?territory=IT&md5ChecksumParam=60135fff73841a9bcab0a571ff4e9537",
+      "start_time": "2026-01-31 22:55:00",
+      "end_time": "2026-01-31 23:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "TG24 Preview."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 23:00:00",
+      "end_time": "2026-01-31 23:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "TG24 mezz'ora",
+      "show_logo": "https://guidatv.sky.it/uuid/f931cf17-7135-4dce-a3e8-ce21b9697d83/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-01-31 23:30:00",
+      "end_time": "2026-01-31 23:50:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
+    },
+    {
+      "show_name": "Sky Meteo24",
+      "show_logo": "https://guidatv.sky.it/uuid/2a13b983-3936-4e0d-a17d-b64d011abb5b/cover?territory=IT&md5ChecksumParam=685a0e80c6625ee1377143be65dc8e25",
+      "start_time": "2026-01-31 23:50:00",
+      "end_time": "2026-02-01 00:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali."
+    }
+  ]
+}
