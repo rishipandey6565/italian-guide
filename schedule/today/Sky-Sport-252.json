@@ -1,33 +1,42 @@
 {
   "channel_name": "Sky Sport  252",
-  "date": "2026-01-31",
+  "date": "2026-02-01",
   "programs": [
-    {
-      "show_name": "Guidonia Montecelio - Arezzo",
-      "show_logo": "https://guidatv.sky.it/uuid/3cb74d97-f1ab-4487-b58c-eb370a781448/cover?territory=IT&md5ChecksumParam=8aae6c854d3dda1b4488278efe41e2f5",
-      "start_time": "2026-01-31 00:00:00",
-      "end_time": "2026-01-31 14:00:00",
-      "episode_number": "S2025 E241",
-      "show_category": "Sport",
-      "show_description": "Tutte le partite del campionato di Serie C italiano."
-    },
-    {
-      "show_name": "Trento - Lecco - Stag. 2026 Ep. 250",
-      "show_logo": "https://guidatv.sky.it/uuid/f07966da-c827-4420-9533-10e12457885d/cover?territory=IT&md5ChecksumParam=2bd19c2e487a8e07a765ac20a66019c4",
-      "start_time": "2026-01-31 14:00:00",
-      "end_time": "2026-01-31 17:25:00",
-      "episode_number": "S2025 E250",
-      "show_category": "Sport",
-      "show_description": "Tutte le partite del campionato di Serie C italiano."
-    },
     {
       "show_name": "Carpi - Sambenedettese",
       "show_logo": "https://guidatv.sky.it/uuid/6ccc71d4-cce4-428e-86a4-a769ae1ceeec/cover?territory=IT&md5ChecksumParam=9b7cf8b38f85aeefd888b429b1baab25",
-      "start_time": "2026-01-31 17:25:00",
+      "start_time": "2026-02-01 00:00:00",
       "end_time": "2026-02-01 14:00:00",
       "episode_number": "S2025 E240",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Cabassi di Carpi, Italia."
+    },
+    {
+      "show_name": "Juventus Next Gen - Pineto - Stag. 2026 Ep. 242 - Juventus Next Gen - Pineto",
+      "show_logo": "https://guidatv.sky.it/uuid/fef0ca13-46f9-4d14-a3c0-c00133bd6648/cover?territory=IT&md5ChecksumParam=35bba18a19b86e539a5cb1bf847f4134",
+      "start_time": "2026-02-01 14:00:00",
+      "end_time": "2026-02-01 17:25:00",
+      "episode_number": "S2025 E242",
+      "show_category": "Sport",
+      "show_description": "Tutte le partite del campionato di Serie C italiano."
+    },
+    {
+      "show_name": "Cosenza - Casertana",
+      "show_logo": "https://guidatv.sky.it/uuid/e22ea6a5-7352-433a-996f-b301faaf408a/cover?territory=IT&md5ChecksumParam=dd94c05e057df637c687e0bb38b1f4bd",
+      "start_time": "2026-02-01 17:25:00",
+      "end_time": "2026-02-01 20:25:00",
+      "episode_number": "S2025 E244",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio San Vito-Gigi Marulla di Cosenza, Italia."
+    },
+    {
+      "show_name": "Calcio Campionato Italiano Serie C - Ep. 247 - Calcio Serie C 24ga Girone C Salernitana/ Giugliano 01/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/8137295a-907c-45c5-8c64-c964df249ea3/cover?territory=IT&md5ChecksumParam=22addab280de915f25fcebb56a181355",
+      "start_time": "2026-02-01 20:25:00",
+      "end_time": "2026-02-02 20:00:00",
+      "episode_number": "S2025 E247",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Arechi di Salerno, Italia."
     }
   ]
 }

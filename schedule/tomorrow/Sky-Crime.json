@@ -1,231 +1,249 @@
 {
   "channel_name": "Sky Crime",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "programs": [
-    {
-      "show_name": "La banda della Magliana - La...",
-      "show_logo": "https://guidatv.sky.it/uuid/d7a23b12-7591-492a-8fea-786636a144b5/cover?cgid=282&territory=IT&md5ChecksumParam=ae619055a98d298ff0aeb08135d49688.it",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:55:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gli anni '80 sono segnati dall'espansione affaristica della Banda."
-    },
-    {
-      "show_name": "Il castratore",
-      "show_logo": "https://guidatv.sky.it/uuid/af6317e3-0a60-46fd-983a-23e6f3b921f0/cover?cgid=282&territory=IT&md5ChecksumParam=bc04cd07b0776d4aaf47e1df9165e325.it",
-      "start_time": "2026-02-01 00:55:00",
-      "end_time": "2026-02-01 01:40:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il giornalista Marcel Theroux indaga la scioccante vicenda di Marius Gustavson, accusato di aver guidato un gruppo responsabile di castrazioni volontarie trasmesse in streaming."
-    },
-    {
-      "show_name": "Fantasma - Il caso Unabomber",
-      "show_logo": "https://guidatv.sky.it/uuid/d28aea2e-1d0f-404a-867b-7dbe452fc840/COVER_TITLE_TALL?territory=IT&version=03f21010-128d-3e60-9779-13344b8c88f0&w=600&h=800&md5ChecksumParam=0d3c36182c55dc59f4b8479b145f538a",
-      "start_time": "2026-02-01 01:40:00",
-      "end_time": "2026-02-01 02:50:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Marco Maisano riapre il caso Unabomber: per anni ha terrorizzato il nord est italiano con bombe in oggetti comuni. Un sospetto emerge, ma qualcosa non torna e potrebbe non essere davvero lui il colpevole."
-    },
-    {
-      "show_name": "Fantasma - Il caso Unabomber",
-      "show_logo": "https://guidatv.sky.it/uuid/4c1f12d8-3aee-4863-8ba7-2129f8792740/COVER_TITLE_TALL?territory=IT&version=03f21010-128d-3e60-9779-13344b8c88f0&w=600&h=800&md5ChecksumParam=0d3c36182c55dc59f4b8479b145f538a",
-      "start_time": "2026-02-01 02:50:00",
-      "end_time": "2026-02-01 03:55:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Attraverso nuove testimonianze inedite, interviste alle vittime, si indaga nelle ombre di un'indagine controversa, mettendo in discussione le verità ufficiali e cercando risposte in una vicenda rimasta senza giustizia."
-    },
-    {
-      "show_name": "Fantasma - Il caso Unabomber",
-      "show_logo": "https://guidatv.sky.it/uuid/7bb3d8a7-4555-44b8-8c37-f5e0d3699fc0/COVER_TITLE_TALL?territory=IT&version=03f21010-128d-3e60-9779-13344b8c88f0&w=600&h=800&md5ChecksumParam=0d3c36182c55dc59f4b8479b145f538a",
-      "start_time": "2026-02-01 03:55:00",
-      "end_time": "2026-02-01 05:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Attraverso nuove testimonianze inedite, interviste alle vittime, si indaga nelle ombre di un'indagine controversa, mettendo in discussione le verità ufficiali e cercando risposte in una vicenda rimasta senza giustizia."
-    },
-    {
-      "show_name": "Online - Connessioni Pericolose",
-      "show_logo": "https://guidatv.sky.it/uuid/9021bdc1-f9d2-4963-a49e-fd7e4b808767/cover?territory=IT&md5ChecksumParam=c1907048b862ab6b82800d11a7393ec6",
-      "start_time": "2026-02-01 05:00:00",
-      "end_time": "2026-02-01 05:35:00",
-      "episode_number": "S2 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Elena e' direttore commerciale di una societa' di lavoro interinale. La sua tranquilla vita si trasforma in un incubo quando la donna risponde a un messaggio di un utente."
-    },
-    {
-      "show_name": "Online - Connessioni Pericolose",
-      "show_logo": "https://guidatv.sky.it/uuid/bf11e8cf-2da3-410d-85df-6829a319d63b/cover?territory=IT&md5ChecksumParam=c1907048b862ab6b82800d11a7393ec6",
-      "start_time": "2026-02-01 05:35:00",
-      "end_time": "2026-02-01 06:00:00",
-      "episode_number": "S2 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "'Bluewhale' e' la sfida social che incita gli adolescenti ad affrontare 50 prove in 50 giorni, fino al suicidio, tutto sistematicamente documentato. Il fenomeno ha origine in Russia."
-    },
-    {
-      "show_name": "Court Cam: processi in diretta",
-      "show_logo": "https://guidatv.sky.it/uuid/516d6b85-6582-4431-821d-4bda8f3b5266/cover?territory=IT&md5ChecksumParam=4175e722495169d4f669a3bb7be5de38",
-      "start_time": "2026-02-01 06:00:00",
-      "end_time": "2026-02-01 06:30:00",
-      "episode_number": "S3 E23",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un uomo finge di essere un poliziotto e semina il terrore, botte da orbi in tribunale, e un imputato in cerca di giustizia... e di un paio di pantaloni."
-    },
-    {
-      "show_name": "Court Cam: processi in diretta",
-      "show_logo": "https://guidatv.sky.it/uuid/516d6b85-6582-4431-821d-4bda8f3b5266/cover?territory=IT&md5ChecksumParam=4175e722495169d4f669a3bb7be5de38",
-      "start_time": "2026-02-01 06:30:00",
-      "end_time": "2026-02-01 06:55:00",
-      "episode_number": "S3 E38",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una vedova sconvolge tutti scusandosi con l'assassino di suo marito e un'irruzione in aula si tramuta in una caccia all'uomo."
-    },
-    {
-      "show_name": "Court Cam: processi in diretta",
-      "show_logo": "https://guidatv.sky.it/uuid/516d6b85-6582-4431-821d-4bda8f3b5266/cover?territory=IT&md5ChecksumParam=4175e722495169d4f669a3bb7be5de38",
-      "start_time": "2026-02-01 06:55:00",
-      "end_time": "2026-02-01 07:20:00",
-      "episode_number": "S3 E39",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un noto sicario si sfregia la faccia per inviare un messaggio, un assassino affronta la madre della sua vittima."
-    },
-    {
-      "show_name": "Court Cam: processi in diretta",
-      "show_logo": "https://guidatv.sky.it/uuid/516d6b85-6582-4431-821d-4bda8f3b5266/cover?territory=IT&md5ChecksumParam=4175e722495169d4f669a3bb7be5de38",
-      "start_time": "2026-02-01 07:20:00",
-      "end_time": "2026-02-01 07:45:00",
-      "episode_number": "S3 E40",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il Cowboy Nudo affronta momenti difficili in Florida e il corpo di sicurezza di un'aula deve contenere un imputato fuori controllo."
-    },
-    {
-      "show_name": "Serial Killers: Ted Bundy",
-      "show_logo": "https://guidatv.sky.it/uuid/b19e6e7c-198f-4388-a7f2-29f2c6fe4bd7/cover?territory=IT&md5ChecksumParam=3fda92e01282d9ff448b97fe722310e5",
-      "start_time": "2026-02-01 07:45:00",
-      "end_time": "2026-02-01 09:15:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Dietro il volto di uno studente, amico leale e padre di famiglia si nascondeva un serial killer che uccise piu' di 30 persone."
-    },
-    {
-      "show_name": "Profondo Nero Di Carlo Lucarelli",
-      "show_logo": "https://guidatv.sky.it/uuid/f1f4a549-76f7-475f-90a5-4d7122ae8bc8/cover?territory=IT&md5ChecksumParam=017903936de72ca61a9d163f74110166",
-      "start_time": "2026-02-01 09:15:00",
-      "end_time": "2026-02-01 10:10:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "In compagnia di Carlo Lucarelli, addentriamoci nei meandri piu' oscuri della mente criminale, scovando i segreti di queste persone. Tra l'ottobre 1977 e l'agosto 2000 Salvatore Avantaggiato commette due omicidi. Viene arrestato ma durante uno dei permessi uccide di nuovo..."
-    },
-    {
-      "show_name": "Online - Connessioni Pericolose",
-      "show_logo": "https://guidatv.sky.it/uuid/4cee3a7d-b641-4ca8-9bbe-cbfad54049ea/cover?territory=IT&md5ChecksumParam=c1907048b862ab6b82800d11a7393ec6",
-      "start_time": "2026-02-01 10:10:00",
-      "end_time": "2026-02-01 10:40:00",
-      "episode_number": "S2 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una sedicenne inizia una relazione sentimentale con un coetaneo e i due si scambiano immagini dei loro corpi nudi. Dopo qualche mese Emma viene a sapere che le foto sono state diffuse."
-    },
-    {
-      "show_name": "Il Furto Del Secolo",
-      "show_logo": "https://guidatv.sky.it/uuid/2a62182a-e1e0-4ed1-bf24-d57a16367529/cover?territory=IT&md5ChecksumParam=3860f7f7202be777889f1fe14ad2d9f6",
-      "start_time": "2026-02-01 10:40:00",
-      "end_time": "2026-02-01 12:15:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il Furto Del Secolo - 16 luglio 1999: Massimo Carminati e la sua banda saccheggiano alcune delle cassette di sicurezza di una banca. Ma i criminali non erano alla ricerca di soldi..."
-    },
-    {
-      "show_name": "Un avvertimento prima di iniziare - Stag. 1 Ep. 1 - Beatrice Fraschini",
-      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-02-01 12:15:00",
-      "end_time": "2026-02-01 13:25:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "...iniziare: Sopravvissuta a un tentato femminicidio. Pablo Trincia incontra Beatrice, sequestrata e brutalmente picchiata per 4 giorni dal suo fidanzato."
-    },
-    {
-      "show_name": "Marta - Il delitto della...",
-      "show_logo": "https://guidatv.sky.it/uuid/938a739f-45b0-430a-8f03-63045945ab00/cover?territory=IT&md5ChecksumParam=9be37e4a9013cfdf6787817421f2f82d",
-      "start_time": "2026-02-01 13:25:00",
-      "end_time": "2026-02-01 14:25:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "...Sapienza: La studentessa di giurisprudenza Marta Russo e' in coma per un colpo di arma da fuoco."
-    },
-    {
-      "show_name": "Marta - Il delitto della...",
-      "show_logo": "https://guidatv.sky.it/uuid/938a739f-45b0-430a-8f03-63045945ab00/cover?territory=IT&md5ChecksumParam=9be37e4a9013cfdf6787817421f2f82d",
-      "start_time": "2026-02-01 14:25:00",
-      "end_time": "2026-02-01 15:30:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "I principali sospettati sono due docenti, ma il lungo processo ha in serbo numerosi colpi di scena che lo trasformano in un accattivante spettacolo mediatico."
-    },
-    {
-      "show_name": "Achille Lauro: La crociera del terrore",
-      "show_logo": "https://guidatv.sky.it/uuid/0757809a-391d-4c7e-ac61-b97599a7c05b/COVER_TITLE_TALL?territory=IT&version=0047a927-7fae-3549-a6d1-9b3800c8cea8&w=600&h=800&md5ChecksumParam=472c0c72e803febde5ad0cb06d2da806",
-      "start_time": "2026-02-01 15:30:00",
-      "end_time": "2026-02-01 17:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Ottobre 1985. La nave da crociera Achille Lauro viene dirottata da un commando palestinese."
-    },
-    {
-      "show_name": "Il delitto di Giarre",
-      "show_logo": "https://guidatv.sky.it/uuid/746ef0ac-a1ff-498d-91cf-ea929650b3e4/cover?territory=IT&md5ChecksumParam=4c52f57b0d483f50c3a7f01e20d2e4cf",
-      "start_time": "2026-02-01 17:05:00",
-      "end_time": "2026-02-01 18:45:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nel 1980, Antonio Galatola, 15 anni, e Giorgio Giammona, 25, vengono ritrovati dopo due settimane, abbracciati, con dei colpi di pistola alla testa. Una tragedia divenne fondamentale nella storia del movimento di liberazione omosessuale italiano."
-    },
-    {
-      "show_name": "Delitti - Pamela Mastropietro",
-      "show_logo": "https://guidatv.sky.it/uuid/25068e39-e33f-41e4-b847-4b71f2be6bfd/cover?territory=IT&md5ChecksumParam=10d0e7330e96aafee362e535434376c8",
-      "start_time": "2026-02-01 18:45:00",
-      "end_time": "2026-02-01 19:35:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Ripercorriamo l'omicidio di Pamela Mastropietro, fatta a pezzi nel 2018. Un passante notò la presenza di due valigie abbandonate in un piccolo fossato, ritrovandoci all'interno i resti della ragazza."
-    },
-    {
-      "show_name": "Delitti - Pamela Mastropietro",
-      "show_logo": "https://guidatv.sky.it/uuid/25068e39-e33f-41e4-b847-4b71f2be6bfd/cover?territory=IT&md5ChecksumParam=10d0e7330e96aafee362e535434376c8",
-      "start_time": "2026-02-01 19:35:00",
-      "end_time": "2026-02-01 21:20:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Attraverso testimonianze inedite di familiari, concittadini e giornalisti, ripercorriamo il caso di Pamela Mastropietro. Grazie ad una videocamera di sorveglianza, viene arrestato un giovane nigeriano, Innocent Oseghale."
-    },
-    {
-      "show_name": "Il piccolo Lorys",
-      "show_logo": "https://guidatv.sky.it/uuid/5bbab8c7-4979-4f58-b603-7fd6829d31ab/cover?territory=IT&md5ChecksumParam=062cd7eeaaf3bc0aac83481d3adac4fa",
-      "start_time": "2026-02-01 21:20:00",
-      "end_time": "2026-02-01 22:50:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "29 novembre 2014: il corpo del piccolo Lorys viene rinvenuto in un piccolo paese del ragusano. Ripercorriamo una storia di dolore familiare, che ha sconvolto l'Italia e che, ad oggi, resta un caso controverso."
-    },
-    {
-      "show_name": "Bande criminali italiane",
-      "show_logo": "https://guidatv.sky.it/uuid/3636a8ce-cf4f-4d15-8cda-67bd1d6bcdc4/COVER_TITLE_TALL?territory=IT&version=f6818934-0e81-3c27-bf30-c751a10e0532&w=600&h=800&md5ChecksumParam=fc5f2972acc3e046341819f4476bf143",
-      "start_time": "2026-02-01 22:50:00",
-      "end_time": "2026-02-01 23:55:00",
-      "episode_number": "S1 E1",
-      "show_category": "Altro",
-      "show_description": "Nella Milano degli anni Settanta, Renato Vallanzasca organizza rapine e sequestri."
-    },
     {
       "show_name": "Bande criminali italiane",
       "show_logo": "https://guidatv.sky.it/uuid/402d289c-d392-4d77-9da3-d137c9a938c6/cover?territory=IT&md5ChecksumParam=139c3b90df42f4985246458ce893855b",
-      "start_time": "2026-02-01 23:55:00",
+      "start_time": "2026-02-02 00:00:00",
       "end_time": "2026-02-02 00:50:00",
       "episode_number": "S1 E3",
       "show_category": "Altro",
       "show_description": "Analisi delle bande italiane che hanno fatto la storia: fughe, lusso e violenze. Quattro storie di ribellione, fascino oscuro e disprezzo verso la società."
+    },
+    {
+      "show_name": "Bande criminali italiane",
+      "show_logo": "https://guidatv.sky.it/uuid/65ae0cc7-48e3-4962-a7ac-ab6e5ebbd3c2/cover?territory=IT&md5ChecksumParam=38a13c7e86b90ea86505623402df02d3",
+      "start_time": "2026-02-02 00:50:00",
+      "end_time": "2026-02-02 01:45:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Analisi delle bande italiane che hanno fatto la storia: fughe, lusso e violenze. Quattro storie di ribellione, fascino oscuro e disprezzo verso la società."
+    },
+    {
+      "show_name": "Il castratore",
+      "show_logo": "https://guidatv.sky.it/uuid/af6317e3-0a60-46fd-983a-23e6f3b921f0/cover?cgid=282&territory=IT&md5ChecksumParam=bc04cd07b0776d4aaf47e1df9165e325.it",
+      "start_time": "2026-02-02 01:45:00",
+      "end_time": "2026-02-02 04:05:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il giornalista Marcel Theroux indaga la scioccante vicenda di Marius Gustavson, accusato di aver guidato un gruppo responsabile di castrazioni volontarie trasmesse in streaming."
+    },
+    {
+      "show_name": "OJ Simpson: ultimo capitolo",
+      "show_logo": "https://guidatv.sky.it/uuid/156f70ed-056b-4e2c-893a-257a3473b32a/cover?territory=IT&md5ChecksumParam=4446e3ec8c40768ad6e4f683eb9d9709",
+      "start_time": "2026-02-02 04:05:00",
+      "end_time": "2026-02-02 05:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ripercorriamo la vicenda giudiziaria dell'ex campione di football e attore cinematografico O.J. Simpson, dall'arresto fino alla clamorosa assoluzione nel caso dell'omicidio della sua ex moglie e all'attuale semi libertà dopo i fatti di Las Vegas."
+    },
+    {
+      "show_name": "Online - Connessioni Pericolose",
+      "show_logo": "https://guidatv.sky.it/uuid/b20bd519-d280-4985-b303-cd67cdb1e884/cover?territory=IT&md5ChecksumParam=52c4f00ac070615c3d016d6504e3b2ca",
+      "start_time": "2026-02-02 05:30:00",
+      "end_time": "2026-02-02 06:00:00",
+      "episode_number": "S1 E8",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Quali sono i problemi legati alle informazioni pubblicate in rete attraverso i social media e i vari motori di ricerca? Quei video amatoriali in cui faceva sesso erano diventati \"virali\". Un'umiliazione che alla fine ha spinto Tiziana Cantone a togliersi la vita."
+    },
+    {
+      "show_name": "Online - Connessioni Pericolose",
+      "show_logo": "https://guidatv.sky.it/uuid/41961abd-5e13-4ca1-9450-0b2feb1ed004/cover?territory=IT&md5ChecksumParam=52c4f00ac070615c3d016d6504e3b2ca",
+      "start_time": "2026-02-02 06:00:00",
+      "end_time": "2026-02-02 06:35:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Noemi accetta una richiesta di amicizia su Facebook anche se quel \"Cristian\" lei non lo conosce. Sembra un ragazzo gentile. Ma dietro quel profilo si nasconde una trappola."
+    },
+    {
+      "show_name": "Celebrity Sex Tapes",
+      "show_logo": "https://guidatv.sky.it/uuid/e084ea27-fd89-46c0-ba74-b2a0bf157124/COVER_TITLE_TALL?territory=IT&version=8fbbcb2d-96c0-3c4d-8208-69b8b801b16e&w=600&h=800&md5ChecksumParam=9162fa8750435cacf533d19a94e44235",
+      "start_time": "2026-02-02 06:35:00",
+      "end_time": "2026-02-02 07:25:00",
+      "episode_number": "S1 E7",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una maxi violazione informatica scuote il mondo delle celebrita'."
+    },
+    {
+      "show_name": "Un avvertimento prima di iniziare - Stag. 1 Ep. 2 - Angelo Massaro",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-02 07:25:00",
+      "end_time": "2026-02-02 08:15:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "...iniziare: 21 anni di carcere da innocente. Pablo Trincia incontra Angelo Massaro, ingiustamente accusato di omicidio e condannato a 24 anni per un equivoco."
+    },
+    {
+      "show_name": "La Ragazza dei Parioli",
+      "show_logo": "https://guidatv.sky.it/uuid/e5830f52-a6b9-4279-9610-d31285ea4065/COVER_TITLE_TALL?territory=IT&version=dd96a4ac-4457-3e0f-8b90-253c80b23262&w=600&h=800&md5ChecksumParam=a7d0313c91abd1e4d1716c278ebc5417",
+      "start_time": "2026-02-02 08:15:00",
+      "end_time": "2026-02-02 09:10:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La storia di Marianna, introdotta quattordicenne alla prostituzione minorile in un quartiere borghese di Roma. Tutto comincia per gioco, ma diventa presto un dramma che sconvolge Roma e l'Italia."
+    },
+    {
+      "show_name": "La Ragazza dei Parioli",
+      "show_logo": "https://guidatv.sky.it/uuid/6e6af031-265e-452d-aeaf-9fa14e1916f2/COVER_TITLE_TALL?territory=IT&version=dd96a4ac-4457-3e0f-8b90-253c80b23262&w=600&h=800&md5ChecksumParam=a7d0313c91abd1e4d1716c278ebc5417",
+      "start_time": "2026-02-02 09:10:00",
+      "end_time": "2026-02-02 10:05:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La storia di Marianna, introdotta quattordicenne alla prostituzione minorile in un quartiere borghese di Roma. Tutto comincia per gioco, ma diventa presto un dramma che sconvolge Roma e l'Italia."
+    },
+    {
+      "show_name": "La macchina della verita'",
+      "show_logo": "https://guidatv.sky.it/uuid/57c9dcf0-4295-4f52-9d6f-3f280185d611/cover?cgid=282&territory=IT&md5ChecksumParam=8b099c4f8e3513891a20669fb52efd4a.it",
+      "start_time": "2026-02-02 10:05:00",
+      "end_time": "2026-02-02 11:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Anni dopo la tragica morte del celebre attore Gary Coleman, star della serie ''Il mio amico Arnold'', la sua ex moglie accetta il test della macchina della verita."
+    },
+    {
+      "show_name": "Blood detectives - Legami...",
+      "show_logo": "https://guidatv.sky.it/uuid/839e1552-0ca2-42c1-9463-5c8540b855c1/cover?territory=IT&md5ChecksumParam=4445685225dbf3df6f07cfff24aa5d83",
+      "start_time": "2026-02-02 11:30:00",
+      "end_time": "2026-02-02 12:20:00",
+      "episode_number": "S3 E19",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "6 marzo 1959. Candy Rogers, una bambina di 9 anni, esce di casa per andare a vendere biscotti a Spokane, Washington. Non fara' mai ritorno."
+    },
+    {
+      "show_name": "Blood detectives - Legami...",
+      "show_logo": "https://guidatv.sky.it/uuid/839e1552-0ca2-42c1-9463-5c8540b855c1/cover?territory=IT&md5ChecksumParam=4445685225dbf3df6f07cfff24aa5d83",
+      "start_time": "2026-02-02 12:20:00",
+      "end_time": "2026-02-02 13:10:00",
+      "episode_number": "S3 E20",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "9 ottobre 1980, Santee, San Diego. I vicini di casa di Michelle Wyatt, giovane studentessa di 20 anni, la sentono urlare dal suo appartamento."
+    },
+    {
+      "show_name": "Digital forensic: sulle ...",
+      "show_logo": "https://guidatv.sky.it/uuid/e9e8c964-5b7d-4166-98c5-d14b82bee104/cover?territory=IT&md5ChecksumParam=31736e171822453dc72dc34fded0ae55",
+      "start_time": "2026-02-02 13:10:00",
+      "end_time": "2026-02-02 14:00:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Tramite strumenti digitali le forze dell'ordine riescono a smentire l'alibi di una delle ultime persone che ha visto viva una jogger 24enne."
+    },
+    {
+      "show_name": "Digital forensic: sulle ...",
+      "show_logo": "https://guidatv.sky.it/uuid/e9e8c964-5b7d-4166-98c5-d14b82bee104/cover?territory=IT&md5ChecksumParam=31736e171822453dc72dc34fded0ae55",
+      "start_time": "2026-02-02 14:00:00",
+      "end_time": "2026-02-02 14:50:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "I detective di Aurora, in Colorado, raccolgono informazioni cruciali su un doppio omicidio dai filmati di videosorveglianza."
+    },
+    {
+      "show_name": "Le prigioni oscure",
+      "show_logo": "https://guidatv.sky.it/uuid/f6a167be-df93-400d-a3fd-3a88c4db0b77/cover?cgid=282&territory=IT&md5ChecksumParam=8396cfae33144ae12ea3f7951a6e68bb.it",
+      "start_time": "2026-02-02 14:50:00",
+      "end_time": "2026-02-02 15:20:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "ADX Florence: una prigione per terroristi e serial killer, dove nessuno vedra' piu' la luce del sole."
+    },
+    {
+      "show_name": "Le prigioni oscure",
+      "show_logo": "https://guidatv.sky.it/uuid/f6a167be-df93-400d-a3fd-3a88c4db0b77/cover?cgid=282&territory=IT&md5ChecksumParam=8396cfae33144ae12ea3f7951a6e68bb.it",
+      "start_time": "2026-02-02 15:20:00",
+      "end_time": "2026-02-02 15:45:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Dietro le sbarre dell'isola piu' famosa del mondo, detenuti come Al Capone tentarono l'impossibile: fuggire dal gelo eterno del ''Rock''."
+    },
+    {
+      "show_name": "Le prigioni oscure",
+      "show_logo": "https://guidatv.sky.it/uuid/f6a167be-df93-400d-a3fd-3a88c4db0b77/cover?cgid=282&territory=IT&md5ChecksumParam=8396cfae33144ae12ea3f7951a6e68bb.it",
+      "start_time": "2026-02-02 15:45:00",
+      "end_time": "2026-02-02 16:10:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "John McCain fu rinchiuso alla Hanoi Hilton, sopravvissuto a torture che non spezzarono mai il suo spirito."
+    },
+    {
+      "show_name": "Mostri Senza Nome - Firenze",
+      "show_logo": "https://guidatv.sky.it/uuid/58175d33-cb55-4835-8eb5-7a3a3cb15204/cover?territory=IT&md5ChecksumParam=736d0646c86257cc582e06e0a9935d9a",
+      "start_time": "2026-02-02 16:10:00",
+      "end_time": "2026-02-02 17:00:00",
+      "episode_number": "S5 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il corpo di Gabriella Cartabellotta, 18enne dalla vita tranquilla e senza macchia, venne ritrovato una traversa di via Bolognese, in via della Concezione."
+    },
+    {
+      "show_name": "Cold Case - La verita' del...",
+      "show_logo": "https://guidatv.sky.it/uuid/6dc8c4a8-6d1f-4969-bd2b-2dc6270e3ebb/cover?territory=IT&md5ChecksumParam=fbc228d39b40f91cc22b7fc4b5c69695",
+      "start_time": "2026-02-02 17:00:00",
+      "end_time": "2026-02-02 17:50:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Atlanta, 1995: Nacole Smith, 14 anni, viene uccisa brutalmente. Serviranno decenni e un secondo tragico attacco per svelare finalmente il suo assassino."
+    },
+    {
+      "show_name": "Cold Case - La verita' del...",
+      "show_logo": "https://guidatv.sky.it/uuid/6dc8c4a8-6d1f-4969-bd2b-2dc6270e3ebb/cover?territory=IT&md5ChecksumParam=fbc228d39b40f91cc22b7fc4b5c69695",
+      "start_time": "2026-02-02 17:50:00",
+      "end_time": "2026-02-02 18:40:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Susan Woods viene trovata morta nella sua vasca. Il DNA guida gli investigatori sulle tracce di un killer-cowboy nascosto in piena vista."
+    },
+    {
+      "show_name": "Delitti a circuito chiuso",
+      "show_logo": "https://guidatv.sky.it/uuid/9d728366-beb0-46ed-bd38-f5fba76380f5/cover?territory=IT&md5ChecksumParam=afabd9b1488b1c8392578cf5a995db71",
+      "start_time": "2026-02-02 18:40:00",
+      "end_time": "2026-02-02 19:30:00",
+      "episode_number": "S10 E16",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La polizia di Portland analizza i filmati di sorveglianza per trovare l'assassino del senzatetto. Le immagini lo collegano a un'altra aggressione avvenuta."
+    },
+    {
+      "show_name": "Delitti",
+      "show_logo": "https://guidatv.sky.it/uuid/0cb05b9c-ef97-40dc-8cd2-9672fa261c4e/cover?territory=IT&md5ChecksumParam=8826c95da5e59f11289253241e99ebe8",
+      "start_time": "2026-02-02 19:30:00",
+      "end_time": "2026-02-02 20:40:00",
+      "episode_number": "S5 E8",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Anna Maria trova il corpo straziato di suo figlio Samuele. Le indagini rivelano il piu' tragico dei sospetti. Inizia uno dei casi piu' discussi degli ultimi anni."
+    },
+    {
+      "show_name": "I piu' spietati Serial Killer",
+      "show_logo": "https://guidatv.sky.it/uuid/d2b95089-59bc-4a70-a5a7-d2d83a726fc4/cover?territory=IT&md5ChecksumParam=3397000cddeb6a4f8d5e1b46ea9d6174",
+      "start_time": "2026-02-02 20:40:00",
+      "end_time": "2026-02-02 22:05:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ombre, delitti e orrore: un viaggio inquietante nelle vicende di alcuni tra i piu' spietati serial killer della storia."
+    },
+    {
+      "show_name": "Celebrity Sex Tapes",
+      "show_logo": "https://guidatv.sky.it/uuid/cb4e8289-baea-48c1-b767-3c7c7f94bea7/cover?cgid=282&territory=IT&md5ChecksumParam=b0381c2d1c524b457705c2de86f144a4.it",
+      "start_time": "2026-02-02 22:05:00",
+      "end_time": "2026-02-02 22:55:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La star dei reality Mimi Faust racconta i retroscena del suo sex tape, tra i piu' venduti e discussi di sempre."
+    },
+    {
+      "show_name": "Celebrity Sex Tapes",
+      "show_logo": "https://guidatv.sky.it/uuid/e084ea27-fd89-46c0-ba74-b2a0bf157124/COVER_TITLE_TALL?territory=IT&version=8fbbcb2d-96c0-3c4d-8208-69b8b801b16e&w=600&h=800&md5ChecksumParam=9162fa8750435cacf533d19a94e44235",
+      "start_time": "2026-02-02 22:55:00",
+      "end_time": "2026-02-02 23:45:00",
+      "episode_number": "S1 E7",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una maxi violazione informatica scuote il mondo delle celebrita'."
+    },
+    {
+      "show_name": "Murder Suspect",
+      "show_logo": "https://guidatv.sky.it/uuid/3409e90c-2570-4df0-8c0a-a511029fe42f/cover?cgid=282&territory=IT&md5ChecksumParam=13478e70ab35274d199c76bf5becdcee.it",
+      "start_time": "2026-02-02 23:45:00",
+      "end_time": "2026-02-03 01:00:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Parte 1 - Un uomo viene brutalmente picchiato in casa con un tirapugni e muore in ospedale."
     }
   ]
 }

@@ -1,237 +1,30 @@
 {
   "channel_name": "Gambero Rosso HD",
-  "date": "2026-01-31",
+  "date": "2026-02-01",
   "programs": [
-    {
-      "show_name": "Beker on Tour BBQ FVG Collio - Stag. 39 Ep. 5 - Sierra Salad",
-      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 00:00:00",
-      "end_time": "2026-01-31 00:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Fabrizio Nonis in viaggio nel Collio friulano immerso nelle tradizioni culinarie, artistiche e naturali di questo luogo. Prox Ep. 31 gen 05:25. Rep. 2 feb 11:30."
-    },
-    {
-      "show_name": "Parola di chef - Stag. 12 Ep. 6",
-      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 00:05:00",
-      "end_time": "2026-01-31 01:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una generazione di giovani chef si racconta in una serie tv: la passione, gli esordi, le difficolta' e le ricette che li caratterizzano. Prox Ep. 2 feb 12:00. Rep. 2 feb 06:00."
-    },
-    {
-      "show_name": "Mangio tutto tranne: Portogallo",
-      "show_logo": "https://guidatv.sky.it/uuid/edcbcd15-4998-4359-b8c1-ec3f55ffd348/cover?territory=IT&md5ChecksumParam=3e782c747282276f679fab2704b6e956",
-      "start_time": "2026-01-31 01:05:00",
-      "end_time": "2026-01-31 01:30:00",
-      "episode_number": "S2 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "In ogni puntata Giovanni Angelucci racconta peculiarita', abitudini alimentari e tradizioni di un paese del mondo."
-    },
-    {
-      "show_name": "Max sfida alle calorie winter edition - Stag. 5 Ep. 4 - Che fame in montagna",
-      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 01:30:00",
-      "end_time": "2026-01-31 02:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una zuppa calda a colazione? Certo, per Max tutto e' possibile, magari preparata la sera prima, per una colazione diversa anche in citta'. Prox Ep. 6 feb 07:30. Rep. 5 feb 07:30."
-    },
-    {
-      "show_name": "Giorgione: orto e cucina - Salento",
-      "show_logo": "https://guidatv.sky.it/uuid/d40e3113-d297-4851-9278-793a86c3fdb9/cover?territory=IT&md5ChecksumParam=db32420d7cea5ea92f98111cc6e56241",
-      "start_time": "2026-01-31 02:00:00",
-      "end_time": "2026-01-31 02:30:00",
-      "episode_number": "S1 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Giorgione tra le meraviglie del Barocco e dei prodotti del Salento. Nuove ricette da questa terra per gli appassionati della buona cucina 'laida e corrotta'."
-    },
-    {
-      "show_name": "Vito con i suoi",
-      "show_logo": "https://guidatv.sky.it/uuid/154bc725-12ab-44ef-bcc8-ece14ca23c71/cover?territory=IT&md5ChecksumParam=43aa5603a2cd2167557cb4809b014245",
-      "start_time": "2026-01-31 02:30:00",
-      "end_time": "2026-01-31 03:00:00",
-      "episode_number": "S2 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Stefano Bicocchi, in arte Vito, apre le porte di casa sua e ci fa entrare nella tradizione della cucina bolognese raccontandoci la sua citta', fatta di ricordi, profumi e sapori."
-    },
-    {
-      "show_name": "Giorgione a casa tua - Marche - Stag. 7 Ep. 4 - Erminio",
-      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 03:00:00",
-      "end_time": "2026-01-31 03:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Giorgione di nuovo in viaggio alla scoperta dei colori, profumi, sapori dei piatti e delle tradizioni del nostro Paese."
-    },
-    {
-      "show_name": "Giorgione dixit",
-      "show_logo": "https://guidatv.sky.it/uuid/9d100b69-23a9-468d-81f7-df68a4b92927/cover?territory=IT&md5ChecksumParam=912d505a95fbd83915aea21cdcbb5fbc",
-      "start_time": "2026-01-31 03:30:00",
-      "end_time": "2026-01-31 04:00:00",
-      "episode_number": "S1 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Le frasi più iconiche di Giorgione sono lo spunto per nuove ricette laide, corrotte e gustose."
-    },
-    {
-      "show_name": "Questa terra e' la mia terra:...",
-      "show_logo": "https://guidatv.sky.it/uuid/5f9cabb0-0e30-4d2c-bd8c-4ad2287d97b4/cover?territory=IT&md5ChecksumParam=47138c9b6ab5261a3565523f637dfebd",
-      "start_time": "2026-01-31 04:00:00",
-      "end_time": "2026-01-31 04:25:00",
-      "episode_number": "S7 E8",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Peppe Guida riesce a mettere in barattolo qualsiasi cosa, dalle marmellate ai pomodori, ai sughi pronti, al ragu'. Un mondo che accompagna da sempre la sua cucina."
-    },
-    {
-      "show_name": "AB...Cheese",
-      "show_logo": "https://guidatv.sky.it/uuid/6a6beaec-e149-47a0-8747-2842b077b197/cover?territory=IT&md5ChecksumParam=24eabfcd85d7f9cdaf4c1c345c240d99",
-      "start_time": "2026-01-31 04:25:00",
-      "end_time": "2026-01-31 04:55:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La food-writer Eleonora Baldwin ci accompagna alla scoperta del variegato universo caseario del nostro Paese in un gustosissimo viaggio che farà tappa in diverse regioni italiane. Territorio, artigianalità, cultura, tradizioni, sapori: queste le parole chiave del nostro intrigante itinerario nel mondo del formaggio, per scoprire, dal più conosciuto al meno noto, i migliori prodotti nazionali, ognuno ricco di storia e curiosità."
-    },
-    {
-      "show_name": "Parola di chef - Stag. 12 Ep. 5 - Andrea Magoni",
-      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 04:55:00",
-      "end_time": "2026-01-31 05:25:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una generazione di giovani chef si racconta in una serie tv: la passione, gli esordi, le difficolta' e le ricette che li caratterizzano. Prox Ep. 2 feb 06:00."
-    },
-    {
-      "show_name": "Beker on Tour BBQ FVG Collio - Stag. 39 Ep. 6 - Coppa di maiale ripiena",
-      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 05:25:00",
-      "end_time": "2026-01-31 05:55:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Fabrizio Nonis in viaggio nel Collio friulano immerso nelle tradizioni culinarie, artistiche e naturali di questo luogo. Prox ed ultimo Ep. 3 feb 17:30. Rep. 2 feb 17:30."
-    },
-    {
-      "show_name": "Km Italia pillole",
-      "show_logo": "https://guidatv.sky.it/uuid/721659cd-c25d-42ae-84f0-d3002e7d15f9/cover?territory=IT&md5ChecksumParam=c70b9fd812c2d8a7bebb2bb621d462be",
-      "start_time": "2026-01-31 05:55:00",
-      "end_time": "2026-01-31 06:00:00",
-      "episode_number": "S1 E16",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Brevi spunti culinari e gastronomici dal programma \"Km Italia\", che rappresenta un viaggio tra i prodotti piu' rappresentativi della nostra terra."
-    },
-    {
-      "show_name": "Le grandi cantine - Stag. 5 Ep. 1 - Zorzettig",
-      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 06:00:00",
-      "end_time": "2026-01-31 07:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un programma alla scoperta delle tradizioni delle piu' importanti famiglie vinicole italiane. Prox Ep. 31 gen 12:00. Rep. 31 gen 19:00."
-    },
-    {
-      "show_name": "I gioielli della biosfera - Stag. 1 Ep. 3",
-      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 07:00:00",
-      "end_time": "2026-01-31 07:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il viaggio di Giovanni Angelucci in Sardegna alla scoperta di una terra ricca, di cultura, di tradizioni, di uomini e di natura. Prox Ep. 31 gen 13:00. Rep. 31 gen 18:00."
-    },
-    {
-      "show_name": "Cosi' lontani cosi' vicini",
-      "show_logo": "https://guidatv.sky.it/uuid/e52a46cd-7bce-4c7e-b6dc-52593cfc20ab/cover?territory=IT&md5ChecksumParam=b3bc843d127ad4e6d407825b3e8748da",
-      "start_time": "2026-01-31 07:30:00",
-      "end_time": "2026-01-31 08:00:00",
-      "episode_number": "S1 E7",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Max e Mai, Italia e Giappone due cucine e due culture a confronto. Un incontro in cucina di sapori profumi  tra paesi solo geograficamente lontani."
-    },
-    {
-      "show_name": "L'alfabeto di Giorgione",
-      "show_logo": "https://guidatv.sky.it/uuid/d87f095e-899d-4277-be3d-09470c493cec/cover?territory=IT&md5ChecksumParam=aa0ccb48f3b87c924f63ae5d05a256a3",
-      "start_time": "2026-01-31 08:00:00",
-      "end_time": "2026-01-31 08:30:00",
-      "episode_number": "S4 E9",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Uccelletti scappati - Per ogni lettera una puntata: 'A' come Aglione, 'B' come Birra e via dicendo; ogni volta Giorgione raccontera', a modo suo, ogni cosa sull'ingrediente scelto. Prox ed ultimo Ep. 1 feb 08:00. Rep. 31 gen 14:00."
-    },
-    {
-      "show_name": "Invita Vito",
-      "show_logo": "https://guidatv.sky.it/uuid/99b2660e-dfd3-4a1a-913c-52607b93c689/cover?territory=IT&md5ChecksumParam=96460397d0a3805498af993499dc275a",
-      "start_time": "2026-01-31 08:30:00",
-      "end_time": "2026-01-31 09:00:00",
-      "episode_number": "S2 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il popolare comico si avventura in alta Val Nervia, per visitare gli amici e mangiare insieme."
-    },
-    {
-      "show_name": "Sciando tra i sapori",
-      "show_logo": "https://guidatv.sky.it/uuid/7e1d4c44-5ec5-4da2-b7c1-90832d4a7edf/cover?territory=IT&md5ChecksumParam=bded0d5dc60885a35f7945960f0fa0a1",
-      "start_time": "2026-01-31 09:00:00",
-      "end_time": "2026-01-31 09:30:00",
-      "episode_number": "S1 E9",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un viaggio con gli sci a piedi che percorre le più belle piste dei comprensori italiani, per poi entrare nelle cucine in quota e gustare le eccellenze del territorio."
-    },
-    {
-      "show_name": "Sciando tra i sapori",
-      "show_logo": "https://guidatv.sky.it/uuid/94edfc39-588e-47c5-8406-ee5126e33002/cover?territory=IT&md5ChecksumParam=bded0d5dc60885a35f7945960f0fa0a1",
-      "start_time": "2026-01-31 09:30:00",
-      "end_time": "2026-01-31 10:00:00",
-      "episode_number": "S1 E10",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Folgarida - Marilleva - La passione per lo sci incontra la cucina. Le eccellenze che si incontrano sci ai piedi. Prox Ep. 7 feb 09:30. Rep. 31 gen 15:30."
-    },
-    {
-      "show_name": "La pasta frolla",
-      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 10:00:00",
-      "end_time": "2026-01-31 10:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Stefano Laghi, Sebastiano Caridi e Luca Montersino: il mondo della pasticceria si incontra in cucina per dare vita a ricette di pasticceria dolce e salata. Prox Ep. 31 gen 16:00. Rep. 31 gen 22:00."
-    },
-    {
-      "show_name": "La strana coppia",
-      "show_logo": "https://guidatv.sky.it/uuid/8cc2a787-0871-4bc9-8bff-daf16878da30/cover?territory=IT&md5ChecksumParam=e76941ba53a829b2515f3be3914c4eb4",
-      "start_time": "2026-01-31 10:30:00",
-      "end_time": "2026-01-31 11:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La ricetta del cocktail preferito da Rossella O'Hara, il \"Mint Julep\", da sorseggiare con polpette all'arancia con crema di formaggio, seguite da pasta al nero di seppia con crema di peperoni arrostiti."
-    },
-    {
-      "show_name": "Uazz' America",
-      "show_logo": "https://guidatv.sky.it/uuid/044b3dad-c770-4373-bff2-9bc6c6143d38/cover?territory=IT&md5ChecksumParam=675d3b4b75b5401a1fea972e76fb2361",
-      "start_time": "2026-01-31 11:00:00",
-      "end_time": "2026-01-31 11:30:00",
-      "episode_number": "S1 E9",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nuovo programma condotto da Eleonora Baldwin che nel corso di dieci puntate ci guiderà alla ricerca degli antichi sapori della sua infanzia a stelle e strisce. Nata a Bennington, nello stato del Vermont, e cresciuta in una famiglia di cineasti, Eleonora do."
-    },
     {
       "show_name": "Benvenuti al sud",
       "show_logo": "https://guidatv.sky.it/uuid/a4546765-bee6-45b8-b3f7-ded6fb534e9e/cover?territory=IT&md5ChecksumParam=fc6ec2fda78a70221f9945919a8bffc5",
-      "start_time": "2026-01-31 11:30:00",
-      "end_time": "2026-01-31 12:00:00",
+      "start_time": "2026-02-01 00:00:00",
+      "end_time": "2026-02-01 00:00:00",
       "episode_number": "S1 E5",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Peppe Guida e Fabrizio Nonis: sud e nord si incontrano in cucina. I prodotti migliori della penisola sorrentina incontrano le eccellenze del sud Italia. Rep. 31 gen 17:30."
+      "show_description": "Peppe Guida e Fabrizio Nonis: sud e nord si incontrano in cucina. I prodotti migliori della penisola sorrentina incontrano le eccellenze del sud Italia. Rep. 1 feb 05:30."
     },
     {
       "show_name": "Le grandi cantine - Stag. 5 Ep. 2 - Formentini",
       "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 12:00:00",
-      "end_time": "2026-01-31 13:35:00",
+      "start_time": "2026-02-01 00:00:00",
+      "end_time": "2026-02-01 01:35:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Un programma alla scoperta delle tradizioni delle piu' importanti famiglie vinicole italiane. Prox Ep. 1 feb 12:00. Rep. 1 feb 0:00."
+      "show_description": "Un programma alla scoperta delle tradizioni delle piu' importanti famiglie vinicole italiane. Prox Ep. 1 feb 12:00. Rep. 1 feb 06:00."
     },
     {
       "show_name": "Cosi' lontani cosi' vicini",
       "show_logo": "https://guidatv.sky.it/uuid/855dff07-7689-4123-9043-96f4d83cc360/cover?territory=IT&md5ChecksumParam=b3bc843d127ad4e6d407825b3e8748da",
-      "start_time": "2026-01-31 13:35:00",
-      "end_time": "2026-01-31 14:00:00",
+      "start_time": "2026-02-01 01:35:00",
+      "end_time": "2026-02-01 02:00:00",
       "episode_number": "S1 E8",
       "show_category": "Mondo e Tendenze",
       "show_description": "Max e Mai, Italia e Giappone due cucine e due culture a confronto. Un incontro in cucina di sapori profumi  tra paesi solo geograficamente lontani."
@@ -239,44 +32,53 @@
     {
       "show_name": "L'alfabeto di Giorgione",
       "show_logo": "https://guidatv.sky.it/uuid/d87f095e-899d-4277-be3d-09470c493cec/cover?territory=IT&md5ChecksumParam=aa0ccb48f3b87c924f63ae5d05a256a3",
-      "start_time": "2026-01-31 14:00:00",
-      "end_time": "2026-01-31 14:30:00",
+      "start_time": "2026-02-01 02:00:00",
+      "end_time": "2026-02-01 02:30:00",
       "episode_number": "S4 E9",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Uccelletti scappati - Per ogni lettera una puntata: 'A' come Aglione, 'B' come Birra e via dicendo; ogni volta Giorgione raccontera', a modo suo, ogni cosa sull'ingrediente scelto. Prox ed ultimo Ep. 1 feb 08:00. Rep. 1 feb 02:00."
+      "show_description": "Uccelletti scappati - Per ogni lettera una puntata: 'A' come Aglione, 'B' come Birra e via dicendo; ogni volta Giorgione raccontera', a modo suo, ogni cosa sull'ingrediente scelto. Prox ed ultimo Ep. 1 feb 08:00."
     },
     {
       "show_name": "Invita Vito",
       "show_logo": "https://guidatv.sky.it/uuid/60dea3a5-a800-45f1-be94-4eb438f4692d/cover?territory=IT&md5ChecksumParam=96460397d0a3805498af993499dc275a",
-      "start_time": "2026-01-31 14:30:00",
-      "end_time": "2026-01-31 15:00:00",
+      "start_time": "2026-02-01 02:30:00",
+      "end_time": "2026-02-01 03:00:00",
       "episode_number": "S2 E3",
       "show_category": "Mondo e Tendenze",
       "show_description": "Il popolare comico si avventura nel borgo medievale, per visitare gli amici e mangiare insieme."
     },
     {
+      "show_name": "Sciando tra i sapori - Stag. 2 Ep. 1",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-01 03:00:00",
+      "end_time": "2026-02-01 03:10:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La passione per lo sci incontra la cucina. Le eccellenze che si incontrano sci ai piedi. Prox Ep. 1 feb 03:10. Rep. 7 feb 09:00."
+    },
+    {
+      "show_name": "Sciando tra i sapori - Stag. 2 Ep. 2",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-01 03:10:00",
+      "end_time": "2026-02-01 03:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La passione per lo sci incontra la cucina. Le eccellenze che si incontrano sci ai piedi. Prox Ep. 7 feb 21:00. Rep. 7 feb 09:15."
+    },
+    {
       "show_name": "Sciando tra i sapori",
       "show_logo": "https://guidatv.sky.it/uuid/7e1d4c44-5ec5-4da2-b7c1-90832d4a7edf/cover?territory=IT&md5ChecksumParam=bded0d5dc60885a35f7945960f0fa0a1",
-      "start_time": "2026-01-31 15:00:00",
-      "end_time": "2026-01-31 15:30:00",
+      "start_time": "2026-02-01 03:30:00",
+      "end_time": "2026-02-01 03:55:00",
       "episode_number": "S1 E9",
       "show_category": "Mondo e Tendenze",
       "show_description": "Un viaggio con gli sci a piedi che percorre le più belle piste dei comprensori italiani, per poi entrare nelle cucine in quota e gustare le eccellenze del territorio."
     },
     {
-      "show_name": "Sciando tra i sapori",
-      "show_logo": "https://guidatv.sky.it/uuid/94edfc39-588e-47c5-8406-ee5126e33002/cover?territory=IT&md5ChecksumParam=bded0d5dc60885a35f7945960f0fa0a1",
-      "start_time": "2026-01-31 15:30:00",
-      "end_time": "2026-01-31 16:00:00",
-      "episode_number": "S1 E10",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Folgarida - Marilleva - La passione per lo sci incontra la cucina. Le eccellenze che si incontrano sci ai piedi. Prox Ep. 7 feb 09:30."
-    },
-    {
       "show_name": "Il dolce sale",
       "show_logo": "https://guidatv.sky.it/uuid/22592c06-93c6-4a76-9c9f-0cd69009632e/cover?cgid=261&territory=IT&md5ChecksumParam=ce7a5f9e5f02c9ff64d3d1466ca4421f.it",
-      "start_time": "2026-01-31 16:00:00",
-      "end_time": "2026-01-31 16:30:00",
+      "start_time": "2026-02-01 03:55:00",
+      "end_time": "2026-02-01 04:30:00",
       "episode_number": "S1 E2",
       "show_category": "Mondo e Tendenze",
       "show_description": "Stefano Laghi, Sebastiano Caridi e Luca Montersino, un maestro e due allievi si incontrano per dare vita a ricette dolci e salate."
@@ -284,119 +86,281 @@
     {
       "show_name": "Uazz' America",
       "show_logo": "https://guidatv.sky.it/uuid/7440d959-d59a-4b95-9051-c02793949cc5/cover?territory=IT&md5ChecksumParam=675d3b4b75b5401a1fea972e76fb2361",
-      "start_time": "2026-01-31 16:30:00",
-      "end_time": "2026-01-31 17:00:00",
+      "start_time": "2026-02-01 04:30:00",
+      "end_time": "2026-02-01 04:50:00",
       "episode_number": "S1 E10",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nuovo programma condotto da Eleonora Baldwin che nel corso di dieci puntate ci guiderà alla ricerca degli antichi sapori della sua infanzia a stelle e strisce. Nata a Bennington, nello stato del Vermont, e cresciuta in una famiglia di cineasti, Eleonora do."
+    },
+    {
+      "show_name": "Ricette sostenibili",
+      "show_logo": "https://guidatv.sky.it/uuid/8200c46a-d913-4b77-99d6-af970718c80b/cover?territory=IT&md5ChecksumParam=f360c4a478417bc4c05f1402683474af",
+      "start_time": "2026-02-01 04:50:00",
+      "end_time": "2026-02-01 05:30:00",
+      "episode_number": "S1 E11",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Davide Mazza chef, Andrea Ghiselli nutrizionista del Crea e la Comunita' Europea insieme per una corretta alimentazione, lotta allo spreco di cibo e giusta politica agraria e alimentare."
+    },
+    {
+      "show_name": "Benvenuti al sud",
+      "show_logo": "https://guidatv.sky.it/uuid/a4546765-bee6-45b8-b3f7-ded6fb534e9e/cover?territory=IT&md5ChecksumParam=fc6ec2fda78a70221f9945919a8bffc5",
+      "start_time": "2026-02-01 05:30:00",
+      "end_time": "2026-02-01 06:00:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Peppe Guida e Fabrizio Nonis: sud e nord si incontrano in cucina. I prodotti migliori della penisola sorrentina incontrano le eccellenze del sud Italia."
+    },
+    {
+      "show_name": "Le grandi cantine - Stag. 5 Ep. 2 - Formentini",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-01 06:00:00",
+      "end_time": "2026-02-01 07:35:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un programma alla scoperta delle tradizioni delle piu' importanti famiglie vinicole italiane. Prox Ep. 1 feb 12:00. Rep. 1 feb 19:00."
+    },
+    {
+      "show_name": "Cosi' lontani cosi' vicini",
+      "show_logo": "https://guidatv.sky.it/uuid/855dff07-7689-4123-9043-96f4d83cc360/cover?territory=IT&md5ChecksumParam=b3bc843d127ad4e6d407825b3e8748da",
+      "start_time": "2026-02-01 07:35:00",
+      "end_time": "2026-02-01 08:00:00",
+      "episode_number": "S1 E8",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Max e Mai, Italia e Giappone due cucine e due culture a confronto. Un incontro in cucina di sapori profumi  tra paesi solo geograficamente lontani."
+    },
+    {
+      "show_name": "L'alfabeto di Giorgione",
+      "show_logo": "https://guidatv.sky.it/uuid/1eb6774a-2200-41f4-a724-18f76e29fe33/cover?territory=IT&md5ChecksumParam=aa0ccb48f3b87c924f63ae5d05a256a3",
+      "start_time": "2026-02-01 08:00:00",
+      "end_time": "2026-02-01 08:35:00",
+      "episode_number": "S4 E10",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il nostro oste prepara un piatto tipico della cucina marchigiana, una variante delle lasagne con un ragù a base di carni miste e regaglie di pollo. Si cimenta poi in un piatto sostanzioso ma facile."
+    },
+    {
+      "show_name": "Invita Vito",
+      "show_logo": "https://guidatv.sky.it/uuid/60dea3a5-a800-45f1-be94-4eb438f4692d/cover?territory=IT&md5ChecksumParam=96460397d0a3805498af993499dc275a",
+      "start_time": "2026-02-01 08:35:00",
+      "end_time": "2026-02-01 09:00:00",
+      "episode_number": "S2 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il popolare comico si avventura nel borgo medievale, per visitare gli amici e mangiare insieme."
+    },
+    {
+      "show_name": "Best Beker - Stag. 2 Ep. 3 - Cividale del Friuli",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-01 09:00:00",
+      "end_time": "2026-02-01 09:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Fabrizio Nonis alla ricerca delle macellerie venete che si distinguono per: tradizione, innovazione e creativita'. Prox Ep. 1 feb 09:30. Rep. 1 feb 15:00."
+    },
+    {
+      "show_name": "Best Beker - Stag. 2 Ep. 4 - Cormons / Udine",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-01 09:30:00",
+      "end_time": "2026-02-01 10:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Fabrizio Nonis alla ricerca delle macellerie venete che si distinguono per: tradizione, innovazione e creativita'. Prox ed ultimo Ep. 1 feb 21:00. Rep. 1 feb 15:30."
+    },
+    {
+      "show_name": "Il dolce sale",
+      "show_logo": "https://guidatv.sky.it/uuid/22592c06-93c6-4a76-9c9f-0cd69009632e/cover?cgid=261&territory=IT&md5ChecksumParam=ce7a5f9e5f02c9ff64d3d1466ca4421f.it",
+      "start_time": "2026-02-01 10:00:00",
+      "end_time": "2026-02-01 10:30:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Stefano Laghi, Sebastiano Caridi e Luca Montersino, un maestro e due allievi si incontrano per dare vita a ricette dolci e salate."
+    },
+    {
+      "show_name": "La strana coppia",
+      "show_logo": "https://guidatv.sky.it/uuid/c0b2a68d-1be5-4b75-973d-04358754f89c/cover?territory=IT&md5ChecksumParam=e76941ba53a829b2515f3be3914c4eb4",
+      "start_time": "2026-02-01 10:30:00",
+      "end_time": "2026-02-01 11:00:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Per il cocktail e il piatto della puntata, la strana coppia prende spunto dal film \"Agente 007: Missione Goldfinger\"."
+    },
+    {
+      "show_name": "Uazz' America",
+      "show_logo": "https://guidatv.sky.it/uuid/7440d959-d59a-4b95-9051-c02793949cc5/cover?territory=IT&md5ChecksumParam=675d3b4b75b5401a1fea972e76fb2361",
+      "start_time": "2026-02-01 11:00:00",
+      "end_time": "2026-02-01 11:30:00",
+      "episode_number": "S1 E10",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nuovo programma condotto da Eleonora Baldwin che nel corso di dieci puntate ci guiderà alla ricerca degli antichi sapori della sua infanzia a stelle e strisce. Nata a Bennington, nello stato del Vermont, e cresciuta in una famiglia di cineasti, Eleonora do."
+    },
+    {
+      "show_name": "Benvenuti al nord - Stag. 4 Ep. 3",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-01 11:30:00",
+      "end_time": "2026-02-01 12:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Peppe Guida e Fabrizio Nonis ancora insieme per scoprire le bellezze naturali e gastronomiche dell'Italia Settentrionale. Rep. 1 feb 17:30."
+    },
+    {
+      "show_name": "Le grandi cantine - Stag. 5 Ep. 3 - Bacio della Luna",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-01 12:00:00",
+      "end_time": "2026-02-01 13:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un programma alla scoperta delle tradizioni delle piu' importanti famiglie vinicole italiane. Prox Ep. 9 feb 08:30. Rep. 2 feb 0:00."
+    },
+    {
+      "show_name": "Cosi' lontani cosi' vicini",
+      "show_logo": "https://guidatv.sky.it/uuid/c4caf058-5f2e-48fe-bba6-0b113550cd02/cover?territory=IT&md5ChecksumParam=b3bc843d127ad4e6d407825b3e8748da",
+      "start_time": "2026-02-01 13:30:00",
+      "end_time": "2026-02-01 14:00:00",
+      "episode_number": "S2 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Max e Mai, Italia e Giappone due cucine e due culture a confronto. Un incontro in cucina di sapori profumi  tra paesi solo geograficamente lontani."
+    },
+    {
+      "show_name": "L'alfabeto di Giorgione",
+      "show_logo": "https://guidatv.sky.it/uuid/1eb6774a-2200-41f4-a724-18f76e29fe33/cover?territory=IT&md5ChecksumParam=aa0ccb48f3b87c924f63ae5d05a256a3",
+      "start_time": "2026-02-01 14:00:00",
+      "end_time": "2026-02-01 14:30:00",
+      "episode_number": "S4 E10",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il nostro oste prepara un piatto tipico della cucina marchigiana, una variante delle lasagne con un ragù a base di carni miste e regaglie di pollo. Si cimenta poi in un piatto sostanzioso ma facile."
+    },
+    {
+      "show_name": "Invita Vito",
+      "show_logo": "https://guidatv.sky.it/uuid/066a74f4-3bf1-4688-9313-4e3c3d37aea0/cover?territory=IT&md5ChecksumParam=96460397d0a3805498af993499dc275a",
+      "start_time": "2026-02-01 14:30:00",
+      "end_time": "2026-02-01 15:00:00",
+      "episode_number": "S2 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il popolare comico si avventura in Riviera dei Fiori, per visitare gli amici e mangiare insieme."
+    },
+    {
+      "show_name": "Best Beker - Stag. 2 Ep. 3 - Cividale del Friuli",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-01 15:00:00",
+      "end_time": "2026-02-01 15:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Fabrizio Nonis alla ricerca delle macellerie venete che si distinguono per: tradizione, innovazione e creativita'. Prox Ep. 1 feb 15:30. Rep. 2 feb 03:00."
+    },
+    {
+      "show_name": "Best Beker - Stag. 2 Ep. 4 - Cormons / Udine",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-01 15:30:00",
+      "end_time": "2026-02-01 16:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Fabrizio Nonis alla ricerca delle macellerie venete che si distinguono per: tradizione, innovazione e creativita'. Prox ed ultimo Ep. 1 feb 21:00. Rep. 2 feb 03:25."
+    },
+    {
+      "show_name": "Il dolce sale",
+      "show_logo": "https://guidatv.sky.it/uuid/7dd8294c-159c-454c-a675-407d5455befd/cover?cgid=261&territory=IT&md5ChecksumParam=ce7a5f9e5f02c9ff64d3d1466ca4421f.it",
+      "start_time": "2026-02-01 16:00:00",
+      "end_time": "2026-02-01 16:30:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Stefano Laghi, Sebastiano Caridi e Luca Montersino, un maestro e due allievi si incontrano per dare vita a ricette dolci e salate."
+    },
+    {
+      "show_name": "Uazz' America",
+      "show_logo": "https://guidatv.sky.it/uuid/7770cd16-5b37-466a-b61c-8b22dd8898d4/cover?territory=IT&md5ChecksumParam=675d3b4b75b5401a1fea972e76fb2361",
+      "start_time": "2026-02-01 16:30:00",
+      "end_time": "2026-02-01 17:00:00",
+      "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
       "show_description": "Nuovo programma condotto da Eleonora Baldwin che nel corso di dieci puntate ci guiderà alla ricerca degli antichi sapori della sua infanzia a stelle e strisce. Nata a Bennington, nello stato del Vermont, e cresciuta in una famiglia di cineasti, Eleonora do."
     },
     {
       "show_name": "Una pizza in compagnia",
       "show_logo": "https://guidatv.sky.it/uuid/62c9bb3c-b126-4bb5-86b7-9e35b0cd56d8/cover?cgid=261&territory=IT&md5ChecksumParam=636a47ab05e74fa79b1964339a934dce.it",
-      "start_time": "2026-01-31 17:00:00",
-      "end_time": "2026-01-31 17:30:00",
+      "start_time": "2026-02-01 17:00:00",
+      "end_time": "2026-02-01 17:30:00",
       "episode_number": "S1 E5",
       "show_category": "Mondo e Tendenze",
       "show_description": "Renato Bosco e la sua passione per la pizza. Una passione curiosa e golosa che lo spinge a cercare nuove contaminazioni e nuove sperimentazioni."
     },
     {
-      "show_name": "Benvenuti al sud",
-      "show_logo": "https://guidatv.sky.it/uuid/a4546765-bee6-45b8-b3f7-ded6fb534e9e/cover?territory=IT&md5ChecksumParam=fc6ec2fda78a70221f9945919a8bffc5",
-      "start_time": "2026-01-31 17:30:00",
-      "end_time": "2026-01-31 18:00:00",
-      "episode_number": "S1 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Peppe Guida e Fabrizio Nonis: sud e nord si incontrano in cucina. I prodotti migliori della penisola sorrentina incontrano le eccellenze del sud Italia. Rep. 31 gen 23:30."
-    },
-    {
-      "show_name": "I gioielli della biosfera - Stag. 1 Ep. 3",
+      "show_name": "Benvenuti al nord - Stag. 4 Ep. 3",
       "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 18:00:00",
-      "end_time": "2026-01-31 19:00:00",
+      "start_time": "2026-02-01 17:30:00",
+      "end_time": "2026-02-01 19:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Il viaggio di Giovanni Angelucci in Sardegna alla scoperta di una terra ricca, di cultura, di tradizioni, di uomini e di natura. Prox Ep. 1 feb 01:00."
+      "show_description": "Peppe Guida e Fabrizio Nonis ancora insieme per scoprire le bellezze naturali e gastronomiche dell'Italia Settentrionale. Rep. 1 feb 23:30."
     },
     {
-      "show_name": "Le grandi cantine - Stag. 5 Ep. 1 - Zorzettig",
+      "show_name": "Le grandi cantine - Stag. 5 Ep. 2 - Formentini",
       "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 19:00:00",
-      "end_time": "2026-01-31 19:30:00",
+      "start_time": "2026-02-01 19:00:00",
+      "end_time": "2026-02-01 19:35:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Un programma alla scoperta delle tradizioni delle piu' importanti famiglie vinicole italiane. Prox Ep. 1 feb 0:00. Rep. 4 feb 08:30."
+      "show_description": "Un programma alla scoperta delle tradizioni delle piu' importanti famiglie vinicole italiane. Prox Ep. 2 feb 0:00. Rep. 5 feb 08:30."
     },
     {
       "show_name": "Cosi' lontani cosi' vicini",
-      "show_logo": "https://guidatv.sky.it/uuid/e52a46cd-7bce-4c7e-b6dc-52593cfc20ab/cover?territory=IT&md5ChecksumParam=b3bc843d127ad4e6d407825b3e8748da",
-      "start_time": "2026-01-31 19:30:00",
-      "end_time": "2026-01-31 21:00:00",
-      "episode_number": "S1 E7",
+      "show_logo": "https://guidatv.sky.it/uuid/855dff07-7689-4123-9043-96f4d83cc360/cover?territory=IT&md5ChecksumParam=b3bc843d127ad4e6d407825b3e8748da",
+      "start_time": "2026-02-01 19:35:00",
+      "end_time": "2026-02-01 21:00:00",
+      "episode_number": "S1 E8",
       "show_category": "Mondo e Tendenze",
       "show_description": "Max e Mai, Italia e Giappone due cucine e due culture a confronto. Un incontro in cucina di sapori profumi  tra paesi solo geograficamente lontani."
     },
     {
-      "show_name": "Sciando tra i sapori - Stag. 2 Ep. 1",
+      "show_name": "Best Beker - Stag. 2 Ep. 5 - Trieste",
       "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 21:00:00",
-      "end_time": "2026-01-31 21:15:00",
+      "start_time": "2026-02-01 21:00:00",
+      "end_time": "2026-02-01 21:30:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "La passione per lo sci incontra la cucina. Le eccellenze che si incontrano sci ai piedi. Prox Ep. 31 gen 21:15. Rep. 1 feb 03:00."
+      "show_description": "Fabrizio Nonis alla ricerca delle macellerie venete che si distinguono per: tradizione, innovazione e creativita'. Prox Ep. 2 feb 03:00."
     },
     {
-      "show_name": "Sciando tra i sapori - Stag. 2 Ep. 2",
+      "show_name": "Best Beker - Stag. 3 Ep. 1 - Carnia",
       "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 21:15:00",
-      "end_time": "2026-01-31 21:30:00",
+      "start_time": "2026-02-01 21:30:00",
+      "end_time": "2026-02-01 22:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "La passione per lo sci incontra la cucina. Le eccellenze che si incontrano sci ai piedi. Prox Ep. 7 feb 21:00. Rep. 1 feb 03:10."
+      "show_description": "Fabrizio Nonis alla ricerca delle macellerie che si distinguono per: tradizione, innovazione e creativita'."
     },
     {
-      "show_name": "Sciando tra i sapori",
-      "show_logo": "https://guidatv.sky.it/uuid/7e1d4c44-5ec5-4da2-b7c1-90832d4a7edf/cover?territory=IT&md5ChecksumParam=bded0d5dc60885a35f7945960f0fa0a1",
-      "start_time": "2026-01-31 21:30:00",
-      "end_time": "2026-01-31 22:00:00",
-      "episode_number": "S1 E9",
+      "show_name": "Il dolce sale",
+      "show_logo": "https://guidatv.sky.it/uuid/22592c06-93c6-4a76-9c9f-0cd69009632e/cover?cgid=261&territory=IT&md5ChecksumParam=ce7a5f9e5f02c9ff64d3d1466ca4421f.it",
+      "start_time": "2026-02-01 22:00:00",
+      "end_time": "2026-02-01 22:35:00",
+      "episode_number": "S1 E2",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Un viaggio con gli sci a piedi che percorre le più belle piste dei comprensori italiani, per poi entrare nelle cucine in quota e gustare le eccellenze del territorio."
-    },
-    {
-      "show_name": "La pasta frolla",
-      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
-      "start_time": "2026-01-31 22:00:00",
-      "end_time": "2026-01-31 22:35:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Stefano Laghi, Sebastiano Caridi e Luca Montersino: il mondo della pasticceria si incontra in cucina per dare vita a ricette di pasticceria dolce e salata. Prox Ep. 1 feb 03:55. Rep. 22 feb 10:30."
+      "show_description": "Stefano Laghi, Sebastiano Caridi e Luca Montersino, un maestro e due allievi si incontrano per dare vita a ricette dolci e salate."
     },
     {
       "show_name": "Uazz' America",
-      "show_logo": "https://guidatv.sky.it/uuid/044b3dad-c770-4373-bff2-9bc6c6143d38/cover?territory=IT&md5ChecksumParam=675d3b4b75b5401a1fea972e76fb2361",
-      "start_time": "2026-01-31 22:35:00",
-      "end_time": "2026-01-31 23:00:00",
-      "episode_number": "S1 E9",
+      "show_logo": "https://guidatv.sky.it/uuid/7440d959-d59a-4b95-9051-c02793949cc5/cover?territory=IT&md5ChecksumParam=675d3b4b75b5401a1fea972e76fb2361",
+      "start_time": "2026-02-01 22:35:00",
+      "end_time": "2026-02-01 23:00:00",
+      "episode_number": "S1 E10",
       "show_category": "Mondo e Tendenze",
       "show_description": "Nuovo programma condotto da Eleonora Baldwin che nel corso di dieci puntate ci guiderà alla ricerca degli antichi sapori della sua infanzia a stelle e strisce. Nata a Bennington, nello stato del Vermont, e cresciuta in una famiglia di cineasti, Eleonora do."
     },
     {
       "show_name": "La strana coppia",
-      "show_logo": "https://guidatv.sky.it/uuid/c0b2a68d-1be5-4b75-973d-04358754f89c/cover?territory=IT&md5ChecksumParam=e76941ba53a829b2515f3be3914c4eb4",
-      "start_time": "2026-01-31 23:00:00",
-      "end_time": "2026-01-31 23:30:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Per il cocktail e il piatto della puntata, la strana coppia prende spunto dal film \"Agente 007: Missione Goldfinger\"."
-    },
-    {
-      "show_name": "Benvenuti al sud",
-      "show_logo": "https://guidatv.sky.it/uuid/a4546765-bee6-45b8-b3f7-ded6fb534e9e/cover?territory=IT&md5ChecksumParam=fc6ec2fda78a70221f9945919a8bffc5",
-      "start_time": "2026-01-31 23:30:00",
-      "end_time": "2026-02-01 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/a6504999-e405-4a88-91e6-52f02a523a7e/COVER_TITLE_TALL?territory=IT&version=56a4e152-15f0-34ee-b9a4-6bbb1f4dab03&w=600&h=800&md5ChecksumParam=730f1379b0ef541b8f3322c1abbf9f29",
+      "start_time": "2026-02-01 23:00:00",
+      "end_time": "2026-02-01 23:30:00",
       "episode_number": "S1 E5",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Peppe Guida e Fabrizio Nonis: sud e nord si incontrano in cucina. I prodotti migliori della penisola sorrentina incontrano le eccellenze del sud Italia. Rep. 1 feb 05:30."
+      "show_description": "La preparazione del cocktail protagonista del film \"The Blues Brothers\": l'orange whip."
+    },
+    {
+      "show_name": "Benvenuti al nord - Stag. 4 Ep. 3",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-01 23:30:00",
+      "end_time": "2026-02-02 00:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Peppe Guida e Fabrizio Nonis ancora insieme per scoprire le bellezze naturali e gastronomiche dell'Italia Settentrionale. Rep. 2 feb 05:30."
     }
   ]
 }

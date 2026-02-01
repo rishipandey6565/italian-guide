@@ -1,195 +1,141 @@
 {
   "channel_name": "Sky Sport Arena",
-  "date": "2026-01-31",
+  "date": "2026-02-01",
   "programs": [
     {
-      "show_name": "Semifinale 1",
-      "show_logo": "https://guidatv.sky.it/uuid/064a6d7e-2712-413f-83f8-e5cb5a51c2ec/cover?territory=IT&md5ChecksumParam=a267765aea98cbf80247a0ee7f9d6b04",
-      "start_time": "2026-01-31 00:00:00",
-      "end_time": "2026-01-31 00:45:00",
-      "episode_number": "S2026 E4",
+      "show_name": "Semifinale 2: Germania - Croazia",
+      "show_logo": "https://guidatv.sky.it/uuid/1e6ae049-02f7-476e-a13d-2728164397ae/cover?territory=IT&md5ChecksumParam=8d62ab2cdab57b14221ed377fcd57b85",
+      "start_time": "2026-02-01 00:00:00",
+      "end_time": "2026-02-01 01:00:00",
+      "episode_number": "",
       "show_category": "Sport",
       "show_description": "Dalla Jyske Bank Boxen di Herning, Danimarca."
     },
     {
-      "show_name": "Ep.24",
-      "show_logo": "https://guidatv.sky.it/uuid/d18d905b-1d35-4fae-bdf3-8db1eea2267a/cover?territory=IT&md5ChecksumParam=439c215813bc11f84e36b4eba2f440f1",
-      "start_time": "2026-01-31 00:45:00",
-      "end_time": "2026-01-31 01:00:00",
-      "episode_number": "S2025 E24",
-      "show_category": "Sport",
-      "show_description": "La giovane Italia."
-    },
-    {
-      "show_name": "Calciomercato - L'originale",
-      "show_logo": "https://guidatv.sky.it/uuid/75be44ea-5ad2-4ff2-bf1d-43e3fc821d37/cover?territory=IT&md5ChecksumParam=cecd4ae1a1077e8bd34f3a46515739b0",
-      "start_time": "2026-01-31 01:00:00",
-      "end_time": "2026-01-31 02:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Curiosità, commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-    },
-    {
-      "show_name": "Sofia Goggia",
-      "show_logo": "https://guidatv.sky.it/uuid/6e4697c3-49e1-446a-a9e4-e334230fb3dd/cover?territory=IT&md5ChecksumParam=9283e47d27b9198406b5a3a5f530bccd",
-      "start_time": "2026-01-31 02:00:00",
-      "end_time": "2026-01-31 03:00:00",
-      "episode_number": "S1 E31",
-      "show_category": "Sport",
-      "show_description": "Federico Buffa accompagna lo spettatore in un percorso tra presente e memoria, campioni e grandi imprese, per una serata tra amici."
-    },
-    {
-      "show_name": "3tre, Il Numero Magico Dello Sci",
-      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
-      "start_time": "2026-01-31 03:00:00",
-      "end_time": "2026-01-31 04:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "3tre, Il Numero Magico Dello Sci."
-    },
-    {
-      "show_name": "Olimpia Milano - Partizan",
-      "show_logo": "https://guidatv.sky.it/uuid/eea6730a-92b1-4853-8b75-72c4c3b88160/cover?territory=IT&md5ChecksumParam=1950f8c33a7c53540d36befa2240e5b3",
-      "start_time": "2026-01-31 04:00:00",
-      "end_time": "2026-01-31 07:00:00",
-      "episode_number": "S2025 E88",
-      "show_category": "Sport",
-      "show_description": "Dall'Unipol Forum di Milano, Italia."
-    },
-    {
-      "show_name": "Marcialonga di Fiemme e Fassa",
-      "show_logo": "https://guidatv.sky.it/uuid/bd10e3f7-2d47-4359-945b-d28226e638f5/cover?territory=IT&md5ChecksumParam=b6990de5fbc3f430d4dd0b383de94456",
-      "start_time": "2026-01-31 07:00:00",
-      "end_time": "2026-01-31 09:00:00",
-      "episode_number": "S2026 E1",
-      "show_category": "Sport",
-      "show_description": "Marcialonga di Fiemme e Fassa."
-    },
-    {
-      "show_name": "Icarus Ultra - Ep. 17 - Icarus Ultra 2025 Ep.17 26/01/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/99fafee4-cc71-48a9-b95e-927084bdeae5/cover?territory=IT&md5ChecksumParam=3c6fb7cee3df8a64ac100697be5f29b6",
-      "start_time": "2026-01-31 09:00:00",
-      "end_time": "2026-01-31 09:30:00",
-      "episode_number": "S2025 E17",
-      "show_category": "Sport",
-      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
-    },
-    {
-      "show_name": "90:10 - Ep. 8 - 90/10 Ep.8 Lo Sbarco Del Fenomeno: Ronnie E L'inter 16/01/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/9626399b-ef30-4a01-a71c-5700fb6dbf79/cover?territory=IT&md5ChecksumParam=2b447c4ba196fe8158558cf55bc2fbe5",
-      "start_time": "2026-01-31 09:30:00",
-      "end_time": "2026-01-31 10:00:00",
-      "episode_number": "S1 E8",
-      "show_category": "Sport",
-      "show_description": "90/10."
-    },
-    {
-      "show_name": "Calciomercato - L'originale",
-      "show_logo": "https://guidatv.sky.it/uuid/75be44ea-5ad2-4ff2-bf1d-43e3fc821d37/cover?territory=IT&md5ChecksumParam=cecd4ae1a1077e8bd34f3a46515739b0",
-      "start_time": "2026-01-31 10:00:00",
-      "end_time": "2026-01-31 11:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Curiosità, commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-    },
-    {
-      "show_name": "Benetton - Scarlets",
-      "show_logo": "https://guidatv.sky.it/uuid/1414e4fd-4468-4b1c-9ab5-64ad5e72cbd1/cover?territory=IT&md5ChecksumParam=bdf348d4e6b18aaa645e2e9a07021177",
-      "start_time": "2026-01-31 11:00:00",
-      "end_time": "2026-01-31 12:55:00",
-      "episode_number": "S2025 E19",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Comunale di Treviso, Italia."
-    },
-    {
-      "show_name": "VfL Bochum - Schalke 04",
-      "show_logo": "https://guidatv.sky.it/uuid/ff2a4a7b-00e2-4b97-bc80-fb4fff27bcec/cover?territory=IT&md5ChecksumParam=2ee86ad242d806857f67b396ec790905",
-      "start_time": "2026-01-31 12:55:00",
-      "end_time": "2026-01-31 15:30:00",
-      "episode_number": "S2025 E40",
-      "show_category": "Sport",
-      "show_description": "Dal Vonovia Ruhrstadion di Bochum, Germania."
-    },
-    {
-      "show_name": "Motonautica On Board - Ep. 16 - Motonautica On Board Ep.16 20/01/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/7ad3f98a-b1e3-486c-94c1-3c0ccbe114ce/COVER_TITLE_TALL?territory=IT&version=b90005c5-e00a-3648-aa1c-f20e1af4f4eb&w=600&h=800&md5ChecksumParam=38ad1432ad8ad882631b6d6a19d0b210",
-      "start_time": "2026-01-31 15:30:00",
-      "end_time": "2026-01-31 15:55:00",
-      "episode_number": "S2025 E16",
-      "show_category": "Sport",
-      "show_description": "Ep.16 - Ep.16 - Ep.16 - Motonautica On Board Ep.16 20/01/2026 - Motonautica On Board."
-    },
-    {
-      "show_name": "Zebre Parma - Connacht",
-      "show_logo": "https://guidatv.sky.it/uuid/43e867a2-270c-4be7-ba89-bf6c6a27cd2b/cover?territory=IT&md5ChecksumParam=0a4a1614ef3f3b31bee0d20137a5a675",
-      "start_time": "2026-01-31 15:55:00",
-      "end_time": "2026-01-31 18:10:00",
-      "episode_number": "S2025 E20",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Sergio Lanfranchi di Parma, Italia."
-    },
-    {
-      "show_name": "Ep.24",
-      "show_logo": "https://guidatv.sky.it/uuid/d18d905b-1d35-4fae-bdf3-8db1eea2267a/cover?territory=IT&md5ChecksumParam=439c215813bc11f84e36b4eba2f440f1",
-      "start_time": "2026-01-31 18:10:00",
-      "end_time": "2026-01-31 18:25:00",
-      "episode_number": "S2025 E24",
-      "show_category": "Sport",
-      "show_description": "La giovane Italia."
-    },
-    {
-      "show_name": "Calcio Bundesliga - Ep. 109 - Calcio Bundesliga 20ga Amburgo/ Bayern Monaco 31/01/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/ad7b801a-6f99-4700-b776-fcf7bed1a46f/cover?territory=IT&md5ChecksumParam=36fb2b7c9e56a0cc4cbade10061851bf",
-      "start_time": "2026-01-31 18:25:00",
-      "end_time": "2026-01-31 20:30:00",
-      "episode_number": "S2025 E109",
-      "show_category": "Sport",
-      "show_description": "Dal Volksparkstadion di Amburgo, Germania."
-    },
-    {
       "show_name": "Fabbri E Guignard",
       "show_logo": "https://guidatv.sky.it/uuid/2fc3e3b8-05bf-4315-8c06-e8e755fb861b/cover?territory=IT&md5ChecksumParam=9a3ebabb17b9bdffff62087828bddb0f",
-      "start_time": "2026-01-31 20:30:00",
-      "end_time": "2026-01-31 20:40:00",
+      "start_time": "2026-02-01 01:00:00",
+      "end_time": "2026-02-01 02:10:00",
       "episode_number": "S2026 E2",
       "show_category": "Sport",
       "show_description": "Superatleti."
     },
     {
-      "show_name": "Programmazione non disponibile",
-      "show_logo": "https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&md5ChecksumParam=4a25768e3cfcae514f94f50e5a0fe2c7",
-      "start_time": "2026-01-31 20:40:00",
-      "end_time": "2026-01-31 20:55:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Programmazione non disponibile."
+      "show_name": "Benetton - Scarlets",
+      "show_logo": "https://guidatv.sky.it/uuid/1414e4fd-4468-4b1c-9ab5-64ad5e72cbd1/cover?territory=IT&md5ChecksumParam=bdf348d4e6b18aaa645e2e9a07021177",
+      "start_time": "2026-02-01 02:10:00",
+      "end_time": "2026-02-01 04:00:00",
+      "episode_number": "S2025 E19",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Comunale di Treviso, Italia."
     },
     {
-      "show_name": "Liverpool - Newcastle",
-      "show_logo": "https://guidatv.sky.it/uuid/13a74f8c-ca00-45a4-971c-bee1bdfa43e2/cover?territory=IT&md5ChecksumParam=9fef60b569c365fbdfb4d63e22d81f30",
-      "start_time": "2026-01-31 20:55:00",
-      "end_time": "2026-01-31 23:00:00",
-      "episode_number": "S2025 E236",
+      "show_name": "Monaco - Virtus Olidata Bologna",
+      "show_logo": "https://guidatv.sky.it/uuid/6df8bdee-a2f6-485c-b63e-16f6c35ad2ea/cover?territory=IT&md5ChecksumParam=85caaf3c70e22b82be66288fe6e6d0f5",
+      "start_time": "2026-02-01 04:00:00",
+      "end_time": "2026-02-01 06:00:00",
+      "episode_number": "S2025 E91",
       "show_category": "Sport",
-      "show_description": "Dall'Anfield di Liverpool, Inghilterra."
+      "show_description": "Dalla Salle Gaston Médecin di Monaco."
+    },
+    {
+      "show_name": "Perth",
+      "show_logo": "https://guidatv.sky.it/uuid/d5d23dd5-4f85-4ab0-acc3-240c54084bc2/cover?territory=IT&md5ChecksumParam=0e5e3b67f238a056383a19458b307ff8",
+      "start_time": "2026-02-01 06:00:00",
+      "end_time": "2026-02-01 07:00:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "Sintesi e highlights della piu' spettacolare competizione velica internazionale dedicata ai catamarani foiling F50."
+    },
+    {
+      "show_name": "Benetton - Scarlets",
+      "show_logo": "https://guidatv.sky.it/uuid/1414e4fd-4468-4b1c-9ab5-64ad5e72cbd1/cover?territory=IT&md5ChecksumParam=bdf348d4e6b18aaa645e2e9a07021177",
+      "start_time": "2026-02-01 07:00:00",
+      "end_time": "2026-02-01 09:00:00",
+      "episode_number": "S2025 E19",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Comunale di Treviso, Italia."
+    },
+    {
+      "show_name": "Monaco - Virtus Olidata Bologna",
+      "show_logo": "https://guidatv.sky.it/uuid/6df8bdee-a2f6-485c-b63e-16f6c35ad2ea/cover?territory=IT&md5ChecksumParam=85caaf3c70e22b82be66288fe6e6d0f5",
+      "start_time": "2026-02-01 09:00:00",
+      "end_time": "2026-02-01 12:25:00",
+      "episode_number": "S2025 E91",
+      "show_category": "Sport",
+      "show_description": "Dalla Salle Gaston Médecin di Monaco."
+    },
+    {
+      "show_name": "Calcio Campionato Italiano Serie C - Ep. 242 - Calcio Serie C 24ga Girone A Cittadella/ Albinoleffe 01/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/dc28e145-7f2f-4561-9f15-9e3e1a9b07c9/cover?territory=IT&md5ChecksumParam=c63d1f5ce853b13d1dba0c523d0d5c5b",
+      "start_time": "2026-02-01 12:25:00",
+      "end_time": "2026-02-01 14:30:00",
+      "episode_number": "S2025 E242",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Tombolato di Cittadella, Italia."
     },
     {
       "show_name": "Ep.24",
       "show_logo": "https://guidatv.sky.it/uuid/d18d905b-1d35-4fae-bdf3-8db1eea2267a/cover?territory=IT&md5ChecksumParam=439c215813bc11f84e36b4eba2f440f1",
-      "start_time": "2026-01-31 23:00:00",
-      "end_time": "2026-01-31 23:15:00",
+      "start_time": "2026-02-01 14:30:00",
+      "end_time": "2026-02-01 14:40:00",
       "episode_number": "S2025 E24",
       "show_category": "Sport",
       "show_description": "La giovane Italia."
     },
     {
-      "show_name": "Semifinale 2: Germania - Croazia",
-      "show_logo": "https://guidatv.sky.it/uuid/1e6ae049-02f7-476e-a13d-2728164397ae/cover?territory=IT&md5ChecksumParam=8d62ab2cdab57b14221ed377fcd57b85",
-      "start_time": "2026-01-31 23:15:00",
-      "end_time": "2026-02-01 01:00:00",
-      "episode_number": "S2026 E5",
+      "show_name": "Programmazione non disponibile",
+      "show_logo": "https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&md5ChecksumParam=4a25768e3cfcae514f94f50e5a0fe2c7",
+      "start_time": "2026-02-01 14:40:00",
+      "end_time": "2026-02-01 14:55:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Programmazione non disponibile."
+    },
+    {
+      "show_name": "Aston Villa - Brentford",
+      "show_logo": "https://guidatv.sky.it/uuid/8aa68296-32d6-49c7-9892-eb9dc86932e8/cover?territory=IT&md5ChecksumParam=d1fad0086f60f8fa8f90078d530e19a2",
+      "start_time": "2026-02-01 14:55:00",
+      "end_time": "2026-02-01 17:00:00",
+      "episode_number": "S2025 E238",
       "show_category": "Sport",
-      "show_description": "Dalla Jyske Bank Boxen di Herning, Danimarca."
+      "show_description": "Dal Villa Park di Birmingham, Inghilterra."
+    },
+    {
+      "show_name": "Ep.24",
+      "show_logo": "https://guidatv.sky.it/uuid/d18d905b-1d35-4fae-bdf3-8db1eea2267a/cover?territory=IT&md5ChecksumParam=439c215813bc11f84e36b4eba2f440f1",
+      "start_time": "2026-02-01 17:00:00",
+      "end_time": "2026-02-01 17:10:00",
+      "episode_number": "S2025 E24",
+      "show_category": "Sport",
+      "show_description": "La giovane Italia."
+    },
+    {
+      "show_name": "Programmazione non disponibile",
+      "show_logo": "https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&md5ChecksumParam=4a25768e3cfcae514f94f50e5a0fe2c7",
+      "start_time": "2026-02-01 17:10:00",
+      "end_time": "2026-02-01 17:25:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Programmazione non disponibile."
+    },
+    {
+      "show_name": "Cosenza - Casertana",
+      "show_logo": "https://guidatv.sky.it/uuid/e22ea6a5-7352-433a-996f-b301faaf408a/cover?territory=IT&md5ChecksumParam=dd94c05e057df637c687e0bb38b1f4bd",
+      "start_time": "2026-02-01 17:25:00",
+      "end_time": "2026-02-01 21:10:00",
+      "episode_number": "S2025 E244",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio San Vito-Gigi Marulla di Cosenza, Italia."
+    },
+    {
+      "show_name": "Fabbri E Guignard",
+      "show_logo": "https://guidatv.sky.it/uuid/2fc3e3b8-05bf-4315-8c06-e8e755fb861b/cover?territory=IT&md5ChecksumParam=9a3ebabb17b9bdffff62087828bddb0f",
+      "start_time": "2026-02-01 21:10:00",
+      "end_time": "2026-02-02 00:00:00",
+      "episode_number": "S2026 E2",
+      "show_category": "Sport",
+      "show_description": "Superatleti."
     }
   ]
 }

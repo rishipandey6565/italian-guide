@@ -1,141 +1,204 @@
 {
   "channel_name": "Sky Sport Arena",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "programs": [
     {
-      "show_name": "Semifinale 2: Germania - Croazia",
-      "show_logo": "https://guidatv.sky.it/uuid/1e6ae049-02f7-476e-a13d-2728164397ae/cover?territory=IT&md5ChecksumParam=8d62ab2cdab57b14221ed377fcd57b85",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 01:00:00",
-      "episode_number": "S2026 E5",
+      "show_name": "Fabbri E Guignard",
+      "show_logo": "https://guidatv.sky.it/uuid/2fc3e3b8-05bf-4315-8c06-e8e755fb861b/cover?territory=IT&md5ChecksumParam=9a3ebabb17b9bdffff62087828bddb0f",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 00:00:00",
+      "episode_number": "S2026 E2",
+      "show_category": "Sport",
+      "show_description": "Superatleti."
+    },
+    {
+      "show_name": "Sasha Danilovic",
+      "show_logo": "https://guidatv.sky.it/uuid/def0d159-c16d-4ecc-822c-912c27c46a79/cover?territory=IT&md5ChecksumParam=c9bf8fba5e570a610155ee930d10d979",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 00:30:00",
+      "episode_number": "S2025 E4",
+      "show_category": "Sport",
+      "show_description": "Amadori Protein Talk: Sasha Danilovic."
+    },
+    {
+      "show_name": "Icarus Ultra - Ep. 17 - Icarus Ultra 2025 Ep.17 26/01/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/99fafee4-cc71-48a9-b95e-927084bdeae5/cover?territory=IT&md5ChecksumParam=3c6fb7cee3df8a64ac100697be5f29b6",
+      "start_time": "2026-02-02 00:30:00",
+      "end_time": "2026-02-02 01:00:00",
+      "episode_number": "S2025 E17",
+      "show_category": "Sport",
+      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
+    },
+    {
+      "show_name": "3tre, Il Numero Magico Dello Sci",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-02 01:00:00",
+      "end_time": "2026-02-02 02:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "3tre, Il Numero Magico Dello Sci."
+    },
+    {
+      "show_name": "Zebre Parma - Connacht",
+      "show_logo": "https://guidatv.sky.it/uuid/43e867a2-270c-4be7-ba89-bf6c6a27cd2b/cover?territory=IT&md5ChecksumParam=0a4a1614ef3f3b31bee0d20137a5a675",
+      "start_time": "2026-02-02 02:00:00",
+      "end_time": "2026-02-02 04:00:00",
+      "episode_number": "S2025 E20",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Sergio Lanfranchi di Parma, Italia."
+    },
+    {
+      "show_name": "Olympiacos - Barcellona",
+      "show_logo": "https://guidatv.sky.it/uuid/1e983628-0d3e-4b04-81a8-f74de030ad84/cover?territory=IT&md5ChecksumParam=806737b6996824611e782a97205df052",
+      "start_time": "2026-02-02 04:00:00",
+      "end_time": "2026-02-02 06:00:00",
+      "episode_number": "S2025 E90",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio della pace e dell'amicizia, Il Pireo, Grecia."
+    },
+    {
+      "show_name": "L'uomo Contro La Macchina",
+      "show_logo": "https://guidatv.sky.it/uuid/4edd351f-b9cd-41b9-8d4f-4f465a5e8e72/cover?territory=IT&md5ChecksumParam=04da735fa3b770755c00a60ad0525c02",
+      "start_time": "2026-02-02 06:00:00",
+      "end_time": "2026-02-02 06:25:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
+    },
+    {
+      "show_name": "3tre, Il Numero Magico Dello Sci",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-02 06:25:00",
+      "end_time": "2026-02-02 07:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "3tre, Il Numero Magico Dello Sci."
+    },
+    {
+      "show_name": "Laureus Spirit Of Sport",
+      "show_logo": "https://guidatv.sky.it/uuid/cab827cf-b29b-4eac-adf0-c5934a1f84c4/cover?territory=IT&md5ChecksumParam=521334dbc8b037448796bda04646e59e",
+      "start_time": "2026-02-02 07:30:00",
+      "end_time": "2026-02-02 08:00:00",
+      "episode_number": "S2025 E12",
+      "show_category": "Sport",
+      "show_description": "Ep.12 - Laureus Spirit Of Sport."
+    },
+    {
+      "show_name": "Benetton - Scarlets",
+      "show_logo": "https://guidatv.sky.it/uuid/1414e4fd-4468-4b1c-9ab5-64ad5e72cbd1/cover?territory=IT&md5ChecksumParam=bdf348d4e6b18aaa645e2e9a07021177",
+      "start_time": "2026-02-02 08:00:00",
+      "end_time": "2026-02-02 10:00:00",
+      "episode_number": "S2025 E19",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Comunale di Treviso, Italia."
+    },
+    {
+      "show_name": "Basket Serie A - Ep. 36 - Basket Serie A 2025/2026 18ga Olimpia Milano/ Brescia 01/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/6bbd64f6-7ac6-4430-a393-1369e21ee9c0/cover?territory=IT&md5ChecksumParam=9c51f47a0d4cceb8f436426f478fa0c0",
+      "start_time": "2026-02-02 10:00:00",
+      "end_time": "2026-02-02 12:00:00",
+      "episode_number": "S2025 E36",
+      "show_category": "Sport",
+      "show_description": "Umori differenti in campo in una partita d'alta classifica: l'Olimpia arriva dalla sconfitta contro Varese, la Leonessa dalla vittoria in rimonta contro Udine. TC: De Rosa-Macchi."
+    },
+    {
+      "show_name": "Pau - Tolone",
+      "show_logo": "https://guidatv.sky.it/uuid/139613a5-3137-4ca4-92e0-37fedee8f2b8/cover?territory=IT&md5ChecksumParam=79c835ab7f2b7997676e384c2946bba4",
+      "start_time": "2026-02-02 12:00:00",
+      "end_time": "2026-02-02 14:00:00",
+      "episode_number": "S2025 E14",
+      "show_category": "Sport",
+      "show_description": "Dallo stadio Hameau di Pau, in Aquitania, Francia."
+    },
+    {
+      "show_name": "Finale: Denmark - Germany",
+      "show_logo": "https://guidatv.sky.it/uuid/231d888a-8574-490a-8f01-fc3ee5f9282c/COVER_TITLE_TALL?territory=IT&version=253dcfb2-a213-3b70-903a-8c7205b7238a&w=600&h=800&md5ChecksumParam=e35d40be07d49b422a2d8b034fb19c4a",
+      "start_time": "2026-02-02 14:00:00",
+      "end_time": "2026-02-02 15:45:00",
+      "episode_number": "",
       "show_category": "Sport",
       "show_description": "Dalla Jyske Bank Boxen di Herning, Danimarca."
     },
     {
       "show_name": "Fabbri E Guignard",
       "show_logo": "https://guidatv.sky.it/uuid/2fc3e3b8-05bf-4315-8c06-e8e755fb861b/cover?territory=IT&md5ChecksumParam=9a3ebabb17b9bdffff62087828bddb0f",
-      "start_time": "2026-02-01 01:00:00",
-      "end_time": "2026-02-01 02:10:00",
+      "start_time": "2026-02-02 15:45:00",
+      "end_time": "2026-02-02 18:00:00",
       "episode_number": "S2026 E2",
       "show_category": "Sport",
       "show_description": "Superatleti."
     },
     {
-      "show_name": "Benetton - Scarlets",
-      "show_logo": "https://guidatv.sky.it/uuid/1414e4fd-4468-4b1c-9ab5-64ad5e72cbd1/cover?territory=IT&md5ChecksumParam=bdf348d4e6b18aaa645e2e9a07021177",
-      "start_time": "2026-02-01 02:10:00",
-      "end_time": "2026-02-01 04:00:00",
-      "episode_number": "S2025 E19",
+      "show_name": "Ep.41",
+      "show_logo": "https://guidatv.sky.it/uuid/0ff6859e-85fc-43fb-a90b-189e4a64cc7e/cover?territory=IT&md5ChecksumParam=40d3d23ed4cdb3a75df14bd642197540",
+      "start_time": "2026-02-02 18:00:00",
+      "end_time": "2026-02-02 18:35:00",
+      "episode_number": "S1 E41",
       "show_category": "Sport",
-      "show_description": "Dallo Stadio Comunale di Treviso, Italia."
+      "show_description": "I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia."
     },
     {
-      "show_name": "Monaco - Virtus Olidata Bologna",
-      "show_logo": "https://guidatv.sky.it/uuid/6df8bdee-a2f6-485c-b63e-16f6c35ad2ea/cover?territory=IT&md5ChecksumParam=85caaf3c70e22b82be66288fe6e6d0f5",
-      "start_time": "2026-02-01 04:00:00",
-      "end_time": "2026-02-01 06:00:00",
-      "episode_number": "S2025 E91",
+      "show_name": "Icarus Ultra 2025 Ep.18 02/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/0c74bb9e-30f1-48fd-af9a-167323b5ce89/cover?territory=IT&md5ChecksumParam=421a6b9feb080c8808ba62788ea8111a",
+      "start_time": "2026-02-02 18:35:00",
+      "end_time": "2026-02-02 19:20:00",
+      "episode_number": "S2025 E18",
       "show_category": "Sport",
-      "show_description": "Dalla Salle Gaston Médecin di Monaco."
-    },
-    {
-      "show_name": "Perth",
-      "show_logo": "https://guidatv.sky.it/uuid/d5d23dd5-4f85-4ab0-acc3-240c54084bc2/cover?territory=IT&md5ChecksumParam=0e5e3b67f238a056383a19458b307ff8",
-      "start_time": "2026-02-01 06:00:00",
-      "end_time": "2026-02-01 07:00:00",
-      "episode_number": "S2026 E1",
-      "show_category": "Sport",
-      "show_description": "Sintesi e highlights della piu' spettacolare competizione velica internazionale dedicata ai catamarani foiling F50."
-    },
-    {
-      "show_name": "Benetton - Scarlets",
-      "show_logo": "https://guidatv.sky.it/uuid/1414e4fd-4468-4b1c-9ab5-64ad5e72cbd1/cover?territory=IT&md5ChecksumParam=bdf348d4e6b18aaa645e2e9a07021177",
-      "start_time": "2026-02-01 07:00:00",
-      "end_time": "2026-02-01 09:00:00",
-      "episode_number": "S2025 E19",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Comunale di Treviso, Italia."
-    },
-    {
-      "show_name": "Monaco - Virtus Olidata Bologna",
-      "show_logo": "https://guidatv.sky.it/uuid/6df8bdee-a2f6-485c-b63e-16f6c35ad2ea/cover?territory=IT&md5ChecksumParam=85caaf3c70e22b82be66288fe6e6d0f5",
-      "start_time": "2026-02-01 09:00:00",
-      "end_time": "2026-02-01 12:25:00",
-      "episode_number": "S2025 E91",
-      "show_category": "Sport",
-      "show_description": "Dalla Salle Gaston Médecin di Monaco."
-    },
-    {
-      "show_name": "Calcio Campionato Italiano Serie C - Ep. 242 - Calcio Serie C 24ga Girone A Cittadella/ Albinoleffe 01/02/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/dc28e145-7f2f-4561-9f15-9e3e1a9b07c9/cover?territory=IT&md5ChecksumParam=c63d1f5ce853b13d1dba0c523d0d5c5b",
-      "start_time": "2026-02-01 12:25:00",
-      "end_time": "2026-02-01 14:30:00",
-      "episode_number": "S2025 E242",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Tombolato di Cittadella, Italia."
-    },
-    {
-      "show_name": "Ep.24",
-      "show_logo": "https://guidatv.sky.it/uuid/d18d905b-1d35-4fae-bdf3-8db1eea2267a/cover?territory=IT&md5ChecksumParam=439c215813bc11f84e36b4eba2f440f1",
-      "start_time": "2026-02-01 14:30:00",
-      "end_time": "2026-02-01 14:40:00",
-      "episode_number": "S2025 E24",
-      "show_category": "Sport",
-      "show_description": "La giovane Italia."
-    },
-    {
-      "show_name": "Programmazione non disponibile",
-      "show_logo": "https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&md5ChecksumParam=4a25768e3cfcae514f94f50e5a0fe2c7",
-      "start_time": "2026-02-01 14:40:00",
-      "end_time": "2026-02-01 14:55:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Programmazione non disponibile."
-    },
-    {
-      "show_name": "Aston Villa - Brentford",
-      "show_logo": "https://guidatv.sky.it/uuid/8aa68296-32d6-49c7-9892-eb9dc86932e8/cover?territory=IT&md5ChecksumParam=d1fad0086f60f8fa8f90078d530e19a2",
-      "start_time": "2026-02-01 14:55:00",
-      "end_time": "2026-02-01 17:00:00",
-      "episode_number": "S2025 E238",
-      "show_category": "Sport",
-      "show_description": "Dal Villa Park di Birmingham, Inghilterra."
-    },
-    {
-      "show_name": "Ep.24",
-      "show_logo": "https://guidatv.sky.it/uuid/d18d905b-1d35-4fae-bdf3-8db1eea2267a/cover?territory=IT&md5ChecksumParam=439c215813bc11f84e36b4eba2f440f1",
-      "start_time": "2026-02-01 17:00:00",
-      "end_time": "2026-02-01 17:10:00",
-      "episode_number": "S2025 E24",
-      "show_category": "Sport",
-      "show_description": "La giovane Italia."
-    },
-    {
-      "show_name": "Programmazione non disponibile",
-      "show_logo": "https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&md5ChecksumParam=4a25768e3cfcae514f94f50e5a0fe2c7",
-      "start_time": "2026-02-01 17:10:00",
-      "end_time": "2026-02-01 17:25:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Programmazione non disponibile."
-    },
-    {
-      "show_name": "Cosenza - Casertana",
-      "show_logo": "https://guidatv.sky.it/uuid/e22ea6a5-7352-433a-996f-b301faaf408a/cover?territory=IT&md5ChecksumParam=dd94c05e057df637c687e0bb38b1f4bd",
-      "start_time": "2026-02-01 17:25:00",
-      "end_time": "2026-02-01 21:10:00",
-      "episode_number": "S2025 E244",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio San Vito-Gigi Marulla di Cosenza, Italia."
+      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
     },
     {
       "show_name": "Fabbri E Guignard",
       "show_logo": "https://guidatv.sky.it/uuid/2fc3e3b8-05bf-4315-8c06-e8e755fb861b/cover?territory=IT&md5ChecksumParam=9a3ebabb17b9bdffff62087828bddb0f",
-      "start_time": "2026-02-01 21:10:00",
-      "end_time": "2026-02-02 00:00:00",
+      "start_time": "2026-02-02 19:20:00",
+      "end_time": "2026-02-02 19:30:00",
       "episode_number": "S2026 E2",
       "show_category": "Sport",
       "show_description": "Superatleti."
+    },
+    {
+      "show_name": "Battiti Olimpici",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-02 19:30:00",
+      "end_time": "2026-02-02 20:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "L'Istituto di Medicina e Scienza dello Sport del CONI guida gli azzurri verso Milano Cortina 2026: scienza, passione e innovazione al servizio delle sfide olimpiche."
+    },
+    {
+      "show_name": "Ep.24",
+      "show_logo": "https://guidatv.sky.it/uuid/d18d905b-1d35-4fae-bdf3-8db1eea2267a/cover?territory=IT&md5ChecksumParam=439c215813bc11f84e36b4eba2f440f1",
+      "start_time": "2026-02-02 20:30:00",
+      "end_time": "2026-02-02 20:45:00",
+      "episode_number": "S2025 E24",
+      "show_category": "Sport",
+      "show_description": "La giovane Italia."
+    },
+    {
+      "show_name": "Programmazione non disponibile",
+      "show_logo": "https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&md5ChecksumParam=4a25768e3cfcae514f94f50e5a0fe2c7",
+      "start_time": "2026-02-02 20:45:00",
+      "end_time": "2026-02-02 20:55:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Programmazione non disponibile."
+    },
+    {
+      "show_name": "Sunderland - Burnley",
+      "show_logo": "https://guidatv.sky.it/uuid/e4b02dc8-b79f-45fd-bd97-7f824b6c1687/cover?territory=IT&md5ChecksumParam=a3c51a257ed0bfc72eb7a91268cf136a",
+      "start_time": "2026-02-02 20:55:00",
+      "end_time": "2026-02-02 23:00:00",
+      "episode_number": "S2025 E241",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadium of Light di Sunderland, Inghilterra."
+    },
+    {
+      "show_name": "Zebre Parma - Connacht",
+      "show_logo": "https://guidatv.sky.it/uuid/43e867a2-270c-4be7-ba89-bf6c6a27cd2b/cover?territory=IT&md5ChecksumParam=0a4a1614ef3f3b31bee0d20137a5a675",
+      "start_time": "2026-02-02 23:00:00",
+      "end_time": "2026-02-03 00:45:00",
+      "episode_number": "S2025 E20",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Sergio Lanfranchi di Parma, Italia."
     }
   ]
 }

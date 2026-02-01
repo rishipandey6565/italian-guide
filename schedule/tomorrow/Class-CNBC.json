@@ -1,465 +1,276 @@
 {
   "channel_name": "Class CNBC",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "programs": [
     {
-      "show_name": "The Floor",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:20:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita' della finanza americana."
-    },
-    {
-      "show_name": "Speciale FED Watch",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 00:20:00",
-      "end_time": "2026-02-01 00:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
       "show_name": "Missione Risparmio",
       "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 00:45:00",
-      "end_time": "2026-02-01 01:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Talk show di ClassCnbc - Programma condotto da Jole Saggese dedicato al tema degli investimenti e del risparmio."
-    },
-    {
-      "show_name": "5 Giorni Sui Mercati",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 01:30:00",
-      "end_time": "2026-02-01 02:23:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "La settimana finanziaria - Questa settimana: USA, Cina, Europa. Scenari e strategie."
-    },
-    {
-      "show_name": "La settimana di Class Cnbc",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 02:23:00",
-      "end_time": "2026-02-01 07:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class Cnbc - Gli speciali della settimana di Class Cnbc."
-    },
-    {
-      "show_name": "Speciale Davos 2026",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 07:00:00",
-      "end_time": "2026-02-01 07:10:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Speciale Davos 2026",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 07:10:00",
-      "end_time": "2026-02-01 07:22:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Speciale Davos 2026",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 07:22:00",
-      "end_time": "2026-02-01 07:32:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Speciale Davos 2026",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 07:32:00",
-      "end_time": "2026-02-01 07:41:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Speciale Davos 2026",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 07:41:00",
-      "end_time": "2026-02-01 07:52:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Speciale Davos 2026",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 07:52:00",
-      "end_time": "2026-02-01 08:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Mytech",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 08:00:00",
-      "end_time": "2026-02-01 08:11:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Tecnologia pret-a'-porter - Le novita' sui prodotti piu' innovativi e significativi immessi sul mercato dell'elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico."
-    },
-    {
-      "show_name": "Mytech banco di prova",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 08:11:00",
-      "end_time": "2026-02-01 08:20:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico."
-    },
-    {
-      "show_name": "Sports&Money speciale Olimpiadi",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 08:20:00",
-      "end_time": "2026-02-01 08:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "CEO talks",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 08:45:00",
-      "end_time": "2026-02-01 09:01:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Le interviste di Class Cnbc - I risultati societari, le strategie di sviluppo, le novita' del mercato di riferimento. Su Class Cnbc le interviste esclusive ai CEO delle principali aziende italiane ed estere."
-    },
-    {
-      "show_name": "5 Giorni Sui Mercati",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 09:01:00",
-      "end_time": "2026-02-01 10:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "La settimana finanziaria - Questa settimana: USA, Cina, Europa. Scenari e strategie."
-    },
-    {
-      "show_name": "AI Club speciale Generali",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 10:00:00",
-      "end_time": "2026-02-01 10:19:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Speciale mercati",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 10:19:00",
-      "end_time": "2026-02-01 10:29:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class Cnbc - Giuliano Noci presenta il suo nuovo libro \"Disordine, le nuove coordinate del mondo\"."
-    },
-    {
-      "show_name": "Sports&Money speciale Olimpiadi",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 10:29:00",
-      "end_time": "2026-02-01 10:56:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "The Floor",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 10:56:00",
-      "end_time": "2026-02-01 11:36:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita' della finanza americana."
-    },
-    {
-      "show_name": "Speciale FED Watch",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 11:36:00",
-      "end_time": "2026-02-01 12:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Missione Risparmio",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 12:00:00",
-      "end_time": "2026-02-01 12:48:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Talk show di ClassCnbc - Programma condotto da Jole Saggese dedicato al tema degli investimenti e del risparmio."
-    },
-    {
-      "show_name": "Outlook 2026",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 12:48:00",
-      "end_time": "2026-02-01 12:58:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class Cnbc - Cosa aspettarsi dai mercati nel 2026? L'outlook per il 2026 di money manager, case d'affari ed esperti della finanza."
-    },
-    {
-      "show_name": "Focus trimestrali",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 12:58:00",
-      "end_time": "2026-02-01 13:13:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
-    },
-    {
-      "show_name": "Sports&Money speciale Olimpiadi",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 13:13:00",
-      "end_time": "2026-02-01 13:37:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "CEO talks",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 13:37:00",
-      "end_time": "2026-02-01 13:55:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Le interviste di Class Cnbc - I risultati societari, le strategie di sviluppo, le novita' del mercato di riferimento. Su Class Cnbc le interviste esclusive ai CEO delle principali aziende italiane ed estere."
-    },
-    {
-      "show_name": "Speciale Davos 2026",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 13:55:00",
-      "end_time": "2026-02-01 14:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Banche e Territorio",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 14:00:00",
-      "end_time": "2026-02-01 14:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
-    },
-    {
-      "show_name": "Speciale Generali",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 14:05:00",
-      "end_time": "2026-02-01 14:17:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
-    },
-    {
-      "show_name": "Mytech",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 14:17:00",
-      "end_time": "2026-02-01 14:29:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Tecnologia pret-a'-porter - Le novita' sui prodotti piu' innovativi e significativi immessi sul mercato dell'elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico."
-    },
-    {
-      "show_name": "Mytech banco di prova",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 14:29:00",
-      "end_time": "2026-02-01 14:39:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico."
-    },
-    {
-      "show_name": "5 Giorni Sui Mercati",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 14:39:00",
-      "end_time": "2026-02-01 15:34:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "La settimana finanziaria - Questa settimana: USA, Cina, Europa. Scenari e strategie."
-    },
-    {
-      "show_name": "The Floor",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 15:34:00",
-      "end_time": "2026-02-01 16:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita' della finanza americana."
-    },
-    {
-      "show_name": "Speciale FED Watch",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 16:15:00",
-      "end_time": "2026-02-01 16:39:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Missione Risparmio",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 16:39:00",
-      "end_time": "2026-02-01 17:26:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Talk show di ClassCnbc - Programma condotto da Jole Saggese dedicato al tema degli investimenti e del risparmio."
-    },
-    {
-      "show_name": "Speciale mercati",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 17:26:00",
-      "end_time": "2026-02-01 17:40:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class Cnbc - Giuliano Noci presenta il suo nuovo libro \"Disordine, le nuove coordinate del mondo\"."
-    },
-    {
-      "show_name": "Speciale Report",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 17:40:00",
-      "end_time": "2026-02-01 17:54:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
-    },
-    {
-      "show_name": "Speciale USA, dazi e geopolitica",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 17:54:00",
-      "end_time": "2026-02-01 18:06:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Motore Italia Roma Capitale",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 18:06:00",
-      "end_time": "2026-02-01 19:20:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Sports&Money speciale Olimpiadi",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 19:20:00",
-      "end_time": "2026-02-01 19:46:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Mytech",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 19:46:00",
-      "end_time": "2026-02-01 19:58:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Tecnologia pret-a'-porter - Le novita' sui prodotti piu' innovativi e significativi immessi sul mercato dell'elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico."
-    },
-    {
-      "show_name": "Mytech banco di prova",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 19:58:00",
-      "end_time": "2026-02-01 20:10:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico."
-    },
-    {
-      "show_name": "CEO talks",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 20:10:00",
-      "end_time": "2026-02-01 20:28:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Le interviste di Class Cnbc - I risultati societari, le strategie di sviluppo, le novita' del mercato di riferimento. Su Class Cnbc le interviste esclusive ai CEO delle principali aziende italiane ed estere."
-    },
-    {
-      "show_name": "5 Giorni Sui Mercati",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 20:28:00",
-      "end_time": "2026-02-01 21:22:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "La settimana finanziaria - Questa settimana: USA, Cina, Europa. Scenari e strategie."
-    },
-    {
-      "show_name": "Outlook 2026",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 21:22:00",
-      "end_time": "2026-02-01 21:33:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class Cnbc - Cosa aspettarsi dai mercati nel 2026? L'outlook per il 2026 di money manager, case d'affari ed esperti della finanza."
-    },
-    {
-      "show_name": "Speciale mercati",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 21:33:00",
-      "end_time": "2026-02-01 21:44:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class Cnbc - Giuliano Noci presenta il suo nuovo libro \"Disordine, le nuove coordinate del mondo\"."
-    },
-    {
-      "show_name": "The Floor",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 21:44:00",
-      "end_time": "2026-02-01 22:26:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita' della finanza americana."
-    },
-    {
-      "show_name": "Speciale FED Watch",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 22:26:00",
-      "end_time": "2026-02-01 22:52:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
-    },
-    {
-      "show_name": "Mytech",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 22:52:00",
-      "end_time": "2026-02-01 23:04:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Tecnologia pret-a'-porter - Le novita' sui prodotti piu' innovativi e significativi immessi sul mercato dell'elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico."
-    },
-    {
-      "show_name": "Mytech banco di prova",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 23:04:00",
-      "end_time": "2026-02-01 23:15:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico."
-    },
-    {
-      "show_name": "Missione Risparmio",
-      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
-      "start_time": "2026-02-01 23:15:00",
+      "start_time": "2026-02-02 00:00:00",
       "end_time": "2026-02-02 00:02:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Talk show di ClassCnbc - Programma condotto da Jole Saggese dedicato al tema degli investimenti e del risparmio."
+    },
+    {
+      "show_name": "Focus trimestrali",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 00:02:00",
+      "end_time": "2026-02-02 00:17:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
+    },
+    {
+      "show_name": "Speciale Davos 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 00:17:00",
+      "end_time": "2026-02-02 00:25:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "Speciale Davos 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 00:25:00",
+      "end_time": "2026-02-02 00:33:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "Speciale Davos 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 00:33:00",
+      "end_time": "2026-02-02 00:41:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "Speciale Davos 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 00:41:00",
+      "end_time": "2026-02-02 00:50:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "Speciale Davos 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 00:50:00",
+      "end_time": "2026-02-02 00:59:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "Speciale Davos 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 00:59:00",
+      "end_time": "2026-02-02 01:10:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "5 Giorni Sui Mercati",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 01:10:00",
+      "end_time": "2026-02-02 02:03:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "La settimana finanziaria - Questa settimana: USA, Cina, Europa. Scenari e strategie."
+    },
+    {
+      "show_name": "The Floor",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 02:03:00",
+      "end_time": "2026-02-02 02:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita' della finanza americana."
+    },
+    {
+      "show_name": "Speciale FED Watch",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 02:45:00",
+      "end_time": "2026-02-02 07:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "Caffe' Affari",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 07:00:00",
+      "end_time": "2026-02-02 10:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Il notiziario che, di prima mattina, porta la finanza e l'economia nelle case degli italiani."
+    },
+    {
+      "show_name": "Tradingroom",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 10:00:00",
+      "end_time": "2026-02-02 11:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Il contenitore dedicato alla finanza operativa di Class Cnbc. Gli strumenti finanziari trattati con l'aiuto dei migliori trader e operatori presenti sulla piazza italiana."
+    },
+    {
+      "show_name": "Analisi Tecnica",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 11:00:00",
+      "end_time": "2026-02-02 12:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Emerick De Narda e i suoi ospiti rispondono alle domande dei telespettatori che vogliono vendere o acquistare azioni e obbligazioni al momento giusto."
+    },
+    {
+      "show_name": "Linea Mercati",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 12:00:00",
+      "end_time": "2026-02-02 12:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le notizie economico-finanziarie della giornata - Aggiornamento in diretta per essere sempre informati sull'andamento delle borse e sulle notizie che muovono i mercati."
+    },
+    {
+      "show_name": "Analisi Tecnica",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 12:05:00",
+      "end_time": "2026-02-02 12:25:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Emerick De Narda e i suoi ospiti rispondono alle domande dei telespettatori che vogliono vendere o acquistare azioni e obbligazioni al momento giusto."
+    },
+    {
+      "show_name": "Growth Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 12:25:00",
+      "end_time": "2026-02-02 12:40:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di ClassCnbc - Il mercato delle piccole e medie imprese italiane ad alto potenziale di crescita."
+    },
+    {
+      "show_name": "Gli speciali di Class Cnbc",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 12:40:00",
+      "end_time": "2026-02-02 14:20:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di Class Cnbc."
+    },
+    {
+      "show_name": "Trading Nation",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 14:20:00",
+      "end_time": "2026-02-02 14:50:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Approfondimento dedicato al mercato americano."
+    },
+    {
+      "show_name": "Market Movers",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 14:50:00",
+      "end_time": "2026-02-02 15:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Le storie di giornata a Piazza Affari raccontate da Milano Finanza e analisi tecnica di uno dei titoli piu' seguiti della seduta di borsa."
+    },
+    {
+      "show_name": "Linea Mercati",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 15:00:00",
+      "end_time": "2026-02-02 15:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le notizie economico-finanziarie della giornata - Aggiornamento in diretta per essere sempre informati sull'andamento delle borse e sulle notizie che muovono i mercati."
+    },
+    {
+      "show_name": "Linea Mercati Wall Street",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 15:29:00",
+      "end_time": "2026-02-02 15:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "L'apertura di Wall Street - In diretta l'apertura e l'andamento della borsa americana."
+    },
+    {
+      "show_name": "Linea Mercati",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 15:45:00",
+      "end_time": "2026-02-02 16:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le notizie economico-finanziarie della giornata - Aggiornamento in diretta per essere sempre informati sull'andamento delle borse e sulle notizie che muovono i mercati."
+    },
+    {
+      "show_name": "Gli speciali di Class Cnbc",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 16:00:00",
+      "end_time": "2026-02-02 17:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di Class Cnbc."
+    },
+    {
+      "show_name": "Report",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 17:00:00",
+      "end_time": "2026-02-02 17:50:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Il Tg della finanza - Notize e avvenimenti di giornata analizzati con ospiti in studio."
+    },
+    {
+      "show_name": "Gli speciali di Class Cnbc",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 17:50:00",
+      "end_time": "2026-02-02 21:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di Class Cnbc."
+    },
+    {
+      "show_name": "Gli speciali di Class Cnbc",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 21:00:00",
+      "end_time": "2026-02-02 21:59:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di Class Cnbc."
+    },
+    {
+      "show_name": "Linea Mercati Notte",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 21:59:00",
+      "end_time": "2026-02-02 22:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "La chiusura di Wall Street - Il punto sui fatti del giorno alla chiusura di Wall Street."
+    },
+    {
+      "show_name": "Report",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 22:15:00",
+      "end_time": "2026-02-02 23:10:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Il Tg della finanza - Notize e avvenimenti di giornata analizzati con ospiti in studio."
+    },
+    {
+      "show_name": "La giornata di Class Cnbc",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-02 23:10:00",
+      "end_time": "2026-02-03 07:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Il meglio della giornata di Class Cnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di Class Cnbc."
     }
   ]
 }

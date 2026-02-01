@@ -1,240 +1,231 @@
 {
   "channel_name": "DMAX",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "programs": [
-    {
-      "show_name": "Real TV: crimini di strada",
-      "show_logo": "",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:00:00",
-      "episode_number": "S1 E12",
-      "show_category": "",
-      "show_description": "Sorprese indesiderate - Andrea Agresti analizza i crimini ripresi dalle telecamere e diventati virali. Manuel Spadaccini ci consiglia come comportarci in situazioni ad alto rischio."
-    },
-    {
-      "show_name": "Real TV: crimini di strada",
-      "show_logo": "",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:30:00",
-      "episode_number": "S1 E12",
-      "show_category": "",
-      "show_description": "Sorprese indesiderate - Andrea Agresti analizza i crimini ripresi dalle telecamere e diventati virali. Manuel Spadaccini ci consiglia come comportarci in situazioni ad alto rischio."
-    },
-    {
-      "show_name": "Real TV: crimini di strada",
-      "show_logo": "",
-      "start_time": "2026-02-01 00:30:00",
-      "end_time": "2026-02-01 01:30:00",
-      "episode_number": "S1 E11",
-      "show_category": "",
-      "show_description": "Fuori controllo - Andrea Agresti analizza i crimini ripresi dalle telecamere e diventati virali. Manuel Spadaccini ci consiglia come comportarci in situazioni ad alto rischio."
-    },
-    {
-      "show_name": "Cacciatori di fantasmi",
-      "show_logo": "",
-      "start_time": "2026-02-01 01:30:00",
-      "end_time": "2026-02-01 02:20:00",
-      "episode_number": "S15 E4",
-      "show_category": "",
-      "show_description": "A scuola - La squadra indaga su una misteriosa scuola a Deming, nel Nuovo Messico. La struttura e' situata in un luogo infestato dagli spiriti degli Apache."
-    },
-    {
-      "show_name": "Cacciatori di fantasmi",
-      "show_logo": "",
-      "start_time": "2026-02-01 02:20:00",
-      "end_time": "2026-02-01 03:15:00",
-      "episode_number": "S17 E1",
-      "show_category": "",
-      "show_description": "Il casino' - Zak Bagans e la sua squadra esaminano alcuni misteriosi eventi in un vecchio casino'."
-    },
-    {
-      "show_name": "Cacciatori di fantasmi",
-      "show_logo": "",
-      "start_time": "2026-02-01 03:15:00",
-      "end_time": "2026-02-01 04:10:00",
-      "episode_number": "S17 E2",
-      "show_category": "",
-      "show_description": "Melrose Hotel - Zak Bagans e la sua squadra indagano su un hotel storico infestato dagli spiriti."
-    },
-    {
-      "show_name": "Cacciatori di fantasmi",
-      "show_logo": "",
-      "start_time": "2026-02-01 04:10:00",
-      "end_time": "2026-02-01 05:05:00",
-      "episode_number": "S17 E3",
-      "show_category": "",
-      "show_description": "Passato violento - Zak e la squadra indagano su due storici hotel abbandonati in un casino' a Las Vegas."
-    },
-    {
-      "show_name": "Cacciatori di fantasmi",
-      "show_logo": "",
-      "start_time": "2026-02-01 05:05:00",
-      "end_time": "2026-02-01 06:00:00",
-      "episode_number": "S17 E4",
-      "show_category": "",
-      "show_description": "Vecchia proprieta' - Zak e la squadra indagano su presunti aggressioni di spiriti in una vecchia proprieta'."
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "",
-      "start_time": "2026-02-01 06:00:00",
-      "end_time": "2026-02-01 06:25:00",
-      "episode_number": "S2 E15",
-      "show_category": "",
-      "show_description": "Escavatori - I due protagonisti scoprono un Bobcat 743 del 1981 in un lotto di Los Angeles, ma riusciranno a metterlo sul mercato e a guadagnarci?"
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "",
-      "start_time": "2026-02-01 06:25:00",
-      "end_time": "2026-02-01 06:50:00",
-      "episode_number": "S2 E16",
-      "show_category": "",
-      "show_description": "Acrobazie mozzafiato - I due protagonisti affrontano una spietata concorrenza a un'asta di Long Beach dove scoprono uno skateboard del 1970 e un giubbotto antiproiettile, ma quanto varranno sul mercato?"
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "",
-      "start_time": "2026-02-01 06:50:00",
-      "end_time": "2026-02-01 07:20:00",
-      "episode_number": "S2 E17",
-      "show_category": "",
-      "show_description": "Pezzi d'autore - Allen e Ton sono diretti a Hollywood dove trovano un revolver unico e la locandina del film \\."
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "",
-      "start_time": "2026-02-01 07:20:00",
-      "end_time": "2026-02-01 07:45:00",
-      "episode_number": "S2 E18",
-      "show_category": "",
-      "show_description": "Rodeo - All'asta di Anaheim, in California, Ton e Allen si aggiudicano un toro meccanico del 1970 e un banjo degli anni '40, ma riusciranno a rivenderli?"
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "",
-      "start_time": "2026-02-01 07:45:00",
-      "end_time": "2026-02-01 08:15:00",
-      "episode_number": "S2 E19",
-      "show_category": "",
-      "show_description": "Sin City - I due protagonisti sfidano alcuni giocatori d'azzardo a un'asta di Las Vegas, e trovano un autoscontro del 1950 e un bazooka ad aria compressa, ma quanto varranno sul mercato?"
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "",
-      "start_time": "2026-02-01 08:15:00",
-      "end_time": "2026-02-01 08:40:00",
-      "episode_number": "S2 E20",
-      "show_category": "",
-      "show_description": "Las Vegas - Ton e Allen cercano di accaparrarsi dei grossi lotti a Las Vegas nei quali scoprono un antico pugnale e una bacchetta da mago degli anni '70."
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "",
-      "start_time": "2026-02-01 08:40:00",
-      "end_time": "2026-02-01 09:05:00",
-      "episode_number": "S2 E21",
-      "show_category": "",
-      "show_description": "Tatuaggi - Allen e Ton trovano una macchina per tatuaggi autografata degli anni '60, una sega professionale e la statuetta di un orso in un lotto di Los Angeles."
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "",
-      "start_time": "2026-02-01 09:05:00",
-      "end_time": "2026-02-01 09:30:00",
-      "episode_number": "S2 E22",
-      "show_category": "",
-      "show_description": "Affari mattutini - All'asta di Stanton, in California, i due protagonisti scoprono un vecchio gioco di carnevale che ha bisogno di un restauro e un ottagono per i combattimenti."
-    },
-    {
-      "show_name": "Affari d'occasione",
-      "show_logo": "",
-      "start_time": "2026-02-01 09:30:00",
-      "end_time": "2026-02-01 10:30:00",
-      "episode_number": "S1 E3",
-      "show_category": "",
-      "show_description": "Residuati bellici - Una cantina restituisce al proprietario l'affare che non ti aspetti e al team di Thomas si aggiunge una nuova recluta."
-    },
-    {
-      "show_name": "WWE Smackdown",
-      "show_logo": "",
-      "start_time": "2026-02-01 10:30:00",
-      "end_time": "2026-02-01 13:30:00",
-      "episode_number": "E134",
-      "show_category": "",
-      "show_description": "St. Ep.134 - I Wyatt Sicks difendono i titoli tag team contro gli MFT. Triple Threat per decretare le prossime N.1 Contender ai titoli di coppia femminili."
-    },
-    {
-      "show_name": "Quei cattivi vicini",
-      "show_logo": "",
-      "start_time": "2026-02-01 13:30:00",
-      "end_time": "2026-02-01 14:30:00",
-      "episode_number": "S2 E5",
-      "show_category": "",
-      "show_description": "St.2 Ep.5 - I rapporti tra i vicini di casa non sono mai stati cosi' animati: liti, risse ed episodi ai limiti della realta'!"
-    },
-    {
-      "show_name": "Quei cattivi vicini",
-      "show_logo": "",
-      "start_time": "2026-02-01 14:30:00",
-      "end_time": "2026-02-01 15:30:00",
-      "episode_number": "S2 E6",
-      "show_category": "",
-      "show_description": "St.2 Ep.6 - I rapporti tra i vicini di casa non sono mai stati cosi' animati: liti, risse ed episodi ai limiti della realta'!"
-    },
-    {
-      "show_name": "72 animali pericolosi con Barbascura X",
-      "show_logo": "",
-      "start_time": "2026-02-01 15:30:00",
-      "end_time": "2026-02-01 16:35:00",
-      "episode_number": "S3 E6",
-      "show_category": "",
-      "show_description": "St.3 Ep.6 - Barbascura X ci mostra gli animali piu' pericolosi del Sud America."
-    },
-    {
-      "show_name": "Vado a vivere nel bosco",
-      "show_logo": "",
-      "start_time": "2026-02-01 16:35:00",
-      "end_time": "2026-02-01 18:30:00",
-      "episode_number": "S7 E13",
-      "show_category": "",
-      "show_description": "Il ritorno - Nelle Black Hills del Wyoming, Marty torna per aiutare una famiglia."
-    },
-    {
-      "show_name": "Vado a vivere nel bosco",
-      "show_logo": "",
-      "start_time": "2026-02-01 18:30:00",
-      "end_time": "2026-02-01 20:20:00",
-      "episode_number": "S7 E5",
-      "show_category": "",
-      "show_description": "Intervento - Chiamati dai vicini, i Raney si affrettano a soccorrere un colono solitario."
-    },
-    {
-      "show_name": "Avamposti",
-      "show_logo": "",
-      "start_time": "2026-02-01 20:20:00",
-      "end_time": "2026-02-01 21:40:00",
-      "episode_number": "S1 E2",
-      "show_category": "",
-      "show_description": "Cerignola - La quarta mafia - I Carabinieri di Cerignola, tra rapine al bancomat e ricettazione di auto rubate, non si arrendono e vanno dritti all'obiettivo: la lotta alla criminalita' organizzata."
-    },
-    {
-      "show_name": "Border Security: America Latina - 1^TV",
-      "show_logo": "",
-      "start_time": "2026-02-01 21:40:00",
-      "end_time": "2026-02-01 23:30:00",
-      "episode_number": "S1 E4",
-      "show_category": "",
-      "show_description": "St.1 Ep.4 - Gli agenti che lavorano lungo i confini di Brasile, Messico e Colombia devono lottare contro varie attivita' legali e fermare i criminali che arrivano dal cielo, via mare e via terra."
-    },
     {
       "show_name": "Stop! Border Control: Roma Fiumicino",
       "show_logo": "",
-      "start_time": "2026-02-01 23:30:00",
+      "start_time": "2026-02-02 00:00:00",
       "end_time": "2026-02-02 00:00:00",
       "episode_number": "S4 E3",
       "show_category": "",
       "show_description": "St.4 Ep.3 - Scopriamo il lavoro degli agenti a Fiumicino."
+    },
+    {
+      "show_name": "Stop! Border Control: Roma Fiumicino",
+      "show_logo": "",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 00:30:00",
+      "episode_number": "S4 E3",
+      "show_category": "",
+      "show_description": "St.4 Ep.3 - Scopriamo il lavoro degli agenti a Fiumicino."
+    },
+    {
+      "show_name": "Stop! Border Control: Roma Fiumicino",
+      "show_logo": "",
+      "start_time": "2026-02-02 00:30:00",
+      "end_time": "2026-02-02 01:40:00",
+      "episode_number": "S4 E2",
+      "show_category": "",
+      "show_description": "St.4 Ep.2 - Scopriamo il lavoro degli agenti a Fiumicino."
+    },
+    {
+      "show_name": "Real TV: crimini di strada",
+      "show_logo": "",
+      "start_time": "2026-02-02 01:40:00",
+      "end_time": "2026-02-02 02:45:00",
+      "episode_number": "S1 E1",
+      "show_category": "",
+      "show_description": "Ladri e snack - Andrea Agresti analizza i crimini ripresi dalle telecamere e diventati virali. Manuel Spadaccini ci consiglia come comportarci in situazioni ad alto rischio."
+    },
+    {
+      "show_name": "Real TV: crimini di strada",
+      "show_logo": "",
+      "start_time": "2026-02-02 02:45:00",
+      "end_time": "2026-02-02 03:55:00",
+      "episode_number": "S1 E2",
+      "show_category": "",
+      "show_description": "Risse e fughe - Andrea Agresti analizza i crimini ripresi dalle telecamere e diventati virali. Manuel Spadaccini ci consiglia come comportarci in situazioni ad alto rischio."
+    },
+    {
+      "show_name": "Real TV: crimini di strada",
+      "show_logo": "",
+      "start_time": "2026-02-02 03:55:00",
+      "end_time": "2026-02-02 05:00:00",
+      "episode_number": "S1 E3",
+      "show_category": "",
+      "show_description": "Cattive intenzioni - Andrea Agresti analizza i crimini ripresi dalle telecamere e diventati virali. Manuel Spadaccini ci consiglia come comportarci in situazioni ad alto rischio."
+    },
+    {
+      "show_name": "Real TV: crimini di strada",
+      "show_logo": "",
+      "start_time": "2026-02-02 05:00:00",
+      "end_time": "2026-02-02 06:00:00",
+      "episode_number": "S1 E4",
+      "show_category": "",
+      "show_description": "Senza via di fuga - Andrea Agresti analizza i crimini ripresi dalle telecamere e diventati virali. Manuel Spadaccini ci consiglia come comportarci in situazioni ad alto rischio."
+    },
+    {
+      "show_name": "Affari in valigia",
+      "show_logo": "",
+      "start_time": "2026-02-02 06:00:00",
+      "end_time": "2026-02-02 06:20:00",
+      "episode_number": "S1 E14",
+      "show_category": "",
+      "show_description": "Soldi da spendere - Ad Atlanta, gli acquirenti partecipano all'asta di un carico non reclamato. Mark intravede alcuni pezzi di una Rolls Royce: la sua offerta gli consentira' di aggiudicarseli?"
+    },
+    {
+      "show_name": "Affari in valigia",
+      "show_logo": "",
+      "start_time": "2026-02-02 06:20:00",
+      "end_time": "2026-02-02 06:40:00",
+      "episode_number": "S1 E15",
+      "show_category": "",
+      "show_description": "Salto nel passato - Gli acquirenti partecipano ad un'asta a Boston e puntano sull'acquisto di oggetti storici: un documento che comunica la morte di George Washington. Ma sara' autentico?"
+    },
+    {
+      "show_name": "Affari in valigia",
+      "show_logo": "",
+      "start_time": "2026-02-02 06:40:00",
+      "end_time": "2026-02-02 07:05:00",
+      "episode_number": "S1 E17",
+      "show_category": "",
+      "show_description": "Guerra civile - Gli acquirenti restano a Greensboro, dove trovano una sella dell'esercito statunitense risalente alla Guerra Civile Americana. Billy riuscira' a concludere l'affare mantenendo la calma?"
+    },
+    {
+      "show_name": "Banco dei pugni",
+      "show_logo": "",
+      "start_time": "2026-02-02 07:05:00",
+      "end_time": "2026-02-02 07:35:00",
+      "episode_number": "S2 E6",
+      "show_category": "",
+      "show_description": "Il giocatore d'azzardo - Un giocatore d'azzardo visita il negozio. In seguito, la situazione si fa sempre piu' eccentrica e stravagante quando un cliente cerca di vendere un lettino di un ginecologo."
+    },
+    {
+      "show_name": "Banco dei pugni",
+      "show_logo": "",
+      "start_time": "2026-02-02 07:35:00",
+      "end_time": "2026-02-02 08:00:00",
+      "episode_number": "S2 E7",
+      "show_category": "",
+      "show_description": "Oro folle - La tensione sale quando un impiegato vuole a tutti i costi testare una macchina per l'abbronzatura. Una cliente cerca di vendere il suo braccialetto d'oro ma Les le dice che e' un falso."
+    },
+    {
+      "show_name": "Banco dei pugni",
+      "show_logo": "",
+      "start_time": "2026-02-02 08:00:00",
+      "end_time": "2026-02-02 08:30:00",
+      "episode_number": "S2 E8",
+      "show_category": "",
+      "show_description": "I re degli affari - Les fa un ingente prestito ad una cliente che ha raccontato una storia commovente. Ma riuscira' a restituire la somma come promesso o Les verra' derubato dei suoi risparmi?"
+    },
+    {
+      "show_name": "A caccia di tesori",
+      "show_logo": "",
+      "start_time": "2026-02-02 08:30:00",
+      "end_time": "2026-02-02 09:30:00",
+      "episode_number": "S15 E6",
+      "show_category": "",
+      "show_description": "Forrest Gump e Guerra Civile - Mike e Frank scovano una grande collezione di reperti militari, tra questi un revolver della Guerra Civile; inoltre trovano le scarpe originali di Forrest Gump."
+    },
+    {
+      "show_name": "A caccia di tesori",
+      "show_logo": "",
+      "start_time": "2026-02-02 09:30:00",
+      "end_time": "2026-02-02 10:35:00",
+      "episode_number": "S16 E5",
+      "show_category": "",
+      "show_description": "Aeroplano - Frank e Mike si occupano di una collezione di Ford e di altri oggetti automobilistici. Inoltre, Danielle esamina il brevetto di un aereo insolito."
+    },
+    {
+      "show_name": "Per un pugno di Giada",
+      "show_logo": "",
+      "start_time": "2026-02-02 10:35:00",
+      "end_time": "2026-02-02 12:15:00",
+      "episode_number": "S1 E1",
+      "show_category": "",
+      "show_description": "St.1 Ep.1 - Una squadra va alla ricerca della preziosa giada."
+    },
+    {
+      "show_name": "Border Security: acque di confine",
+      "show_logo": "",
+      "start_time": "2026-02-02 12:15:00",
+      "end_time": "2026-02-02 14:00:00",
+      "episode_number": "S1 E6",
+      "show_category": "",
+      "show_description": "St.1 Ep.6 - Gli agenti lavorano per proteggere i mari e i fiumi degli USA."
+    },
+    {
+      "show_name": "Storage Wars Canada",
+      "show_logo": "",
+      "start_time": "2026-02-02 14:00:00",
+      "end_time": "2026-02-02 15:00:00",
+      "episode_number": "S1 E1",
+      "show_category": "",
+      "show_description": "Luci del nord - Nelle aste dei depositi in Canada, gli acquirenti fanno grandi scommesse e offerte ogni giorno sulle unita' abbandonate o confiscate. Chi si aggiudichera' i depositi migliori?"
+    },
+    {
+      "show_name": "Storage Wars Canada - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-02 15:00:00",
+      "end_time": "2026-02-02 15:55:00",
+      "episode_number": "S1 E2",
+      "show_category": "",
+      "show_description": "Una follia - Mentre gli acquirenti arrivano a Orangeville, Ursula e' determinata a dimostrare che e' una grande giocatrice. Inoltre, Paul e Bogart scoprono un oggetto che potrebbe solo essere una cosa folle."
+    },
+    {
+      "show_name": "Affari a tutti i costi - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-02 15:55:00",
+      "end_time": "2026-02-02 16:50:00",
+      "episode_number": "S3 E4",
+      "show_category": "",
+      "show_description": "Affari su ruota - Jesse fa un'offerta su un'unita' sperando di ottenere dei tesori nascosti, ma ha fatto un errore? Inoltre, ci sono in palio tre camper. Ma chi riuscira' a portarli a casa?"
+    },
+    {
+      "show_name": "Affari a tutti i costi",
+      "show_logo": "",
+      "start_time": "2026-02-02 16:50:00",
+      "end_time": "2026-02-02 17:50:00",
+      "episode_number": "S3 E5",
+      "show_category": "",
+      "show_description": "Controlli - L'asta si infiamma subito quando due rivali si sfidano in un testa a testa. Inoltre, T-Money mette gli occhi su qualcosa che potrebbe fargli guadagnare molti soldi."
+    },
+    {
+      "show_name": "Per un pugno di Giada",
+      "show_logo": "",
+      "start_time": "2026-02-02 17:50:00",
+      "end_time": "2026-02-02 19:35:00",
+      "episode_number": "S1 E2",
+      "show_category": "",
+      "show_description": "St.1 Ep.2 - Una squadra va alla ricerca della preziosa giada."
+    },
+    {
+      "show_name": "Operazione N.A.S.",
+      "show_logo": "",
+      "start_time": "2026-02-02 19:35:00",
+      "end_time": "2026-02-02 21:40:00",
+      "episode_number": "S3 E4",
+      "show_category": "",
+      "show_description": "St.3 Ep.4 - Cibo avariato, merci illegali o contraffatte e ancora, medicinali scaduti. Ogni giorno i Carabinieri del N.A.S. difendono la salute dei cittadini con le loro indagini e ispezioni sanitarie."
+    },
+    {
+      "show_name": "I pionieri dell'oro - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-02 21:40:00",
+      "end_time": "2026-02-02 23:30:00",
+      "episode_number": "S10 E1",
+      "show_category": "",
+      "show_description": "St.10 Ep.1 - Un gruppo di cercatori d'oro si avventura nell'outback australiano."
+    },
+    {
+      "show_name": "WWE Raw - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-02 23:30:00",
+      "end_time": "2026-02-03 00:00:00",
+      "episode_number": "E135",
+      "show_category": "",
+      "show_description": "St. Ep.135 - C'e' un Fatal 4 Way per decretare i primi sfidanti ai titoli tag team detenuti dagli Usos. Adam Pearce incontra Bron Breakker."
     }
   ]
 }

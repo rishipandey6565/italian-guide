@@ -1,246 +1,48 @@
 {
   "channel_name": "Sky Sport MotoGP",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "programs": [
     {
-      "show_name": "All On Red",
-      "show_logo": "https://guidatv.sky.it/uuid/64b24473-4aa0-40da-9c84-79ff1d994daf/cover?territory=IT&md5ChecksumParam=1019c9390ce94e903763089ff8c274d7",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:00:00",
-      "episode_number": "",
+      "show_name": "Paddock Life - Best Of 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/ab219d97-eafe-43e0-aed7-b3cafde5d013/cover?territory=IT&md5ChecksumParam=4ddeaa2989576877892889330172f79f",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 01:55:00",
+      "episode_number": "S2025 E16",
       "show_category": "Sport",
-      "show_description": "La sfida di Marc Marquez con la sua Ducati: la dimostrazione di cosa succede quando uno dei migliori piloti sale su una delle migliori moto."
-    },
-    {
-      "show_name": "Mar9uez",
-      "show_logo": "https://guidatv.sky.it/uuid/caadba5b-edcb-4cd6-b788-8694fd048f8d/COVER_TITLE_TALL?territory=IT&version=626553a5-b615-3041-bc8a-234785a928ae&w=600&h=800&md5ChecksumParam=ae3cb24be8d09306c4030c6a4702c1b5",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 01:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Marc Mar9uez."
-    },
-    {
-      "show_name": "Speciale Eicma 2025 - Dietro Le",
-      "show_logo": "https://guidatv.sky.it/uuid/076002f9-37fb-4c40-8ede-a8ae71a2f49b/cover?territory=IT&md5ChecksumParam=0dea3ace96b1257fcd2445949873cfb2",
-      "start_time": "2026-02-01 01:00:00",
-      "end_time": "2026-02-01 01:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Speciale Eicma- Dietro Le Quinte Di Motolive."
-    },
-    {
-      "show_name": "Un Anno Di Motogp 2025",
-      "show_logo": "https://guidatv.sky.it/uuid/b1f570fc-26ba-4db3-8501-ba1394f273c2/cover?territory=IT&md5ChecksumParam=60a083a1b18905de20b945210803aa1d",
-      "start_time": "2026-02-01 01:30:00",
-      "end_time": "2026-02-01 03:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Un Anno Di Motogp 2025."
-    },
-    {
-      "show_name": "Presentazione Ducati Lenovo 19/01/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/f7d2cd29-5c4d-4670-8731-ef92fd9b8abb/cover?territory=IT&md5ChecksumParam=5de914c982404b9f56a03d92a0d1100b",
-      "start_time": "2026-02-01 03:00:00",
-      "end_time": "2026-02-01 04:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Presentazione Ducati Lenovo 19/01/2026."
-    },
-    {
-      "show_name": "Presentazione Aprilia Trackhouse... - Ep. 21 - Presentazione Aprilia Trackhouse 21/01/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/8eb5518b-3afb-46f5-8e0d-f98b969d366f/cover?territory=IT&md5ChecksumParam=d7775059d7a7df1687d72baf9a3f847c",
-      "start_time": "2026-02-01 04:00:00",
-      "end_time": "2026-02-01 04:40:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Presentazione Team Yamaha Monster 21/01/2026."
-    },
-    {
-      "show_name": "Ep10 - 04 Park",
-      "show_logo": "https://guidatv.sky.it/uuid/f2babaf9-bb46-47b0-a491-9374285f3910/cover?territory=IT&md5ChecksumParam=4e7e425b1553d674fb9d2fb9ac96e97c",
-      "start_time": "2026-02-01 04:40:00",
-      "end_time": "2026-02-01 04:55:00",
-      "episode_number": "S1 E10",
-      "show_category": "Sport",
-      "show_description": "Dovi realizza il suo sogno: un parco con pista di motocross e minicross, MTB e pump track. Ma lo 04 Park è molto di più: centro federale FMI, ristorante e soprattutto un posto per ritrovarsi con amici."
-    },
-    {
-      "show_name": "Presentazione Pertamina...... (Diretta)",
-      "show_logo": "https://guidatv.sky.it/uuid/a2a8d563-476e-436d-8e46-ef5b82a321ba/cover?territory=IT&md5ChecksumParam=215e6dd6acdffb3f54633405fe157cef",
-      "start_time": "2026-02-01 04:55:00",
-      "end_time": "2026-02-01 05:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Presentazione Pertamina Enduro Vr46 14/01/2026 - Presentazione Pertamina Enduro Vr46..."
-    },
-    {
-      "show_name": "All On Red",
-      "show_logo": "https://guidatv.sky.it/uuid/64b24473-4aa0-40da-9c84-79ff1d994daf/cover?territory=IT&md5ChecksumParam=1019c9390ce94e903763089ff8c274d7",
-      "start_time": "2026-02-01 05:30:00",
-      "end_time": "2026-02-01 06:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "La sfida di Marc Marquez con la sua Ducati: la dimostrazione di cosa succede quando uno dei migliori piloti sale su una delle migliori moto."
-    },
-    {
-      "show_name": "Mar9uez",
-      "show_logo": "https://guidatv.sky.it/uuid/caadba5b-edcb-4cd6-b788-8694fd048f8d/COVER_TITLE_TALL?territory=IT&version=626553a5-b615-3041-bc8a-234785a928ae&w=600&h=800&md5ChecksumParam=ae3cb24be8d09306c4030c6a4702c1b5",
-      "start_time": "2026-02-01 06:00:00",
-      "end_time": "2026-02-01 07:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Marc Mar9uez."
-    },
-    {
-      "show_name": "Speciale Eicma 2025 - Dietro Le",
-      "show_logo": "https://guidatv.sky.it/uuid/076002f9-37fb-4c40-8ede-a8ae71a2f49b/cover?territory=IT&md5ChecksumParam=0dea3ace96b1257fcd2445949873cfb2",
-      "start_time": "2026-02-01 07:00:00",
-      "end_time": "2026-02-01 07:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Speciale Eicma- Dietro Le Quinte Di Motolive."
-    },
-    {
-      "show_name": "Un Anno Di Motogp 2025",
-      "show_logo": "https://guidatv.sky.it/uuid/b1f570fc-26ba-4db3-8501-ba1394f273c2/cover?territory=IT&md5ChecksumParam=60a083a1b18905de20b945210803aa1d",
-      "start_time": "2026-02-01 07:30:00",
-      "end_time": "2026-02-01 09:15:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Un Anno Di Motogp 2025."
-    },
-    {
-      "show_name": "Presentazione Ducati Lenovo 19/01/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/f7d2cd29-5c4d-4670-8731-ef92fd9b8abb/cover?territory=IT&md5ChecksumParam=5de914c982404b9f56a03d92a0d1100b",
-      "start_time": "2026-02-01 09:15:00",
-      "end_time": "2026-02-01 10:05:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Presentazione Ducati Lenovo 19/01/2026."
-    },
-    {
-      "show_name": "Presentazione Aprilia Trackhouse... - Ep. 21 - Presentazione Aprilia Trackhouse 21/01/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/8eb5518b-3afb-46f5-8e0d-f98b969d366f/cover?territory=IT&md5ChecksumParam=d7775059d7a7df1687d72baf9a3f847c",
-      "start_time": "2026-02-01 10:05:00",
-      "end_time": "2026-02-01 10:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Presentazione Team Yamaha Monster 21/01/2026."
-    },
-    {
-      "show_name": "Ep10 - 04 Park",
-      "show_logo": "https://guidatv.sky.it/uuid/f2babaf9-bb46-47b0-a491-9374285f3910/cover?territory=IT&md5ChecksumParam=4e7e425b1553d674fb9d2fb9ac96e97c",
-      "start_time": "2026-02-01 10:45:00",
-      "end_time": "2026-02-01 11:00:00",
-      "episode_number": "S1 E10",
-      "show_category": "Sport",
-      "show_description": "Dovi realizza il suo sogno: un parco con pista di motocross e minicross, MTB e pump track. Ma lo 04 Park è molto di più: centro federale FMI, ristorante e soprattutto un posto per ritrovarsi con amici."
-    },
-    {
-      "show_name": "Presentazione Pertamina...... (Diretta)",
-      "show_logo": "https://guidatv.sky.it/uuid/a2a8d563-476e-436d-8e46-ef5b82a321ba/cover?territory=IT&md5ChecksumParam=215e6dd6acdffb3f54633405fe157cef",
-      "start_time": "2026-02-01 11:00:00",
-      "end_time": "2026-02-01 11:35:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Presentazione Pertamina Enduro Vr46 14/01/2026 - Presentazione Pertamina Enduro Vr46..."
-    },
-    {
-      "show_name": "All On Red",
-      "show_logo": "https://guidatv.sky.it/uuid/64b24473-4aa0-40da-9c84-79ff1d994daf/cover?territory=IT&md5ChecksumParam=1019c9390ce94e903763089ff8c274d7",
-      "start_time": "2026-02-01 11:35:00",
-      "end_time": "2026-02-01 12:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "La sfida di Marc Marquez con la sua Ducati: la dimostrazione di cosa succede quando uno dei migliori piloti sale su una delle migliori moto."
-    },
-    {
-      "show_name": "Mar9uez",
-      "show_logo": "https://guidatv.sky.it/uuid/caadba5b-edcb-4cd6-b788-8694fd048f8d/COVER_TITLE_TALL?territory=IT&version=626553a5-b615-3041-bc8a-234785a928ae&w=600&h=800&md5ChecksumParam=ae3cb24be8d09306c4030c6a4702c1b5",
-      "start_time": "2026-02-01 12:00:00",
-      "end_time": "2026-02-01 13:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Marc Mar9uez."
-    },
-    {
-      "show_name": "Speciale Eicma 2025 - Dietro Le",
-      "show_logo": "https://guidatv.sky.it/uuid/076002f9-37fb-4c40-8ede-a8ae71a2f49b/cover?territory=IT&md5ChecksumParam=0dea3ace96b1257fcd2445949873cfb2",
-      "start_time": "2026-02-01 13:00:00",
-      "end_time": "2026-02-01 13:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Speciale Eicma- Dietro Le Quinte Di Motolive."
-    },
-    {
-      "show_name": "Un Anno Di Motogp 2025",
-      "show_logo": "https://guidatv.sky.it/uuid/b1f570fc-26ba-4db3-8501-ba1394f273c2/cover?territory=IT&md5ChecksumParam=60a083a1b18905de20b945210803aa1d",
-      "start_time": "2026-02-01 13:30:00",
-      "end_time": "2026-02-01 15:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Un Anno Di Motogp 2025."
-    },
-    {
-      "show_name": "Presentazione Ducati Lenovo 19/01/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/f7d2cd29-5c4d-4670-8731-ef92fd9b8abb/cover?territory=IT&md5ChecksumParam=5de914c982404b9f56a03d92a0d1100b",
-      "start_time": "2026-02-01 15:00:00",
-      "end_time": "2026-02-01 16:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Presentazione Ducati Lenovo 19/01/2026."
-    },
-    {
-      "show_name": "Presentazione Aprilia Trackhouse... - Ep. 21 - Presentazione Aprilia Trackhouse 21/01/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/8eb5518b-3afb-46f5-8e0d-f98b969d366f/cover?territory=IT&md5ChecksumParam=d7775059d7a7df1687d72baf9a3f847c",
-      "start_time": "2026-02-01 16:00:00",
-      "end_time": "2026-02-01 16:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Presentazione Team Yamaha Monster 21/01/2026."
-    },
-    {
-      "show_name": "Ep10 - 04 Park",
-      "show_logo": "https://guidatv.sky.it/uuid/f2babaf9-bb46-47b0-a491-9374285f3910/cover?territory=IT&md5ChecksumParam=4e7e425b1553d674fb9d2fb9ac96e97c",
-      "start_time": "2026-02-01 16:45:00",
-      "end_time": "2026-02-01 17:00:00",
-      "episode_number": "S1 E10",
-      "show_category": "Sport",
-      "show_description": "Dovi realizza il suo sogno: un parco con pista di motocross e minicross, MTB e pump track. Ma lo 04 Park è molto di più: centro federale FMI, ristorante e soprattutto un posto per ritrovarsi con amici."
-    },
-    {
-      "show_name": "Presentazione Pertamina...... (Diretta)",
-      "show_logo": "https://guidatv.sky.it/uuid/a2a8d563-476e-436d-8e46-ef5b82a321ba/cover?territory=IT&md5ChecksumParam=215e6dd6acdffb3f54633405fe157cef",
-      "start_time": "2026-02-01 17:00:00",
-      "end_time": "2026-02-01 17:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Presentazione Pertamina Enduro Vr46 14/01/2026 - Presentazione Pertamina Enduro Vr46..."
-    },
-    {
-      "show_name": "All On Red",
-      "show_logo": "https://guidatv.sky.it/uuid/64b24473-4aa0-40da-9c84-79ff1d994daf/cover?territory=IT&md5ChecksumParam=1019c9390ce94e903763089ff8c274d7",
-      "start_time": "2026-02-01 17:30:00",
-      "end_time": "2026-02-01 19:55:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "La sfida di Marc Marquez con la sua Ducati: la dimostrazione di cosa succede quando uno dei migliori piloti sale su una delle migliori moto."
+      "show_description": "Rivediamo il meglio di quanto accaduto in pista nel 2025 con approfondimenti e analisi."
     },
     {
       "show_name": "Ep1 - Gli Inizi",
       "show_logo": "https://guidatv.sky.it/uuid/dcc5ce87-dd3f-487f-a492-d77055f40981/cover?territory=IT&md5ChecksumParam=490401adb06d1cbf556deae7b9bfb0ae",
-      "start_time": "2026-02-01 19:55:00",
-      "end_time": "2026-02-01 21:00:00",
+      "start_time": "2026-02-02 01:55:00",
+      "end_time": "2026-02-02 02:15:00",
       "episode_number": "S1 E1",
       "show_category": "Sport",
       "show_description": "Il piccolo Dovi inizia subito a vincere nelle gare di minicross e minimoto. Papà Antonio lo supporta nonostante le difficoltà finanziarie della famiglia."
     },
     {
+      "show_name": "Presentazione Aprilia Racing 15/01/2026 - Ep. 17 - Presentazione Aprilia Racing 15/01/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/ed38d58c-63c2-45b0-af9f-469d6140f8cf/cover?territory=IT&md5ChecksumParam=ecd94f12014580df4a1734f9ef92c56b",
+      "start_time": "2026-02-02 02:15:00",
+      "end_time": "2026-02-02 02:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Presentazione Aprilia Racing."
+    },
+    {
+      "show_name": "Ep. 7",
+      "show_logo": "https://guidatv.sky.it/uuid/d6868159-e645-48fe-affb-037e1e3f66f0/cover?territory=IT&md5ChecksumParam=cf1e880648d8acec043a165ba95f159c",
+      "start_time": "2026-02-02 02:45:00",
+      "end_time": "2026-02-02 03:00:00",
+      "episode_number": "S2025 E7",
+      "show_category": "Sport",
+      "show_description": "Rosario Triolo raccoglie in questa rubrica tutte le attivita' social dei piloti del motomondiale, e ci racconta le curiosita' dietro ad alcuni post o stories pubblicate nella settimana."
+    },
+    {
       "show_name": "Presentazione Pertamina...... (Diretta)",
       "show_logo": "https://guidatv.sky.it/uuid/a2a8d563-476e-436d-8e46-ef5b82a321ba/cover?territory=IT&md5ChecksumParam=215e6dd6acdffb3f54633405fe157cef",
-      "start_time": "2026-02-01 21:00:00",
-      "end_time": "2026-02-01 21:35:00",
+      "start_time": "2026-02-02 03:00:00",
+      "end_time": "2026-02-02 03:35:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Presentazione Pertamina Enduro Vr46 14/01/2026 - Presentazione Pertamina Enduro Vr46..."
@@ -248,8 +50,8 @@
     {
       "show_name": "All On Red",
       "show_logo": "https://guidatv.sky.it/uuid/64b24473-4aa0-40da-9c84-79ff1d994daf/cover?territory=IT&md5ChecksumParam=1019c9390ce94e903763089ff8c274d7",
-      "start_time": "2026-02-01 21:35:00",
-      "end_time": "2026-02-01 22:05:00",
+      "start_time": "2026-02-02 03:35:00",
+      "end_time": "2026-02-02 04:05:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "La sfida di Marc Marquez con la sua Ducati: la dimostrazione di cosa succede quando uno dei migliori piloti sale su una delle migliori moto."
@@ -257,8 +59,8 @@
     {
       "show_name": "Ep9 - Desmodovi",
       "show_logo": "https://guidatv.sky.it/uuid/69b6b3e9-0ba8-4264-9b0e-6a6d1fe1d4ef/cover?territory=IT&md5ChecksumParam=642a2594f6faed9c3c0d8de9fd897592",
-      "start_time": "2026-02-01 22:05:00",
-      "end_time": "2026-02-01 22:20:00",
+      "start_time": "2026-02-02 04:05:00",
+      "end_time": "2026-02-02 04:20:00",
       "episode_number": "S1 E9",
       "show_category": "Sport",
       "show_description": "Andrea Dovizioso, freddo e razionale, è agli antipodi del pilota storicamente amato dal pubblico dei ducatisti. Ma pur rimanendo fedele a sé stesso riesce a farsi amare e ne diventa un idolo."
@@ -266,8 +68,8 @@
     {
       "show_name": "Presentazione Yamaha Prima Pramac",
       "show_logo": "https://guidatv.sky.it/uuid/8cecbf26-fabd-4f42-a62a-eab12a5e9240/cover?territory=IT&md5ChecksumParam=91699776ff4f4eabe48913dd195219b3",
-      "start_time": "2026-02-01 22:20:00",
-      "end_time": "2026-02-01 23:15:00",
+      "start_time": "2026-02-02 04:20:00",
+      "end_time": "2026-02-02 05:15:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Presentazione Yamaha Prima Pramac 13/01/2026."
@@ -275,8 +77,8 @@
     {
       "show_name": "Ep9 - Desmodovi",
       "show_logo": "https://guidatv.sky.it/uuid/69b6b3e9-0ba8-4264-9b0e-6a6d1fe1d4ef/cover?territory=IT&md5ChecksumParam=642a2594f6faed9c3c0d8de9fd897592",
-      "start_time": "2026-02-01 23:15:00",
-      "end_time": "2026-02-01 23:35:00",
+      "start_time": "2026-02-02 05:15:00",
+      "end_time": "2026-02-02 05:30:00",
       "episode_number": "S1 E9",
       "show_category": "Sport",
       "show_description": "Andrea Dovizioso, freddo e razionale, è agli antipodi del pilota storicamente amato dal pubblico dei ducatisti. Ma pur rimanendo fedele a sé stesso riesce a farsi amare e ne diventa un idolo."
@@ -284,11 +86,254 @@
     {
       "show_name": "Paddock Life - Best Of 2025",
       "show_logo": "https://guidatv.sky.it/uuid/ab219d97-eafe-43e0-aed7-b3cafde5d013/cover?territory=IT&md5ChecksumParam=4ddeaa2989576877892889330172f79f",
-      "start_time": "2026-02-01 23:35:00",
-      "end_time": "2026-02-02 01:55:00",
+      "start_time": "2026-02-02 05:30:00",
+      "end_time": "2026-02-02 08:00:00",
       "episode_number": "S2025 E16",
       "show_category": "Sport",
       "show_description": "Rivediamo il meglio di quanto accaduto in pista nel 2025 con approfondimenti e analisi."
+    },
+    {
+      "show_name": "Ep1 - Gli Inizi",
+      "show_logo": "https://guidatv.sky.it/uuid/dcc5ce87-dd3f-487f-a492-d77055f40981/cover?territory=IT&md5ChecksumParam=490401adb06d1cbf556deae7b9bfb0ae",
+      "start_time": "2026-02-02 08:00:00",
+      "end_time": "2026-02-02 08:15:00",
+      "episode_number": "S1 E1",
+      "show_category": "Sport",
+      "show_description": "Il piccolo Dovi inizia subito a vincere nelle gare di minicross e minimoto. Papà Antonio lo supporta nonostante le difficoltà finanziarie della famiglia."
+    },
+    {
+      "show_name": "Presentazione Aprilia Racing 15/01/2026 - Ep. 17 - Presentazione Aprilia Racing 15/01/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/ed38d58c-63c2-45b0-af9f-469d6140f8cf/cover?territory=IT&md5ChecksumParam=ecd94f12014580df4a1734f9ef92c56b",
+      "start_time": "2026-02-02 08:15:00",
+      "end_time": "2026-02-02 08:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Presentazione Aprilia Racing."
+    },
+    {
+      "show_name": "Ep. 7",
+      "show_logo": "https://guidatv.sky.it/uuid/d6868159-e645-48fe-affb-037e1e3f66f0/cover?territory=IT&md5ChecksumParam=cf1e880648d8acec043a165ba95f159c",
+      "start_time": "2026-02-02 08:45:00",
+      "end_time": "2026-02-02 09:05:00",
+      "episode_number": "S2025 E7",
+      "show_category": "Sport",
+      "show_description": "Rosario Triolo raccoglie in questa rubrica tutte le attivita' social dei piloti del motomondiale, e ci racconta le curiosita' dietro ad alcuni post o stories pubblicate nella settimana."
+    },
+    {
+      "show_name": "Presentazione Pertamina...... (Diretta)",
+      "show_logo": "https://guidatv.sky.it/uuid/a2a8d563-476e-436d-8e46-ef5b82a321ba/cover?territory=IT&md5ChecksumParam=215e6dd6acdffb3f54633405fe157cef",
+      "start_time": "2026-02-02 09:05:00",
+      "end_time": "2026-02-02 09:35:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Presentazione Pertamina Enduro Vr46 14/01/2026 - Presentazione Pertamina Enduro Vr46..."
+    },
+    {
+      "show_name": "All On Red",
+      "show_logo": "https://guidatv.sky.it/uuid/64b24473-4aa0-40da-9c84-79ff1d994daf/cover?territory=IT&md5ChecksumParam=1019c9390ce94e903763089ff8c274d7",
+      "start_time": "2026-02-02 09:35:00",
+      "end_time": "2026-02-02 10:05:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "La sfida di Marc Marquez con la sua Ducati: la dimostrazione di cosa succede quando uno dei migliori piloti sale su una delle migliori moto."
+    },
+    {
+      "show_name": "Ep9 - Desmodovi",
+      "show_logo": "https://guidatv.sky.it/uuid/69b6b3e9-0ba8-4264-9b0e-6a6d1fe1d4ef/cover?territory=IT&md5ChecksumParam=642a2594f6faed9c3c0d8de9fd897592",
+      "start_time": "2026-02-02 10:05:00",
+      "end_time": "2026-02-02 10:20:00",
+      "episode_number": "S1 E9",
+      "show_category": "Sport",
+      "show_description": "Andrea Dovizioso, freddo e razionale, è agli antipodi del pilota storicamente amato dal pubblico dei ducatisti. Ma pur rimanendo fedele a sé stesso riesce a farsi amare e ne diventa un idolo."
+    },
+    {
+      "show_name": "Presentazione Yamaha Prima Pramac",
+      "show_logo": "https://guidatv.sky.it/uuid/8cecbf26-fabd-4f42-a62a-eab12a5e9240/cover?territory=IT&md5ChecksumParam=91699776ff4f4eabe48913dd195219b3",
+      "start_time": "2026-02-02 10:20:00",
+      "end_time": "2026-02-02 11:20:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Presentazione Yamaha Prima Pramac 13/01/2026."
+    },
+    {
+      "show_name": "Ep9 - Desmodovi",
+      "show_logo": "https://guidatv.sky.it/uuid/69b6b3e9-0ba8-4264-9b0e-6a6d1fe1d4ef/cover?territory=IT&md5ChecksumParam=642a2594f6faed9c3c0d8de9fd897592",
+      "start_time": "2026-02-02 11:20:00",
+      "end_time": "2026-02-02 11:35:00",
+      "episode_number": "S1 E9",
+      "show_category": "Sport",
+      "show_description": "Andrea Dovizioso, freddo e razionale, è agli antipodi del pilota storicamente amato dal pubblico dei ducatisti. Ma pur rimanendo fedele a sé stesso riesce a farsi amare e ne diventa un idolo."
+    },
+    {
+      "show_name": "Paddock Life - Best Of 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/ab219d97-eafe-43e0-aed7-b3cafde5d013/cover?territory=IT&md5ChecksumParam=4ddeaa2989576877892889330172f79f",
+      "start_time": "2026-02-02 11:35:00",
+      "end_time": "2026-02-02 13:55:00",
+      "episode_number": "S2025 E16",
+      "show_category": "Sport",
+      "show_description": "Rivediamo il meglio di quanto accaduto in pista nel 2025 con approfondimenti e analisi."
+    },
+    {
+      "show_name": "Ep1 - Gli Inizi",
+      "show_logo": "https://guidatv.sky.it/uuid/dcc5ce87-dd3f-487f-a492-d77055f40981/cover?territory=IT&md5ChecksumParam=490401adb06d1cbf556deae7b9bfb0ae",
+      "start_time": "2026-02-02 13:55:00",
+      "end_time": "2026-02-02 14:15:00",
+      "episode_number": "S1 E1",
+      "show_category": "Sport",
+      "show_description": "Il piccolo Dovi inizia subito a vincere nelle gare di minicross e minimoto. Papà Antonio lo supporta nonostante le difficoltà finanziarie della famiglia."
+    },
+    {
+      "show_name": "Presentazione Aprilia Racing 15/01/2026 - Ep. 17 - Presentazione Aprilia Racing 15/01/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/ed38d58c-63c2-45b0-af9f-469d6140f8cf/cover?territory=IT&md5ChecksumParam=ecd94f12014580df4a1734f9ef92c56b",
+      "start_time": "2026-02-02 14:15:00",
+      "end_time": "2026-02-02 14:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Presentazione Aprilia Racing."
+    },
+    {
+      "show_name": "Ep. 7",
+      "show_logo": "https://guidatv.sky.it/uuid/d6868159-e645-48fe-affb-037e1e3f66f0/cover?territory=IT&md5ChecksumParam=cf1e880648d8acec043a165ba95f159c",
+      "start_time": "2026-02-02 14:45:00",
+      "end_time": "2026-02-02 15:05:00",
+      "episode_number": "S2025 E7",
+      "show_category": "Sport",
+      "show_description": "Rosario Triolo raccoglie in questa rubrica tutte le attivita' social dei piloti del motomondiale, e ci racconta le curiosita' dietro ad alcuni post o stories pubblicate nella settimana."
+    },
+    {
+      "show_name": "Presentazione Pertamina...... (Diretta)",
+      "show_logo": "https://guidatv.sky.it/uuid/a2a8d563-476e-436d-8e46-ef5b82a321ba/cover?territory=IT&md5ChecksumParam=215e6dd6acdffb3f54633405fe157cef",
+      "start_time": "2026-02-02 15:05:00",
+      "end_time": "2026-02-02 15:35:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Presentazione Pertamina Enduro Vr46 14/01/2026 - Presentazione Pertamina Enduro Vr46..."
+    },
+    {
+      "show_name": "All On Red",
+      "show_logo": "https://guidatv.sky.it/uuid/64b24473-4aa0-40da-9c84-79ff1d994daf/cover?territory=IT&md5ChecksumParam=1019c9390ce94e903763089ff8c274d7",
+      "start_time": "2026-02-02 15:35:00",
+      "end_time": "2026-02-02 16:05:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "La sfida di Marc Marquez con la sua Ducati: la dimostrazione di cosa succede quando uno dei migliori piloti sale su una delle migliori moto."
+    },
+    {
+      "show_name": "Ep9 - Desmodovi",
+      "show_logo": "https://guidatv.sky.it/uuid/69b6b3e9-0ba8-4264-9b0e-6a6d1fe1d4ef/cover?territory=IT&md5ChecksumParam=642a2594f6faed9c3c0d8de9fd897592",
+      "start_time": "2026-02-02 16:05:00",
+      "end_time": "2026-02-02 16:20:00",
+      "episode_number": "S1 E9",
+      "show_category": "Sport",
+      "show_description": "Andrea Dovizioso, freddo e razionale, è agli antipodi del pilota storicamente amato dal pubblico dei ducatisti. Ma pur rimanendo fedele a sé stesso riesce a farsi amare e ne diventa un idolo."
+    },
+    {
+      "show_name": "Presentazione Yamaha Prima Pramac",
+      "show_logo": "https://guidatv.sky.it/uuid/8cecbf26-fabd-4f42-a62a-eab12a5e9240/cover?territory=IT&md5ChecksumParam=91699776ff4f4eabe48913dd195219b3",
+      "start_time": "2026-02-02 16:20:00",
+      "end_time": "2026-02-02 17:20:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Presentazione Yamaha Prima Pramac 13/01/2026."
+    },
+    {
+      "show_name": "Ep9 - Desmodovi",
+      "show_logo": "https://guidatv.sky.it/uuid/69b6b3e9-0ba8-4264-9b0e-6a6d1fe1d4ef/cover?territory=IT&md5ChecksumParam=642a2594f6faed9c3c0d8de9fd897592",
+      "start_time": "2026-02-02 17:20:00",
+      "end_time": "2026-02-02 17:35:00",
+      "episode_number": "S1 E9",
+      "show_category": "Sport",
+      "show_description": "Andrea Dovizioso, freddo e razionale, è agli antipodi del pilota storicamente amato dal pubblico dei ducatisti. Ma pur rimanendo fedele a sé stesso riesce a farsi amare e ne diventa un idolo."
+    },
+    {
+      "show_name": "Paddock Life - Best Of 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/ab219d97-eafe-43e0-aed7-b3cafde5d013/cover?territory=IT&md5ChecksumParam=4ddeaa2989576877892889330172f79f",
+      "start_time": "2026-02-02 17:35:00",
+      "end_time": "2026-02-02 18:00:00",
+      "episode_number": "S2025 E16",
+      "show_category": "Sport",
+      "show_description": "Rivediamo il meglio di quanto accaduto in pista nel 2025 con approfondimenti e analisi."
+    },
+    {
+      "show_name": "Presentazione Aprilia Trackhouse... - Ep. 21 - Presentazione Aprilia Trackhouse 21/01/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/8eb5518b-3afb-46f5-8e0d-f98b969d366f/cover?territory=IT&md5ChecksumParam=d7775059d7a7df1687d72baf9a3f847c",
+      "start_time": "2026-02-02 18:00:00",
+      "end_time": "2026-02-02 18:40:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Presentazione Team Yamaha Monster 21/01/2026."
+    },
+    {
+      "show_name": "Ep1 - Gli Inizi",
+      "show_logo": "https://guidatv.sky.it/uuid/dcc5ce87-dd3f-487f-a492-d77055f40981/cover?territory=IT&md5ChecksumParam=490401adb06d1cbf556deae7b9bfb0ae",
+      "start_time": "2026-02-02 18:40:00",
+      "end_time": "2026-02-02 18:55:00",
+      "episode_number": "S1 E1",
+      "show_category": "Sport",
+      "show_description": "Il piccolo Dovi inizia subito a vincere nelle gare di minicross e minimoto. Papà Antonio lo supporta nonostante le difficoltà finanziarie della famiglia."
+    },
+    {
+      "show_name": "Speciale Eicma 2025 - Dietro Le",
+      "show_logo": "https://guidatv.sky.it/uuid/076002f9-37fb-4c40-8ede-a8ae71a2f49b/cover?territory=IT&md5ChecksumParam=0dea3ace96b1257fcd2445949873cfb2",
+      "start_time": "2026-02-02 18:55:00",
+      "end_time": "2026-02-02 19:25:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Speciale Eicma- Dietro Le Quinte Di Motolive."
+    },
+    {
+      "show_name": "Presentazione Pertamina...... (Diretta)",
+      "show_logo": "https://guidatv.sky.it/uuid/a2a8d563-476e-436d-8e46-ef5b82a321ba/cover?territory=IT&md5ChecksumParam=215e6dd6acdffb3f54633405fe157cef",
+      "start_time": "2026-02-02 19:25:00",
+      "end_time": "2026-02-02 20:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Presentazione Pertamina Enduro Vr46 14/01/2026 - Presentazione Pertamina Enduro Vr46..."
+    },
+    {
+      "show_name": "All On Red",
+      "show_logo": "https://guidatv.sky.it/uuid/64b24473-4aa0-40da-9c84-79ff1d994daf/cover?territory=IT&md5ChecksumParam=1019c9390ce94e903763089ff8c274d7",
+      "start_time": "2026-02-02 20:00:00",
+      "end_time": "2026-02-02 20:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "La sfida di Marc Marquez con la sua Ducati: la dimostrazione di cosa succede quando uno dei migliori piloti sale su una delle migliori moto."
+    },
+    {
+      "show_name": "Presentazione Aprilia Racing 15/01/2026 - Ep. 17 - Presentazione Aprilia Racing 15/01/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/ed38d58c-63c2-45b0-af9f-469d6140f8cf/cover?territory=IT&md5ChecksumParam=ecd94f12014580df4a1734f9ef92c56b",
+      "start_time": "2026-02-02 20:30:00",
+      "end_time": "2026-02-02 21:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Presentazione Aprilia Racing."
+    },
+    {
+      "show_name": "Fim Awards 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/cbbacd7b-5970-424e-93c5-9dc02c7a9d16/cover?territory=IT&md5ChecksumParam=d31129b6441e1de45e481dd1fa5d04a1",
+      "start_time": "2026-02-02 21:00:00",
+      "end_time": "2026-02-02 22:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Assistiamo all'assegnazione dei FIM Awards 2025 e scopriamo i suoi protagonisti da Losanna."
+    },
+    {
+      "show_name": "Ep8 - Cavallo Nero",
+      "show_logo": "https://guidatv.sky.it/uuid/3edb420d-3214-4afa-b8ae-37034eb9699f/cover?territory=IT&md5ChecksumParam=696d57622a9e05781c30bf77787bc118",
+      "start_time": "2026-02-02 22:00:00",
+      "end_time": "2026-02-02 22:15:00",
+      "episode_number": "S1 E8",
+      "show_category": "Sport",
+      "show_description": "Cavallo Nero vs Cavallo Bianco: irrazionalità contro razionalità. La carriera del Dovi è una lunga cavalcata da “cavallo bianco”, ma con qualche gara sul “nero”. Alcuni duelli rimarranno nella storia."
+    },
+    {
+      "show_name": "Un Anno Di Motogp 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/b1f570fc-26ba-4db3-8501-ba1394f273c2/cover?territory=IT&md5ChecksumParam=60a083a1b18905de20b945210803aa1d",
+      "start_time": "2026-02-02 22:15:00",
+      "end_time": "2026-02-03 00:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Un Anno Di Motogp 2025."
     }
   ]
 }

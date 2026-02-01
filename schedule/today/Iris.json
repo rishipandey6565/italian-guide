@@ -1,123 +1,132 @@
 {
   "channel_name": "Iris",
-  "date": "2026-01-31",
+  "date": "2026-02-01",
   "programs": [
-    {
-      "show_name": "Gran Torino",
-      "show_logo": "",
-      "start_time": "2026-01-31 00:00:00",
-      "end_time": "2026-01-31 01:52:00",
-      "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "Per il ciclo: IL METODO EASTWOOD. Walt, reduce di guerra, protegge Thao e la sua famiglia da una gang, trovando redenzione e umanita' nella sua amata Gran Torino. Regia di C. Eastwood; USA 2008."
-    },
-    {
-      "show_name": "The Open Road",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F301938701000102/media/6/6/a013d023-9acd-4e1d-8946-ab978a6bb6ba/db4d8a4c-f5c3-4c95-9a1d-326099b25af0.jpg",
-      "start_time": "2026-01-31 01:52:00",
-      "end_time": "2026-01-31 03:22:00",
-      "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "Un padre e un figlio, che non si vedono da quattro anni, sono costretti a riallacciare le loro vite. Su richiesta della madre malata, Carlton parte alla ricerca del padre, un famoso giocatore di baseball che non vede da diversi anni. Ma un avvenimento inatteso rischia di mandare all'aria i loro piani."
-    },
-    {
-      "show_name": "Paesaggio Nella Nebbia",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F002473201000102/media/9/9/bd2e558b-f58f-462d-a7a2-ca9c2fc374fb/9f679576-0212-45d3-9d80-56143becb49d.jpg",
-      "start_time": "2026-01-31 03:22:00",
-      "end_time": "2026-01-31 05:22:00",
-      "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "Voula e Alexandros, di 11 e 6 anni, lasciano la natia Grecia per raggiungere in Germania un padre mai conosciuto (e mai esistito). Racconto poetico, malinconico e delicato. Il tema della vita come un viaggio in cui per raggiungere la meta finale devi conoscere il punto di partenza."
-    },
-    {
-      "show_name": "Una Lucertola Con La Pelle Di Donna",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000291802000101/media/9/9/1d777645-f19a-42bc-867d-79440d96a194/e7c3b4c6-cce1-4db0-bcb5-2d525a75f218.jpg",
-      "start_time": "2026-01-31 05:22:00",
-      "end_time": "2026-01-31 06:56:00",
-      "episode_number": "",
-      "show_category": "Thriller",
-      "show_description": "Giallo italiano con Florinda Bolkan. Una donna confida al suo psichiatra di aver sognato l'omicidio di una sua vicina di casa. Il sogno si avvera."
-    },
-    {
-      "show_name": "I Cinque Del Quinto Piano",
-      "show_logo": "",
-      "start_time": "2026-01-31 06:56:00",
-      "end_time": "2026-01-31 07:17:00",
-      "episode_number": "S1 E5",
-      "show_category": "",
-      "show_description": "Una notte di incubi e di sogni strani tormentano il riposo di tutta la famiglia."
-    },
-    {
-      "show_name": "I Cesaroni",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F302631501001101/media/14/14/8e099902-211c-4411-9962-6ad6e43e78c5/82a24ddc-5026-4679-9b89-ef372f3e2826.jpg",
-      "start_time": "2026-01-31 07:17:00",
-      "end_time": "2026-01-31 09:04:00",
-      "episode_number": "S4 E11",
-      "show_category": "Commedia",
-      "show_description": "Giulio è furioso con Walter e Alice e la loro storia clandestina. E così pure Ezio e Stefania. Marco ed Eva sono invece delusi: si aspettavano più onestà dal migliore amico e dalla sorella. Walter, in più, per lo stress rompe una parte fondamentale della moto che stava modificando."
-    },
-    {
-      "show_name": "Due Stelle Nella Polvere",
-      "show_logo": "",
-      "start_time": "2026-01-31 09:04:00",
-      "end_time": "2026-01-31 11:17:00",
-      "episode_number": "",
-      "show_category": "Western",
-      "show_description": "Per il ciclo: C'ERA UNA VOLTA IL WEST. Flood attacca la diligenza su cui si trovano Dolon e Ben, futuro socio di Mollie, donna d'affari che tiene testa da sempre al fuorilegge. Regia di A. Laven, con D. Martin, G. Peppard; USA 1967."
-    },
-    {
-      "show_name": "Quei Bravi Ragazzi",
-      "show_logo": "",
-      "start_time": "2026-01-31 11:17:00",
-      "end_time": "2026-01-31 14:12:00",
-      "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "Per il ciclo: I GRANDI CLASSICI DI IRIS. Diretto da M. Scorsese e Oscar come miglior attore non protagonista a Joe Pesci. Una storia di mafia a New York tra gli anni '50 e '80. Con R. De Niro, R. Liotta. Regia di M. Scorsese; USA 1990."
-    },
-    {
-      "show_name": "Viaggio In Paradiso",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303055801000103/media/28/92/a0ce7e9d-6bd2-4904-8a8c-47a50e8790c1/b30a3d7c-756b-4500-b3ad-1e7e818e3c5b.jpg",
-      "start_time": "2026-01-31 14:12:00",
-      "end_time": "2026-01-31 16:20:00",
-      "episode_number": "",
-      "show_category": "Azione",
-      "show_description": "E' stata una brutta giornata per Driver e la situazione non sembra migliorare. Ha appena fatto un colpo da milioni di dollari che gli avrebbero permesso di passare una bella vacanza estiva. Apparentemente una buona idea che lo porta giu'... fino al Sud. Mentre la polizia di frontiera lo sta inseguendo a tutta velocita', con un corpo sanguinante sul sedile posteriore, Driver capovolge la sua auto varcando il muro di confine, precipita violentemente e atterra... in Messico. Fermato dalle autorita' messicane, viene portato in una prigione infernale, ed entra cosi' nello strano e pericoloso mondo di \"El Pueblito\". Di certo, non un luogo facile per un outsider come Driver, che riuscira' a sopravvivere solo grazie all'aiuto di qualcuno che sa il fatto suo...un ragazzo di 10 anni."
-    },
-    {
-      "show_name": "Cry Macho Ritorno A Casa",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311409201000102/media/9/9/5639edb7-20b7-4e38-a98c-89a9a627b854/c6002ff1-1f86-4c91-8a70-f169c3b32cec.jpg",
-      "start_time": "2026-01-31 16:20:00",
-      "end_time": "2026-01-31 18:34:00",
-      "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "\"Essere 'macho' è sopravvalutato\" perché alla fine quello che conta sono i sentimenti. La storia di Mike Milo, un ex cowboy da rodeo in disgrazia, che per ripagare un debito con il suo ex capo accetta di andare in Messico per riportargli il figlio a casa. Il viaggio si rivela impegnativo ma prezioso. Un western on the road sulle strade polverose del Messico. Dal romanzo di N. Richard Nash."
-    },
-    {
-      "show_name": "Die Hard Duri A Morire",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F006555201000103/media/31/95/c31031fc-5197-4522-ac41-4e89b172df28/e9dc98d7-8f06-40b3-add3-e0d3191a0ac6.jpg",
-      "start_time": "2026-01-31 18:34:00",
-      "end_time": "2026-01-31 21:14:00",
-      "episode_number": "",
-      "show_category": "Azione",
-      "show_description": "Un'organizzazione di terroristi tiene in ostaggio l'intera città di New York grazie al piano dello psicopatico Simon. L'unico modo per evitare una strage è obbedire alla sua voce, che propone crudeli indovinelli al telefono. La pedina di questo folle gioco è il poliziotto, John McClane. Terzo capitolo della saga."
-    },
-    {
-      "show_name": "Il Caso Thomas Crawford",
-      "show_logo": "",
-      "start_time": "2026-01-31 21:14:00",
-      "end_time": "2026-01-31 23:33:00",
-      "episode_number": "",
-      "show_category": "Thriller",
-      "show_description": "Per il ciclo: SERIAL THRILLER. Tradito dalla moglie, Thomas Crawford la fa uccidere e si costituisce. Il caso pare risolto, ma si complica quando l'uomo si difende in tribunale. Regia di G.Hoblit, con A.Hopkins, R.Gosling; DEU 2007."
-    },
     {
       "show_name": "Ipotesi Di Complotto",
       "show_logo": "",
-      "start_time": "2026-01-31 23:33:00",
+      "start_time": "2026-02-01 00:00:00",
       "end_time": "2026-02-01 02:10:00",
       "episode_number": "",
       "show_category": "Thriller",
       "show_description": "Per il ciclo: SERIAL THRILLER. Un taxista e' ossessionato dai complotti. L'unica persona disponibile ad ascoltarlo e' un procuratore, il cui padre e' stato ucciso anni prima. Con M. Gibson e J. Roberts Regia di R. Donner; USA 1997."
+    },
+    {
+      "show_name": "Due Stelle Nella Polvere",
+      "show_logo": "",
+      "start_time": "2026-02-01 02:10:00",
+      "end_time": "2026-02-01 03:57:00",
+      "episode_number": "",
+      "show_category": "Western",
+      "show_description": "Per il ciclo: EFFETTO NOTTE. Flood attacca la diligenza su cui si trovano Dolon e Ben, futuro socio di Mollie, donna d'affari che tiene testa da sempre al fuorilegge. Regia di A. Laven, con D. Martin, G. Peppard; USA 1967."
+    },
+    {
+      "show_name": "Quei Bravi Ragazzi",
+      "show_logo": "",
+      "start_time": "2026-02-01 03:57:00",
+      "end_time": "2026-02-01 06:17:00",
+      "episode_number": "",
+      "show_category": "Drammatico",
+      "show_description": "Per il ciclo: EFFETTO NOTTE. Diretto da M. Scorsese e Oscar come miglior attore non protagonista a Joe Pesci. Una storia di mafia a New York tra gli anni '50 e '80. Con R. De Niro, R. Liotta. Regia di M. Scorsese; USA 1990."
+    },
+    {
+      "show_name": "I Cinque Del Quinto Piano",
+      "show_logo": "",
+      "start_time": "2026-02-01 06:17:00",
+      "end_time": "2026-02-01 06:41:00",
+      "episode_number": "S1 E6",
+      "show_category": "",
+      "show_description": "Mamma Gisella fa footing con un cliente della sua boutique: l'architetto Vandelli, di cui il marito Edoardo e' geloso."
+    },
+    {
+      "show_name": "I Cinque Del Quinto Piano",
+      "show_logo": "",
+      "start_time": "2026-02-01 06:41:00",
+      "end_time": "2026-02-01 07:18:00",
+      "episode_number": "S1 E7",
+      "show_category": "",
+      "show_description": "Simone e Gianfilippo stanno progettando uno straordinario lancio pubblicitario per la boutique di Gisella."
+    },
+    {
+      "show_name": "I Cesaroni",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F302631501001201/media/14/14/8e099902-211c-4411-9962-6ad6e43e78c5/82a24ddc-5026-4679-9b89-ef372f3e2826.jpg",
+      "start_time": "2026-02-01 07:18:00",
+      "end_time": "2026-02-01 09:03:00",
+      "episode_number": "S4 E12",
+      "show_category": "Commedia",
+      "show_description": "L'incendio dell'officina e della moto getta Walter nel panico più totale. Walter viene risucchiato pericolosamente nel mondo delle scommesse di cavalli. Per fortuna è il momento giusto da parte di Ezio di seppellire l'ascia di guerra e comportarsi da padre. Olga e i suoi figli hanno un problema in casa e si appoggiano da Giulio."
+    },
+    {
+      "show_name": "L' Albero Degli Impiccati",
+      "show_logo": "",
+      "start_time": "2026-02-01 09:03:00",
+      "end_time": "2026-02-01 11:22:00",
+      "episode_number": "",
+      "show_category": "Western",
+      "show_description": "Per il ciclo: C'ERA UNA VOLTA IL WESTERN. Elizabeth, unica superstite di una diligenza assalita, e' affetta da temporanea cecita' e necessita delle cure del dottor Frail, un uomo tormentato. Regia di D. Daves; USA 1959."
+    },
+    {
+      "show_name": "Il Caso Thomas Crawford",
+      "show_logo": "",
+      "start_time": "2026-02-01 11:22:00",
+      "end_time": "2026-02-01 13:49:00",
+      "episode_number": "",
+      "show_category": "Thriller",
+      "show_description": "Per il ciclo: LA TENSIONE CORRE SU IRIS. Tradito dalla moglie, Thomas Crawford la fa uccidere e si costituisce. Il caso pare risolto, ma si complica quando l'uomo si difende in tribunale. Regia di G.Hoblit, con A.Hopkins, R.Gosling; DEU 2007."
+    },
+    {
+      "show_name": "Facile Preda",
+      "show_logo": "",
+      "start_time": "2026-02-01 13:49:00",
+      "end_time": "2026-02-01 15:52:00",
+      "episode_number": "",
+      "show_category": "Thriller",
+      "show_description": "Per il ciclo: ACTION. Max e' un poliziotto costretto a occuparsi della protezione di Kate McQueen, un'avvocatessa di Miami, vittima delle minacce di una banda di ex agenti del KGB. Regia di A. Sipes; USA 1995."
+    },
+    {
+      "show_name": "Note Di Cinema",
+      "show_logo": "",
+      "start_time": "2026-02-01 15:52:00",
+      "end_time": "2026-02-01 15:58:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "La giornalista Anna Praderio firma questa rubrica che approfondisce, con servizi e interviste ai protagonisti del cinema italiano e internazionale, gli eventi legati al mondo dello spettacolo."
+    },
+    {
+      "show_name": "Ipotesi Di Complotto",
+      "show_logo": "",
+      "start_time": "2026-02-01 15:58:00",
+      "end_time": "2026-02-01 18:44:00",
+      "episode_number": "",
+      "show_category": "Thriller",
+      "show_description": "Per il ciclo: LA TENSIONE CORRE SU IRIS. Un taxista e' ossessionato dai complotti. L'unica persona disponibile ad ascoltarlo e' un procuratore, il cui padre e' stato ucciso anni prima. Con M. Gibson e J. Roberts Regia di R. Donner; USA 1997."
+    },
+    {
+      "show_name": "Gran Torino",
+      "show_logo": "",
+      "start_time": "2026-02-01 18:44:00",
+      "end_time": "2026-02-01 21:14:00",
+      "episode_number": "",
+      "show_category": "Drammatico",
+      "show_description": "Per il ciclo: SGUARDI D'AUTORE. Walt, reduce di guerra, protegge Thao e la sua famiglia da una gang, trovando redenzione e umanita' nella sua amata Gran Torino. Regia di C. Eastwood; USA 2008."
+    },
+    {
+      "show_name": "Indiana Jones E Il Regno Del Teschio Di Cristallo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011714901000103/media/14/14/d28c41a2-0099-4f8f-813c-127675040e7b/c0b49103-784d-4bca-b012-45e2f8eda21d.jpg",
+      "start_time": "2026-02-01 21:14:00",
+      "end_time": "2026-02-01 23:42:00",
+      "episode_number": "",
+      "show_category": "Avventura",
+      "show_description": "Nel 1957, in piena Guerra Fredda, il governo americano sospetta che Jones sia in combutta con i russi ed è intenzionato a farlo licenziare dall'università. Tuttavia si apre una prospettiva grazie all'incontro con il giovane Mutt, che chiede a Indiana di accompagnarlo in una pericolosa e poco chiara missione alla ricerca di un oggetto leggendario: il Teschio di Cristallo di Akator, intorno al quale si intrecciano miti e superstizioni."
+    },
+    {
+      "show_name": "The Forger Il Falsario",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305742201000101/media/7/7/8d8885d9-c2b3-4d3c-a5c0-32c97c05df1f/19fc0790-89a4-49f3-b426-f0a5588b5bb0.jpg",
+      "start_time": "2026-02-01 23:42:00",
+      "end_time": "2026-02-02 01:44:00",
+      "episode_number": "",
+      "show_category": "Thriller",
+      "show_description": "John Travolta e il premio Oscar Christopher Plummer in un film a meta' tra heist movie e dramma familiare. Un falsario d'arte stringe un patto con un criminale pur di ottenere un rilascio anticipato dalla prigione e poter cosi' trascorrere del tempo con il figlio malato. Ma in cambio dovra' mettere a segno un furto quasi impossibile."
     }
   ]
 }

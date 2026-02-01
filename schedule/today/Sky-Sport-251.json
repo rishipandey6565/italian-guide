@@ -1,42 +1,33 @@
 {
   "channel_name": "Sky Sport  251",
-  "date": "2026-01-31",
+  "date": "2026-02-01",
   "programs": [
-    {
-      "show_name": "Perugia - Ravenna",
-      "show_logo": "https://guidatv.sky.it/uuid/5509c2e8-ea51-45da-8b50-d62eef3fe5b8/cover?territory=IT&md5ChecksumParam=27bc652d85a03debbd91e8c5a2602279",
-      "start_time": "2026-01-31 00:00:00",
-      "end_time": "2026-01-31 14:00:00",
-      "episode_number": "S2025 E243",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Renato Curi di Perugia, Italia."
-    },
-    {
-      "show_name": "Sorrento - Catania",
-      "show_logo": "https://guidatv.sky.it/uuid/ae1a79d7-91a2-4225-9fbb-468be5c18ad0/cover?territory=IT&md5ChecksumParam=e4f5c08be22027f66783764ed72205ba",
-      "start_time": "2026-01-31 14:00:00",
-      "end_time": "2026-01-31 17:25:00",
-      "episode_number": "S2025 E249",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Italia di Sorrento, Campania, Italia."
-    },
-    {
-      "show_name": "Inter U23 - Pergolettese",
-      "show_logo": "https://guidatv.sky.it/uuid/93fcb826-69c8-4d3e-a1f0-1ef3c0185524/cover?territory=IT&md5ChecksumParam=00fad87c0c843158fd2c92c0fa9bf69b",
-      "start_time": "2026-01-31 17:25:00",
-      "end_time": "2026-01-31 20:00:00",
-      "episode_number": "S2025 E245",
-      "show_category": "Sport",
-      "show_description": "Dall'U-Power Stadium di Monza, Italia."
-    },
     {
       "show_name": "Calcio Campionato Italiano Serie A - Ep. 224 - Calcio Serie A 2025/2026 (Uffici) 23ga Cagliari/ Verona 31/01/2026",
       "show_logo": "https://guidatv.sky.it/uuid/44cab03b-0f84-41b4-8438-4859227628c5/cover?territory=IT&md5ChecksumParam=c0958443056b683210fc40919849e4fc",
-      "start_time": "2026-01-31 20:00:00",
+      "start_time": "2026-02-01 00:00:00",
       "end_time": "2026-02-01 14:00:00",
       "episode_number": "S2025 E224",
       "show_category": "Sport",
       "show_description": "Segui le partite del campionato di calcio Serie A."
+    },
+    {
+      "show_name": "Atalanta U23 - Benevento",
+      "show_logo": "https://guidatv.sky.it/uuid/72a0c764-ce20-4936-963c-04373f1fb824/cover?territory=IT&md5ChecksumParam=3dd8b13c03ed152b333bf043a8ac07bc",
+      "start_time": "2026-02-01 14:00:00",
+      "end_time": "2026-02-01 17:00:00",
+      "episode_number": "S2025 E241",
+      "show_category": "Sport",
+      "show_description": "Tutte le partite del campionato di Serie C italiano."
+    },
+    {
+      "show_name": "Cremonese - Inter",
+      "show_logo": "https://guidatv.sky.it/uuid/f5eb9051-1cbd-4e6e-aec7-6e4851f62f12/cover?territory=IT&md5ChecksumParam=0a05f3744aef6b4706d536211d047c06",
+      "start_time": "2026-02-01 17:00:00",
+      "end_time": "2026-02-02 19:00:00",
+      "episode_number": "S2025 E68",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Giovanni Zini di Cremona, Italia."
     }
   ]
 }

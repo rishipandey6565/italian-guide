@@ -1,123 +1,105 @@
 {
   "channel_name": "DAZN 1",
-  "date": "2026-01-31",
+  "date": "2026-02-01",
   "programs": [
-    {
-      "show_name": "Lazio - Genoa",
-      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
-      "start_time": "2026-01-31 00:00:00",
-      "end_time": "2026-01-31 00:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Stag. 2019 - DAZN 1",
-      "show_logo": "https://guidatv.sky.it/uuid/ef416285-a102-40e0-80a6-d4be94f81e66/cover?cgid=90&territory=IT&md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&sid=566.it",
-      "start_time": "2026-01-31 00:30:00",
-      "end_time": "2026-01-31 06:00:00",
-      "episode_number": "",
-      "show_category": "Altri Programmi",
-      "show_description": "DAZN 1."
-    },
-    {
-      "show_name": "Stag. 2019 - DAZN 1",
-      "show_logo": "https://guidatv.sky.it/uuid/ef416285-a102-40e0-80a6-d4be94f81e66/cover?cgid=90&territory=IT&md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&sid=566.it",
-      "start_time": "2026-01-31 06:00:00",
-      "end_time": "2026-01-31 08:00:00",
-      "episode_number": "",
-      "show_category": "Altri Programmi",
-      "show_description": "DAZN 1."
-    },
-    {
-      "show_name": "Sassuolo - Cremonese - Stag. 2025 Ep. 22a g. - Sassuolo - Cremonese",
-      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
-      "start_time": "2026-01-31 08:00:00",
-      "end_time": "2026-01-31 09:56:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Tutti i gol del Napoli Campione d'Italia",
-      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
-      "start_time": "2026-01-31 09:56:00",
-      "end_time": "2026-01-31 10:33:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Rivivi tutte le reti realizzate in campionato dal Napoli di Antonio Conte."
-    },
-    {
-      "show_name": "Genoa - Bologna - Stag. 2025 Ep. 22a g. - Genoa - Bologna",
-      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
-      "start_time": "2026-01-31 10:33:00",
-      "end_time": "2026-01-31 12:31:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Fiorentina - Cagliari - Stag. 2025 Ep. 22a g. - Fiorentina - Cagliari",
-      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
-      "start_time": "2026-01-31 12:31:00",
-      "end_time": "2026-01-31 14:18:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Maurizio Sarri: mi diverto ancora",
-      "show_logo": "https://guidatv.sky.it/uuid/f1c97bb1-44a1-40cc-bcb9-ea7665493684/cover?cgid=90&territory=IT&md5ChecksumParam=76c88d407c04006d9dcf1f37c13ebc50&sid=566.it",
-      "start_time": "2026-01-31 14:18:00",
-      "end_time": "2026-01-31 14:23:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "I grandi personaggi della Serie A. In questo episodio Maurizio Sarri racconta il ritorno alla Lazio, le sue passioni, il rapporto con il calcio e il sogno di chiudere la carriera al Flaminio."
-    },
-    {
-      "show_name": "Lazio: Pedro",
-      "show_logo": "https://guidatv.sky.it/uuid/ee65edde-e07f-483f-a162-bfb70c02cdfd/cover?cgid=90&territory=IT&md5ChecksumParam=a55521494136b4dec77f4a2358ffd9ef&sid=566.it",
-      "start_time": "2026-01-31 14:23:00",
-      "end_time": "2026-01-31 14:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "A 38 anni Pedro con la Lazio ha segnato 10 gol in Serie A e 4 in Europa League nell'ultima stagione, oltre ad aver trovato il gol con entrambe le maglie nel Derby della Capitale."
-    },
-    {
-      "show_name": "Pisa - Sassuolo",
-      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
-      "start_time": "2026-01-31 14:45:00",
-      "end_time": "2026-01-31 17:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Napoli - Fiorentina",
-      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
-      "start_time": "2026-01-31 17:00:00",
-      "end_time": "2026-01-31 20:55:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Elche - Barcellona",
-      "show_logo": "https://guidatv.sky.it/uuid/969f8143-11a0-45ac-8eeb-b4ea82a83b87/cover?cgid=90&territory=IT&md5ChecksumParam=3a0499f2d27aa4701cfc5fb053bc5b4a&sid=566.it",
-      "start_time": "2026-01-31 20:55:00",
-      "end_time": "2026-01-31 22:57:00",
-      "episode_number": "S2025 E69",
-      "show_category": "Sport",
-      "show_description": "Liga: Elche - Barcellona. 22a g. - Brillano le stelle: Mbappe', Yamal, Griezmann e altri talenti infiammano una corsa al titolo che si preannuncia spettacolare."
-    },
     {
       "show_name": "E1 Series - Stag. 2026 - Jeddah: Finals",
       "show_logo": "https://guidatv.sky.it/uuid/05df0762-296c-41bd-8b94-769dbae86971/cover?cgid=90&territory=IT&md5ChecksumParam=3f4e89c56f2d1b12f3243766fd7f9776&sid=566.it",
-      "start_time": "2026-01-31 22:57:00",
+      "start_time": "2026-02-01 00:00:00",
       "end_time": "2026-02-01 00:30:00",
       "episode_number": "S2026 E1",
       "show_category": "Sport",
       "show_description": "E1 Series: Jeddah: Finals - Le imbarcazioni elettriche dell'E1 Series sono pronte a dare spettacolo sulle acque di Jeddah. Segui l'UIM E1 World Championship su DAZN!"
+    },
+    {
+      "show_name": "Stag. 2019 - DAZN 1",
+      "show_logo": "https://guidatv.sky.it/uuid/ef416285-a102-40e0-80a6-d4be94f81e66/cover?cgid=90&territory=IT&md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&sid=566.it",
+      "start_time": "2026-02-01 00:30:00",
+      "end_time": "2026-02-01 06:00:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "DAZN 1."
+    },
+    {
+      "show_name": "Stag. 2019 - DAZN 1",
+      "show_logo": "https://guidatv.sky.it/uuid/ef416285-a102-40e0-80a6-d4be94f81e66/cover?cgid=90&territory=IT&md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&sid=566.it",
+      "start_time": "2026-02-01 06:00:00",
+      "end_time": "2026-02-01 08:00:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "DAZN 1."
+    },
+    {
+      "show_name": "Inter - Pisa - Stag. 2025 Ep. 22a g. - Inter - Pisa",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-01 08:00:00",
+      "end_time": "2026-02-01 09:53:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": ""
+    },
+    {
+      "show_name": "Bordocam Napoli - Inter 2025/26",
+      "show_logo": "https://guidatv.sky.it/uuid/02902d6e-0420-49f4-b837-dc369650555e/cover?cgid=90&territory=IT&md5ChecksumParam=c2ece3413d006b34efe6ae5af0fc1cfd&sid=566.it",
+      "start_time": "2026-02-01 09:53:00",
+      "end_time": "2026-02-01 10:14:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Napoli-Inter restera' impressa non soltanto per il 3-1 degli azzurri, ma anche per i dissidi tra Antonio Conte e Lautaro Martinez riemersi nella sfida del 'Maradona'. Rivivi le immagini del match."
+    },
+    {
+      "show_name": "Pisa - Sassuolo",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-01 10:14:00",
+      "end_time": "2026-02-01 12:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": ""
+    },
+    {
+      "show_name": "Torino - Lecce - Stag. 2025 Ep. 23a g. - Torino - Lecce",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-01 12:00:00",
+      "end_time": "2026-02-01 14:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": ""
+    },
+    {
+      "show_name": "Como - Atalanta",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-01 14:30:00",
+      "end_time": "2026-02-01 16:56:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": ""
+    },
+    {
+      "show_name": "Superlega 2025 Padova - Perugia - Stag. 2025 Ep. 19a g. - Padova - Perugia",
+      "show_logo": "https://guidatv.sky.it/uuid/a1acbcf5-1c7f-426d-a2a2-c33a44f75357/cover?cgid=90&territory=IT&md5ChecksumParam=61de9bcbe4d4e985379b72e1b50790e3&sid=566.it",
+      "start_time": "2026-02-01 16:56:00",
+      "end_time": "2026-02-01 19:10:00",
+      "episode_number": "S2025 E8",
+      "show_category": "Sport",
+      "show_description": "Superlega: Padova - Perugia. 19a g. - Il volley italiano e internazionale e' su DAZN. Ogni weekend il meglio della pallavolo con la SuperLega, l'A2 e la Serie A1 femminile. Durante la settimana lo spettacolo della CEV."
+    },
+    {
+      "show_name": "ABB Stadi - Stag. 2025 Ep. 4 - Roma",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-01 19:10:00",
+      "end_time": "2026-02-01 19:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Roma - 'Stadi 5.0' e' la nuova serie - con ABB Electrification e Calcio e Finanza - sul futuro dei templi del calcio italiano ed europeo. Il quarto dei sei episodi e' dedicato allo Stadio Olimpico di Roma."
+    },
+    {
+      "show_name": "Parma - Juventus",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-01 19:30:00",
+      "end_time": "2026-02-02 01:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": ""
     }
   ]
 }
