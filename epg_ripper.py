@@ -9,7 +9,7 @@ import re
 
 # --- Configuration ---
 EPG_URLS = [
-    "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz",
     # Add more URLs here if needed
 ]
 
