@@ -1,267 +1,303 @@
 {
   "channel_name": "Discovery Channel",
-  "date": "2026-02-02",
+  "date": "2026-02-03",
   "programs": [
     {
-      "show_name": "Mountain Monsters",
+      "show_name": "Una famiglia fuori dal mondo",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:05:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "6' Stagione Ep.9 - 1984 - La squadra parte per una caccia notturna dopo essersi imbattuta in una creatura mutilata."
-    },
-    {
-      "show_name": "Marchio di fabbrica",
-      "show_logo": "",
-      "start_time": "2026-02-02 00:05:00",
-      "end_time": "2026-02-02 00:35:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "9' Stagione Ep.17 - Da dove provengono le cotolette migliori della Grande Mela? Come si producono i migliori sistemi di home cinema in circolazione? Come nascono le palline da tennis."
-    },
-    {
-      "show_name": "Marchio di fabbrica",
-      "show_logo": "",
-      "start_time": "2026-02-02 00:35:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "9' Stagione Ep.18 - Come si trasformano gli alberi in indumenti e panni di viscosa? Come nascono le bevande gassate? Come si produce il tradizionale tabacco inglese."
-    },
-    {
-      "show_name": "Marchio di fabbrica",
-      "show_logo": "",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 01:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "9' Stagione Ep.19 - Come si costruiscono le teleferiche più care al mondo? Come si ricava la vodka dall'erba? Come funzionano i social network che collegano milioni di persone nel mondo."
-    },
-    {
-      "show_name": "Marchio di fabbrica",
-      "show_logo": "",
-      "start_time": "2026-02-02 01:30:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "9' Stagione Ep.20 - Come funzionano le tute da paracadutismo? Come si produce l'aringa Surstromming? Come si trasformano le erbacce in muri."
-    },
-    {
-      "show_name": "NASA X-Files",
-      "show_logo": "",
-      "start_time": "2026-02-02 02:00:00",
-      "end_time": "2026-02-02 02:55:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "3' Stagione Ep.1 - Plutone sotto pressione - Registrazioni dimenticate rivelano che gli astronauti dell'Apollo hanno ascoltato inspiegabili conversazioni sulla Luna, e uno strano oggetto nell'orbita della Terra inizia a inseguire un'astronave russa."
-    },
-    {
-      "show_name": "NASA X-Files",
-      "show_logo": "",
-      "start_time": "2026-02-02 02:55:00",
-      "end_time": "2026-02-02 03:50:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "3' Stagione Ep.2 - Il ritorno dalla Luna - Scopriamo cosa riportarono dalla Luna gli astronauti dellApollo 12 e quale fu la sconvolgente scoperta fatta dalla NASA seguendo un asteroide diretto sulla Terra."
-    },
-    {
-      "show_name": "NASA X-Files",
-      "show_logo": "",
-      "start_time": "2026-02-02 03:50:00",
-      "end_time": "2026-02-02 04:45:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "3' Stagione Ep.3 - Creature di ghiaccio - E possibile che una foto dellApollo 17 abbia immortalato un avamposto militare americano sulla Luna e una forma di vita nelloceano dei satelliti di Giove? Neil Armstrong affronta un reale pericolo."
-    },
-    {
-      "show_name": "Marchio di fabbrica",
-      "show_logo": "",
-      "start_time": "2026-02-02 04:45:00",
-      "end_time": "2026-02-02 05:10:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "15' Stagione Ep.13 - Come viene trasportata un'auto dalla Siberia al Deserto del Sahara? Inoltre, come viene realizzato a mano un guanto da baseball che dura per tutta la vita."
-    },
-    {
-      "show_name": "Marchio di fabbrica",
-      "show_logo": "",
-      "start_time": "2026-02-02 05:10:00",
-      "end_time": "2026-02-02 05:35:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "15' Stagione Ep.14 - Come vengono stampate 10 milioni di copie al giorno dei giornali più venduti al mondo? Come vengono lavorati a maglia 32.000 paia di calzini al giorno in una fabbrica in Sudafrica."
-    },
-    {
-      "show_name": "Marchio di fabbrica",
-      "show_logo": "",
-      "start_time": "2026-02-02 05:35:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "15' Stagione Ep.15 - Come viene prodotto il 99% dell'uva passa americana nella Valle di San Joaquin in California? Inoltre, come viene realizzato il tipo di carta più antico del mondo."
-    },
-    {
-      "show_name": "Matto da pescare",
-      "show_logo": "",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 06:25:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "1' Stagione Ep.11 - Lumache marine - Eric si immerge nelle acque della Carolina alla ricerca delle lumache di mare. Riuscirà a scovare questo mollusco? Inoltre, andrà a caccia di una particolare specie di anguilla."
-    },
-    {
-      "show_name": "Matto da pescare",
-      "show_logo": "",
-      "start_time": "2026-02-02 06:25:00",
-      "end_time": "2026-02-02 06:50:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "1' Stagione Ep.12 - Tonni - Eric si trova nelle acque al largo della costa di Cape Cod. A bordo di un kayak, tenta di pescare il tonno dalla pinna blu. Dopo riuscirà a catturare le aragoste usando un bastoncino."
-    },
-    {
-      "show_name": "Mountain Monsters",
-      "show_logo": "",
-      "start_time": "2026-02-02 06:50:00",
-      "end_time": "2026-02-02 07:45:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "6' Stagione Ep.9 - 1984 - La squadra parte per una caccia notturna dopo essersi imbattuta in una creatura mutilata."
-    },
-    {
-      "show_name": "Mountain Monsters",
-      "show_logo": "",
-      "start_time": "2026-02-02 07:45:00",
-      "end_time": "2026-02-02 08:40:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "6' Stagione Ep.10 - Le immagini del bigfoot - La squadra incontra un volto familiare che spiega cosa faceva Trapper nella Tygart Valley."
-    },
-    {
-      "show_name": "Mountain Monsters",
-      "show_logo": "",
-      "start_time": "2026-02-02 08:40:00",
-      "end_time": "2026-02-02 09:35:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "1' Stagione Ep.1 - L'uomo lupo - Nella Contea di Wolfe, Kentucky, ci sono numerose prove riconducibili ad un uomo lupo di circa 230 chili che sta terrorizzando la regione. Un gruppo di intrepidi cacciatori riuscirà a catturare questo mostro."
-    },
-    {
-      "show_name": "Mountain Monsters",
-      "show_logo": "",
-      "start_time": "2026-02-02 09:35:00",
-      "end_time": "2026-02-02 10:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "1' Stagione Ep.2 - Devil Dog - Una pericolosa creatura che succhia il sangue sta terrorizzando una regione della Virginia Occidentale. I cacciatori vanno alla ricerca del mostro per rendere sicuri i Monti Appalachi una volta per tutte."
-    },
-    {
-      "show_name": "Mountain Monsters",
-      "show_logo": "",
-      "start_time": "2026-02-02 10:30:00",
-      "end_time": "2026-02-02 11:25:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "1' Stagione Ep.3 - Il Grassman - I residenti della Contea di Perry sostengono di aver visto una spaventosa creatura nei boschi. Un gruppo di cacciatori va in cerca del mostro per rendere sicuri i Monti Appalachi una volta per tutte."
-    },
-    {
-      "show_name": "Mountain Monsters",
-      "show_logo": "",
-      "start_time": "2026-02-02 11:25:00",
-      "end_time": "2026-02-02 12:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "1' Stagione Ep.4 - Il Wampus - Nella Contea di Pleasants, in Virginia, un wampus sta uccidendo il bestiame. Un gruppo di esperti cacciatori tenta di proteggere i propri animali dando la caccia al mostro."
-    },
-    {
-      "show_name": "Deadliest Catch",
-      "show_logo": "",
-      "start_time": "2026-02-02 12:20:00",
-      "end_time": "2026-02-02 14:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "12' Stagione Ep.1 - Carpe Diem - Un nuovo arrivo si aggiunge al gruppo: il 23enne Sean Dwyer, che tenta di portare avanti il nome di suo padre. La vita del capitano Keith entra in una sorta di spirale e Sig tormenta il suo vecchio mentore."
-    },
-    {
-      "show_name": "Deadliest Catch",
-      "show_logo": "",
-      "start_time": "2026-02-02 14:20:00",
-      "end_time": "2026-02-02 15:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "12' Stagione Ep.2 - Grosso errore - Il capitano Sean Dwyer e il suo equipaggio si preparano per la loro prima stagione di pesca al granchio a bordo della Brenna A. Jake teme di aver fatto un grande errore e Wild Bill affronta un arduo mozzo."
-    },
-    {
-      "show_name": "Deadliest Catch",
-      "show_logo": "",
-      "start_time": "2026-02-02 15:20:00",
-      "end_time": "2026-02-02 16:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "12' Stagione Ep.3 - Fuori dai guai - Wild Bill mette a rischio il suo operato per tirare fuori dai guai Josh. Sean dimostra di avere stoffa per questo lavoro; inoltre, lo skipper veterano Johnathan riuscirà a cambiare le sorti della sua stagione."
-    },
-    {
-      "show_name": "Deadliest Catch",
-      "show_logo": "",
-      "start_time": "2026-02-02 16:20:00",
-      "end_time": "2026-02-02 17:15:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "12' Stagione Ep.4 - Gemelli svedesi - Josh è costretto a prendere il controllo della Cornelia Marie, mentre Sean scopre i pericoli del mare agitato. Intanto, a bordo della Cape Caution, i principianti vengono richiamati all'ordine."
-    },
-    {
-      "show_name": "Deadliest Catch",
-      "show_logo": "",
-      "start_time": "2026-02-02 17:15:00",
-      "end_time": "2026-02-02 18:15:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "12' Stagione Ep.5 - Scommessa milionaria - Jake tenta una manovra rischiosa usando un solo motore, mentre Casey e Josh organizzano un'operazione in mare. Riuscirà Edgar a lasciare il segno come capitano, mentre il figlio principiante Eric sarà sul ponte."
-    },
-    {
-      "show_name": "Deadliest Catch",
-      "show_logo": "",
-      "start_time": "2026-02-02 18:15:00",
-      "end_time": "2026-02-02 19:15:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "12' Stagione Ep.6 - Scelte difficili - La peggiore tempesta della stagione è arrivata. Lo skipper Sean deve scegliere tra i granchi e un vecchio amico. Le ferite di un mozzo rivelano un doloroso segreto."
-    },
-    {
-      "show_name": "Deadliest Catch",
-      "show_logo": "",
-      "start_time": "2026-02-02 19:15:00",
-      "end_time": "2026-02-02 20:15:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "12' Stagione Ep.7 - Guerra fredda - Con il capitano Edgar al timone, la Northwestern è sull'orlo dell'ammutinamento. I mozzi ubriachi mettono a rischio la Saga e il Capitano Johnathan fa una grossa scommessa."
-    },
-    {
-      "show_name": "Deadliest Catch",
-      "show_logo": "",
-      "start_time": "2026-02-02 20:15:00",
-      "end_time": "2026-02-02 21:15:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "12' Stagione Ep.8 - L'inverno sta arrivando - Una nuova generazione di capitani affronta i pericoli del Mare di Bering, ma le ferite e i problemi tecnici colpiranno la flotta. Questi uomini hanno ciò che serve per diventare una leggenda."
-    },
-    {
-      "show_name": "Squali dell'altro mondo",
-      "show_logo": "",
-      "start_time": "2026-02-02 21:15:00",
-      "end_time": "2026-02-02 23:05:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "1' Stagione Ep.12 - L'isola degli squali tigre - Andiamo alla scoperta delle più strane specie di squali del pianeta, dalle più pericolose alle più bizzarre."
-    },
-    {
-      "show_name": "Squali alieni: nuovi mondi da scoprire",
-      "show_logo": "",
-      "start_time": "2026-02-02 23:05:00",
+      "start_time": "2026-02-03 00:00:00",
       "end_time": "2026-02-03 00:05:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Immergiamoci nelle profondità degli oceani per osservare da vicino uno dei più grandi predatori del pianeta e svelare i suoi segreti: lo squalo."
+      "show_description": "4' Stagione Ep.11 - Viveri - Nuovi predatori si avvicinano al ranch e i Brown escogitano soluzioni ingegnose per difendere le provviste. Gabe, una fidanzata che abita lontano, arriva per incontrare il suo uomo."
+    },
+    {
+      "show_name": "Marchio di fabbrica",
+      "show_logo": "",
+      "start_time": "2026-02-03 00:05:00",
+      "end_time": "2026-02-03 00:35:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "14' Stagione Ep.1 - Come si trasformano le lattine di alluminio usate sugli aerei e sui missili? Inoltre, scopriamo come si intagliano i tradizionali orologi a cucù della Foresta Nera."
+    },
+    {
+      "show_name": "Marchio di fabbrica",
+      "show_logo": "",
+      "start_time": "2026-02-03 00:35:00",
+      "end_time": "2026-02-03 01:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "14' Stagione Ep.2 - Scopriamo come vengono realizzati i colossi che distruggono le automobili. Inoltre, come hanno fatto Lea e Perrins a creare la particolare salsa Worcestershire."
+    },
+    {
+      "show_name": "Marchio di fabbrica",
+      "show_logo": "",
+      "start_time": "2026-02-03 01:00:00",
+      "end_time": "2026-02-03 01:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "14' Stagione Ep.3 - Scopriamo come vengono realizzate le enormi decorazioni dei carri del Martedì Grasso. Inoltre, capiamo come vengono creati i bastoncini di caramelle e seguiamo il processo di produzione delle dentiere."
+    },
+    {
+      "show_name": "Marchio di fabbrica",
+      "show_logo": "",
+      "start_time": "2026-02-03 01:30:00",
+      "end_time": "2026-02-03 02:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "14' Stagione Ep.4 - Come viene coltivato e trattato il tè più costoso del mondo? Inoltre, come fa la centrale energetica di Siekierki, a Varsavia, a riscaldare metà delle case della capitale polacca."
+    },
+    {
+      "show_name": "NASA X-Files",
+      "show_logo": "",
+      "start_time": "2026-02-03 02:00:00",
+      "end_time": "2026-02-03 02:55:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "3' Stagione Ep.4 - Fantasmi - Quando un rover cinese sulla luna ha un guasto, gli scienziati della NASA individuano un misterioso materiale che sembrerebbe essere anche la causa del sabotaggio delle missioni Apollo di molti anni prima."
+    },
+    {
+      "show_name": "NASA X-Files",
+      "show_logo": "",
+      "start_time": "2026-02-03 02:55:00",
+      "end_time": "2026-02-03 03:50:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "3' Stagione Ep.5 - La Luna che è scomparsa - Alcuni documenti scoperti recentemente rivelano un piano segreto della NASA nel caso in cui il primo sbarco sulla Luna fosse fallito. E la missione Cassini della NASA svela un mistero di 300 anni."
+    },
+    {
+      "show_name": "NASA X-Files",
+      "show_logo": "",
+      "start_time": "2026-02-03 03:50:00",
+      "end_time": "2026-02-03 04:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "3' Stagione Ep.6 - La maledizione del Pianeta rosso - Tre astronauti muoiono misteriosamente al rientro dall'atmosfera terrestre. Inoltre, un rover della NASA scopre alcuni indizi che potrebbero aiutare a risolvere lomicidio."
+    },
+    {
+      "show_name": "Marchio di fabbrica",
+      "show_logo": "",
+      "start_time": "2026-02-03 04:45:00",
+      "end_time": "2026-02-03 05:10:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "13' Stagione Ep.4 - Come vengono realizzate le foto più straordinarie del pianeta? Inoltre, analizziamo un airbag in grado di fermare un'auto che sta precipitando e scopriamo come vengono prodotti miliardi di caramelle alla gelatina."
+    },
+    {
+      "show_name": "Marchio di fabbrica",
+      "show_logo": "",
+      "start_time": "2026-02-03 05:10:00",
+      "end_time": "2026-02-03 05:35:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "13' Stagione Ep.5 - Come viene costruito un caravan che è più resistente di un SUV? E un diapason con un tono perfetto? Scopriamo come ricoprire una pista di pattinaggio in pochi minuti e come viene organizzato il festival di luci più grande al mondo."
+    },
+    {
+      "show_name": "Marchio di fabbrica",
+      "show_logo": "",
+      "start_time": "2026-02-03 05:35:00",
+      "end_time": "2026-02-03 06:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "13' Stagione Ep.6 - Come vengono realizzati i meravigliosi LP in vinile? E come viene costruito un sensazionale autoscontro? Inoltre, scopriamo come viene creato uno dei rimedi più antichi del mondo, il balsamo di tigre."
+    },
+    {
+      "show_name": "Come fanno gli animali",
+      "show_logo": "",
+      "start_time": "2026-02-03 06:00:00",
+      "end_time": "2026-02-03 06:25:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "1' Stagione Ep.31 - Scarafaggi - Perché i bradipi diventano verdi? E come fanno le tartarughe marine a tornare nel proprio habitat? Inoltre, perché alcuni scarafaggi trascorrono tanto tempo sott'acqua."
+    },
+    {
+      "show_name": "Come fanno gli animali",
+      "show_logo": "",
+      "start_time": "2026-02-03 06:25:00",
+      "end_time": "2026-02-03 06:50:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "1' Stagione Ep.32 - Senza orecchie - I moscerini hanno delle preferenze in fatto di gusti? E come fanno i serpenti a sentire se non hanno orecchie? Inoltre, analizziamo il volo degli stormi di uccelli."
+    },
+    {
+      "show_name": "Una famiglia fuori dal mondo",
+      "show_logo": "",
+      "start_time": "2026-02-03 06:50:00",
+      "end_time": "2026-02-03 07:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "4' Stagione Ep.11 - Viveri - Nuovi predatori si avvicinano al ranch e i Brown escogitano soluzioni ingegnose per difendere le provviste. Gabe, una fidanzata che abita lontano, arriva per incontrare il suo uomo."
+    },
+    {
+      "show_name": "Una famiglia fuori dal mondo",
+      "show_logo": "",
+      "start_time": "2026-02-03 07:45:00",
+      "end_time": "2026-02-03 08:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "4' Stagione Ep.12 - Emergenza - Un'emergenza medica costringe il gruppo a gestire in maniera migliore le risorse. La famiglia di Gabe è preoccupata quando lui fa un passo avventato verso il matrimonio."
+    },
+    {
+      "show_name": "Una famiglia fuori dal mondo",
+      "show_logo": "",
+      "start_time": "2026-02-03 08:40:00",
+      "end_time": "2026-02-03 09:35:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "4' Stagione Ep.13 - L'inverno - Con le prime nevicate, i Brown spostano i rifugi vicino il granaio. La moglie di Noah, Rhain, sta per partorire e trascorrerà per la prima volta l'inverno alla colonia."
+    },
+    {
+      "show_name": "Una famiglia fuori dal mondo",
+      "show_logo": "",
+      "start_time": "2026-02-03 09:35:00",
+      "end_time": "2026-02-03 10:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "4' Stagione Ep.14 - Il re della montagna - I figli dei Brown si sono spartiti il loro territorio e tentano di finire prima possibile le loro case, mentre Noah si prepara all'arrivo di un nuovo figlio."
+    },
+    {
+      "show_name": "Acquari di famiglia",
+      "show_logo": "",
+      "start_time": "2026-02-03 10:30:00",
+      "end_time": "2026-02-03 11:25:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "2' Stagione Ep.1 - Vecchia e nuova scuola - Brett trasforma un flipper in un acquario. Riuscirà a farlo ancora funzionare come gioco? In seguito, il team deve gestire una richiesta insolita fatta da una società di robotica."
+    },
+    {
+      "show_name": "Acquari di famiglia",
+      "show_logo": "",
+      "start_time": "2026-02-03 11:25:00",
+      "end_time": "2026-02-03 12:20:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "2' Stagione Ep.2 - Fuori dall'acqua - Brett e Wayde trasformano un banale frigorifero in un acquario super tecnologico. Ma un acquario con uno squalo non sarà eccessivo per una sala d'aspetto di un dentista."
+    },
+    {
+      "show_name": "Acquari di famiglia",
+      "show_logo": "",
+      "start_time": "2026-02-03 12:20:00",
+      "end_time": "2026-02-03 13:25:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "2' Stagione Ep.3 - Serenità - Brett e Wayde costruiscono un enorme acquario a muro per una sala d'attesa di uno studio di tatuaggi. Inoltre, che tipo di acquario potrebbe andar bene per un negozio che vende materassi."
+    },
+    {
+      "show_name": "Acquari di famiglia",
+      "show_logo": "",
+      "start_time": "2026-02-03 13:25:00",
+      "end_time": "2026-02-03 14:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "2' Stagione Ep.4 - Opposti - A Wayde viene chiesto di costruire un enorme acquario. Riuscirà a portare a termine il progetto avendo a disposizione pochissimo tempo? Inoltre, l'Ice Bar chiede una vasca per meduse."
+    },
+    {
+      "show_name": "Avventure impossibili con Josh Gates",
+      "show_logo": "",
+      "start_time": "2026-02-03 14:30:00",
+      "end_time": "2026-02-03 15:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "6' Stagione Ep.1 - Incidente sulla montagna - In Siberia, Josh Gates indaga sullo strano caso dell'incidente del passo di Dyatlov. Nel 1959, nove escursionisti sovietici morirono in circostanze misteriose."
+    },
+    {
+      "show_name": "Avventure impossibili con Josh Gates",
+      "show_logo": "",
+      "start_time": "2026-02-03 15:30:00",
+      "end_time": "2026-02-03 16:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "6' Stagione Ep.2 - Il pirata perduto - Josh arriva in Florida per andare alla ricerca del tesoro del pirata Jose Gaspar. L'esperto si unisce agli archeologi marini e ai cacciatori di tesori."
+    },
+    {
+      "show_name": "Avventure impossibili con Josh Gates",
+      "show_logo": "",
+      "start_time": "2026-02-03 16:30:00",
+      "end_time": "2026-02-03 17:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "6' Stagione Ep.3 - I re serpenti - Dopo una nuova scoperta, Josh è in Guatemala alla ricerca di una tomba dedicata a un serpente reale. Usando la tecnologia, Josh spera di individuare il luogo esatto."
+    },
+    {
+      "show_name": "Avventure impossibili con Josh Gates",
+      "show_logo": "",
+      "start_time": "2026-02-03 17:30:00",
+      "end_time": "2026-02-03 18:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "6' Stagione Ep.4 - Il relitto del '700 - Josh indaga su un relitto del 1715, che potrebbe contenere un enorme tesoro al suo interno. L'esperto si avventura in una spedizione lungo la costa della Florida."
+    },
+    {
+      "show_name": "Come è fatto",
+      "show_logo": "",
+      "start_time": "2026-02-03 18:30:00",
+      "end_time": "2026-02-03 19:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "1' Stagione Ep.1 - Scopriamo la produzione di alcuni articoli o alimenti di uso quotidiano: il foglio di alluminio, gli snowboard, le lenti a contatto polimeriche e il pane."
+    },
+    {
+      "show_name": "Come è fatto",
+      "show_logo": "",
+      "start_time": "2026-02-03 19:00:00",
+      "end_time": "2026-02-03 19:35:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "4' Stagione Ep.10 - Scopriamo come vengono realizzati alcuni prodotti di uso quotidiano, tra cui i pistoni, il rullo per pitturare, i paracadute e i camini."
+    },
+    {
+      "show_name": "Come è fatto",
+      "show_logo": "",
+      "start_time": "2026-02-03 19:35:00",
+      "end_time": "2026-02-03 20:05:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "4' Stagione Ep.11 - Scopriamo come vengono prodotti alcuni oggetti di uso quotidiano, tra cui i cappotti in pelle, il carro funebre, le lampade per ambienti esterni e le magliette per il golf."
+    },
+    {
+      "show_name": "Come è fatto",
+      "show_logo": "",
+      "start_time": "2026-02-03 20:05:00",
+      "end_time": "2026-02-03 20:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "4' Stagione Ep.12 - Vi siete mai chiesti come vengono realizzati i prodotti che usiamo ogni giorno? Scopriamo come sono fabbricati i mulinelli, le case in miniatura, e i mixer."
+    },
+    {
+      "show_name": "Come è fatto",
+      "show_logo": "",
+      "start_time": "2026-02-03 20:40:00",
+      "end_time": "2026-02-03 21:15:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "4' Stagione Ep.13 - Vi siete mai chiesti come vengono realizzati i prodotti che usiamo ogni giorno? Scopriamo come sono fabbricati i chiusini, le cappe per la cucina, i tronchetti artificiali e le motoslitte."
+    },
+    {
+      "show_name": "Giustizia selvaggia - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-03 21:15:00",
+      "end_time": "2026-02-03 22:10:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "3' Stagione Ep.6 - Bugie - Gli agenti affrontano un cacciatore che sta palesemente mentendo."
+    },
+    {
+      "show_name": "Giustizia selvaggia",
+      "show_logo": "",
+      "start_time": "2026-02-03 22:10:00",
+      "end_time": "2026-02-03 23:05:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "3' Stagione Ep.5 - Beccati - Un agente notifica un mandato a un cacciatore di orsi che infrange la legge."
+    },
+    {
+      "show_name": "Animal Security: Louisiana",
+      "show_logo": "",
+      "start_time": "2026-02-03 23:05:00",
+      "end_time": "2026-02-04 00:05:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "2' Stagione Ep.11 - Fuorilegge - Un guidatore sospetto porta gli agenti ad una caccia ad alta velocità nella foresta."
     }
   ]
 }

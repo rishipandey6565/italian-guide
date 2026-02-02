@@ -1,192 +1,12 @@
 {
   "channel_name": "Sky Arte",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "programs": [
-    {
-      "show_name": "Moonage Daydream",
-      "show_logo": "https://guidatv.sky.it/uuid/ec7b6bd0-7037-426f-b7a6-49bf2eee4453/cover?territory=IT&md5ChecksumParam=244a4f0001d9c5e82c9a3303d9834cd1",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 01:50:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "L'unico documentario autorizzato dagli eredi di David Bowie è un viaggio esaltante nella vita del superlativo artista inglese."
-    },
-    {
-      "show_name": "The Beatles - Eight Days a Week",
-      "show_logo": "https://guidatv.sky.it/uuid/e5444d91-367f-4b98-9809-c661ce8e3fb7/cover?territory=IT&md5ChecksumParam=dccc1f489657fc3b1cbc448a37f10320",
-      "start_time": "2026-02-01 01:50:00",
-      "end_time": "2026-02-01 03:40:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "La storia dei Beatles nel documentario del premio Oscar Ron Howard. Dagli esordi di Liverpool al loro ultimo concerto, l'ascesa dei Fab Four arricchita da inediti materiali d'archivio."
-    },
-    {
-      "show_name": "Love to Love You: Donna Summer",
-      "show_logo": "https://guidatv.sky.it/uuid/c53a602a-822c-47f8-9004-e2b37f2ad0eb/cover?territory=IT&md5ChecksumParam=7ac49ba5ee550c6807d0c7658a24405c",
-      "start_time": "2026-02-01 03:40:00",
-      "end_time": "2026-02-01 05:25:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Uno sguardo approfondito sull'iconica artista dagli esordi fino al successo mondiale: la sua voce e la sua abilita' artistica sono diventate la colonna sonora di un'epoca."
-    },
-    {
-      "show_name": "Essere Ornella",
-      "show_logo": "https://guidatv.sky.it/uuid/6b9e12ab-d708-4d8c-9dd6-127ba9079999/cover?territory=IT&md5ChecksumParam=a9d738db087e7ae9b11e987ba3891758",
-      "start_time": "2026-02-01 05:25:00",
-      "end_time": "2026-02-01 06:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Sky omaggia Ornella Vanoni ripercorrendo la genesi del suo cinquantesimo album Unica, alla scoperta del lato piu' umano di una delle ultime grandi dive della musica italiana."
-    },
-    {
-      "show_name": "Io e lei",
-      "show_logo": "https://guidatv.sky.it/uuid/77c5b540-580b-44cb-8e88-800d4c95a141/cover?territory=IT&md5ChecksumParam=926d491103752eaa81250abfb7c9379a",
-      "start_time": "2026-02-01 06:05:00",
-      "end_time": "2026-02-01 06:40:00",
-      "episode_number": "S2 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Unendo fiction e documentario, backstage e interviste, ricerche e appunti, un'attrice scopre una donna straordinaria. Nell'episodio: Carolina Crescentini e' Gabriella Ferri."
-    },
-    {
-      "show_name": "Io e lei",
-      "show_logo": "https://guidatv.sky.it/uuid/1b7e425b-8ed1-41f9-b1ae-48704300d221/cover?territory=IT&md5ChecksumParam=926d491103752eaa81250abfb7c9379a",
-      "start_time": "2026-02-01 06:40:00",
-      "end_time": "2026-02-01 07:10:00",
-      "episode_number": "S2 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Unendo fiction e documentario, backstage e interviste, ricerche e appunti, un'attrice scoprira' una donna straordinaria. Nell'episodio: Camilla Filippi e' Giulietta Masina."
-    },
-    {
-      "show_name": "Io e lei",
-      "show_logo": "https://guidatv.sky.it/uuid/560ed77f-e72c-4ff8-82d6-399729ebc27b/cover?territory=IT&md5ChecksumParam=926d491103752eaa81250abfb7c9379a",
-      "start_time": "2026-02-01 07:10:00",
-      "end_time": "2026-02-01 07:50:00",
-      "episode_number": "S2 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Unendo fiction e documentario, backstage e interviste, ricerche e appunti, un'attrice scoprira' una donna straordinaria. Nell'episodio: Cristiana Dell'Anna e' Tina Modotti."
-    },
-    {
-      "show_name": "Io e lei",
-      "show_logo": "https://guidatv.sky.it/uuid/c58f1131-5c8c-4cbf-a0e3-4c2f09ed7564/cover?territory=IT&md5ChecksumParam=926d491103752eaa81250abfb7c9379a",
-      "start_time": "2026-02-01 07:50:00",
-      "end_time": "2026-02-01 08:20:00",
-      "episode_number": "S2 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Unendo fiction e documentario, backstage e interviste, ricerche e appunti, un'attrice scopre una donna straordinaria. Nell'episodio: Valeria Bilello e' Elsa Schiaparelli."
-    },
-    {
-      "show_name": "Io e lei",
-      "show_logo": "https://guidatv.sky.it/uuid/456792d1-56cc-4a54-a217-75ec393081cb/cover?territory=IT&md5ChecksumParam=926d491103752eaa81250abfb7c9379a",
-      "start_time": "2026-02-01 08:20:00",
-      "end_time": "2026-02-01 08:55:00",
-      "episode_number": "S2 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Unendo fiction e documentario, backstage e interviste, ricerche e appunti, un'attrice scoprira' una donna straordinaria. Nell'episodio: Sonia Bergamasco e' Isadora Duncan."
-    },
-    {
-      "show_name": "Donyale Luna: Supermodel",
-      "show_logo": "https://guidatv.sky.it/uuid/896fe257-82a5-474f-9f6d-8099cc4b70c8/cover?territory=IT&md5ChecksumParam=ba3f60973b925c8a5c077519fa09a90e",
-      "start_time": "2026-02-01 08:55:00",
-      "end_time": "2026-02-01 10:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La vita di Donyale Luna, prima supermodella nera. Molto legata all’Italia, ha rotto i confini dell’industria della moda, sfidato gli ideali di bellezza e influenzato una cultura."
-    },
-    {
-      "show_name": "Love to Love You: Donna Summer",
-      "show_logo": "https://guidatv.sky.it/uuid/c53a602a-822c-47f8-9004-e2b37f2ad0eb/cover?territory=IT&md5ChecksumParam=7ac49ba5ee550c6807d0c7658a24405c",
-      "start_time": "2026-02-01 10:30:00",
-      "end_time": "2026-02-01 12:20:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Uno sguardo approfondito sull'iconica artista dagli esordi fino al successo mondiale: la sua voce e la sua abilita' artistica sono diventate la colonna sonora di un'epoca."
-    },
-    {
-      "show_name": "The Square: All you can art",
-      "show_logo": "https://guidatv.sky.it/uuid/edc77ee2-2514-4256-9814-16ac795d7a76/COVER_TITLE_TALL?territory=IT&version=5f0c6666-0f0f-3b28-92d3-7c84282bec64&w=600&h=800&md5ChecksumParam=7f2a096807962eee0b12628e1cdd932b",
-      "start_time": "2026-02-01 12:20:00",
-      "end_time": "2026-02-01 12:55:00",
-      "episode_number": "S6 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Esplorando vari studi, Nicolas Ballario incontra i protagonisti attuali dell'arte contemporanea. Inoltre, scopriamo le mostre più interessanti e alcuni approfondimenti."
-    },
-    {
-      "show_name": "Echo: Quello che rimane",
-      "show_logo": "https://guidatv.sky.it/uuid/7e0a2028-2664-4c02-9ce1-fd6bcb5343bd/COVER_TITLE_TALL?territory=IT&version=61f6cf37-4438-3dbc-bebc-537260e97c7d&w=600&h=800&md5ChecksumParam=4fc1d822ae99332ebf23a7f73c0a5a9a",
-      "start_time": "2026-02-01 12:55:00",
-      "end_time": "2026-02-01 13:25:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Si indaga su ciò che resta delle persone dopo la loro scomparsa. Un racconto selettivo e profondo delle tracce lasciate nel presente, tra memorie, parole, opere e risonanze emotive."
-    },
-    {
-      "show_name": "Have you got it yet? La storia di Syd Barrett e dei Pink Floyd",
-      "show_logo": "https://guidatv.sky.it/uuid/f96af4bd-61f5-478c-a5b1-59c9a6c2060e/cover?territory=IT&md5ChecksumParam=f21b5c0e72c39dbce057fa81e720f991",
-      "start_time": "2026-02-01 13:25:00",
-      "end_time": "2026-02-01 15:05:00",
-      "episode_number": "",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "La vicenda di Syd Barrett, leggendario fondatore dei Pink Floyd, esploratore di suoni e dimensioni psichedeliche."
-    },
-    {
-      "show_name": "Patti Smith Electric Poet",
-      "show_logo": "https://guidatv.sky.it/uuid/d816cd89-a01d-4049-b749-f5678a4ad8de/cover?territory=IT&md5ChecksumParam=d80719c83ddac27441086bec9a5c5d95",
-      "start_time": "2026-02-01 15:05:00",
-      "end_time": "2026-02-01 16:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Poetessa, attrice, musicista. Patti Smith arrivò a New York negli anni Sessanta diventando un’icona vivente del rock, senza mai cedere al richiamo della celebrità."
-    },
-    {
-      "show_name": "Bice Lazzari - Il ritmo e l'ossessione",
-      "show_logo": "https://guidatv.sky.it/uuid/e23ad27d-094f-4562-bc5e-4a85585295e8/cover?territory=IT&md5ChecksumParam=6f00ae264211cbd861c9f5e6d6d5029d",
-      "start_time": "2026-02-01 16:05:00",
-      "end_time": "2026-02-01 17:05:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Con Benedetta Porcaroli scopriamo la storia di emancipazione e liberta' di Bice Lazzari, una grande donna che negli anni del Fascismo lotto' per affermarsi come artista."
-    },
-    {
-      "show_name": "Peggy Guggenheim e Edmondo Bacci: Colore e luce",
-      "show_logo": "https://guidatv.sky.it/uuid/c69cd21b-a6ec-4fb0-8363-4e49a4a1bb7e/cover?territory=IT&md5ChecksumParam=1da3fce70ed13a480c8c074b13954a89",
-      "start_time": "2026-02-01 17:05:00",
-      "end_time": "2026-02-01 18:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La mostra \"Edmondo Bacci. L'energia della luce\" alla Collezione Peggy Guggenheim di Venezia. Le opere rivelano l'evoluzione del linguaggio artistico di Bacci, caratterizzato dalla forza generativa dei colori."
-    },
-    {
-      "show_name": "San Francesco: Dal cuore dell'Umbria al mondo",
-      "show_logo": "https://guidatv.sky.it/uuid/05f5ac25-aa25-4f6a-a9d5-95d79c133a73/cover?territory=IT&md5ChecksumParam=4c2b71ae6e4e95a6c9bb357ec5c321e7",
-      "start_time": "2026-02-01 18:05:00",
-      "end_time": "2026-02-01 18:20:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "... Dell'umbria Al Mondo. - San Francesco: Dal Cuore Dell'umbria Al Mondo."
-    },
-    {
-      "show_name": "Galleria Continua. The Ability to Dream",
-      "show_logo": "https://guidatv.sky.it/uuid/6af19667-3333-4e03-886d-fdc0e46d6ec5/cover?territory=IT&md5ChecksumParam=5ab0daef7984fd0f2587364150224a11",
-      "start_time": "2026-02-01 18:20:00",
-      "end_time": "2026-02-01 19:35:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "I soci fondatori di Galleria Continua raccontano oltre 30 anni di attivita' a partire dalle immagini piu' iconiche, a volte anche improbabili, della loro avventura insieme."
-    },
-    {
-      "show_name": "Arte Vs Guerra. Banksy E C215 A Borodyanka, Ucraina",
-      "show_logo": "https://guidatv.sky.it/uuid/46d12800-562b-4a67-ab54-00c7ac29cd3a/cover?territory=IT&md5ChecksumParam=4dcb17e3df7d66a6c344929dcd80b2d9",
-      "start_time": "2026-02-01 19:35:00",
-      "end_time": "2026-02-01 21:15:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Borodyanka è una delle città ucraine più colpite dalla guerra. Tra i palazzi distrutti dall'esercito russo, Banksy e C215 realizzano le loro opere."
-    },
     {
       "show_name": "Italy For Movies",
       "show_logo": "https://guidatv.sky.it/uuid/26a1054e-3e6f-43ac-a179-0944ad182ac6/cover?territory=IT&md5ChecksumParam=e8ede4a928eca80eb650dc78d01ccc4b",
-      "start_time": "2026-02-01 21:15:00",
-      "end_time": "2026-02-01 22:05:00",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 00:20:00",
       "episode_number": "S1 E3",
       "show_category": "Mondo e Tendenze",
       "show_description": "Ep.3 di 10 - Il riflesso della bellezza della natura e la sua complessita'. Un incanto che invita alla contemplazione e alla riflessione."
@@ -194,17 +14,143 @@
     {
       "show_name": "Italy For Movies",
       "show_logo": "https://guidatv.sky.it/uuid/78f2e21e-b330-41a1-8e09-86f815de5dff/cover?territory=IT&md5ChecksumParam=e8ede4a928eca80eb650dc78d01ccc4b",
-      "start_time": "2026-02-01 22:05:00",
-      "end_time": "2026-02-01 22:55:00",
+      "start_time": "2026-02-02 00:20:00",
+      "end_time": "2026-02-02 01:10:00",
       "episode_number": "S1 E4",
       "show_category": "Mondo e Tendenze",
       "show_description": "Ep.4 di 10 - Un viaggio attraverso luoghi leggendari che hanno plasmato miti e racconti epici nel corso dei secoli. Dalle rovine antiche ai paesaggi selvaggi e ai luoghi sacri."
     },
     {
+      "show_name": "Godai - Il Festival Dei 5 Elementi",
+      "show_logo": "https://guidatv.sky.it/uuid/855ef648-fc52-45e8-ac86-9561ae1b260b/cover?territory=IT&md5ChecksumParam=5fe3181c4cc5e12d994d653df1edab7c",
+      "start_time": "2026-02-02 01:10:00",
+      "end_time": "2026-02-02 01:40:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Godai - Il Festival Dei 5 Elementi."
+    },
+    {
+      "show_name": "Sound gigante - Storia alternativa...",
+      "show_logo": "https://guidatv.sky.it/uuid/ce588f42-65b0-417f-a435-73d21e798f75/cover?territory=IT&md5ChecksumParam=43e08fb19f4a91a12e17a00c053c9065",
+      "start_time": "2026-02-02 01:40:00",
+      "end_time": "2026-02-02 02:30:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Gli spaghetti western con le colonne sonore di Morricone incontrano il bisogno di novita' dei giovani dando il via a una nuova era musicale."
+    },
+    {
+      "show_name": "Sound gigante - Storia alternativa...",
+      "show_logo": "https://guidatv.sky.it/uuid/7f757ac7-8852-4c29-805c-4e210b0b577c/cover?territory=IT&md5ChecksumParam=43e08fb19f4a91a12e17a00c053c9065",
+      "start_time": "2026-02-02 02:30:00",
+      "end_time": "2026-02-02 03:20:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Negli anni del boom economico il cambiamento e' nell'aria. Sempre piu' giovani sono in cerca di sperimentazioni, anche in ambito musicale."
+    },
+    {
+      "show_name": "Sound gigante - Storia alternativa...",
+      "show_logo": "https://guidatv.sky.it/uuid/33fb1677-f720-426a-aae8-7d99063d4af1/cover?territory=IT&md5ChecksumParam=43e08fb19f4a91a12e17a00c053c9065",
+      "start_time": "2026-02-02 03:20:00",
+      "end_time": "2026-02-02 04:10:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "A fine anni '60 dall'incontro tra studenti e operai nasce la controcultura ed emergono nuove forme musicali come il prog rock."
+    },
+    {
+      "show_name": "Sound gigante - Storia alternativa...",
+      "show_logo": "https://guidatv.sky.it/uuid/2d37ac35-aed8-4936-be1d-b528636285cd/cover?territory=IT&md5ChecksumParam=43e08fb19f4a91a12e17a00c053c9065",
+      "start_time": "2026-02-02 04:10:00",
+      "end_time": "2026-02-02 04:55:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Fine anni '70, a sancire il crollo dell'utopia e la nascita dell'individualismo la disco music da un lato, il punk dall'altro."
+    },
+    {
+      "show_name": "Musica con vista. Festival all'aria...",
+      "show_logo": "https://guidatv.sky.it/uuid/0998f910-c0d1-464e-a58b-7f842e65081c/cover?territory=IT&md5ChecksumParam=7c56ba9131b13405893914bf402c24a3",
+      "start_time": "2026-02-02 04:55:00",
+      "end_time": "2026-02-02 05:30:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "A Padova il Quartetto Goldberg si esibisce nel complesso degli Eremitani e vaga alla scoperta di luoghi d’arte, architettura e storia della città."
+    },
+    {
+      "show_name": "Musica con vista. Festival all'aria...",
+      "show_logo": "https://guidatv.sky.it/uuid/b93f5b8b-1a58-48e1-9a9b-bbb5a42155ab/cover?territory=IT&md5ChecksumParam=7c56ba9131b13405893914bf402c24a3",
+      "start_time": "2026-02-02 05:30:00",
+      "end_time": "2026-02-02 06:05:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "A Palermo il Quartetto Rilke si esibisce avvolto da marmi, stucchi e affreschi e va alla scoperta dei mille volti della città."
+    },
+    {
+      "show_name": "Sinceramente, Gae",
+      "show_logo": "https://guidatv.sky.it/uuid/2cef75f3-081c-4e33-8054-b580a67e96c0/cover?territory=IT&md5ChecksumParam=6e29958b5694179da91547eba379ac26",
+      "start_time": "2026-02-02 06:05:00",
+      "end_time": "2026-02-02 07:05:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un ritratto inedito di Gae Aulenti: una vita vissuta con intensita' e ironia, una carriera portata avanti a colpi di volonta' e talento, in un mondo tutto maschile."
+    },
+    {
+      "show_name": "Design. Aspettando Il Futuro",
+      "show_logo": "https://guidatv.sky.it/uuid/ea2ca9ca-2518-4543-a037-85d10be4ac9c/cover?territory=IT&md5ChecksumParam=c7f1b535ea65404782d02cf7f461c46e",
+      "start_time": "2026-02-02 07:05:00",
+      "end_time": "2026-02-02 08:55:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Documentario che esplora l'arrivo a Milano della Design Week, un evento internazionale all'insegna della creatività e dell'innovazione."
+    },
+    {
+      "show_name": "Indie Jungle",
+      "show_logo": "https://guidatv.sky.it/uuid/177a00ed-de25-4f1f-b808-5736eea270f0/cover?territory=IT&md5ChecksumParam=8588f8fcc14782d806ac80e586abb0b6",
+      "start_time": "2026-02-02 08:55:00",
+      "end_time": "2026-02-02 09:40:00",
+      "episode_number": "S1 E10",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "In un momento in cui i concerti sembrano un lontano ricordo, Indie Jungle ci porta ad assistere virtualmente a 12 concerti di artisti italiani. In questa puntata: Selton."
+    },
+    {
+      "show_name": "Indie Jungle",
+      "show_logo": "https://guidatv.sky.it/uuid/1c543c20-8f3f-4a70-8cda-eb883bd87fd2/cover?territory=IT&md5ChecksumParam=8588f8fcc14782d806ac80e586abb0b6",
+      "start_time": "2026-02-02 09:40:00",
+      "end_time": "2026-02-02 10:30:00",
+      "episode_number": "S1 E11",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "In un momento in cui i concerti sembrano un lontano ricordo, Indie Jungle ci porta ad assistere virtualmente a 12 concerti di artisti italiani. Nella puntata: Lucio Corsi."
+    },
+    {
+      "show_name": "Vitti d'arte, vitti d'amore",
+      "show_logo": "https://guidatv.sky.it/uuid/8505c390-1e58-40c9-bdb3-0560568d9b62/cover?territory=IT&md5ChecksumParam=39346b0b348fcb8e001e781a3edb3a33",
+      "start_time": "2026-02-02 10:30:00",
+      "end_time": "2026-02-02 11:55:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Vitti d'arte, vitti d'amore - Un ritratto intimo di una delle attrici italiane più iconiche, Monica Vitti.\\n."
+    },
+    {
+      "show_name": "Art Crimes",
+      "show_logo": "https://guidatv.sky.it/uuid/f0b88bf4-9c05-4ac3-ab4c-f517b02cc4d2/cover?territory=IT&md5ChecksumParam=d8ac59a757fe30f534614ddd06103992",
+      "start_time": "2026-02-02 11:55:00",
+      "end_time": "2026-02-02 12:55:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Durante alcune indagini, un'intercettazione mette la polizia italiana sulle tracce di due quadri di Van Gogh rubati nel 2002 ad Amsterdam."
+    },
+    {
+      "show_name": "Art Crimes",
+      "show_logo": "https://guidatv.sky.it/uuid/d8f1f7a0-6336-4235-ae9a-f091ed2c5e9f/cover?territory=IT&md5ChecksumParam=d8ac59a757fe30f534614ddd06103992",
+      "start_time": "2026-02-02 12:55:00",
+      "end_time": "2026-02-02 13:55:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nel 1979 cinque capolavori olandesi scompaiono dalla torre del Castello Friedenstein, Germania Est. L'Art Squad di Berlino riuscira' a recuperarli solo nel 2019."
+    },
+    {
       "show_name": "ArtBox",
       "show_logo": "https://guidatv.sky.it/uuid/75697be1-0664-4526-afe5-2bb4899e4dd5/COVER_TITLE_TALL?territory=IT&version=937fbd5b-83f4-38af-aa71-28cbb8414c82&w=600&h=800&md5ChecksumParam=c7c6b9f8a0094e9d04c74aaadf545d78",
-      "start_time": "2026-02-01 22:55:00",
-      "end_time": "2026-02-01 23:35:00",
+      "start_time": "2026-02-02 13:55:00",
+      "end_time": "2026-02-02 14:35:00",
       "episode_number": "S11 E10",
       "show_category": "Mondo e Tendenze",
       "show_description": "Alla scoperta delle migliori e più accattivanti mostre d'arte in Italia e nel mondo in compagnia di esperti d'arte, collezionisti e curatori. Uno spazio dedicato ad incontri con artisti e critici."
@@ -212,11 +158,92 @@
     {
       "show_name": "Italy For Movies",
       "show_logo": "https://guidatv.sky.it/uuid/26a1054e-3e6f-43ac-a179-0944ad182ac6/cover?territory=IT&md5ChecksumParam=e8ede4a928eca80eb650dc78d01ccc4b",
-      "start_time": "2026-02-01 23:35:00",
-      "end_time": "2026-02-02 00:20:00",
+      "start_time": "2026-02-02 14:35:00",
+      "end_time": "2026-02-02 15:25:00",
       "episode_number": "S1 E3",
       "show_category": "Mondo e Tendenze",
       "show_description": "Ep.3 di 10 - Il riflesso della bellezza della natura e la sua complessita'. Un incanto che invita alla contemplazione e alla riflessione."
+    },
+    {
+      "show_name": "Italy For Movies",
+      "show_logo": "https://guidatv.sky.it/uuid/78f2e21e-b330-41a1-8e09-86f815de5dff/cover?territory=IT&md5ChecksumParam=e8ede4a928eca80eb650dc78d01ccc4b",
+      "start_time": "2026-02-02 15:25:00",
+      "end_time": "2026-02-02 16:15:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ep.4 di 10 - Un viaggio attraverso luoghi leggendari che hanno plasmato miti e racconti epici nel corso dei secoli. Dalle rovine antiche ai paesaggi selvaggi e ai luoghi sacri."
+    },
+    {
+      "show_name": "Power of Rome",
+      "show_logo": "https://guidatv.sky.it/uuid/90bd4eb8-bad1-4654-8d04-35d963561edd/cover?territory=IT&md5ChecksumParam=e09611e4090058aa13c0986d685f70c1",
+      "start_time": "2026-02-02 16:15:00",
+      "end_time": "2026-02-02 17:40:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Edoardo Leo, seguendo le tracce della nascita dell'Impero Romano, ci accompagna in un viaggio nel tempo per raccontarci Roma, tra incontri divertenti e svolte sorprendenti."
+    },
+    {
+      "show_name": "Jago. The Rock Star",
+      "show_logo": "https://guidatv.sky.it/uuid/3aaad436-e963-4c30-8cb0-d6e6c4f35941/cover?territory=IT&md5ChecksumParam=a0cba4f8e3bd07ce4a355007e8103a96",
+      "start_time": "2026-02-02 17:40:00",
+      "end_time": "2026-02-02 18:15:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il racconto della parabola artistica di JAGO, uno dei talenti più straordinari della sua generazione, nel corso di una lunga notte nelle sale di Palazzo Bonaparte a Roma."
+    },
+    {
+      "show_name": "Godai - Il Festival Dei 5 Elementi",
+      "show_logo": "https://guidatv.sky.it/uuid/855ef648-fc52-45e8-ac86-9561ae1b260b/cover?territory=IT&md5ChecksumParam=5fe3181c4cc5e12d994d653df1edab7c",
+      "start_time": "2026-02-02 18:15:00",
+      "end_time": "2026-02-02 18:45:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Godai - Il Festival Dei 5 Elementi."
+    },
+    {
+      "show_name": "Indie Jungle",
+      "show_logo": "https://guidatv.sky.it/uuid/177a00ed-de25-4f1f-b808-5736eea270f0/cover?territory=IT&md5ChecksumParam=8588f8fcc14782d806ac80e586abb0b6",
+      "start_time": "2026-02-02 18:45:00",
+      "end_time": "2026-02-02 19:35:00",
+      "episode_number": "S1 E10",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "In un momento in cui i concerti sembrano un lontano ricordo, Indie Jungle ci porta ad assistere virtualmente a 12 concerti di artisti italiani. In questa puntata: Selton."
+    },
+    {
+      "show_name": "Indie Jungle",
+      "show_logo": "https://guidatv.sky.it/uuid/1c543c20-8f3f-4a70-8cda-eb883bd87fd2/cover?territory=IT&md5ChecksumParam=8588f8fcc14782d806ac80e586abb0b6",
+      "start_time": "2026-02-02 19:35:00",
+      "end_time": "2026-02-02 20:25:00",
+      "episode_number": "S1 E11",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "In un momento in cui i concerti sembrano un lontano ricordo, Indie Jungle ci porta ad assistere virtualmente a 12 concerti di artisti italiani. Nella puntata: Lucio Corsi."
+    },
+    {
+      "show_name": "I nazisti e l'arte rubata",
+      "show_logo": "https://guidatv.sky.it/uuid/6031aec0-a162-458d-bee7-b7963f7c4ef2/cover?territory=IT&md5ChecksumParam=8705d5a47e8ef6e7f64e643ae24ad382",
+      "start_time": "2026-02-02 20:25:00",
+      "end_time": "2026-02-02 21:15:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Facciamo luce sull'ossessione dei nazisti per l'arte e sui tanti furti di capolavori da loro perpetrati durante la seconda guerra mondiale."
+    },
+    {
+      "show_name": "L’urlo di Munch – Il grande furto",
+      "show_logo": "https://guidatv.sky.it/uuid/b87960e9-5d58-4a2d-985b-198c28680896/cover?territory=IT&md5ChecksumParam=bfc23aef8c76a1faae06ba2f250ae9b6",
+      "start_time": "2026-02-02 21:15:00",
+      "end_time": "2026-02-02 22:50:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La vera storia del furto de «L'urlo», famoso dipinto di Munch, e del gioco del gatto e del topo tra un ladro appassionato d'arte e un detective anticonformista."
+    },
+    {
+      "show_name": "Il Caravaggio Perduto",
+      "show_logo": "https://guidatv.sky.it/uuid/ff6a27de-6d52-4f56-81da-b178915a77fc/cover?territory=IT&md5ChecksumParam=43e20a5bcd5065ce32c24a54991a5404",
+      "start_time": "2026-02-02 22:50:00",
+      "end_time": "2026-02-03 00:15:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La storia dell’Ecce homo, dipinto smarrito in una casa di Madrid e valutato ad un prezzo irrisorio, che ha suscitato interesse globale per la possibilità di essere un Caravaggio."
     }
   ]
 }

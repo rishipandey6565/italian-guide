@@ -1,231 +1,222 @@
 {
   "channel_name": "Focus",
-  "date": "2026-02-02",
+  "date": "2026-02-03",
   "programs": [
     {
-      "show_name": "Meraviglie Geologiche D'italia",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311126401000501/media/19/83/dd7d8e63-8e3f-4738-abd4-957d1cd1e244/f0aaf77b-98d9-4427-bc40-1e55912be72a.jpg",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:58:00",
-      "episode_number": "S1 E5",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Viaggio di Luigi Bignami, con esperti e scienziati, alla scoperta del sottosuolo, dal punto di vista geologico e paleontologico, nella terra dei trulli."
-    },
-    {
-      "show_name": "Migrating To Mexico",
-      "show_logo": "",
-      "start_time": "2026-02-02 00:58:00",
-      "end_time": "2026-02-02 01:54:00",
-      "episode_number": "",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "La migrazione in Messico ci porta in un viaggio epico in uno dei paesi meno conosciuti e più ricchi di biodiversità del pianeta, con un accesso unico e senza precedenti ai suoi eventi faunistici più spettacolari."
-    },
-    {
-      "show_name": "I Grandi Miti Dell'umanita' Misteri E Rivelazioni",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313197401000104/media/30/94/c158d27b-5766-425a-842f-6671645d9594/3423c511-5860-4eb6-bfae-95f84e63e399.jpg",
-      "start_time": "2026-02-02 01:54:00",
-      "end_time": "2026-02-02 02:47:00",
-      "episode_number": "S3 E1",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Il mito di Eldorado si riferisce a una città d'oro. È possibile che sia esistita davvero o è soltanto un simbolo, una metafora che racconta dell'avidità umana? In un viaggio che ci porta alla scoperta di diversi luoghi del Sud America; dal Perù, culla della civiltà Inca, fino alla Colombia, centro nevralgico dell'antico popolo Muisca, in questo episodio un gruppo di esperti prova a spiegare il mistero che circonda la leggenda di Eldorado."
-    },
-    {
-      "show_name": "Storie Maledette",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313248601000601/media/25/89/7649f73c-7b11-4291-adbd-02f1a32c2873/f4cad3cb-a2a8-47e3-9450-35d0c83ec7e2.jpg",
-      "start_time": "2026-02-02 02:47:00",
-      "end_time": "2026-02-02 03:39:00",
-      "episode_number": "S1 E6",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Una gemma viola possiede un'antica entità malefica; una creatura demoniaca si annida nella foresta del New Jersey."
-    },
-    {
-      "show_name": "Dietro Le Quinte Kalahari Land Of Secret Alliances",
-      "show_logo": "",
-      "start_time": "2026-02-02 03:39:00",
-      "end_time": "2026-02-02 04:29:00",
-      "episode_number": "",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Pierre Stine e il suo team hanno impiegato tre anni per svelare i misteri dell'incredibile cooperazione animale del Kalahari. Tre anni di pazienza, determinazione, ingegno, a volte rischiando e anche fortuna, per filmarli il più fedelmente possibile."
-    },
-    {
-      "show_name": "Predatori E Prede L'eterna Sfida",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313788401000604/media/14/14/187d0cf8-3c3b-4ae0-b6ab-267d8989f7fc/fe49354e-a847-4a9f-801f-f7e6384b4616.jpg",
-      "start_time": "2026-02-02 04:29:00",
-      "end_time": "2026-02-02 05:13:00",
-      "episode_number": "S1 E6",
-      "show_category": "Il regno Animale",
-      "show_description": "Un'entusiasmante serie sulla fauna selvatica che offre nuove prospettive su come predatori come orsi polari, leopardi e lupi inseguono e abbattono le loro prede."
-    },
-    {
-      "show_name": "Dietro Le Quinte Canada: Un Anno Nella Natura Selvaggia",
-      "show_logo": "",
-      "start_time": "2026-02-02 05:13:00",
-      "end_time": "2026-02-02 06:06:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con pazienza e determinazione alcuni filmaker alla scoperta delle rare meraviglie naturali e della straordinaria fauna selvatica del Canada."
-    },
-    {
-      "show_name": "Lions & Hyenas",
-      "show_logo": "",
-      "start_time": "2026-02-02 06:06:00",
-      "end_time": "2026-02-02 07:00:00",
-      "episode_number": "",
-      "show_category": "Il regno Animale",
-      "show_description": "La forze e l'energia del leone è contrapposta alla furbizia della iena che adotta molestia e si approfitta della stanchezza dell'avversario. Una guerra senza fine, la storia di un antico confronto tra due specie iconiche dell'Africa."
-    },
-    {
-      "show_name": "Green Storytellers",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310747901000401/media/22/86/9e6007be-dbf4-4ed7-a4da-fb009b69e9bb/28ce2127-7c2f-46c9-bfca-48ec737cb8c2.jpg",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 07:20:00",
-      "episode_number": "S1 E4",
-      "show_category": "Documentario",
-      "show_description": "Possiamo essere alla moda rispettando il pianeta? A Prato è nato Progetto Rifò, giovane impresa che produce capi di qualità, realizzati con fibre tessili rigenerate e rigenerabili in un circolo virtuoso fra riciclo e rispetto delle persone."
-    },
-    {
-      "show_name": "Viaggiatori Uno Sguardo Sul Mondo",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305857401003501/media/22/86/6ce1216a-49df-4b95-a893-61bdfab593c2/6c2e69a2-f71c-4ad5-b405-7773cbcbf5bc.jpg",
-      "start_time": "2026-02-02 07:20:00",
-      "end_time": "2026-02-02 07:44:00",
-      "episode_number": "S1 E35",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Alla scoperta delle bellezze artistiche e naturali del mondo, dalla Polinesia all'Indonesia, dall'Africa ai Caraibi."
-    },
-    {
-      "show_name": "Unearthed La Storia Dalle Fondamenta",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312110101000104/media/22/86/7536e0d5-b5f5-43c9-a00f-38fead2ecfda/3c8ac268-b78b-434b-8da4-4ff0a24b9dbb.jpg",
-      "start_time": "2026-02-02 07:44:00",
-      "end_time": "2026-02-02 08:36:00",
-      "episode_number": "S1 E1",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Il maestoso monumento che domina Atene risale a più di 2000 anni fa; le dimensioni dei suoi templi lasciano sempre a bocca aperta."
-    },
-    {
-      "show_name": "Secrets In The Jungle Strane Scoperte Nel Profondo Della Giungla",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312026201000504/media/23/87/a527ce2c-fc6d-45c2-a1da-514a5d55edc5/07f2113f-72e4-4bd3-98ab-23b8a168da29.jpg",
-      "start_time": "2026-02-02 08:36:00",
-      "end_time": "2026-02-02 09:32:00",
-      "episode_number": "S1 E5",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Nelle Filippine, i ricercatori trovano antiche ossa di rinoceronte. Vicino al confine tra Columbia e Panama, una vecchia macchina viene scoperta nella giungla. Un'isola brasiliana è infestata da migliaia di serpenti mortali. In Kenya, resti umani sono stati trovati nelle profondità di una grotta."
-    },
-    {
-      "show_name": "Storie Maledette",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313248601000601/media/25/89/7649f73c-7b11-4291-adbd-02f1a32c2873/f4cad3cb-a2a8-47e3-9450-35d0c83ec7e2.jpg",
-      "start_time": "2026-02-02 09:32:00",
-      "end_time": "2026-02-02 10:37:00",
-      "episode_number": "S1 E6",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Una gemma viola possiede un'antica entità malefica; una creatura demoniaca si annida nella foresta del New Jersey."
+      "show_name": "Freedom Oltre Il Confine",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311956001001101/media/28/92/d9404406-17be-486d-9da8-69cbb189f976/169a11ed-009c-4523-9cbe-6bf57ec7921f.jpg",
+      "start_time": "2026-02-03 00:00:00",
+      "end_time": "2026-02-03 02:17:00",
+      "episode_number": "S1 E11",
+      "show_category": "Viaggi",
+      "show_description": "In questa puntata: l'archeologo ed egittologo egiziano Zahi Hawass ci accompagna alla scoperta della tomba del faraone Ramses II, ci si sposta poi a Vicovaro, a 40 km da Roma, dove passano due degli 11 acquedotti che anticamente fornivano l'acqua alla città, racconteremo la storia di Giovanni Battista Viotti, un grande musicista e compositore del Settecento, la cui vita potrebbe celare un incredibile segreto, infine andremo anche anche in Sardegna, nell'Isola di San Pietro."
     },
     {
       "show_name": "Com'erano Fatti Gli Animali Preistorici",
       "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313237501000504/media/22/86/0bcf1a53-8b07-4303-90ca-3c2d4ee2c80e/d547b9ff-5e1e-4d07-b296-d230f7d852ce.jpg",
-      "start_time": "2026-02-02 10:37:00",
-      "end_time": "2026-02-02 11:43:00",
+      "start_time": "2026-02-03 02:17:00",
+      "end_time": "2026-02-03 03:07:00",
       "episode_number": "S2 E5",
       "show_category": "Il regno Animale",
       "show_description": "Nel quinto episodio della seconda serie, scopriremo il Triceratopo, che a lungo è stato raffigurato come l'acerrimo nemico del Tirannosauro. L'evoluzione e l'ambiente circostante lo hanno portato a sviluppare delle caratteristiche uniche, come il corno sul muso e il collare osseo per proteggersi dagli attacchi dei feroci predatori. Inoltre scopriremo che non è stato sempre un animale solitario, perché in giovinezza si spostava insieme ai fratelli o ai genitori per avere maggiore protezione. I ricercatori si recheranno in Wyoming, dove le impronte e i resti del Triceratopo sono visibili ovunque."
     },
     {
-      "show_name": "Cose Di Questo Mondo",
-      "show_logo": "",
-      "start_time": "2026-02-02 11:43:00",
-      "end_time": "2026-02-02 12:42:00",
-      "episode_number": "S1 E3",
-      "show_category": "Scienza e Tecnologia",
-      "show_description": "Il mistero dell'occhio del Sahara e delle nuvole da un'isola nell'Oceano Indiano come una nuova terrificante arma metereologica."
-    },
-    {
-      "show_name": "Predatori E Prede L'eterna Sfida",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313788401000604/media/14/14/187d0cf8-3c3b-4ae0-b6ab-267d8989f7fc/fe49354e-a847-4a9f-801f-f7e6384b4616.jpg",
-      "start_time": "2026-02-02 12:42:00",
-      "end_time": "2026-02-02 13:43:00",
-      "episode_number": "S1 E6",
-      "show_category": "Il regno Animale",
-      "show_description": "Un'entusiasmante serie sulla fauna selvatica che offre nuove prospettive su come predatori come orsi polari, leopardi e lupi inseguono e abbattono le loro prede."
-    },
-    {
-      "show_name": "Dietro Le Quinte Canada: Un Anno Nella Natura Selvaggia",
-      "show_logo": "",
-      "start_time": "2026-02-02 13:43:00",
-      "end_time": "2026-02-02 14:56:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con pazienza e determinazione alcuni filmaker alla scoperta delle rare meraviglie naturali e della straordinaria fauna selvatica del Canada."
-    },
-    {
-      "show_name": "Le Confessioni Del Demonio I Nastri Perduti Di Eichmann",
-      "show_logo": "",
-      "start_time": "2026-02-02 14:56:00",
-      "end_time": "2026-02-02 17:19:00",
-      "episode_number": "",
+      "show_name": "I Grandi Miti Dell'umanita' Misteri E Rivelazioni",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313197401000204/media/30/94/c158d27b-5766-425a-842f-6671645d9594/3423c511-5860-4eb6-bfae-95f84e63e399.jpg",
+      "start_time": "2026-02-03 03:07:00",
+      "end_time": "2026-02-03 04:02:00",
+      "episode_number": "S3 E2",
       "show_category": "Storia Miti e Religioni",
-      "show_description": "Documentario del 2021 diretto da Yariv Mozer. Il film esplora una serie di conversazioni registrate tra Adolf Eichmann, il gerarca nazista, e un giornalista prima del suo processo in Israele. Questi nastri, scoperti solo di recente, rivelano dettagli inquietanti e segreti sul ruolo di Eichmann nella preparazione e nell'attuazione della Soluzione Finale. Attraverso queste confessioni, il documentario svela nuovi aspetti del coinvolgimento di Eichmann nell'Olocausto e offre una prospettiva più profonda sulla sua figura e sui crimini che ha commesso."
+      "show_description": "Alcuni ritrovamenti e gli scritti degli storici romani dell'epoca ci aiutano a comprendere meglio la storia di Cleopatra, l'ultima regina d'Egitto. Chi era veramente? Una stratega politica. Un'affascinante seduttrice di uomini potenti. Una regina-dea. L'archeologa Kathleen Martinez è convinta che un eventuale ritrovamento della tomba di Cleopatra possa fare luce sulla sua figura ancora avvolta nel mistero."
+    },
+    {
+      "show_name": "Storie Maledette",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313786701000102/media/28/92/3d6ca971-7d82-467b-b430-a5cd04843583/a37fc8c9-d61d-4572-b25b-0964e5f4dfaf.jpg",
+      "start_time": "2026-02-03 04:02:00",
+      "end_time": "2026-02-03 04:54:00",
+      "episode_number": "S2 E1",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Una regione della Scozia afflitta da incontri alieni, un orribile incubo vissuto in tutto il mondo e un'antica pietra che evoca l'ira degli dei. Come sono nati questi bizzarri fenomeni e, cosa più importante, come possono essere fermati."
+    },
+    {
+      "show_name": "Meteo Impazzito: Le Top Ten",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313784301000504/media/5/5/2b628a3c-8074-4c6b-a371-9cf51f9e6b6c/b1cd71af-65ad-4d09-ab99-ed4a7db45bd1.jpg",
+      "start_time": "2026-02-03 04:54:00",
+      "end_time": "2026-02-03 05:34:00",
+      "episode_number": "S3 E5",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "In un viaggio che dai boscosi stati americani della California, del Wisconsin e del Minnesota ci conduce fino alle torride distese australiane, passando per le foreste canadesi e le torbiere russe, in questo episodio viene indagata l'infausta combinazione di responsabilità umana e fenomeni atmosferici all'origine dei dieci incendi più distruttivi o letali, ordinati in una classifica che risale indietro nel tempo fino al XIX secolo per includere gli episodi più (o meno) noti della storia contemporanea."
+    },
+    {
+      "show_name": "Waterworld Africa",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311716001000102/media/18/82/146f96d7-d22a-4188-bbd6-3b16025ebfa6/b2394f62-0681-4d6e-a624-641ae1b2093b.jpg",
+      "start_time": "2026-02-03 05:34:00",
+      "end_time": "2026-02-03 06:19:00",
+      "episode_number": "S1 E1",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "La vita di una foresta di mangrovie dell'Africa meridionale. Osserviamo i suoi abitanti durante il passaggio dall'alta alla bassa marea."
+    },
+    {
+      "show_name": "Patagonia La Vita Ai Confini Del Mondo",
+      "show_logo": "",
+      "start_time": "2026-02-03 06:19:00",
+      "end_time": "2026-02-03 07:05:00",
+      "episode_number": "S1 E1",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Iniziamo il viaggio in Patagonia esplorando la Costa Atlantica dove, se da una parte la terra e' arida, dall'altra il mare e' ricco di vita."
+    },
+    {
+      "show_name": "Unearthed La Storia Dalle Fondamenta",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312110101000204/media/22/86/7536e0d5-b5f5-43c9-a00f-38fead2ecfda/3c8ac268-b78b-434b-8da4-4ff0a24b9dbb.jpg",
+      "start_time": "2026-02-03 07:05:00",
+      "end_time": "2026-02-03 07:57:00",
+      "episode_number": "S1 E2",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Chichen Itza è la spettacolare città dei Maya. E' la più grande città antica al mondo, una metropoli nella giungla con un mondo sotterraneo segreto."
     },
     {
       "show_name": "Fuori Le Prove! Indagini Ai Confini Della Realta'",
       "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313427201000504/media/1/1/0119531c-14ba-49ac-8b46-a8ddb54b3b58/6db4541d-a241-4322-a4b0-0ccdbee7ea84.jpg",
-      "start_time": "2026-02-02 17:19:00",
-      "end_time": "2026-02-02 18:12:00",
+      "start_time": "2026-02-03 07:57:00",
+      "end_time": "2026-02-03 08:53:00",
       "episode_number": "S4 E5",
       "show_category": "Scienza e Tecnologia",
       "show_description": "In questo episodio gli esperti esamineranno il video di una strana luce e una strana nuvola nel cielo, una bambina che sembra parlare col fantasma di suo zio, l'agghiacciante grido di un presunto Bigfoot, una nave dell'800 sepolta in una spiaggia, una strana pietra piena di simboli e una bizzarra capanna che sembra avere una gravità tutta sua."
     },
     {
-      "show_name": "Superconnessi Le Reti Sociali Degli Animali",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312445001000504/media/8/8/a2b89261-95ed-4d9c-a7b8-3b7c08cd5dc7/4f73654d-3cf2-48fa-97e6-d363e2aa057d.jpg",
-      "start_time": "2026-02-02 18:12:00",
-      "end_time": "2026-02-02 19:14:00",
-      "episode_number": "S1 E5",
-      "show_category": "Il regno Animale",
-      "show_description": "Il nostro pianeta ospita un' incredibile varietà di creature che manifestano una serie di comportamenti che ci aiutano ad interpretarne la personalità."
+      "show_name": "I Grandi Miti Dell'umanita' Misteri E Rivelazioni",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313197401000204/media/30/94/c158d27b-5766-425a-842f-6671645d9594/3423c511-5860-4eb6-bfae-95f84e63e399.jpg",
+      "start_time": "2026-02-03 08:53:00",
+      "end_time": "2026-02-03 10:07:00",
+      "episode_number": "S3 E2",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Alcuni ritrovamenti e gli scritti degli storici romani dell'epoca ci aiutano a comprendere meglio la storia di Cleopatra, l'ultima regina d'Egitto. Chi era veramente? Una stratega politica. Un'affascinante seduttrice di uomini potenti. Una regina-dea. L'archeologa Kathleen Martinez è convinta che un eventuale ritrovamento della tomba di Cleopatra possa fare luce sulla sua figura ancora avvolta nel mistero."
     },
     {
-      "show_name": "Animali: Alleanze Strategiche",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313781101000104/media/26/90/d9589a1c-7e7a-467d-82d4-25151aa1e09b/be73001c-2735-4391-aa2f-2596fa0d09e7.jpg",
-      "start_time": "2026-02-02 19:14:00",
-      "end_time": "2026-02-02 20:29:00",
+      "show_name": "Storie Maledette",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313786701000102/media/28/92/3d6ca971-7d82-467b-b430-a5cd04843583/a37fc8c9-d61d-4572-b25b-0964e5f4dfaf.jpg",
+      "start_time": "2026-02-03 10:07:00",
+      "end_time": "2026-02-03 11:15:00",
+      "episode_number": "S2 E1",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Una regione della Scozia afflitta da incontri alieni, un orribile incubo vissuto in tutto il mondo e un'antica pietra che evoca l'ira degli dei. Come sono nati questi bizzarri fenomeni e, cosa più importante, come possono essere fermati."
+    },
+    {
+      "show_name": "Com'erano Fatti Gli Animali Preistorici",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313237501000604/media/22/86/0bcf1a53-8b07-4303-90ca-3c2d4ee2c80e/d547b9ff-5e1e-4d07-b296-d230f7d852ce.jpg",
+      "start_time": "2026-02-03 11:15:00",
+      "end_time": "2026-02-03 12:20:00",
+      "episode_number": "S2 E6",
+      "show_category": "Il regno Animale",
+      "show_description": "Nel sesto episodio della seconda serie, scopriremo il Rinoceronte Lanoso. In una grotta tra le Mendip Hills, nel sud dell'Inghilterra, i paleontologi riportano alla luce numerosi ossi risalenti a 50.000 anni fa. I pezzi finora dissotterrati risalgono all'epoca del Rinoceronte Lanoso. I ricercatori si chiedono cosa abbia portato alla sua estinzione e tra le possibili cause annoverano l'ascesa dell'Homo Sapiens e l'improvviso cambiamento climatico alla fine dell'Era Glaciale."
+    },
+    {
+      "show_name": "Cose Di Questo Mondo",
+      "show_logo": "",
+      "start_time": "2026-02-03 12:20:00",
+      "end_time": "2026-02-03 13:20:00",
+      "episode_number": "S1 E4",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "Uno strano anello nel ghiaccio del lago piu' antico del mondo in Russia. Un'immagine satellitare che potrebbe contenere la posizione di Sodoma."
+    },
+    {
+      "show_name": "Waterworld Africa",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311716001000102/media/18/82/146f96d7-d22a-4188-bbd6-3b16025ebfa6/b2394f62-0681-4d6e-a624-641ae1b2093b.jpg",
+      "start_time": "2026-02-03 13:20:00",
+      "end_time": "2026-02-03 14:19:00",
+      "episode_number": "S1 E1",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "La vita di una foresta di mangrovie dell'Africa meridionale. Osserviamo i suoi abitanti durante il passaggio dall'alta alla bassa marea."
+    },
+    {
+      "show_name": "Vita Da Preda",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311709501000104/media/1/1/e150f9a8-6a1d-4870-b8b4-f224c808c052/a2da42ca-8cc7-4c4f-a22f-16583df18111.jpg",
+      "start_time": "2026-02-03 14:19:00",
+      "end_time": "2026-02-03 15:25:00",
       "episode_number": "",
       "show_category": "Il regno Animale",
-      "show_description": "Gli animali hanno elaborato una strategia differente per rimanere in vita: collaborare con membri della stessa specie o di specie differenti, instaurando rapporti basati sulla reciprocità. Noi umani costituiamo l'unico elemento discordante, che compromette il delicato equilibrio dell'ecosistema."
+      "show_description": "Il Serengeti ospita la più alta concentrazione di mega-fauna sul pianeta. Alcuni degli animali più grandi del mondo abitano una zona di appena 15.000 chilometri. Nessuno tra i predatori può opporsi davanti alla forza volubile e devastante dell'uomo."
+    },
+    {
+      "show_name": "Natura In Movimento",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311906101000201/media/10/10/7e480925-d9b2-4ee6-bf50-9172727a2c43/ae1851ff-e95b-4cba-b9f5-0bef029bc95f.jpg",
+      "start_time": "2026-02-03 15:25:00",
+      "end_time": "2026-02-03 16:31:00",
+      "episode_number": "S1 E2",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Un ghepardo che insegue uno gnu attraverso la savana, un camaleonte che lancia la sua lingua elastica e altro ancora."
+    },
+    {
+      "show_name": "Oasi Africane",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312419301000202/media/16/80/e1763a1f-e24f-4439-ae9b-fc7ea275ef83/ecffc489-0f93-431d-9f60-a56d0e349219.jpg",
+      "start_time": "2026-02-03 16:31:00",
+      "end_time": "2026-02-03 17:34:00",
+      "episode_number": "S1 E2",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "È il periodo più caldo dell'anno e la pozza d'acqua è più affollata di notte. Un nuovo predatore emerge dall'ombra, la iena. Chris tenta di contare il loro numero mentre Ella osserva come sta cambiando il comportamento dei residenti delle pozze d'acqua."
+    },
+    {
+      "show_name": "Fuori Le Prove! Indagini Ai Confini Della Realta'",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313427201000604/media/1/1/0119531c-14ba-49ac-8b46-a8ddb54b3b58/6db4541d-a241-4322-a4b0-0ccdbee7ea84.jpg",
+      "start_time": "2026-02-03 17:34:00",
+      "end_time": "2026-02-03 18:28:00",
+      "episode_number": "S4 E6",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "Gli esperti analizzano il filmato di uno strano essere metà uomo metà uccello che corre per le strade dell'Ohio. Strani globi luminosi attraversano i cieli della Germania fin dalla Seconda Guerra mondiale. Si tratta di navicelle aliene? Infine una spettatrice attenta fornirà la risposta ad un mistero comparso in uno dei vecchi episodi."
+    },
+    {
+      "show_name": "Segreti Sotto La Sabbia",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312803201000304/media/18/82/ea9d3d25-99e5-4fc5-b69f-18315df04380/41247dd0-8d53-4bb0-bac1-eb54f63a7978.jpg",
+      "start_time": "2026-02-03 18:28:00",
+      "end_time": "2026-02-03 19:26:00",
+      "episode_number": "",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Nella Death Valley le rocce sembrano muoversi da sole. Gli archeologi trovano una civiltà perduta nel deserto di Ordos. Le ossa di animali nel Nuovo Messico rivelano tracce della prima migrazione umana. Le strane pietre trovate nel Sahara hanno uno scopo astronomico."
+    },
+    {
+      "show_name": "Segreti Sotto La Sabbia",
+      "show_logo": "",
+      "start_time": "2026-02-03 19:26:00",
+      "end_time": "2026-02-03 20:22:00",
+      "episode_number": "S2 E5",
+      "show_category": "",
+      "show_description": "Nel deserto di Atacama una tomba con quattro scheletri cela un enigma; in Egitto riaffiora la storia di un faraone che sfidò il culto tradizionale; lungo la Via della Seta, mummie rivelano antichi scambi; a Gerusalemme, una trincea svela segreti sull'evoluzione della città."
     },
     {
       "show_name": "Enigmi Alieni",
-      "show_logo": "",
-      "start_time": "2026-02-02 20:29:00",
-      "end_time": "2026-02-02 21:20:00",
-      "episode_number": "S13 E11",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313797201001902/media/12/12/34d9aa63-c951-43c7-b6d4-2a1a65447dcf/f6d9f815-b714-4288-b9f0-f568e61fa538.jpg",
+      "start_time": "2026-02-03 20:22:00",
+      "end_time": "2026-02-03 21:20:00",
+      "episode_number": "S1 E19",
       "show_category": "Spazio",
-      "show_description": "La parte occidentale del sud America è un territorio di giungle tropicali, pianure immense e siti archeologici ma anche delle strutture più incredibili del pianeta."
+      "show_description": "Antichi dipinti di figure umanoidi; antiche pietre intagliate con immagini di macchine volanti; alcune opere d'arte rupestre indicano che la terra è stata visita dagli extraterrestri."
     },
     {
-      "show_name": "Hot Roads Strade Di Fuoco",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314102901000402/media/14/14/1d3204e8-0867-4264-813a-7efa10335fe9/6ce3fd0d-91cb-4cc6-9b9a-19bd69855b9d.jpg",
-      "start_time": "2026-02-02 21:20:00",
-      "end_time": "2026-02-02 22:17:00",
-      "episode_number": "S3 E4",
-      "show_category": "Inchiesta",
-      "show_description": "All'estremo nord della Georgia, in Tuscezia, c'è il più alto passo carrozzabile del Caucaso maggiore, una strada che si snoda tra impressionanti dirupi. Ogni metro è una sfida."
+      "show_name": "Oman: Meraviglie Naturali D'arabia",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312465001000106/media/1/1/819ce15a-215a-46bf-b692-a2d9e57a980d/08c1fc21-1f0c-4bea-89d2-fd3e0b42f033.jpg",
+      "start_time": "2026-02-03 21:20:00",
+      "end_time": "2026-02-03 22:27:00",
+      "episode_number": "S1 E1",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Esploriamo le meraviglie della fauna selvatica del Sultanato dell'Oman che ospita specie rare in via di estinzione come il leopardo arabo, la megattera del Mar Arabico e diverse tartarughe marine."
     },
     {
-      "show_name": "Hot Roads Strade Di Fuoco",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313793101000103/media/23/87/57e431bb-e6d5-4e68-81fd-fb30d2eab5eb/f922146d-73f2-46b0-a6f9-43656cf7da62.jpg",
-      "start_time": "2026-02-02 22:17:00",
-      "end_time": "2026-02-02 23:26:00",
-      "episode_number": "S2 E1",
-      "show_category": "Inchiesta",
-      "show_description": "E' considerata una delle strade più pericolose al mondo, la \"carretera della muerte\". Ogni anno molte persone ci perdono la vita."
+      "show_name": "Oman Meraviglie Naturali D'arabia",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312465001000206/media/1/1/819ce15a-215a-46bf-b692-a2d9e57a980d/08c1fc21-1f0c-4bea-89d2-fd3e0b42f033.jpg",
+      "start_time": "2026-02-03 22:27:00",
+      "end_time": "2026-02-03 23:35:00",
+      "episode_number": "S1 E2",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Per la prima volta sullo schermo, vengono esplorati gli habitat unici dell'Oman, un paese ricco di un'incredibile diversità di paesaggi."
     },
     {
-      "show_name": "Freedom Oltre Il Confine",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311956001001101/media/28/92/d9404406-17be-486d-9da8-69cbb189f976/169a11ed-009c-4523-9cbe-6bf57ec7921f.jpg",
-      "start_time": "2026-02-02 23:26:00",
-      "end_time": "2026-02-03 02:17:00",
-      "episode_number": "S1 E11",
-      "show_category": "Viaggi",
-      "show_description": "In questa puntata: l'archeologo ed egittologo egiziano Zahi Hawass ci accompagna alla scoperta della tomba del faraone Ramses II, ci si sposta poi a Vicovaro, a 40 km da Roma, dove passano due degli 11 acquedotti che anticamente fornivano l'acqua alla città, racconteremo la storia di Giovanni Battista Viotti, un grande musicista e compositore del Settecento, la cui vita potrebbe celare un incredibile segreto, infine andremo anche anche in Sardegna, nell'Isola di San Pietro."
+      "show_name": "Presenze Aliene",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313890001000304/media/7/7/8145753e-56f5-41e2-956b-6c314d8e26a8/91cd38f8-f08a-456e-9ee5-f86ffc5a5ae0.jpg",
+      "start_time": "2026-02-03 23:35:00",
+      "end_time": "2026-02-04 00:34:00",
+      "episode_number": "S1 E3",
+      "show_category": "Spazio",
+      "show_description": "Per decenni, nello stato dell'Alaska si sono verificati fenomeni inspiegabili, tra sparizioni di escursionisti nella natura selvaggia, avvistamenti di oggetti volanti non identificati e leggende di piramidi nascoste nelle profondità delle montagne. Gli esperti si interrogano sulle cause di queste stranezze e sulla possibilità che siano coinvolte entità extraterrestri."
     }
   ]
 }

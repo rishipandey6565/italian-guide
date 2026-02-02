@@ -1,186 +1,141 @@
 {
   "channel_name": "LA7 CINEMA",
-  "date": "2026-02-02",
+  "date": "2026-02-03",
   "programs": [
-    {
-      "show_name": "Wall Street - Il denaro non dorme mai",
-      "show_logo": "https://guidatv.sky.it/uuid/08c53ca2-0aed-491c-a09f-26dc72213971/cover?territory=IT&md5ChecksumParam=c705ca06058dff99b4f8e9bdb3a326c4",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 01:30:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Oliver Stone torna tra gli squali della finanza con Michael Douglas. Alla vigilia del crollo della Borsa, nel 2001, Gordon Gekko esce dal carcere dopo aver scontato 23 anni per le frodi commesse a Wall Street ma nessuno lo attende fuori dal cancello, nemmeno sua figlia Winnie (Carey Mulligan) che lo ritiene responsabile del suicidio del fratello Rudy. Per riallacciare i rapporti con lei, Gekko entrerà nelle grazie del suo fidanzato Jake Moore (Shia LaBeouf), un giovane agente di borsa che ha bisogno di una figura di riferimento nella giungla dei broker."
-    },
-    {
-      "show_name": "Morto Stalin se ne fa un altro",
-      "show_logo": "https://guidatv.sky.it/uuid/352a60eb-7afe-4b6c-9fbc-2bc85e7fd870/cover?territory=IT&md5ChecksumParam=8946af0574c24b587880b16b0c244b33",
-      "start_time": "2026-02-02 01:30:00",
-      "end_time": "2026-02-02 03:30:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Miglior commedia agli European Film Awards 2018 con Steve Buscemi, Jeffrey Tambor e Olga Kurylenko. La morte di Stalin scatena una grottesca battaglia per la sua successione."
-    },
-    {
-      "show_name": "Vite da Star - Stag. 2 Ep. 2 - Grace Kelly",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-02 03:30:00",
-      "end_time": "2026-02-02 04:25:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La storia delle star piu' famose al mondo. Attraverso immagini e interviste, ripercorriamo la loro brillante carriera e i loro successi sul grande schermo."
-    },
-    {
-      "show_name": "Uozzap Cinema - Stag. 20 Ep. 2",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-02 04:25:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "'La TV in chat' che seleziona i momenti piu' divertenti e ironici dei personaggi piu' amati della televisione."
-    },
-    {
-      "show_name": "Documentario",
-      "show_logo": "https://guidatv.sky.it/uuid/353e6a3d-3ff6-465d-97a9-42665f885da7/cover?territory=IT&md5ChecksumParam=c1891cfbc595c2978b2fdface5130c31",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Fascia dedicata al documentario."
-    },
-    {
-      "show_name": "Oroscopo",
-      "show_logo": "https://guidatv.sky.it/uuid/27865c78-a80f-437d-8417-75125db86915/cover?territory=IT&md5ChecksumParam=c274430f5bf1729f8fd685f7ae02f415",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 06:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La lettura dell'oroscopo del giorno per tutti i segni zodiacali."
-    },
-    {
-      "show_name": "Meteo",
-      "show_logo": "https://guidatv.sky.it/uuid/bbe41404-7ba5-46e4-aebf-08ea07d958a4/cover?territory=IT&md5ChecksumParam=a92591ea1a6b1565d61b5b0d47f3428b",
-      "start_time": "2026-02-02 06:05:00",
-      "end_time": "2026-02-02 06:10:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia."
-    },
-    {
-      "show_name": "Oroscopo",
-      "show_logo": "https://guidatv.sky.it/uuid/27865c78-a80f-437d-8417-75125db86915/cover?territory=IT&md5ChecksumParam=c274430f5bf1729f8fd685f7ae02f415",
-      "start_time": "2026-02-02 06:10:00",
-      "end_time": "2026-02-02 06:15:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La lettura dell'oroscopo del giorno per tutti i segni zodiacali."
-    },
-    {
-      "show_name": "Tg La7",
-      "show_logo": "https://guidatv.sky.it/uuid/9746f404-e911-432d-b5de-6aa9b54f6c76/cover?territory=IT&md5ChecksumParam=b22d7d1d07ae1f8d98fafcfd3520e0be",
-      "start_time": "2026-02-02 06:15:00",
-      "end_time": "2026-02-02 06:20:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
-    },
-    {
-      "show_name": "Josephine, ange gardien",
-      "show_logo": "https://guidatv.sky.it/uuid/8dc9c437-3ec3-44e6-a104-8ac8bee8cc35/cover?territory=IT&md5ChecksumParam=a9cb7e8cc16960076fd7ec2d760ec792",
-      "start_time": "2026-02-02 06:20:00",
-      "end_time": "2026-02-02 08:15:00",
-      "episode_number": "S7 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "Josephine cerca di destreggiarsi nel mondo dell'alta moda prendendo le difese di una stilista, vittima delle avances di uno spregevole capo."
-    },
-    {
-      "show_name": "Josephine, ange gardien",
-      "show_logo": "https://guidatv.sky.it/uuid/0d397110-f9ba-454c-b58e-528f08896beb/cover?territory=IT&md5ChecksumParam=5624eb551b4b09f5e3ec3c4d50e49947",
-      "start_time": "2026-02-02 08:15:00",
-      "end_time": "2026-02-02 10:05:00",
-      "episode_number": "S8 E1",
-      "show_category": "Intrattenimento",
-      "show_description": "Josephine aiuta un ragazzino rimasto senza casa a trovare una nuova famiglia e a difendersi da un losco individuo che vuole sfruttarlo a suo vantaggio."
-    },
-    {
-      "show_name": "Basilicata Coast to Coast",
-      "show_logo": "https://guidatv.sky.it/uuid/86ddb28f-1158-43fe-8690-5a7baba9e5a8/cover?territory=IT&md5ChecksumParam=2ee7edb1ff7f2ec8570e291206cbf0e7",
-      "start_time": "2026-02-02 10:05:00",
-      "end_time": "2026-02-02 11:55:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "3 David di Donatello per una commedia 'on the road' con Rocco Papaleo, Alessandro Gassmann e Max Gazze'. Un gruppo di musicisti attraversa la Basilicata per partecipare a un festival."
-    },
-    {
-      "show_name": "Tra le nuvole",
-      "show_logo": "https://guidatv.sky.it/uuid/e93891c3-7fe8-42bb-9615-d7283d66886d/cover?territory=IT&md5ChecksumParam=9639fae1ddb212d55e120b1fe0f91917",
-      "start_time": "2026-02-02 11:55:00",
-      "end_time": "2026-02-02 13:55:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Golden Globe alla sceneggiatura per una sorprendente commedia con George Clooney, dal regista di \"Juno\". Ryan Bingham e' un attraente e solitario 'tagliatore di teste' al soldo delle multinazionali: viaggia su e giu' per l'America con il compito di licenziare i dipendenti ormai... indesiderati. La sua vita, scandita da hotel lussuosi e continui viaggi in aereo, decolla su una rotta diversa dopo aver ricevuto il compito di istruire una collega neolaureata (Anna Kendrick) e soprattutto dopo l'incontro con Alex (Vera Farmiga), una sua copia al femminile, conosciuta ovviamente a bordo di un aereo."
-    },
-    {
-      "show_name": "Captain Phillips - Attacco in mare aperto",
-      "show_logo": "https://guidatv.sky.it/uuid/f53f207a-5ca1-402b-a860-e72dbcad20d7/cover?territory=IT&md5ChecksumParam=71d27ebc3d1027ab9bbf6c341a71804c",
-      "start_time": "2026-02-02 13:55:00",
-      "end_time": "2026-02-02 16:25:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Tom Hanks nel film tratto da una storia vera, nominato a 6 premi Oscar. Il capitano di una nave americana assalita dai pirati si offre come ostaggio per salvare il suo equipaggio."
-    },
-    {
-      "show_name": "Terapia d'urto",
-      "show_logo": "https://guidatv.sky.it/uuid/2da4c065-9e6e-40b7-ade5-7d2c7ce1d4c6/cover?territory=IT&md5ChecksumParam=dac1170a60c1b0cb3d5ae73f3ce10381",
-      "start_time": "2026-02-02 16:25:00",
-      "end_time": "2026-02-02 17:25:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Jack Nicholson e Adam Sandler in una spassosa commedia. A causa di un equivoco, un uomo d'affari finisce sul lettino di uno stravagante terapeuta per imparare a controllare la sua rabbia."
-    },
-    {
-      "show_name": "Tg La7",
-      "show_logo": "https://guidatv.sky.it/uuid/9746f404-e911-432d-b5de-6aa9b54f6c76/cover?territory=IT&md5ChecksumParam=b22d7d1d07ae1f8d98fafcfd3520e0be",
-      "start_time": "2026-02-02 17:25:00",
-      "end_time": "2026-02-02 17:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
-    },
-    {
-      "show_name": "Terapia d'urto",
-      "show_logo": "https://guidatv.sky.it/uuid/2da4c065-9e6e-40b7-ade5-7d2c7ce1d4c6/cover?territory=IT&md5ChecksumParam=dac1170a60c1b0cb3d5ae73f3ce10381",
-      "start_time": "2026-02-02 17:30:00",
-      "end_time": "2026-02-02 18:25:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Jack Nicholson e Adam Sandler in una spassosa commedia. A causa di un equivoco, un uomo d'affari finisce sul lettino di uno stravagante terapeuta per imparare a controllare la sua rabbia."
-    },
-    {
-      "show_name": "Ritorno a Cold Mountain",
-      "show_logo": "https://guidatv.sky.it/uuid/5766d52a-74fe-4aaf-b284-785f19b297f9/cover?territory=IT&md5ChecksumParam=9fd5e2e60e62e2dc93a09cd23295036e",
-      "start_time": "2026-02-02 18:25:00",
-      "end_time": "2026-02-02 21:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Oscar e Golden Globe a Renée Zellweger per una love story con Nicole Kidman e Jude Law. Guerra di Secessione: un soldato ferito affronta un duro viaggio per tornare dalla sua donna."
-    },
-    {
-      "show_name": "The Net - Intrappolata nella rete",
-      "show_logo": "https://guidatv.sky.it/uuid/702251c0-96fb-4492-995e-158d510aab25/cover?territory=IT&md5ChecksumParam=b6155b75789b27e51f90e81aa0595995",
-      "start_time": "2026-02-02 21:15:00",
-      "end_time": "2026-02-02 23:25:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Avvincente thriller informatico con Sandra Bullock. Un'esperta di computer entra in possesso di un codice top secret e deve difendersi da una banda di cybercriminali."
-    },
     {
       "show_name": "The Eichmann Show - Il processo del secolo",
       "show_logo": "https://guidatv.sky.it/uuid/2c5593b7-6493-402a-ba07-5552e054d0cc/cover?territory=IT&md5ChecksumParam=add2483a87325a39d9924b3442722695",
-      "start_time": "2026-02-02 23:25:00",
+      "start_time": "2026-02-03 00:00:00",
       "end_time": "2026-02-03 01:15:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Martin Freeman e Anthony LaPaglia nel dramma che ripercorre un cruciale evento televisivo. Israele, 1961: un produttore inglese filma il processo contro il gerarca nazista Adolf Eichmann."
+    },
+    {
+      "show_name": "La corsa piu' pazza del mondo",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-03 01:15:00",
+      "end_time": "2026-02-03 06:00:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Un gruppo di persone, ognuno dalla provenienza sociale piu' disparata, si raduna ogni anno per una leggendaria corsa automobilistica: la Gumball Rally. La competizione, illegale, si svolge lungo un percorso segreto che attraversa gli USA."
+    },
+    {
+      "show_name": "Oroscopo",
+      "show_logo": "https://guidatv.sky.it/uuid/27865c78-a80f-437d-8417-75125db86915/cover?territory=IT&md5ChecksumParam=c274430f5bf1729f8fd685f7ae02f415",
+      "start_time": "2026-02-03 06:00:00",
+      "end_time": "2026-02-03 06:05:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La lettura dell'oroscopo del giorno per tutti i segni zodiacali."
+    },
+    {
+      "show_name": "Tg La7",
+      "show_logo": "https://guidatv.sky.it/uuid/9746f404-e911-432d-b5de-6aa9b54f6c76/cover?territory=IT&md5ChecksumParam=b22d7d1d07ae1f8d98fafcfd3520e0be",
+      "start_time": "2026-02-03 06:05:00",
+      "end_time": "2026-02-03 06:10:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
+    },
+    {
+      "show_name": "Hollywood Collection - Stag. 1 Ep. 21 - Michael Caine",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-03 06:10:00",
+      "end_time": "2026-02-03 07:10:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una serie di splendide biografie, narrate da voci illustri, di alcuni tra i piu' famosi attori e attrici che hanno caratterizzato il cinema hollywoodiano classico."
+    },
+    {
+      "show_name": "Josephine, ange gardien",
+      "show_logo": "https://guidatv.sky.it/uuid/07b46374-aebc-4252-a9a9-287a94ffec74/cover?territory=IT&md5ChecksumParam=a9cb7e8cc16960076fd7ec2d760ec792",
+      "start_time": "2026-02-03 07:10:00",
+      "end_time": "2026-02-03 09:05:00",
+      "episode_number": "S8 E2",
+      "show_category": "Intrattenimento",
+      "show_description": "Josephine va in missione per aiutare il giovane parroco di una parrocchia di provincia dove la statua della Vergine piange lacrime di sangue. Ma e' un vero miracolo?"
+    },
+    {
+      "show_name": "Josephine, ange gardien",
+      "show_logo": "https://guidatv.sky.it/uuid/57219e68-456b-43db-8185-59ef542cc878/cover?territory=IT&md5ChecksumParam=a9cb7e8cc16960076fd7ec2d760ec792",
+      "start_time": "2026-02-03 09:05:00",
+      "end_time": "2026-02-03 11:00:00",
+      "episode_number": "S8 E3",
+      "show_category": "Intrattenimento",
+      "show_description": "Josephine e' in missione per aiutare Gaspard, un ragazzo che incontra per la prima volta il padre Denis, il quale non ha mai saputo della sua esistenza..."
+    },
+    {
+      "show_name": "Come farsi lasciare in 10 giorni",
+      "show_logo": "https://guidatv.sky.it/uuid/50d24b06-bbdb-41c1-87c9-800caed4566d/cover?territory=IT&md5ChecksumParam=76295f5bab1277a6ca8d8cdf0f1dff05",
+      "start_time": "2026-02-03 11:00:00",
+      "end_time": "2026-02-03 13:10:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Kate Hudson e Matthew McConaughey in una commedia romantica. Una giornalista seduce un pubblicitario con l'intenzione di farsi lasciare, ma la magia dell'amore cambiera' le carte in tavola."
+    },
+    {
+      "show_name": "Nonno scatenato",
+      "show_logo": "https://guidatv.sky.it/uuid/28548328-38cb-4729-b807-89011690cfae/cover?territory=IT&md5ChecksumParam=89047353bc5062998d4b546b2241ee91",
+      "start_time": "2026-02-03 13:10:00",
+      "end_time": "2026-02-03 15:05:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Commedia 'on the road' con Robert De Niro e Zac Efron. Un anziano vedovo trascina il nipote, in procinto di sposarsi, in un viaggio in Florida alla ricerca di trasgressione."
+    },
+    {
+      "show_name": "La forma dell'acqua - The Shape of Water",
+      "show_logo": "https://guidatv.sky.it/uuid/25ca0255-011b-44f6-a5b9-09ebea98b8e1/cover?territory=IT&md5ChecksumParam=a1111a3faab5c67d938864b56a61f790",
+      "start_time": "2026-02-03 15:05:00",
+      "end_time": "2026-02-03 17:20:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "4 Oscar, 2 Golden Globe e Leone d'oro al capolavoro di Guillermo Del Toro con Sally Hawkins e Michael Shannon. America, Guerra Fredda: una donna muta si innamora di una creatura anfibia."
+    },
+    {
+      "show_name": "Tg La7",
+      "show_logo": "https://guidatv.sky.it/uuid/9746f404-e911-432d-b5de-6aa9b54f6c76/cover?territory=IT&md5ChecksumParam=b22d7d1d07ae1f8d98fafcfd3520e0be",
+      "start_time": "2026-02-03 17:20:00",
+      "end_time": "2026-02-03 17:25:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
+    },
+    {
+      "show_name": "Un tirchio quasi perfetto",
+      "show_logo": "https://guidatv.sky.it/uuid/cbed5695-4096-4dda-8fc6-4901b8969018/cover?territory=IT&md5ChecksumParam=57120f5b6c22ae122360e9aa842a7230",
+      "start_time": "2026-02-03 17:25:00",
+      "end_time": "2026-02-03 19:05:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Dany Boon (\"Giù al nord\") in una scatenata commedia sull'avarizia. Un violinista, incorreggibile spilorcio, scopre di avere una figlia e finalmente cambia il suo morboso rapporto con il denaro."
+    },
+    {
+      "show_name": "The Imitation Game",
+      "show_logo": "https://guidatv.sky.it/uuid/f57aebeb-809f-4f81-a112-2224e9aba526/cover?territory=IT&md5ChecksumParam=48f59a88931775569bb6aa632d6953dd",
+      "start_time": "2026-02-03 19:05:00",
+      "end_time": "2026-02-03 21:15:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Oscar alla sceneggiatura per la biografia di Alan Turing, interpretato da Benedict Cumberbatch. Genio indiscusso del XX secolo, fu incaricato di decrittare il codice Enigma dei nazisti."
+    },
+    {
+      "show_name": "Soldi sporchi",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-03 21:15:00",
+      "end_time": "2026-02-03 23:30:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Tre amici trovano una montagna di dollari in un aereo precipitato e decidono di dividerseli, ma nascono subito contrasti."
+    },
+    {
+      "show_name": "L'ultimo Re di Scozia",
+      "show_logo": "https://guidatv.sky.it/uuid/8a0bf65d-e5da-4dd6-9482-c9b3f8ba330b/cover?territory=IT&md5ChecksumParam=927a7d657af8e10ad19ac55619f99f41",
+      "start_time": "2026-02-03 23:30:00",
+      "end_time": "2026-02-04 01:45:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Oscar a Forest Whitaker in un biopic con James McAvoy. Anni '70: un medico scozzese diventa il consulente del dittatore ugandese Idi Amin Dada e testimone dei suoi atti sanguinari."
     }
   ]
 }

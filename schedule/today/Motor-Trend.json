@@ -1,249 +1,222 @@
 {
   "channel_name": "Motor Trend",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "programs": [
-    {
-      "show_name": "Affari a quattro ruote Francia - 1^TV",
-      "show_logo": "",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:00:00",
-      "episode_number": "S8 E14",
-      "show_category": "",
-      "show_description": "St.8 Ep.14 - Gerry e Aurelien tornano per acquistare e sistemare auto iconiche."
-    },
-    {
-      "show_name": "Affari a quattro ruote Francia - 1^TV",
-      "show_logo": "",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:30:00",
-      "episode_number": "S8 E14",
-      "show_category": "",
-      "show_description": "St.8 Ep.14 - Gerry e Aurelien tornano per acquistare e sistemare auto iconiche."
-    },
-    {
-      "show_name": "Affari a quattro ruote Francia",
-      "show_logo": "",
-      "start_time": "2026-02-01 00:30:00",
-      "end_time": "2026-02-01 01:40:00",
-      "episode_number": "S6 E3",
-      "show_category": "",
-      "show_description": "St.6 Ep.3 - Ritorna il duo meccanico piu' amato di Francia! Gerry e Aurelien sono pronti ad acquistare, restaurare e rivendere al miglior prezzo automobili iconiche e bellissime."
-    },
-    {
-      "show_name": "Affari a quattro ruote Francia",
-      "show_logo": "",
-      "start_time": "2026-02-01 01:40:00",
-      "end_time": "2026-02-01 02:50:00",
-      "episode_number": "S6 E4",
-      "show_category": "",
-      "show_description": "St.6 Ep.4 - Ritorna il duo meccanico piu' amato di Francia! Gerry e Aurelien sono pronti ad acquistare, restaurare e rivendere al miglior prezzo automobili iconiche e bellissime."
-    },
-    {
-      "show_name": "Affari a quattro ruote Francia",
-      "show_logo": "",
-      "start_time": "2026-02-01 02:50:00",
-      "end_time": "2026-02-01 03:55:00",
-      "episode_number": "S6 E5",
-      "show_category": "",
-      "show_description": "St.6 Ep.5 - Ritorna il duo meccanico piu' amato di Francia! Gerry e Aurelien sono pronti ad acquistare, restaurare e rivendere al miglior prezzo automobili iconiche e bellissime."
-    },
-    {
-      "show_name": "Affari a quattro ruote",
-      "show_logo": "",
-      "start_time": "2026-02-01 03:55:00",
-      "end_time": "2026-02-01 04:45:00",
-      "episode_number": "S6 E5",
-      "show_category": "",
-      "show_description": "Jaguar XJS - Mentre in passato valeva 40.000 sterline, Mike acquista una Jaguar XJS a 1.000 sterline. Nonostante il modello mantenga sempre un certo fascino, il veicolo e' parecchio arrugginito!"
-    },
-    {
-      "show_name": "Affari a quattro ruote",
-      "show_logo": "",
-      "start_time": "2026-02-01 04:45:00",
-      "end_time": "2026-02-01 05:30:00",
-      "episode_number": "S6 E6",
-      "show_category": "",
-      "show_description": "Ferrari Dino 308 GT4 - Mike Brewer deve raddoppiare il suo solito budget per assicurarsi una Ferrari Dino del 1974. L'auto ha bisogno di essere riverniciata e riparata. Riuscira' a realizzare qualche profitto?"
-    },
-    {
-      "show_name": "Come e' fatto",
-      "show_logo": "",
-      "start_time": "2026-02-01 05:30:00",
-      "end_time": "2026-02-01 06:00:00",
-      "episode_number": "S20 E1",
-      "show_category": "",
-      "show_description": "St.20 Ep.1 - Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano, tra cui i tamburi dei Nativi americani, l'uva passa, gli stereoscopi e i microfoni a nastro."
-    },
-    {
-      "show_name": "Marchio di fabbrica",
-      "show_logo": "",
-      "start_time": "2026-02-01 06:00:00",
-      "end_time": "2026-02-01 06:30:00",
-      "episode_number": "S16 E16",
-      "show_category": "",
-      "show_description": "St.16 Ep.16 - Come vengono coltivate quasi 200.000 tonnellate di funghi all'anno nella capitale mondiale dei funghi? E come vengono realizzati miliardi di guanti salvavita?"
-    },
-    {
-      "show_name": "Come e' fatto",
-      "show_logo": "",
-      "start_time": "2026-02-01 06:30:00",
-      "end_time": "2026-02-01 06:55:00",
-      "episode_number": "S16 E8",
-      "show_category": "",
-      "show_description": "St.16 Ep.8 - Esaminiamo numerosi oggetti di uso quotidiano per scoprire come sono fatti e come vengono prodotti. In questo episodio utensili da cucina e animali di cartapesta."
-    },
-    {
-      "show_name": "Come e' fatto",
-      "show_logo": "",
-      "start_time": "2026-02-01 06:55:00",
-      "end_time": "2026-02-01 07:30:00",
-      "episode_number": "S21 E5",
-      "show_category": "",
-      "show_description": "St.21 Ep.5 - Analizziamo diversi oggetti di uso quotidiano e scopriamo come vengono realizzate la fibra di carbonio, i restauri delle cornici antiche, i locotrattori e le statuette sui cofani delle automobili di lusso."
-    },
-    {
-      "show_name": "Cantieri impossibili: Germania",
-      "show_logo": "",
-      "start_time": "2026-02-01 07:30:00",
-      "end_time": "2026-02-01 08:30:00",
-      "episode_number": "S1 E1",
-      "show_category": "",
-      "show_description": "St.1 Ep.1 - In Germania, ogni giorno, i lavoratori sono esposti a gravi pericoli mentre costruiscono enormi grattacieli tunnel e realizzano altri progetti moderni."
-    },
-    {
-      "show_name": "Cantieri impossibili: Germania",
-      "show_logo": "",
-      "start_time": "2026-02-01 08:30:00",
-      "end_time": "2026-02-01 09:30:00",
-      "episode_number": "S1 E2",
-      "show_category": "",
-      "show_description": "St.1 Ep.2 - In Germania, ogni giorno, i lavoratori sono esposti a gravi pericoli mentre costruiscono enormi grattacieli tunnel e realizzano altri progetti moderni."
-    },
-    {
-      "show_name": "Cantieri impossibili: Germania",
-      "show_logo": "",
-      "start_time": "2026-02-01 09:30:00",
-      "end_time": "2026-02-01 10:35:00",
-      "episode_number": "S1 E3",
-      "show_category": "",
-      "show_description": "St.1 Ep.3 - In Germania, ogni giorno, i lavoratori sono esposti a gravi pericoli mentre costruiscono enormi grattacieli tunnel e realizzano altri progetti moderni."
-    },
-    {
-      "show_name": "Cantieri impossibili: Germania",
-      "show_logo": "",
-      "start_time": "2026-02-01 10:35:00",
-      "end_time": "2026-02-01 11:30:00",
-      "episode_number": "S1 E4",
-      "show_category": "",
-      "show_description": "St.1 Ep.4 - In Germania, ogni giorno, i lavoratori sono esposti a gravi pericoli mentre costruiscono enormi grattacieli tunnel e realizzano altri progetti moderni."
-    },
-    {
-      "show_name": "Vintage Garage",
-      "show_logo": "",
-      "start_time": "2026-02-01 11:30:00",
-      "end_time": "2026-02-01 12:40:00",
-      "episode_number": "S6 E10",
-      "show_category": "",
-      "show_description": "St.6 Ep.10 - FranCois Allain seleziona la migliore officina per restaurare, in pochi giorni, prestigiose auto da rimettere subito sul mercato."
-    },
-    {
-      "show_name": "Vintage Garage",
-      "show_logo": "",
-      "start_time": "2026-02-01 12:40:00",
-      "end_time": "2026-02-01 13:55:00",
-      "episode_number": "S6 E11",
-      "show_category": "",
-      "show_description": "St.6 Ep.11 - FranCois Allain seleziona la migliore officina per restaurare, in pochi giorni, prestigiose auto da rimettere subito sul mercato."
-    },
-    {
-      "show_name": "Vintage Garage",
-      "show_logo": "",
-      "start_time": "2026-02-01 13:55:00",
-      "end_time": "2026-02-01 15:05:00",
-      "episode_number": "S6 E12",
-      "show_category": "",
-      "show_description": "St.6 Ep.12 - FranCois Allain seleziona la migliore officina per restaurare, in pochi giorni, prestigiose auto da rimettere subito sul mercato."
-    },
-    {
-      "show_name": "Affari a quattro ruote Francia",
-      "show_logo": "",
-      "start_time": "2026-02-01 15:05:00",
-      "end_time": "2026-02-01 16:20:00",
-      "episode_number": "S5 E5",
-      "show_category": "",
-      "show_description": "St.5 Ep.5 - Gerry e Aurelien sono pronti ad acquistare, restaurare e rivendere al miglior prezzo alcune delle automobili piu' belle presenti sul mercato."
-    },
-    {
-      "show_name": "Affari a quattro ruote Francia",
-      "show_logo": "",
-      "start_time": "2026-02-01 16:20:00",
-      "end_time": "2026-02-01 17:35:00",
-      "episode_number": "S5 E6",
-      "show_category": "",
-      "show_description": "St.5 Ep.6 - Gerry e Aurelien sono pronti ad acquistare, restaurare e rivendere al miglior prezzo alcune delle automobili piu' belle presenti sul mercato."
-    },
-    {
-      "show_name": "Affari a quattro ruote Francia",
-      "show_logo": "",
-      "start_time": "2026-02-01 17:35:00",
-      "end_time": "2026-02-01 18:50:00",
-      "episode_number": "S5 E7",
-      "show_category": "",
-      "show_description": "St.5 Ep.7 - Gerry e Aurelien sono pronti ad acquistare, restaurare e rivendere al miglior prezzo alcune delle automobili piu' belle presenti sul mercato."
-    },
-    {
-      "show_name": "Affari a quattro ruote Francia",
-      "show_logo": "",
-      "start_time": "2026-02-01 18:50:00",
-      "end_time": "2026-02-01 20:00:00",
-      "episode_number": "S5 E8",
-      "show_category": "",
-      "show_description": "St.5 Ep.8 - Gerry e Aurelien sono pronti ad acquistare, restaurare e rivendere al miglior prezzo alcune delle automobili piu' belle presenti sul mercato."
-    },
-    {
-      "show_name": "Affari a quattro ruote Francia",
-      "show_logo": "",
-      "start_time": "2026-02-01 20:00:00",
-      "end_time": "2026-02-01 21:10:00",
-      "episode_number": "S5 E9",
-      "show_category": "",
-      "show_description": "St.5 Ep.9 - Gerry e Aurelien sono pronti ad acquistare, restaurare e rivendere al miglior prezzo alcune delle automobili piu' belle presenti sul mercato."
-    },
-    {
-      "show_name": "Affari a quattro ruote Francia",
-      "show_logo": "",
-      "start_time": "2026-02-01 21:10:00",
-      "end_time": "2026-02-01 22:15:00",
-      "episode_number": "S5 E10",
-      "show_category": "",
-      "show_description": "St.5 Ep.10 - Gerry e Aurelien sono pronti ad acquistare, restaurare e rivendere al miglior prezzo alcune delle automobili piu' belle presenti sul mercato."
-    },
-    {
-      "show_name": "Invenzioni che hanno cambiato il mondo - 1^TV",
-      "show_logo": "",
-      "start_time": "2026-02-01 22:15:00",
-      "end_time": "2026-02-01 23:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "",
-      "show_description": "La televisione - Scopriamo i progetti ingegneristici piu' iconici."
-    },
-    {
-      "show_name": "Invenzioni che hanno cambiato il mondo",
-      "show_logo": "",
-      "start_time": "2026-02-01 23:00:00",
-      "end_time": "2026-02-01 23:50:00",
-      "episode_number": "S1 E2",
-      "show_category": "",
-      "show_description": "I pionieri del volo - Scopriamo i progetti ingegneristici piu' iconici."
-    },
     {
       "show_name": "Ingegneria perduta",
       "show_logo": "",
-      "start_time": "2026-02-01 23:50:00",
+      "start_time": "2026-02-02 00:00:00",
       "end_time": "2026-02-02 00:00:00",
       "episode_number": "S5 E4",
       "show_category": "",
       "show_description": "St.5 Ep.4 - Gli esperti esaminano alcune straordinarie strutture ingegneristiche che sono state completamente abbandonate o non sono mai state usate. Cosa servirebbe per recuperarle?"
+    },
+    {
+      "show_name": "Ingegneria perduta",
+      "show_logo": "",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 00:55:00",
+      "episode_number": "S5 E4",
+      "show_category": "",
+      "show_description": "St.5 Ep.4 - Gli esperti esaminano alcune straordinarie strutture ingegneristiche che sono state completamente abbandonate o non sono mai state usate. Cosa servirebbe per recuperarle?"
+    },
+    {
+      "show_name": "Ingegneria perduta",
+      "show_logo": "",
+      "start_time": "2026-02-02 00:55:00",
+      "end_time": "2026-02-02 01:55:00",
+      "episode_number": "S5 E5",
+      "show_category": "",
+      "show_description": "St.5 Ep.5 - Gli esperti esaminano alcune straordinarie strutture ingegneristiche che sono state completamente abbandonate o non sono mai state usate. Cosa servirebbe per recuperarle?"
+    },
+    {
+      "show_name": "Ingegneria perduta",
+      "show_logo": "",
+      "start_time": "2026-02-02 01:55:00",
+      "end_time": "2026-02-02 02:55:00",
+      "episode_number": "S5 E6",
+      "show_category": "",
+      "show_description": "St.5 Ep.6 - Gli esperti esaminano alcune straordinarie strutture ingegneristiche che sono state completamente abbandonate o non sono mai state usate. Cosa servirebbe per recuperarle?"
+    },
+    {
+      "show_name": "Affari a quattro ruote",
+      "show_logo": "",
+      "start_time": "2026-02-02 02:55:00",
+      "end_time": "2026-02-02 03:55:00",
+      "episode_number": "S6 E7",
+      "show_category": "",
+      "show_description": "Mini City - Dopo aver speso 700 sterline per una Mini City 1000, Mike affida l'auto al meccanico Edd, dandogli la possibilita' di creare un modello che celebri il 50esimo anniversario della Mini."
+    },
+    {
+      "show_name": "Affari a quattro ruote",
+      "show_logo": "",
+      "start_time": "2026-02-02 03:55:00",
+      "end_time": "2026-02-02 04:40:00",
+      "episode_number": "S6 E8",
+      "show_category": "",
+      "show_description": "TVR S - Nello Yorkshire, Mike si e' assicurato una deliziosa TVR S del 1989 spendendo solo 2.550 sterline. Ma il radiatore e' danneggiato e ripararlo comporterebbe un aumento dei costi."
+    },
+    {
+      "show_name": "Affari a quattro ruote",
+      "show_logo": "",
+      "start_time": "2026-02-02 04:40:00",
+      "end_time": "2026-02-02 05:30:00",
+      "episode_number": "S6 E9",
+      "show_category": "",
+      "show_description": "Land Rover Discovery TDI - Mike e' elettrizzato quando acquista una Land Rover Discovery TDI del 1995. Per raddoppiare i loro guadagni, Edd e Mike trasformeranno la classica auto britannica in un vero fuori strada."
+    },
+    {
+      "show_name": "Come e' fatto",
+      "show_logo": "",
+      "start_time": "2026-02-02 05:30:00",
+      "end_time": "2026-02-02 06:00:00",
+      "episode_number": "S20 E3",
+      "show_category": "",
+      "show_description": "St.20 Ep.3 - Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano, tra cui i tagliaunghie, i putter da golf, il sidro ghiacciato e gli sci d'acqua."
+    },
+    {
+      "show_name": "Come e' fatto",
+      "show_logo": "",
+      "start_time": "2026-02-02 06:00:00",
+      "end_time": "2026-02-02 06:25:00",
+      "episode_number": "S26 E22",
+      "show_category": "",
+      "show_description": "St.26 Ep.22 - Scopriamo come vengono prodotti alcuni oggetti di uso quotidiano, tra cui le punte per i trapani e un particolare tipo di imbarcazione."
+    },
+    {
+      "show_name": "Marchio di fabbrica",
+      "show_logo": "",
+      "start_time": "2026-02-02 06:25:00",
+      "end_time": "2026-02-02 06:55:00",
+      "episode_number": "S10 E2",
+      "show_category": "",
+      "show_description": "St.10 Ep.2 - Come viene coltivato e prodotto il costoso zafferano e come vengono create le strade fatte interamente di ghiaccio? Inoltre, scopriamo come viene costruita un'automobile dalle elevate prestazioni."
+    },
+    {
+      "show_name": "Come e' fatto",
+      "show_logo": "",
+      "start_time": "2026-02-02 06:55:00",
+      "end_time": "2026-02-02 07:25:00",
+      "episode_number": "S5 E10",
+      "show_category": "",
+      "show_description": "St.5 Ep.10 - Protezioni per i portieri di hockey su ghiaccio, spille, scatole di cartone e bicchieri di cristallo: questi sono gli oggetti che esaminiamo per scoprire come sono fatti."
+    },
+    {
+      "show_name": "Reperti d'assalto",
+      "show_logo": "",
+      "start_time": "2026-02-02 07:25:00",
+      "end_time": "2026-02-02 09:05:00",
+      "episode_number": "S11 E12",
+      "show_category": "",
+      "show_description": "St.11 Ep.12 - Michael e il suo team cercano mezzi militari dismessi da rimettere a nuovo."
+    },
+    {
+      "show_name": "Reperti d'assalto",
+      "show_logo": "",
+      "start_time": "2026-02-02 09:05:00",
+      "end_time": "2026-02-02 10:45:00",
+      "episode_number": "S11 E13",
+      "show_category": "",
+      "show_description": "St.11 Ep.13 - Michael e il suo team cercano mezzi militari dismessi da rimettere a nuovo."
+    },
+    {
+      "show_name": "Vintage Garage",
+      "show_logo": "",
+      "start_time": "2026-02-02 10:45:00",
+      "end_time": "2026-02-02 11:55:00",
+      "episode_number": "S1 E1",
+      "show_category": "",
+      "show_description": "Jaguar Xk150 - FranCois Allain seleziona la migliore officina per restaurare, in soli 15 giorni, prestigiose auto vintage da rimettere subito sul mercato."
+    },
+    {
+      "show_name": "Vintage Garage",
+      "show_logo": "",
+      "start_time": "2026-02-02 11:55:00",
+      "end_time": "2026-02-02 13:10:00",
+      "episode_number": "S1 E2",
+      "show_category": "",
+      "show_description": "Peugeot 205 Gti - FranCois Allain seleziona la migliore officina per restaurare, in soli 15 giorni, prestigiose auto vintage da rimettere subito sul mercato."
+    },
+    {
+      "show_name": "Vintage Garage",
+      "show_logo": "",
+      "start_time": "2026-02-02 13:10:00",
+      "end_time": "2026-02-02 14:15:00",
+      "episode_number": "S1 E3",
+      "show_category": "",
+      "show_description": "La Volkswagen Coccinelle - FranCois Allain seleziona la migliore officina per restaurare, in soli 15 giorni, prestigiose auto vintage da rimettere subito sul mercato."
+    },
+    {
+      "show_name": "Mezzi speciali - Forgiati su misura",
+      "show_logo": "",
+      "start_time": "2026-02-02 14:15:00",
+      "end_time": "2026-02-02 15:25:00",
+      "episode_number": "S2 E1",
+      "show_category": "",
+      "show_description": "Piattaforma aerea - Luca Traina visita l'azienda Socage, leader nella costruzione di piattaforme aeree, e segue la creazione di questo mezzo speciale in grado di raggiungere il cielo."
+    },
+    {
+      "show_name": "Mezzi speciali - Forgiati su misura",
+      "show_logo": "",
+      "start_time": "2026-02-02 15:25:00",
+      "end_time": "2026-02-02 16:25:00",
+      "episode_number": "S2 E2",
+      "show_category": "",
+      "show_description": "Pompa autocarrata - Luca Traina visita la CIFA per scoprire come viene realizzata una pompa autocarrata, un mezzo speciale in grado di pompare cemento fino a 100 metri di distanza."
+    },
+    {
+      "show_name": "Mezzi speciali - Forgiati su misura",
+      "show_logo": "",
+      "start_time": "2026-02-02 16:25:00",
+      "end_time": "2026-02-02 17:35:00",
+      "episode_number": "S2 E3",
+      "show_category": "",
+      "show_description": "Sollevatore telescopico - Luca Traina visita gli stabilimenti della Merlo a Cuneo per scoprire di tutti i segreti nascosti dietro la realizzazione di un sollevatore telescopico."
+    },
+    {
+      "show_name": "Mezzi speciali - Forgiati su misura",
+      "show_logo": "",
+      "start_time": "2026-02-02 17:35:00",
+      "end_time": "2026-02-02 18:40:00",
+      "episode_number": "S2 E4",
+      "show_category": "",
+      "show_description": "Dumper - Luca Traina segue la costruzione di un Dumper Perlini, un mega camion da miniera che, tra le altre cose, ha affrontato le sabbie del deserto della Parigi-Dakar."
+    },
+    {
+      "show_name": "Affari a quattro ruote",
+      "show_logo": "",
+      "start_time": "2026-02-02 18:40:00",
+      "end_time": "2026-02-02 20:30:00",
+      "episode_number": "S14 E8",
+      "show_category": "",
+      "show_description": "St.14 Ep.8 - Tornano Mike Brewer ed Ant Anstead con nuove automobili da sistemare."
+    },
+    {
+      "show_name": "Affari a quattro ruote",
+      "show_logo": "",
+      "start_time": "2026-02-02 20:30:00",
+      "end_time": "2026-02-02 22:20:00",
+      "episode_number": "S14 E7",
+      "show_category": "",
+      "show_description": "St.14 Ep.7 - Tornano Mike Brewer ed Ant Anstead con nuove automobili da sistemare."
+    },
+    {
+      "show_name": "Auto: storia di una rivoluzione",
+      "show_logo": "",
+      "start_time": "2026-02-02 22:20:00",
+      "end_time": "2026-02-02 23:25:00",
+      "episode_number": "S2 E3",
+      "show_category": "",
+      "show_description": "St.2 Ep.3 - Nicolo' spiega come il boom di utilitarie negli anni '80 abbia aiutato anche le supercar."
+    },
+    {
+      "show_name": "Auto: storia di una rivoluzione",
+      "show_logo": "",
+      "start_time": "2026-02-02 23:25:00",
+      "end_time": "2026-02-03 00:00:00",
+      "episode_number": "S2 E4",
+      "show_category": "",
+      "show_description": "St.2 Ep.4 - Nicolo' commenta come gli anni '90 siano stati un susseguirsi di supercar meravigliose."
     }
   ]
 }

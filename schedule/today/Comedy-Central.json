@@ -1,201 +1,138 @@
 {
   "channel_name": "Comedy Central",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "programs": [
     {
-      "show_name": "Frasier",
-      "show_logo": "https://guidatv.sky.it/uuid/87de0df7-0270-455e-a15b-4f9dd8ce1412/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:05:00",
-      "episode_number": "S2 E14",
+      "show_name": "Stand Up Comedy",
+      "show_logo": "https://guidatv.sky.it/uuid/815724f0-2dc3-4ce2-be03-57ac1657262f/cover?territory=IT&md5ChecksumParam=cac2b4fc2476dcb28e45547256b4d856",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 00:00:00",
+      "episode_number": "S12 E3",
       "show_category": "Intrattenimento",
-      "show_description": "\"Frasier si innamora di una psicologa la cui straordinaria bellezza lo rende cieco al fatto che  lui non rispetta le sue convinzioni \"\"New Age\"\".\"."
+      "show_description": "In questo episodio: Filippo Spreafico, Xhuliano Dule, Annagaia Marchioro, Nathan Kiboba."
+    },
+    {
+      "show_name": "CCN - Comedy Central News",
+      "show_logo": "https://guidatv.sky.it/uuid/3d684356-757e-471d-970e-1e00b369d4a5/cover?territory=IT&md5ChecksumParam=8954860b0d1624e733074888f3898061",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 00:25:00",
+      "episode_number": "S7 E9",
+      "show_category": "Intrattenimento",
+      "show_description": "Michela Giraud torna alla guida di CCN; sagace, senza peli sulla lingua e dallo stile impeccabile. Ospite di questa puntata Pintus."
+    },
+    {
+      "show_name": "CCN Il Salotto",
+      "show_logo": "https://guidatv.sky.it/uuid/75e2da5f-d95e-4950-a372-cce7feebcdd4/cover?territory=IT&md5ChecksumParam=404ab563f711555f02958d80fcbc24f1",
+      "start_time": "2026-02-02 00:25:00",
+      "end_time": "2026-02-02 00:45:00",
+      "episode_number": "S2 E8",
+      "show_category": "Intrattenimento",
+      "show_description": "Giacomo Ferrara raccontera' a Michela della sua carriera, ma soprattutto delle sue origini. Inoltre, ci saranno gli opinionisti: Daniele Gattano, Tommaso Faoro e Sandro Canori."
     },
     {
       "show_name": "Frasier",
       "show_logo": "https://guidatv.sky.it/uuid/87de0df7-0270-455e-a15b-4f9dd8ce1412/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
-      "start_time": "2026-02-01 00:05:00",
-      "end_time": "2026-02-01 00:25:00",
-      "episode_number": "S2 E15",
+      "start_time": "2026-02-02 00:45:00",
+      "end_time": "2026-02-02 01:05:00",
+      "episode_number": "S2 E24",
       "show_category": "Intrattenimento",
-      "show_description": "Frasier e Niles competono per l'appartenenza ad un club esclusivo maschile."
+      "show_description": "Il compleanno di Martin riunisce gli amici e i parenti di Frasier, ma questo si trova presto a mediare tra i problemi di tutti."
     },
     {
       "show_name": "Frasier",
-      "show_logo": "https://guidatv.sky.it/uuid/87de0df7-0270-455e-a15b-4f9dd8ce1412/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
-      "start_time": "2026-02-01 00:25:00",
-      "end_time": "2026-02-01 00:50:00",
-      "episode_number": "S2 E16",
+      "show_logo": "https://guidatv.sky.it/uuid/ca581469-e7ea-4f5a-9dda-83a81ffff1f1/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
+      "start_time": "2026-02-02 01:05:00",
+      "end_time": "2026-02-02 01:30:00",
+      "episode_number": "S3 E1",
       "show_category": "Intrattenimento",
-      "show_description": "Dopo il furto di valigetta e macchina, Frasier prepara una trappola per cogliere il ladro sul fatto."
+      "show_description": "Quando Frasier rifiuta di cambiare il suo show per adattarlo alle esigenze del nuovo capo donna, questa lo esilia nel turno del cimitero."
     },
     {
       "show_name": "Frasier",
-      "show_logo": "https://guidatv.sky.it/uuid/87de0df7-0270-455e-a15b-4f9dd8ce1412/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
-      "start_time": "2026-02-01 00:50:00",
-      "end_time": "2026-02-01 01:15:00",
-      "episode_number": "S2 E17",
+      "show_logo": "https://guidatv.sky.it/uuid/ca581469-e7ea-4f5a-9dda-83a81ffff1f1/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
+      "start_time": "2026-02-02 01:30:00",
+      "end_time": "2026-02-02 01:50:00",
+      "episode_number": "S3 E2",
       "show_category": "Intrattenimento",
-      "show_description": "Le vicende di uno psichiatra nevrotico e insicuro circondato da un'umanità, e da una famiglia, decisamente fuori di testa..."
+      "show_description": "Una partnership psicoterapeutica tra Frasier e Niles tira fuori il peggio della loro relazione."
+    },
+    {
+      "show_name": "Frasier",
+      "show_logo": "https://guidatv.sky.it/uuid/ca581469-e7ea-4f5a-9dda-83a81ffff1f1/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
+      "start_time": "2026-02-02 01:50:00",
+      "end_time": "2026-02-02 02:10:00",
+      "episode_number": "S3 E3",
+      "show_category": "Intrattenimento",
+      "show_description": "La morte della prozia di Frasier spinge Martin a perseguire il sogno della sua vita di scrivere una canzone per Frank Sinatra."
     },
     {
       "show_name": "Workaholics",
-      "show_logo": "https://guidatv.sky.it/uuid/49f7c65e-2ca5-43d0-a4d1-4442f25b3d04/cover?territory=IT&md5ChecksumParam=b9f66efc515ee1caacb52298a5e6e53e",
-      "start_time": "2026-02-01 01:15:00",
-      "end_time": "2026-02-01 01:40:00",
-      "episode_number": "S1 E6",
+      "show_logo": "https://guidatv.sky.it/uuid/edcbcff1-542e-4098-9fa8-00c38f470963/cover?territory=IT&md5ChecksumParam=b9f66efc515ee1caacb52298a5e6e53e",
+      "start_time": "2026-02-02 02:10:00",
+      "end_time": "2026-02-02 02:35:00",
+      "episode_number": "S2 E1",
       "show_category": "Intrattenimento",
-      "show_description": "Anders, Adam e Blake chiedono a Alice un giorno libero dal lavoro per festeggiare metà Natale. Quando lei rifiuta organizzano uno sciopero."
+      "show_description": "I ragazzi decidono che, in quanto contribuenti, hanno il diritto di possedere la statua del drago del parco giochi locale."
     },
     {
       "show_name": "Workaholics",
-      "show_logo": "https://guidatv.sky.it/uuid/49f7c65e-2ca5-43d0-a4d1-4442f25b3d04/cover?territory=IT&md5ChecksumParam=b9f66efc515ee1caacb52298a5e6e53e",
-      "start_time": "2026-02-01 01:40:00",
-      "end_time": "2026-02-01 02:00:00",
-      "episode_number": "S1 E7",
+      "show_logo": "https://guidatv.sky.it/uuid/edcbcff1-542e-4098-9fa8-00c38f470963/cover?territory=IT&md5ChecksumParam=b9f66efc515ee1caacb52298a5e6e53e",
+      "start_time": "2026-02-02 02:35:00",
+      "end_time": "2026-02-02 02:55:00",
+      "episode_number": "S2 E2",
       "show_category": "Intrattenimento",
-      "show_description": "Adam, Anders e Blake organizzano un appuntamento al buio per Jillian, mentre loro sono impegnati in una degustazione per giovani professionisti."
+      "show_description": "I ragazzi si svegliano nella loro casa completamente distrutta dopo una notte di festa estrema."
     },
     {
       "show_name": "Workaholics",
-      "show_logo": "https://guidatv.sky.it/uuid/49f7c65e-2ca5-43d0-a4d1-4442f25b3d04/cover?territory=IT&md5ChecksumParam=b9f66efc515ee1caacb52298a5e6e53e",
-      "start_time": "2026-02-01 02:00:00",
-      "end_time": "2026-02-01 02:25:00",
-      "episode_number": "S1 E8",
+      "show_logo": "https://guidatv.sky.it/uuid/edcbcff1-542e-4098-9fa8-00c38f470963/cover?territory=IT&md5ChecksumParam=b9f66efc515ee1caacb52298a5e6e53e",
+      "start_time": "2026-02-02 02:55:00",
+      "end_time": "2026-02-02 03:20:00",
+      "episode_number": "S2 E3",
       "show_category": "Intrattenimento",
-      "show_description": "Adam, Anders e Blake organizzano un appuntamento al buio per Jillian, mentre loro sono impegnati in una degustazione per giovani professionisti."
+      "show_description": "Nell'ufficio di Anders, Adam e Blake c'è una nuova dipendente. I tre trovano molto difficile concentrarsi in sua presenza."
     },
     {
       "show_name": "Workaholics",
-      "show_logo": "https://guidatv.sky.it/uuid/49f7c65e-2ca5-43d0-a4d1-4442f25b3d04/cover?territory=IT&md5ChecksumParam=b9f66efc515ee1caacb52298a5e6e53e",
-      "start_time": "2026-02-01 02:25:00",
-      "end_time": "2026-02-01 02:45:00",
-      "episode_number": "S1 E9",
+      "show_logo": "https://guidatv.sky.it/uuid/edcbcff1-542e-4098-9fa8-00c38f470963/cover?territory=IT&md5ChecksumParam=b9f66efc515ee1caacb52298a5e6e53e",
+      "start_time": "2026-02-02 03:20:00",
+      "end_time": "2026-02-02 03:40:00",
+      "episode_number": "S2 E4",
       "show_category": "Intrattenimento",
-      "show_description": "Anders, Adam e Blake fanno le prove per la loro esibizione rap da maghi alla fiera medievale."
+      "show_description": "Adam cerca di convincere Alice ad assumerlo come modello per il sito web aziendale. Alice però preferisce Anders per il ruolo."
     },
     {
       "show_name": "Workaholics",
-      "show_logo": "https://guidatv.sky.it/uuid/49f7c65e-2ca5-43d0-a4d1-4442f25b3d04/cover?territory=IT&md5ChecksumParam=b9f66efc515ee1caacb52298a5e6e53e",
-      "start_time": "2026-02-01 02:45:00",
-      "end_time": "2026-02-01 04:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/edcbcff1-542e-4098-9fa8-00c38f470963/cover?territory=IT&md5ChecksumParam=b9f66efc515ee1caacb52298a5e6e53e",
+      "start_time": "2026-02-02 03:40:00",
+      "end_time": "2026-02-02 05:10:00",
+      "episode_number": "S2 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "Anders festeggia il suo 25esimo compleanno. Si sente troppo vecchio per i festeggiamenti. Ma poi decide di trascorrere una vera giornata da immaturi."
+    },
+    {
+      "show_name": "Un papa' da Oscar",
+      "show_logo": "https://guidatv.sky.it/uuid/904c67a0-7fac-4bc4-ae03-1a15397a23c6/cover?territory=IT&md5ChecksumParam=9e717feede76979f7bfb39557807cd12",
+      "start_time": "2026-02-02 05:10:00",
+      "end_time": "2026-02-02 05:35:00",
       "episode_number": "S1 E10",
       "show_category": "Intrattenimento",
-      "show_description": "Adam, Anders e Blake lottano per il loro lavoro quando il CEO della loro azienda, Bruce Benson, decide di liquidarla."
-    },
-    {
-      "show_name": "Most Ridiculous",
-      "show_logo": "https://guidatv.sky.it/uuid/23f79c61-5491-4453-a9c6-f98415bfe57a/cover?territory=IT&md5ChecksumParam=4c30442f02ad8e0d61c9da3607570400",
-      "start_time": "2026-02-01 04:00:00",
-      "end_time": "2026-02-01 04:25:00",
-      "episode_number": "S7 E5",
-      "show_category": "Intrattenimento",
-      "show_description": "In questo episodio: cagnolini dispettosi, incidenti in spiaggia e alberi di natale finiti male..."
-    },
-    {
-      "show_name": "Most Ridiculous",
-      "show_logo": "https://guidatv.sky.it/uuid/23f79c61-5491-4453-a9c6-f98415bfe57a/cover?territory=IT&md5ChecksumParam=4c30442f02ad8e0d61c9da3607570400",
-      "start_time": "2026-02-01 04:25:00",
-      "end_time": "2026-02-01 04:50:00",
-      "episode_number": "S7 E6",
-      "show_category": "Intrattenimento",
-      "show_description": "In questo episodio: coreografie finite male, cerimonie nuziali dagli esiti imprevisti e scivoloni..."
-    },
-    {
-      "show_name": "Most Ridiculous",
-      "show_logo": "https://guidatv.sky.it/uuid/23f79c61-5491-4453-a9c6-f98415bfe57a/cover?territory=IT&md5ChecksumParam=4c30442f02ad8e0d61c9da3607570400",
-      "start_time": "2026-02-01 04:50:00",
-      "end_time": "2026-02-01 05:10:00",
-      "episode_number": "S7 E7",
-      "show_category": "Intrattenimento",
-      "show_description": "In questo episodio: cadute dai pattini, disavventure in spiaggia e tagli di capelli assurdi."
+      "show_description": "Emily vuole presentarsi alle elezioni per diventare presidente delle matricole. Il suo rivale è il figlio di un nemico di lunga data di David, il quale cerca di supportarla in ogni modo."
     },
     {
       "show_name": "Un papa' da Oscar",
-      "show_logo": "https://guidatv.sky.it/uuid/b4f4a410-9f0e-4913-9597-9bb81d9c8f0e/cover?territory=IT&md5ChecksumParam=9e717feede76979f7bfb39557807cd12",
-      "start_time": "2026-02-01 05:10:00",
-      "end_time": "2026-02-01 05:35:00",
-      "episode_number": "S1 E16",
+      "show_logo": "https://guidatv.sky.it/uuid/ad49c4d4-d094-4836-b702-647e592f79c3/cover?territory=IT&md5ChecksumParam=9e717feede76979f7bfb39557807cd12",
+      "start_time": "2026-02-02 05:35:00",
+      "end_time": "2026-02-02 06:00:00",
+      "episode_number": "S1 E19",
       "show_category": "Intrattenimento",
-      "show_description": "Emily ha tremendamente paura che Matthew non la ami più e che voglia ritornare con la sua ex fidanzata. Nel frattempo, David, da bravo padre di famiglia, cerca di darle dei consigli utili."
-    },
-    {
-      "show_name": "Un papa' da Oscar",
-      "show_logo": "https://guidatv.sky.it/uuid/28e4fd44-1c1e-40f5-bbd7-a4a975bf9932/cover?territory=IT&md5ChecksumParam=9e717feede76979f7bfb39557807cd12",
-      "start_time": "2026-02-01 05:35:00",
-      "end_time": "2026-02-01 06:00:00",
-      "episode_number": "S1 E9",
-      "show_category": "Intrattenimento",
-      "show_description": "Quando arriva il giorno della vigilia di Natale, Amy si ritrova impegnata al lavoro. Nel frattempo, David promette che si occuperà lui di tutti i preparativi per le feste natalizie."
-    },
-    {
-      "show_name": "Mike Judge's Beavis and Butt-Head",
-      "show_logo": "https://guidatv.sky.it/uuid/298344bd-d0bb-478f-8707-d90980af207f/cover?territory=IT&md5ChecksumParam=b6df926bdd387e8245341711717ffdb9",
-      "start_time": "2026-02-01 06:00:00",
-      "end_time": "2026-02-01 07:20:00",
-      "episode_number": "S3 E10",
-      "show_category": "Intrattenimento",
-      "show_description": "i ragazzi sono i padroni di casa. I vecchi vivono a Burger World."
-    },
-    {
-      "show_name": "Un papa' da Oscar",
-      "show_logo": "https://guidatv.sky.it/uuid/f62a976c-6544-4f8f-824b-8a93e29d2292/cover?territory=IT&md5ChecksumParam=9e717feede76979f7bfb39557807cd12",
-      "start_time": "2026-02-01 07:20:00",
-      "end_time": "2026-02-01 07:45:00",
-      "episode_number": "S1 E17",
-      "show_category": "Intrattenimento",
-      "show_description": "Janie vuole iniziare in anticipo la prima elementare per stare con la sua amica Charlotte, e David è costretto ad affrontare il distacco. Nel frattempo, Joe cerca di superare un trauma infantile."
-    },
-    {
-      "show_name": "Un papa' da Oscar",
-      "show_logo": "https://guidatv.sky.it/uuid/c33ff029-48ea-4502-a520-ca5711033ec4/cover?territory=IT&md5ChecksumParam=9e717feede76979f7bfb39557807cd12",
-      "start_time": "2026-02-01 07:45:00",
-      "end_time": "2026-02-01 08:05:00",
-      "episode_number": "S1 E20",
-      "show_category": "Intrattenimento",
-      "show_description": "David ha un regalo speciale per Amy per la Festa della mamma, ma i suoi piani vengono rovinati dall'arrivo inaspettato della sua egocentrica madre, che sposta su di sé tutta l'attenzione."
+      "show_description": "Amy parte per un raduno di appassionati di telenovele. David, quindi, rimane a casa solo con i ragazzi proprio in occasione della vigilia del primo ballo scolastico di Emily, e la accompagna a cercare un vestito per la festa."
     },
     {
       "show_name": "The King of Queens",
       "show_logo": "https://guidatv.sky.it/uuid/a1ba5cc8-cbfe-43eb-b2e5-63cdc9e6318a/cover?territory=IT&md5ChecksumParam=9510d9659f2bea07218d38b1d7c2ac09",
-      "start_time": "2026-02-01 08:05:00",
-      "end_time": "2026-02-01 08:30:00",
-      "episode_number": "S5 E12",
-      "show_category": "Intrattenimento",
-      "show_description": "Carrie convince Doug a rivolgersi a un terapeuta per le sue abitudini alimentari. Intanto Arthur cerca di controllare la sua dipendenza dallo spray nasale."
-    },
-    {
-      "show_name": "The King of Queens",
-      "show_logo": "https://guidatv.sky.it/uuid/a1ba5cc8-cbfe-43eb-b2e5-63cdc9e6318a/cover?territory=IT&md5ChecksumParam=9510d9659f2bea07218d38b1d7c2ac09",
-      "start_time": "2026-02-01 08:30:00",
-      "end_time": "2026-02-01 08:50:00",
-      "episode_number": "S5 E5",
-      "show_category": "Intrattenimento",
-      "show_description": "Mentre Carrie deve fare da babysitter al figlio del capo, Doug flirta con una ragazza brutta al bowling per farla sentire meglio."
-    },
-    {
-      "show_name": "The King of Queens",
-      "show_logo": "https://guidatv.sky.it/uuid/a1ba5cc8-cbfe-43eb-b2e5-63cdc9e6318a/cover?territory=IT&md5ChecksumParam=9510d9659f2bea07218d38b1d7c2ac09",
-      "start_time": "2026-02-01 08:50:00",
-      "end_time": "2026-02-01 09:15:00",
-      "episode_number": "S5 E6",
-      "show_category": "Intrattenimento",
-      "show_description": "\"Carrie e un ragazzo del suo ufficio vanno d'accordo e quando Doug scopre che i colleghi di Carrie lo chiamano \"\"marito di lavoro\"\", si sente minacciato.\"."
-    },
-    {
-      "show_name": "The King of Queens",
-      "show_logo": "https://guidatv.sky.it/uuid/a1ba5cc8-cbfe-43eb-b2e5-63cdc9e6318a/cover?territory=IT&md5ChecksumParam=9510d9659f2bea07218d38b1d7c2ac09",
-      "start_time": "2026-02-01 09:15:00",
-      "end_time": "2026-02-01 09:40:00",
-      "episode_number": "S5 E8",
-      "show_category": "Intrattenimento",
-      "show_description": "Per noia, Doug fa una foto davvero inopportuna di sé a un matrimonio e lascia che Danny si prenda la colpa."
-    },
-    {
-      "show_name": "The King of Queens",
-      "show_logo": "https://guidatv.sky.it/uuid/a1ba5cc8-cbfe-43eb-b2e5-63cdc9e6318a/cover?territory=IT&md5ChecksumParam=9510d9659f2bea07218d38b1d7c2ac09",
-      "start_time": "2026-02-01 09:40:00",
-      "end_time": "2026-02-01 10:00:00",
+      "start_time": "2026-02-02 06:00:00",
+      "end_time": "2026-02-02 06:20:00",
       "episode_number": "S5 E7",
       "show_category": "Intrattenimento",
       "show_description": "Doug e Carrie si imbattono in una ex ragazza di Doug del liceo. Lei è ancora in contatto con la madre di Doug, che sta arrivando in città."
@@ -203,209 +140,371 @@
     {
       "show_name": "The King of Queens",
       "show_logo": "https://guidatv.sky.it/uuid/a1ba5cc8-cbfe-43eb-b2e5-63cdc9e6318a/cover?territory=IT&md5ChecksumParam=9510d9659f2bea07218d38b1d7c2ac09",
-      "start_time": "2026-02-01 10:00:00",
-      "end_time": "2026-02-01 10:25:00",
+      "start_time": "2026-02-02 06:20:00",
+      "end_time": "2026-02-02 06:45:00",
       "episode_number": "S5 E9",
       "show_category": "Intrattenimento",
       "show_description": "Carrie e Doug hanno quattro biglietti per le partite dei Knicks e cercano di trovare la coppia perfetta che si unisca a loro."
     },
     {
+      "show_name": "Frasier",
+      "show_logo": "https://guidatv.sky.it/uuid/87de0df7-0270-455e-a15b-4f9dd8ce1412/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
+      "start_time": "2026-02-02 06:45:00",
+      "end_time": "2026-02-02 07:05:00",
+      "episode_number": "S2 E8",
+      "show_category": "Intrattenimento",
+      "show_description": "La relazione in erba di Frasier viene messa alla prova quando incontra la sua ex-moglie Lilith mentre è in vacanza con il suo nuovo amore."
+    },
+    {
+      "show_name": "Frasier",
+      "show_logo": "https://guidatv.sky.it/uuid/87de0df7-0270-455e-a15b-4f9dd8ce1412/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
+      "start_time": "2026-02-02 07:05:00",
+      "end_time": "2026-02-02 07:30:00",
+      "episode_number": "S2 E9",
+      "show_category": "Intrattenimento",
+      "show_description": "La gelosia si fa vedere quando Frasier incontra Lilith e il suo nuovo fidanzato mentre è in vacanza con la sua nuova fidanzata."
+    },
+    {
+      "show_name": "Frasier",
+      "show_logo": "https://guidatv.sky.it/uuid/87de0df7-0270-455e-a15b-4f9dd8ce1412/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
+      "start_time": "2026-02-02 07:30:00",
+      "end_time": "2026-02-02 07:55:00",
+      "episode_number": "S2 E24",
+      "show_category": "Intrattenimento",
+      "show_description": "Il compleanno di Martin riunisce gli amici e i parenti di Frasier, ma questo si trova presto a mediare tra i problemi di tutti."
+    },
+    {
+      "show_name": "Frasier",
+      "show_logo": "https://guidatv.sky.it/uuid/ca581469-e7ea-4f5a-9dda-83a81ffff1f1/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
+      "start_time": "2026-02-02 07:55:00",
+      "end_time": "2026-02-02 08:20:00",
+      "episode_number": "S3 E1",
+      "show_category": "Intrattenimento",
+      "show_description": "Quando Frasier rifiuta di cambiare il suo show per adattarlo alle esigenze del nuovo capo donna, questa lo esilia nel turno del cimitero."
+    },
+    {
+      "show_name": "Frasier",
+      "show_logo": "https://guidatv.sky.it/uuid/ca581469-e7ea-4f5a-9dda-83a81ffff1f1/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
+      "start_time": "2026-02-02 08:20:00",
+      "end_time": "2026-02-02 08:40:00",
+      "episode_number": "S3 E2",
+      "show_category": "Intrattenimento",
+      "show_description": "Una partnership psicoterapeutica tra Frasier e Niles tira fuori il peggio della loro relazione."
+    },
+    {
+      "show_name": "Frasier",
+      "show_logo": "https://guidatv.sky.it/uuid/ca581469-e7ea-4f5a-9dda-83a81ffff1f1/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
+      "start_time": "2026-02-02 08:40:00",
+      "end_time": "2026-02-02 09:05:00",
+      "episode_number": "S3 E3",
+      "show_category": "Intrattenimento",
+      "show_description": "La morte della prozia di Frasier spinge Martin a perseguire il sogno della sua vita di scrivere una canzone per Frank Sinatra."
+    },
+    {
+      "show_name": "The King of Queens",
+      "show_logo": "https://guidatv.sky.it/uuid/36be1a0c-45c3-4c1b-8b96-3d573f085fa2/cover?territory=IT&md5ChecksumParam=9510d9659f2bea07218d38b1d7c2ac09",
+      "start_time": "2026-02-02 09:05:00",
+      "end_time": "2026-02-02 09:25:00",
+      "episode_number": "S4 E25",
+      "show_category": "Intrattenimento",
+      "show_description": "Quando si scopre che il nuovo dentista di Doug aveva una cotta per Carrie, Doug pensa che gli abbia fatto male di proposito."
+    },
+    {
       "show_name": "The King of Queens",
       "show_logo": "https://guidatv.sky.it/uuid/a1ba5cc8-cbfe-43eb-b2e5-63cdc9e6318a/cover?territory=IT&md5ChecksumParam=9510d9659f2bea07218d38b1d7c2ac09",
-      "start_time": "2026-02-01 10:25:00",
-      "end_time": "2026-02-01 10:50:00",
+      "start_time": "2026-02-02 09:25:00",
+      "end_time": "2026-02-02 09:50:00",
+      "episode_number": "S5 E2",
+      "show_category": "Intrattenimento",
+      "show_description": "Dopo che i vicini sentono Doug e Carrie litigare, Carrie cerca di convincere i vicini, Mike e Debi, che sono migliori di loro."
+    },
+    {
+      "show_name": "The King of Queens",
+      "show_logo": "https://guidatv.sky.it/uuid/a1ba5cc8-cbfe-43eb-b2e5-63cdc9e6318a/cover?territory=IT&md5ChecksumParam=9510d9659f2bea07218d38b1d7c2ac09",
+      "start_time": "2026-02-02 09:50:00",
+      "end_time": "2026-02-02 10:15:00",
+      "episode_number": "S5 E1",
+      "show_category": "Intrattenimento",
+      "show_description": "Doug si fa accompagnare da Arthur nel suo letto perché non riesce a dormire senza Carrie."
+    },
+    {
+      "show_name": "The King of Queens",
+      "show_logo": "https://guidatv.sky.it/uuid/a1ba5cc8-cbfe-43eb-b2e5-63cdc9e6318a/cover?territory=IT&md5ChecksumParam=9510d9659f2bea07218d38b1d7c2ac09",
+      "start_time": "2026-02-02 10:15:00",
+      "end_time": "2026-02-02 10:35:00",
       "episode_number": "S5 E10",
       "show_category": "Intrattenimento",
       "show_description": "Deacon vuole regalare ai figli un bel giorno del Ringraziamento, ma non può fare tutto da solo. Carrie lo aiuta più di quanto Deacon si aspettasse."
     },
     {
-      "show_name": "Papa' a tempo pieno",
-      "show_logo": "https://guidatv.sky.it/uuid/0f9ee128-c5e1-4c58-b37f-e17c488e0903/cover?territory=IT&md5ChecksumParam=a81d86f2610ea0a68c1a99798eef6143",
-      "start_time": "2026-02-01 10:50:00",
-      "end_time": "2026-02-01 11:15:00",
-      "episode_number": "S4 E12",
+      "show_name": "Hot In Cleveland",
+      "show_logo": "https://guidatv.sky.it/uuid/92d8cd93-bb11-4b63-8e84-f50228cc2a97/cover?cgid=264&territory=IT&md5ChecksumParam=7a65c5c69e57a801a074646b9fd9a2d2.it",
+      "start_time": "2026-02-02 10:35:00",
+      "end_time": "2026-02-02 11:00:00",
+      "episode_number": "S4 E24",
       "show_category": "Intrattenimento",
-      "show_description": "Adam deve dare lezioni a Kate per farle superare l'esame di guida, ma non la ritiene ancora pronta. In realtà, è lui a non essere pronto a veder crescere la sua bambina. Don aiuta Lowell con Marcy."
+      "show_description": "L'ex di Joy officia un matrimonio in carcere, creando scompiglio."
+    },
+    {
+      "show_name": "Hot In Cleveland",
+      "show_logo": "https://guidatv.sky.it/uuid/6032af05-5b80-450e-b2ce-88a1b270182a/cover?cgid=264&territory=IT&md5ChecksumParam=7a65c5c69e57a801a074646b9fd9a2d2.it",
+      "start_time": "2026-02-02 11:00:00",
+      "end_time": "2026-02-02 11:20:00",
+      "episode_number": "S5 E1",
+      "show_category": "Intrattenimento",
+      "show_description": "Alex Trebek avvia una folle storia di ostaggi con un colpo di scena."
+    },
+    {
+      "show_name": "Becker",
+      "show_logo": "https://guidatv.sky.it/uuid/15508ab4-696a-4314-9713-d575535e6c07/cover?territory=IT&md5ChecksumParam=d1eb401c4b526925793032e5182e01d6",
+      "start_time": "2026-02-02 11:20:00",
+      "end_time": "2026-02-02 11:45:00",
+      "episode_number": "S3 E7",
+      "show_category": "Intrattenimento",
+      "show_description": "Il dottor John Becker vive la sua routine quotidiana di medico, facendo pausa nella sua tavola calda preferita, odiando la vita e tutto ciò che lo circonda."
+    },
+    {
+      "show_name": "Becker",
+      "show_logo": "https://guidatv.sky.it/uuid/15508ab4-696a-4314-9713-d575535e6c07/cover?territory=IT&md5ChecksumParam=d1eb401c4b526925793032e5182e01d6",
+      "start_time": "2026-02-02 11:45:00",
+      "end_time": "2026-02-02 12:10:00",
+      "episode_number": "S3 E8",
+      "show_category": "Intrattenimento",
+      "show_description": "Il dottor John Becker vive la sua routine quotidiana di medico, facendo pausa nella sua tavola calda preferita, odiando la vita e tutto ciò che lo circonda."
+    },
+    {
+      "show_name": "Becker",
+      "show_logo": "https://guidatv.sky.it/uuid/15508ab4-696a-4314-9713-d575535e6c07/cover?territory=IT&md5ChecksumParam=d1eb401c4b526925793032e5182e01d6",
+      "start_time": "2026-02-02 12:10:00",
+      "end_time": "2026-02-02 12:30:00",
+      "episode_number": "S3 E10",
+      "show_category": "Intrattenimento",
+      "show_description": "Il dottor John Becker vive la sua routine quotidiana di medico, facendo pausa nella sua tavola calda preferita, odiando la vita e tutto ciò che lo circonda."
+    },
+    {
+      "show_name": "Daria",
+      "show_logo": "https://guidatv.sky.it/uuid/4caa7d97-7dc1-4038-b6d4-0de7730d77c3/cover?territory=IT&md5ChecksumParam=711405cc672a3f828f98c3fd8b02e2c0",
+      "start_time": "2026-02-02 12:30:00",
+      "end_time": "2026-02-02 12:55:00",
+      "episode_number": "S4 E1",
+      "show_category": "Intrattenimento",
+      "show_description": "Daria, Jane, Brittany e Kevin litigano e non vogliono lavorare al progetto di economia. Così Daria lavora con Jodie, Jane con Brittany e Kevin con Mac."
+    },
+    {
+      "show_name": "Daria",
+      "show_logo": "https://guidatv.sky.it/uuid/4caa7d97-7dc1-4038-b6d4-0de7730d77c3/cover?territory=IT&md5ChecksumParam=711405cc672a3f828f98c3fd8b02e2c0",
+      "start_time": "2026-02-02 12:55:00",
+      "end_time": "2026-02-02 13:20:00",
+      "episode_number": "S4 E1",
+      "show_category": "Intrattenimento",
+      "show_description": "Daria, Jane, Brittany e Kevin litigano e non vogliono lavorare al progetto di economia. Così Daria lavora con Jodie, Jane con Brittany e Kevin con Mac."
     },
     {
       "show_name": "Papa' a tempo pieno",
-      "show_logo": "https://guidatv.sky.it/uuid/505fe4a1-77e2-42e2-b322-ed228e7f1940/cover?territory=IT&md5ChecksumParam=a81d86f2610ea0a68c1a99798eef6143",
-      "start_time": "2026-02-01 11:15:00",
-      "end_time": "2026-02-01 11:35:00",
-      "episode_number": "S4 E13",
+      "show_logo": "https://guidatv.sky.it/uuid/73e501ae-fb3e-4444-b51d-4648d0bbf2e1/cover?territory=IT&md5ChecksumParam=a81d86f2610ea0a68c1a99798eef6143",
+      "start_time": "2026-02-02 13:20:00",
+      "end_time": "2026-02-02 13:40:00",
+      "episode_number": "S4 E10",
       "show_category": "Intrattenimento",
-      "show_description": "È il ventesimo anniversario di matrimonio di Adam e Andi. A corto di idee per un regalo, Adam chiede aiuto ai suoi amici per capire quale potrebbe essere la sorpresa giusta da fare ad Andi."
+      "show_description": "Teddy porta a casa una pessima pagella. Andi e Adam scoprono che non fa mai i compiti. Per convincerlo a farli cercano de gli stratagemmi, che però si rivelano inutili."
     },
     {
       "show_name": "Papa' a tempo pieno",
       "show_logo": "https://guidatv.sky.it/uuid/12cd29d2-5c24-4876-8aa4-9502898f642a/cover?territory=IT&md5ChecksumParam=a81d86f2610ea0a68c1a99798eef6143",
-      "start_time": "2026-02-01 11:35:00",
-      "end_time": "2026-02-01 12:00:00",
+      "start_time": "2026-02-02 13:40:00",
+      "end_time": "2026-02-02 14:05:00",
       "episode_number": "S1 E1",
       "show_category": "Intrattenimento",
       "show_description": "Quando Andi inizia a lavorare di nuovo, Adam rimane a casa per prendersi cura dei bambini e scopre una dura verita: i suoi tre figli non sono così angelici come ha sempre creduto."
     },
     {
-      "show_name": "Frasier",
-      "show_logo": "https://guidatv.sky.it/uuid/87de0df7-0270-455e-a15b-4f9dd8ce1412/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
-      "start_time": "2026-02-01 12:00:00",
-      "end_time": "2026-02-01 12:20:00",
-      "episode_number": "S2 E15",
+      "show_name": "Le regole dell'amore",
+      "show_logo": "https://guidatv.sky.it/uuid/1f772161-d2b7-4c1b-98f3-04a3e52e859c/cover?territory=IT&md5ChecksumParam=273bc7b812808ccf663a1ee2ca143114",
+      "start_time": "2026-02-02 14:05:00",
+      "end_time": "2026-02-02 14:25:00",
+      "episode_number": "S3 E9",
       "show_category": "Intrattenimento",
-      "show_description": "Frasier e Niles competono per l'appartenenza ad un club esclusivo maschile."
+      "show_description": "Russell, Jeff e Adam si sfidano per vedere chi di loro riesce a fare sesso quando vuole. Tutti e tre dovranno vedersela con diversi imprevisti."
     },
     {
-      "show_name": "Frasier",
-      "show_logo": "https://guidatv.sky.it/uuid/87de0df7-0270-455e-a15b-4f9dd8ce1412/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
-      "start_time": "2026-02-01 12:20:00",
-      "end_time": "2026-02-01 12:45:00",
-      "episode_number": "S2 E19",
+      "show_name": "Le regole dell'amore",
+      "show_logo": "https://guidatv.sky.it/uuid/1f772161-d2b7-4c1b-98f3-04a3e52e859c/cover?territory=IT&md5ChecksumParam=273bc7b812808ccf663a1ee2ca143114",
+      "start_time": "2026-02-02 14:25:00",
+      "end_time": "2026-02-02 14:50:00",
+      "episode_number": "S3 E10",
       "show_category": "Intrattenimento",
-      "show_description": "Frasier e Niles decidono di comprare uno dei ristoranti più antichi e raffinati di Seattle."
-    },
-    {
-      "show_name": "Frasier",
-      "show_logo": "https://guidatv.sky.it/uuid/87de0df7-0270-455e-a15b-4f9dd8ce1412/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
-      "start_time": "2026-02-01 12:45:00",
-      "end_time": "2026-02-01 13:05:00",
-      "episode_number": "S2 E20",
-      "show_category": "Intrattenimento",
-      "show_description": "Frasier sospetta una relazione tra la moglie di Niles e l'istruttore di scherma."
-    },
-    {
-      "show_name": "Frasier",
-      "show_logo": "https://guidatv.sky.it/uuid/87de0df7-0270-455e-a15b-4f9dd8ce1412/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
-      "start_time": "2026-02-01 13:05:00",
-      "end_time": "2026-02-01 13:30:00",
-      "episode_number": "S2 E21",
-      "show_category": "Intrattenimento",
-      "show_description": "Parte III - Il duro agente di Frasier usa misure estreme per rinegoziare il suo contratto con la stazione radio."
-    },
-    {
-      "show_name": "Frasier",
-      "show_logo": "https://guidatv.sky.it/uuid/87de0df7-0270-455e-a15b-4f9dd8ce1412/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
-      "start_time": "2026-02-01 13:30:00",
-      "end_time": "2026-02-01 13:55:00",
-      "episode_number": "S2 E22",
-      "show_category": "Intrattenimento",
-      "show_description": "L'attenzione di un fan troppo zelante porta Frasier a temere di essere l'oggetto di uno stalker ossessionato."
-    },
-    {
-      "show_name": "Frasier",
-      "show_logo": "https://guidatv.sky.it/uuid/87de0df7-0270-455e-a15b-4f9dd8ce1412/cover?territory=IT&md5ChecksumParam=dda9b993ed52939e2a49019a091fed55",
-      "start_time": "2026-02-01 13:55:00",
-      "end_time": "2026-02-01 14:15:00",
-      "episode_number": "S2 E23",
-      "show_category": "Intrattenimento",
-      "show_description": "\"Bloccato di notte in una vecchia capanna di pescatori, Frasier affronta l'incapacità del padre di dire \"\"ti voglio bene\"\" ai suoi figli.\"."
+      "show_description": "Jeff detesta che gli si porti via il cibo dal piatto e, quando lo fa Jackie, si arrabbia molto."
     },
     {
       "show_name": "Becker",
       "show_logo": "https://guidatv.sky.it/uuid/15508ab4-696a-4314-9713-d575535e6c07/cover?territory=IT&md5ChecksumParam=d1eb401c4b526925793032e5182e01d6",
-      "start_time": "2026-02-01 14:15:00",
-      "end_time": "2026-02-01 14:40:00",
-      "episode_number": "S3 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "Per un giorno, Becker ha a fianco un ragazzo che da grande vuole fare il medico. Ma non accade niente e Jeff si fa un'idea sbagliata del lavoro."
-    },
-    {
-      "show_name": "Becker",
-      "show_logo": "https://guidatv.sky.it/uuid/15508ab4-696a-4314-9713-d575535e6c07/cover?territory=IT&md5ChecksumParam=d1eb401c4b526925793032e5182e01d6",
-      "start_time": "2026-02-01 14:40:00",
-      "end_time": "2026-02-01 15:00:00",
-      "episode_number": "S3 E5",
+      "start_time": "2026-02-02 14:50:00",
+      "end_time": "2026-02-02 15:10:00",
+      "episode_number": "S3 E1",
       "show_category": "Intrattenimento",
       "show_description": "Il dottor John Becker vive la sua routine quotidiana di medico, facendo pausa nella sua tavola calda preferita, odiando la vita e tutto ciò che lo circonda."
     },
     {
+      "show_name": "Becker",
+      "show_logo": "https://guidatv.sky.it/uuid/15508ab4-696a-4314-9713-d575535e6c07/cover?territory=IT&md5ChecksumParam=d1eb401c4b526925793032e5182e01d6",
+      "start_time": "2026-02-02 15:10:00",
+      "end_time": "2026-02-02 15:35:00",
+      "episode_number": "S3 E2",
+      "show_category": "Intrattenimento",
+      "show_description": "Il dottor John Becker vive la sua routine quotidiana di medico, facendo pausa nella sua tavola calda preferita, odiando la vita e tutto ciò che lo circonda."
+    },
+    {
+      "show_name": "Becker",
+      "show_logo": "https://guidatv.sky.it/uuid/15508ab4-696a-4314-9713-d575535e6c07/cover?territory=IT&md5ChecksumParam=d1eb401c4b526925793032e5182e01d6",
+      "start_time": "2026-02-02 15:35:00",
+      "end_time": "2026-02-02 16:00:00",
+      "episode_number": "S3 E3",
+      "show_category": "Intrattenimento",
+      "show_description": "Il dottor John Becker vive la sua routine quotidiana di medico, facendo pausa nella sua tavola calda preferita, odiando la vita e tutto ciò che lo circonda."
+    },
+    {
+      "show_name": "Hot In Cleveland",
+      "show_logo": "https://guidatv.sky.it/uuid/6032af05-5b80-450e-b2ce-88a1b270182a/cover?cgid=264&territory=IT&md5ChecksumParam=7a65c5c69e57a801a074646b9fd9a2d2.it",
+      "start_time": "2026-02-02 16:00:00",
+      "end_time": "2026-02-02 16:20:00",
+      "episode_number": "S5 E10",
+      "show_category": "Intrattenimento",
+      "show_description": "NYC porta sogni, vendite e la fantasia di diventare una Rockette."
+    },
+    {
+      "show_name": "Hot In Cleveland",
+      "show_logo": "https://guidatv.sky.it/uuid/6032af05-5b80-450e-b2ce-88a1b270182a/cover?cgid=264&territory=IT&md5ChecksumParam=7a65c5c69e57a801a074646b9fd9a2d2.it",
+      "start_time": "2026-02-02 16:20:00",
+      "end_time": "2026-02-02 16:45:00",
+      "episode_number": "S5 E11",
+      "show_category": "Intrattenimento",
+      "show_description": "Amore, politica e una maratona radiofonica sconvolgono le donne."
+    },
+    {
+      "show_name": "Le regole dell'amore",
+      "show_logo": "https://guidatv.sky.it/uuid/f8b33bed-b406-3586-8932-01123f105118/cover?territory=IT&md5ChecksumParam=273bc7b812808ccf663a1ee2ca143114",
+      "start_time": "2026-02-02 16:45:00",
+      "end_time": "2026-02-02 17:05:00",
+      "episode_number": "S4 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Audrey mente alla sua amica Liz dicendole che Jeff l'ha inserita nella lista delle donne con cui andrebbe a letto."
+    },
+    {
+      "show_name": "Le regole dell'amore",
+      "show_logo": "https://guidatv.sky.it/uuid/f8b33bed-b406-3586-8932-01123f105118/cover?territory=IT&md5ChecksumParam=273bc7b812808ccf663a1ee2ca143114",
+      "start_time": "2026-02-02 17:05:00",
+      "end_time": "2026-02-02 17:30:00",
+      "episode_number": "S4 E7",
+      "show_category": "Intrattenimento",
+      "show_description": "Guardando il dance show preferito di Audrey, Jeff scopre che una delle partecipanti, Lacey, è una sua vecchia fiamma."
+    },
+    {
+      "show_name": "Papa' a tempo pieno",
+      "show_logo": "https://guidatv.sky.it/uuid/a190ca57-2152-4a7e-ad3d-0b3a9e164aff/cover?territory=IT&md5ChecksumParam=a81d86f2610ea0a68c1a99798eef6143",
+      "start_time": "2026-02-02 17:30:00",
+      "end_time": "2026-02-02 17:50:00",
+      "episode_number": "S1 E2",
+      "show_category": "Intrattenimento",
+      "show_description": "Adam ottiene dai suoi clienti due biglietti per la partita degli Steelers e decide di invitare il fratello, ma in secondo momento propone la stessa cosa alla moglie."
+    },
+    {
+      "show_name": "Becker",
+      "show_logo": "https://guidatv.sky.it/uuid/15508ab4-696a-4314-9713-d575535e6c07/cover?territory=IT&md5ChecksumParam=d1eb401c4b526925793032e5182e01d6",
+      "start_time": "2026-02-02 17:50:00",
+      "end_time": "2026-02-02 18:10:00",
+      "episode_number": "S3 E12",
+      "show_category": "Intrattenimento",
+      "show_description": "Il dottor John Becker vive la sua routine quotidiana di medico, facendo pausa nella sua tavola calda preferita, odiando la vita e tutto ciò che lo circonda."
+    },
+    {
+      "show_name": "Becker",
+      "show_logo": "https://guidatv.sky.it/uuid/15508ab4-696a-4314-9713-d575535e6c07/cover?territory=IT&md5ChecksumParam=d1eb401c4b526925793032e5182e01d6",
+      "start_time": "2026-02-02 18:10:00",
+      "end_time": "2026-02-02 18:35:00",
+      "episode_number": "S3 E13",
+      "show_category": "Intrattenimento",
+      "show_description": "Becker è particolarmente scorbutico e Linda gli prenota una vacanza. Ma poco dopo la partenza, Linda scopre di averlo mandato in una crociera per gay."
+    },
+    {
+      "show_name": "Becker",
+      "show_logo": "https://guidatv.sky.it/uuid/15508ab4-696a-4314-9713-d575535e6c07/cover?territory=IT&md5ChecksumParam=d1eb401c4b526925793032e5182e01d6",
+      "start_time": "2026-02-02 18:35:00",
+      "end_time": "2026-02-02 19:00:00",
+      "episode_number": "S3 E14",
+      "show_category": "Intrattenimento",
+      "show_description": "Becker riceve la visita di Megan, una sua ex di cui è sempre stato innamorato. Megan gli racconta di aver lasciato il marito per stare con lui. Ma sarà vero?"
+    },
+    {
+      "show_name": "Le regole dell'amore",
+      "show_logo": "https://guidatv.sky.it/uuid/1f772161-d2b7-4c1b-98f3-04a3e52e859c/cover?territory=IT&md5ChecksumParam=273bc7b812808ccf663a1ee2ca143114",
+      "start_time": "2026-02-02 19:00:00",
+      "end_time": "2026-02-02 19:25:00",
+      "episode_number": "S3 E11",
+      "show_category": "Intrattenimento",
+      "show_description": "Adam conosce una ragazza i cui fratelli lo costringono a mantenere gli impegni presi."
+    },
+    {
+      "show_name": "Le regole dell'amore",
+      "show_logo": "https://guidatv.sky.it/uuid/1f772161-d2b7-4c1b-98f3-04a3e52e859c/cover?territory=IT&md5ChecksumParam=273bc7b812808ccf663a1ee2ca143114",
+      "start_time": "2026-02-02 19:25:00",
+      "end_time": "2026-02-02 19:40:00",
+      "episode_number": "S3 E12",
+      "show_category": "Intrattenimento",
+      "show_description": "Jeff riceve dei soldi dalla vendita di un'auto e Audrey lo convince a usarli per trascorrere una serata di lusso."
+    },
+    {
+      "show_name": "Hot In Cleveland",
+      "show_logo": "https://guidatv.sky.it/uuid/6032af05-5b80-450e-b2ce-88a1b270182a/cover?cgid=264&territory=IT&md5ChecksumParam=7a65c5c69e57a801a074646b9fd9a2d2.it",
+      "start_time": "2026-02-02 19:40:00",
+      "end_time": "2026-02-02 20:00:00",
+      "episode_number": "S5 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Victoria coinvolge un ex idolo, un'attrice e un cowboy nel piano Oscar."
+    },
+    {
       "show_name": "Comedy Central presenta: Zelig C-Lab",
-      "show_logo": "https://guidatv.sky.it/uuid/a4d1d839-0d4f-4e63-9b46-417f0df30059/cover?territory=IT&md5ChecksumParam=36f57f61ee1a10ce661f6cfaeec9629a",
-      "start_time": "2026-02-01 15:00:00",
-      "end_time": "2026-02-01 17:00:00",
-      "episode_number": "S1 E1",
+      "show_logo": "https://guidatv.sky.it/uuid/8e149871-fcef-4ca0-a1e3-ee86942b1f85/cover?territory=IT&md5ChecksumParam=36f57f61ee1a10ce661f6cfaeec9629a",
+      "start_time": "2026-02-02 20:00:00",
+      "end_time": "2026-02-02 22:00:00",
+      "episode_number": "S1 E2",
       "show_category": "Intrattenimento",
-      "show_description": "Comedy Central Presenta: Zelig C-Lab. I migliori cabarettisti e stand up comedian della scena italiana sono pronti a farvi ridere sotto la conduzione di Federico Basso e Davide Paniate."
+      "show_description": "I migliori cabarettisti e stand up comedian della scena italiana sono pronti a farvi ridere sotto la conduzione di Federico Basso e Davide Paniate."
     },
     {
-      "show_name": "Most Ridiculous",
-      "show_logo": "https://guidatv.sky.it/uuid/23f79c61-5491-4453-a9c6-f98415bfe57a/cover?territory=IT&md5ChecksumParam=4c30442f02ad8e0d61c9da3607570400",
-      "start_time": "2026-02-01 17:00:00",
-      "end_time": "2026-02-01 17:30:00",
-      "episode_number": "S7 E3",
+      "show_name": "Drunk History US",
+      "show_logo": "https://guidatv.sky.it/uuid/56ca6808-922b-4abe-8afc-b01b652fc577/cover?territory=IT&md5ChecksumParam=57cddbc3a8e0de64c75f25e63b8267cd",
+      "start_time": "2026-02-02 22:00:00",
+      "end_time": "2026-02-02 22:25:00",
+      "episode_number": "S3 E1",
       "show_category": "Intrattenimento",
-      "show_description": "In questo episodio: gaffe sulla neve, cadute in acqua e bimbi pasticcioni..."
+      "show_description": "Clark Gable si arruola nell'Aeronautica Militare e Ponce de Leon litiga con Diego Colombo."
     },
     {
-      "show_name": "Most Ridiculous",
-      "show_logo": "https://guidatv.sky.it/uuid/23f79c61-5491-4453-a9c6-f98415bfe57a/cover?territory=IT&md5ChecksumParam=4c30442f02ad8e0d61c9da3607570400",
-      "start_time": "2026-02-01 17:30:00",
-      "end_time": "2026-02-01 18:00:00",
-      "episode_number": "S7 E4",
+      "show_name": "Drunk History US",
+      "show_logo": "https://guidatv.sky.it/uuid/56ca6808-922b-4abe-8afc-b01b652fc577/cover?territory=IT&md5ChecksumParam=57cddbc3a8e0de64c75f25e63b8267cd",
+      "start_time": "2026-02-02 22:25:00",
+      "end_time": "2026-02-02 22:45:00",
+      "episode_number": "S3 E2",
       "show_category": "Intrattenimento",
-      "show_description": "In questo episodio: cadute dallo skate, incidenti al parco giochi e insetti raccapriccianti..."
+      "show_description": "I paleontologi Othniel Marsh e Edward Cope diventano rivali e Penzias e Wilson scoprono l'eco del Big Bang. Con Greg Kinnear, Stephen Merchant, Justin Long, Jason Ritter, Tony Hale e..."
     },
     {
-      "show_name": "Most Ridiculous",
-      "show_logo": "https://guidatv.sky.it/uuid/23f79c61-5491-4453-a9c6-f98415bfe57a/cover?territory=IT&md5ChecksumParam=4c30442f02ad8e0d61c9da3607570400",
-      "start_time": "2026-02-01 18:00:00",
-      "end_time": "2026-02-01 18:30:00",
-      "episode_number": "S7 E5",
+      "show_name": "South Park",
+      "show_logo": "https://guidatv.sky.it/uuid/11ff53d4-13b8-4fb4-aa08-01107421cdfe/cover?territory=IT&md5ChecksumParam=0ea940f0a8712ea5f8bf97dc76de107b",
+      "start_time": "2026-02-02 22:45:00",
+      "end_time": "2026-02-02 23:00:00",
+      "episode_number": "S9 E13",
       "show_category": "Intrattenimento",
-      "show_description": "In questo episodio: cagnolini dispettosi, incidenti in spiaggia e alberi di natale finiti male..."
+      "show_description": "I ragazzi incontrano un'orca in un parco marino e si convincono che possa parlare. Dopo aver sentito la sua storia, decisono di aiutarla a scappare."
     },
     {
-      "show_name": "Most Ridiculous",
-      "show_logo": "https://guidatv.sky.it/uuid/23f79c61-5491-4453-a9c6-f98415bfe57a/cover?territory=IT&md5ChecksumParam=4c30442f02ad8e0d61c9da3607570400",
-      "start_time": "2026-02-01 18:30:00",
-      "end_time": "2026-02-01 18:45:00",
-      "episode_number": "S7 E6",
-      "show_category": "Intrattenimento",
-      "show_description": "In questo episodio: coreografie finite male, cerimonie nuziali dagli esiti imprevisti e scivoloni..."
-    },
-    {
-      "show_name": "Most Ridiculous",
-      "show_logo": "https://guidatv.sky.it/uuid/23f79c61-5491-4453-a9c6-f98415bfe57a/cover?territory=IT&md5ChecksumParam=4c30442f02ad8e0d61c9da3607570400",
-      "start_time": "2026-02-01 18:45:00",
-      "end_time": "2026-02-01 19:00:00",
-      "episode_number": "S7 E7",
-      "show_category": "Intrattenimento",
-      "show_description": "In questo episodio: cadute dai pattini, disavventure in spiaggia e tagli di capelli assurdi."
-    },
-    {
-      "show_name": "Comedy Central Presents",
-      "show_logo": "https://guidatv.sky.it/uuid/895e062d-4d85-46f0-aaaa-3b5fcdb927c2/cover?territory=IT&md5ChecksumParam=9c4779277c9b23c78ae348b1c8d8eeb3",
-      "start_time": "2026-02-01 19:00:00",
-      "end_time": "2026-02-01 20:00:00",
-      "episode_number": "S8 E5",
-      "show_category": "Intrattenimento",
-      "show_description": "Piacere Pino la lavatrice! Seguite le storiche avventure di Pino e gli anticorpi!"
-    },
-    {
-      "show_name": "Maurizio Battista - Papa' perche' lo hai fatto?",
-      "show_logo": "https://guidatv.sky.it/uuid/596c255c-1ab2-4a35-a939-251ae5647756/cover?territory=IT&md5ChecksumParam=405b39caf6ea5e4b40afdf09a5fe1ba0",
-      "start_time": "2026-02-01 20:00:00",
-      "end_time": "2026-02-01 22:00:00",
+      "show_name": "Maurizio Battista: A Rio a Rio",
+      "show_logo": "https://guidatv.sky.it/uuid/77b25b51-c299-4d35-a463-ae737ef47fe1/cover?territory=IT&md5ChecksumParam=71e6b9b4e0e42b248f094228fe7c5e75",
+      "start_time": "2026-02-02 23:00:00",
+      "end_time": "2026-02-03 00:00:00",
       "episode_number": "",
       "show_category": "Intrattenimento",
-      "show_description": "Il nuovo spettacolo di Maurizio Battista è un'arguta e divertente analisi che il comico romano compie di se stesso e del mondo che lo circonda, usando sempre la sua dissacrante ironia."
-    },
-    {
-      "show_name": "Ma veramente?",
-      "show_logo": "https://guidatv.sky.it/uuid/976bef67-2821-47ea-86fa-0d4ca4a0351a/cover?territory=IT&md5ChecksumParam=14ab0b62c0e5fa73b234d5fec5aff398",
-      "start_time": "2026-02-01 22:00:00",
-      "end_time": "2026-02-01 23:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Maurizio Battista presenta un Giro d'Italia della risata insieme a comici che rappresentano regioni del bel Paese per ribadire che, quando ci si diverte insieme, cadono distanze e differenz (ITA 2022)."
-    },
-    {
-      "show_name": "Stand Up Comedy",
-      "show_logo": "https://guidatv.sky.it/uuid/815724f0-2dc3-4ce2-be03-57ac1657262f/cover?territory=IT&md5ChecksumParam=cac2b4fc2476dcb28e45547256b4d856",
-      "start_time": "2026-02-01 23:00:00",
-      "end_time": "2026-02-02 00:00:00",
-      "episode_number": "S12 E3",
-      "show_category": "Intrattenimento",
-      "show_description": "In questo episodio: Filippo Spreafico, Xhuliano Dule, Annagaia Marchioro, Nathan Kiboba."
+      "show_description": "Lo spettacolo di Maurizio Battista (ITA 2023)."
     }
   ]
 }

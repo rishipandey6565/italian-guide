@@ -1,255 +1,183 @@
 {
   "channel_name": "Rai 3 HD  103",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "programs": [
+    {
+      "show_name": "Allegro ma non troppo - Stag. 2025 - Puntata del 01/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 00:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "St2025 Puntata del 01/02/2026 - Luca Barbareschi conduce un late night show con al centro due interviste collegate tra loro, una ad un protagonista della scena pop e l'altra ad un rappresentante del mondo della cultura che abbia ..."
+    },
     {
       "show_name": "TG3 Mondo",
       "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:15:00",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 00:25:00",
       "episode_number": "",
       "show_category": "Intrattenimento",
       "show_description": "Intrattenimento."
     },
     {
-      "show_name": "Tg3 Agenda Del Mondo",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 00:15:00",
-      "end_time": "2026-02-01 00:20:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "A cura di Roberto Balducci."
-    },
-    {
       "show_name": "Meteo 3",
       "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 00:20:00",
-      "end_time": "2026-02-01 00:25:00",
+      "start_time": "2026-02-02 00:25:00",
+      "end_time": "2026-02-02 00:30:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Meteo."
     },
     {
-      "show_name": "Un'ombra sulla verita'",
-      "show_logo": "https://guidatv.sky.it/uuid/335cfc36-ec09-4307-8b26-2b7895c46b47/cover?territory=IT&md5ChecksumParam=0d7e892959795c9466ef596e099286ac",
-      "start_time": "2026-02-01 00:25:00",
-      "end_time": "2026-02-01 02:25:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Thriller con Francois Cluzet e Berenice Bejo. La vendita di una cantina a un uomo in apparenza anonimo turbera' gli equilibri di una tranquilla famiglia della borghesia parigina."
-    },
-    {
-      "show_name": "Appuntamento al cinema",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 02:25:00",
-      "end_time": "2026-02-01 02:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Magazine Cinema."
-    },
-    {
-      "show_name": "Fuori orario. Cose (mai) viste",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 02:30:00",
-      "end_time": "2026-02-01 02:40:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta PER QUANTO PICCOLA, NON C'E' CHE BELLEZZA Hong Sangsoo e la condizione umana (3) a cura di Lorenzo Esposito."
-    },
-    {
-      "show_name": "Realismo socialista",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 02:40:00",
-      "end_time": "2026-02-01 03:55:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Il film racconta la fase convulsa immediatamente precedente il colpo di Stato del 1973 in Cile. Da un lato le lotte operaie, dall'altro le lotte interne al partito. Intorno le incredibili immagini ..."
-    },
-    {
-      "show_name": "Un film comme les autres",
-      "show_logo": "https://guidatv.sky.it/uuid/2ac16725-c644-33c9-83ad-6295c6d430df/cover?territory=IT&md5ChecksumParam=27c3d80d93724671e627c4acf652fb0d",
-      "start_time": "2026-02-01 03:55:00",
-      "end_time": "2026-02-01 05:40:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Studenti e operai si confrontano sul desiderio di rivoluzione che ha animato e segnato il maggio francese del 1968."
-    },
-    {
-      "show_name": "Salut Les Cubains",
-      "show_logo": "https://guidatv.sky.it/uuid/4f857006-37cc-4901-8078-63d1b5250318/cover?territory=IT&md5ChecksumParam=27c3d80d93724671e627c4acf652fb0d",
-      "start_time": "2026-02-01 05:40:00",
-      "end_time": "2026-02-01 06:00:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Agnes Varda rende omaggio a Cuba attraverso una serie di scatti, realizzati con una Leica, durante una sua visita nel 1963."
-    },
-    {
-      "show_name": "Fuori orario. Cose (mai) viste",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 06:00:00",
-      "end_time": "2026-02-01 07:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta PER QUANTO PICCOLA, NON C'E' CHE BELLEZZA Hong Sangsoo e la condizione umana (3) a cura di Lorenzo Esposito."
-    },
-    {
-      "show_name": "Protestantesimo - Stag. 2025 - Pentecostali. Un mondo in crescita",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 07:00:00",
-      "end_time": "2026-02-01 07:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "St2025 Pentecostali. Un mondo in crescita - 01/02/2026 - La Federazione Pentecostale compie venticinque anni e raccoglie oggi circa quattrocento chiese e oltre cinquantamila credenti in tutta Italia. Un mondo in crescita, segnato dalla multiculturalita..."
-    },
-    {
-      "show_name": "Sulla via di Damasco - Stag. 2025 - Puntata del 01/02/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 07:30:00",
-      "end_time": "2026-02-01 08:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "St2025 Puntata del 01/02/2026 - Eva Crosetta analizza la variegata realta' ecumenica, umana e sociale, dedita al volontariato sul territorio non solo italiano."
-    },
-    {
-      "show_name": "Mi manda Rai Tre - Stag. 2025 - Puntata del 01/02/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 08:05:00",
-      "end_time": "2026-02-01 10:15:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "St2025 Puntata del 01/02/2026 - Il fenomeno dei \"parcheggi selvaggi\\."
-    },
-    {
-      "show_name": "O anche no - Stag. 2025 - Puntata del 01/02/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 10:15:00",
-      "end_time": "2026-02-01 11:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "St2025 Puntata del 01/02/2026 - Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarieta' che racconta attraverso i protagonisti le loro storie, attese, difficolta' e conquiste."
-    },
-    {
-      "show_name": "TGR Estovest",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 11:05:00",
-      "end_time": "2026-02-01 11:30:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "RUBRICA. - Direttore Roberto Pacchetti Vicedirettrice Ines Maggiolini a cura della Tgr Friuli Venezia Giulia e Puglia."
-    },
-    {
-      "show_name": "TGR Mediterraneo",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 11:30:00",
-      "end_time": "2026-02-01 12:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "RUBRICA. - Direttore Roberto Pacchetti Vicedirettore Roberto Gueli a cura della Tgr Sicilia."
-    },
-    {
-      "show_name": "Idefix e gli Irriducibili 1",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 12:00:00",
-      "end_time": "2026-02-01 12:17:00",
-      "episode_number": "",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Notiziario."
-    },
-    {
-      "show_name": "Tg3 Fuorilinea",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 12:17:00",
-      "end_time": "2026-02-01 12:25:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "A cura della redazione Cultura."
-    },
-    {
-      "show_name": "TGR Alta Quota",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 12:25:00",
-      "end_time": "2026-02-01 12:55:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Direttore Roberto Pacchetti. Vicedirettrice Roberta Serdoz. A cura della Tgr Lazio, Piemonte e Trentino-Alto Adige."
-    },
-    {
-      "show_name": "TG3 LIS",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 12:55:00",
-      "end_time": "2026-02-01 13:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Intrattenimento."
-    },
-    {
-      "show_name": "Il posto giusto - Stag. 2025 - Puntata del 01/02/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 13:00:00",
-      "end_time": "2026-02-01 14:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "St2025 Puntata del 01/02/2026 - Giampiero Marrazzo e Simona Vanni conducono \"Il posto giusto\\."
-    },
-    {
-      "show_name": "Tg Regione",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 14:00:00",
-      "end_time": "2026-02-01 14:10:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Intrattenimento."
-    },
-    {
-      "show_name": "Tg Regione Meteo",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 14:10:00",
-      "end_time": "2026-02-01 14:15:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Intrattenimento."
-    },
-    {
-      "show_name": "Idefix e gli Irriducibili 1",
-      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 14:15:00",
-      "end_time": "2026-02-01 14:30:00",
-      "episode_number": "",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Notiziario."
-    },
-    {
       "show_name": "Stag. 2025 - In mezz'ora 2025",
       "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 14:30:00",
-      "end_time": "2026-02-01 16:45:00",
+      "start_time": "2026-02-02 00:30:00",
+      "end_time": "2026-02-02 02:45:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "St2025 Puntata del 01/02/2026 - Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo i..."
     },
     {
-      "show_name": "Kilimangiaro - Stag. 2025 - Puntata del 01/02/2026",
+      "show_name": "Fuori orario. Cose (mai) viste",
       "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 16:45:00",
-      "end_time": "2026-02-01 19:00:00",
+      "start_time": "2026-02-02 02:45:00",
+      "end_time": "2026-02-02 02:55:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta PER QUANTO PICCOLA, NON C'E' CHE BELLEZZA Hong Sangsoo e la condizione umana (3) a cura di Lorenzo Esposito."
+    },
+    {
+      "show_name": "La telenovela errante",
+      "show_logo": "https://guidatv.sky.it/uuid/c6906e43-5367-465f-8df0-063b93a2a00b/cover?territory=IT&md5ChecksumParam=27c3d80d93724671e627c4acf652fb0d",
+      "start_time": "2026-02-02 02:55:00",
+      "end_time": "2026-02-02 04:10:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Raul Ruiz racconta la desolazione culturale del Cile usando come punto di vista quello della telenovela."
+    },
+    {
+      "show_name": "Il tango del vedovo e il suo specchio deformante",
+      "show_logo": "https://guidatv.sky.it/uuid/f53a5122-2aa8-411f-bb60-5459d4ee9995/cover?territory=IT&md5ChecksumParam=27c3d80d93724671e627c4acf652fb0d",
+      "start_time": "2026-02-02 04:10:00",
+      "end_time": "2026-02-02 05:10:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Incapace di accettare la morte della moglie, un uomo medita il suicidio. Primo lungometraggio, mai terminato, di Raul Ruiz."
+    },
+    {
+      "show_name": "Fuori orario. Cose (mai) viste",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 05:10:00",
+      "end_time": "2026-02-02 06:00:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta PER QUANTO PICCOLA, NON C'E' CHE BELLEZZA Hong Sangsoo e la condizione umana (3) a cura di Lorenzo Esposito."
+    },
+    {
+      "show_name": "RaiNews",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 06:00:00",
+      "end_time": "2026-02-02 07:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Notiziario."
+    },
+    {
+      "show_name": "TGR Buongiorno Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 07:00:00",
+      "end_time": "2026-02-02 07:30:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Direttore Roberto Pacchetti caporedattrice centrale Daniela Sodano."
+    },
+    {
+      "show_name": "TGR Buongiorno Regione",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 07:30:00",
+      "end_time": "2026-02-02 08:00:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "A cura delle redazioni regionali della TGR."
+    },
+    {
+      "show_name": "Stag. 2025 - Agora' 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 08:00:00",
+      "end_time": "2026-02-02 09:45:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "St2025 Puntata del 02/02/2026 - Roberto Inciocchi approfondisce i temi di stretta attualita' e segue il dibattito politico con ospiti in studio, inviati, servizi, inchieste, collegamenti e contributi video dai social."
+    },
+    {
+      "show_name": "Stag. 2025 - Re Start 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 09:45:00",
+      "end_time": "2026-02-02 10:50:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "St2025 Puntata del 01/02/2026 - Un nuovo viaggio tra natura, storia, scienza e attualita'. Camila Raznovich incontra Maria Sole Bianco, biologa marina e divulgatrice scientifica, che guida il pubblico alla scoperta del valore e d..."
+      "show_description": "St2025 Puntata del 02/02/2026 - Annalisa Bruchi dialoga con i protagonisti della vita economica italiana per avvicinare i cittadini ai temi della finanza, dell'economia e del lavoro."
+    },
+    {
+      "show_name": "Stag. 2025 - Elisir 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 10:50:00",
+      "end_time": "2026-02-02 11:55:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "St2025 Puntata del 02/02/2026 - La colite e' spesso definita nel linguaggio comune come un semplice \"mal di pancia\" persistente, e' un'infiammazione del colon che colpisce milioni di italiani. Quali sono le terapie piu' efficaci..."
+    },
+    {
+      "show_name": "Meteo 3",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 11:55:00",
+      "end_time": "2026-02-02 12:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Meteo."
     },
     {
       "show_name": "Idefix e gli Irriducibili 1",
       "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 19:00:00",
-      "end_time": "2026-02-01 19:30:00",
+      "start_time": "2026-02-02 12:00:00",
+      "end_time": "2026-02-02 12:25:00",
       "episode_number": "",
       "show_category": "Ragazzi e Musica",
       "show_description": "Notiziario."
     },
     {
+      "show_name": "TG3 Fuori TG",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 12:25:00",
+      "end_time": "2026-02-02 12:50:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Il rotocalco del Tg3 con spazi quotidiani dedicati ai consumatori, alla salute dell'agricoltura, al costume, all'economia, al mondo femminile ed alla cultura."
+    },
+    {
+      "show_name": "Stag. 2025 - Quante storie 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 12:50:00",
+      "end_time": "2026-02-02 13:20:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "St2025 Puntata del 02/02/2026 - Dall'arte alla letteratura, dalla musica alla storia recente, dalla filosofia alla politica, Giorgio Zanchini e i suoi ospiti offrono spunti di riflessione per comprendere le mille facce di un Paes..."
+    },
+    {
+      "show_name": "Stag. 2025 - Passato e Presente 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 13:20:00",
+      "end_time": "2026-02-02 14:00:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "St2025 Le Indipetae dei Gesuiti: il desiderio delle Indie - Per cinque secoli, intere generazioni di giovani gesuiti europei esprimono un desiderio irrefrenabile: essere mandati nelle \"Indie\". E lo esprimono attraverso delle lettere al Padre Generale: le In..."
+    },
+    {
       "show_name": "Tg Regione",
       "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 19:30:00",
-      "end_time": "2026-02-01 19:51:00",
+      "start_time": "2026-02-02 14:00:00",
+      "end_time": "2026-02-02 14:19:00",
       "episode_number": "",
       "show_category": "Intrattenimento",
       "show_description": "Intrattenimento."
@@ -257,38 +185,137 @@
     {
       "show_name": "Tg Regione Meteo",
       "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 19:51:00",
-      "end_time": "2026-02-01 20:00:00",
+      "start_time": "2026-02-02 14:19:00",
+      "end_time": "2026-02-02 14:20:00",
       "episode_number": "",
       "show_category": "Intrattenimento",
       "show_description": "Intrattenimento."
     },
     {
-      "show_name": "Blob - Stag. 2025 - Puntata del 01/02/2026",
+      "show_name": "Idefix e gli Irriducibili 1",
       "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 20:00:00",
-      "end_time": "2026-02-01 20:30:00",
+      "start_time": "2026-02-02 14:20:00",
+      "end_time": "2026-02-02 14:49:00",
+      "episode_number": "",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Notiziario."
+    },
+    {
+      "show_name": "Meteo 3",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 14:49:00",
+      "end_time": "2026-02-02 14:50:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Meteo."
+    },
+    {
+      "show_name": "TGR Leonardo",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 14:50:00",
+      "end_time": "2026-02-02 15:05:00",
       "episode_number": "",
       "show_category": "Intrattenimento",
-      "show_description": "St2025 Puntata del 01/02/2026 - Venti minuti di \"surrogato televisivo\". La tv smontata, rimontata e messa a nudo attraverso il montaggio per svelare cosa il video e i suoi protagonisti di tutti i giorni ci dicono in realta'."
+      "show_description": "TG di Scienza e Ambiente a cura della redazione scientifica della Tgr Piemonte."
     },
     {
-      "show_name": "Report - Stag. 2025 - Puntata del 01/02/2026",
+      "show_name": "TGR Piazza Affari",
       "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 20:30:00",
-      "end_time": "2026-02-01 23:15:00",
+      "start_time": "2026-02-02 15:05:00",
+      "end_time": "2026-02-02 15:15:00",
       "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "St2025 Puntata del 01/02/2026 - Le nuove iniziative del Ministero dell'Istruzione e del Merito riaccendono il dibattito nel mondo della scuola: dalle Indicazioni nazionali, in particolare sull'insegnamento della storia, alle circ..."
+      "show_category": "Intrattenimento",
+      "show_description": "TG di Economia e Finanza a cura della redazione economica della Tgr Lombardia."
     },
     {
-      "show_name": "Allegro ma non troppo - Stag. 2025 - Puntata del 01/02/2026",
+      "show_name": "TG3 LIS",
       "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
-      "start_time": "2026-02-01 23:15:00",
-      "end_time": "2026-02-02 00:00:00",
+      "start_time": "2026-02-02 15:15:00",
+      "end_time": "2026-02-02 15:20:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Intrattenimento."
+    },
+    {
+      "show_name": "Tg Parlamento",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 15:20:00",
+      "end_time": "2026-02-02 15:25:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Intrattenimento."
+    },
+    {
+      "show_name": "Stag. 2025 - Caffe' Italia 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 15:25:00",
+      "end_time": "2026-02-02 16:10:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "St2025 Puntata del 02/02/2026 - Greta Mauro e Pino Strabioli affrontano temi di attualita' attraverso gli strumenti della cultura forniti dai loro ospiti, per provare a interpretare il presente e le sue contraddizioni."
+    },
+    {
+      "show_name": "Stag. 2025 - Geo 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 16:10:00",
+      "end_time": "2026-02-02 19:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "St2025 Puntata del 01/02/2026 - Luca Barbareschi conduce un late night show con al centro due interviste collegate tra loro, una ad un protagonista della scena pop e l'altra ad un rappresentante del mondo della cultura che abbia ..."
+      "show_description": "St2025 Puntata del 02/02/2026 - Attraverso i grandi documentari di \"Geo\" e gli esperti in studio, Sveva Sagramola ed Emanuele Biggi raccontano le persone, le meraviglie e le fragilita' del nostro pianeta, dando particolare spazio..."
+    },
+    {
+      "show_name": "Idefix e gli Irriducibili 1",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 19:00:00",
+      "end_time": "2026-02-02 19:30:00",
+      "episode_number": "",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Notiziario."
+    },
+    {
+      "show_name": "Tg Regione",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 19:30:00",
+      "end_time": "2026-02-02 19:51:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Intrattenimento."
+    },
+    {
+      "show_name": "Tg Regione Meteo",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 19:51:00",
+      "end_time": "2026-02-02 20:00:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Intrattenimento."
+    },
+    {
+      "show_name": "Stag. 2025 - Blob 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 20:00:00",
+      "end_time": "2026-02-02 20:15:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "St2025 Puntata del 02/02/2026 - Venti minuti di \"surrogato televisivo\". La tv smontata, rimontata e messa a nudo attraverso il montaggio per svelare cosa il video e i suoi protagonisti di tutti i giorni ci dicono in realta'."
+    },
+    {
+      "show_name": "Stag. 2025 - Via Dei Matti n0 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 20:15:00",
+      "end_time": "2026-02-02 21:20:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "St2025 Puntata del 02/02/2026 - Stefano Bollani e Valentina Cenni, attraverso la storia di un grande musicista, ci conducono in un viaggio fatto di racconti, canzoni, improvvisazioni e incontri con ospiti speciali."
+    },
+    {
+      "show_name": "Stag. 2025 - Lo stato delle cose 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-02 21:20:00",
+      "end_time": "2026-02-03 00:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "St2025 Puntata del 02/02/2026 - Massimo Giletti racconta i fatti, gli eventi e le storie al centro del dibattito pubblico."
     }
   ]
 }

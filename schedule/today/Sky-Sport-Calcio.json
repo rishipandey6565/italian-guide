@@ -1,186 +1,222 @@
 {
   "channel_name": "Sky Sport Calcio",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "programs": [
     {
-      "show_name": "Sky Saturday Night",
-      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:00:00",
+      "show_name": "Sky Calcio Club",
+      "show_logo": "https://guidatv.sky.it/uuid/aa108560-d14c-4ad4-9f01-26797feec321/cover?territory=IT&md5ChecksumParam=2ef58ba86c96408a500d24797a17e4ef",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 00:00:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Sky Saturday Night."
+      "show_description": "Fabio Caressa, Beppe Bergomi e altri grandi ospiti commentano il posticipo di serie A e tutti gol, le azioni salienti e le maggiori curiosita' delle partite del weekend."
+    },
+    {
+      "show_name": "Sky Calcio Club Senza Giacca",
+      "show_logo": "https://guidatv.sky.it/uuid/731430a4-8bb8-48bd-bb6d-342377d641c3/cover?territory=IT&md5ChecksumParam=da622affe5db50fc80e041a98c02f2bf",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 00:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il fatto del giorno o della settimana affrontato con la consueta competenza insieme alle anticipazioni sulle coppe europee rendono imperdibili gli ultimi 30 minuti del Club, da vivere senza giacca."
     },
     {
       "show_name": "Premier League Remix",
       "show_logo": "https://guidatv.sky.it/uuid/30098a05-01a0-4ff0-b299-05e45c70d9ce/cover?territory=IT&md5ChecksumParam=9aa73c9c8e3d42ac24093b3cc3129fd6",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:15:00",
+      "start_time": "2026-02-02 00:30:00",
+      "end_time": "2026-02-02 01:00:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "La Premier League regala sempre spettacolo e sorprese. Riviviamo tutti i gol e le principali azioni del turno di gioco."
     },
     {
-      "show_name": "Ep.24",
-      "show_logo": "https://guidatv.sky.it/uuid/d18d905b-1d35-4fae-bdf3-8db1eea2267a/cover?territory=IT&md5ChecksumParam=439c215813bc11f84e36b4eba2f440f1",
-      "start_time": "2026-02-01 00:15:00",
-      "end_time": "2026-02-01 00:30:00",
-      "episode_number": "S2025 E24",
-      "show_category": "Sport",
-      "show_description": "La giovane Italia."
-    },
-    {
-      "show_name": "Cagliari - Hellas Verona",
-      "show_logo": "https://guidatv.sky.it/uuid/e1d791fb-b7a7-44e8-b433-a53e4e1204e3/cover?territory=IT&md5ChecksumParam=c0958443056b683210fc40919849e4fc",
-      "start_time": "2026-02-01 00:30:00",
-      "end_time": "2026-02-01 02:30:00",
-      "episode_number": "S2025 E224",
-      "show_category": "Sport",
-      "show_description": "Segui le partite del campionato di calcio Serie A."
-    },
-    {
-      "show_name": "Leeds United - Arsenal",
-      "show_logo": "https://guidatv.sky.it/uuid/6d3e7e8e-c97f-4bc0-b947-d4e9f1e10e90/cover?territory=IT&md5ChecksumParam=90e0fef6947a87c9681a1a0d0a4dbba7",
-      "start_time": "2026-02-01 02:30:00",
-      "end_time": "2026-02-01 04:15:00",
-      "episode_number": "S2025 E232",
-      "show_category": "Sport",
-      "show_description": "Dall'Elland Road di Leeds, Inghilterra."
-    },
-    {
-      "show_name": "Calcio Bundesliga - Ep. 109 - Calcio Bundesliga 20ga Amburgo/ Bayern Monaco 31/01/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/ad7b801a-6f99-4700-b776-fcf7bed1a46f/cover?territory=IT&md5ChecksumParam=36fb2b7c9e56a0cc4cbade10061851bf",
-      "start_time": "2026-02-01 04:15:00",
-      "end_time": "2026-02-01 06:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Dal Volksparkstadion di Amburgo, Germania."
-    },
-    {
-      "show_name": "Cagliari - Hellas Verona",
-      "show_logo": "https://guidatv.sky.it/uuid/e1d791fb-b7a7-44e8-b433-a53e4e1204e3/cover?territory=IT&md5ChecksumParam=c0958443056b683210fc40919849e4fc",
-      "start_time": "2026-02-01 06:00:00",
-      "end_time": "2026-02-01 08:00:00",
-      "episode_number": "S2025 E224",
-      "show_category": "Sport",
-      "show_description": "Segui le partite del campionato di calcio Serie A."
-    },
-    {
-      "show_name": "Calcio Bundesliga - Ep. 109 - Calcio Bundesliga 20ga Amburgo/ Bayern Monaco 31/01/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/ad7b801a-6f99-4700-b776-fcf7bed1a46f/cover?territory=IT&md5ChecksumParam=36fb2b7c9e56a0cc4cbade10061851bf",
-      "start_time": "2026-02-01 08:00:00",
-      "end_time": "2026-02-01 09:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Dal Volksparkstadion di Amburgo, Germania."
-    },
-    {
-      "show_name": "Cagliari - Hellas Verona",
-      "show_logo": "https://guidatv.sky.it/uuid/e1d791fb-b7a7-44e8-b433-a53e4e1204e3/cover?territory=IT&md5ChecksumParam=c0958443056b683210fc40919849e4fc",
-      "start_time": "2026-02-01 09:45:00",
-      "end_time": "2026-02-01 11:35:00",
-      "episode_number": "S2025 E224",
-      "show_category": "Sport",
-      "show_description": "Segui le partite del campionato di calcio Serie A."
-    },
-    {
-      "show_name": "Ep.24",
-      "show_logo": "https://guidatv.sky.it/uuid/d18d905b-1d35-4fae-bdf3-8db1eea2267a/cover?territory=IT&md5ChecksumParam=439c215813bc11f84e36b4eba2f440f1",
-      "start_time": "2026-02-01 11:35:00",
-      "end_time": "2026-02-01 11:50:00",
-      "episode_number": "S2025 E24",
-      "show_category": "Sport",
-      "show_description": "La giovane Italia."
-    },
-    {
       "show_name": "Ep.8",
       "show_logo": "https://guidatv.sky.it/uuid/4fab19ba-b39d-47bd-9055-abd53ef785b5/cover?territory=IT&md5ChecksumParam=604d1261dba24ea4ceaf192534100b6c",
-      "start_time": "2026-02-01 11:50:00",
-      "end_time": "2026-02-01 12:20:00",
+      "start_time": "2026-02-02 01:00:00",
+      "end_time": "2026-02-02 01:35:00",
       "episode_number": "S2025 E8",
       "show_category": "Sport",
       "show_description": "Il meglio della Champions League attraverso le immagini, i gol e le interviste ai protagonisti, mixate in un montaggio spettacolare."
     },
     {
-      "show_name": "Pro Patria - LR Vicenza",
-      "show_logo": "https://guidatv.sky.it/uuid/71fb82e6-e8e5-48f2-906c-021c7e0b3d21/cover?territory=IT&md5ChecksumParam=c96eec439c23528ab1f3dc75f37dc3e7",
-      "start_time": "2026-02-01 12:20:00",
-      "end_time": "2026-02-01 14:25:00",
-      "episode_number": "S2025 E247",
-      "show_category": "Sport",
-      "show_description": "Dallo stadio Carlo Speroni di Varese, Italia."
-    },
-    {
-      "show_name": "Atalanta U23 - Benevento",
-      "show_logo": "https://guidatv.sky.it/uuid/72a0c764-ce20-4936-963c-04373f1fb824/cover?territory=IT&md5ChecksumParam=3dd8b13c03ed152b333bf043a8ac07bc",
-      "start_time": "2026-02-01 14:25:00",
-      "end_time": "2026-02-01 16:30:00",
-      "episode_number": "S2025 E241",
-      "show_category": "Sport",
-      "show_description": "Tutte le partite del campionato di Serie C italiano."
-    },
-    {
-      "show_name": "Ep.24",
-      "show_logo": "https://guidatv.sky.it/uuid/d18d905b-1d35-4fae-bdf3-8db1eea2267a/cover?territory=IT&md5ChecksumParam=439c215813bc11f84e36b4eba2f440f1",
-      "start_time": "2026-02-01 16:30:00",
-      "end_time": "2026-02-01 16:45:00",
-      "episode_number": "S2025 E24",
-      "show_category": "Sport",
-      "show_description": "La giovane Italia."
-    },
-    {
-      "show_name": "Cagliari - Hellas Verona",
-      "show_logo": "https://guidatv.sky.it/uuid/e1d791fb-b7a7-44e8-b433-a53e4e1204e3/cover?territory=IT&md5ChecksumParam=c0958443056b683210fc40919849e4fc",
-      "start_time": "2026-02-01 16:45:00",
-      "end_time": "2026-02-01 17:00:00",
-      "episode_number": "S2025 E224",
-      "show_category": "Sport",
-      "show_description": "Segui le partite del campionato di calcio Serie A."
-    },
-    {
-      "show_name": "Sky Sunday Football Prepartita",
-      "show_logo": "https://guidatv.sky.it/uuid/b3121881-718f-40c1-a433-c3828ca5c4d0/cover?territory=IT&md5ChecksumParam=2a462481ce7b688378ba18ba7192b0cc",
-      "start_time": "2026-02-01 17:00:00",
-      "end_time": "2026-02-01 17:55:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Sky Sunday Football Prepartita - La presentazione del match di Serie A, le immagini e le interviste ai protagonisti. Nello studio di Leo Di Bello, anche calcio internazionale e le news di tutti gli sport di Sky."
-    },
-    {
       "show_name": "Cremonese - Inter",
       "show_logo": "https://guidatv.sky.it/uuid/f5eb9051-1cbd-4e6e-aec7-6e4851f62f12/cover?territory=IT&md5ChecksumParam=0a05f3744aef6b4706d536211d047c06",
-      "start_time": "2026-02-01 17:55:00",
-      "end_time": "2026-02-01 20:00:00",
+      "start_time": "2026-02-02 01:35:00",
+      "end_time": "2026-02-02 03:30:00",
       "episode_number": "S2025 E68",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Giovanni Zini di Cremona, Italia."
     },
     {
-      "show_name": "Anteprima Sky Calcio Club",
-      "show_logo": "https://guidatv.sky.it/uuid/606d3a96-4c8b-4632-8124-b8870f5e805a/cover?territory=IT&md5ChecksumParam=66c2cb3b782831fab058ec92fec73e30",
-      "start_time": "2026-02-01 20:00:00",
-      "end_time": "2026-02-01 20:40:00",
-      "episode_number": "",
+      "show_name": "Borussia Dortmund - Heidenheim",
+      "show_logo": "https://guidatv.sky.it/uuid/05a77131-a90f-4d26-819d-cb15f657d263/cover?territory=IT&md5ChecksumParam=70358fefa88ae2c83600aafc9d8ebfab",
+      "start_time": "2026-02-02 03:30:00",
+      "end_time": "2026-02-02 05:15:00",
+      "episode_number": "S2025 E111",
       "show_category": "Sport",
-      "show_description": "Quindici minuti di notizie, immagini, gol e interviste che costituiscono il menu' di Sky Calcio Club. In onda subito dopo."
+      "show_description": "Dal Signal Iduna Park di Dortmund, Germania."
     },
     {
-      "show_name": "RC Strasburgo Alsazia - Paris Saint-Germain",
-      "show_logo": "https://guidatv.sky.it/uuid/126ac4ce-eff2-4131-98bc-966c44c3df45/cover?territory=IT&md5ChecksumParam=988d4ae582ed63e7ffc3bceb7cf4d79c",
-      "start_time": "2026-02-01 20:40:00",
-      "end_time": "2026-02-01 22:45:00",
-      "episode_number": "S2025 E64",
-      "show_category": "Sport",
-      "show_description": "Dallo Stade de la Meinau di Strasburgo, Francia."
-    },
-    {
-      "show_name": "Sky Calcio Club",
-      "show_logo": "https://guidatv.sky.it/uuid/aa108560-d14c-4ad4-9f01-26797feec321/cover?territory=IT&md5ChecksumParam=2ef58ba86c96408a500d24797a17e4ef",
-      "start_time": "2026-02-01 22:45:00",
-      "end_time": "2026-02-02 00:00:00",
+      "show_name": "Europa & Conference League Remix - Ep. 9 - Europa League Remix Ep.9 30/01/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/042df71a-c246-46b6-9f95-9f370f6d9d68/cover?territory=IT&md5ChecksumParam=4dbea4988d077ac995b65626e904997b",
+      "start_time": "2026-02-02 05:15:00",
+      "end_time": "2026-02-02 05:45:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Fabio Caressa, Beppe Bergomi e altri grandi ospiti commentano il posticipo di serie A e tutti gol, le azioni salienti e le maggiori curiosita' delle partite del weekend."
+      "show_description": "Europa League Remix Ep.9 30/01/2026 - Andiamo a rivedere tutto quello accaduto nella giornata di Europa e Conference League con i gol, le interviste ai protagonisti e le curiosita' dai campi principali."
+    },
+    {
+      "show_name": "Ep.24",
+      "show_logo": "https://guidatv.sky.it/uuid/d18d905b-1d35-4fae-bdf3-8db1eea2267a/cover?territory=IT&md5ChecksumParam=439c215813bc11f84e36b4eba2f440f1",
+      "start_time": "2026-02-02 05:45:00",
+      "end_time": "2026-02-02 06:00:00",
+      "episode_number": "S2025 E24",
+      "show_category": "Sport",
+      "show_description": "La giovane Italia."
+    },
+    {
+      "show_name": "Cremonese - Inter",
+      "show_logo": "https://guidatv.sky.it/uuid/f5eb9051-1cbd-4e6e-aec7-6e4851f62f12/cover?territory=IT&md5ChecksumParam=0a05f3744aef6b4706d536211d047c06",
+      "start_time": "2026-02-02 06:00:00",
+      "end_time": "2026-02-02 08:00:00",
+      "episode_number": "S2025 E68",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Giovanni Zini di Cremona, Italia."
+    },
+    {
+      "show_name": "Ep.8",
+      "show_logo": "https://guidatv.sky.it/uuid/4fab19ba-b39d-47bd-9055-abd53ef785b5/cover?territory=IT&md5ChecksumParam=604d1261dba24ea4ceaf192534100b6c",
+      "start_time": "2026-02-02 08:00:00",
+      "end_time": "2026-02-02 08:30:00",
+      "episode_number": "S2025 E8",
+      "show_category": "Sport",
+      "show_description": "Il meglio della Champions League attraverso le immagini, i gol e le interviste ai protagonisti, mixate in un montaggio spettacolare."
+    },
+    {
+      "show_name": "Premier League Remix",
+      "show_logo": "https://guidatv.sky.it/uuid/30098a05-01a0-4ff0-b299-05e45c70d9ce/cover?territory=IT&md5ChecksumParam=9aa73c9c8e3d42ac24093b3cc3129fd6",
+      "start_time": "2026-02-02 08:30:00",
+      "end_time": "2026-02-02 09:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "La Premier League regala sempre spettacolo e sorprese. Riviviamo tutti i gol e le principali azioni del turno di gioco."
+    },
+    {
+      "show_name": "Borussia Dortmund - Heidenheim",
+      "show_logo": "https://guidatv.sky.it/uuid/05a77131-a90f-4d26-819d-cb15f657d263/cover?territory=IT&md5ChecksumParam=70358fefa88ae2c83600aafc9d8ebfab",
+      "start_time": "2026-02-02 09:00:00",
+      "end_time": "2026-02-02 10:50:00",
+      "episode_number": "S2025 E111",
+      "show_category": "Sport",
+      "show_description": "Dal Signal Iduna Park di Dortmund, Germania."
+    },
+    {
+      "show_name": "Nottingham Forest - Crystal Palace",
+      "show_logo": "https://guidatv.sky.it/uuid/19bbc34b-9ca6-4acb-b2fa-c58b3a82f663/cover?territory=IT&md5ChecksumParam=02076efee70195496eee2eaa661ffc7a",
+      "start_time": "2026-02-02 10:50:00",
+      "end_time": "2026-02-02 12:35:00",
+      "episode_number": "S2025 E239",
+      "show_category": "Sport",
+      "show_description": "Dal City Ground di Nottingham, Nottinghamshire, Inghilterra."
+    },
+    {
+      "show_name": "Goleador L'ora Dei Gol 01/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/3091acba-1437-4d5e-b21f-ce08cf645f4f/cover?territory=IT&md5ChecksumParam=1ed138dbba9f78a8c2d77ed7f7c07eb9",
+      "start_time": "2026-02-02 12:35:00",
+      "end_time": "2026-02-02 13:35:00",
+      "episode_number": "S2025 E24",
+      "show_category": "Sport",
+      "show_description": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
+    },
+    {
+      "show_name": "Premier League Remix",
+      "show_logo": "https://guidatv.sky.it/uuid/30098a05-01a0-4ff0-b299-05e45c70d9ce/cover?territory=IT&md5ChecksumParam=9aa73c9c8e3d42ac24093b3cc3129fd6",
+      "start_time": "2026-02-02 13:35:00",
+      "end_time": "2026-02-02 14:05:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "La Premier League regala sempre spettacolo e sorprese. Riviviamo tutti i gol e le principali azioni del turno di gioco."
+    },
+    {
+      "show_name": "Cremonese - Inter",
+      "show_logo": "https://guidatv.sky.it/uuid/f5eb9051-1cbd-4e6e-aec7-6e4851f62f12/cover?territory=IT&md5ChecksumParam=0a05f3744aef6b4706d536211d047c06",
+      "start_time": "2026-02-02 14:05:00",
+      "end_time": "2026-02-02 16:00:00",
+      "episode_number": "S2025 E68",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Giovanni Zini di Cremona, Italia."
+    },
+    {
+      "show_name": "Tottenham - Manchester City",
+      "show_logo": "https://guidatv.sky.it/uuid/b5e40c74-5922-4dc6-bb58-4d541fa30b25/cover?territory=IT&md5ChecksumParam=6fea8481edf383f67fbb5f16fe0f797a",
+      "start_time": "2026-02-02 16:00:00",
+      "end_time": "2026-02-02 18:00:00",
+      "episode_number": "S2025 E240",
+      "show_category": "Sport",
+      "show_description": "Dal Tottenham Hotspur Stadium di Londra, Inghilterra."
+    },
+    {
+      "show_name": "Premier League Remix",
+      "show_logo": "https://guidatv.sky.it/uuid/30098a05-01a0-4ff0-b299-05e45c70d9ce/cover?territory=IT&md5ChecksumParam=9aa73c9c8e3d42ac24093b3cc3129fd6",
+      "start_time": "2026-02-02 18:00:00",
+      "end_time": "2026-02-02 18:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "La Premier League regala sempre spettacolo e sorprese. Riviviamo tutti i gol e le principali azioni del turno di gioco."
+    },
+    {
+      "show_name": "Uefa Champions League Magazine 2025/2026 Ep.18 02/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/8183392e-6954-48f6-aeb5-7905eb281321/cover?territory=IT&md5ChecksumParam=08e3ee30f890e23577137ca9009dfd4c",
+      "start_time": "2026-02-02 18:30:00",
+      "end_time": "2026-02-02 19:00:00",
+      "episode_number": "S2025 E18",
+      "show_category": "Sport",
+      "show_description": "Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
+    },
+    {
+      "show_name": "Cremonese - Inter",
+      "show_logo": "https://guidatv.sky.it/uuid/f5eb9051-1cbd-4e6e-aec7-6e4851f62f12/cover?territory=IT&md5ChecksumParam=0a05f3744aef6b4706d536211d047c06",
+      "start_time": "2026-02-02 19:00:00",
+      "end_time": "2026-02-02 19:30:00",
+      "episode_number": "S2025 E68",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Giovanni Zini di Cremona, Italia."
+    },
+    {
+      "show_name": "Calciomercato - L'originale",
+      "show_logo": "https://guidatv.sky.it/uuid/75be44ea-5ad2-4ff2-bf1d-43e3fc821d37/cover?territory=IT&md5ChecksumParam=cecd4ae1a1077e8bd34f3a46515739b0",
+      "start_time": "2026-02-02 19:30:00",
+      "end_time": "2026-02-02 20:40:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Curiosità, commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
+    },
+    {
+      "show_name": "Udinese - Roma",
+      "show_logo": "https://guidatv.sky.it/uuid/c1587252-5d2f-4aa5-8b04-9b754b829925/cover?territory=IT&md5ChecksumParam=9d357bd436b9d9075c7367d367f20161",
+      "start_time": "2026-02-02 20:40:00",
+      "end_time": "2026-02-02 22:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Serie A 23ga - Bianconeri tornati alla vittoria, 1-3 a Verona. Roma a -4 dal Milan dopo l'1-1 dell'Olimpico. A Udine ha vinto 9 delle ultime 12 sfide, un pareggio e 2 sconfitte. TC: Borghi-Gobbi."
+    },
+    {
+      "show_name": "Anteprima Calciomercato - L'originale",
+      "show_logo": "https://guidatv.sky.it/uuid/366f7ec1-37fe-4e88-b120-26c0c1f0f5c5/cover?territory=IT&md5ChecksumParam=baf701d4c8004cba7ad471f35c778d80",
+      "start_time": "2026-02-02 22:45:00",
+      "end_time": "2026-02-02 23:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Le anticipazioni sui possibili movimenti di mercato delle societa' di calcio."
+    },
+    {
+      "show_name": "Calciomercato - L'originale",
+      "show_logo": "https://guidatv.sky.it/uuid/75be44ea-5ad2-4ff2-bf1d-43e3fc821d37/cover?territory=IT&md5ChecksumParam=cecd4ae1a1077e8bd34f3a46515739b0",
+      "start_time": "2026-02-02 23:00:00",
+      "end_time": "2026-02-03 00:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Curiosità, commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
     }
   ]
 }

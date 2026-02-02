@@ -1,150 +1,204 @@
 {
   "channel_name": "Sky Sport Max",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "programs": [
     {
-      "show_name": "Zebre Parma - Connacht",
-      "show_logo": "https://guidatv.sky.it/uuid/43e867a2-270c-4be7-ba89-bf6c6a27cd2b/cover?territory=IT&md5ChecksumParam=0a4a1614ef3f3b31bee0d20137a5a675",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 00:00:00",
-      "episode_number": "S2025 E20",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Sergio Lanfranchi di Parma, Italia."
-    },
-    {
-      "show_name": "Monaco - Juventus",
-      "show_logo": "https://guidatv.sky.it/uuid/a89d43b3-0727-4a95-9698-015843b9b3a0/cover?territory=IT&md5ChecksumParam=65ff33a797b36976422022563823e38f",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 02:00:00",
-      "episode_number": "S2025 E134",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Diego Armando Maradona di Napoli, Italia."
-    },
-    {
-      "show_name": "Lens - Le Havre AC",
-      "show_logo": "https://guidatv.sky.it/uuid/f024b532-aec4-4477-bbe2-751b9dc5b198/cover?territory=IT&md5ChecksumParam=87523049ad395b84c9bd944c98d26bbc",
-      "start_time": "2026-02-01 02:00:00",
-      "end_time": "2026-02-01 05:00:00",
-      "episode_number": "S2025 E61",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Bollaert-Delelis di Lens, Francia."
-    },
-    {
-      "show_name": "Fim Awards 2025",
-      "show_logo": "https://guidatv.sky.it/uuid/cbbacd7b-5970-424e-93c5-9dc02c7a9d16/cover?territory=IT&md5ChecksumParam=d31129b6441e1de45e481dd1fa5d04a1",
-      "start_time": "2026-02-01 05:00:00",
-      "end_time": "2026-02-01 06:00:00",
+      "show_name": "Finale: Denmark - Germany",
+      "show_logo": "https://guidatv.sky.it/uuid/231d888a-8574-490a-8f01-fc3ee5f9282c/COVER_TITLE_TALL?territory=IT&version=253dcfb2-a213-3b70-903a-8c7205b7238a&w=600&h=800&md5ChecksumParam=e35d40be07d49b422a2d8b034fb19c4a",
+      "start_time": "2026-02-02 00:00:00",
+      "end_time": "2026-02-02 02:00:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Assistiamo all'assegnazione dei FIM Awards 2025 e scopriamo i suoi protagonisti da Losanna."
+      "show_description": "Dalla Jyske Bank Boxen di Herning, Danimarca."
     },
     {
-      "show_name": "Panathinaikos - Roma",
-      "show_logo": "https://guidatv.sky.it/uuid/5f08631f-aab9-4b2d-869f-6e8243a824dc/cover?territory=IT&md5ChecksumParam=09c3e8f78b2a2c8152ed1c19a26b26c8",
-      "start_time": "2026-02-01 06:00:00",
-      "end_time": "2026-02-01 08:00:00",
+      "show_name": "Calcio Bundesliga - Ep. 109 - Calcio Bundesliga 20ga Amburgo/ Bayern Monaco 31/01/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/ad7b801a-6f99-4700-b776-fcf7bed1a46f/cover?territory=IT&md5ChecksumParam=36fb2b7c9e56a0cc4cbade10061851bf",
+      "start_time": "2026-02-02 02:00:00",
+      "end_time": "2026-02-02 04:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Dal Volksparkstadion di Amburgo, Germania."
+    },
+    {
+      "show_name": "Un Anno Di Motogp 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/b1f570fc-26ba-4db3-8501-ba1394f273c2/cover?territory=IT&md5ChecksumParam=60a083a1b18905de20b945210803aa1d",
+      "start_time": "2026-02-02 04:00:00",
+      "end_time": "2026-02-02 05:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Un Anno Di Motogp 2025."
+    },
+    {
+      "show_name": "In pista con Jannik",
+      "show_logo": "https://guidatv.sky.it/uuid/bbb310e7-4ccd-4f78-b577-eb6566a3600f/cover?territory=IT&md5ChecksumParam=bb11104d7c2541f4b37740da9b2f54a2",
+      "start_time": "2026-02-02 05:45:00",
+      "end_time": "2026-02-02 06:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Tutta la passione di Jannik Sinner per la F1 nell’intervista con Stefano Domenicali e nel giro in macchina con Kimi Antonelli."
+    },
+    {
+      "show_name": "Kimi e Toto",
+      "show_logo": "https://guidatv.sky.it/uuid/fab92147-6250-4fcc-9420-c3de247e8ad9/cover?territory=IT&md5ChecksumParam=aa14f888588d14a2a449933886a11a5b",
+      "start_time": "2026-02-02 06:00:00",
+      "end_time": "2026-02-02 06:25:00",
+      "episode_number": "S2024 E7",
+      "show_category": "Sport",
+      "show_description": "Il legame tra Andrea Kimi Antonelli e Toto Wolff va oltre il semplice rapporto tra pilota e team principal: è una scommessa che guarda lontano."
+    },
+    {
+      "show_name": "L'uomo Contro La Macchina",
+      "show_logo": "https://guidatv.sky.it/uuid/4edd351f-b9cd-41b9-8d4f-4f465a5e8e72/cover?territory=IT&md5ChecksumParam=04da735fa3b770755c00a60ad0525c02",
+      "start_time": "2026-02-02 06:25:00",
+      "end_time": "2026-02-02 07:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
+    },
+    {
+      "show_name": "Bertram Derthona Tortona - Udine",
+      "show_logo": "https://guidatv.sky.it/uuid/a3ff9d51-ed63-4197-929c-9137d5a9e1cf/cover?territory=IT&md5ChecksumParam=322d0d81e0287da990da6f56bdead255",
+      "start_time": "2026-02-02 07:00:00",
+      "end_time": "2026-02-02 09:00:00",
+      "episode_number": "S2025 E35",
+      "show_category": "Sport",
+      "show_description": "From PalaEnergica Paolo Ferraris in Alessandria, Italy."
+    },
+    {
+      "show_name": "Ep.8",
+      "show_logo": "https://guidatv.sky.it/uuid/4fab19ba-b39d-47bd-9055-abd53ef785b5/cover?territory=IT&md5ChecksumParam=604d1261dba24ea4ceaf192534100b6c",
+      "start_time": "2026-02-02 09:00:00",
+      "end_time": "2026-02-02 09:30:00",
+      "episode_number": "S2025 E8",
+      "show_category": "Sport",
+      "show_description": "Il meglio della Champions League attraverso le immagini, i gol e le interviste ai protagonisti, mixate in un montaggio spettacolare."
+    },
+    {
+      "show_name": "RC Strasburgo Alsazia - Paris Saint-Germain",
+      "show_logo": "https://guidatv.sky.it/uuid/126ac4ce-eff2-4131-98bc-966c44c3df45/cover?territory=IT&md5ChecksumParam=988d4ae582ed63e7ffc3bceb7cf4d79c",
+      "start_time": "2026-02-02 09:30:00",
+      "end_time": "2026-02-02 11:15:00",
       "episode_number": "S2025 E64",
       "show_category": "Sport",
-      "show_description": "Dallo Stadio Olimpico di Atene, Grecia."
+      "show_description": "Dallo Stade de la Meinau di Strasburgo, Francia."
     },
     {
       "show_name": "Ep.24",
       "show_logo": "https://guidatv.sky.it/uuid/d18d905b-1d35-4fae-bdf3-8db1eea2267a/cover?territory=IT&md5ChecksumParam=439c215813bc11f84e36b4eba2f440f1",
-      "start_time": "2026-02-01 08:00:00",
-      "end_time": "2026-02-01 10:15:00",
+      "start_time": "2026-02-02 11:15:00",
+      "end_time": "2026-02-02 11:30:00",
       "episode_number": "S2025 E24",
       "show_category": "Sport",
       "show_description": "La giovane Italia."
     },
     {
-      "show_name": "Semifinale 2: Germania - Croazia",
-      "show_logo": "https://guidatv.sky.it/uuid/1e6ae049-02f7-476e-a13d-2728164397ae/cover?territory=IT&md5ChecksumParam=8d62ab2cdab57b14221ed377fcd57b85",
-      "start_time": "2026-02-01 10:15:00",
-      "end_time": "2026-02-01 12:00:00",
-      "episode_number": "",
+      "show_name": "Ep.41",
+      "show_logo": "https://guidatv.sky.it/uuid/0ff6859e-85fc-43fb-a90b-189e4a64cc7e/cover?territory=IT&md5ChecksumParam=40d3d23ed4cdb3a75df14bd642197540",
+      "start_time": "2026-02-02 11:30:00",
+      "end_time": "2026-02-02 12:00:00",
+      "episode_number": "S1 E41",
       "show_category": "Sport",
-      "show_description": "Dalla Jyske Bank Boxen di Herning, Danimarca."
+      "show_description": "I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia."
+    },
+    {
+      "show_name": "Marcialonga di Fiemme e Fassa",
+      "show_logo": "https://guidatv.sky.it/uuid/bd10e3f7-2d47-4359-945b-d28226e638f5/cover?territory=IT&md5ChecksumParam=b6990de5fbc3f430d4dd0b383de94456",
+      "start_time": "2026-02-02 12:00:00",
+      "end_time": "2026-02-02 14:00:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "Marcialonga di Fiemme e Fassa."
+    },
+    {
+      "show_name": "Benetton - Scarlets",
+      "show_logo": "https://guidatv.sky.it/uuid/1414e4fd-4468-4b1c-9ab5-64ad5e72cbd1/cover?territory=IT&md5ChecksumParam=bdf348d4e6b18aaa645e2e9a07021177",
+      "start_time": "2026-02-02 14:00:00",
+      "end_time": "2026-02-02 16:00:00",
+      "episode_number": "S2025 E19",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Comunale di Treviso, Italia."
+    },
+    {
+      "show_name": "Ep.8",
+      "show_logo": "https://guidatv.sky.it/uuid/4fab19ba-b39d-47bd-9055-abd53ef785b5/cover?territory=IT&md5ChecksumParam=604d1261dba24ea4ceaf192534100b6c",
+      "start_time": "2026-02-02 16:00:00",
+      "end_time": "2026-02-02 16:30:00",
+      "episode_number": "S2025 E8",
+      "show_category": "Sport",
+      "show_description": "Il meglio della Champions League attraverso le immagini, i gol e le interviste ai protagonisti, mixate in un montaggio spettacolare."
+    },
+    {
+      "show_name": "Cremonese - Inter",
+      "show_logo": "https://guidatv.sky.it/uuid/f5eb9051-1cbd-4e6e-aec7-6e4851f62f12/cover?territory=IT&md5ChecksumParam=0a05f3744aef6b4706d536211d047c06",
+      "start_time": "2026-02-02 16:30:00",
+      "end_time": "2026-02-02 18:30:00",
+      "episode_number": "S2025 E68",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Giovanni Zini di Cremona, Italia."
+    },
+    {
+      "show_name": "Cagliari - Hellas Verona",
+      "show_logo": "https://guidatv.sky.it/uuid/e1d791fb-b7a7-44e8-b433-a53e4e1204e3/cover?territory=IT&md5ChecksumParam=c0958443056b683210fc40919849e4fc",
+      "start_time": "2026-02-02 18:30:00",
+      "end_time": "2026-02-02 18:45:00",
+      "episode_number": "S2025 E224",
+      "show_category": "Sport",
+      "show_description": "Segui le partite del campionato di calcio Serie A."
     },
     {
       "show_name": "Perth",
       "show_logo": "https://guidatv.sky.it/uuid/d5d23dd5-4f85-4ab0-acc3-240c54084bc2/cover?territory=IT&md5ChecksumParam=0e5e3b67f238a056383a19458b307ff8",
-      "start_time": "2026-02-01 12:00:00",
-      "end_time": "2026-02-01 13:15:00",
+      "start_time": "2026-02-02 18:45:00",
+      "end_time": "2026-02-02 19:55:00",
       "episode_number": "S2026 E1",
       "show_category": "Sport",
       "show_description": "Sintesi e highlights della piu' spettacolare competizione velica internazionale dedicata ai catamarani foiling F50."
     },
     {
-      "show_name": "Programmazione non disponibile",
-      "show_logo": "https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&md5ChecksumParam=4a25768e3cfcae514f94f50e5a0fe2c7",
-      "start_time": "2026-02-01 13:15:00",
-      "end_time": "2026-02-01 13:25:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Programmazione non disponibile."
+      "show_name": "Icarus Ultra 2025 Ep.18 02/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/0c74bb9e-30f1-48fd-af9a-167323b5ce89/cover?territory=IT&md5ChecksumParam=421a6b9feb080c8808ba62788ea8111a",
+      "start_time": "2026-02-02 19:55:00",
+      "end_time": "2026-02-02 20:20:00",
+      "episode_number": "S2025 E18",
+      "show_category": "Sport",
+      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
     },
     {
-      "show_name": "Hertha BSC vs. SV Darmstadt 98",
-      "show_logo": "https://guidatv.sky.it/uuid/36075308-9b32-4f41-ae9e-1e97ea9b5fac/cover?territory=IT&md5ChecksumParam=f650c78533e1155a6e98b06380048f6f",
-      "start_time": "2026-02-01 13:25:00",
-      "end_time": "2026-02-01 15:25:00",
-      "episode_number": "S2025 E41",
+      "show_name": "Calcio Campionato Italiano Serie C - Ep. 244 - Calcio Serie C 24ga Girone A Giana Erminio/ Union Brescia 02/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/95a372e8-3f34-436c-9157-fab9ce417190/cover?territory=IT&md5ChecksumParam=7a71dd8418d5c93eb827edb9b7dec73f",
+      "start_time": "2026-02-02 20:20:00",
+      "end_time": "2026-02-02 22:30:00",
+      "episode_number": "S2025 E244",
       "show_category": "Sport",
-      "show_description": "Dall'Olympiastadion di Berlino, Germania."
+      "show_description": "Dallo Stadio Città di Gorgonzola, Italia."
     },
     {
-      "show_name": "Calcio Bundesliga - Ep. 110 - Calcio Bundesliga 20ga Stoccarda/ Friburgo 01/02/2026",
-      "show_logo": "https://guidatv.sky.it/uuid/3dea0b28-09d4-4700-ba65-507c66c958aa/cover?territory=IT&md5ChecksumParam=c07f5ce80f5871b5600128a8817585b9",
-      "start_time": "2026-02-01 15:25:00",
-      "end_time": "2026-02-01 17:30:00",
-      "episode_number": "S2025 E110",
+      "show_name": "Uefa Champions League Magazine 2025/2026 Ep.18 02/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/8183392e-6954-48f6-aeb5-7905eb281321/cover?territory=IT&md5ChecksumParam=08e3ee30f890e23577137ca9009dfd4c",
+      "start_time": "2026-02-02 22:30:00",
+      "end_time": "2026-02-02 23:00:00",
+      "episode_number": "S2025 E18",
       "show_category": "Sport",
-      "show_description": "Dalla MHPArena di Stoccarda, Germania."
+      "show_description": "Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
+    },
+    {
+      "show_name": "Parte 2",
+      "show_logo": "https://guidatv.sky.it/uuid/003f07f5-eab3-4703-805c-e2c0853c930a/cover?territory=IT&md5ChecksumParam=c802a5b8056b1f1a03a19a7296014209",
+      "start_time": "2026-02-02 23:00:00",
+      "end_time": "2026-02-02 23:45:00",
+      "episode_number": "S2025 E2",
+      "show_category": "Sport",
+      "show_description": "Seconda parte del viaggio nel passato di Alessandro Del Piero, che ripercorre uno degli anni più iconici della sua carriera: il 1996."
     },
     {
       "show_name": "Fabbri E Guignard",
       "show_logo": "https://guidatv.sky.it/uuid/2fc3e3b8-05bf-4315-8c06-e8e755fb861b/cover?territory=IT&md5ChecksumParam=9a3ebabb17b9bdffff62087828bddb0f",
-      "start_time": "2026-02-01 17:30:00",
-      "end_time": "2026-02-01 17:50:00",
+      "start_time": "2026-02-02 23:45:00",
+      "end_time": "2026-02-03 00:00:00",
       "episode_number": "S2026 E2",
       "show_category": "Sport",
       "show_description": "Superatleti."
-    },
-    {
-      "show_name": "Finale: Denmark - Germany",
-      "show_logo": "https://guidatv.sky.it/uuid/231d888a-8574-490a-8f01-fc3ee5f9282c/COVER_TITLE_TALL?territory=IT&version=253dcfb2-a213-3b70-903a-8c7205b7238a&w=600&h=800&md5ChecksumParam=e35d40be07d49b422a2d8b034fb19c4a",
-      "start_time": "2026-02-01 17:50:00",
-      "end_time": "2026-02-01 20:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Dalla Jyske Bank Boxen di Herning, Danimarca."
-    },
-    {
-      "show_name": "3tre, Il Numero Magico Dello Sci",
-      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
-      "start_time": "2026-02-01 20:00:00",
-      "end_time": "2026-02-01 20:55:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "3tre, Il Numero Magico Dello Sci."
-    },
-    {
-      "show_name": "Pau - Tolone",
-      "show_logo": "https://guidatv.sky.it/uuid/139613a5-3137-4ca4-92e0-37fedee8f2b8/cover?territory=IT&md5ChecksumParam=79c835ab7f2b7997676e384c2946bba4",
-      "start_time": "2026-02-01 20:55:00",
-      "end_time": "2026-02-01 23:15:00",
-      "episode_number": "S2025 E14",
-      "show_category": "Sport",
-      "show_description": "Dallo stadio Hameau di Pau, in Aquitania, Francia."
-    },
-    {
-      "show_name": "Finale: Denmark - Germany",
-      "show_logo": "https://guidatv.sky.it/uuid/231d888a-8574-490a-8f01-fc3ee5f9282c/COVER_TITLE_TALL?territory=IT&version=253dcfb2-a213-3b70-903a-8c7205b7238a&w=600&h=800&md5ChecksumParam=e35d40be07d49b422a2d8b034fb19c4a",
-      "start_time": "2026-02-01 23:15:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Dalla Jyske Bank Boxen di Herning, Danimarca."
     }
   ]
 }

@@ -1,30 +1,48 @@
 {
   "channel_name": "Italia 1",
-  "date": "2026-02-02",
+  "date": "2026-02-03",
   "programs": [
     {
-      "show_name": "Le Iene",
+      "show_name": "Law & Order: I Due Volti Della Giustizia",
       "show_logo": "",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 01:14:00",
-      "episode_number": "",
-      "show_category": "Varietà",
-      "show_description": "Veronica Gentili conduce con Max Angioni il programma cult di attualita' con nuove interviste dissacranti ed inchieste di cronaca degli inviati."
+      "start_time": "2026-02-03 00:00:00",
+      "end_time": "2026-02-03 00:02:00",
+      "episode_number": "S22 E6",
+      "show_category": "Azione",
+      "show_description": "Quando uno stilista viene assassinato la notte dell'apertura della sua boutique, Cosgrove e Shaw devono rintracciare il sospettato con poche prove e senza testimoni."
     },
     {
-      "show_name": "Paura E Delirio A Las Vegas",
+      "show_name": "Sport Mediaset Monday Night",
       "show_logo": "",
-      "start_time": "2026-02-02 01:14:00",
-      "end_time": "2026-02-02 03:20:00",
+      "start_time": "2026-02-03 00:02:00",
+      "end_time": "2026-02-03 00:35:00",
       "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "California, 1971. Un giornalista e un avvocato, Duke e Gonzo, in un viaggio folle e psichedelico verso Las Vegas. Regia di T. Gilliam; USA 1998."
+      "show_category": "Calcio",
+      "show_description": "Tutte le notizie sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset. Conduce Benedetta Radaelli."
+    },
+    {
+      "show_name": "E Planet",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314224501000501/media/29/93/e73019ed-1a11-48db-b88d-8444833d5c44/366bb03f-4831-4a31-bc0a-86b36f51731a.jpg",
+      "start_time": "2026-02-03 00:35:00",
+      "end_time": "2026-02-03 01:03:00",
+      "episode_number": "S1 E5",
+      "show_category": "Magazine",
+      "show_description": "Appuntamento con il Magazine Green all'insegna della sostenibilità."
+    },
+    {
+      "show_name": "Drive Up Winter Edition",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313764003000401/media/16/80/e7b349ea-06cd-4a0d-a537-ee61f5e2d3a8/3e13035b-a092-4a83-bc97-5f9deef8d720.jpg",
+      "start_time": "2026-02-03 01:03:00",
+      "end_time": "2026-02-03 01:36:00",
+      "episode_number": "",
+      "show_category": "Magazine",
+      "show_description": "Magazine di motori che ci guida tra supercar e auto da sogno, approfondimenti sui modelli più recenti e anticipazioni sulle novità più interessanti."
     },
     {
       "show_name": "Ciak Speciale",
       "show_logo": "",
-      "start_time": "2026-02-02 03:20:00",
-      "end_time": "2026-02-02 03:23:00",
+      "start_time": "2026-02-03 01:36:00",
+      "end_time": "2026-02-03 01:40:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Rubrica cinematografica sulle ultime novita' in sala."
@@ -32,134 +50,152 @@
     {
       "show_name": "Studio Aperto La Giornata",
       "show_logo": "",
-      "start_time": "2026-02-02 03:23:00",
-      "end_time": "2026-02-02 03:36:00",
+      "start_time": "2026-02-03 01:40:00",
+      "end_time": "2026-02-03 01:57:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "I principali fatti e notizie della giornata a cura della redazione giornalistica di Studio Aperto."
     },
     {
-      "show_name": "Sport Mediaset La Giornata",
-      "show_logo": "",
-      "start_time": "2026-02-02 03:36:00",
-      "end_time": "2026-02-02 03:56:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Le principali notizie sportive della giornata a cura della redazione giornalistica di Sport Mediaset."
-    },
-    {
       "show_name": "Camera Cafe'",
       "show_logo": "",
-      "start_time": "2026-02-02 03:56:00",
-      "end_time": "2026-02-02 04:02:00",
-      "episode_number": "S6 E98",
+      "start_time": "2026-02-03 01:57:00",
+      "end_time": "2026-02-03 02:03:00",
+      "episode_number": "S6 E58",
       "show_category": "Sit-Com",
       "show_description": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu."
     },
     {
       "show_name": "Camera Cafe'",
       "show_logo": "",
-      "start_time": "2026-02-02 04:02:00",
-      "end_time": "2026-02-02 04:06:00",
-      "episode_number": "S6 E100",
+      "start_time": "2026-02-03 02:03:00",
+      "end_time": "2026-02-03 02:09:00",
+      "episode_number": "S6 E59",
       "show_category": "Sit-Com",
       "show_description": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu."
     },
     {
-      "show_name": "Grown Ish",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312469601000103/media/27/91/3907338f-409f-4300-96d5-71fd9984be93/d71af4ba-372f-456c-beb7-761c1e258edc.jpg",
-      "start_time": "2026-02-02 04:06:00",
-      "end_time": "2026-02-02 04:26:00",
-      "episode_number": "S6 E1",
-      "show_category": "Commedia",
-      "show_description": "La troupe partecipa a un festival musicale prima di separarsi per l'estate. Dopo un pranzo con il padre, Andre soffre di \"paralisi da analisi\" riguardo alla scelta del corso di studi, alla sua relazione con Annika e ai suoi progetti per l'anno scolastico imminente."
+      "show_name": "Camera Cafe'",
+      "show_logo": "",
+      "start_time": "2026-02-03 02:09:00",
+      "end_time": "2026-02-03 02:15:00",
+      "episode_number": "S6 E60",
+      "show_category": "Sit-Com",
+      "show_description": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu."
+    },
+    {
+      "show_name": "Mega Trasporti",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309322901000302/media/7/7/6fa4605d-0b30-4d4c-8d6a-60fa86c9e834/4593d059-8542-460e-989e-54929f1561c9.jpg",
+      "start_time": "2026-02-03 02:15:00",
+      "end_time": "2026-02-03 02:59:00",
+      "episode_number": "S1 E3",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "La quarta nave da crociera più grande del mondo, costruita in un hangar sulla terraferma, a 50 chilometri dal mare aperto. La \"Norwegian Joy\" deve attraversare un canale attraverso il basso e stretto fiume Ems, con solo pochi centimetri d'acqua sotto la sua chiglia."
     },
     {
       "show_name": "Unearthed La Storia Dalle Fondamenta",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312110101000104/media/22/86/7536e0d5-b5f5-43c9-a00f-38fead2ecfda/3c8ac268-b78b-434b-8da4-4ff0a24b9dbb.jpg",
-      "start_time": "2026-02-02 04:26:00",
-      "end_time": "2026-02-02 05:10:00",
-      "episode_number": "S1 E1",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312110101000204/media/22/86/7536e0d5-b5f5-43c9-a00f-38fead2ecfda/3c8ac268-b78b-434b-8da4-4ff0a24b9dbb.jpg",
+      "start_time": "2026-02-03 02:59:00",
+      "end_time": "2026-02-03 03:43:00",
+      "episode_number": "S1 E2",
       "show_category": "Storia Miti e Religioni",
-      "show_description": "Il maestoso monumento che domina Atene risale a più di 2000 anni fa; le dimensioni dei suoi templi lasciano sempre a bocca aperta."
+      "show_description": "Chichen Itza è la spettacolare città dei Maya. E' la più grande città antica al mondo, una metropoli nella giungla con un mondo sotterraneo segreto."
+    },
+    {
+      "show_name": "Unearthed La Storia Dalle Fondamenta",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312110101000304/media/22/86/7536e0d5-b5f5-43c9-a00f-38fead2ecfda/3c8ac268-b78b-434b-8da4-4ff0a24b9dbb.jpg",
+      "start_time": "2026-02-03 03:43:00",
+      "end_time": "2026-02-03 04:27:00",
+      "episode_number": "S1 E3",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Le grandi cattedrali gotiche dell'Europa sono imponenti edifici medievali dove sono custoditi segreti secolari."
+    },
+    {
+      "show_name": "Unearthed La Storia Dalle Fondamenta",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312110101000404/media/22/86/7536e0d5-b5f5-43c9-a00f-38fead2ecfda/3c8ac268-b78b-434b-8da4-4ff0a24b9dbb.jpg",
+      "start_time": "2026-02-03 04:27:00",
+      "end_time": "2026-02-03 05:11:00",
+      "episode_number": "S1 E4",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Palazzo di Westminster, Londra. Uno degli edifici più conosciuti al mondo che non rappresenta solo un palazzo, ma un gioiello dell'ingegneria."
     },
     {
       "show_name": "Stranezze Di Questo Mondo",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313147401000304/media/23/87/7e61ccf7-24d4-457f-8c49-46e929ff4bfd/77ea01b0-c6b1-43f0-b9df-1a736cb3c3a0.jpg",
-      "start_time": "2026-02-02 05:10:00",
-      "end_time": "2026-02-02 05:56:00",
-      "episode_number": "S4 E3",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313147401000404/media/23/87/7e61ccf7-24d4-457f-8c49-46e929ff4bfd/77ea01b0-c6b1-43f0-b9df-1a736cb3c3a0.jpg",
+      "start_time": "2026-02-03 05:11:00",
+      "end_time": "2026-02-03 05:56:00",
+      "episode_number": "S4 E4",
       "show_category": "Scienza e Tecnologia",
-      "show_description": "In questo episodio, una mostruosa massa di fango che emerge da una risaia allagata ci aiuta a comprendere le tragiche conseguenze dei cambiamenti climatici, una strana peluria si rivela un ammasso di aracnidi, una strada costellata di fori pieni di rocce è la testimonianza dei terribili danni delle inondazioni, una bizzarra formazione nera nel cielo spaventa gli australiani e un esploratore trova delle sfere di ghiaccio perfette sotto una cascata."
+      "show_description": "Una strana sfera azzurra attraversa il cielo di Dayton, Ohio, durante un temporale; in Arabia Saudita si assiste a una colossale cascata di sabbia che sembra non avere spiegazione; in Scozia, una porzione di suolo boschivo si stacca e sembra prendere vita; nell'Antartico viene avvistata una strana formazione di ghiaccio perfettamente rettangolare; in Cina cadono dal cielo quelli che a prima vista sembrano grossi vermi."
     },
     {
       "show_name": "Hazzard",
       "show_logo": "",
-      "start_time": "2026-02-02 05:56:00",
-      "end_time": "2026-02-02 06:43:00",
-      "episode_number": "S7 E4",
+      "start_time": "2026-02-03 05:56:00",
+      "end_time": "2026-02-03 06:43:00",
+      "episode_number": "S7 E5",
       "show_category": "",
-      "show_description": "Rosco viene licenziato e sostituito con un robot che Boss Hogg si e' procurato da due ladruncoli."
+      "show_description": "Daisy, milionesima cliente di un grande magazzino, vince numerosi premi, ma scopre che i premi sono in realta' merce rubata."
     },
     {
       "show_name": "A Team",
       "show_logo": "",
-      "start_time": "2026-02-02 06:43:00",
-      "end_time": "2026-02-02 07:48:00",
+      "start_time": "2026-02-03 06:43:00",
+      "end_time": "2026-02-03 07:40:00",
+      "episode_number": "S1 E4",
+      "show_category": "",
+      "show_description": "Mr.T, d'accordo con i suoi amici, vuole aiutare un amico d'infanzia a fuggire dal carcere dove e' detenuto. Hannibal escogita un piano."
+    },
+    {
+      "show_name": "A Team",
+      "show_logo": "",
+      "start_time": "2026-02-03 07:40:00",
+      "end_time": "2026-02-03 08:36:00",
+      "episode_number": "S1 E7",
+      "show_category": "",
+      "show_description": "Due studentesse contattano l'A-Team per la scomparsa del loro professore di matematica. L'uomo aveva escogitato un sistema per vincere al tavolo da gioco."
+    },
+    {
+      "show_name": "Chicago Fire",
+      "show_logo": "",
+      "start_time": "2026-02-03 08:36:00",
+      "end_time": "2026-02-03 09:31:00",
+      "episode_number": "S5 E14",
+      "show_category": "Drammatico",
+      "show_description": "I pompieri di Chicago dovranno affrontare molte situazioni pericolose come un salvataggio verticale e l'incendio di un hotel."
+    },
+    {
+      "show_name": "Chicago Fire",
+      "show_logo": "",
+      "start_time": "2026-02-03 09:31:00",
+      "end_time": "2026-02-03 10:29:00",
+      "episode_number": "S5 E15",
+      "show_category": "Drammatico",
+      "show_description": "Un improvviso incendio, sviluppatosi nella notte, si trasforma in una vera e propria strage. Le vittime si contano a decine."
+    },
+    {
+      "show_name": "Chicago P.d.",
+      "show_logo": "",
+      "start_time": "2026-02-03 10:29:00",
+      "end_time": "2026-02-03 11:27:00",
+      "episode_number": "S4 E16",
+      "show_category": "Crime",
+      "show_description": "Le condizioni di Lexi, la figlia di Olinsky, si aggravano. La ragazza era nel deposito che ospitava giovani artisti colpito da un incendio e costato la vita a molti ragazzi."
+    },
+    {
+      "show_name": "Chicago Justice",
+      "show_logo": "",
+      "start_time": "2026-02-03 11:27:00",
+      "end_time": "2026-02-03 12:25:00",
       "episode_number": "S1 E1",
-      "show_category": "",
-      "show_description": "Quattro veterani del Vietnam, ingiustamente accusati di un delitto mai commesso, si ritrovano anni dopo negli Stati Uniti e formano l'A-Team."
-    },
-    {
-      "show_name": "A Team",
-      "show_logo": "",
-      "start_time": "2026-02-02 07:48:00",
-      "end_time": "2026-02-02 08:37:00",
-      "episode_number": "S1 E2",
-      "show_category": "",
-      "show_description": "La giornalista Amy Amanda Allen incarica l'A-Team di ritrovare Al Massey, un suo amico e collega scomparso in Messico e si unisce al gruppo."
-    },
-    {
-      "show_name": "Chicago Fire",
-      "show_logo": "",
-      "start_time": "2026-02-02 08:37:00",
-      "end_time": "2026-02-02 09:31:00",
-      "episode_number": "S5 E12",
-      "show_category": "Drammatico",
-      "show_description": "Durante un intervento in un palazzo in fiamme, Casey viene minacciato con una pistola da un uomo che vorrebbe essere soccorso per primo."
-    },
-    {
-      "show_name": "Chicago Fire",
-      "show_logo": "",
-      "start_time": "2026-02-02 09:31:00",
-      "end_time": "2026-02-02 10:27:00",
-      "episode_number": "S5 E13",
-      "show_category": "Drammatico",
-      "show_description": "Durante un'operazione di soccorso gestita dal Vice Comandante del Distretto Anderson, a causa di una sua negligenza, alcuni vigili del fuoco rischiano la vita."
-    },
-    {
-      "show_name": "Chicago P.d.",
-      "show_logo": "",
-      "start_time": "2026-02-02 10:27:00",
-      "end_time": "2026-02-02 11:25:00",
-      "episode_number": "S4 E14",
       "show_category": "Crime",
-      "show_description": "In una casa in fiamme viene ritrovato il corpo di un uomo che sembra appartenere a un certo Billy Johns. Dopo varie ricerche l'Intelligence scopre che non e' cosi'."
-    },
-    {
-      "show_name": "Chicago P.d.",
-      "show_logo": "",
-      "start_time": "2026-02-02 11:25:00",
-      "end_time": "2026-02-02 12:25:00",
-      "episode_number": "S4 E15",
-      "show_category": "Crime",
-      "show_description": "Ruzek ritorna da Voight al termine della missione sotto copertura, ma Voight lo manda di pattuglia."
+      "show_description": "Ha inizio il processo a Dylan Oates, il sospettato dell'incendio avvenuto nella ex Fabbrica Kimball in cui hanno perso la vita trentanove ragazzi. Dawson e Nagel indagano."
     },
     {
       "show_name": "Studio Aperto",
       "show_logo": "",
-      "start_time": "2026-02-02 12:25:00",
-      "end_time": "2026-02-02 13:05:00",
+      "start_time": "2026-02-03 12:25:00",
+      "end_time": "2026-02-03 13:04:00",
       "episode_number": "",
       "show_category": "Telegiornale",
       "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
@@ -167,8 +203,8 @@
     {
       "show_name": "Sport Mediaset",
       "show_logo": "",
-      "start_time": "2026-02-02 13:05:00",
-      "end_time": "2026-02-02 13:58:00",
+      "start_time": "2026-02-03 13:04:00",
+      "end_time": "2026-02-03 13:58:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Approfondimento quotidiano in diretta sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset."
@@ -176,62 +212,62 @@
     {
       "show_name": "Sport Mediaset Extra",
       "show_logo": "",
-      "start_time": "2026-02-02 13:58:00",
-      "end_time": "2026-02-02 14:12:00",
+      "start_time": "2026-02-03 13:58:00",
+      "end_time": "2026-02-03 14:12:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Approfondimento quotidiano in diretta dedicato al mondo dei motori a cura della redazione giornalistica di Sport Mediaset."
     },
     {
       "show_name": "I Simpson",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309916601002104/media/5/5/e30724fd-a2b3-44ee-940f-41af32101012/e9320dbe-45c3-4d7a-9acf-0c4e62c90d43.jpg",
-      "start_time": "2026-02-02 14:12:00",
-      "end_time": "2026-02-02 14:39:00",
-      "episode_number": "S31 E21",
+      "show_logo": "",
+      "start_time": "2026-02-03 14:12:00",
+      "end_time": "2026-02-03 14:39:00",
+      "episode_number": "S27 E1",
       "show_category": "Sit-Com",
-      "show_description": "Lisa viene invitata alla festa della sua amica Addy, dove però trova delle bambine perfide che la escludono e la trattano male."
+      "show_description": "Homer scopre di essere narcolettico: deve prendere delle medicine e in farmacia incontra una bella donna, Candace."
     },
     {
       "show_name": "Ncis: Los Angeles",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F306701202001202/media/19/83/e860188e-9acb-4e7e-a19b-90481917084b/d2dc539a-c091-4468-be57-7cc6033d04f2.jpg",
-      "start_time": "2026-02-02 14:39:00",
-      "end_time": "2026-02-02 15:35:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F306701202001302/media/19/83/e860188e-9acb-4e7e-a19b-90481917084b/d2dc539a-c091-4468-be57-7cc6033d04f2.jpg",
+      "start_time": "2026-02-03 14:39:00",
+      "end_time": "2026-02-03 15:35:00",
       "episode_number": "",
       "show_category": "Crime",
-      "show_description": "La squadra indaga sulla morte di un soldato afgano portato in America per la formazione DEA."
+      "show_description": "Un test missilistico della Marina viene dirottato e utilizzato per distruggere una barca. La squadra dovrà garantire che altri sistemi d'arma non siano stati compromessi."
     },
     {
       "show_name": "Ncis: Los Angeles",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F306701201001802/media/19/83/e860188e-9acb-4e7e-a19b-90481917084b/d2dc539a-c091-4468-be57-7cc6033d04f2.jpg",
-      "start_time": "2026-02-02 15:35:00",
-      "end_time": "2026-02-02 16:32:00",
-      "episode_number": "S6 E18",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F306701202001402/media/19/83/e860188e-9acb-4e7e-a19b-90481917084b/d2dc539a-c091-4468-be57-7cc6033d04f2.jpg",
+      "start_time": "2026-02-03 15:35:00",
+      "end_time": "2026-02-03 16:30:00",
+      "episode_number": "",
       "show_category": "Crime",
-      "show_description": "Dopo un'operazione di successo, tre agenti dell'FBI vengono uccisi in un'esplosione improvvisa, e un agente inizia ad indagare. Durante il caso, Hetty \"scambia\" le coppie, mettendo Kensi con Sam e Deeks con Callen; ciò servirà a far capire a Kensi e Deeks che il resto della squadra è a conoscenza del fatto che loro due si stanno frequentando. Dopo indagini, vengono a sapere che gli agenti sono stati uccisi da una bomba nascosta e che l'attacco non è l'unico. Alla fine dell'episodio, Hetty rivela ai due di averli separati perché gli Affari Interni del LAPD hanno aperto un'indagine su Deeks e potrebbero usare il loro legame contro di loro."
+      "show_description": "Callen è tornato dal suo incarico sotto copertura e ben presto si ritrova nel bel mezzo di una rapina in banca."
     },
     {
       "show_name": "Lethal Weapon",
       "show_logo": "",
-      "start_time": "2026-02-02 16:32:00",
-      "end_time": "2026-02-02 17:25:00",
-      "episode_number": "S2 E4",
+      "start_time": "2026-02-03 16:30:00",
+      "end_time": "2026-02-03 17:24:00",
+      "episode_number": "S2 E6",
       "show_category": "Azione",
-      "show_description": "Riggs e Murtaugh indagano sull'omicidio di un uomo avvenuto durante una spettacolare rapina a bordo di un aereo."
+      "show_description": "Murtaugh e Riggs indagano sull'omicidio di un ladro, trovato morto in una casa dove sono stati rubati dei lingotti d'oro. Gli indizi sembrano accusare un amico di Riggs."
     },
     {
       "show_name": "Lethal Weapon",
       "show_logo": "",
-      "start_time": "2026-02-02 17:25:00",
-      "end_time": "2026-02-02 18:21:00",
-      "episode_number": "S2 E5",
+      "start_time": "2026-02-03 17:24:00",
+      "end_time": "2026-02-03 18:19:00",
+      "episode_number": "S2 E7",
       "show_category": "Azione",
-      "show_description": "Un amico dell'avvocato Leo Getz viene ucciso durante una corsa di cavalli. I sospetti cadono su un usuraio a cui la vittima doveva dei soldi."
+      "show_description": "Murtaugh e Riggs indagano sulla morte di un surfista e i sospetti si concentrano su un ricco signore e su suo figlio."
     },
     {
       "show_name": "Studio Aperto Live",
       "show_logo": "",
-      "start_time": "2026-02-02 18:21:00",
-      "end_time": "2026-02-02 18:30:00",
+      "start_time": "2026-02-03 18:19:00",
+      "end_time": "2026-02-03 18:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
@@ -239,8 +275,8 @@
     {
       "show_name": "Studio Aperto",
       "show_logo": "",
-      "start_time": "2026-02-02 18:30:00",
-      "end_time": "2026-02-02 18:56:00",
+      "start_time": "2026-02-03 18:30:00",
+      "end_time": "2026-02-03 18:57:00",
       "episode_number": "",
       "show_category": "Telegiornale",
       "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
@@ -248,47 +284,38 @@
     {
       "show_name": "Studio Aperto Mag",
       "show_logo": "",
-      "start_time": "2026-02-02 18:56:00",
-      "end_time": "2026-02-02 19:32:00",
+      "start_time": "2026-02-03 18:57:00",
+      "end_time": "2026-02-03 19:23:00",
       "episode_number": "",
       "show_category": "Magazine",
       "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
     },
     {
       "show_name": "C.s.i. Scena Del Crimine",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011553101000502/media/29/93/33f0279a-be84-44c0-b874-62bcb5beb69d/ed1ea996-ba75-459e-a775-c60a0a643eee.jpg",
-      "start_time": "2026-02-02 19:32:00",
-      "end_time": "2026-02-02 20:34:00",
-      "episode_number": "S3 E5",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011553101000702/media/29/93/33f0279a-be84-44c0-b874-62bcb5beb69d/ed1ea996-ba75-459e-a775-c60a0a643eee.jpg",
+      "start_time": "2026-02-03 19:23:00",
+      "end_time": "2026-02-03 20:25:00",
+      "episode_number": "S3 E7",
       "show_category": "Crime",
-      "show_description": "Quando Catherine (Marg Helgenberger) era una recluta, riusci' a trovare prove sufficienti a far arrestare e condannare a morte un serial killer, John Mathers (Victor Bevine), colpevole di aver ucciso tre studentesse universitarie. Ora che sono trascorsi diversi anni, l'avvocato della difesa vuole riesaminare le prove grazie all'esame del DNA che a quei tempi ancora non esisteva. Catherine, costretta cosi' a rivedere il caso, si domanda se l'uomo sia davvero colpevole o se la sentenza di condanna a morte rischi di uccidere un innocente. Intanto Grissom (William Petersen) e il resto della sua squadra investigano sulla scomparsa di una ragazza che viveva con il padre alcolizzato. Quando i detective giungono sul posto, Mitch Reston (Wade Williams), il padre, non e' in grado di raccontare cosa sia accaduto realmente e per quale motivo indossi una maglietta sporca di sangue. Ma quando il corpo della giovane viene ritrovato nel campus dell'universita' di Las Vegas e le modali.."
+      "show_description": "Ci troviamo su un ring, per l'incontro di pesi medi Steele-Molina, soprannominato la Vendetta nel Deserto e che sta appassionando i cittadini di Las Vegas. Solo uno dei due avversari pero' uscira' vivo dall'incontro, infatti Leroi Steele rimane inspiegabilmente a terra privo di vita. Viene chiamata sul posto la CSI. Grissom (William Petersen) scopre che la vittima, che precedentemente aveva vinto ben 19 incontri, era data per favorita dagli scommettitori clandestini e che forse qualcuno aveva interesse ad eliminare il campione. Intanto nel parcheggio di un hotel, Catherine (Marg Helgenberger) sta lavorando ad un caso di omicidio in cui e' vittima un componente di una gang di Los Angeles, apparentemente ucciso da una banda rivale. Catherine rinviene sul luogo tre diverse rivoltelle, ma le pallottole all'interno del cadavere non appartengono a nessuna delle tre armi. Nick (George Eads) invece viene incaricato di condurre delle indagini su una rapina all'interno di una gioielleri.."
     },
     {
-      "show_name": "Ncis Unita' Anticrimine",
+      "show_name": "N.c.i.s. Unita' Anticrimine",
       "show_logo": "",
-      "start_time": "2026-02-02 20:34:00",
-      "end_time": "2026-02-02 21:25:00",
-      "episode_number": "S2 E20",
+      "start_time": "2026-02-03 20:25:00",
+      "end_time": "2026-02-03 21:15:00",
+      "episode_number": "S2 E21",
       "show_category": "Crime",
-      "show_description": "Un aspirante marine viene trovato morto nel campus del college, con il collo spezzato tramite una torsione."
+      "show_description": "In magazzino in affitto vengono trovati i resti dello scheletro di una ragazza scomparsa. L'affittuario e' un ufficiale caduto in Iraq, a suo tempo sospettato del delitto."
     },
     {
-      "show_name": "Taken La Vendetta",
-      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F304955701000102/media/31/95/385121ef-c501-48d9-a19d-ca44466cd521/be07b119-c8ec-4853-a9ce-cedd45d9ba6e.jpg",
-      "start_time": "2026-02-02 21:25:00",
-      "end_time": "2026-02-02 23:17:00",
+      "show_name": "Le Iene Presentano: Il Verdetto",
+      "show_logo": "",
+      "start_time": "2026-02-03 21:15:00",
+      "end_time": "2026-02-04 01:00:00",
       "episode_number": "",
-      "show_category": "Azione",
-      "show_description": "Per Bryan Mills, ex uomo della CIA, quella che doveva essere una rilassante vacanza a Istanbul in compagnia della moglie e della figlia, si trasforma in un'estenuante lotta per salvare la propria famiglia. Infatti alcuni criminali vogliono vendetta per il sangue sparso da Mills in passato. Rapiscono la moglie Lenore e anche la figlia è in pericolo di vita. Tra inseguimenti, scontri e spargimento di sangue, la furia di Mills non terminerà fino a quando non riavrà le sue donne. Sequel di \"Io vi troverò\"."
-    },
-    {
-      "show_name": "Law & Order: I Due Volti Della Giustizia",
-      "show_logo": "",
-      "start_time": "2026-02-02 23:17:00",
-      "end_time": "2026-02-03 00:02:00",
-      "episode_number": "S22 E6",
-      "show_category": "Azione",
-      "show_description": "Quando uno stilista viene assassinato la notte dell'apertura della sua boutique, Cosgrove e Shaw devono rintracciare il sospettato con poche prove e senza testimoni."
+      "show_category": "",
+      "show_description": "Le Iene presentano: Il verdetto."
     }
   ]
 }

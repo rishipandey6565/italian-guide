@@ -1,132 +1,78 @@
 {
   "channel_name": "Solocalcio",
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "programs": [
     {
-      "show_name": "Campionato Saudita Neom-Ahli",
-      "show_logo": "",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 01:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Dall'Arabia Saudita partita valida per la 18° giornata della Saudi Pro League, si sfidano Neom e Ahli."
-    },
-    {
-      "show_name": "Campionato Argentino Velez-Talleres",
-      "show_logo": "",
-      "start_time": "2026-02-01 05:00:00",
-      "end_time": "2026-02-01 07:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Dall'Argentina partita valida per la seconda giornata della Liga Professional argentina, si sfidano Velez e Talleres."
-    },
-    {
-      "show_name": "Campionato Saudita Al Qadsiah-Al Hilal",
-      "show_logo": "",
-      "start_time": "2026-02-01 07:00:00",
-      "end_time": "2026-02-01 08:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Dall'Arabia Saudita partita valida per la 19° giornata della Saudi Pro League, si sfidano Al Qadsiah e l'Al Hilal guidato da Simone Inzaghi."
-    },
-    {
-      "show_name": "Manchester City-Wolves",
-      "show_logo": "",
-      "start_time": "2026-02-01 08:30:00",
-      "end_time": "2026-02-01 10:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Dall'Ethiad Stadium di Manchester partita valida per la ventitresima giornata della Premier League, si sfidano il City guidato da Pep Guardiola e i sempre temibili Wolves."
-    },
-    {
-      "show_name": "Si Live 24",
-      "show_logo": "",
-      "start_time": "2026-02-01 10:00:00",
-      "end_time": "2026-02-01 10:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Linformazione di Sportitalia sempre aggiornata. Servizi, approfondimenti e interviste su tutti gli sport. Notizie e rassegna stampa dalla news room di Si Liver 24."
-    },
-    {
-      "show_name": "Si Live 24",
-      "show_logo": "",
-      "start_time": "2026-02-01 10:30:00",
-      "end_time": "2026-02-01 11:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Linformazione di Sportitalia sempre aggiornata. Servizi, approfondimenti e interviste su tutti gli sport. Notizie e rassegna stampa dalla news room di Si Liver 24."
-    },
-    {
       "show_name": "Campionato Argentino River Plate-Gimnasia",
       "show_logo": "",
-      "start_time": "2026-02-01 11:00:00",
-      "end_time": "2026-02-01 13:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Dallo Stadio Monumental di Buenos Aires partita valida per la seconda giornata della Liga Professional argentina, si sfidano River Plate e Gimnasia."
-    },
-    {
-      "show_name": "Campionato Saudita Al Ahli-Al Ettifaq",
-      "show_logo": "",
-      "start_time": "2026-02-01 13:00:00",
-      "end_time": "2026-02-01 14:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Dall'Arabia Saudita partita valida per la 19° giornata della Saudi Pro League, si sfidano Al Ahli e Al Ettifaq."
-    },
-    {
-      "show_name": "Manchester City-Galatasaray",
-      "show_logo": "",
-      "start_time": "2026-02-01 14:30:00",
-      "end_time": "2026-02-01 16:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Dall'Ethiad Stadium di Manchester partita valida per l'ottava giornata della Champions League si sfidano il Manchester City guidato da Pep Guardiola e i turchi del Galatasaray."
-    },
-    {
-      "show_name": "Campionato Argentino Independiente-Velez Sarfield",
-      "show_logo": "",
-      "start_time": "2026-02-01 16:30:00",
-      "end_time": "2026-02-01 18:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Dall'Argentina partita valida per la 3° giornata del Torneo Apertura 2026, si sfidano Independiente e Velz Sarfield."
-    },
-    {
-      "show_name": "Campionato Saudita Al Itthiad-Al Najma (diretta)",
-      "show_logo": "",
-      "start_time": "2026-02-01 18:30:00",
-      "end_time": "2026-02-01 20:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "in diretta dall'Arabia Saudita partita valida per la 20° giornata della Saudi Pro League, si sfidano Al Itthiad e l'Al Najma."
-    },
-    {
-      "show_name": "Inside City",
-      "show_logo": "",
-      "start_time": "2026-02-01 20:30:00",
-      "end_time": "2026-02-01 21:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Il Magazine ufficiale del Manchester City FC."
-    },
-    {
-      "show_name": "Campionato Saudita Al Kholood-Al Nassr",
-      "show_logo": "",
-      "start_time": "2026-02-01 21:00:00",
-      "end_time": "2026-02-01 23:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Dall'Arabia Saudita partita valida per la 19° giornata della Saudi Pro League, si sfidano Al Kholood e l'Al Nassr guidato da Cristiano Ronaldo."
-    },
-    {
-      "show_name": "Campionato Argentino River Plate-Gimnasia",
-      "show_logo": "",
-      "start_time": "2026-02-01 23:00:00",
+      "start_time": "2026-02-02 00:00:00",
       "end_time": "2026-02-02 00:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Dallo Stadio Monumental di Buenos Aires partita valida per la seconda giornata della Liga Professional argentina, si sfidano River Plate e Gimnasia."
+    },
+    {
+      "show_name": "Si Live 24",
+      "show_logo": "",
+      "start_time": "2026-02-02 00:30:00",
+      "end_time": "2026-02-02 01:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Linformazione di Sportitalia sempre aggiornata. Servizi, approfondimenti e interviste su tutti gli sport. Notizie e rassegna stampa dalla news room di Si Liver 24."
+    },
+    {
+      "show_name": "Si Live 24",
+      "show_logo": "",
+      "start_time": "2026-02-02 01:00:00",
+      "end_time": "2026-02-02 01:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Linformazione di Sportitalia sempre aggiornata. Servizi, approfondimenti e interviste su tutti gli sport. Notizie e rassegna stampa dalla news room di Si Liver 24."
+    },
+    {
+      "show_name": "Si Live 24",
+      "show_logo": "",
+      "start_time": "2026-02-02 01:30:00",
+      "end_time": "2026-02-02 02:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Linformazione di Sportitalia sempre aggiornata. Servizi, approfondimenti e interviste su tutti gli sport. Notizie e rassegna stampa dalla news room di Si Liver 24."
+    },
+    {
+      "show_name": "Si Live 24",
+      "show_logo": "",
+      "start_time": "2026-02-02 02:00:00",
+      "end_time": "2026-02-02 02:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Linformazione di Sportitalia sempre aggiornata. Servizi, approfondimenti e interviste su tutti gli sport. Notizie e rassegna stampa dalla news room di Si Liver 24."
+    },
+    {
+      "show_name": "Si Live 24",
+      "show_logo": "",
+      "start_time": "2026-02-02 02:30:00",
+      "end_time": "2026-02-02 03:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Linformazione di Sportitalia sempre aggiornata. Servizi, approfondimenti e interviste su tutti gli sport. Notizie e rassegna stampa dalla news room di Si Liver 24."
+    },
+    {
+      "show_name": "Manchester Utd-Manchester City",
+      "show_logo": "",
+      "start_time": "2026-02-02 03:00:00",
+      "end_time": "2026-02-02 05:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Dall'Old Trafford di Manchester partita valida per la ventiduesima giornata della Premier League, nell'attesissimo Derby di Manchester si sfidano il City guidato da Pep Guardiola e lo United."
+    },
+    {
+      "show_name": "Campionato Argentino Rosario Central-River Plate",
+      "show_logo": "",
+      "start_time": "2026-02-02 05:00:00",
+      "end_time": "2026-02-03 00:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Dall'Argentina partita valida per la 3° giornata del Torneo Apertura 2026, si sfidano Rosario Central e River Plate."
     }
   ]
 }
