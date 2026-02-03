@@ -1,0 +1,61 @@
+name: Deploy Schedule & Images
+
+on:
+  push:
+    branches:
+      - main
+    # Optional: Only run if these folders change to save resources
+    paths:
+      - 'schedule/**'
+      - 'downloaded-images/**'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Compress Directories
+        run: |
+          # Compress 'schedule' folder to schedule.tar.gz
+          # The archive will contain the directory structure "schedule/..."
+          tar -czf schedule.tar.gz schedule
+
+          # Compress 'downloaded-images' folder to downloaded-images.tar.gz
+          tar -czf downloaded-images.tar.gz downloaded-images
+
+      - name: Upload Files via SCP
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          # Uploads the compressed files created in the previous step
+          source: "schedule.tar.gz,downloaded-images.tar.gz"
+          target: "/home/tv-programmait/htdocs/tv-programma.it/wp-content/uploads/"
+
+      - name: Extract and Cleanup via SSH
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          script: |
+            # Navigate to the uploads directory
+            cd /home/tv-programmait/htdocs/tv-programma.it/wp-content/uploads/
+
+            # 1. Unzip Schedule
+            # Because we tarred the folder, this extracts as ./schedule/file.json
+            tar -xzf schedule.tar.gz
+            
+            # 2. Unzip Images
+            # This extracts as ./downloaded-images/file.jpg
+            tar -xzf downloaded-images.tar.gz
+            
+            # 3. Cleanup
+            # Delete the compressed files to save space
+            rm schedule.tar.gz downloaded-images.tar.gz
+            
+            # Optional: Fix permissions if needed (uncomment if you have permission issues)
+            # chown -R ${{ secrets.USERNAME }}:${{ secrets.USERNAME }} schedule downloaded-images
