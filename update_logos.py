@@ -26,7 +26,7 @@ from PIL import Image, UnidentifiedImageError
 # -----------------------
 DEFAULT_SCHEDULES_DIR = "schedule"  # Updated from "schedules"
 DEFAULT_OUT_DIR = "downloaded-images"
-DEFAULT_BASE_URL = "https://tvscheduletonight.com/wp-content/uploads"
+DEFAULT_BASE_URL = "https://tv-programma.it/wp-content/uploads"
 FALLBACK_LOGO_URL = "https://tv-programma.it/wp-content/uploads/2026/02/tv-programma-logo.webp"
 
 DEFAULT_WORKERS = 32
