@@ -1,10 +1,13 @@
 name: Deploy Schedule & Images
 
 on:
+  # This enables the manual "Run workflow" button in the Actions tab
+  workflow_dispatch:
+  
+  # Keep this if you also want it to run automatically when you push code
   push:
     branches:
       - main
-    # Optional: Only run if these folders change to save resources
     paths:
       - 'schedule/**'
       - 'downloaded-images/**'
@@ -18,12 +21,18 @@ jobs:
 
       - name: Compress Directories
         run: |
-          # Compress 'schedule' folder to schedule.tar.gz
-          # The archive will contain the directory structure "schedule/..."
-          tar -czf schedule.tar.gz schedule
+          # Check if directories exist before compressing to avoid errors
+          if [ -d "schedule" ]; then
+            tar -czf schedule.tar.gz schedule
+          else
+            echo "schedule folder not found, skipping..."
+          fi
 
-          # Compress 'downloaded-images' folder to downloaded-images.tar.gz
-          tar -czf downloaded-images.tar.gz downloaded-images
+          if [ -d "downloaded-images" ]; then
+            tar -czf downloaded-images.tar.gz downloaded-images
+          else
+            echo "downloaded-images folder not found, skipping..."
+          fi
 
       - name: Upload Files via SCP
         uses: appleboy/scp-action@master
@@ -31,8 +40,8 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
-          # Uploads the compressed files created in the previous step
-          source: "schedule.tar.gz,downloaded-images.tar.gz"
+          # We use a wildcard *.tar.gz so it uploads whatever was created
+          source: "*.tar.gz"
           target: "/home/tv-programmait/htdocs/tv-programma.it/wp-content/uploads/"
 
       - name: Extract and Cleanup via SSH
@@ -42,20 +51,15 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           script: |
-            # Navigate to the uploads directory
             cd /home/tv-programmait/htdocs/tv-programma.it/wp-content/uploads/
 
-            # 1. Unzip Schedule
-            # Because we tarred the folder, this extracts as ./schedule/file.json
-            tar -xzf schedule.tar.gz
-            
-            # 2. Unzip Images
-            # This extracts as ./downloaded-images/file.jpg
-            tar -xzf downloaded-images.tar.gz
-            
-            # 3. Cleanup
-            # Delete the compressed files to save space
-            rm schedule.tar.gz downloaded-images.tar.gz
-            
-            # Optional: Fix permissions if needed (uncomment if you have permission issues)
-            # chown -R ${{ secrets.USERNAME }}:${{ secrets.USERNAME }} schedule downloaded-images
+            # Extract if the file exists
+            if [ -f schedule.tar.gz ]; then
+              tar -xzf schedule.tar.gz
+              rm schedule.tar.gz
+            fi
+
+            if [ -f downloaded-images.tar.gz ]; then
+              tar -xzf downloaded-images.tar.gz
+              rm downloaded-images.tar.gz
+            fi
