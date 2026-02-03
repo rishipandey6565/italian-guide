@@ -1,282 +1,219 @@
 {
   "channel_name": "Fox Business",
-  "date": "2026-02-02",
+  "date": "2026-02-03",
   "programs": [
     {
-      "show_name": "Ace In The Hole",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/ace-in-the-hole.webp",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:00:00",
+      "show_name": "The Evening Edit",
+      "show_logo": "https://guidatv.sky.it/uuid/cfc26129-0a07-44bd-ba6f-e8b9f2e0e4af/cover?territory=IT&md5ChecksumParam=7b5de4d48bb00c75f1f899235e33ed79",
+      "start_time": "2026-02-03 00:00:00",
+      "end_time": "2026-02-03 00:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Liz McDonald interviews the Industries experts."
+    },
+    {
+      "show_name": "The Bottom Line",
+      "show_logo": "https://guidatv.sky.it/uuid/1f44acd9-838a-4dde-ae6b-a78c3a540427/cover?territory=IT&md5ChecksumParam=a407cf79cd9b62d10c4af9399c4adcb7",
+      "start_time": "2026-02-03 00:00:00",
+      "end_time": "2026-02-03 01:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "A debate on issues in the business and political world with unique perspectives."
+    },
+    {
+      "show_name": "Kudlow",
+      "show_logo": "https://guidatv.sky.it/uuid/b1c18a3e-8959-42f1-b27f-656b52fbb9a2/cover?territory=IT&md5ChecksumParam=4eb3d2ed8b6e40b6322b123a2b5e64c2",
+      "start_time": "2026-02-03 01:00:00",
+      "end_time": "2026-02-03 02:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Former National Economic Council Director gives market analysis and interviews."
+    },
+    {
+      "show_name": "John Adams - Ready for War",
+      "show_logo": "https://guidatv.sky.it/uuid/d9a32e28-f542-4fdc-8b23-8d8ac678f2f2/cover?territory=IT&md5ChecksumParam=7bc0f31846b328034c2a348dcdffd155",
+      "start_time": "2026-02-03 02:00:00",
+      "end_time": "2026-02-03 03:00:00",
       "episode_number": "S1 E0",
       "show_category": "Informazione",
-      "show_description": "Ace In The Hole - We follow the Dale brothers as they mine for gold in Montana, in the mountain valley of Bear Gulch."
+      "show_description": "John Adams - Ready for War - An analysis on some of the notable figures in the history of the United States."
     },
     {
-      "show_name": "Cops - Stag. 1 - You Didn't Get Very Far",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-you-didn-t-get-very-far.webp",
-      "start_time": "2026-02-02 00:00:00",
-      "end_time": "2026-02-02 00:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "You Didn't Get Very Far - Follow inspiring stories."
-    },
-    {
-      "show_name": "Cops - Stag. 1 - Not My Text Messages",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-not-my-text-messages.webp",
-      "start_time": "2026-02-02 00:30:00",
-      "end_time": "2026-02-02 01:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Not My Text Messages - Follow inspiring stories."
-    },
-    {
-      "show_name": "Cops - Stag. 1 - Hands Off The Junk",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-hands-off-the-junk.webp",
-      "start_time": "2026-02-02 01:00:00",
-      "end_time": "2026-02-02 01:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Hands Off The Junk - Follow inspiring stories."
-    },
-    {
-      "show_name": "Cops - Stag. 1 - Dealt A Bad Hand",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-dealt-a-bad-hand.webp",
-      "start_time": "2026-02-02 01:30:00",
-      "end_time": "2026-02-02 02:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Dealt A Bad Hand - Follow inspiring stories."
-    },
-    {
-      "show_name": "Cops - Stag. 1 - Batter Up",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-batter-up.webp",
-      "start_time": "2026-02-02 02:00:00",
-      "end_time": "2026-02-02 02:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Batter Up - Follow inspiring stories."
-    },
-    {
-      "show_name": "Cops - Stag. 1 - Mohawked Cleaning Service",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-mohawked-cleaning-service.webp",
-      "start_time": "2026-02-02 02:30:00",
-      "end_time": "2026-02-02 03:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Mohawked Cleaning Service - Follow inspiring stories."
-    },
-    {
-      "show_name": "Cops - Stag. 1 - You Didn't Get Very Far",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-you-didn-t-get-very-far.webp",
-      "start_time": "2026-02-02 03:00:00",
-      "end_time": "2026-02-02 03:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "You Didn't Get Very Far - Follow inspiring stories."
-    },
-    {
-      "show_name": "Cops - Stag. 1 - Not My Text Messages",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-not-my-text-messages.webp",
-      "start_time": "2026-02-02 03:30:00",
-      "end_time": "2026-02-02 04:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Not My Text Messages - Follow inspiring stories."
-    },
-    {
-      "show_name": "Cops - Stag. 1 - Hands Off The Junk",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-hands-off-the-junk.webp",
-      "start_time": "2026-02-02 04:00:00",
-      "end_time": "2026-02-02 04:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Hands Off The Junk - Follow inspiring stories."
-    },
-    {
-      "show_name": "Cops - Stag. 1 - Dealt A Bad Hand",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-dealt-a-bad-hand.webp",
-      "start_time": "2026-02-02 04:30:00",
-      "end_time": "2026-02-02 05:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Dealt A Bad Hand - Follow inspiring stories."
-    },
-    {
-      "show_name": "Cops - Stag. 1 - Batter Up",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-batter-up.webp",
-      "start_time": "2026-02-02 05:00:00",
-      "end_time": "2026-02-02 05:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Batter Up - Follow inspiring stories."
-    },
-    {
-      "show_name": "Cops - Stag. 1 - Mohawked Cleaning Service",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-mohawked-cleaning-service.webp",
-      "start_time": "2026-02-02 05:30:00",
-      "end_time": "2026-02-02 06:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Mohawked Cleaning Service - Follow inspiring stories."
-    },
-    {
-      "show_name": "Blast From The Past",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/blast-from-the-past.webp",
-      "start_time": "2026-02-02 06:00:00",
-      "end_time": "2026-02-02 07:00:00",
+      "show_name": "Benjamin Franklin - Inventing America",
+      "show_logo": "https://guidatv.sky.it/uuid/4478434d-d96c-4467-87f6-db085f2a73aa/cover?territory=IT&md5ChecksumParam=7bc0f31846b328034c2a348dcdffd155",
+      "start_time": "2026-02-03 03:00:00",
+      "end_time": "2026-02-03 04:00:00",
       "episode_number": "S1 E0",
       "show_category": "Informazione",
-      "show_description": "Blast From The Past - We follow the Dale brothers as they mine for gold in Montana, in the mountain valley of Bear Gulch."
+      "show_description": "Benjamin Franklin - Inventing America - An analysis on some of the notable figures in the history of the United States."
     },
     {
-      "show_name": "All Hands On Deck",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/all-hands-on-deck.webp",
-      "start_time": "2026-02-02 07:00:00",
-      "end_time": "2026-02-02 08:00:00",
+      "show_name": "General George Washington - Commanding Revolution",
+      "show_logo": "https://guidatv.sky.it/uuid/f75a0aeb-5b45-4d36-bdf6-37668c65abec/cover?territory=IT&md5ChecksumParam=7bc0f31846b328034c2a348dcdffd155",
+      "start_time": "2026-02-03 04:00:00",
+      "end_time": "2026-02-03 05:00:00",
       "episode_number": "S1 E0",
       "show_category": "Informazione",
-      "show_description": "All Hands On Deck - We follow the Dale brothers as they mine for gold in Montana, in the mountain valley of Bear Gulch."
+      "show_description": "General George Washington - Commanding Revolution - An analysis on some of the notable figures in the history of the United States."
     },
     {
-      "show_name": "Do Or Die",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/do-or-die.webp",
-      "start_time": "2026-02-02 08:00:00",
-      "end_time": "2026-02-02 09:00:00",
+      "show_name": "Thomas Jefferson - Independence Declared",
+      "show_logo": "https://guidatv.sky.it/uuid/c821074f-5d20-4152-85eb-af07296a95ee/cover?territory=IT&md5ChecksumParam=7bc0f31846b328034c2a348dcdffd155",
+      "start_time": "2026-02-03 05:00:00",
+      "end_time": "2026-02-03 06:00:00",
       "episode_number": "S1 E0",
       "show_category": "Informazione",
-      "show_description": "Do Or Die - We follow the Dale brothers as they mine for gold in Montana, in the mountain valley of Bear Gulch."
+      "show_description": "Thomas Jefferson - Independence Declared - An analysis on some of the notable figures in the history of the United States."
     },
     {
-      "show_name": "Darkest Hour",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/darkest-hour.webp",
-      "start_time": "2026-02-02 09:00:00",
-      "end_time": "2026-02-02 10:00:00",
+      "show_name": "Benedict Arnold - American Traitor",
+      "show_logo": "https://guidatv.sky.it/uuid/6ac639a2-5c3c-4592-99c6-3b74b3fa89ca/cover?territory=IT&md5ChecksumParam=7bc0f31846b328034c2a348dcdffd155",
+      "start_time": "2026-02-03 06:00:00",
+      "end_time": "2026-02-03 07:00:00",
       "episode_number": "S1 E0",
       "show_category": "Informazione",
-      "show_description": "Darkest Hour - We follow the Dale brothers as they mine for gold in Montana, in the mountain valley of Bear Gulch."
+      "show_description": "Benedict Arnold - American Traitor - An analysis on some of the notable figures in the history of the United States."
     },
     {
-      "show_name": "Cops - Stag. 1 - You Didn't Get Very Far",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-you-didn-t-get-very-far.webp",
-      "start_time": "2026-02-02 10:00:00",
-      "end_time": "2026-02-02 10:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "You Didn't Get Very Far - Follow inspiring stories."
+      "show_name": "Benjamin Franklin - Inventing America",
+      "show_logo": "https://guidatv.sky.it/uuid/4478434d-d96c-4467-87f6-db085f2a73aa/cover?territory=IT&md5ChecksumParam=7bc0f31846b328034c2a348dcdffd155",
+      "start_time": "2026-02-03 07:00:00",
+      "end_time": "2026-02-03 08:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "Benjamin Franklin - Inventing America - An analysis on some of the notable figures in the history of the United States."
     },
     {
-      "show_name": "Cops - Stag. 1 - Not My Text Messages",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/cops-stag-1-not-my-text-messages.webp",
-      "start_time": "2026-02-02 10:30:00",
-      "end_time": "2026-02-02 11:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Not My Text Messages - Follow inspiring stories."
+      "show_name": "General George Washington - Commanding Revolution",
+      "show_logo": "https://guidatv.sky.it/uuid/f75a0aeb-5b45-4d36-bdf6-37668c65abec/cover?territory=IT&md5ChecksumParam=7bc0f31846b328034c2a348dcdffd155",
+      "start_time": "2026-02-03 08:00:00",
+      "end_time": "2026-02-03 09:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "General George Washington - Commanding Revolution - An analysis on some of the notable figures in the history of the United States."
+    },
+    {
+      "show_name": "Thomas Jefferson - Independence Declared",
+      "show_logo": "https://guidatv.sky.it/uuid/c821074f-5d20-4152-85eb-af07296a95ee/cover?territory=IT&md5ChecksumParam=7bc0f31846b328034c2a348dcdffd155",
+      "start_time": "2026-02-03 09:00:00",
+      "end_time": "2026-02-03 10:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "Thomas Jefferson - Independence Declared - An analysis on some of the notable figures in the history of the United States."
+    },
+    {
+      "show_name": "John Adams - Ready for War",
+      "show_logo": "https://guidatv.sky.it/uuid/d9a32e28-f542-4fdc-8b23-8d8ac678f2f2/cover?territory=IT&md5ChecksumParam=7bc0f31846b328034c2a348dcdffd155",
+      "start_time": "2026-02-03 10:00:00",
+      "end_time": "2026-02-03 11:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "John Adams - Ready for War - An analysis on some of the notable figures in the history of the United States."
     },
     {
       "show_name": "Fox Weather First",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/fox-weather-first.webp",
-      "start_time": "2026-02-02 11:00:00",
-      "end_time": "2026-02-02 12:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/3c9a9a5f-b5f3-450d-8193-a238e3180324/cover?territory=IT&md5ChecksumParam=519fedbe21da29962f23198137f1aa93",
+      "start_time": "2026-02-03 11:00:00",
+      "end_time": "2026-02-03 12:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "The weather forecast with an analysis of the impact of major weather events."
     },
     {
       "show_name": "Mornings with Maria Bartiromo",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/mornings-with-maria-bartiromo.webp",
-      "start_time": "2026-02-02 12:00:00",
-      "end_time": "2026-02-02 13:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/32aff08b-2601-4ca8-9d31-4130171cd1cc/cover?territory=IT&md5ChecksumParam=66ec63240b62048d527bda13b9fd6f89",
+      "start_time": "2026-02-03 12:00:00",
+      "end_time": "2026-02-03 13:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Maria Bartiromo offers the stock markets latest headlines and business events."
     },
     {
       "show_name": "Mornings with Maria Bartiromo",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/mornings-with-maria-bartiromo.webp",
-      "start_time": "2026-02-02 13:00:00",
-      "end_time": "2026-02-02 14:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/32aff08b-2601-4ca8-9d31-4130171cd1cc/cover?territory=IT&md5ChecksumParam=66ec63240b62048d527bda13b9fd6f89",
+      "start_time": "2026-02-03 13:00:00",
+      "end_time": "2026-02-03 14:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Maria Bartiromo offers the stock markets latest headlines and business events."
     },
     {
       "show_name": "Mornings with Maria Bartiromo",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/mornings-with-maria-bartiromo.webp",
-      "start_time": "2026-02-02 14:00:00",
-      "end_time": "2026-02-02 15:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/32aff08b-2601-4ca8-9d31-4130171cd1cc/cover?territory=IT&md5ChecksumParam=66ec63240b62048d527bda13b9fd6f89",
+      "start_time": "2026-02-03 14:00:00",
+      "end_time": "2026-02-03 15:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Maria Bartiromo offers the stock markets latest headlines and business events."
     },
     {
       "show_name": "Varney & Company",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/varney-company.webp",
-      "start_time": "2026-02-02 15:00:00",
-      "end_time": "2026-02-02 16:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/181d9b55-59b4-48f4-8b4b-6b4b0f0c2e6d/cover?territory=IT&md5ChecksumParam=a51faf5290e3ca839e34d4c1d07f838c",
+      "start_time": "2026-02-03 15:00:00",
+      "end_time": "2026-02-03 16:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Stuart Varney offers the stock markets latest headlines and business events."
     },
     {
       "show_name": "Varney & Company",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/varney-company.webp",
-      "start_time": "2026-02-02 16:00:00",
-      "end_time": "2026-02-02 17:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/181d9b55-59b4-48f4-8b4b-6b4b0f0c2e6d/cover?territory=IT&md5ChecksumParam=a51faf5290e3ca839e34d4c1d07f838c",
+      "start_time": "2026-02-03 16:00:00",
+      "end_time": "2026-02-03 17:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Stuart Varney offers the stock markets latest headlines and business events."
     },
     {
       "show_name": "Varney & Company",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/varney-company.webp",
-      "start_time": "2026-02-02 17:00:00",
-      "end_time": "2026-02-02 18:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/181d9b55-59b4-48f4-8b4b-6b4b0f0c2e6d/cover?territory=IT&md5ChecksumParam=a51faf5290e3ca839e34d4c1d07f838c",
+      "start_time": "2026-02-03 17:00:00",
+      "end_time": "2026-02-03 18:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Stuart Varney offers the stock markets latest headlines and business events."
     },
     {
       "show_name": "The Big Money Show",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/the-big-money-show.webp",
-      "start_time": "2026-02-02 18:00:00",
-      "end_time": "2026-02-02 19:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/20ac9618-c0f6-4951-8a62-0768e2bef3d9/cover?territory=IT&md5ChecksumParam=99a5cd0b5cbc27e2ecfb2dba58fa9015",
+      "start_time": "2026-02-03 18:00:00",
+      "end_time": "2026-02-03 19:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Breaking financial news and analysis with experts giving a unique knowledge on markets, economics and policy."
     },
     {
       "show_name": "The Big Money Show",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/the-big-money-show.webp",
-      "start_time": "2026-02-02 19:00:00",
-      "end_time": "2026-02-02 21:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/20ac9618-c0f6-4951-8a62-0768e2bef3d9/cover?territory=IT&md5ChecksumParam=99a5cd0b5cbc27e2ecfb2dba58fa9015",
+      "start_time": "2026-02-03 19:00:00",
+      "end_time": "2026-02-03 21:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Breaking financial news and analysis with experts giving a unique knowledge on markets, economics and policy."
     },
     {
       "show_name": "The Claman Countdown",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/the-claman-countdown.webp",
-      "start_time": "2026-02-02 21:00:00",
-      "end_time": "2026-02-02 22:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/2c8642d3-2949-4af8-94cc-39071e639f67/cover?territory=IT&md5ChecksumParam=b905e76aa2b0e74adb2060f0492be9e3",
+      "start_time": "2026-02-03 21:00:00",
+      "end_time": "2026-02-03 22:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Liz Claman captures the chaos of the last hour on Wall Street."
     },
     {
       "show_name": "Kudlow",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/kudlow.webp",
-      "start_time": "2026-02-02 22:00:00",
-      "end_time": "2026-02-02 23:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/b1c18a3e-8959-42f1-b27f-656b52fbb9a2/cover?territory=IT&md5ChecksumParam=4eb3d2ed8b6e40b6322b123a2b5e64c2",
+      "start_time": "2026-02-03 22:00:00",
+      "end_time": "2026-02-03 23:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Former National Economic Council Director gives market analysis and interviews."
     },
     {
       "show_name": "The Evening Edit",
-      "show_logo": "https://tvscheduletonight.com/wp-content/uploads/downloaded-images/Fox-Business/today/the-evening-edit.webp",
-      "start_time": "2026-02-02 23:00:00",
-      "end_time": "2026-02-03 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/cfc26129-0a07-44bd-ba6f-e8b9f2e0e4af/cover?territory=IT&md5ChecksumParam=7b5de4d48bb00c75f1f899235e33ed79",
+      "start_time": "2026-02-03 23:00:00",
+      "end_time": "2026-02-04 00:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Liz McDonald interviews the Industries experts."
