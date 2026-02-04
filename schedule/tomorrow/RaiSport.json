@@ -1,165 +1,192 @@
 {
   "channel_name": "RaiSport",
-  "date": "2026-02-04",
+  "date": "2026-02-05",
   "programs": [
     {
       "show_name": "Tg Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/tg-sport.webp",
-      "start_time": "2026-02-04 00:00:00",
-      "end_time": "2026-02-04 00:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg",
+      "start_time": "2026-02-05 00:00:00",
+      "end_time": "2026-02-05 00:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TG Sport Notte."
     },
     {
-      "show_name": "Europei femminili di Pallanuoto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/europei-femminili-di-pallanuoto.webp",
-      "start_time": "2026-02-04 00:00:00",
-      "end_time": "2026-02-04 01:30:00",
-      "episode_number": "S2026",
+      "show_name": "Atletica",
+      "show_logo": "https://www.raiplay.it/dl/img/2019/11/04/1572864986522_ATLETICA_2048x1152.jpg",
+      "start_time": "2026-02-05 00:00:00",
+      "end_time": "2026-02-05 02:00:00",
+      "episode_number": "",
       "show_category": "",
-      "show_description": "Le due formazioni più forti d'Europa si scontrano in una semifinale il cui esisto è impossibile pronosticare."
+      "show_description": "Atletica. Udin Jump."
     },
     {
-      "show_name": "Ciclismo su pista",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/ciclismo-su-pista.webp",
-      "start_time": "2026-02-04 01:30:00",
-      "end_time": "2026-02-04 04:30:00",
-      "episode_number": "S2026",
+      "show_name": "Basket: Eurolega femminile",
+      "show_logo": "https://www.raiplay.it/dl/img/2024/10/04/1728031958277_2048x1152.jpg",
+      "start_time": "2026-02-05 02:00:00",
+      "end_time": "2026-02-05 04:00:00",
+      "episode_number": "",
       "show_category": "",
-      "show_description": "Europei - 3a giornata."
-    },
-    {
-      "show_name": "Europei femminili di Pallanuoto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/europei-femminili-di-pallanuoto.webp",
-      "start_time": "2026-02-04 04:30:00",
-      "end_time": "2026-02-04 06:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Il Setterosa approda in semifinale dopo l'agile vittoria contro la Francia. La squadra di Carlo Silipo punta a staccare un pass per la finale per il primo posto."
+      "show_description": "Pallacanestro. EuroLega Donne 2a fase: 6a g.ta."
     },
     {
       "show_name": "Salto con gli Sci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/salto-con-gli-sci.webp",
-      "start_time": "2026-02-04 06:00:00",
-      "end_time": "2026-02-04 06:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2020/11/19/1605781480055_Salto-con-gli-sci-assets2048x1152.jpg",
+      "start_time": "2026-02-05 04:00:00",
+      "end_time": "2026-02-05 04:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Salto con gli Sci. Coppa del Mondo Willingen - gara 1."
+    },
+    {
+      "show_name": "Salto con gli Sci",
+      "show_logo": "https://www.raiplay.it/dl/img/2020/11/19/1605781480055_Salto-con-gli-sci-assets2048x1152.jpg",
+      "start_time": "2026-02-05 04:30:00",
+      "end_time": "2026-02-05 05:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Salto con gli Sci. Coppa del Mondo Willingen - gara 2."
     },
     {
       "show_name": "Salto con gli Sci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/salto-con-gli-sci.webp",
-      "start_time": "2026-02-04 06:30:00",
-      "end_time": "2026-02-04 07:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2020/11/19/1605781480055_Salto-con-gli-sci-assets2048x1152.jpg",
+      "start_time": "2026-02-05 05:00:00",
+      "end_time": "2026-02-05 05:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Salto con gli Sci. Coppa del Mondo Willingen - gara 3."
     },
     {
+      "show_name": "Ciclocross",
+      "show_logo": "https://www.raiplay.it/dl/img/2020/10/26/1603724481069_CicloCross-assets2048x1152.jpg",
+      "start_time": "2026-02-05 05:30:00",
+      "end_time": "2026-02-05 06:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Ciclocross. Mondiali Hulst: Uomini Junior."
+    },
+    {
+      "show_name": "Sci di Fondo",
+      "show_logo": "https://www.raiplay.it/dl/img/2020/11/20/1605879102327_Sci%20di%20Fondo-assets2048x1152.jpg",
+      "start_time": "2026-02-05 06:00:00",
+      "end_time": "2026-02-05 07:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Sci di Fondo. 53a Marcialonga Moena-Cavalese."
+    },
+    {
       "show_name": "Tg Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/tg-sport.webp",
-      "start_time": "2026-02-04 07:00:00",
-      "end_time": "2026-02-04 07:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg",
+      "start_time": "2026-02-05 07:00:00",
+      "end_time": "2026-02-05 07:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TG Sport Mattina."
     },
     {
-      "show_name": "Pallavolo: Serie A Femminile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/pallavolo-serie-a-femminile.webp",
-      "start_time": "2026-02-04 07:30:00",
-      "end_time": "2026-02-04 10:10:00",
+      "show_name": "Atletica",
+      "show_logo": "https://www.raiplay.it/dl/img/2019/11/04/1572864986522_ATLETICA_2048x1152.jpg",
+      "start_time": "2026-02-05 07:30:00",
+      "end_time": "2026-02-05 09:25:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Pallavolo. Serie A1 Tigotà: Vallefoglia-Novara - 22 a g.ta."
+      "show_description": "Atletica. Udin Jump."
     },
     {
-      "show_name": "Serie A Women Athora",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/serie-a-women-athora.webp",
-      "start_time": "2026-02-04 10:10:00",
-      "end_time": "2026-02-04 12:20:00",
+      "show_name": "Salto con gli Sci",
+      "show_logo": "https://www.raiplay.it/dl/img/2020/11/19/1605781480055_Salto-con-gli-sci-assets2048x1152.jpg",
+      "start_time": "2026-02-05 09:25:00",
+      "end_time": "2026-02-05 09:50:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Calcio Serie A Women Athora: Milan-Genoa - 12a g.ta."
+      "show_description": "Salto con gli Sci. Coppa del Mondo Willingen - gara 3."
     },
     {
-      "show_name": "Biliardo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/biliardo.webp",
-      "start_time": "2026-02-04 12:20:00",
-      "end_time": "2026-02-04 14:30:00",
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/19/1766151880426_olimpiadi%20milano%20cortina%202026%20-%202048x1152.jpg",
+      "start_time": "2026-02-05 09:50:00",
+      "end_time": "2026-02-05 12:10:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Biliardo. Stecca NBC 3a prova Caltanissetta."
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
     },
     {
       "show_name": "Memory - Rai Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/memory-rai-sport.webp",
-      "start_time": "2026-02-04 14:30:00",
-      "end_time": "2026-02-04 14:55:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-05 12:10:00",
+      "end_time": "2026-02-05 12:25:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Memory: Deborah Compagnoni."
+      "show_description": "Memory: Zeno Colò."
     },
     {
-      "show_name": "Hockey su Ghiaccio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/hockey-su-ghiaccio.webp",
-      "start_time": "2026-02-04 14:55:00",
-      "end_time": "2026-02-04 16:25:00",
+      "show_name": "Ciclismo su pista",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/10/24/1761288298596_Mondiali-di-Ciclismo-su-Pista-2025-assets2048x1152.jpg",
+      "start_time": "2026-02-05 12:25:00",
+      "end_time": "2026-02-05 15:15:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Ciclismo su Pista. Europei Konya - 5a g.ta."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/19/1766151880426_olimpiadi%20milano%20cortina%202026%20-%202048x1152.jpg",
+      "start_time": "2026-02-05 15:15:00",
+      "end_time": "2026-02-05 17:10:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Ciclismo",
+      "show_logo": "https://www.raiplay.it/dl/img/2020/09/04/1599206473831_Ciclismo2048x1152.jpg",
+      "start_time": "2026-02-05 17:10:00",
+      "end_time": "2026-02-05 19:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Ciclismo su pista",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/ciclismo-su-pista.webp",
-      "start_time": "2026-02-04 16:25:00",
-      "end_time": "2026-02-04 19:55:00",
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/19/1766151880426_olimpiadi%20milano%20cortina%202026%20-%202048x1152.jpg",
+      "start_time": "2026-02-05 19:00:00",
+      "end_time": "2026-02-05 21:45:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Ciclismo su Pista. Europei Konya - 4a g.ta."
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
     },
     {
-      "show_name": "Basket: Eurolega femminile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/basket-eurolega-femminile.webp",
-      "start_time": "2026-02-04 19:55:00",
-      "end_time": "2026-02-04 22:00:00",
+      "show_name": "Radiocorsa",
+      "show_logo": "https://www.raiplay.it/dl/img/2022/10/14/1665752647392_1665423210889_loc-logo-radiocorsa_2048x1152loc-logo.jpg",
+      "start_time": "2026-02-05 21:45:00",
+      "end_time": "2026-02-05 22:45:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Pallacanestro. EuroLega Donne 2a fase: 6a g.ta."
+      "show_description": "Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti."
     },
     {
-      "show_name": "Combinata Nordica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/combinata-nordica.webp",
-      "start_time": "2026-02-04 22:00:00",
-      "end_time": "2026-02-04 22:30:00",
+      "show_name": "Memory - Rai Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-05 22:45:00",
+      "end_time": "2026-02-05 23:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Combinata Nordica. Coppa del Mondo Seefeld - gara 2."
-    },
-    {
-      "show_name": "Combinata Nordica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/combinata-nordica.webp",
-      "start_time": "2026-02-04 22:30:00",
-      "end_time": "2026-02-04 23:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Combinata Nordica. Coppa del Mondo Seefeld - gara 3."
+      "show_description": "Memory: Giorgio Vanzetta."
     },
     {
       "show_name": "Sognando Milano Cortina 2026. Sulle spalle dei giganti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/sognando-milano-cortina-2026-sulle-spalle-dei-giganti.webp",
-      "start_time": "2026-02-04 23:00:00",
-      "end_time": "2026-02-04 23:45:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/11/04/1762266051725_Sognando2048x1152.jpg",
+      "start_time": "2026-02-05 23:00:00",
+      "end_time": "2026-02-05 23:45:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Sara Conti e Niccolò Macii, Giuseppe Romele, Martina Valcepina, Martina Vozza, Nicolaj Memola sono gli Ambassador Allianz che ci portano dentro un'esperienza eccezionale, che parte da un racconto in prima persona, ma vuole aprire una riflessione più ampia sul patrimonio di valori tramandato dallo sport di generazione in generazione."
     },
     {
       "show_name": "Tg Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/tg-sport.webp",
-      "start_time": "2026-02-04 23:45:00",
-      "end_time": "2026-02-05 00:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg",
+      "start_time": "2026-02-05 23:45:00",
+      "end_time": "2026-02-06 00:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TG Sport Notte."

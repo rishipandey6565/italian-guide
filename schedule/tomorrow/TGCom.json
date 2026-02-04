@@ -1,195 +1,411 @@
 {
   "channel_name": "TGCom",
-  "date": "2026-02-04",
+  "date": "2026-02-05",
   "programs": [
     {
-      "show_name": "4 Di Sera",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 00:00:00",
-      "end_time": "2026-02-04 00:01:00",
+      "show_name": "Tgcom Rassegna Stampa 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 00:00:00",
+      "end_time": "2026-02-05 00:00:00",
       "episode_number": "",
-      "show_category": "Talk Show",
-      "show_description": "Dibattito quotidiano sui fatti salienti della giornata. Politica, economia, i principali casi di cronaca ed attualita'."
+      "show_category": "",
+      "show_description": "Tgcom rassegna stampa 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 00:00:00",
+      "end_time": "2026-02-05 00:42:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom Rassegna Stampa 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 00:42:00",
+      "end_time": "2026-02-05 01:02:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom rassegna stampa 2026."
     },
     {
       "show_name": "Sport Mediaset La Giornata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 00:01:00",
-      "end_time": "2026-02-04 05:59:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 01:02:00",
+      "end_time": "2026-02-05 01:17:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Le principali notizie sportive della giornata a cura della redazione giornalistica di Sport Mediaset."
     },
     {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 01:17:00",
+      "end_time": "2026-02-05 01:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 01:45:00",
+      "end_time": "2026-02-05 02:24:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom Rassegna Stampa 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 02:24:00",
+      "end_time": "2026-02-05 02:39:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom rassegna stampa 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 02:39:00",
+      "end_time": "2026-02-05 03:07:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 03:07:00",
+      "end_time": "2026-02-05 03:46:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom Rassegna Stampa 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 03:46:00",
+      "end_time": "2026-02-05 04:01:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom rassegna stampa 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 04:01:00",
+      "end_time": "2026-02-05 04:29:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 04:29:00",
+      "end_time": "2026-02-05 05:08:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom Rassegna Stampa 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 05:08:00",
+      "end_time": "2026-02-05 05:23:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom rassegna stampa 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 05:23:00",
+      "end_time": "2026-02-05 05:59:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
       "show_name": "Simulcast Tg5 2026 (tgcom)",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 05:59:00",
-      "end_time": "2026-02-04 08:39:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 05:59:00",
+      "end_time": "2026-02-05 08:39:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Simulcast tg5 2026 (tgcom)."
     },
     {
       "show_name": "Mattino Cinque News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 08:39:00",
-      "end_time": "2026-02-04 09:26:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 08:39:00",
+      "end_time": "2026-02-05 09:26:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "In diretta con i fatti di cronaca, politica, spettacolo e gossip. Conducono Francesco Vecchi e Federica Panicucci."
     },
     {
       "show_name": "Mattino Cinque News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 09:26:00",
-      "end_time": "2026-02-04 11:55:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 09:26:00",
+      "end_time": "2026-02-05 09:41:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "In diretta con i fatti di cronaca, politica, spettacolo e gossip. Conducono Francesco Vecchi e Federica Panicucci."
     },
     {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 09:41:00",
+      "end_time": "2026-02-05 09:55:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 09:55:00",
+      "end_time": "2026-02-05 10:42:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom24 '26 Contributo H 10.40",
+      "show_logo": "",
+      "start_time": "2026-02-05 10:42:00",
+      "end_time": "2026-02-05 10:52:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 '26 - contributo h 10.40."
+    },
+    {
+      "show_name": "Tgcom24 Diretta 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 10:52:00",
+      "end_time": "2026-02-05 11:17:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 11:17:00",
+      "end_time": "2026-02-05 11:55:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta 2026."
+    },
+    {
       "show_name": "Tg4",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 11:55:00",
-      "end_time": "2026-02-04 12:25:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 11:55:00",
+      "end_time": "2026-02-05 12:25:00",
       "episode_number": "",
       "show_category": "Telegiornale",
       "show_description": "Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4. A seguire, le previsioni metereologiche."
     },
     {
       "show_name": "Studio Aperto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 12:25:00",
-      "end_time": "2026-02-04 12:58:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 12:25:00",
+      "end_time": "2026-02-05 12:58:00",
       "episode_number": "",
       "show_category": "Telegiornale",
       "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
     },
     {
       "show_name": "Tg5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 12:58:00",
-      "end_time": "2026-02-04 13:32:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 12:58:00",
+      "end_time": "2026-02-05 13:32:00",
       "episode_number": "",
       "show_category": "Telegiornale",
       "show_description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5."
     },
     {
       "show_name": "Sport Mediaset",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 13:32:00",
-      "end_time": "2026-02-04 13:59:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 13:32:00",
+      "end_time": "2026-02-05 13:59:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Approfondimento quotidiano in diretta sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset."
     },
     {
       "show_name": "Sport Mediaset",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 13:59:00",
-      "end_time": "2026-02-04 15:33:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 13:59:00",
+      "end_time": "2026-02-05 14:18:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Approfondimento quotidiano in diretta sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset."
     },
     {
+      "show_name": "Tgcom24 Diretta 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 14:18:00",
+      "end_time": "2026-02-05 14:56:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 14:56:00",
+      "end_time": "2026-02-05 15:27:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta 2026."
+    },
+    {
       "show_name": "Diario Del Giorno",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 15:33:00",
-      "end_time": "2026-02-04 16:55:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 15:27:00",
+      "end_time": "2026-02-05 16:21:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Approfondimento a cura del Tg4 sui principali fatti del giorno."
     },
     {
+      "show_name": "Tgcom24 Diretta 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 16:21:00",
+      "end_time": "2026-02-05 16:55:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta 2026."
+    },
+    {
       "show_name": "Dentro La Notizia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 16:55:00",
-      "end_time": "2026-02-04 17:13:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 16:55:00",
+      "end_time": "2026-02-05 17:13:00",
       "episode_number": "",
       "show_category": "Talk Show",
       "show_description": "Il nuovo programma pomeridiano d'informazione condotto da Gianluigi Nuzzi con approfondimenti su storie, fatti e attualita'."
     },
     {
       "show_name": "Dentro La Notizia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 17:13:00",
-      "end_time": "2026-02-04 17:29:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 17:13:00",
+      "end_time": "2026-02-05 17:29:00",
       "episode_number": "",
       "show_category": "Talk Show",
       "show_description": "Il nuovo programma pomeridiano d'informazione condotto da Gianluigi Nuzzi con approfondimenti su storie, fatti e attualita'."
     },
     {
       "show_name": "Dentro La Notizia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 17:29:00",
-      "end_time": "2026-02-04 17:38:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 17:29:00",
+      "end_time": "2026-02-05 17:35:00",
       "episode_number": "",
       "show_category": "Talk Show",
       "show_description": "Il nuovo programma pomeridiano d'informazione condotto da Gianluigi Nuzzi con approfondimenti su storie, fatti e attualita'."
     },
     {
       "show_name": "Dentro La Notizia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 17:38:00",
-      "end_time": "2026-02-04 18:21:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 17:35:00",
+      "end_time": "2026-02-05 18:21:00",
       "episode_number": "",
       "show_category": "Talk Show",
       "show_description": "Il nuovo programma pomeridiano d'informazione condotto da Gianluigi Nuzzi con approfondimenti su storie, fatti e attualita'."
     },
     {
       "show_name": "Studio Aperto Live",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 18:21:00",
-      "end_time": "2026-02-04 18:30:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 18:21:00",
+      "end_time": "2026-02-05 18:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
     },
     {
       "show_name": "Studio Aperto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 18:30:00",
-      "end_time": "2026-02-04 18:58:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 18:30:00",
+      "end_time": "2026-02-05 18:58:00",
       "episode_number": "",
       "show_category": "Telegiornale",
       "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
     },
     {
       "show_name": "Tg4",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 18:58:00",
-      "end_time": "2026-02-04 19:32:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 18:58:00",
+      "end_time": "2026-02-05 19:32:00",
       "episode_number": "",
       "show_category": "Telegiornale",
       "show_description": "Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4. A seguire, le previsioni metereologiche."
     },
     {
       "show_name": "10 Minuti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 19:32:00",
-      "end_time": "2026-02-04 19:54:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 19:32:00",
+      "end_time": "2026-02-05 19:45:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Striscia di attualita' con Nicola Porro."
     },
     {
+      "show_name": "Tgcom24 Contributo H 19.30 '26",
+      "show_logo": "",
+      "start_time": "2026-02-05 19:45:00",
+      "end_time": "2026-02-05 19:54:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 - contributo h 19.30 '26."
+    },
+    {
       "show_name": "Simulcast Tg5 2026 (tgcom)",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 19:54:00",
-      "end_time": "2026-02-04 20:32:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 19:54:00",
+      "end_time": "2026-02-05 20:32:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Simulcast tg5 2026 (tgcom)."
     },
     {
       "show_name": "4 Di Sera",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-04 20:32:00",
-      "end_time": "2026-02-05 01:10:00",
+      "show_logo": "",
+      "start_time": "2026-02-05 20:32:00",
+      "end_time": "2026-02-05 21:27:00",
       "episode_number": "",
       "show_category": "Talk Show",
       "show_description": "Dibattito quotidiano sui fatti salienti della giornata. Politica, economia, i principali casi di cronaca ed attualita'."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 21:27:00",
+      "end_time": "2026-02-05 23:41:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom Rassegna Stampa 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 23:41:00",
+      "end_time": "2026-02-05 23:56:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom rassegna stampa 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-02-05 23:56:00",
+      "end_time": "2026-02-06 00:28:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
     }
   ]
 }

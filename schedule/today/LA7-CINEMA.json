@@ -1,141 +1,213 @@
 {
   "channel_name": "LA7 CINEMA",
-  "date": "2026-02-03",
+  "date": "2026-02-04",
   "programs": [
     {
-      "show_name": "The Eichmann Show - Il processo del secolo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/today/the-eichmann-show-il-processo-del-secolo.webp",
-      "start_time": "2026-02-03 00:00:00",
-      "end_time": "2026-02-03 01:15:00",
+      "show_name": "L'ultimo Re di Scozia",
+      "show_logo": "https://guidatv.sky.it/uuid/8a0bf65d-e5da-4dd6-9482-c9b3f8ba330b/cover?territory=IT&md5ChecksumParam=927a7d657af8e10ad19ac55619f99f41",
+      "start_time": "2026-02-04 00:00:00",
+      "end_time": "2026-02-04 01:45:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Martin Freeman e Anthony LaPaglia nel dramma che ripercorre un cruciale evento televisivo. Israele, 1961: un produttore inglese filma il processo contro il gerarca nazista Adolf Eichmann."
+      "show_description": "Oscar a Forest Whitaker in un biopic con James McAvoy. Anni '70: un medico scozzese diventa il consulente del dittatore ugandese Idi Amin Dada e testimone dei suoi atti sanguinari."
     },
     {
-      "show_name": "La corsa piu' pazza del mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-03 01:15:00",
-      "end_time": "2026-02-03 06:00:00",
+      "show_name": "Churchill",
+      "show_logo": "https://guidatv.sky.it/uuid/69d2542a-d84d-4c20-9e7c-2a9b43bb2ea5/cover?territory=IT&md5ChecksumParam=7c9313f0b114a136c2ceff88005c5af6",
+      "start_time": "2026-02-04 01:45:00",
+      "end_time": "2026-02-04 03:45:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Un gruppo di persone, ognuno dalla provenienza sociale piu' disparata, si raduna ogni anno per una leggendaria corsa automobilistica: la Gumball Rally. La competizione, illegale, si svolge lungo un percorso segreto che attraversa gli USA."
+      "show_description": "Brian Cox nella biografia del grande statista inglese Winston Churchill, incentrata sui giorni precedenti allo Sbarco in Normandia da parte degli Alleati nel giugno del 1944."
+    },
+    {
+      "show_name": "Vite da Star - Stag. 1 Ep. 1 - Marilyn Monroe",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-04 03:45:00",
+      "end_time": "2026-02-04 04:40:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La storia delle star piu' famose al mondo. Attraverso immagini e interviste, ripercorriamo la loro brillante carriera e i loro successi sul grande schermo."
+    },
+    {
+      "show_name": "Uozzap Cinema - Stag. 20 Ep. 2",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-04 04:40:00",
+      "end_time": "2026-02-04 05:15:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "'La TV in chat' che seleziona i momenti piu' divertenti e ironici dei personaggi piu' amati della televisione."
+    },
+    {
+      "show_name": "Documentario",
+      "show_logo": "https://guidatv.sky.it/uuid/353e6a3d-3ff6-465d-97a9-42665f885da7/cover?territory=IT&md5ChecksumParam=c1891cfbc595c2978b2fdface5130c31",
+      "start_time": "2026-02-04 05:15:00",
+      "end_time": "2026-02-04 06:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Fascia dedicata al documentario."
     },
     {
       "show_name": "Oroscopo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/today/oroscopo.webp",
-      "start_time": "2026-02-03 06:00:00",
-      "end_time": "2026-02-03 06:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/27865c78-a80f-437d-8417-75125db86915/cover?territory=IT&md5ChecksumParam=c274430f5bf1729f8fd685f7ae02f415",
+      "start_time": "2026-02-04 06:00:00",
+      "end_time": "2026-02-04 06:05:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "La lettura dell'oroscopo del giorno per tutti i segni zodiacali."
     },
     {
-      "show_name": "Tg La7",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/today/tg-la7.webp",
-      "start_time": "2026-02-03 06:05:00",
-      "end_time": "2026-02-03 06:10:00",
+      "show_name": "Meteo",
+      "show_logo": "https://guidatv.sky.it/uuid/bbe41404-7ba5-46e4-aebf-08ea07d958a4/cover?territory=IT&md5ChecksumParam=a92591ea1a6b1565d61b5b0d47f3428b",
+      "start_time": "2026-02-04 06:05:00",
+      "end_time": "2026-02-04 06:10:00",
       "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
+      "show_description": "L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia."
     },
     {
-      "show_name": "Hollywood Collection - Stag. 1 Ep. 21 - Michael Caine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-03 06:10:00",
-      "end_time": "2026-02-03 07:10:00",
+      "show_name": "Oroscopo",
+      "show_logo": "https://guidatv.sky.it/uuid/27865c78-a80f-437d-8417-75125db86915/cover?territory=IT&md5ChecksumParam=c274430f5bf1729f8fd685f7ae02f415",
+      "start_time": "2026-02-04 06:10:00",
+      "end_time": "2026-02-04 06:15:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Una serie di splendide biografie, narrate da voci illustri, di alcuni tra i piu' famosi attori e attrici che hanno caratterizzato il cinema hollywoodiano classico."
+      "show_description": "La lettura dell'oroscopo del giorno per tutti i segni zodiacali."
     },
     {
-      "show_name": "Josephine, ange gardien",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/today/josephine-ange-gardien.webp",
-      "start_time": "2026-02-03 07:10:00",
-      "end_time": "2026-02-03 09:05:00",
-      "episode_number": "S8 E2",
-      "show_category": "Intrattenimento",
-      "show_description": "Josephine va in missione per aiutare il giovane parroco di una parrocchia di provincia dove la statua della Vergine piange lacrime di sangue. Ma e' un vero miracolo?"
-    },
-    {
-      "show_name": "Josephine, ange gardien",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/today/josephine-ange-gardien.webp",
-      "start_time": "2026-02-03 09:05:00",
-      "end_time": "2026-02-03 11:00:00",
-      "episode_number": "S8 E3",
-      "show_category": "Intrattenimento",
-      "show_description": "Josephine e' in missione per aiutare Gaspard, un ragazzo che incontra per la prima volta il padre Denis, il quale non ha mai saputo della sua esistenza..."
-    },
-    {
-      "show_name": "Come farsi lasciare in 10 giorni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/today/come-farsi-lasciare-in-10-giorni.webp",
-      "start_time": "2026-02-03 11:00:00",
-      "end_time": "2026-02-03 13:10:00",
+      "show_name": "Meteo",
+      "show_logo": "https://guidatv.sky.it/uuid/bbe41404-7ba5-46e4-aebf-08ea07d958a4/cover?territory=IT&md5ChecksumParam=a92591ea1a6b1565d61b5b0d47f3428b",
+      "start_time": "2026-02-04 06:15:00",
+      "end_time": "2026-02-04 06:20:00",
       "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Kate Hudson e Matthew McConaughey in una commedia romantica. Una giornalista seduce un pubblicitario con l'intenzione di farsi lasciare, ma la magia dell'amore cambiera' le carte in tavola."
+      "show_category": "Informazione",
+      "show_description": "L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia."
     },
     {
-      "show_name": "Nonno scatenato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/today/nonno-scatenato.webp",
-      "start_time": "2026-02-03 13:10:00",
-      "end_time": "2026-02-03 15:05:00",
+      "show_name": "Oroscopo",
+      "show_logo": "https://guidatv.sky.it/uuid/27865c78-a80f-437d-8417-75125db86915/cover?territory=IT&md5ChecksumParam=c274430f5bf1729f8fd685f7ae02f415",
+      "start_time": "2026-02-04 06:20:00",
+      "end_time": "2026-02-04 06:25:00",
       "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Commedia 'on the road' con Robert De Niro e Zac Efron. Un anziano vedovo trascina il nipote, in procinto di sposarsi, in un viaggio in Florida alla ricerca di trasgressione."
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La lettura dell'oroscopo del giorno per tutti i segni zodiacali."
     },
     {
-      "show_name": "La forma dell'acqua - The Shape of Water",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/today/la-forma-dell-acqua-the-shape-of-water.webp",
-      "start_time": "2026-02-03 15:05:00",
-      "end_time": "2026-02-03 17:20:00",
+      "show_name": "Meteo",
+      "show_logo": "https://guidatv.sky.it/uuid/bbe41404-7ba5-46e4-aebf-08ea07d958a4/cover?territory=IT&md5ChecksumParam=a92591ea1a6b1565d61b5b0d47f3428b",
+      "start_time": "2026-02-04 06:25:00",
+      "end_time": "2026-02-04 06:30:00",
       "episode_number": "",
-      "show_category": "Film",
-      "show_description": "4 Oscar, 2 Golden Globe e Leone d'oro al capolavoro di Guillermo Del Toro con Sally Hawkins e Michael Shannon. America, Guerra Fredda: una donna muta si innamora di una creatura anfibia."
+      "show_category": "Informazione",
+      "show_description": "L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia."
     },
     {
       "show_name": "Tg La7",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/today/tg-la7.webp",
-      "start_time": "2026-02-03 17:20:00",
-      "end_time": "2026-02-03 17:25:00",
+      "show_logo": "https://guidatv.sky.it/uuid/9746f404-e911-432d-b5de-6aa9b54f6c76/cover?territory=IT&md5ChecksumParam=b22d7d1d07ae1f8d98fafcfd3520e0be",
+      "start_time": "2026-02-04 06:30:00",
+      "end_time": "2026-02-04 06:35:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
     },
     {
-      "show_name": "Un tirchio quasi perfetto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/today/un-tirchio-quasi-perfetto.webp",
-      "start_time": "2026-02-03 17:25:00",
-      "end_time": "2026-02-03 19:05:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Dany Boon (\"Giù al nord\") in una scatenata commedia sull'avarizia. Un violinista, incorreggibile spilorcio, scopre di avere una figlia e finalmente cambia il suo morboso rapporto con il denaro."
+      "show_name": "Josephine, ange gardien",
+      "show_logo": "https://guidatv.sky.it/uuid/4e9005e5-f800-48ea-8585-5bf47003587e/cover?territory=IT&md5ChecksumParam=5624eb551b4b09f5e3ec3c4d50e49947",
+      "start_time": "2026-02-04 06:35:00",
+      "end_time": "2026-02-04 08:35:00",
+      "episode_number": "S8 E4",
+      "show_category": "Intrattenimento",
+      "show_description": "Questa volta Josephine deve aiutare Principessa, una cavalla destinata al macello."
     },
     {
-      "show_name": "The Imitation Game",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/today/the-imitation-game.webp",
-      "start_time": "2026-02-03 19:05:00",
-      "end_time": "2026-02-03 21:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Oscar alla sceneggiatura per la biografia di Alan Turing, interpretato da Benedict Cumberbatch. Genio indiscusso del XX secolo, fu incaricato di decrittare il codice Enigma dei nazisti."
+      "show_name": "Josephine, ange gardien",
+      "show_logo": "https://guidatv.sky.it/uuid/bbed147f-0666-41ea-92c2-d834d64c34e1/cover?territory=IT&md5ChecksumParam=a9cb7e8cc16960076fd7ec2d760ec792",
+      "start_time": "2026-02-04 08:35:00",
+      "end_time": "2026-02-04 10:35:00",
+      "episode_number": "S9 E1",
+      "show_category": "Intrattenimento",
+      "show_description": "Josephine deve aiutare Stephane, un giovane padre divorziato che lotta per ottenere la custodia condivisa dei suoi due figli, Clara, dieci anni, e Valentino, di otto."
     },
     {
-      "show_name": "Soldi sporchi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-03 21:15:00",
-      "end_time": "2026-02-03 23:30:00",
+      "show_name": "La ragazza con la valigia",
+      "show_logo": "https://guidatv.sky.it/uuid/8d89f594-6b11-4d91-9b05-daa42a7664a7/cover?territory=IT&md5ChecksumParam=350fe36ae492bd4447dfb3add7d4c59c",
+      "start_time": "2026-02-04 10:35:00",
+      "end_time": "2026-02-04 12:50:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Tre amici trovano una montagna di dollari in un aereo precipitato e decidono di dividerseli, ma nascono subito contrasti."
+      "show_description": "Un'aspirante ballerina si innamora di un giovane che la seduce e la abbandona, convincendo poi suo fratello a frequentare la ragazza."
     },
     {
-      "show_name": "L'ultimo Re di Scozia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/today/l-ultimo-re-di-scozia.webp",
-      "start_time": "2026-02-03 23:30:00",
-      "end_time": "2026-02-04 01:45:00",
+      "show_name": "Acque profonde",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-04 12:50:00",
+      "end_time": "2026-02-04 14:55:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Oscar a Forest Whitaker in un biopic con James McAvoy. Anni '70: un medico scozzese diventa il consulente del dittatore ugandese Idi Amin Dada e testimone dei suoi atti sanguinari."
+      "show_description": "Thriller a tinte erotiche con Ben Affleck e Ana de Armas. Un uomo sembra accettare che la sua bellissima e inquieta moglie abbia diversi amanti proprio sotto i suoi occhi. Ma quando uno di questi muore, lui e' il primo sospettato per l'omicidio..."
+    },
+    {
+      "show_name": "Qualcuno come te",
+      "show_logo": "https://guidatv.sky.it/uuid/ec391491-6a50-43ff-9521-6e46c02482da/cover?territory=IT&md5ChecksumParam=e867d9d36b4e1a9e48fd6fec00702b46",
+      "start_time": "2026-02-04 14:55:00",
+      "end_time": "2026-02-04 16:45:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Lezioni di seduzione in una brillante commedia romantica con Ashley Judd, Marisa Tomei e Hugh Jackman. Scaricata dal fidanzato, Jane Goodale, produttrice di un popolarissimo talk show, decide di occuparsi, in forma anonima, di una rubrica sulle relazioni di coppia che pian piano acquisisce grande successo tra i lettori. I suggerimenti migliori le arrivano dal suo coinquilino Eddie, un irresistibile playboy che la corteggia e al quale Jane carpisce tutti i segreti del comportamento maschile. Dal divertente romanzo di Laura Zigman, “Il teorema della mucca nuova”."
+    },
+    {
+      "show_name": "Uno sconosciuto alla porta",
+      "show_logo": "https://guidatv.sky.it/uuid/31f84c24-6685-408b-83c1-a1c4b81e101b/cover?territory=IT&md5ChecksumParam=991b8b003cdbc8cc8ea4b13d6da4e775",
+      "start_time": "2026-02-04 16:45:00",
+      "end_time": "2026-02-04 17:45:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Matthew Modine e Melanie Griffith minacciati da un ambiguo Michael Keaton, in un thriller diretto dal premio Oscar John Schlesinger. Una giovane coppia di San Francisco decide di affittare una parte della propria abitazione a uno sconosciuto, che sembra gentile e onesto. Ma l'apparenza, spesso, inganna. Tenteranno di sfrattarlo, senza successo e l'uomo, oltre a essere un imbroglione, si rivelera' uno psicopatico dalla mente analitica. Brevi cameo per Tippy Hedren (\"Gli uccelli\") e per lo stesso Schlesinger che appare in una sequenza in ascensore."
+    },
+    {
+      "show_name": "Tg La7",
+      "show_logo": "https://guidatv.sky.it/uuid/9746f404-e911-432d-b5de-6aa9b54f6c76/cover?territory=IT&md5ChecksumParam=b22d7d1d07ae1f8d98fafcfd3520e0be",
+      "start_time": "2026-02-04 17:45:00",
+      "end_time": "2026-02-04 17:50:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
+    },
+    {
+      "show_name": "Terapia d'urto",
+      "show_logo": "https://guidatv.sky.it/uuid/2da4c065-9e6e-40b7-ade5-7d2c7ce1d4c6/cover?territory=IT&md5ChecksumParam=dac1170a60c1b0cb3d5ae73f3ce10381",
+      "start_time": "2026-02-04 17:50:00",
+      "end_time": "2026-02-04 18:45:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Jack Nicholson e Adam Sandler in una spassosa commedia. A causa di un equivoco, un uomo d'affari finisce sul lettino di uno stravagante terapeuta per imparare a controllare la sua rabbia."
+    },
+    {
+      "show_name": "Amsterdam",
+      "show_logo": "https://guidatv.sky.it/uuid/e6c330b9-ffae-4506-b9fd-2b235e07b06a/cover?territory=IT&md5ChecksumParam=c2ac50a222eecc7418a06eb6ade3f624",
+      "start_time": "2026-02-04 18:45:00",
+      "end_time": "2026-02-04 21:15:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Christian Bale, Margot Robbie, John David Washington e Anya Taylor-Joy in un commedia ispirata a una storia vera. Stati Uniti, anni 30: tre amici sono testimoni di un omicidio, ma finiscono per essere i principali sospettati del delitto, al centro di un'incredibile complotto."
+    },
+    {
+      "show_name": "The Social Network",
+      "show_logo": "https://guidatv.sky.it/uuid/28f87969-6fc2-4d05-ab2d-6656cab7549f/cover?territory=IT&md5ChecksumParam=ca556664ee8228e9f2a0a3fd52c437bb",
+      "start_time": "2026-02-04 21:15:00",
+      "end_time": "2026-02-04 23:30:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "3 Oscar al biopic di David Fincher sulla genesi di Facebook, con Jesse Eisenberg e Andrew Garfield. Nel 2004 uno studente di Harvard fonda il sito che rivoluzionera' il modo di comunicare."
+    },
+    {
+      "show_name": "Misure straordinarie",
+      "show_logo": "https://guidatv.sky.it/uuid/e66dfedf-1de7-49d4-b5dc-7fe126d19c67/cover?territory=IT&md5ChecksumParam=cc9924e1c21da0fa59e47b27b4642408",
+      "start_time": "2026-02-04 23:30:00",
+      "end_time": "2026-02-05 01:30:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Quando ai due figli viene diagnosticata una rara malattia, John Crowley decide di contattare un promettente ricercatore..."
     }
   ]
 }

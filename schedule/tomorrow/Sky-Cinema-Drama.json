@@ -1,150 +1,123 @@
 {
   "channel_name": "Sky Cinema Drama",
-  "date": "2026-02-04",
+  "date": "2026-02-05",
   "programs": [
     {
-      "show_name": "Natale con Bob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/natale-con-bob.webp",
-      "start_time": "2026-02-04 00:00:00",
-      "end_time": "2026-02-04 00:20:00",
+      "show_name": "Il posto dell'anima",
+      "show_logo": "https://guidatv.sky.it/uuid/e3e9cfb3-4381-4b03-afa2-2beebcd1496a/cover?territory=IT&md5ChecksumParam=4d4d4a62a53c1806426cdb4c75e6d4ae",
+      "start_time": "2026-02-05 00:00:00",
+      "end_time": "2026-02-05 00:45:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Luke Treadaway e l’irresistibile gatto rosso nel sequel del biopic \"A spasso con Bob\". James ripercorre i Natali da tossicodipendente prima del salvifico incontro con il suo gatto."
-    },
-    {
-      "show_name": "Julieta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/julieta.webp",
-      "start_time": "2026-02-04 00:20:00",
-      "end_time": "2026-02-04 02:00:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Ispirandosi a tre racconti di Alice Munro, Pedro Almodovar dipinge un ritratto femminile. Una donna ripercorre il passato per raccontare alla figlia i segreti della propria vita."
-    },
-    {
-      "show_name": "Questo o quello - Speciale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/questo-o-quello-speciale.webp",
-      "start_time": "2026-02-04 02:00:00",
-      "end_time": "2026-02-04 02:15:00",
-      "episode_number": "S1 E263",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una Pallottola Spuntata E Dracula - L'amore Perduto - Questo O Quello - Una Pallottola Spuntata E Dracula - L'amore Perduto."
-    },
-    {
-      "show_name": "Napoli velata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/napoli-velata.webp",
-      "start_time": "2026-02-04 02:15:00",
-      "end_time": "2026-02-04 04:05:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Ferzan Ozpetek dirige Giovanna Mezzogiorno e Alessandro Borghi fra sensualita' e mistero. Napoli: la vita di un'anatomopatologa viene sconvolta dal passionale incontro con uno sconosciuto."
-    },
-    {
-      "show_name": "Anime nere",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/anime-nere.webp",
-      "start_time": "2026-02-04 04:05:00",
-      "end_time": "2026-02-04 05:55:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Dal romanzo di Gioacchino Criaco, un viaggio infernale nel cuore della 'Ndrangheta. In un paesino dell'Aspromonte, l'atto intimidatorio del ventenne Leo nei confronti di un clan rivale riunisce dopo molti anni tre fratelli. Luciano, padre di Leo, vive ancora in Calabria ed e' attaccato alle radici rurali della famiglia. Luigi e Rocco, invece, si sono arricchiti al nord: il primo come narcotrafficante, il secondo entrando nel mondo dell'imprenditoria grazie a un giro di soldi sporchi. La provocazione di Leo li costringera' a un sanguinoso regolamento di conti con il passato."
-    },
-    {
-      "show_name": "Julieta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/julieta.webp",
-      "start_time": "2026-02-04 05:55:00",
-      "end_time": "2026-02-04 07:40:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Ispirandosi a tre racconti di Alice Munro, Pedro Almodovar dipinge un ritratto femminile. Una donna ripercorre il passato per raccontare alla figlia i segreti della propria vita."
-    },
-    {
-      "show_name": "Questo o quello - Speciale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/questo-o-quello-speciale.webp",
-      "start_time": "2026-02-04 07:40:00",
-      "end_time": "2026-02-04 07:55:00",
-      "episode_number": "S1 E263",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una Pallottola Spuntata E Dracula - L'amore Perduto - Questo O Quello - Una Pallottola Spuntata E Dracula - L'amore Perduto."
-    },
-    {
-      "show_name": "Natale con Bob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/natale-con-bob.webp",
-      "start_time": "2026-02-04 07:55:00",
-      "end_time": "2026-02-04 09:30:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Luke Treadaway e l’irresistibile gatto rosso nel sequel del biopic \"A spasso con Bob\". James ripercorre i Natali da tossicodipendente prima del salvifico incontro con il suo gatto."
-    },
-    {
-      "show_name": "Tre piani",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/tre-piani.webp",
-      "start_time": "2026-02-04 09:30:00",
-      "end_time": "2026-02-04 11:35:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Nanni Moretti adatta il romanzo di Eshkol Nevo in una pellicola di cui è anche interprete insieme a Margherita Buy, Riccardo Scamarcio e Alba Rohrwacher. Solitudini, amori e ossessioni si intrecciano nei destini di tre famiglie di uno stesso palazzo della Roma bene."
-    },
-    {
-      "show_name": "Morrison",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/morrison.webp",
-      "start_time": "2026-02-04 11:35:00",
-      "end_time": "2026-02-04 13:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Federico Zampaglione adatta il suo romanzo in un film con Lorenzo Zurzolo e Giovanni Calcagno. Roma: l'incontro tra musicisti di età diverse cambierà la vita di entrambi."
-    },
-    {
-      "show_name": "Cosa sarà",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/cosa-sar.webp",
-      "start_time": "2026-02-04 13:15:00",
-      "end_time": "2026-02-04 15:00:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Francesco Bruni dirige Kim Rossi Stuart in un racconto autobiografico sul tema della fragilita'. La diagnosi di una malattia costringe un regista a rivalutare i suoi legami personali."
+      "show_description": "Riccardo Milani dirige Michele Placido, Silvio Orlando, Claudio Santamaria e Paola Cortellesi in un film che segue le vicende di 3 operai in lotta contro la chiusura della fabbrica."
     },
     {
       "show_name": "Tartarughe all'infinito",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/tartarughe-all-infinito.webp",
-      "start_time": "2026-02-04 15:00:00",
-      "end_time": "2026-02-04 16:55:00",
+      "show_logo": "https://guidatv.sky.it/uuid/e5d124e5-8ca1-47fc-83d1-e54e51ddd2c9/cover?territory=IT&md5ChecksumParam=cf22d6c0dfa25fac121c5fa17ba02a00",
+      "start_time": "2026-02-05 00:45:00",
+      "end_time": "2026-02-05 02:40:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Aza Holmes, sedicenne affetta da disturbo ossessivo compulsivo e ansia, indaga sulla scomparsa di un miliardario, che è anche il padre di un suo vicino di casa."
     },
     {
-      "show_name": "Favolacce",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/favolacce.webp",
-      "start_time": "2026-02-04 16:55:00",
-      "end_time": "2026-02-04 18:40:00",
+      "show_name": "Leonora addio",
+      "show_logo": "https://guidatv.sky.it/uuid/2ca2b48b-d9e5-4061-a183-3fddc34709c5/cover?territory=IT&md5ChecksumParam=178d32bc7dcbefcfad3e9ced49a558c2",
+      "start_time": "2026-02-05 02:40:00",
+      "end_time": "2026-02-05 06:00:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Elio Germano nella favola nera dei fratelli D’Innocenzo, premiati a Berlino e con 5 Nastri d'Argento. Periferia di Roma: in una comunità di famiglie la rabbia è sul punto di esplodere."
+      "show_description": "Paolo Taviani omaggia Pirandello in un film premiato a Berlino. Dopo la morte dello scrittore, un emissario comunale intraprende un viaggio da Roma ad Agrigento per trasportarne le ceneri."
     },
     {
       "show_name": "Mystic River",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/mystic-river.webp",
-      "start_time": "2026-02-04 18:40:00",
-      "end_time": "2026-02-04 21:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/16d32fc7-4760-4160-b4db-fcac985cdcc1/cover?territory=IT&md5ChecksumParam=34bdee49775f7d74d3b63db224747798",
+      "start_time": "2026-02-05 06:00:00",
+      "end_time": "2026-02-05 08:15:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Oscar e Golden Globe a Sean Penn e Tim Robbins, in un capolavoro di Clint Eastwood. L'omicidio di una ragazza riporta alla luce un caso di pedofilia che coinvolse tre bambini di Boston."
     },
     {
+      "show_name": "A.C.A.B.",
+      "show_logo": "https://guidatv.sky.it/uuid/20bb2bfb-8a69-4200-bcc5-93074716781b/cover?territory=IT&md5ChecksumParam=c92b4dff554169fb134091da76cda96e",
+      "start_time": "2026-02-05 08:15:00",
+      "end_time": "2026-02-05 10:05:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Pierfrancesco Favino, Marco Giallini e Filippo Nigro nella pellicola di Stefano Sollima. Reduci dal G8 di Genova, 3 celerini affrontano l'odio dei cittadini e una vita privata allo sbando."
+    },
+    {
+      "show_name": "Il posto dell'anima",
+      "show_logo": "https://guidatv.sky.it/uuid/e3e9cfb3-4381-4b03-afa2-2beebcd1496a/cover?territory=IT&md5ChecksumParam=4d4d4a62a53c1806426cdb4c75e6d4ae",
+      "start_time": "2026-02-05 10:05:00",
+      "end_time": "2026-02-05 11:55:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Riccardo Milani dirige Michele Placido, Silvio Orlando, Claudio Santamaria e Paola Cortellesi in un film che segue le vicende di 3 operai in lotta contro la chiusura della fabbrica."
+    },
+    {
+      "show_name": "Ogni cosa è illuminata",
+      "show_logo": "https://guidatv.sky.it/uuid/fdbc6166-325e-4052-aaa1-7bc7dacb2e10/cover?territory=IT&md5ChecksumParam=234eb5dcc3c63c7fdfb1e6d12fe00543",
+      "start_time": "2026-02-05 11:55:00",
+      "end_time": "2026-02-05 13:45:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Esordio alla regia di Liev Schreiber nel cult on the road con Elijah Wood. Un giovane americano intraprende un viaggio in Ucraina alla ricerca della donna che salvò suo nonno dai nazisti."
+    },
+    {
       "show_name": "Che fine ha fatto Bernadette?",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/che-fine-ha-fatto-bernadette.webp",
-      "start_time": "2026-02-04 21:00:00",
-      "end_time": "2026-02-04 22:55:00",
+      "show_logo": "https://guidatv.sky.it/uuid/8e16f12e-ae3f-455e-8810-bf8c4a4d4bf1/cover?territory=IT&md5ChecksumParam=f81fd6b09380c2f7197ec0f632200294",
+      "start_time": "2026-02-05 13:45:00",
+      "end_time": "2026-02-05 15:40:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Cate Blanchett e' una donna alla riscoperta di se stessa in una pellicola di Richard Linklater. Bernadette abbandona la vita da casalinga con la voglia di riappropriarsi delle sue passioni."
     },
     {
-      "show_name": "Il posto dell'anima",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Drama/tomorrow/il-posto-dell-anima.webp",
-      "start_time": "2026-02-04 22:55:00",
-      "end_time": "2026-02-05 00:45:00",
+      "show_name": "Piccolo corpo",
+      "show_logo": "https://guidatv.sky.it/uuid/f0c4efac-174e-4437-aec1-1dbc7ce1bf84/cover?territory=IT&md5ChecksumParam=a7a20919970bd09c69689d64d162a6c5",
+      "start_time": "2026-02-05 15:40:00",
+      "end_time": "2026-02-05 17:15:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Riccardo Milani dirige Michele Placido, Silvio Orlando, Claudio Santamaria e Paola Cortellesi in un film che segue le vicende di 3 operai in lotta contro la chiusura della fabbrica."
+      "show_description": "Esordio alla regia di Laura Samani, premiata ai David di Donatello. Dopo aver perso sua figlia alla nascita, Agata parte alla volta di un santuario per battezzare la sua creatura."
+    },
+    {
+      "show_name": "Gli ultimi saranno ultimi",
+      "show_logo": "https://guidatv.sky.it/uuid/e44e84d5-fe7c-4fd6-8422-d6d23f94aad3/cover?territory=IT&md5ChecksumParam=48477c6b906ef7e771784851fb02ddf8",
+      "start_time": "2026-02-05 17:15:00",
+      "end_time": "2026-02-05 19:00:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Dramma sociale di Massimiliano Bruno con Paola Cortellesi e Alessandro Gassmann. La vita di una donna, licenziata perche' incinta, si intreccia con quella di un poliziotto tormentato."
+    },
+    {
+      "show_name": "Uno di noi",
+      "show_logo": "https://guidatv.sky.it/uuid/d88286fc-e03d-41a5-b806-101a42fc2b9d/cover?territory=IT&md5ChecksumParam=42c5eea952c11952aa04ef1029268920",
+      "start_time": "2026-02-05 19:00:00",
+      "end_time": "2026-02-05 21:00:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Kevin Costner e Diane Lane in un dramma dai risvolti thrilling. Uno sceriffo e la moglie lasciano il ranch nel Montana per salvare la nuora e il nipote da una famiglia di criminali."
+    },
+    {
+      "show_name": "Nuovomondo",
+      "show_logo": "https://guidatv.sky.it/uuid/8cbd4593-cc1b-4d04-a2e7-bc8304662985/cover?territory=IT&md5ChecksumParam=9a8a64a6d5e0d53431765d89c0c0a1fa",
+      "start_time": "2026-02-05 21:00:00",
+      "end_time": "2026-02-05 23:00:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Leone d'argento per Emanuele Crialese che dirige Charlotte Gainsbourg in un dramma sull'immigrazione. Inizi del '900: una famiglia siciliana parte per l'America in cerca di fortuna."
+    },
+    {
+      "show_name": "Non odiare",
+      "show_logo": "https://guidatv.sky.it/uuid/3411be93-0bf2-4db3-8d66-fc55ffb80d05/cover?territory=IT&md5ChecksumParam=b52a77ba31a9caec34ff7e1d645f7fdf",
+      "start_time": "2026-02-05 23:00:00",
+      "end_time": "2026-02-06 00:40:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Alessandro Gassmann e Sara Serraiocco nell'opera prima di Mauro Mancini, ispirata a una storia vera. Un chirurgo ebreo lascia morire un uomo, ferito in un incidente, per una svastica tatuata sul petto. Turbato dai sensi di colpa, assume la figlia della vittima come colf."
     }
   ]
 }
