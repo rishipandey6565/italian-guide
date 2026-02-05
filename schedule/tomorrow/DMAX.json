@@ -1,231 +1,222 @@
 {
   "channel_name": "DMAX",
-  "date": "2026-02-05",
+  "date": "2026-02-06",
   "programs": [
     {
-      "show_name": "WWE NXT - 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 00:00:00",
-      "end_time": "2026-02-05 00:00:00",
-      "episode_number": "E135",
-      "show_category": "",
-      "show_description": "St. Ep.135 - Il DarkState difende i titoli di coppia contro gli Out the Mud. Ci sono ben 3 incontri di qualificazione al Ladder Match per il titolo assoluto."
-    },
-    {
-      "show_name": "WWE NXT - 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 00:00:00",
-      "end_time": "2026-02-05 01:40:00",
-      "episode_number": "E135",
-      "show_category": "",
-      "show_description": "St. Ep.135 - Il DarkState difende i titoli di coppia contro gli Out the Mud. Ci sono ben 3 incontri di qualificazione al Ladder Match per il titolo assoluto."
-    },
-    {
-      "show_name": "KO! Botte da strada",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 01:40:00",
-      "end_time": "2026-02-05 02:35:00",
-      "episode_number": "S1 E4",
-      "show_category": "",
-      "show_description": "St.1 Ep.4 - Furti e momenti imbarazzanti vengono catturati da cellulari e telecamere."
-    },
-    {
-      "show_name": "KO! Botte da strada",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 02:35:00",
-      "end_time": "2026-02-05 03:30:00",
+      "show_name": "Affari d'occasione",
+      "show_logo": "",
+      "start_time": "2026-02-06 00:00:00",
+      "end_time": "2026-02-06 00:00:00",
       "episode_number": "S1 E5",
       "show_category": "",
-      "show_description": "St.1 Ep.5 - Furti e momenti imbarazzanti vengono catturati da cellulari e telecamere."
+      "show_description": "Reperti preziosi - Al mercato di Susegana ogni giorno possono arrivare tesori che non ti aspetti."
+    },
+    {
+      "show_name": "Affari d'occasione",
+      "show_logo": "",
+      "start_time": "2026-02-06 00:00:00",
+      "end_time": "2026-02-06 00:55:00",
+      "episode_number": "S1 E5",
+      "show_category": "",
+      "show_description": "Reperti preziosi - Al mercato di Susegana ogni giorno possono arrivare tesori che non ti aspetti."
+    },
+    {
+      "show_name": "Affari d'occasione",
+      "show_logo": "",
+      "start_time": "2026-02-06 00:55:00",
+      "end_time": "2026-02-06 02:00:00",
+      "episode_number": "S1 E4",
+      "show_category": "",
+      "show_description": "Video Game Battle - Thomas farebbe di tutto per accaparrarsi l'oggetto del desiderio o per negare un aumento."
+    },
+    {
+      "show_name": "KO! Botte da strada",
+      "show_logo": "",
+      "start_time": "2026-02-06 02:00:00",
+      "end_time": "2026-02-06 02:55:00",
+      "episode_number": "S1 E6",
+      "show_category": "",
+      "show_description": "St.1 Ep.6 - Furti e momenti imbarazzanti vengono catturati da cellulari e telecamere."
+    },
+    {
+      "show_name": "KO! Botte da strada",
+      "show_logo": "",
+      "start_time": "2026-02-06 02:55:00",
+      "end_time": "2026-02-06 03:55:00",
+      "episode_number": "S1 E1",
+      "show_category": "",
+      "show_description": "St.1 Ep.1 - Furti e momenti imbarazzanti vengono catturati da cellulari e telecamere."
     },
     {
       "show_name": "Bodycam - Agenti in prima linea",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 03:30:00",
-      "end_time": "2026-02-05 04:20:00",
-      "episode_number": "S3 E13",
+      "show_logo": "",
+      "start_time": "2026-02-06 03:55:00",
+      "end_time": "2026-02-06 05:00:00",
+      "episode_number": "S3 E16",
       "show_category": "",
-      "show_description": "Manovra sbagliata - In Ohio, la polizia aiuta una donna la cui auto e' finita in acqua e sta affondando velocemente. In Florida, gli agenti inseguono un criminale armato e gia' ricercato."
+      "show_description": "La fuga - Un agente dell'FBI scopre un piano per uccidere alcuni avvocati e politici. In Florida, un uomo si getta nelle acque infestate dai coccodrilli per non essere arrestato."
     },
     {
       "show_name": "Bodycam - Agenti in prima linea",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 04:20:00",
-      "end_time": "2026-02-05 05:10:00",
-      "episode_number": "S3 E14",
+      "show_logo": "",
+      "start_time": "2026-02-06 05:00:00",
+      "end_time": "2026-02-06 06:00:00",
+      "episode_number": "S3 E17",
       "show_category": "",
-      "show_description": "Caccia all'uomo - In Ohio, un'unita' della SWAT deve fermare un uomo armato con un coltello. In Georgia, la polizia lancia una caccia all'uomo quando un sospettato ferisce un poliziotto."
-    },
-    {
-      "show_name": "Bodycam - Agenti in prima linea",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 05:10:00",
-      "end_time": "2026-02-05 06:00:00",
-      "episode_number": "S3 E15",
-      "show_category": "",
-      "show_description": "Fuoco incrociato - In California, un'esplosione di gas fa saltare il tetto di un appartamento e mette in pericolo gli agenti. In Georgia, un uomo lotta per sopravvivere in un SUV distrutto."
+      "show_description": "Ombre - La polizia da' la caccia a un noto criminale nella pericolosa Ocala National Forest. In Michigan, alcune irruzioni scatenano una caccia all'uomo lunga tre giorni."
     },
     {
       "show_name": "Affari in valigia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 06:00:00",
-      "end_time": "2026-02-05 06:25:00",
-      "episode_number": "S2 E1",
+      "show_logo": "",
+      "start_time": "2026-02-06 06:00:00",
+      "end_time": "2026-02-06 06:25:00",
+      "episode_number": "S2 E4",
       "show_category": "",
-      "show_description": "Sangue amaro - Gli acquirenti sono tornati e partecipano ad un'asta a Red Hook, nello stato di New York, dove cercano di portare a casa un pezzo di storia. Ci riusciranno?"
+      "show_description": "Spazzati via - Gli acquirenti arrivano a Tucson, in Arizona, per partecipare ad un'asta di casse non reclamate. La situazione si surriscalda quando uno degli esperti testa un vecchio detonatore per esplosivi."
     },
     {
       "show_name": "Affari in valigia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 06:25:00",
-      "end_time": "2026-02-05 06:55:00",
-      "episode_number": "S2 E2",
+      "show_logo": "",
+      "start_time": "2026-02-06 06:25:00",
+      "end_time": "2026-02-06 06:55:00",
+      "episode_number": "S2 E5",
       "show_category": "",
-      "show_description": "Che scemo - Gli acquirenti partecipano ad un'asta della polizia a Stockton, in California. Ci sono diversi oggetti di grande valore da poter scegliere, inclusa una slot machine vintage."
+      "show_description": "Mike Tyson - Gli acquirenti arrivano ad un'asta di proprieta' a Jacksonville, in Florida. Tra le offerte, ci saranno degli oggetti da collezione della cultura pop e delle casse sigillate."
     },
     {
       "show_name": "Banco dei pugni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 06:55:00",
-      "end_time": "2026-02-05 07:20:00",
-      "episode_number": "S3 E7",
+      "show_logo": "",
+      "start_time": "2026-02-06 06:55:00",
+      "end_time": "2026-02-06 07:20:00",
+      "episode_number": "S3 E10",
       "show_category": "",
-      "show_description": "La vendetta di Les - Les esige vendetta quando Seth spende il denaro del negozio su un acquisto impulsivo. In seguito Les apre il portafogli quando un ragazzo porta un raro pezzo della storia di Detroit."
+      "show_description": "I modi di Les - Tutto viene messo in discussione quando Seth mette in cattiva luce Les di fronte allo staff. Les da' battaglia a Seth su una difficile decisione economica: chi la spuntera'?"
     },
     {
       "show_name": "Banco dei pugni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 07:20:00",
-      "end_time": "2026-02-05 07:45:00",
-      "episode_number": "S3 E8",
-      "show_category": "",
-      "show_description": "Allarme rosso - Les si infuria con Ashley quando il suo comportamento gli fa perdere un grosso cliente. Inoltre, c'e' tensione in negozio quando un mago della truffa raggira un cliente rubandogli i soldi."
-    },
-    {
-      "show_name": "Banco dei pugni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 07:45:00",
-      "end_time": "2026-02-05 08:10:00",
-      "episode_number": "S3 E9",
-      "show_category": "",
-      "show_description": "Rivalita' - L'accesa rivalita' fra Seth e Ashley raggiunge il punto massimo: lo staff e' sconvolto. Intanto, un oggetto vintage di un collezionista suscita una vivace negoziazione."
-    },
-    {
-      "show_name": "A caccia di tesori",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 08:10:00",
-      "end_time": "2026-02-05 09:10:00",
-      "episode_number": "S15 E9",
-      "show_category": "",
-      "show_description": "Stranezze del Doctor Fred - Mike e Frank arrivano in ritardo all'appuntamento con il Dr. Fred. Dopo aver eluso l'assistente brontolone, si ritrovano in uno strano mondo."
-    },
-    {
-      "show_name": "A caccia di tesori",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 09:10:00",
-      "end_time": "2026-02-05 10:05:00",
-      "episode_number": "S16 E8",
-      "show_category": "",
-      "show_description": "Prendi questa strada - In Indiana, Mike e Frank affrontano le fredde temperature per selezionare degli oggetti restaurati. Intanto, Danielle continua a lavorare su un autobus."
-    },
-    {
-      "show_name": "Per un pugno di Giada",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 10:05:00",
-      "end_time": "2026-02-05 11:55:00",
-      "episode_number": "S2 E1",
-      "show_category": "",
-      "show_description": "St.2 Ep.1 - Una squadra va alla ricerca della preziosa giada."
-    },
-    {
-      "show_name": "Airport Security: Stati Uniti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 11:55:00",
-      "end_time": "2026-02-05 13:55:00",
-      "episode_number": "S1 E3",
-      "show_category": "",
-      "show_description": "Che viaggio! - Gli agenti indagano su fiale, arrivate dalla Cina, che contengono una polvere misteriosa."
-    },
-    {
-      "show_name": "Storage Wars Canada - 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 13:55:00",
-      "end_time": "2026-02-05 14:55:00",
-      "episode_number": "S1 E7",
-      "show_category": "",
-      "show_description": "Odora i miei capelli - Roy arriva all'asta mascherato e si presenta come Ray, con capelli lunghi e una buffa dentiera. Ma gli altri acquirenti crederanno alla sua trasformazione?"
-    },
-    {
-      "show_name": "Storage Wars Canada - 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 14:55:00",
-      "end_time": "2026-02-05 15:55:00",
-      "episode_number": "S1 E8",
-      "show_category": "",
-      "show_description": "Passione fashion - Ursula fa di tutto per aggiudicarsi un deposito fashion a Newmarket, la citta' natale di Rick e Cindy. Ma la combattiva del gruppo riuscira' ad avere la meglio e aggiudicarsi il box?"
-    },
-    {
-      "show_name": "Affari a tutti i costi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 15:55:00",
-      "end_time": "2026-02-05 16:50:00",
-      "episode_number": "S3 E20",
-      "show_category": "",
-      "show_description": "St.3 Ep.20 - La sfida diventa personale quando Brandon e Lori puntano in alto. La loro scommessa dara' loro qualche vantaggio o un concorrente a sorpresa rovinera' la loro giornata?"
-    },
-    {
-      "show_name": "Affari a tutti i costi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 16:50:00",
-      "end_time": "2026-02-05 17:50:00",
+      "show_logo": "",
+      "start_time": "2026-02-06 07:20:00",
+      "end_time": "2026-02-06 07:45:00",
       "episode_number": "S3 E11",
       "show_category": "",
-      "show_description": "Chevy - La tensione aumenta quando gli acquirenti devono vedersela con uno sciame di api. Jesse finisce nel mirino di Brandon ma nel frattempo scopre una Chevy trasformata in un bar."
+      "show_description": "Pugno debole - Les cerca di trovare un acquirente per un bus party modificato per vincere una vecchia scommessa. In seguito, Seth fa una rivelazione scioccante che manda una coppia su tutte le furie."
+    },
+    {
+      "show_name": "Banco dei pugni",
+      "show_logo": "",
+      "start_time": "2026-02-06 07:45:00",
+      "end_time": "2026-02-06 08:10:00",
+      "episode_number": "S3 E12",
+      "show_category": "",
+      "show_description": "Oro sciolto - Seth interviene quando un cliente e un impiegato creano problemi nel parcheggio. In seguito, lo staff si riunisce per dare a Seth il regalo del compleanno, una sorpresa attesa da una vita."
+    },
+    {
+      "show_name": "A caccia di tesori",
+      "show_logo": "",
+      "start_time": "2026-02-06 08:10:00",
+      "end_time": "2026-02-06 09:10:00",
+      "episode_number": "S15 E10",
+      "show_category": "",
+      "show_description": "Cimelio restituito - Smarrito per mezzo secolo, i ragazzi riportano eroicamente un manufatto navale nella sua legittima dimora a Washington, DC."
+    },
+    {
+      "show_name": "A caccia di tesori",
+      "show_logo": "",
+      "start_time": "2026-02-06 09:10:00",
+      "end_time": "2026-02-06 10:05:00",
+      "episode_number": "S16 E9",
+      "show_category": "",
+      "show_description": "Space Invaders - A Detroit i ragazzi si occupano di una collezione che contiene diverse cose, dai proiettori ai robot. Frank affronta il collezionista in una sfida a tema Space Invaders."
     },
     {
       "show_name": "Per un pugno di Giada",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 17:50:00",
-      "end_time": "2026-02-05 19:40:00",
+      "show_logo": "",
+      "start_time": "2026-02-06 10:05:00",
+      "end_time": "2026-02-06 11:55:00",
       "episode_number": "S2 E2",
       "show_category": "",
       "show_description": "St.2 Ep.2 - Una squadra va alla ricerca della preziosa giada."
     },
     {
+      "show_name": "Airport Security: Stati Uniti",
+      "show_logo": "",
+      "start_time": "2026-02-06 11:55:00",
+      "end_time": "2026-02-06 13:55:00",
+      "episode_number": "S1 E4",
+      "show_category": "",
+      "show_description": "15 lunghi anni - Un uomo, in fuga da 15 anni, viene finalmente catturato."
+    },
+    {
+      "show_name": "Storage Wars Canada - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-06 13:55:00",
+      "end_time": "2026-02-06 14:55:00",
+      "episode_number": "S1 E9",
+      "show_category": "",
+      "show_description": "Santa pazienza - Ursula cerca di sopportare la sua autoritaria sorella maggiore, Rick prende in mano le redini della situazione, Roy chiama i poliziotti e Paul e Bogart perdono la pazienza."
+    },
+    {
+      "show_name": "Storage Wars Canada - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-06 14:55:00",
+      "end_time": "2026-02-06 15:55:00",
+      "episode_number": "S1 E10",
+      "show_category": "",
+      "show_description": "Aste infuocate - In un modo o nell'altro, tutti gli acquirenti restano 'scottati' dall'asta durante il giorno piu' caldo dell'anno. Le temperature e gli animi si surriscaldano, raggiungendo il limite."
+    },
+    {
+      "show_name": "Affari a tutti i costi",
+      "show_logo": "",
+      "start_time": "2026-02-06 15:55:00",
+      "end_time": "2026-02-06 16:50:00",
+      "episode_number": "S3 E12",
+      "show_category": "",
+      "show_description": "Porta numero 1 - Un misterioso contenitore attira l'attenzione di Jesse: i Bernier alzano il prezzo. La coppia spera di ottenere degli strumenti da DJ e le offerte si impennano subito."
+    },
+    {
+      "show_name": "Affari a tutti i costi",
+      "show_logo": "",
+      "start_time": "2026-02-06 16:50:00",
+      "end_time": "2026-02-06 17:50:00",
+      "episode_number": "S3 E13",
+      "show_category": "",
+      "show_description": "In aeroporto - Le squadre partecipano a un'asta in aeroporto per ottenere bagagli e pezzi di aerei. Un enorme oggetto potrebbe valere un sacco di soldi, ma vale davvero la pena acquistarlo?"
+    },
+    {
+      "show_name": "Per un pugno di Giada",
+      "show_logo": "",
+      "start_time": "2026-02-06 17:50:00",
+      "end_time": "2026-02-06 19:40:00",
+      "episode_number": "S2 E3",
+      "show_category": "",
+      "show_description": "St.2 Ep.3 - Una squadra va alla ricerca della preziosa giada."
+    },
+    {
       "show_name": "Operazione N.A.S.",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 19:40:00",
-      "end_time": "2026-02-05 21:40:00",
-      "episode_number": "S2 E1",
+      "show_logo": "",
+      "start_time": "2026-02-06 19:40:00",
+      "end_time": "2026-02-06 21:40:00",
+      "episode_number": "S2 E2",
       "show_category": "",
-      "show_description": "St.2 Ep.1 - Cibo avariato, merci illegali o contraffatte e ancora, medicinali scaduti. Ogni giorno i Carabinieri del N.A.S. difendono la salute dei cittadini con le loro indagini e ispezioni sanitarie."
+      "show_description": "St.2 Ep.2 - Cibo avariato, merci illegali o contraffatte e ancora, medicinali scaduti. Ogni giorno i Carabinieri del N.A.S. difendono la salute dei cittadini con le loro indagini e ispezioni sanitarie."
     },
     {
-      "show_name": "72 animali pericolosi con Barbascura X - 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 21:40:00",
-      "end_time": "2026-02-05 22:45:00",
-      "episode_number": "S3 E7",
+      "show_name": "Stop! Border Control: Roma Fiumicino",
+      "show_logo": "",
+      "start_time": "2026-02-06 21:40:00",
+      "end_time": "2026-02-06 22:50:00",
+      "episode_number": "S2 E2",
       "show_category": "",
-      "show_description": "St.3 Ep.7 - Barbascura X ci mostra gli animali piu' pericolosi del Sud America."
+      "show_description": "St.2 Ep.2 - Scopriamo il lavoro degli agenti a Fiumicino."
     },
     {
-      "show_name": "72 animali pericolosi con Barbascura X",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 22:45:00",
-      "end_time": "2026-02-05 23:50:00",
-      "episode_number": "S3 E6",
+      "show_name": "Stop! Border Control: Roma Fiumicino",
+      "show_logo": "",
+      "start_time": "2026-02-06 22:50:00",
+      "end_time": "2026-02-07 00:00:00",
+      "episode_number": "S4 E3",
       "show_category": "",
-      "show_description": "St.3 Ep.6 - Barbascura X ci mostra gli animali piu' pericolosi del Sud America."
-    },
-    {
-      "show_name": "Affari d'occasione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 23:50:00",
-      "end_time": "2026-02-06 00:00:00",
-      "episode_number": "S1 E5",
-      "show_category": "",
-      "show_description": "Reperti preziosi - Al mercato di Susegana ogni giorno possono arrivare tesori che non ti aspetti."
+      "show_description": "St.4 Ep.3 - Scopriamo il lavoro degli agenti a Fiumicino."
     }
   ]
 }

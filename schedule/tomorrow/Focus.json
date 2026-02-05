@@ -1,231 +1,249 @@
 {
   "channel_name": "Focus",
-  "date": "2026-02-05",
+  "date": "2026-02-06",
   "programs": [
     {
+      "show_name": "Freedom Oltre Il Confine",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311956001001201/media/28/92/d9404406-17be-486d-9da8-69cbb189f976/169a11ed-009c-4523-9cbe-6bf57ec7921f.jpg",
+      "start_time": "2026-02-06 00:00:00",
+      "end_time": "2026-02-06 00:31:00",
+      "episode_number": "S1 E12",
+      "show_category": "Viaggi",
+      "show_description": "In questa puntata di Freedom: varcheremo i cancelli della clausura dove visse Rita Da Cascia, la santa più venerata d'Italia. Studieremo cosa successe a Villa Mondragone dove il tempo fu fermato, racconteremo la fantastica storia di Erice in Sicilia, e riscopriremo le suggestive catacombe di Alessandria D'Egitto."
+    },
+    {
+      "show_name": "Natura Meraviglie Senza Tempo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312747001000202/media/20/84/d7edf0ad-b2e6-4176-aead-609d0469a497/62b0aa8a-a95c-4792-98f5-5818efa037eb.jpg",
+      "start_time": "2026-02-06 00:31:00",
+      "end_time": "2026-02-06 01:38:00",
+      "episode_number": "S1 E2",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Un viaggio verso uno dei 3 fenomeni naturali famosi e mozzafiato del mondo: la baia di Ha Long."
+    },
+    {
+      "show_name": "Natura Meraviglie Senza Tempo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312747001000302/media/20/84/d7edf0ad-b2e6-4176-aead-609d0469a497/62b0aa8a-a95c-4792-98f5-5818efa037eb.jpg",
+      "start_time": "2026-02-06 01:38:00",
+      "end_time": "2026-02-06 02:30:00",
+      "episode_number": "S1 E3",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Un viaggio verso uno dei 3 dei fenomeni naturali famosi e mozzafiato del mondo: il Grand Canyon."
+    },
+    {
+      "show_name": "Preistoria Quello Che Non Sapevamo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312775601000204/media/25/89/b9495b30-00da-4406-b8f9-f64ec34d804e/b2fa74ed-45af-47b8-8a9b-2a2a460092b8.jpg",
+      "start_time": "2026-02-06 02:30:00",
+      "end_time": "2026-02-06 03:24:00",
+      "episode_number": "S1 E2",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Un'indagine paleontologica supportata dai principali scienziati internazionali del mondo sulle creature dimenticate."
+    },
+    {
+      "show_name": "I Grandi Miti Dell'umanita' Misteri E Rivelazioni",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313197401000504/media/30/94/c158d27b-5766-425a-842f-6671645d9594/3423c511-5860-4eb6-bfae-95f84e63e399.jpg",
+      "start_time": "2026-02-06 03:24:00",
+      "end_time": "2026-02-06 04:19:00",
+      "episode_number": "S3 E5",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Gli studiosi indagano sulla misteriosa quarta piramide di Giza: una tomba faraonica che, un tempo, sorgeva sull'altopiano di Abu Ra-wash, poco distante dal più famoso sito. Oggi, del mausoleo re-stano solo le fondazioni. Apparteneva a uno dei figli di Cheope, il faraone Djedefra, del cui regno non rimangono tracce. Gli archeo-logi tenteranno di far luce sulle cause della scomparsa del maestoso monumento."
+    },
+    {
+      "show_name": "Storie Maledette",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313786701000402/media/28/92/3d6ca971-7d82-467b-b430-a5cd04843583/a37fc8c9-d61d-4572-b25b-0964e5f4dfaf.jpg",
+      "start_time": "2026-02-06 04:19:00",
+      "end_time": "2026-02-06 05:11:00",
+      "episode_number": "S2 E4",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Nelle sacre sale del potere americano cala un'ombra. La Maledizione di Tippecanoe, nata su un campo di battaglia intriso di sangue, getta il suo sguardo lungo e mortale su ogni presidente eletto in un anno che termina con zero e sembra andare incontro a una fine prematura."
+    },
+    {
+      "show_name": "Lo Sapevi Che?",
+      "show_logo": "",
+      "start_time": "2026-02-06 05:11:00",
+      "end_time": "2026-02-06 05:18:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "La raccolta differenziata e' un grande alleato per la tutela dell'ambiente; l'Italia e' il primo paese in Europa per il consumo di bottiglie di plastica."
+    },
+    {
+      "show_name": "Lo Sapevi Che?",
+      "show_logo": "",
+      "start_time": "2026-02-06 05:18:00",
+      "end_time": "2026-02-06 05:24:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Nel 2023 il consumo del carbone e del petrolio ha raggiunto i massimi; i viaggi attraverso l'Atlantico potrebbero accorciarsi di 8 volte grazie all'aereo supersonico."
+    },
+    {
+      "show_name": "Kill Or Cure? The Story Of Venom",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312552501000104/media/5/5/f4fae468-6bec-4932-bf9a-f9e3b7a8c4f5/a93cc52a-d590-4b28-a37c-24e6ce7071f0.jpg",
+      "start_time": "2026-02-06 05:24:00",
+      "end_time": "2026-02-06 06:19:00",
+      "episode_number": "",
+      "show_category": "Il regno Animale",
+      "show_description": "L'Australia ospita alcuni degli animali più velenosi del mondo, alcuni così letali da poter uccidere un essere umano in pochi minuti. Oltre a squali e coccodrilli, ha anche una collezione di oltre un centinaio di creature velenose, tra cui quattro dei dieci animali più mortali del pianeta."
+    },
+    {
+      "show_name": "Patagonia La Vita Ai Confini Del Mondo",
+      "show_logo": "",
+      "start_time": "2026-02-06 06:19:00",
+      "end_time": "2026-02-06 07:06:00",
+      "episode_number": "S1 E4",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Siamo nel sud della Patagonia, l'ultimo lembo di terra prima dell'Artico, dove la sopravvivenza è messa a dura prova."
+    },
+    {
+      "show_name": "Unearthed La Storia Dalle Fondamenta",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312110101000504/media/22/86/7536e0d5-b5f5-43c9-a00f-38fead2ecfda/3c8ac268-b78b-434b-8da4-4ff0a24b9dbb.jpg",
+      "start_time": "2026-02-06 07:06:00",
+      "end_time": "2026-02-06 07:50:00",
+      "episode_number": "S1 E5",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "La grande piramide è l'ultima meraviglia del mondo antico sopravvissuta fino ai nostri tempi da oltre 4500 anni."
+    },
+    {
+      "show_name": "Fuori Le Prove! Indagini Ai Confini Della Realta'",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313427201000804/media/1/1/0119531c-14ba-49ac-8b46-a8ddb54b3b58/6db4541d-a241-4322-a4b0-0ccdbee7ea84.jpg",
+      "start_time": "2026-02-06 07:50:00",
+      "end_time": "2026-02-06 08:45:00",
+      "episode_number": "S4 E8",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "Gli esperti analizzano uno strano oggetto scuro nel cielo in pieno giorno che potrebbe essere un UFO. Poi un edificio che si rimpiccolisce man mano che lo spettatore si avvicina e alberi giganti abbattuti all'interno di un parco nazionale che potrebbero essere il risultato della furia di un Sasquatch."
+    },
+    {
+      "show_name": "I Grandi Miti Dell'umanita' Misteri E Rivelazioni",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313197401000504/media/30/94/c158d27b-5766-425a-842f-6671645d9594/3423c511-5860-4eb6-bfae-95f84e63e399.jpg",
+      "start_time": "2026-02-06 08:45:00",
+      "end_time": "2026-02-06 09:59:00",
+      "episode_number": "S3 E5",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Gli studiosi indagano sulla misteriosa quarta piramide di Giza: una tomba faraonica che, un tempo, sorgeva sull'altopiano di Abu Ra-wash, poco distante dal più famoso sito. Oggi, del mausoleo re-stano solo le fondazioni. Apparteneva a uno dei figli di Cheope, il faraone Djedefra, del cui regno non rimangono tracce. Gli archeo-logi tenteranno di far luce sulle cause della scomparsa del maestoso monumento."
+    },
+    {
+      "show_name": "Storie Maledette",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313786701000402/media/28/92/3d6ca971-7d82-467b-b430-a5cd04843583/a37fc8c9-d61d-4572-b25b-0964e5f4dfaf.jpg",
+      "start_time": "2026-02-06 09:59:00",
+      "end_time": "2026-02-06 11:06:00",
+      "episode_number": "S2 E4",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Nelle sacre sale del potere americano cala un'ombra. La Maledizione di Tippecanoe, nata su un campo di battaglia intriso di sangue, getta il suo sguardo lungo e mortale su ogni presidente eletto in un anno che termina con zero e sembra andare incontro a una fine prematura."
+    },
+    {
+      "show_name": "Preistoria Quello Che Non Sapevamo",
+      "show_logo": "",
+      "start_time": "2026-02-06 11:06:00",
+      "end_time": "2026-02-06 12:19:00",
+      "episode_number": "S1 E3",
+      "show_category": "",
+      "show_description": "Un'indagine paleontologica supportata dai principali scienziati internazionali del mondo sulle creature dimenticate."
+    },
+    {
+      "show_name": "E Planet",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314224501000401/media/29/93/e73019ed-1a11-48db-b88d-8444833d5c44/366bb03f-4831-4a31-bc0a-86b36f51731a.jpg",
+      "start_time": "2026-02-06 12:19:00",
+      "end_time": "2026-02-06 12:49:00",
+      "episode_number": "S1 E4",
+      "show_category": "Magazine",
+      "show_description": "Appuntamento con il Magazine Green all'insegna della sostenibilità."
+    },
+    {
+      "show_name": "Drive Up Winter Edition",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313764003000301/media/16/80/e7b349ea-06cd-4a0d-a537-ee61f5e2d3a8/3e13035b-a092-4a83-bc97-5f9deef8d720.jpg",
+      "start_time": "2026-02-06 12:49:00",
+      "end_time": "2026-02-06 13:20:00",
+      "episode_number": "",
+      "show_category": "Magazine",
+      "show_description": "Magazine di motori che ci guida tra supercar e auto da sogno, approfondimenti sui modelli più recenti e anticipazioni sulle novità più interessanti."
+    },
+    {
+      "show_name": "Waterworld Africa",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311716001000402/media/18/82/146f96d7-d22a-4188-bbd6-3b16025ebfa6/b2394f62-0681-4d6e-a624-641ae1b2093b.jpg",
+      "start_time": "2026-02-06 13:20:00",
+      "end_time": "2026-02-06 14:20:00",
+      "episode_number": "S1 E4",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "È inverno, la stagione secca nelle savane settentrionali del basso Veld del Sud Africa. La vita nelle savane dell'Africa è governata dall'acqua e durante la lunga stagione secca i fiumi vivificanti scorrono asciutti, prevalgono condizioni di siccità dura - e così le pozze d'acqua diventano affollate. In questo periodo dell'anno, la ricerca dell'acqua governa la vita di tutti coloro che vivono qui. E così la competizione per lo spazio nelle restanti pozze d'acqua è feroce e talvolta la mancanza d'acqua crea anche strani compagni di letto."
+    },
+    {
+      "show_name": "Kill Or Cure? The Story Of Venom",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312552501000104/media/5/5/f4fae468-6bec-4932-bf9a-f9e3b7a8c4f5/a93cc52a-d590-4b28-a37c-24e6ce7071f0.jpg",
+      "start_time": "2026-02-06 14:20:00",
+      "end_time": "2026-02-06 15:30:00",
+      "episode_number": "",
+      "show_category": "Il regno Animale",
+      "show_description": "L'Australia ospita alcuni degli animali più velenosi del mondo, alcuni così letali da poter uccidere un essere umano in pochi minuti. Oltre a squali e coccodrilli, ha anche una collezione di oltre un centinaio di creature velenose, tra cui quattro dei dieci animali più mortali del pianeta."
+    },
+    {
       "show_name": "Cronache Di Sangue La Storia Di Jack Lo Squartatore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/cronache-di-sangue-la-storia-di-jack-lo-squartatore.webp",
-      "start_time": "2026-02-05 00:00:00",
-      "end_time": "2026-02-05 00:21:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314100701000204/media/15/15/6cfdd6da-119c-43b8-af3b-8c26da765c7e/149df111-50dd-4646-9d5b-b106311724e0.jpg",
+      "start_time": "2026-02-06 15:30:00",
+      "end_time": "2026-02-06 16:30:00",
       "episode_number": "S1 E2",
       "show_category": "Storia Miti e Religioni",
       "show_description": "Whitechapel è nel panico, the Star incita violenti scontri antisemiti, mentre la polizia lotta e il vero assassino colpisce ancora."
     },
     {
       "show_name": "Loch Ness Storia Di Un Mostro",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 00:21:00",
-      "end_time": "2026-02-05 01:27:00",
+      "show_logo": "",
+      "start_time": "2026-02-06 16:30:00",
+      "end_time": "2026-02-06 17:36:00",
       "episode_number": "S1 E2",
       "show_category": "",
       "show_description": "Il presentatore televisivo e ambientalista Peter Scott si unisce alla caccia al mostro di Loch Ness cercando di coinvolgere il mondo scientifico."
     },
     {
-      "show_name": "Preistoria Quello Che Non Sapevamo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/preistoria-quello-che-non-sapevamo.webp",
-      "start_time": "2026-02-05 01:27:00",
-      "end_time": "2026-02-05 02:18:00",
-      "episode_number": "S1 E1",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Un'indagine paleontologica supportata dai principali scienziati internazionali del mondo sulle creature dimenticate."
-    },
-    {
-      "show_name": "I Grandi Miti Dell'umanita' Misteri E Rivelazioni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/i-grandi-miti-dell-umanita-misteri-e-rivelazioni.webp",
-      "start_time": "2026-02-05 02:18:00",
-      "end_time": "2026-02-05 03:15:00",
-      "episode_number": "S3 E4",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "L'esperto di Storia antica Andrew Chugg, con l'aiuto e l'intervento di altri storici e professori, è alla ricerca del luogo esatto dove è stato sepolto Alessandro Magno: il leggendario sovrano e condottiero macedone che ha fondato uno degli imperi più grandi di sempre. Partendo da Alessandria d'Egitto e giungendo fino a Venezia, la ricerca della tomba ci immerge nelle vicende di una delle figure più affascinanti e misteriose della Storia."
-    },
-    {
-      "show_name": "Storie Maledette",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/storie-maledette.webp",
-      "start_time": "2026-02-05 03:15:00",
-      "end_time": "2026-02-05 04:07:00",
-      "episode_number": "S2 E3",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Nel cuore di Los Angeles c'è un hotel dalla reputazione sinistra. Una lunga storia di tragici incontri riecheggia tra le sue mura, torcendo i corridoi in un labirinto di anime perdute. I turisti sono attratti dal suo macabro passato."
-    },
-    {
-      "show_name": "Viaggiatori Uno Sguardo Sul Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/viaggiatori-uno-sguardo-sul-mondo.webp",
-      "start_time": "2026-02-05 04:07:00",
-      "end_time": "2026-02-05 04:31:00",
-      "episode_number": "S1 E37",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Alla scoperta delle bellezze artistiche e naturali del mondo, dalla Polinesia all'Indonesia, dall'Africa ai Caraibi."
-    },
-    {
-      "show_name": "I Signori Della Notte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/i-signori-della-notte.webp",
-      "start_time": "2026-02-05 04:31:00",
-      "end_time": "2026-02-05 05:22:00",
-      "episode_number": "",
-      "show_category": "Il regno Animale",
-      "show_description": "Rapaci notturni con la capacità di sentire, vedere e volare nell'oscurità dimostrandosi predatori eccezionali di importanza ecologica cruciale poiché uccidono grandi quantità di roditori e insetti. Ogni gufo caccia in diversi ecosistemi tenendo a bada le popolazioni di topi, conigli e insetti."
-    },
-    {
-      "show_name": "Animali Alfa Grandi Privilegi, Grandi Responsabilita'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/animali-alfa-grandi-privilegi-grandi-responsabilita.webp",
-      "start_time": "2026-02-05 05:22:00",
-      "end_time": "2026-02-05 06:14:00",
-      "episode_number": "",
-      "show_category": "Il regno Animale",
-      "show_description": "All'interno di molte specie animali con un'organizzazione sociale, l'Alfa è l'esemplare che occupa il gradino più alto della scala gerarchica. Tra i lupi, i cervi, le capre, i rinoceronti e i leoni, l'Alfa è il leader che domina e guida il gruppo."
-    },
-    {
-      "show_name": "Luoghi Di Magnifica Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 06:14:00",
-      "end_time": "2026-02-05 06:19:00",
-      "episode_number": "S1 E22",
-      "show_category": "Viaggi",
-      "show_description": "Alla scoperta delle meraviglie del nostro Paese."
-    },
-    {
-      "show_name": "Patagonia La Vita Ai Confini Del Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 06:19:00",
-      "end_time": "2026-02-05 07:02:00",
-      "episode_number": "S1 E3",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Dalle pendici delle Ande della Patagonia saliamo fino a raggiungere la terza distesa di ghiaccio più larga al mondo."
-    },
-    {
-      "show_name": "Unearthed La Storia Dalle Fondamenta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/unearthed-la-storia-dalle-fondamenta.webp",
-      "start_time": "2026-02-05 07:02:00",
-      "end_time": "2026-02-05 07:46:00",
-      "episode_number": "S1 E4",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Palazzo di Westminster, Londra. Uno degli edifici più conosciuti al mondo che non rappresenta solo un palazzo, ma un gioiello dell'ingegneria."
-    },
-    {
       "show_name": "Fuori Le Prove! Indagini Ai Confini Della Realta'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/fuori-le-prove-indagini-ai-confini-della-realta.webp",
-      "start_time": "2026-02-05 07:46:00",
-      "end_time": "2026-02-05 08:41:00",
-      "episode_number": "S4 E7",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313427201000904/media/1/1/0119531c-14ba-49ac-8b46-a8ddb54b3b58/6db4541d-a241-4322-a4b0-0ccdbee7ea84.jpg",
+      "start_time": "2026-02-06 17:36:00",
+      "end_time": "2026-02-06 18:31:00",
+      "episode_number": "S4 E9",
       "show_category": "Scienza e Tecnologia",
-      "show_description": "Delle segnalazioni di uno strano vortice brillante nei cieli dell'Oklahoma sono la prova di un vero UFO? Un video che si dice provenga dagli archivi del Vaticano, mostra un vero caso di possessione demoniaca? Che cos'è la creatura dall'aspetto misterioso scoperta da una donna russa a Sosnovy Bor? Le grandi impronte non identificate trovate dagli esperti di fauna selvatica dell'Alaska appartengono a uno Yeti? Tony Harris e il suo team di esperti esamineranno gli indizi per stabilire la veridicità di tutte queste storie."
+      "show_description": "Gli esperti esaminano la foto scattata 50 anni fa da un ragazzo svedese che credeva di aver avvistato un UFO. Poi delle capre decapitate vengono costantemente rinvenute in un fiume della Georgia. Un inspiegabile caso di stimmate colpisce una donna nel periodo della Pasqua. Infine conosciamo Jeff, un uomo soprannominato Braccio di Ferro a causa dei suoi arti giganteschi."
     },
     {
-      "show_name": "I Grandi Miti Dell'umanita' Misteri E Rivelazioni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/i-grandi-miti-dell-umanita-misteri-e-rivelazioni.webp",
-      "start_time": "2026-02-05 08:41:00",
-      "end_time": "2026-02-05 09:57:00",
-      "episode_number": "S3 E4",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "L'esperto di Storia antica Andrew Chugg, con l'aiuto e l'intervento di altri storici e professori, è alla ricerca del luogo esatto dove è stato sepolto Alessandro Magno: il leggendario sovrano e condottiero macedone che ha fondato uno degli imperi più grandi di sempre. Partendo da Alessandria d'Egitto e giungendo fino a Venezia, la ricerca della tomba ci immerge nelle vicende di una delle figure più affascinanti e misteriose della Storia."
-    },
-    {
-      "show_name": "Storie Maledette",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/storie-maledette.webp",
-      "start_time": "2026-02-05 09:57:00",
-      "end_time": "2026-02-05 11:05:00",
-      "episode_number": "S2 E3",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Nel cuore di Los Angeles c'è un hotel dalla reputazione sinistra. Una lunga storia di tragici incontri riecheggia tra le sue mura, torcendo i corridoi in un labirinto di anime perdute. I turisti sono attratti dal suo macabro passato."
-    },
-    {
-      "show_name": "Preistoria Quello Che Non Sapevamo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/preistoria-quello-che-non-sapevamo.webp",
-      "start_time": "2026-02-05 11:05:00",
-      "end_time": "2026-02-05 12:14:00",
-      "episode_number": "S1 E2",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Un'indagine paleontologica supportata dai principali scienziati internazionali del mondo sulle creature dimenticate."
-    },
-    {
-      "show_name": "Cose Di Questo Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 12:14:00",
-      "end_time": "2026-02-05 13:14:00",
-      "episode_number": "S1 E6",
+      "show_name": "Ingegneria Perduta",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310574901000301/media/29/93/d0979b18-e5fa-4448-b5ab-f29b6a854c47/f1d5babc-1641-4257-b64a-4989b676d28b.jpg",
+      "start_time": "2026-02-06 18:31:00",
+      "end_time": "2026-02-06 19:36:00",
+      "episode_number": "S3 E3",
       "show_category": "Scienza e Tecnologia",
-      "show_description": "Strane luci di notte in zone disabitate dell'Australia e del Dakota negli Stati Uniti , una possibile fortezza nazista in Antartide."
-    },
-    {
-      "show_name": "Waterworld Africa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/waterworld-africa.webp",
-      "start_time": "2026-02-05 13:14:00",
-      "end_time": "2026-02-05 14:14:00",
-      "episode_number": "S1 E3",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "I pinguini africani sono neri sopra e bianchi sotto, con un mento nero e una benda sul viso. I maschi tendono ad essere più grandi con becchi più pesanti e i giovani differiscono dagli adulti per essere interamente grigio-blu sopra e privi dei segni bianchi del viso e della fascia pettorale nera degli adulti."
-    },
-    {
-      "show_name": "Animali Alfa Grandi Privilegi, Grandi Responsabilita'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/animali-alfa-grandi-privilegi-grandi-responsabilita.webp",
-      "start_time": "2026-02-05 14:14:00",
-      "end_time": "2026-02-05 15:21:00",
-      "episode_number": "",
-      "show_category": "Il regno Animale",
-      "show_description": "All'interno di molte specie animali con un'organizzazione sociale, l'Alfa è l'esemplare che occupa il gradino più alto della scala gerarchica. Tra i lupi, i cervi, le capre, i rinoceronti e i leoni, l'Alfa è il leader che domina e guida il gruppo."
-    },
-    {
-      "show_name": "Presenze Aliene",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/presenze-aliene.webp",
-      "start_time": "2026-02-05 15:21:00",
-      "end_time": "2026-02-05 16:20:00",
-      "episode_number": "S1 E3",
-      "show_category": "Spazio",
-      "show_description": "Per decenni, nello stato dell'Alaska si sono verificati fenomeni inspiegabili, tra sparizioni di escursionisti nella natura selvaggia, avvistamenti di oggetti volanti non identificati e leggende di piramidi nascoste nelle profondità delle montagne. Gli esperti si interrogano sulle cause di queste stranezze e sulla possibilità che siano coinvolte entità extraterrestri."
-    },
-    {
-      "show_name": "Presenze Aliene",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/presenze-aliene.webp",
-      "start_time": "2026-02-05 16:20:00",
-      "end_time": "2026-02-05 17:19:00",
-      "episode_number": "S1 E4",
-      "show_category": "Spazio",
-      "show_description": "In questo episodio conosciamo Sedona, località dell'Arizona diventata un vero e proprio punto di riferimento per gli avvistamenti UFO e per chi spera di vivere risvegli spirituali in presenza di presunti \"vortici di energia\". Vari esperti e appassionati di storia analizzeranno alcuni fenomeni rimasti senza una spiegazione, per capire se esista vita al di là della Terra e cosa potrebbero cercare creature aliene sul nostro pianeta."
-    },
-    {
-      "show_name": "Fuori Le Prove! Indagini Ai Confini Della Realta'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/fuori-le-prove-indagini-ai-confini-della-realta.webp",
-      "start_time": "2026-02-05 17:19:00",
-      "end_time": "2026-02-05 18:14:00",
-      "episode_number": "S4 E8",
-      "show_category": "Scienza e Tecnologia",
-      "show_description": "Gli esperti analizzano uno strano oggetto scuro nel cielo in pieno giorno che potrebbe essere un UFO. Poi un edificio che si rimpiccolisce man mano che lo spettatore si avvicina e alberi giganti abbattuti all'interno di un parco nazionale che potrebbero essere il risultato della furia di un Sasquatch."
-    },
-    {
-      "show_name": "Natura In Movimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/natura-in-movimento.webp",
-      "start_time": "2026-02-05 18:14:00",
-      "end_time": "2026-02-05 19:19:00",
-      "episode_number": "S1 E3",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Gli aviatori della natura sfidano la gravità e abbracciano senza sforzo i principi dell'aerodinamica, sfuggendo ai legami terreni per spiccare il volo."
-    },
-    {
-      "show_name": "Oasi Africane",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/oasi-africane.webp",
-      "start_time": "2026-02-05 19:19:00",
-      "end_time": "2026-02-05 20:24:00",
-      "episode_number": "S1 E3",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Le piogge hanno colpito la pozza d'acqua, cambiando radicalmente le sorti dei residenti selvaggi. L'area della pozza d'acqua si trasforma in lussureggianti pascoli, attirando erbivori e predatori. Ella approfondisce i dati sull'utilizzo della pozza d'acqua."
+      "show_description": "Tunnel nascosti, che nel tempo hanno aiutato un'intera città a crescere e prosperare, un relitto sommerso con un passato straordinario, una cupola di cemento in tempo di guerra che nasconde un sito Wonder Weapon e un misterioso edificio della guerra fredda: qual'è il motivo per cui hanno sono stati distrutti e abbandonati."
     },
     {
       "show_name": "Enigmi Alieni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/enigmi-alieni.webp",
-      "start_time": "2026-02-05 20:24:00",
-      "end_time": "2026-02-05 21:20:00",
-      "episode_number": "S1 E20",
+      "show_logo": "",
+      "start_time": "2026-02-06 19:36:00",
+      "end_time": "2026-02-06 21:20:00",
+      "episode_number": "S13 E5",
       "show_category": "Spazio",
-      "show_description": "Un continente sommerso, un tempo culla di civiltà avanzate; un relitto che potrebbe testimoniare l'esistenza di Atlantide e oggetti sottomarini non identificati nelle nostre acque."
+      "show_description": "È possibile che i giganteschi disegni antichi incisi sul suolo del deserto facciano parte di un antico codice alieno."
     },
     {
-      "show_name": "Freedom Oltre Il Confine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/freedom-oltre-il-confine.webp",
-      "start_time": "2026-02-05 21:20:00",
-      "end_time": "2026-02-06 00:24:00",
-      "episode_number": "S1 E12",
-      "show_category": "Viaggi",
-      "show_description": "In questa puntata di Freedom: varcheremo i cancelli della clausura dove visse Rita Da Cascia, la santa più venerata d'Italia. Studieremo cosa successe a Villa Mondragone dove il tempo fu fermato, racconteremo la fantastica storia di Erice in Sicilia, e riscopriremo le suggestive catacombe di Alessandria D'Egitto."
+      "show_name": "Presenze Aliene",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313890001000504/media/7/7/8145753e-56f5-41e2-956b-6c314d8e26a8/91cd38f8-f08a-456e-9ee5-f86ffc5a5ae0.jpg",
+      "start_time": "2026-02-06 21:20:00",
+      "end_time": "2026-02-06 22:18:00",
+      "episode_number": "S1 E5",
+      "show_category": "Spazio",
+      "show_description": "Con l'aiuto degli studiosi, esploriamo le leggende della regione di Pine Barrens, vasta pineta dello Stato del New Jersey in cui tanti sostengono di aver visto strane luci fluttuanti, UFO e apparizioni spettrali. Quale potrebbe essere il collegamento tra divinità indigene, diavoli del folklore popolare e creature extraterrestri."
+    },
+    {
+      "show_name": "Presenze Aliene",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313890001000604/media/7/7/8145753e-56f5-41e2-956b-6c314d8e26a8/91cd38f8-f08a-456e-9ee5-f86ffc5a5ae0.jpg",
+      "start_time": "2026-02-06 22:18:00",
+      "end_time": "2026-02-06 23:18:00",
+      "episode_number": "S1 E6",
+      "show_category": "Spazio",
+      "show_description": "Anche se non si tratta del primo posto che viene in mente quando si parla di misteri alieni, la Scozia è in realtà un paese in cui da decenni si verificano avvistamenti di UFO e incontri ravvicinati del terzo tipo. In particolare, la regione del Triangolo di Falkirk sembra essere l'epicentro di fenomeni inspiegabili: cupole volanti e luci triangolari che provocano svenimenti sono solo alcune delle segnalazioni provenienti da questa zona."
+    },
+    {
+      "show_name": "Segreti Sotto La Sabbia",
+      "show_logo": "",
+      "start_time": "2026-02-06 23:18:00",
+      "end_time": "2026-02-07 00:14:00",
+      "episode_number": "S2 E5",
+      "show_category": "",
+      "show_description": "Nel deserto di Atacama una tomba con quattro scheletri cela un enigma; in Egitto riaffiora la storia di un faraone che sfidò il culto tradizionale; lungo la Via della Seta, mummie rivelano antichi scambi; a Gerusalemme, una trincea svela segreti sull'evoluzione della città."
     }
   ]
 }

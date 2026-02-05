@@ -1,132 +1,141 @@
 {
   "channel_name": "Sky Sport Mix",
-  "date": "2026-02-04",
+  "date": "2026-02-05",
   "programs": [
     {
-      "show_name": "Finale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/finale.webp",
-      "start_time": "2026-02-04 00:00:00",
-      "end_time": "2026-02-04 00:40:00",
-      "episode_number": "S2026 E6",
+      "show_name": "Olimpia Milano - Baskonia",
+      "show_logo": "https://guidatv.sky.it/uuid/b2c1002d-c9d1-4f25-873e-c5f1a7483ed6/cover?territory=IT&md5ChecksumParam=4d421e3be37dd17ba7947a57a0dc5e36",
+      "start_time": "2026-02-05 00:00:00",
+      "end_time": "2026-02-05 01:00:00",
+      "episode_number": "S2025 E92",
       "show_category": "Sport",
-      "show_description": "Dalla Jyske Bank Boxen di Herning, Danimarca."
+      "show_description": "Dall'Unipol Forum di Milano, Italia."
+    },
+    {
+      "show_name": "Zalgiris - Monaco",
+      "show_logo": "https://guidatv.sky.it/uuid/03e351be-4370-4066-887b-6e570ba9a455/cover?territory=IT&md5ChecksumParam=4f4595c5e90f60743328a457da768da9",
+      "start_time": "2026-02-05 01:00:00",
+      "end_time": "2026-02-05 03:00:00",
+      "episode_number": "S2025 E93",
+      "show_category": "Sport",
+      "show_description": "Dalla Zalgiris Arena di Kaunas, Lituania."
+    },
+    {
+      "show_name": "3tre, Il Numero Magico Dello Sci",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-05 03:00:00",
+      "end_time": "2026-02-05 04:10:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "3tre, Il Numero Magico Dello Sci."
+    },
+    {
+      "show_name": "Basket Serie A - Ep. 36 - Basket Serie A 2025/2026 18ga Olimpia Milano/ Brescia 01/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/6bbd64f6-7ac6-4430-a393-1369e21ee9c0/cover?territory=IT&md5ChecksumParam=9c51f47a0d4cceb8f436426f478fa0c0",
+      "start_time": "2026-02-05 04:10:00",
+      "end_time": "2026-02-05 06:00:00",
+      "episode_number": "S2025 E36",
+      "show_category": "Sport",
+      "show_description": "Umori differenti in campo in una partita d'alta classifica: l'Olimpia arriva dalla sconfitta contro Varese, la Leonessa dalla vittoria in rimonta contro Udine. TC: De Rosa-Macchi."
+    },
+    {
+      "show_name": "Pau - Tolone",
+      "show_logo": "https://guidatv.sky.it/uuid/139613a5-3137-4ca4-92e0-37fedee8f2b8/cover?territory=IT&md5ChecksumParam=79c835ab7f2b7997676e384c2946bba4",
+      "start_time": "2026-02-05 06:00:00",
+      "end_time": "2026-02-05 07:50:00",
+      "episode_number": "S2025 E14",
+      "show_category": "Sport",
+      "show_description": "Dallo stadio Hameau di Pau, in Aquitania, Francia."
     },
     {
       "show_name": "Speciale Rugby Pre 6 Nazioni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/speciale-rugby-pre-6-nazioni.webp",
-      "start_time": "2026-02-04 00:40:00",
-      "end_time": "2026-02-04 01:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/397380a0-bbc0-481b-9c3e-a7b9c31cb8a6/cover?territory=IT&md5ChecksumParam=1651e84bb468bf77b3ab46d5c5123710",
+      "start_time": "2026-02-05 07:50:00",
+      "end_time": "2026-02-05 08:05:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Speciale Rugby Pre 6 Nazioni."
+    },
+    {
+      "show_name": "Marcialonga di Fiemme e Fassa",
+      "show_logo": "https://guidatv.sky.it/uuid/bd10e3f7-2d47-4359-945b-d28226e638f5/cover?territory=IT&md5ChecksumParam=b6990de5fbc3f430d4dd0b383de94456",
+      "start_time": "2026-02-05 08:05:00",
+      "end_time": "2026-02-05 10:05:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "Marcialonga di Fiemme e Fassa."
+    },
+    {
+      "show_name": "Milano -  Eczacibasi Istanbul",
+      "show_logo": "https://guidatv.sky.it/uuid/41070fac-8d77-4ede-a9de-776a6311ca0a/cover?territory=IT&md5ChecksumParam=7891c29a0ef5e2a741a1e9c281e6a386",
+      "start_time": "2026-02-05 10:05:00",
+      "end_time": "2026-02-05 11:30:00",
+      "episode_number": "S2025 E30",
+      "show_category": "Sport",
+      "show_description": "Dalla Monza Arena di Monza, Italia."
+    },
+    {
+      "show_name": "Speciale Rugby Pre 6 Nazioni",
+      "show_logo": "https://guidatv.sky.it/uuid/397380a0-bbc0-481b-9c3e-a7b9c31cb8a6/cover?territory=IT&md5ChecksumParam=1651e84bb468bf77b3ab46d5c5123710",
+      "start_time": "2026-02-05 11:30:00",
+      "end_time": "2026-02-05 11:50:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Speciale Rugby Pre 6 Nazioni."
     },
     {
       "show_name": "Icarus Ultra 2025 Ep.18 02/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/icarus-ultra-2025-ep-18-02-02-2026.webp",
-      "start_time": "2026-02-04 01:00:00",
-      "end_time": "2026-02-04 01:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/0c74bb9e-30f1-48fd-af9a-167323b5ce89/cover?territory=IT&md5ChecksumParam=421a6b9feb080c8808ba62788ea8111a",
+      "start_time": "2026-02-05 11:50:00",
+      "end_time": "2026-02-05 12:15:00",
       "episode_number": "S2025 E18",
       "show_category": "Sport",
       "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
     },
     {
-      "show_name": "Laureus Spirit Of Sport - Ep. 13 - Laureus Spirit Of Sport Ep.13 03/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/laureus-spirit-of-sport-ep-13-laureus-spirit-of-sport-ep-13-03-02-2026.webp",
-      "start_time": "2026-02-04 01:30:00",
-      "end_time": "2026-02-04 04:00:00",
-      "episode_number": "S2025 E13",
+      "show_name": "Ep1",
+      "show_logo": "https://guidatv.sky.it/uuid/fb085119-0134-4270-8ea9-65c02f46fed1/COVER_TITLE_TALL?territory=IT&version=be84d7e1-ff5b-38fa-9dc1-624b1963dab9&w=600&h=800&md5ChecksumParam=54ec061768de3b529cbde9fe494135df",
+      "start_time": "2026-02-05 12:15:00",
+      "end_time": "2026-02-05 13:00:00",
+      "episode_number": "S2026 E1",
       "show_category": "Sport",
-      "show_description": "Laureus Spirit Of Sport Ep.13 03/02/2026 - Laureus Spirit Of Sport."
+      "show_description": "Guarda le interviste e ottieni l'analisi degli esperti del mondo del tennis."
     },
     {
-      "show_name": "Zebre Parma - Connacht",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/zebre-parma-connacht.webp",
-      "start_time": "2026-02-04 04:00:00",
-      "end_time": "2026-02-04 06:00:00",
-      "episode_number": "S2025 E20",
+      "show_name": "Tennis: ATP & WTA - Ep. 17 - Tennis Atp&Wta 2026 05/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/7c45a190-0a41-4252-a768-b2ce59f861ba/COVER_TITLE_TALL?territory=IT&version=73572f96-8419-3c9b-bf78-8ca1428fa340&w=600&h=800&md5ChecksumParam=a122639fa799ef94592275900c2977c9",
+      "start_time": "2026-02-05 13:00:00",
+      "end_time": "2026-02-05 22:30:00",
+      "episode_number": "S2026 E17",
       "show_category": "Sport",
-      "show_description": "Dallo Stadio Sergio Lanfranchi di Parma, Italia."
+      "show_description": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
     },
     {
-      "show_name": "Monaco - Virtus Olidata Bologna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/monaco-virtus-olidata-bologna.webp",
-      "start_time": "2026-02-04 06:00:00",
-      "end_time": "2026-02-04 08:00:00",
-      "episode_number": "S2025 E91",
+      "show_name": "Ep1",
+      "show_logo": "https://guidatv.sky.it/uuid/fb085119-0134-4270-8ea9-65c02f46fed1/COVER_TITLE_TALL?territory=IT&version=be84d7e1-ff5b-38fa-9dc1-624b1963dab9&w=600&h=800&md5ChecksumParam=54ec061768de3b529cbde9fe494135df",
+      "start_time": "2026-02-05 22:30:00",
+      "end_time": "2026-02-05 23:15:00",
+      "episode_number": "S2026 E1",
       "show_category": "Sport",
-      "show_description": "Dalla Salle Gaston Médecin di Monaco."
+      "show_description": "Guarda le interviste e ottieni l'analisi degli esperti del mondo del tennis."
     },
     {
-      "show_name": "Sasha Danilovic",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/sasha-danilovic.webp",
-      "start_time": "2026-02-04 08:00:00",
-      "end_time": "2026-02-04 08:30:00",
-      "episode_number": "S2025 E4",
+      "show_name": "Oteos - On The Evolution Of Sports - Stag. Oteos - On The Evolution Of Sports 2024 - Oteos Ep.22 03/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/4222fcd2-a52e-471b-9107-69370f1e4c63/cover?territory=IT&md5ChecksumParam=69203b79474253964f75159f50c9c721",
+      "start_time": "2026-02-05 23:15:00",
+      "end_time": "2026-02-05 23:30:00",
+      "episode_number": "S2024 E22",
       "show_category": "Sport",
-      "show_description": "Amadori Protein Talk: Sasha Danilovic."
+      "show_description": "Attraverso il racconto di allenatori, atleti e specialisti di settore di ieri e di oggi, scopriamo alcuni dei cambiamenti più importanti nell’evoluzione degli sport."
     },
     {
-      "show_name": "Ep.41",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/ep-41.webp",
-      "start_time": "2026-02-04 08:30:00",
-      "end_time": "2026-02-04 09:00:00",
-      "episode_number": "S1 E41",
+      "show_name": "Conegliano - Lodz",
+      "show_logo": "https://guidatv.sky.it/uuid/ee9b7b6d-3f33-4b22-bb2d-00f4316e6c6c/cover?territory=IT&md5ChecksumParam=a3a76b90d4d0a1191c5984859767fe05",
+      "start_time": "2026-02-05 23:30:00",
+      "end_time": "2026-02-06 01:05:00",
+      "episode_number": "S2025 E35",
       "show_category": "Sport",
-      "show_description": "I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia."
-    },
-    {
-      "show_name": "Sinner indimenticabile Wimbledon 2025: la storia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/sinner-indimenticabile-wimbledon-2025-la-storia.webp",
-      "start_time": "2026-02-04 09:00:00",
-      "end_time": "2026-02-04 10:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "La storica vittoria di Jannik Sinner a Wimbledon attraverso la lente narrativa di Sky Sport, la cronaca dell’evento arricchita da immagini inedite, estratti degli studi e backstage."
-    },
-    {
-      "show_name": "Tennis Atp&Wta 2026 04/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/tennis-atp-wta-2026-04-02-2026.webp",
-      "start_time": "2026-02-04 10:00:00",
-      "end_time": "2026-02-04 18:55:00",
-      "episode_number": "S2026 E16",
-      "show_category": "Sport",
-      "show_description": "Tennis Atp&Wta 2026 04/02/2026 - ATP & WTA - Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-    },
-    {
-      "show_name": "Niners Chemnitz - Aquila Trento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/niners-chemnitz-aquila-trento.webp",
-      "start_time": "2026-02-04 18:55:00",
-      "end_time": "2026-02-04 21:00:00",
-      "episode_number": "S2025 E33",
-      "show_category": "Sport",
-      "show_description": "Segui tutti gli incontri dell'EuroCup di basket."
-    },
-    {
-      "show_name": "Speciale Rugby Pre 6 Nazioni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/speciale-rugby-pre-6-nazioni.webp",
-      "start_time": "2026-02-04 21:00:00",
-      "end_time": "2026-02-04 21:15:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Speciale Rugby Pre 6 Nazioni."
-    },
-    {
-      "show_name": "Finale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/finale.webp",
-      "start_time": "2026-02-04 21:15:00",
-      "end_time": "2026-02-04 23:00:00",
-      "episode_number": "S2026 E6",
-      "show_category": "Sport",
-      "show_description": "Dalla Jyske Bank Boxen di Herning, Danimarca."
-    },
-    {
-      "show_name": "Olimpia Milano - Baskonia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/olimpia-milano-baskonia.webp",
-      "start_time": "2026-02-04 23:00:00",
-      "end_time": "2026-02-05 01:00:00",
-      "episode_number": "S2025 E92",
-      "show_category": "Sport",
-      "show_description": "Dall'Unipol Forum di Milano, Italia."
+      "show_description": "Dal Palaverde di Treviso, Italia."
     }
   ]
 }

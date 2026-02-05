@@ -1,132 +1,141 @@
 {
   "channel_name": "Sky Sport Golf",
-  "date": "2026-02-04",
+  "date": "2026-02-05",
   "programs": [
     {
-      "show_name": "82^ Italian Open",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/82-italian-open.webp",
-      "start_time": "2026-02-04 00:00:00",
-      "end_time": "2026-02-04 00:00:00",
-      "episode_number": "S2025 E2",
+      "show_name": "6a giornata",
+      "show_logo": "https://guidatv.sky.it/uuid/74966655-6d58-4a85-97d3-67329f140fb5/cover?territory=IT&md5ChecksumParam=e6efcc828f2cbecd33a4c6a4362757ad",
+      "start_time": "2026-02-05 00:00:00",
+      "end_time": "2026-02-05 01:00:00",
+      "episode_number": "S2026 E6",
       "show_category": "Sport",
-      "show_description": "Il circuito che comprende i tornei Challenge Tour e Alps Tour disputati in Italia e il Campionato Nazionale Open."
+      "show_description": "Le partite della TGL Golf League."
     },
     {
-      "show_name": "Bahrain Championship, 4a giornata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/bahrain-championship-4a-giornata.webp",
-      "start_time": "2026-02-04 00:00:00",
-      "end_time": "2026-02-04 03:05:00",
-      "episode_number": "S2026 E32",
+      "show_name": "7a giornata",
+      "show_logo": "https://guidatv.sky.it/uuid/f1b23b4b-20e7-4b7e-9d4c-6b6cda38a0e9/cover?territory=IT&md5ChecksumParam=8c10db433aa3a5480517cdf6e3022be7",
+      "start_time": "2026-02-05 01:00:00",
+      "end_time": "2026-02-05 03:00:00",
+      "episode_number": "S2026 E7",
       "show_category": "Sport",
-      "show_description": "Tutti i tornei del tour europeo, il DP World Tour."
+      "show_description": "Le partite della TGL Golf League."
     },
     {
-      "show_name": "Genesis Championship: Giorno 4",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/genesis-championship-giorno-4.webp",
-      "start_time": "2026-02-04 03:05:00",
-      "end_time": "2026-02-04 06:00:00",
-      "episode_number": "S2025 E151",
+      "show_name": "Dubai Classic: Giorno 4",
+      "show_logo": "https://guidatv.sky.it/uuid/67aacd76-2f0b-4c90-b3b4-5f629caaff22/cover?territory=IT&md5ChecksumParam=b1d779f2d4b1d70032236c76d14aa40a",
+      "start_time": "2026-02-05 03:00:00",
+      "end_time": "2026-02-05 06:00:00",
+      "episode_number": "S2026 E28",
       "show_category": "Sport",
-      "show_description": "Tutti i tornei del tour europeo, il DP World Tour."
-    },
-    {
-      "show_name": "Afrasia Bank Mauritius Open, 4a giornata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/afrasia-bank-mauritius-open-4a-giornata.webp",
-      "start_time": "2026-02-04 06:00:00",
-      "end_time": "2026-02-04 09:00:00",
-      "episode_number": "S2026 E20",
-      "show_category": "Sport",
-      "show_description": "Dall'Heritage La Réserve GC di Bel Ombre, Savanne, Mauritius."
+      "show_description": "From Emirates Golf Club in Dubai, United Arab Emirates."
     },
     {
       "show_name": "Alfred Dunhill, 4a giornata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/alfred-dunhill-4a-giornata.webp",
-      "start_time": "2026-02-04 09:00:00",
-      "end_time": "2026-02-04 10:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/6e22bc1b-ceab-4618-bbb2-8c3c0fbf86fd/cover?territory=IT&md5ChecksumParam=e70714f9a7a14b3fe01472a8ac3878d9",
+      "start_time": "2026-02-05 06:00:00",
+      "end_time": "2026-02-05 07:05:00",
       "episode_number": "S2026 E16",
       "show_category": "Sport",
       "show_description": "Tutti i tornei del tour europeo, il DP World Tour."
     },
     {
       "show_name": "Bahrain Championship, 4a giornata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/bahrain-championship-4a-giornata.webp",
-      "start_time": "2026-02-04 10:05:00",
-      "end_time": "2026-02-04 13:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/3c240eae-cb7a-4819-a594-d969b1a7d77e/cover?territory=IT&md5ChecksumParam=3e79fb930587cc309b197f0d6c2e7b66",
+      "start_time": "2026-02-05 07:05:00",
+      "end_time": "2026-02-05 10:00:00",
       "episode_number": "S2026 E32",
       "show_category": "Sport",
       "show_description": "Tutti i tornei del tour europeo, il DP World Tour."
     },
     {
+      "show_name": "Qatar Masters: Giorno 1",
+      "show_logo": "https://guidatv.sky.it/uuid/5c6067a9-6740-49ea-906d-c503b46c81bb/cover?territory=IT&md5ChecksumParam=e37c7dbbd5dbb419a2c7a674bbbd0095",
+      "start_time": "2026-02-05 10:00:00",
+      "end_time": "2026-02-05 15:00:00",
+      "episode_number": "S2026 E45",
+      "show_category": "Sport",
+      "show_description": "Dal Doha Golf Club di Doha, Ad Dawhah, Qatar."
+    },
+    {
+      "show_name": "Bahrain Championship",
+      "show_logo": "https://guidatv.sky.it/uuid/4efa3188-a5c2-4226-9b62-1a968c5ed8e8/cover?territory=IT&md5ChecksumParam=beca19066d8a5a41a70c3713b8c4a8dc",
+      "start_time": "2026-02-05 15:00:00",
+      "end_time": "2026-02-05 15:15:00",
+      "episode_number": "S2026 E5",
+      "show_category": "Sport",
+      "show_description": "Le sintesi dedicate alle partite del DP World Tour."
+    },
+    {
+      "show_name": "Dubai Invitational",
+      "show_logo": "https://guidatv.sky.it/uuid/6e3be229-73fe-4a50-b24e-8060e1a720ea/cover?territory=IT&md5ChecksumParam=e261f791b27aff155f7616c0f34cf79c",
+      "start_time": "2026-02-05 15:15:00",
+      "end_time": "2026-02-05 15:30:00",
+      "episode_number": "S2026 E3",
+      "show_category": "Sport",
+      "show_description": "Le sintesi dedicate alle partite del DP World Tour."
+    },
+    {
       "show_name": "Campionato Nazionale Open",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/campionato-nazionale-open.webp",
-      "start_time": "2026-02-04 13:00:00",
-      "end_time": "2026-02-04 13:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/dad4f6b8-f6ef-498b-97d0-08171f8cbbb6/COVER_TITLE_TALL?territory=IT&version=dab10c84-765f-3833-8191-a5fc6b55c6d4&w=600&h=800&md5ChecksumParam=05e5a6fa8aca37d487eb33b7cb213251",
+      "start_time": "2026-02-05 15:30:00",
+      "end_time": "2026-02-05 16:00:00",
       "episode_number": "S2025 E7",
       "show_category": "Sport",
       "show_description": "Il circuito che comprende i tornei Challenge Tour e Alps Tour disputati in Italia e il Campionato Nazionale Open."
     },
     {
-      "show_name": "Bahrain Championship, 4a giornata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/bahrain-championship-4a-giornata.webp",
-      "start_time": "2026-02-04 13:30:00",
-      "end_time": "2026-02-04 16:30:00",
-      "episode_number": "S2026 E32",
+      "show_name": "Qatar Masters: Giorno 1",
+      "show_logo": "https://guidatv.sky.it/uuid/5c6067a9-6740-49ea-906d-c503b46c81bb/cover?territory=IT&md5ChecksumParam=e37c7dbbd5dbb419a2c7a674bbbd0095",
+      "start_time": "2026-02-05 16:00:00",
+      "end_time": "2026-02-05 19:00:00",
+      "episode_number": "S2026 E45",
       "show_category": "Sport",
-      "show_description": "Tutti i tornei del tour europeo, il DP World Tour."
+      "show_description": "Dal Doha Golf Club di Doha, Ad Dawhah, Qatar."
     },
     {
       "show_name": "Senior Italian Open",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/senior-italian-open.webp",
-      "start_time": "2026-02-04 16:30:00",
-      "end_time": "2026-02-04 19:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/0c24783d-9115-438c-a39a-1c2af3a50391/cover?territory=IT&md5ChecksumParam=8bc46ffa178238aec4f0de8bb031163e",
+      "start_time": "2026-02-05 19:00:00",
+      "end_time": "2026-02-05 19:30:00",
       "episode_number": "S2025 E5",
       "show_category": "Sport",
       "show_description": "I migliori momenti e le buche più spettacolari del torneo professionistico maschile per over 50."
     },
     {
       "show_name": "Alps Tour Grand Final 2025",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/alps-tour-grand-final-2025.webp",
-      "start_time": "2026-02-04 19:00:00",
-      "end_time": "2026-02-04 19:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/86f0e0aa-cec7-49fb-9e2e-d78581896537/cover?territory=IT&md5ChecksumParam=8f34c42d6d7e55a8d4a669b341a57dc0",
+      "start_time": "2026-02-05 19:30:00",
+      "end_time": "2026-02-05 20:00:00",
       "episode_number": "S2025 E6",
       "show_category": "Sport",
       "show_description": "Le buche più importanti e le immagini più spettacolari del torneo svoltosi a Roma."
     },
     {
-      "show_name": "Highlights 48° Campionato PGAI",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/highlights-48-campionato-pgai.webp",
-      "start_time": "2026-02-04 19:30:00",
-      "end_time": "2026-02-04 20:00:00",
-      "episode_number": "S2024 E5",
+      "show_name": "Qatar Masters: Giorno 1",
+      "show_logo": "https://guidatv.sky.it/uuid/5c6067a9-6740-49ea-906d-c503b46c81bb/cover?territory=IT&md5ChecksumParam=e37c7dbbd5dbb419a2c7a674bbbd0095",
+      "start_time": "2026-02-05 20:00:00",
+      "end_time": "2026-02-05 23:00:00",
+      "episode_number": "S2026 E45",
       "show_category": "Sport",
-      "show_description": "Il PGA Championship si svolge annualmente ed è uno dei quattro tornei major più prestigiosi della stagione del golf professionistico."
+      "show_description": "Dal Doha Golf Club di Doha, Ad Dawhah, Qatar."
     },
     {
-      "show_name": "5a giornata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/5a-giornata.webp",
-      "start_time": "2026-02-04 20:00:00",
-      "end_time": "2026-02-04 22:10:00",
-      "episode_number": "S2026 E5",
+      "show_name": "Golf Italian Pro Tour - Ep. 4 - Golf Italian Pro Tour 2025 Ep.4 Parma Alps Open 23/10/2025",
+      "show_logo": "https://guidatv.sky.it/uuid/f3a62afc-c7e8-4ff7-b1f2-c46bc9a89330/cover?territory=IT&md5ChecksumParam=da9b0b4b0eb0b572a7b629b33945f90e",
+      "start_time": "2026-02-05 23:00:00",
+      "end_time": "2026-02-05 23:25:00",
+      "episode_number": "S2025 E4",
       "show_category": "Sport",
-      "show_description": "Le partite della TGL Golf League."
+      "show_description": "Il circuito che comprende i tornei Challenge Tour e Alps Tour disputati in Italia e il Campionato Nazionale Open."
     },
     {
-      "show_name": "Ryder Cup Official Film 2025",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/ryder-cup-official-film-2025.webp",
-      "start_time": "2026-02-04 22:10:00",
-      "end_time": "2026-02-04 23:00:00",
-      "episode_number": "",
+      "show_name": "Grand Final",
+      "show_logo": "https://guidatv.sky.it/uuid/25ac00d1-0fc6-40b1-9955-a9bd1ae12b0a/cover?territory=IT&md5ChecksumParam=810e1ce56339f952b30441f4cada3e7c",
+      "start_time": "2026-02-05 23:25:00",
+      "end_time": "2026-02-06 00:00:00",
+      "episode_number": "S2025 E29",
       "show_category": "Sport",
-      "show_description": "Ripercorriamo insieme i momenti salienti, le emozioni e le strategie della Ryder Cup."
-    },
-    {
-      "show_name": "6a giornata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Golf/today/6a-giornata.webp",
-      "start_time": "2026-02-04 23:00:00",
-      "end_time": "2026-02-05 01:00:00",
-      "episode_number": "S2026 E6",
-      "show_category": "Sport",
-      "show_description": "Le partite della TGL Golf League."
+      "show_description": "Challenge Series."
     }
   ]
 }
