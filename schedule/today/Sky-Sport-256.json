@@ -1,15 +1,33 @@
 {
   "channel_name": "Sky Sport  256",
-  "date": "2026-02-01",
+  "date": "2026-02-06",
   "programs": [
     {
-      "show_name": "Dolomiti Bellunesi - V. Verona - Stag. 2026 Ep. 243",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-256/today/dolomiti-bellunesi-v-verona-stag-2026-ep-243.webp",
-      "start_time": "2026-02-01 00:00:00",
-      "end_time": "2026-02-01 14:00:00",
-      "episode_number": "S2025 E243",
+      "show_name": "1a Semifinale",
+      "show_logo": "https://guidatv.sky.it/uuid/d1976bd0-0ce8-4218-9f08-bc1d89538867/cover?territory=IT&md5ChecksumParam=038e8cb1e1e03392eae4c5564dd04f39",
+      "start_time": "2026-02-06 14:30:00",
+      "end_time": "2026-02-06 17:00:00",
+      "episode_number": "S2026 E1",
       "show_category": "Sport",
-      "show_description": "Tutte le partite del campionato di Serie C italiano."
+      "show_description": "Dallo Zayed Sports City International Tennis Centre di Abu Dhabi, Emirati Arabi Uniti."
+    },
+    {
+      "show_name": "2a Semifinale",
+      "show_logo": "https://guidatv.sky.it/uuid/2ceeca34-2e6a-462d-a5be-ac8184f15bc0/cover?territory=IT&md5ChecksumParam=8d112fc11f402033144e313816cec342",
+      "start_time": "2026-02-06 17:00:00",
+      "end_time": "2026-02-06 20:40:00",
+      "episode_number": "S2026 E2",
+      "show_category": "Sport",
+      "show_description": "Dallo Zayed Sports City International Tennis Centre di Abu Dhabi, Emirati Arabi Uniti."
+    },
+    {
+      "show_name": "Metz - Lille",
+      "show_logo": "https://guidatv.sky.it/uuid/e6d75f8c-3112-447e-919c-bbdec68d9ce1/cover?territory=IT&md5ChecksumParam=60c8a484a3b599609f31dfad64c47081",
+      "start_time": "2026-02-06 20:40:00",
+      "end_time": "2026-02-07 14:00:00",
+      "episode_number": "S2025 E65",
+      "show_category": "Sport",
+      "show_description": "Dallo stadio Saint-Symphorien di Metz, Mosella, Francia."
     }
   ]
 }

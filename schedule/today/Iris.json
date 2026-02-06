@@ -1,150 +1,132 @@
 {
   "channel_name": "Iris",
-  "date": "2026-02-05",
+  "date": "2026-02-06",
   "programs": [
     {
-      "show_name": "The Judge",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 00:00:00",
-      "end_time": "2026-02-05 02:26:00",
+      "show_name": "58 Minuti Per Morire Die Harder",
+      "show_logo": "",
+      "start_time": "2026-02-06 00:00:00",
+      "end_time": "2026-02-06 02:15:00",
       "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "Per il ciclo: VISIONI D'AUTORE. Cosa faresti se tuo padre venisse incriminato per omicidio? Un avvocato scopre che suo padre, uno stimato giudice, e' accusato di aver investito un uomo con la sua auto. Regia di D. Dobkin; USA 2014."
-    },
-    {
-      "show_name": "Verso L'eden",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Iris/today/verso-l-eden.webp",
-      "start_time": "2026-02-05 02:26:00",
-      "end_time": "2026-02-05 04:16:00",
-      "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "Elias è un migrante che pur di scappare dalla guardia costiera si getta in mare aperto. Nuotando riesce ad arrivare sulla terraferma presso l'Eden Club Paradise, un resort turistico, dove viene subito scambiato per un fattorino. Decide poi di trasferirsi a Parigi sperando di poter cominciare finalmente una vita tranquilla. Ma non sarà così."
-    },
-    {
-      "show_name": "Bikini Pericolosi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 04:16:00",
-      "end_time": "2026-02-05 05:43:00",
-      "episode_number": "",
-      "show_category": "Commedia",
-      "show_description": "Per il ciclo: EFFETTO NOTTE. Quattro ragazze portano lo scompiglio in un villaggio in cui sono giunte in vacanza da Parigi. Tra i piu' turbati, il giovane Mose'. Regia di H. Gruel; FRA 1963."
-    },
-    {
-      "show_name": "Finche' C'e' Ditta C'e' Speranza",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 05:43:00",
-      "end_time": "2026-02-05 06:04:00",
-      "episode_number": "S2 E13",
-      "show_category": "",
-      "show_description": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta."
-    },
-    {
-      "show_name": "Finche' C'e' Ditta C'e' Speranza",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 06:04:00",
-      "end_time": "2026-02-05 06:13:00",
-      "episode_number": "S2 E14",
-      "show_category": "",
-      "show_description": "La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta."
-    },
-    {
-      "show_name": "Kojak",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 06:13:00",
-      "end_time": "2026-02-05 07:02:00",
-      "episode_number": "S2 E25",
-      "show_category": "",
-      "show_description": "Una sensitiva avverte la polizia di aver sognato un omicidio che deve ancora avvenire. Ma poi si rifiuta di collaborare alla ricerca dell'assassino."
-    },
-    {
-      "show_name": "Walker Texas Ranger",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 07:02:00",
-      "end_time": "2026-02-05 07:45:00",
-      "episode_number": "S5 E14",
-      "show_category": "",
-      "show_description": "Alcuni detenuti riescono a fuggire mentre vengono portati in carcere. Uccise le guardie, si rifugiano in una chiesa, dove prendono in ostaggio due suore ed Alex."
-    },
-    {
-      "show_name": "Quando Dico Che Ti Amo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 07:45:00",
-      "end_time": "2026-02-05 09:57:00",
-      "episode_number": "",
-      "show_category": "Commedia Romantica",
-      "show_description": "Per il ciclo: 45 GIRI. Un cantante ha sei fidanzate, ma s'innamora d'una settima. Le ragazze scoprono la verita' e lo lasciano. Deve riconquistare quella che ama. Con Tony Renis Regia di G. Bianchi; ITA 1967."
-    },
-    {
-      "show_name": "In A Valley Of Violence Nella Valle Della Violenza",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 09:57:00",
-      "end_time": "2026-02-05 12:09:00",
-      "episode_number": "",
-      "show_category": "Avventura",
-      "show_description": "Per il ciclo: 35 MM. 1890, Paul arriva in una piccola citta' per vendicarsi dei teppisti che hanno ucciso una persona a lui cara. Con Ethan Hawke, John Travolta. Regia di T. West; USA 2016."
-    },
-    {
-      "show_name": "Il Tiranno Banderas",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Iris/today/il-tiranno-banderas.webp",
-      "start_time": "2026-02-05 12:09:00",
-      "end_time": "2026-02-05 14:14:00",
-      "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "America latina, anni '20. Il dispotico caudillo Santos Banderas governa con il terrore e la repressione più feroce, mentre la rivolta al suo potere, che opprime gli indios, è guidata dal comunista Don Roque. Inganni, tradimenti e spargimenti di sangue nel tentativo di spodestare il vecchio tiranno che soltanto nei rapporti con la fragile figlia rivela la sua umanità. Da un romanzo di R. Del Valle-Inclan, con l'ultima grande interpretazione di Gian Maria Volontè."
-    },
-    {
-      "show_name": "The Judge",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 14:14:00",
-      "end_time": "2026-02-05 17:07:00",
-      "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "Per il ciclo: IN AMERICA. Cosa faresti se tuo padre venisse incriminato per omicidio? Un avvocato scopre che suo padre, uno stimato giudice, e' accusato di aver investito un uomo con la sua auto. Regia di D. Dobkin; USA 2014."
+      "show_category": "Azione",
+      "show_description": "Per il ciclo: ACTION. John McClane deve fronteggiare un gruppo di terroristi che mette fuori uso il sistema di controllo di un aeroporto. Sequel di \"Trappola di cristallo\". Regia di R. Harlin; USA 1990."
     },
     {
       "show_name": "Baby Blues",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Iris/today/baby-blues.webp",
-      "start_time": "2026-02-05 17:07:00",
-      "end_time": "2026-02-05 19:13:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F302047501000101/media/26/90/eecb65c9-9add-4e4b-96a7-ac239f66f528/08e94531-dff0-42af-964c-8a985b76b747.jpg",
+      "start_time": "2026-02-06 02:15:00",
+      "end_time": "2026-02-06 03:54:00",
       "episode_number": "",
       "show_category": "Sentimentale",
       "show_description": "Alex è una donna in carriera e compagna di Fabrizio. Nessuno dei due ha mai pensato di allargare la relazione con un figlio ma quando per lei si prospetta un posto di carriera a New York, ci si pone delle domande. Il desiderio di un figlio può portare ad un rottura ma rivedendo i sentimenti che ci tengono uniti le prospettive cambiano."
     },
     {
-      "show_name": "Kojak",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 19:13:00",
-      "end_time": "2026-02-05 20:13:00",
-      "episode_number": "S2 E25",
+      "show_name": "L' Assassino Di Pietra",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000355101000105/media/28/92/97a81863-3f59-4b1b-93ee-5028008fb2f7/0fd76ed4-ee1f-429f-ad5b-5470677dd188.jpg",
+      "start_time": "2026-02-06 03:54:00",
+      "end_time": "2026-02-06 05:25:00",
+      "episode_number": "",
+      "show_category": "Classici",
+      "show_description": "Thriller d'azione basato sul romanzo del 1969 A Complete State of Death di John Edmund Gardner. Lou Torrey è un poliziotto che viene trasferito da New York in California per durezza dei suoi metodi. Qui dovrà contrastare Al Vescari, boss mafioso in cerca di vendetta per l'uccisione dei suoi familiari."
+    },
+    {
+      "show_name": "I Cinque Del Quinto Piano",
+      "show_logo": "",
+      "start_time": "2026-02-06 05:25:00",
+      "end_time": "2026-02-06 06:31:00",
+      "episode_number": "S1 E13",
       "show_category": "",
-      "show_description": "Una sensitiva avverte la polizia di aver sognato un omicidio che deve ancora avvenire. Ma poi si rifiuta di collaborare alla ricerca dell'assassino."
+      "show_description": "In famiglia fa irruzione Rosalia, una nuova bizzarra colf che viene dalla Sicilia. Il padre Edoardo e la madre Gisella sono un po' perplessi."
+    },
+    {
+      "show_name": "Kojak",
+      "show_logo": "",
+      "start_time": "2026-02-06 06:31:00",
+      "end_time": "2026-02-06 07:16:00",
+      "episode_number": "S3 E1",
+      "show_category": "",
+      "show_description": "Kojak incontra Frank, uno dei suoi informatori che teme per la sua incolumita', ma dice di sapere dove si trovano le pellicce legate ad un traffico illegale."
     },
     {
       "show_name": "Walker Texas Ranger",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 20:13:00",
-      "end_time": "2026-02-05 21:16:00",
-      "episode_number": "S5 E14",
+      "show_logo": "",
+      "start_time": "2026-02-06 07:16:00",
+      "end_time": "2026-02-06 08:07:00",
+      "episode_number": "S5 E15",
       "show_category": "",
-      "show_description": "Alcuni detenuti riescono a fuggire mentre vengono portati in carcere. Uccise le guardie, si rifugiano in una chiesa, dove prendono in ostaggio due suore ed Alex."
+      "show_description": "C.D e' chiamato a sostituire un suo amico, come capo della sicurezza in un albergo di lusso. L'uomo pare essere stato licenziato per alcolismo, invece e' stato ucciso."
     },
     {
-      "show_name": "The Jackal",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 21:16:00",
-      "end_time": "2026-02-05 23:47:00",
+      "show_name": "Il Merlo Maschio",
+      "show_logo": "",
+      "start_time": "2026-02-06 08:07:00",
+      "end_time": "2026-02-06 10:19:00",
       "episode_number": "",
-      "show_category": "Thriller",
-      "show_description": "Per il ciclo: ACTION. The Jackal e' un killer assoldato dalla mafia russa per assassinare un politico statunitense. Per fermarlo la CIA chiede aiuto a un detenuto che conosce il killer. Regia di M. Caton-Jones; USA 1997."
+      "show_category": "Commedia",
+      "show_description": "Per il ciclo: LANDO BUZZANCA. Il violoncellista Vivaldi di serve della bella moglie per ottenere il successo che rincorre per affermarsi. Regia di P. Festa Campanile; ITA 1971."
     },
     {
-      "show_name": "58 Minuti Per Morire Die Harder",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 23:47:00",
-      "end_time": "2026-02-06 02:15:00",
+      "show_name": "A Beautiful Mind",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011089201000102/media/3/3/2f6adb42-58df-4491-b547-2a25b9089191/8da1c708-1b73-42c5-8693-ac7f95896de2.jpg",
+      "start_time": "2026-02-06 10:19:00",
+      "end_time": "2026-02-06 13:14:00",
+      "episode_number": "",
+      "show_category": "Drammatico",
+      "show_description": "La biografia del matematico USA John Forbes Nash, premio Nobel 1994 per l'economia: i suoi studi, le imprese, la malattia e il trionfo. Il ritratto di un uomo eccentrico, anticonformista, irrequieto, il cui grande talento di pensatore matematico fu afflitto per molti anni da una grave forma di schizofrenia. Vincitore di 4 premi Oscar."
+    },
+    {
+      "show_name": "Three Kings",
+      "show_logo": "",
+      "start_time": "2026-02-06 13:14:00",
+      "end_time": "2026-02-06 15:29:00",
       "episode_number": "",
       "show_category": "Azione",
-      "show_description": "Per il ciclo: ACTION. John McClane deve fronteggiare un gruppo di terroristi che mette fuori uso il sistema di controllo di un aeroporto. Sequel di \"Trappola di cristallo\". Regia di R. Harlin; USA 1990."
+      "show_description": "Per il ciclo: GRANDI AVVENTURE. Iraq, la guerra del Golfo e' finita. Un gruppo di soldati americani decide di impossessarsi di un tesoro nascosto nel deserto. Con George Clooney, Mark Wahlberg Regia di D. Russell; USA 1999."
+    },
+    {
+      "show_name": "Viaggio In Paradiso",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303055801000103/media/28/92/a0ce7e9d-6bd2-4904-8a8c-47a50e8790c1/b30a3d7c-756b-4500-b3ad-1e7e818e3c5b.jpg",
+      "start_time": "2026-02-06 15:29:00",
+      "end_time": "2026-02-06 17:24:00",
+      "episode_number": "",
+      "show_category": "Azione",
+      "show_description": "E' stata una brutta giornata per Driver e la situazione non sembra migliorare. Ha appena fatto un colpo da milioni di dollari che gli avrebbero permesso di passare una bella vacanza estiva. Apparentemente una buona idea che lo porta giu'... fino al Sud. Mentre la polizia di frontiera lo sta inseguendo a tutta velocita', con un corpo sanguinante sul sedile posteriore, Driver capovolge la sua auto varcando il muro di confine, precipita violentemente e atterra... in Messico. Fermato dalle autorita' messicane, viene portato in una prigione infernale, ed entra cosi' nello strano e pericoloso mondo di \"El Pueblito\". Di certo, non un luogo facile per un outsider come Driver, che riuscira' a sopravvivere solo grazie all'aiuto di qualcuno che sa il fatto suo...un ragazzo di 10 anni."
+    },
+    {
+      "show_name": "Travolti Dal Destino",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011293601000102/media/5/5/2daac47f-3c53-4712-8e0a-38a4d332af58/80d51a4b-c23f-4421-ba7a-922f10e19095.jpg",
+      "start_time": "2026-02-06 17:24:00",
+      "end_time": "2026-02-06 19:16:00",
+      "episode_number": "",
+      "show_category": "Commedia",
+      "show_description": "Amber si reca in vacanza nel Mediterraneo col marito Anthony. Arrivati in Grecia decidono di noleggiare una barca per traghettare fino in Italia. Per la ricca e viziata Amber però, i confort offerti non sono all'altezza delle aspettative e così finisce per sfogare la sua frustrazione su Giuseppe, un pescatore italiano. Una sera, però, Amber e Giuseppe restano in balia delle correnti e lì, in mezzo al mare i rapporti di forza si ribaltano. Remake del film di Lina Wertmuller."
+    },
+    {
+      "show_name": "Kojak",
+      "show_logo": "",
+      "start_time": "2026-02-06 19:16:00",
+      "end_time": "2026-02-06 20:14:00",
+      "episode_number": "S3 E1",
+      "show_category": "",
+      "show_description": "Kojak incontra Frank, uno dei suoi informatori che teme per la sua incolumita', ma dice di sapere dove si trovano le pellicce legate ad un traffico illegale."
+    },
+    {
+      "show_name": "Walker Texas Ranger",
+      "show_logo": "",
+      "start_time": "2026-02-06 20:14:00",
+      "end_time": "2026-02-06 21:15:00",
+      "episode_number": "S5 E15",
+      "show_category": "",
+      "show_description": "C.D e' chiamato a sostituire un suo amico, come capo della sicurezza in un albergo di lusso. L'uomo pare essere stato licenziato per alcolismo, invece e' stato ucciso."
+    },
+    {
+      "show_name": "Dove Osano Le Aquile",
+      "show_logo": "",
+      "start_time": "2026-02-06 21:15:00",
+      "end_time": "2026-02-07 00:24:00",
+      "episode_number": "",
+      "show_category": "Spionaggio",
+      "show_description": "Per il ciclo: IL METODO EASTWOOD. Il comandante britannico Smith deve liberare un generale americano imprigionato in un inaccessibile castello sulle Alpi bavaresi. Regia di B. Hutton, con R. Burton, C. Eastwood; GBR 1969."
     }
   ]
 }

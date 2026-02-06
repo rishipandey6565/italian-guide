@@ -1,15 +1,33 @@
 {
   "channel_name": "Sky Sport  254",
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "programs": [
     {
       "show_name": "Latina - Cavese",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-254/tomorrow/latina-cavese.webp",
-      "start_time": "2026-02-06 20:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/002f6688-b062-4437-96a4-08b75d9bd952/cover?territory=IT&md5ChecksumParam=bd55f818b9ffc4149af8b686e433351a",
+      "start_time": "2026-02-07 00:00:00",
       "end_time": "2026-02-07 14:00:00",
       "episode_number": "S2025 E258",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Domenico Francioni di Latina, Italia."
+    },
+    {
+      "show_name": "Crotone - Atalanta U23",
+      "show_logo": "https://guidatv.sky.it/uuid/21a39c1e-f28c-4d50-8df3-5b0111827d87/cover?territory=IT&md5ChecksumParam=6ab36f8796ac44d67ff6923f9cc80591",
+      "start_time": "2026-02-07 14:00:00",
+      "end_time": "2026-02-07 17:25:00",
+      "episode_number": "S2025 E256",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Ezio Scida di Crotone, Italia."
+    },
+    {
+      "show_name": "Virtus Verona - Giana Erminio",
+      "show_logo": "https://guidatv.sky.it/uuid/ec3892fd-8271-45b0-abe7-ad9e829906ed/cover?territory=IT&md5ChecksumParam=a34d2deaebf6da136171f26c12d5d5d6",
+      "start_time": "2026-02-07 17:25:00",
+      "end_time": "2026-02-08 14:00:00",
+      "episode_number": "S2025 E260",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Comunale Gavagnin-Nocini di Verona, Italia."
     }
   ]
 }

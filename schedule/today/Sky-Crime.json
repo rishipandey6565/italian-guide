@@ -1,312 +1,285 @@
 {
   "channel_name": "Sky Crime",
-  "date": "2026-02-05",
+  "date": "2026-02-06",
   "programs": [
     {
-      "show_name": "Murder Suspect",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/murder-suspect.webp",
-      "start_time": "2026-02-05 00:00:00",
-      "end_time": "2026-02-05 00:05:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Parte 2 - Un uomo viene trovato picchiato a morte nella sua casa. Tre uomini sono sospettati, ma un imprevisto mette a rischio l'indagine."
-    },
-    {
-      "show_name": "Celebrity Sex Tapes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/celebrity-sex-tapes.webp",
-      "start_time": "2026-02-05 00:05:00",
-      "end_time": "2026-02-05 00:55:00",
-      "episode_number": "S1 E7",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una maxi violazione informatica scuote il mondo delle celebrita'."
-    },
-    {
-      "show_name": "Scomparsi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/scomparsi.webp",
-      "start_time": "2026-02-05 00:55:00",
-      "end_time": "2026-02-05 02:00:00",
-      "episode_number": "S2 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Pietro Orlandi riapre i piu' oscuri casi di persone scomparse. A Molinella, in provincia di Bologna, Domenico D'Amato, conosciuto da tutti come Dome Dama, scompare misteriosamente."
-    },
-    {
-      "show_name": "Delitti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/delitti.webp",
-      "start_time": "2026-02-05 02:00:00",
-      "end_time": "2026-02-05 02:55:00",
-      "episode_number": "S6 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "4 persone vengono massacrate e uccise a colpi di coltello senza alcune pieta', tra le vittime un bambino di appena due anni."
-    },
-    {
-      "show_name": "Hells Angels - Gli angeli...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/hells-angels-gli-angeli.webp",
-      "start_time": "2026-02-05 02:55:00",
-      "end_time": "2026-02-05 03:40:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Pat Matter, spacciatore di metanfetamine, diventa presidente dei Minnesota Hells Angels e costruisce un impero della droga."
-    },
-    {
-      "show_name": "Le prigioni oscure",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 03:40:00",
-      "end_time": "2026-02-05 04:05:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "ADX Florence: una prigione per terroristi e serial killer, dove nessuno vedra' piu' la luce del sole."
-    },
-    {
-      "show_name": "Le prigioni oscure",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 04:05:00",
-      "end_time": "2026-02-05 04:25:00",
+      "show_name": "Il castratore",
+      "show_logo": "https://guidatv.sky.it/uuid/af6317e3-0a60-46fd-983a-23e6f3b921f0/cover?cgid=282&territory=IT&md5ChecksumParam=bc04cd07b0776d4aaf47e1df9165e325.it",
+      "start_time": "2026-02-06 00:00:00",
+      "end_time": "2026-02-06 00:40:00",
       "episode_number": "S1 E2",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Dietro le sbarre dell'isola piu' famosa del mondo, detenuti come Al Capone tentarono l'impossibile: fuggire dal gelo eterno del ''Rock''."
-    },
-    {
-      "show_name": "Le prigioni oscure",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 04:25:00",
-      "end_time": "2026-02-05 04:45:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "John McCain fu rinchiuso alla Hanoi Hilton, sopravvissuto a torture che non spezzarono mai il suo spirito."
-    },
-    {
-      "show_name": "Alla Ricerca Della Verita' - Stag. 1 Ep. 1 - Il Caso Jonbenet",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 04:45:00",
-      "end_time": "2026-02-05 06:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Con l'aiuto di un ex detective, la giornalista Elizabeth Vargas indaga sul piu' famoso 'cold case' americano: l'omicidio della baby reginetta di bellezza JonBenet Ramsey."
-    },
-    {
-      "show_name": "Online - Connessioni Pericolose",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/online-connessioni-pericolose.webp",
-      "start_time": "2026-02-05 06:00:00",
-      "end_time": "2026-02-05 06:30:00",
-      "episode_number": "S2 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Maurizio Guidi conosce una 42enne della Costa D'Avorio su Meetic. Il suo matrimonio s'incrina irrimediabilmente. Nel giro di un anno consegna allo scammer (che si finge donna) 52mila euro."
+      "show_description": "Il giornalista Marcel Theroux indaga la scioccante vicenda di Marius Gustavson, accusato di aver guidato un gruppo responsabile di castrazioni volontarie trasmesse in streaming."
     },
     {
       "show_name": "E' stato lui?",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/e-stato-lui.webp",
-      "start_time": "2026-02-05 06:30:00",
-      "end_time": "2026-02-05 07:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5c86d266-d870-46f9-ab56-bf35b5047093/cover?cgid=282&territory=IT&md5ChecksumParam=2b73324ed7f5f75bacd6a6cab18a9860.it",
+      "start_time": "2026-02-06 00:40:00",
+      "end_time": "2026-02-06 01:30:00",
       "episode_number": "S1 E7",
       "show_category": "Mondo e Tendenze",
       "show_description": "Un agente fuori servizio spara a un uomo dopo una lite. Secondo i legali ha agito per difendersi, ma per l'accusa si tratta di omicidio."
     },
     {
-      "show_name": "Online - Connessioni Pericolose",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/online-connessioni-pericolose.webp",
-      "start_time": "2026-02-05 07:15:00",
-      "end_time": "2026-02-05 07:45:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Noemi accetta una richiesta di amicizia su Facebook anche se quel \"Cristian\" lei non lo conosce. Sembra un ragazzo gentile. Ma dietro quel profilo si nasconde una trappola."
-    },
-    {
-      "show_name": "Online - Connessioni Pericolose",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/online-connessioni-pericolose.webp",
-      "start_time": "2026-02-05 07:45:00",
-      "end_time": "2026-02-05 08:15:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Quali sono i problemi legati alle informazioni pubblicate in rete attraverso i social media e i vari motori di ricerca? Irene, che sta affrontando un momento difficile, inizia un'amicizia on line con Francesco. Ma la situazione diventa pericolosa."
-    },
-    {
-      "show_name": "Online - Connessioni Pericolose",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/online-connessioni-pericolose.webp",
-      "start_time": "2026-02-05 08:15:00",
-      "end_time": "2026-02-05 08:45:00",
-      "episode_number": "S1 E7",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Quali sono i problemi legati alle informazioni pubblicate in rete attraverso i social media e i vari motori di ricerca? Federica, 13 anni, viene minacciata su Facebook da un individuo con cui ha stretto amicizia. La situazione diventa sempre piu' pericolosa."
-    },
-    {
-      "show_name": "Online - Connessioni Pericolose",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/online-connessioni-pericolose.webp",
-      "start_time": "2026-02-05 08:45:00",
-      "end_time": "2026-02-05 09:15:00",
-      "episode_number": "S2 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Maurizio Guidi conosce una 42enne della Costa D'Avorio su Meetic. Il suo matrimonio s'incrina irrimediabilmente. Nel giro di un anno consegna allo scammer (che si finge donna) 52mila euro."
-    },
-    {
-      "show_name": "La macchina della verita'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/la-macchina-della-verita.webp",
-      "start_time": "2026-02-05 09:15:00",
-      "end_time": "2026-02-05 10:00:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Jesse Holton si sottopone al poligrafo con l'ex esaminatore FBI George Olivo. Dopo una lite nel 2016, e' il principale sospettato del brutale omicidio dei suoi genitori."
-    },
-    {
-      "show_name": "La macchina della verita'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/la-macchina-della-verita.webp",
-      "start_time": "2026-02-05 10:00:00",
-      "end_time": "2026-02-05 10:45:00",
-      "episode_number": "S1 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Eva Hamby affronta il poligrafo con l'ex agente FBI George Olivo per ribaltare i sospetti: nel 2008 fu condannata per omicidio di secondo grado, accusata di aver a."
-    },
-    {
-      "show_name": "Delitti a circuito chiuso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/delitti-a-circuito-chiuso.webp",
-      "start_time": "2026-02-05 10:45:00",
-      "end_time": "2026-02-05 11:40:00",
-      "episode_number": "S10 E18",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Quando Cindy Mudd, 71 anni, scompare, gli investigatori seguono le sue tracce grazie alle telecamere."
-    },
-    {
-      "show_name": "Pagato per uccidere",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/pagato-per-uccidere.webp",
-      "start_time": "2026-02-05 11:40:00",
-      "end_time": "2026-02-05 12:35:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Dina Dore e' stata ritrovata soffocata nel bagagliaio della propria auto il 26 marzo del 2008."
-    },
-    {
-      "show_name": "Digital forensic: sulle...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/digital-forensic-sulle.webp",
-      "start_time": "2026-02-05 12:35:00",
-      "end_time": "2026-02-05 13:25:00",
-      "episode_number": "S1 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Dopo la scomparsa di due teenager da California del Nord, le madri dei due ragazzi esortano la polizia a prendere il caso seriamente."
-    },
-    {
-      "show_name": "Digital forensic: sulle...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/digital-forensic-sulle.webp",
-      "start_time": "2026-02-05 13:25:00",
-      "end_time": "2026-02-05 14:20:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un triangolo amoroso porta all'omicidio di uno studente dell'Universita' della Florida. Una pista digitale condurra' la polizia al suo assassino."
-    },
-    {
-      "show_name": "Le prigioni oscure",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 14:20:00",
-      "end_time": "2026-02-05 15:35:00",
-      "episode_number": "S1 E7",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Attica, prigione di massima sicurezza nel nord di New York, con quasi 90 anni di storia, e' tristemente famosa per violenze e abusi sui detenuti."
-    },
-    {
-      "show_name": "Mostri Senza Nome - Torino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/mostri-senza-nome-torino.webp",
-      "start_time": "2026-02-05 15:35:00",
-      "end_time": "2026-02-05 16:25:00",
-      "episode_number": "S4 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nell'aprile del 1952, Eleuterio Codeca', dirigente FIAT, viene ucciso a colpi di pistola sotto casa."
-    },
-    {
-      "show_name": "Real Cops",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/real-cops.webp",
-      "start_time": "2026-02-05 16:25:00",
-      "end_time": "2026-02-05 16:55:00",
-      "episode_number": "S1 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un ladro trasmette live sui social la sua folle fuga, un sospetto assassino apre il fuoco sugli agenti, e un uomo in fuga si schianta con un'auto di lusso."
-    },
-    {
-      "show_name": "Real Cops",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/real-cops.webp",
-      "start_time": "2026-02-05 16:55:00",
-      "end_time": "2026-02-05 17:20:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un ladro di auto in New Mexico ruba un veicolo proprio sotto il naso degli agenti, la polizia del Wisconsin rincorre un evasore seriale."
-    },
-    {
-      "show_name": "Real Cops",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/real-cops.webp",
-      "start_time": "2026-02-05 17:20:00",
-      "end_time": "2026-02-05 17:45:00",
-      "episode_number": "S1 E7",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una coppia disperata tiene in ostaggio un camionista nel suo mezzo anfibio, degli agenti inseguono dei contrabbandieri in barca."
-    },
-    {
-      "show_name": "Real Cops",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/real-cops.webp",
-      "start_time": "2026-02-05 17:45:00",
-      "end_time": "2026-02-05 18:10:00",
-      "episode_number": "S1 E8",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La polizia di terra e di aria insegue i sospetti coinvolti in molteplici furti d'auto, gli agenti inseguono un sospetto omicida in un grande magazzino."
-    },
-    {
-      "show_name": "Delitti a circuito chiuso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/delitti-a-circuito-chiuso.webp",
-      "start_time": "2026-02-05 18:10:00",
-      "end_time": "2026-02-05 19:05:00",
-      "episode_number": "S10 E19",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Andy McGuffee viene trovato morto tra le ceneri della sua casa. Le telecamere portano a sospetti improbabili e a una verita' che nessuno si sarebbe aspettato."
-    },
-    {
       "show_name": "Delitti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/delitti.webp",
-      "start_time": "2026-02-05 19:05:00",
-      "end_time": "2026-02-05 20:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/10506d84-77e0-4b66-9e99-a3724a9c9763/cover?territory=IT&md5ChecksumParam=e6529b477df74fd494c2c81b469c7564",
+      "start_time": "2026-02-06 01:30:00",
+      "end_time": "2026-02-06 02:25:00",
       "episode_number": "S6 E3",
       "show_category": "Mondo e Tendenze",
       "show_description": "Un bambino di appena 17 mesi viene rapito in casa sotto gli occhi dei suoi genitori."
     },
     {
-      "show_name": "La banda della Magliana - La...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/la-banda-della-magliana-la.webp",
-      "start_time": "2026-02-05 20:05:00",
-      "end_time": "2026-02-05 21:10:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La storia di Franco Giuseppucci e l'ascesa della Banda della Magliana ai vertici della criminalita' romana, tra interviste inedite e documenti esclusivi."
-    },
-    {
-      "show_name": "E' stato lui?",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/e-stato-lui.webp",
-      "start_time": "2026-02-05 21:10:00",
-      "end_time": "2026-02-05 22:00:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il dirigente di un centro medico accoltella a morte il marito di una dottoressa."
-    },
-    {
-      "show_name": "E' stato lui?",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/e-stato-lui.webp",
-      "start_time": "2026-02-05 22:00:00",
-      "end_time": "2026-02-05 22:50:00",
+      "show_name": "Hells Angels - Gli angeli...",
+      "show_logo": "https://guidatv.sky.it/uuid/d9028220-dfd6-4dec-a202-fd6fcd76337c/cover?cgid=282&territory=IT&md5ChecksumParam=07feb33ba55813dcbfcd63778bb625b5.it",
+      "start_time": "2026-02-06 02:25:00",
+      "end_time": "2026-02-06 03:15:00",
       "episode_number": "S1 E7",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Un agente fuori servizio spara a un uomo dopo una lite. Secondo i legali ha agito per difendersi, ma per l'accusa si tratta di omicidio."
+      "show_description": "Gli Hells Angels gestiscono un vasto traffico di metanfetamine."
     },
     {
-      "show_name": "Il castratore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/il-castratore.webp",
-      "start_time": "2026-02-05 22:50:00",
-      "end_time": "2026-02-05 23:45:00",
+      "show_name": "Le prigioni oscure",
+      "show_logo": "https://guidatv.sky.it/uuid/f6a167be-df93-400d-a3fd-3a88c4db0b77/cover?cgid=282&territory=IT&md5ChecksumParam=8396cfae33144ae12ea3f7951a6e68bb.it",
+      "start_time": "2026-02-06 03:15:00",
+      "end_time": "2026-02-06 04:00:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "A 30 miglia da New York sorge Sing Sing, carcere leggendario dove fu attiva la ''Old Sparky'', la sedia elettrica che giustizio' oltre 600 detenuti."
+    },
+    {
+      "show_name": "Le prigioni oscure",
+      "show_logo": "https://guidatv.sky.it/uuid/f6a167be-df93-400d-a3fd-3a88c4db0b77/cover?cgid=282&territory=IT&md5ChecksumParam=8396cfae33144ae12ea3f7951a6e68bb.it",
+      "start_time": "2026-02-06 04:00:00",
+      "end_time": "2026-02-06 04:25:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "San Quentin e' la prigione piu' antica della California, nata ai tempi della corsa all'oro. Qui tre uomini hanno tentato la fuga."
+    },
+    {
+      "show_name": "Il finto rapimento di Sherri",
+      "show_logo": "https://guidatv.sky.it/uuid/f626fd2e-47ca-4cfc-8207-23d5d97a9747/cover?territory=IT&md5ChecksumParam=f0b538b46a129f83be5bacd80dccaea1",
+      "start_time": "2026-02-06 04:25:00",
+      "end_time": "2026-02-06 05:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il finto rapimento di Sherri - La storia di Sherri Papini e' un intreccio di inganni: una donna che ha inscenato il proprio rapimento e mentito per anni."
+    },
+    {
+      "show_name": "Online - Connessioni Pericolose",
+      "show_logo": "https://guidatv.sky.it/uuid/bf11e8cf-2da3-410d-85df-6829a319d63b/cover?territory=IT&md5ChecksumParam=c1907048b862ab6b82800d11a7393ec6",
+      "start_time": "2026-02-06 05:30:00",
+      "end_time": "2026-02-06 06:00:00",
+      "episode_number": "S2 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "'Bluewhale' e' la sfida social che incita gli adolescenti ad affrontare 50 prove in 50 giorni, fino al suicidio, tutto sistematicamente documentato. Il fenomeno ha origine in Russia."
+    },
+    {
+      "show_name": "Le recensioni del killer",
+      "show_logo": "https://guidatv.sky.it/uuid/38144d2c-85ac-4713-917b-45a716dfa42b/cover?territory=IT&md5ChecksumParam=88e43dfda05ea7d6ebedf09588b714b0",
+      "start_time": "2026-02-06 06:00:00",
+      "end_time": "2026-02-06 07:00:00",
       "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Il giornalista Marcel Theroux indaga la scioccante vicenda di Marius Gustavson, accusato di aver guidato un gruppo responsabile di castrazioni volontarie trasmesse in streaming."
+      "show_description": "Todd Kohlhepp ha nascosto per 13 anni le sue uccisioni dietro recensioni di armi e attrezzi su Amazon, lasciando tracce digitali inquietanti che hanno condotto gli investigatori."
     },
     {
-      "show_name": "Il castratore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/il-castratore.webp",
-      "start_time": "2026-02-05 23:45:00",
-      "end_time": "2026-02-06 00:40:00",
+      "show_name": "Le recensioni del killer",
+      "show_logo": "https://guidatv.sky.it/uuid/38144d2c-85ac-4713-917b-45a716dfa42b/cover?territory=IT&md5ChecksumParam=88e43dfda05ea7d6ebedf09588b714b0",
+      "start_time": "2026-02-06 07:00:00",
+      "end_time": "2026-02-06 07:55:00",
       "episode_number": "S1 E2",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Il giornalista Marcel Theroux indaga la scioccante vicenda di Marius Gustavson, accusato di aver guidato un gruppo responsabile di castrazioni volontarie trasmesse in streaming."
+      "show_description": "La detective Charlynn Ezell approfondisce i casi collegati a Todd Kohlhepp, svelando dettagli oscuri e connessioni scioccanti tra le sue vittime."
+    },
+    {
+      "show_name": "Profondo Nero Di Carlo Lucarelli",
+      "show_logo": "https://guidatv.sky.it/uuid/c25285ea-0009-4e08-af8d-e1e2ef00c314/cover?territory=IT&md5ChecksumParam=0ea441c3c0dab35d2033fa7f72c953b1",
+      "start_time": "2026-02-06 07:55:00",
+      "end_time": "2026-02-06 08:40:00",
+      "episode_number": "S3 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il 15 giugno 1983 il corpo di Francesca Alinovi viene trovato sul pavimento del suo piccolo appartamento a Bologna, e' stata uccisa con 47 coltellate. Da subito viene ritenuto colpevole Francesco Ciancabilla, suo compagno piu' giovane di 12 anni, con il quale la Alinovi ha uno strano rapporto."
+    },
+    {
+      "show_name": "Profondo Nero Di Carlo Lucarelli",
+      "show_logo": "https://guidatv.sky.it/uuid/26cd885b-35d5-480e-94df-da702d2f9bc1/cover?territory=IT&md5ChecksumParam=3c145a9dcb04fdd3dfbca283f393fdc7",
+      "start_time": "2026-02-06 08:40:00",
+      "end_time": "2026-02-06 09:25:00",
+      "episode_number": "S2 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "In compagnia di Carlo Lucarelli, addentriamoci nei meandri piu' oscuri della mente criminale, scovando i segreti di queste persone. Quando Franca Viola viene rapita alla fine del 1965 ha 17 anni. Secondo la morale del tempo, Franca avrebbe dovuto sposare il suo rapitore..."
+    },
+    {
+      "show_name": "La macchina della verita'",
+      "show_logo": "https://guidatv.sky.it/uuid/fc506ee8-0be8-4a8e-a9e9-5f6107d4e3e4/cover?cgid=282&territory=IT&md5ChecksumParam=8b099c4f8e3513891a20669fb52efd4a.it",
+      "start_time": "2026-02-06 09:25:00",
+      "end_time": "2026-02-06 10:15:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Raven Abaroa affronta il poligrafo con l'ex agente FBI George Olivo per provare una volta per tutte di non aver ucciso la moglie Janet."
+    },
+    {
+      "show_name": "La macchina della verita'",
+      "show_logo": "https://guidatv.sky.it/uuid/fc506ee8-0be8-4a8e-a9e9-5f6107d4e3e4/cover?cgid=282&territory=IT&md5ChecksumParam=8b099c4f8e3513891a20669fb52efd4a.it",
+      "start_time": "2026-02-06 10:15:00",
+      "end_time": "2026-02-06 11:00:00",
+      "episode_number": "S1 E7",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Chris Turner si sottopone al poligrafo per porre fine ai sospetti sull'omicidio di Catherine Fuller del 1984."
+    },
+    {
+      "show_name": "Delitti a circuito chiuso",
+      "show_logo": "https://guidatv.sky.it/uuid/9d728366-beb0-46ed-bd38-f5fba76380f5/cover?territory=IT&md5ChecksumParam=afabd9b1488b1c8392578cf5a995db71",
+      "start_time": "2026-02-06 11:00:00",
+      "end_time": "2026-02-06 11:55:00",
+      "episode_number": "S10 E19",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Andy McGuffee viene trovato morto tra le ceneri della sua casa. Le telecamere portano a sospetti improbabili e a una verita' che nessuno si sarebbe aspettato."
+    },
+    {
+      "show_name": "Pagato per uccidere",
+      "show_logo": "https://guidatv.sky.it/uuid/a7e80257-bc3e-498b-b0f3-b649a54ca94a/cover?territory=IT&md5ChecksumParam=2715a4def0b477cb2bdeed314dc60b1f",
+      "start_time": "2026-02-06 11:55:00",
+      "end_time": "2026-02-06 12:45:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Japigia, quartiere barese: Giuseppe Sciannimanico viene freddato a colpi d'arma da fuoco da Luigi Di Gioia, assoldato per 20 mila euro da Roberto Perilli."
+    },
+    {
+      "show_name": "Digital forensic: sulle...",
+      "show_logo": "https://guidatv.sky.it/uuid/e9e8c964-5b7d-4166-98c5-d14b82bee104/cover?territory=IT&md5ChecksumParam=31736e171822453dc72dc34fded0ae55",
+      "start_time": "2026-02-06 12:45:00",
+      "end_time": "2026-02-06 13:40:00",
+      "episode_number": "S1 E7",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La polizia di Mobile individua un sospetto per l'omicidio di un professore, ma un dispositivo elettronico cambiera' le conclusioni."
+    },
+    {
+      "show_name": "Digital forensic: sulle...",
+      "show_logo": "https://guidatv.sky.it/uuid/e9e8c964-5b7d-4166-98c5-d14b82bee104/cover?territory=IT&md5ChecksumParam=31736e171822453dc72dc34fded0ae55",
+      "start_time": "2026-02-06 13:40:00",
+      "end_time": "2026-02-06 14:25:00",
+      "episode_number": "S1 E8",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una prova digitale nel caso di omicidio di una donna in Ohio mette gli investigatori sulle tracce di una storia di stalking e catfishing sui social."
+    },
+    {
+      "show_name": "Le prigioni oscure",
+      "show_logo": "https://guidatv.sky.it/uuid/f6a167be-df93-400d-a3fd-3a88c4db0b77/cover?cgid=282&territory=IT&md5ChecksumParam=8396cfae33144ae12ea3f7951a6e68bb.it",
+      "start_time": "2026-02-06 14:25:00",
+      "end_time": "2026-02-06 14:50:00",
+      "episode_number": "S1 E10",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nel profondo degli stati Confederati, Andersonville e' l'incubo peggiore per un soldato dell'Unione durante la Guerra Civile americana."
+    },
+    {
+      "show_name": "Le prigioni oscure",
+      "show_logo": "https://guidatv.sky.it/uuid/f6a167be-df93-400d-a3fd-3a88c4db0b77/cover?cgid=282&territory=IT&md5ChecksumParam=8396cfae33144ae12ea3f7951a6e68bb.it",
+      "start_time": "2026-02-06 14:50:00",
+      "end_time": "2026-02-06 15:15:00",
+      "episode_number": "S1 E11",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La Torre di Londra incute timore da secoli: da fortezza voluta da Guglielmo il Conquistatore nel 1078 a prigione nel 1101, tra torture e decapitazioni."
+    },
+    {
+      "show_name": "Le prigioni oscure",
+      "show_logo": "https://guidatv.sky.it/uuid/f6a167be-df93-400d-a3fd-3a88c4db0b77/cover?cgid=282&territory=IT&md5ChecksumParam=8396cfae33144ae12ea3f7951a6e68bb.it",
+      "start_time": "2026-02-06 15:15:00",
+      "end_time": "2026-02-06 15:40:00",
+      "episode_number": "S1 E12",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nei primi quarant'anni di attivita' del sistema Gulag sovietico, almeno 18 milioni di persone vennero imprigionate e oltre un milione e mezzo morirono."
+    },
+    {
+      "show_name": "Mostri Senza Nome - Torino",
+      "show_logo": "https://guidatv.sky.it/uuid/1a158187-1acf-41fb-8cd1-0246c7de6241/cover?territory=IT&md5ChecksumParam=aad3698b4f2159705900268940ccff44",
+      "start_time": "2026-02-06 15:40:00",
+      "end_time": "2026-02-06 16:35:00",
+      "episode_number": "S4 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nel settembre del 1991, vicino a Torino, viene ritrovato il corpo senza vita di Franca Demichela. La donna in rosso presentava segni di strangolamento."
+    },
+    {
+      "show_name": "Real Cops",
+      "show_logo": "https://guidatv.sky.it/uuid/5ad9f845-02d1-4c93-aa6d-10bd4624c3bc/cover?territory=IT&md5ChecksumParam=0c35f95c356f305bfd85dd89aa07c77c",
+      "start_time": "2026-02-06 16:35:00",
+      "end_time": "2026-02-06 17:00:00",
+      "episode_number": "S1 E9",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un ricercato trascina la polizia in un inseguimento attraverso 3 stati."
+    },
+    {
+      "show_name": "Real Cops",
+      "show_logo": "https://guidatv.sky.it/uuid/5ad9f845-02d1-4c93-aa6d-10bd4624c3bc/cover?territory=IT&md5ChecksumParam=0c35f95c356f305bfd85dd89aa07c77c",
+      "start_time": "2026-02-06 17:00:00",
+      "end_time": "2026-02-06 17:25:00",
+      "episode_number": "S1 E10",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Dopo un pericoloso inseguimento ad alta velocita', la polizia affronta una violenta sparatoria, mentre un ladro d'auto cerca una fuga disperata in kayak."
+    },
+    {
+      "show_name": "Real Cops",
+      "show_logo": "https://guidatv.sky.it/uuid/5ad9f845-02d1-4c93-aa6d-10bd4624c3bc/cover?territory=IT&md5ChecksumParam=0c35f95c356f305bfd85dd89aa07c77c",
+      "start_time": "2026-02-06 17:25:00",
+      "end_time": "2026-02-06 17:50:00",
+      "episode_number": "S1 E11",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un ladro d'auto salta da un ponte, un fuggitivo armato irrompe in una scuola, e un sospetto in fuga tenta ogni mezzo possibile per sfuggire alla polizia."
+    },
+    {
+      "show_name": "Real Cops",
+      "show_logo": "https://guidatv.sky.it/uuid/5ad9f845-02d1-4c93-aa6d-10bd4624c3bc/cover?territory=IT&md5ChecksumParam=0c35f95c356f305bfd85dd89aa07c77c",
+      "start_time": "2026-02-06 17:50:00",
+      "end_time": "2026-02-06 18:15:00",
+      "episode_number": "S1 E12",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un ricercato travolge l'auto della polizia, gli agenti affrontano a colpi d'arma da fuoco un sospetto omicida."
+    },
+    {
+      "show_name": "Delitti a circuito chiuso",
+      "show_logo": "https://guidatv.sky.it/uuid/9d728366-beb0-46ed-bd38-f5fba76380f5/cover?territory=IT&md5ChecksumParam=afabd9b1488b1c8392578cf5a995db71",
+      "start_time": "2026-02-06 18:15:00",
+      "end_time": "2026-02-06 19:10:00",
+      "episode_number": "S10 E20",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Gabriel Perez viene freddato in un fast food. Le telecamere portano a una coppia di mezza eta', apparentemente senza legami con la vittima."
+    },
+    {
+      "show_name": "Delitti",
+      "show_logo": "https://guidatv.sky.it/uuid/10506d84-77e0-4b66-9e99-a3724a9c9763/cover?territory=IT&md5ChecksumParam=e6529b477df74fd494c2c81b469c7564",
+      "start_time": "2026-02-06 19:10:00",
+      "end_time": "2026-02-06 21:05:00",
+      "episode_number": "S6 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Storie di delitti e suicidi si intrecciano con satanismo ed esoterismo."
+    },
+    {
+      "show_name": "Un avvertimento prima di iniziare - Stag. 1 Ep. 2 - Angelo Massaro",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 21:05:00",
+      "end_time": "2026-02-06 21:55:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "...iniziare: 21 anni di carcere da innocente. Pablo Trincia incontra Angelo Massaro, ingiustamente accusato di omicidio e condannato a 24 anni per un equivoco."
+    },
+    {
+      "show_name": "Murder Suspect",
+      "show_logo": "https://guidatv.sky.it/uuid/3409e90c-2570-4df0-8c0a-a511029fe42f/cover?cgid=282&territory=IT&md5ChecksumParam=13478e70ab35274d199c76bf5becdcee.it",
+      "start_time": "2026-02-06 21:55:00",
+      "end_time": "2026-02-06 23:10:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Parte 2 - Un uomo viene trovato picchiato a morte nella sua casa. Tre uomini sono sospettati, ma un imprevisto mette a rischio l'indagine."
+    },
+    {
+      "show_name": "I piu' spietati Serial Killer",
+      "show_logo": "https://guidatv.sky.it/uuid/d2b95089-59bc-4a70-a5a7-d2d83a726fc4/cover?territory=IT&md5ChecksumParam=3397000cddeb6a4f8d5e1b46ea9d6174",
+      "start_time": "2026-02-06 23:10:00",
+      "end_time": "2026-02-07 00:35:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ombre, delitti e orrore: un viaggio inquietante nelle vicende di alcuni tra i piu' spietati serial killer della storia."
     }
   ]
 }

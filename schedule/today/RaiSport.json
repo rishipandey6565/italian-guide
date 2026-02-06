@@ -1,219 +1,183 @@
 {
   "channel_name": "RaiSport",
-  "date": "2026-02-05",
+  "date": "2026-02-06",
   "programs": [
     {
       "show_name": "Tg Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/tg-sport.webp",
-      "start_time": "2026-02-05 00:00:00",
-      "end_time": "2026-02-05 00:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg",
+      "start_time": "2026-02-06 00:00:00",
+      "end_time": "2026-02-06 00:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TG Sport Notte."
     },
     {
-      "show_name": "Atletica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/atletica.webp",
-      "start_time": "2026-02-05 00:00:00",
-      "end_time": "2026-02-05 02:00:00",
-      "episode_number": "S2026",
-      "show_category": "Atletica Leggera",
-      "show_description": "Udin Jump. Udin Jump."
-    },
-    {
-      "show_name": "Basket: Eurolega femminile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/basket-eurolega-femminile.webp",
-      "start_time": "2026-02-05 02:00:00",
-      "end_time": "2026-02-05 04:00:00",
-      "episode_number": "",
-      "show_category": "Basket",
-      "show_description": "2a fase: Schio - Bourges. 2a fase: Schio - Bourges."
-    },
-    {
-      "show_name": "Salto con gli Sci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/salto-con-gli-sci.webp",
-      "start_time": "2026-02-05 04:00:00",
-      "end_time": "2026-02-05 04:30:00",
-      "episode_number": "",
-      "show_category": "Salto",
-      "show_description": "Coppa del Mondo - Willingen: Gara 1. Coppa del Mondo - Willingen: Gara 1."
-    },
-    {
-      "show_name": "Salto con gli Sci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/salto-con-gli-sci.webp",
-      "start_time": "2026-02-05 04:30:00",
-      "end_time": "2026-02-05 05:00:00",
-      "episode_number": "",
-      "show_category": "Salto",
-      "show_description": "Coppa del Mondo - Willingen: Gara 2. Coppa del Mondo - Willingen: Gara 2."
-    },
-    {
-      "show_name": "Salto con gli Sci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/salto-con-gli-sci.webp",
-      "start_time": "2026-02-05 05:00:00",
-      "end_time": "2026-02-05 05:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Coppa del Mondo - Willingen: Gara 3."
-    },
-    {
-      "show_name": "Ciclocross",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/ciclocross.webp",
-      "start_time": "2026-02-05 05:30:00",
-      "end_time": "2026-02-05 06:00:00",
-      "episode_number": "S2026",
-      "show_category": "Ciclismo",
-      "show_description": "Mondiali - Uomini Junior. Mondiali - Uomini Junior."
-    },
-    {
-      "show_name": "Sci di Fondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/sci-di-fondo.webp",
-      "start_time": "2026-02-05 06:00:00",
-      "end_time": "2026-02-05 07:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Sci di Fondo - 53a Marcialonga Moena-Cavalese."
-    },
-    {
-      "show_name": "Tg Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/tg-sport.webp",
-      "start_time": "2026-02-05 07:00:00",
-      "end_time": "2026-02-05 07:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "TG Sport Mattina."
-    },
-    {
-      "show_name": "Atletica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/atletica.webp",
-      "start_time": "2026-02-05 07:30:00",
-      "end_time": "2026-02-05 09:25:00",
-      "episode_number": "S2026",
-      "show_category": "Atletica Leggera",
-      "show_description": "Udin Jump. Udin Jump."
-    },
-    {
-      "show_name": "Salto con gli Sci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/salto-con-gli-sci.webp",
-      "start_time": "2026-02-05 09:25:00",
-      "end_time": "2026-02-05 09:50:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Coppa del Mondo - Willingen: Gara 3."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-05 09:50:00",
-      "end_time": "2026-02-05 12:10:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Alle Olimpiadi di Milano Cortina, il doppio misto di curling vede l'Italia affrontare la Corea del Sud in una sfida di precisione, strategia e nervi saldi sul ghiaccio."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-05 12:10:00",
-      "end_time": "2026-02-05 12:15:00",
-      "episode_number": "S2026",
-      "show_category": "Grandi Eventi",
-      "show_description": "In occasione delle Olimpiadi Invernali di Milano Cortina 2026, lo Speciale Tg Sport è dedicato alla mostra della collezione delle Torce Olimpiche, un viaggio tra storia, design e simboli che raccontano l'evoluzione dei Giochi e del loro emblema più iconico. In occasione delle Olimpiadi Invernali di Milano Cortina 2026, lo Speciale Tg Sport è dedicato alla mostra della collezione delle Torce Olimpiche, un viaggio tra storia, design e simboli che raccontano l'evoluzione dei Giochi e del loro emblema più iconico."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-05 12:15:00",
-      "end_time": "2026-02-05 12:20:00",
-      "episode_number": "S2026",
-      "show_category": "Grandi Eventi",
-      "show_description": "In occasione delle Olimpiadi Invernali di Milano Cortina 2026, lo Speciale Tg Sport racconta l'arrivo della Torcia Olimpica a Bolzano, un momento simbolico del percorso verso i Giochi, tra partecipazione, emozione e spirito olimpico. In occasione delle Olimpiadi Invernali di Milano Cortina 2026, lo Speciale Tg Sport racconta l'arrivo della Torcia Olimpica a Bolzano, un momento simbolico del percorso verso i Giochi, tra partecipazione, emozione e spirito olimpico."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-05 12:20:00",
-      "end_time": "2026-02-05 12:25:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "In occasione delle Olimpiadi Invernali di Milano Cortina 2026, lo Speciale Tg Sport è dedicato all'Opening Show \"On Fire 2026\", l'evento che accende ufficialmente il cammino verso i Giochi, tra spettacolo, musica e spirito olimpico."
-    },
-    {
-      "show_name": "Ciclismo su pista",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/ciclismo-su-pista.webp",
-      "start_time": "2026-02-05 12:25:00",
-      "end_time": "2026-02-05 15:15:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Ciclismo su Pista: Europei 2026 - 5a giornata."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-05 15:15:00",
-      "end_time": "2026-02-05 17:10:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "L'Italia affronta la Francia nel Gruppo B del torneo di hockey su ghiaccio femminile. Una sfida importante per il cammino olimpico delle Azzurre."
-    },
-    {
-      "show_name": "UAE Tour",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/uae-tour.webp",
-      "start_time": "2026-02-05 17:10:00",
-      "end_time": "2026-02-05 18:10:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "La prima tappa, da Al Mirfa a Madinat Zayed, inaugura la corsa con un percorso adatto alle alte velocità, dove il gruppo è chiamato a una prima prova di resistenza e strategia."
-    },
-    {
       "show_name": "Europei femminili di Pallanuoto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/europei-femminili-di-pallanuoto.webp",
-      "start_time": "2026-02-05 18:10:00",
-      "end_time": "2026-02-05 19:45:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/04/1770232247964_Nuovo%20progetto%205.jpg",
+      "start_time": "2026-02-06 00:00:00",
+      "end_time": "2026-02-06 01:40:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "Nella finale per il terzo posto degli Europei femminili 2026, l'Italia affronta la Grecia in una sfida decisiva per salire sul podio, tra intensità, orgoglio e grande pallanuoto."
     },
     {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-05 19:45:00",
-      "end_time": "2026-02-05 21:45:00",
+      "show_name": "Europei femminili di Pallanuoto",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/04/1770233303654_Nuovo%20progetto%208.jpg",
+      "start_time": "2026-02-06 01:40:00",
+      "end_time": "2026-02-06 03:10:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "Nel doppio misto di curling, l'Italia affronta il Canada in una sfida di grande prestigio, dove precisione, strategia e affiatamento sono decisivi sul ghiaccio."
+      "show_description": "Va in scena la finale degli Europei femminili di pallanuoto 2026: Ungheria e Paesi Bassi si affrontano per il titolo continentale in una sfida di altissimo livello, tra tecnica, intensità e spettacolo in vasca."
+    },
+    {
+      "show_name": "Ciclismo su pista",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/04/1770231772485_Nuovo%20progetto%203.jpg",
+      "start_time": "2026-02-06 03:10:00",
+      "end_time": "2026-02-06 06:00:00",
+      "episode_number": "",
+      "show_category": "Ciclismo",
+      "show_description": "Ciclismo su Pista: Europei 2026 - 5a giornata. Ciclismo su Pista: Europei 2026 - 5a giornata."
     },
     {
       "show_name": "Radiocorsa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/radiocorsa.webp",
-      "start_time": "2026-02-05 21:45:00",
-      "end_time": "2026-02-05 22:50:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2022/10/14/1665752647392_1665423210889_loc-logo-radiocorsa_2048x1152loc-logo.jpg",
+      "start_time": "2026-02-06 06:00:00",
+      "end_time": "2026-02-06 07:00:00",
       "episode_number": "",
-      "show_category": "",
-      "show_description": "Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti."
+      "show_category": "Sport",
+      "show_description": "Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti. Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti."
     },
     {
-      "show_name": "Dribbling",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/dribbling.webp",
-      "start_time": "2026-02-05 22:50:00",
-      "end_time": "2026-02-05 23:00:00",
+      "show_name": "Tg Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg",
+      "start_time": "2026-02-06 07:00:00",
+      "end_time": "2026-02-06 07:30:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "L'intervista al pallavolista Matteo Piano."
+      "show_description": "TG Sport Mattina."
+    },
+    {
+      "show_name": "Biliardo",
+      "show_logo": "https://www.raiplay.it/dl/img/2020/10/28/1603870147540_Biliardo-assets2048x1152.jpg",
+      "start_time": "2026-02-06 07:30:00",
+      "end_time": "2026-02-06 08:50:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "National Billiard Challenge - Caltanissetta: 3a prova. National Billiard Challenge - Caltanissetta: 3a prova."
+    },
+    {
+      "show_name": "Ciclocross",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/03/1770130245017_1770130271061.png",
+      "start_time": "2026-02-06 08:50:00",
+      "end_time": "2026-02-06 09:55:00",
+      "episode_number": "S2026",
+      "show_category": "Ciclismo",
+      "show_description": "Mondiali - Donne U23. Mondiali - Donne U23."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/10/29/1761753369660_pattinaggio%20di%20figura%202025%20libero%20conti-macii.jpg",
+      "start_time": "2026-02-06 09:55:00",
+      "end_time": "2026-02-06 12:00:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Sara Conti e Nicolò Macii sono la coppia italiana di artistico che garaggia nel team event di pattinaggio di figura."
+    },
+    {
+      "show_name": "Ciclocross",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/02/1769988669898_Nuovo%20progetto%201.jpg",
+      "start_time": "2026-02-06 12:00:00",
+      "end_time": "2026-02-06 12:50:00",
+      "episode_number": "S2026",
+      "show_category": "Ciclismo",
+      "show_description": "Va in scena la gara Uomini Elite dei Mondiali di Ciclocross 2026: il massimo appuntamento della disciplina, dove i migliori specialisti del mondo si sfidano su un percorso tecnico e impegnativo per conquistare la maglia iridata. Va in scena la gara Uomini Elite dei Mondiali di Ciclocross 2026: il massimo appuntamento della disciplina, dove i migliori specialisti del mondo si sfidano su un percorso tecnico e impegnativo per conquistare la maglia iridata."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/14/1768412203784_pattinaggio%20di%20figura%20europei%202026%20corto%20donne%20lara%20naki%20gutmann.jpg",
+      "start_time": "2026-02-06 12:50:00",
+      "end_time": "2026-02-06 14:05:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Seconda gara del team event di pattinaggio di figura, per l'Italia è in pista Lara Naki Gutmann."
+    },
+    {
+      "show_name": "UAE Tour",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/29/1769683015691_UAE%20Tour%20femminile-assets2048x1152.jpg",
+      "start_time": "2026-02-06 14:05:00",
+      "end_time": "2026-02-06 16:00:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "La seconda tappa della UAE Tour si snoda tutta all'interno della città di Dubai lungo un percorso di 145 km con partenza dalla Dubai Police Academy e arrivo all'Hamdan Bin Mohamed Smart University."
+    },
+    {
+      "show_name": "Radiocorsa",
+      "show_logo": "https://www.raiplay.it/dl/img/2022/10/14/1665752647392_1665423210889_loc-logo-radiocorsa_2048x1152loc-logo.jpg",
+      "start_time": "2026-02-06 16:00:00",
+      "end_time": "2026-02-06 17:15:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti. Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti."
+    },
+    {
+      "show_name": "Memory - Rai Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-06 17:15:00",
+      "end_time": "2026-02-06 17:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Memory: Giacomo Mosele."
+    },
+    {
+      "show_name": "Europei femminili di Pallanuoto",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/04/1770232247964_Nuovo%20progetto%205.jpg",
+      "start_time": "2026-02-06 17:30:00",
+      "end_time": "2026-02-06 18:55:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Nella finale per il terzo posto degli Europei femminili 2026, l'Italia affronta la Grecia in una sfida decisiva per salire sul podio, tra intensità, orgoglio e grande pallanuoto."
+    },
+    {
+      "show_name": "Gli imperdibili",
+      "show_logo": "https://www.raiplay.it/dl/img/2016/12/06/1481048262903_imperdibili-h.jpg",
+      "start_time": "2026-02-06 18:55:00",
+      "end_time": "2026-02-06 19:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Europei femminili di Pallanuoto",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/04/1770233303654_Nuovo%20progetto%208.jpg",
+      "start_time": "2026-02-06 19:00:00",
+      "end_time": "2026-02-06 20:35:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Va in scena la finale degli Europei femminili di pallanuoto 2026: Ungheria e Paesi Bassi si affrontano per il titolo continentale in una sfida di altissimo livello, tra tecnica, intensità e spettacolo in vasca."
+    },
+    {
+      "show_name": "Basket: Serie A2 Old Wild West",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/01/24/1737725286334_Basket%20-%20Serie%20A2%202025-assets2048x1152.jpg",
+      "start_time": "2026-02-06 20:35:00",
+      "end_time": "2026-02-06 22:50:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Anticipo della 26a giornata della regualar season di Serie A2 tra Torino e Fortitudo Bologna."
     },
     {
       "show_name": "Sognando Milano Cortina 2026. Sulle spalle dei giganti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/sognando-milano-cortina-2026-sulle-spalle-dei-giganti.webp",
-      "start_time": "2026-02-05 23:00:00",
-      "end_time": "2026-02-05 23:45:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/01/1769970412466_1769970398232.png",
+      "start_time": "2026-02-06 22:50:00",
+      "end_time": "2026-02-06 23:45:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Un confronto generazionale tra i campioni di oggi e quelli di ieri, per dimostrare che il tempo può cambiare tante cose, ma non i valori che guidano lo sport verso le vette più alte della storia. Un confronto generazionale tra i campioni di oggi e quelli di ieri, per dimostrare che il tempo può cambiare tante cose, ma non i valori che guidano lo sport verso le vette più alte della storia."
     },
     {
       "show_name": "Tg Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/tg-sport.webp",
-      "start_time": "2026-02-05 23:45:00",
-      "end_time": "2026-02-06 00:05:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg",
+      "start_time": "2026-02-06 23:45:00",
+      "end_time": "2026-02-07 00:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TG Sport Notte."

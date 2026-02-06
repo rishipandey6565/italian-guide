@@ -1,159 +1,213 @@
 {
   "channel_name": "Sky Sport Uno",
-  "date": "2026-02-05",
+  "date": "2026-02-06",
   "programs": [
     {
-      "show_name": "Virtus Olidata Bologna - Lyon-Villeurbanne",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/virtus-olidata-bologna-lyon-villeurbanne.webp",
-      "start_time": "2026-02-05 00:00:00",
-      "end_time": "2026-02-05 00:30:00",
-      "episode_number": "S2025 E95",
-      "show_category": "Sport",
-      "show_description": "Dalla Virtus Segafredo Arena di Bologna, Italia."
-    },
-    {
       "show_name": "Ep1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/ep1.webp",
-      "start_time": "2026-02-05 00:30:00",
-      "end_time": "2026-02-05 01:15:00",
-      "episode_number": "S2026 E1",
-      "show_category": "Sport",
-      "show_description": "Guarda le interviste e ottieni l'analisi degli esperti del mondo del tennis."
-    },
-    {
-      "show_name": "Fabbri E Guignard",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/fabbri-e-guignard.webp",
-      "start_time": "2026-02-05 01:15:00",
-      "end_time": "2026-02-05 01:30:00",
-      "episode_number": "S2026 E2",
-      "show_category": "Sport",
-      "show_description": "Superatleti."
-    },
-    {
-      "show_name": "Goleador L'ora Dei Gol 01/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/goleador-l-ora-dei-gol-01-02-2026.webp",
-      "start_time": "2026-02-05 01:30:00",
-      "end_time": "2026-02-05 02:30:00",
-      "episode_number": "S2025 E24",
-      "show_category": "Sport",
-      "show_description": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
-    },
-    {
-      "show_name": "Tennis Atp&Wta 2026 04/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/tennis-atp-wta-2026-04-02-2026.webp",
-      "start_time": "2026-02-05 02:30:00",
-      "end_time": "2026-02-05 06:00:00",
-      "episode_number": "S2026 E16",
-      "show_category": "Sport",
-      "show_description": "Tennis Atp&Wta 2026 04/02/2026 - Tennis Atp&Wta 2026 04/02/2026 - ATP & WTA - Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-    },
-    {
-      "show_name": "Virtus Olidata Bologna - Lyon-Villeurbanne",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/virtus-olidata-bologna-lyon-villeurbanne.webp",
-      "start_time": "2026-02-05 06:00:00",
-      "end_time": "2026-02-05 07:55:00",
-      "episode_number": "S2025 E95",
-      "show_category": "Sport",
-      "show_description": "Dalla Virtus Segafredo Arena di Bologna, Italia."
-    },
-    {
-      "show_name": "Speciale Rugby Pre 6 Nazioni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/speciale-rugby-pre-6-nazioni.webp",
-      "start_time": "2026-02-05 07:55:00",
-      "end_time": "2026-02-05 08:10:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Speciale Rugby Pre 6 Nazioni."
-    },
-    {
-      "show_name": "Fabbri E Guignard",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/fabbri-e-guignard.webp",
-      "start_time": "2026-02-05 08:10:00",
-      "end_time": "2026-02-05 08:25:00",
-      "episode_number": "S2026 E2",
-      "show_category": "Sport",
-      "show_description": "Superatleti."
-    },
-    {
-      "show_name": "Conegliano - Lodz",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/conegliano-lodz.webp",
-      "start_time": "2026-02-05 08:25:00",
-      "end_time": "2026-02-05 10:00:00",
-      "episode_number": "S2025 E35",
-      "show_category": "Sport",
-      "show_description": "Dal Palaverde di Treviso, Italia."
-    },
-    {
-      "show_name": "Fabbri E Guignard",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/fabbri-e-guignard.webp",
-      "start_time": "2026-02-05 10:00:00",
-      "end_time": "2026-02-05 10:15:00",
-      "episode_number": "S2026 E2",
-      "show_category": "Sport",
-      "show_description": "Superatleti."
-    },
-    {
-      "show_name": "Ep1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/ep1.webp",
-      "start_time": "2026-02-05 10:15:00",
-      "end_time": "2026-02-05 11:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/fb085119-0134-4270-8ea9-65c02f46fed1/COVER_TITLE_TALL?territory=IT&version=be84d7e1-ff5b-38fa-9dc1-624b1963dab9&w=600&h=800&md5ChecksumParam=54ec061768de3b529cbde9fe494135df",
+      "start_time": "2026-02-06 00:00:00",
+      "end_time": "2026-02-06 00:00:00",
       "episode_number": "S2026 E1",
       "show_category": "Sport",
       "show_description": "Guarda le interviste e ottieni l'analisi degli esperti del mondo del tennis."
     },
     {
       "show_name": "Basket Nba - Ep. 67 - Basket Nba 2025/2026 San Antonio/ Oklahoma City 04/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/basket-nba-ep-67-basket-nba-2025-2026-san-antonio-oklahoma-city-04-02-2026.webp",
-      "start_time": "2026-02-05 11:05:00",
-      "end_time": "2026-02-05 13:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/ae436669-3414-44a6-9fd6-28c0470e87cb/cover?territory=IT&md5ChecksumParam=a8f6ed36027328a1d8913d0e382b5a23",
+      "start_time": "2026-02-06 00:00:00",
+      "end_time": "2026-02-06 02:00:00",
       "episode_number": "S2025 E67",
       "show_category": "Sport",
       "show_description": "Dal Frost Bank Center di San Antonio, Texas, Stati Uniti."
     },
     {
       "show_name": "Tennis: ATP & WTA - Ep. 17 - Tennis Atp&Wta 2026 05/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/tennis-atp-wta-ep-17-tennis-atp-wta-2026-05-02-2026.webp",
-      "start_time": "2026-02-05 13:00:00",
-      "end_time": "2026-02-05 18:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/7c45a190-0a41-4252-a768-b2ce59f861ba/COVER_TITLE_TALL?territory=IT&version=73572f96-8419-3c9b-bf78-8ca1428fa340&w=600&h=800&md5ChecksumParam=a122639fa799ef94592275900c2977c9",
+      "start_time": "2026-02-06 02:00:00",
+      "end_time": "2026-02-06 06:00:00",
       "episode_number": "S2026 E17",
       "show_category": "Sport",
       "show_description": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
     },
     {
-      "show_name": "Basket Nba - Ep. 67 - Basket Nba 2025/2026 San Antonio/ Oklahoma City 04/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/basket-nba-ep-67-basket-nba-2025-2026-san-antonio-oklahoma-city-04-02-2026.webp",
-      "start_time": "2026-02-05 18:45:00",
-      "end_time": "2026-02-05 20:40:00",
-      "episode_number": "S2025 E67",
-      "show_category": "Sport",
-      "show_description": "Dal Frost Bank Center di San Antonio, Texas, Stati Uniti."
-    },
-    {
-      "show_name": "Speciale Rugby Pre 6 Nazioni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/speciale-rugby-pre-6-nazioni.webp",
-      "start_time": "2026-02-05 20:40:00",
-      "end_time": "2026-02-05 21:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Speciale Rugby Pre 6 Nazioni."
-    },
-    {
       "show_name": "Francia - Irlanda",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/francia-irlanda.webp",
-      "start_time": "2026-02-05 21:00:00",
-      "end_time": "2026-02-05 23:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/eb47dad4-9c11-46e1-928c-e51f0a214757/cover?territory=IT&md5ChecksumParam=ec3bd0d229df42050a2bda0e78b1808b",
+      "start_time": "2026-02-06 06:00:00",
+      "end_time": "2026-02-06 08:00:00",
       "episode_number": "S2026 E1",
       "show_category": "Sport",
       "show_description": "Dallo Stade de France di Saint-Denis, Francia."
     },
     {
       "show_name": "Ep1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Uno/today/ep1.webp",
-      "start_time": "2026-02-05 23:15:00",
-      "end_time": "2026-02-06 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/fb085119-0134-4270-8ea9-65c02f46fed1/COVER_TITLE_TALL?territory=IT&version=be84d7e1-ff5b-38fa-9dc1-624b1963dab9&w=600&h=800&md5ChecksumParam=54ec061768de3b529cbde9fe494135df",
+      "start_time": "2026-02-06 08:00:00",
+      "end_time": "2026-02-06 08:45:00",
       "episode_number": "S2026 E1",
       "show_category": "Sport",
       "show_description": "Guarda le interviste e ottieni l'analisi degli esperti del mondo del tennis."
+    },
+    {
+      "show_name": "Basket Nba - Ep. 67 - Basket Nba 2025/2026 San Antonio/ Oklahoma City 04/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/ae436669-3414-44a6-9fd6-28c0470e87cb/cover?territory=IT&md5ChecksumParam=a8f6ed36027328a1d8913d0e382b5a23",
+      "start_time": "2026-02-06 08:45:00",
+      "end_time": "2026-02-06 10:20:00",
+      "episode_number": "S2025 E67",
+      "show_category": "Sport",
+      "show_description": "Dal Frost Bank Center di San Antonio, Texas, Stati Uniti."
+    },
+    {
+      "show_name": "Basket Room - Ep. 30 - Basket Room Nba 05/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/e19d6d06-c53f-4e5f-8080-47734fb21941/cover?territory=IT&md5ChecksumParam=e17e94f9f17e1fc4beb95e8f7ad48e1a",
+      "start_time": "2026-02-06 10:20:00",
+      "end_time": "2026-02-06 10:40:00",
+      "episode_number": "S2025 E30",
+      "show_category": "Sport",
+      "show_description": "Il programma di approfondimento sul basket italiano ed internazionale, con video esclusivi, interviste ed ospiti in studio."
+    },
+    {
+      "show_name": "Battiti Olimpici",
+      "show_logo": "https://guidatv.sky.it/uuid/ad23d455-73e8-4494-9b64-f062cb053240/cover?territory=IT&md5ChecksumParam=be53779c7012c77afef41ad756da4c1e",
+      "start_time": "2026-02-06 10:40:00",
+      "end_time": "2026-02-06 11:40:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "L'Istituto di Medicina e Scienza dello Sport del CONI guida gli azzurri verso Milano Cortina 2026: scienza, passione e innovazione al servizio delle sfide olimpiche."
+    },
+    {
+      "show_name": "Ep.1",
+      "show_logo": "https://guidatv.sky.it/uuid/360eaf3c-f9fa-44b2-87dc-293f993f095e/cover?territory=IT&md5ChecksumParam=ea8de2f29d117ce052c3da77b110ebd3",
+      "start_time": "2026-02-06 11:40:00",
+      "end_time": "2026-02-06 11:55:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "Servizi informativi dedicati ai più piccoli sportivi italiani e alle realtà giovanili legate al calcio, tra trofei, incontri, e storie."
+    },
+    {
+      "show_name": "Ep1",
+      "show_logo": "https://guidatv.sky.it/uuid/fb085119-0134-4270-8ea9-65c02f46fed1/COVER_TITLE_TALL?territory=IT&version=be84d7e1-ff5b-38fa-9dc1-624b1963dab9&w=600&h=800&md5ChecksumParam=54ec061768de3b529cbde9fe494135df",
+      "start_time": "2026-02-06 11:55:00",
+      "end_time": "2026-02-06 12:40:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "Guarda le interviste e ottieni l'analisi degli esperti del mondo del tennis."
+    },
+    {
+      "show_name": "Ep.32",
+      "show_logo": "https://guidatv.sky.it/uuid/e94febc8-7b50-423b-afe1-1087283fdd0d/cover?territory=IT&md5ChecksumParam=1e34170d5094d2cf16307c750b0f8008",
+      "start_time": "2026-02-06 12:40:00",
+      "end_time": "2026-02-06 13:10:00",
+      "episode_number": "S2025 E32",
+      "show_category": "Sport",
+      "show_description": "Premier League Stories."
+    },
+    {
+      "show_name": "Battiti Olimpici",
+      "show_logo": "https://guidatv.sky.it/uuid/ad23d455-73e8-4494-9b64-f062cb053240/cover?territory=IT&md5ChecksumParam=be53779c7012c77afef41ad756da4c1e",
+      "start_time": "2026-02-06 13:10:00",
+      "end_time": "2026-02-06 14:10:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "L'Istituto di Medicina e Scienza dello Sport del CONI guida gli azzurri verso Milano Cortina 2026: scienza, passione e innovazione al servizio delle sfide olimpiche."
+    },
+    {
+      "show_name": "Ep1",
+      "show_logo": "https://guidatv.sky.it/uuid/fb085119-0134-4270-8ea9-65c02f46fed1/COVER_TITLE_TALL?territory=IT&version=be84d7e1-ff5b-38fa-9dc1-624b1963dab9&w=600&h=800&md5ChecksumParam=54ec061768de3b529cbde9fe494135df",
+      "start_time": "2026-02-06 14:10:00",
+      "end_time": "2026-02-06 15:00:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "Guarda le interviste e ottieni l'analisi degli esperti del mondo del tennis."
+    },
+    {
+      "show_name": "1a Semifinale",
+      "show_logo": "https://guidatv.sky.it/uuid/d1976bd0-0ce8-4218-9f08-bc1d89538867/cover?territory=IT&md5ChecksumParam=038e8cb1e1e03392eae4c5564dd04f39",
+      "start_time": "2026-02-06 15:00:00",
+      "end_time": "2026-02-06 17:00:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "Dallo Zayed Sports City International Tennis Centre di Abu Dhabi, Emirati Arabi Uniti."
+    },
+    {
+      "show_name": "2a Semifinale",
+      "show_logo": "https://guidatv.sky.it/uuid/2ceeca34-2e6a-462d-a5be-ac8184f15bc0/cover?territory=IT&md5ChecksumParam=8d112fc11f402033144e313816cec342",
+      "start_time": "2026-02-06 17:00:00",
+      "end_time": "2026-02-06 18:55:00",
+      "episode_number": "S2026 E2",
+      "show_category": "Sport",
+      "show_description": "Dallo Zayed Sports City International Tennis Centre di Abu Dhabi, Emirati Arabi Uniti."
+    },
+    {
+      "show_name": "Basket Room - Ep. 30 - Basket Room Nba 05/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/e19d6d06-c53f-4e5f-8080-47734fb21941/cover?territory=IT&md5ChecksumParam=e17e94f9f17e1fc4beb95e8f7ad48e1a",
+      "start_time": "2026-02-06 18:55:00",
+      "end_time": "2026-02-06 19:10:00",
+      "episode_number": "S2025 E30",
+      "show_category": "Sport",
+      "show_description": "Il programma di approfondimento sul basket italiano ed internazionale, con video esclusivi, interviste ed ospiti in studio."
+    },
+    {
+      "show_name": "Stefania Belmondo E Kristian Ghedina",
+      "show_logo": "https://guidatv.sky.it/uuid/e9092619-629b-47d5-b787-953331db444c/cover?territory=IT&md5ChecksumParam=e766146eca9b7d38ac6bf3f3a579df79",
+      "start_time": "2026-02-06 19:10:00",
+      "end_time": "2026-02-06 19:25:00",
+      "episode_number": "S2026 E3",
+      "show_category": "Sport",
+      "show_description": "Stefania Belmondo E Kristian Ghedina."
+    },
+    {
+      "show_name": "Federico Buffa A Teatro: Otto Infinito",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-06 19:25:00",
+      "end_time": "2026-02-06 19:55:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Federico Buffa, la regista Marelli e il maestro Nidi aprono il backstage a Sky Sport: genesi, trama e legacy dello spettacolo su Kobe Bryant. Dal 7 febbraio a teatro."
+    },
+    {
+      "show_name": "Lyon-Villeurbanne - EA7 Emporio Armani Milano",
+      "show_logo": "https://guidatv.sky.it/uuid/5454b304-cdfc-44ed-8977-7ca74559dc7b/cover?territory=IT&md5ChecksumParam=5bbe291b6e9b477e204a036ce58508e9",
+      "start_time": "2026-02-06 19:55:00",
+      "end_time": "2026-02-06 22:00:00",
+      "episode_number": "S2025 E98",
+      "show_category": "Sport",
+      "show_description": "Dall'Astroballe di Lione, Rodano-Alpi, Francia."
+    },
+    {
+      "show_name": "Ep.1",
+      "show_logo": "https://guidatv.sky.it/uuid/615891e0-7dfb-4812-9ed9-333030a5b52c/cover?territory=IT&md5ChecksumParam=459a2bc76f659361d90cfe87c51afda9",
+      "start_time": "2026-02-06 22:00:00",
+      "end_time": "2026-02-06 22:45:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "racconta l'Italia intrecciando la storia delle Olimpiadi e delle infrastrutture ferroviarie, mostrando come i grandi eventi abbiano accelerato il cambiamento del Paese."
+    },
+    {
+      "show_name": "Stefania Belmondo E Kristian Ghedina",
+      "show_logo": "https://guidatv.sky.it/uuid/e9092619-629b-47d5-b787-953331db444c/cover?territory=IT&md5ChecksumParam=e766146eca9b7d38ac6bf3f3a579df79",
+      "start_time": "2026-02-06 22:45:00",
+      "end_time": "2026-02-06 23:05:00",
+      "episode_number": "S2026 E3",
+      "show_category": "Sport",
+      "show_description": "Stefania Belmondo E Kristian Ghedina."
+    },
+    {
+      "show_name": "Ep.15",
+      "show_logo": "https://guidatv.sky.it/uuid/b884b937-a12c-4a25-86bb-3775f7eedf8d/cover?territory=IT&md5ChecksumParam=c78547cecec269f61fec029d5c318d69",
+      "start_time": "2026-02-06 23:05:00",
+      "end_time": "2026-02-06 23:30:00",
+      "episode_number": "S2025 E15",
+      "show_category": "Sport",
+      "show_description": "Ep.15 - Ep.15 - I protagonisti, i temi e le tendenze della stagione NBA, tra attualita' e approfondimento."
+    },
+    {
+      "show_name": "Ep.32",
+      "show_logo": "https://guidatv.sky.it/uuid/e94febc8-7b50-423b-afe1-1087283fdd0d/cover?territory=IT&md5ChecksumParam=1e34170d5094d2cf16307c750b0f8008",
+      "start_time": "2026-02-06 23:30:00",
+      "end_time": "2026-02-07 00:00:00",
+      "episode_number": "S2025 E32",
+      "show_category": "Sport",
+      "show_description": "Premier League Stories."
     }
   ]
 }

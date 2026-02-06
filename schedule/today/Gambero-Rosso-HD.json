@@ -1,465 +1,429 @@
 {
   "channel_name": "Gambero Rosso HD",
-  "date": "2026-02-05",
+  "date": "2026-02-06",
   "programs": [
     {
-      "show_name": "Beker on Tour BBQ FVG Collio - Stag. 39 Ep. 7 - Bombette pugliesi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 00:00:00",
-      "end_time": "2026-02-05 00:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Fabrizio Nonis in viaggio nel Collio friulano immerso nelle tradizioni culinarie, artistiche e naturali di questo luogo."
-    },
-    {
-      "show_name": "Parola di chef - Stag. 12 Ep. 9 - Davide Del Duca",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 00:00:00",
-      "end_time": "2026-02-05 00:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una generazione di giovani chef si racconta in una serie tv: la passione, gli esordi, le difficolta' e le ricette che li caratterizzano. Prox Ep. 5 feb 12:00. Rep. 5 feb 06:00."
-    },
-    {
-      "show_name": "Il sesto senso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/il-sesto-senso.webp",
-      "start_time": "2026-02-05 00:30:00",
-      "end_time": "2026-02-05 01:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Chef Domingo e' in Puglia, per raccontare attraverso piatti e ricette i cinque sensi piu' il sesto, che e' quel 'quid' indefinibile che serve per essere un grande chef."
-    },
-    {
-      "show_name": "Il gusto di Igles - Le origini",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/il-gusto-di-igles-le-origini.webp",
-      "start_time": "2026-02-05 01:00:00",
-      "end_time": "2026-02-05 01:35:00",
-      "episode_number": "S13 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Igles Corelli: un grande chef consiglia ricette semplici e gustose realizzate con qualche trucco che rende la loro preparazione molto veloce."
-    },
-    {
-      "show_name": "Fuoco Piemonte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/fuoco-piemonte.webp",
-      "start_time": "2026-02-05 01:35:00",
-      "end_time": "2026-02-05 02:00:00",
-      "episode_number": "S6 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un ritorno al fuoco vivo come unica forma di cottura: Max Mariola insegna trucchi, temperature e ricette per cucinare come si faceva alle origini. Prox Ep. 6 feb 01:30."
-    },
-    {
-      "show_name": "Giorgione: orto e cucina - Val Trebbia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/giorgione-orto-e-cucina-val-trebbia.webp",
-      "start_time": "2026-02-05 02:00:00",
-      "end_time": "2026-02-05 02:30:00",
-      "episode_number": "S39 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "L'amabile Giorgione e' il protagonista di piacevoli avventure nell'orto e in cucina. Il nostro beniamino e' sempre in cerca dei migliori ingredienti per creare ricette gustosissime."
-    },
-    {
-      "show_name": "Vito con i suoi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/vito-con-i-suoi.webp",
-      "start_time": "2026-02-05 02:30:00",
-      "end_time": "2026-02-05 02:50:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Stefano Bicocchi, in arte Vito, apre le porte di casa sua e ci fa entrare nella tradizione della cucina bolognese raccontandoci la sua citta', fatta di ricordi, profumi e sapori."
-    },
-    {
-      "show_name": "Il vino - Stag. 1 Ep. 17 - Lambrusco Colli di Scandiano e di Canossa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 02:50:00",
-      "end_time": "2026-02-05 03:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il vino in pillole: ad ogni piatto il suo vino, ad ogni vino il suo piatto. Con Giuseppe alla ricerca dell'abbinamento perfetto. Prox 5 feb 05:20."
-    },
-    {
-      "show_name": "Una pizza in compagnia - Stag. 1 Ep. 7 - La sfida",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 03:00:00",
-      "end_time": "2026-02-05 03:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Renato Bosco e la sua passione per la pizza, una passione che lo spinge a cercare nuove contaminazioni e nuove sperimentazioni. Prox Ep. 11 feb 21:00. Rep. 11 feb 09:00."
-    },
-    {
-      "show_name": "Una pizza in compagnia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/una-pizza-in-compagnia.webp",
-      "start_time": "2026-02-05 03:30:00",
-      "end_time": "2026-02-05 03:55:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Renato Bosco e la sua passione per la pizza. Una passione curiosa e golosa che lo spinge a cercare nuove contaminazioni e nuove sperimentazioni."
-    },
-    {
-      "show_name": "Petra - Stag. 1 Ep. 2 - Buns",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 03:55:00",
-      "end_time": "2026-02-05 04:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Che sia dolce, pizza o pane, ad ogni ricetta la giusta farina."
-    },
-    {
-      "show_name": "Ritratto di chef",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/ritratto-di-chef.webp",
-      "start_time": "2026-02-05 04:05:00",
-      "end_time": "2026-02-05 04:30:00",
-      "episode_number": "S1 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gli 'artisti dei fornelli' raccontano se' stessi e il loro modo di intendere la cucina in questa serie firmata Gambero Rosso."
-    },
-    {
-      "show_name": "Ritratto di chef",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/ritratto-di-chef.webp",
-      "start_time": "2026-02-05 04:30:00",
-      "end_time": "2026-02-05 04:55:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gli 'artisti dei fornelli' raccontano se' stessi e il loro modo di intendere la cucina in questa serie firmata Gambero Rosso."
-    },
-    {
-      "show_name": "Parola di chef - Stag. 12 Ep. 8",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 04:55:00",
-      "end_time": "2026-02-05 05:20:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una generazione di giovani chef si racconta in una serie tv: la passione, gli esordi, le difficolta' e le ricette che li caratterizzano. Prox Ep. 5 feb 06:00."
-    },
-    {
-      "show_name": "Il vino - Stag. 1 Ep. 24 - Guido F. Fendi / Chicca",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 05:20:00",
-      "end_time": "2026-02-05 05:35:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il vino in pillole: ad ogni piatto il suo vino, ad ogni vino il suo piatto. Con Giuseppe alla ricerca dell'abbinamento perfetto."
-    },
-    {
       "show_name": "Beker on Tour - Casoni - Stag. 46 Ep. 1 - Finger Food",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 05:35:00",
-      "end_time": "2026-02-05 06:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 00:00:00",
+      "end_time": "2026-02-06 00:05:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Nuova tappa per Fabrizio Nonis, 'El Beker': il viaggio del vostro macellaio di fiducia continua il suo viaggio alla scoperta di cotture, tagli e succose ricette. Prox Ep. 5 feb 17:30. Rep. 5 feb 11:30."
-    },
-    {
-      "show_name": "Parola di chef - Stag. 12 Ep. 9 - Davide Del Duca",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 06:00:00",
-      "end_time": "2026-02-05 06:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una generazione di giovani chef si racconta in una serie tv: la passione, gli esordi, le difficolta' e le ricette che li caratterizzano. Prox Ep. 5 feb 12:00. Rep. 5 feb 17:00."
-    },
-    {
-      "show_name": "A casa Di Simo - Stag. 1 Ep. 4",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 06:30:00",
-      "end_time": "2026-02-05 07:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Simone Cipriani: ricette, cocktails e suggestioni diverse sempre nel segno del gusto. Prox Ep. 6 feb 06:30."
-    },
-    {
-      "show_name": "Il sesto senso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/il-sesto-senso.webp",
-      "start_time": "2026-02-05 07:00:00",
-      "end_time": "2026-02-05 07:30:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Chef Domingo e' in Puglia, per raccontare attraverso piatti e ricette i cinque sensi piu' il sesto, che e' quel 'quid' indefinibile che serve per essere un grande chef."
-    },
-    {
-      "show_name": "Max sfida alle calorie winter edition - Stag. 5 Ep. 4 - Che fame in montagna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 07:30:00",
-      "end_time": "2026-02-05 08:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una zuppa calda a colazione? Certo, per Max tutto e' possibile, magari preparata la sera prima, per una colazione diversa anche in citta'. Prox Ep. 6 feb 07:30. Rep. 5 feb 14:30."
-    },
-    {
-      "show_name": "Giorgione: orto e cucina - Val Trebbia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/giorgione-orto-e-cucina-val-trebbia.webp",
-      "start_time": "2026-02-05 08:00:00",
-      "end_time": "2026-02-05 08:35:00",
-      "episode_number": "S39 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "L'amabile Giorgione e' il protagonista di piacevoli avventure nell'orto e in cucina. Il nostro beniamino e' sempre in cerca dei migliori ingredienti per creare ricette gustosissime."
-    },
-    {
-      "show_name": "Le grandi cantine - Stag. 5 Ep. 2 - Formentini",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 08:35:00",
-      "end_time": "2026-02-05 09:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un programma alla scoperta delle tradizioni delle piu' importanti famiglie vinicole italiane. Prox Ep. 6 feb 08:30."
-    },
-    {
-      "show_name": "Con le mani in pasta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/con-le-mani-in-pasta.webp",
-      "start_time": "2026-02-05 09:05:00",
-      "end_time": "2026-02-05 09:35:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nonna Rina, di Moricone, ci delizia con il pangiallo e con i frittilli di mele alla moriconese."
-    },
-    {
-      "show_name": "Valtenesi - Stag. 1 Ep. 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 09:35:00",
-      "end_time": "2026-02-05 10:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Marco Sabellico in un territorio vocato al vino rosato: siamo in Valtenesi, zona del Groppello, un vitigno fragile e delicato che dona vini rosati unici e inconfondibili. Rep. 5 feb 15:30."
-    },
-    {
-      "show_name": "Questa terra e' la mia terra: Peppe...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/questa-terra-e-la-mia-terra-peppe.webp",
-      "start_time": "2026-02-05 10:05:00",
-      "end_time": "2026-02-05 10:35:00",
-      "episode_number": "E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Peppe Guida, i suoi fratelli e la loro passione per la cucina. Un viaggio nei sapori tra ricette e segreti di una grande famiglia."
-    },
-    {
-      "show_name": "Dolcemente con... - Stag. 16 Ep. 2 - Stefano Zizzola: rosegota vellutata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 10:35:00",
-      "end_time": "2026-02-05 11:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Maurizio Santin ospita i maestri pasticceri piu' famosi d'Italia e li accompagna nell'esecuzione di una ricetta, svelando i segreti per creare dolci perfetti. Prox Ep. 10 feb 10:30. Rep. 5 feb 18:30."
-    },
-    {
-      "show_name": "Sweet Giulia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/sweet-giulia.webp",
-      "start_time": "2026-02-05 11:00:00",
-      "end_time": "2026-02-05 11:35:00",
-      "episode_number": "S2 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Tutti i segreti della dolcezza svelati da Giulia Carboneschi. Giovane premiata dalla guida del Gambero Rosso come migliore pasticciera emergente, nel suo vasto repertorio puoi trovare di tutto: dolce e salato, torte, mignon e macaron e tanto ancora. Con l'aiuto di questa grande professionista potrai scoprire tutti i segreti e le ricette più gustose per realizzare dessert che lasceranno di stucco amici e parenti."
-    },
-    {
-      "show_name": "Beker on Tour - Casoni - Stag. 46 Ep. 1 - Finger Food",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 11:35:00",
-      "end_time": "2026-02-05 12:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nuova tappa per Fabrizio Nonis, 'El Beker': il viaggio del vostro macellaio di fiducia continua il suo viaggio alla scoperta di cotture, tagli e succose ricette. Prox Ep. 5 feb 17:30. Rep. 5 feb 23:30."
+      "show_description": "Nuova tappa per Fabrizio Nonis, 'El Beker': il viaggio del vostro macellaio di fiducia continua il suo viaggio alla scoperta di cotture, tagli e succose ricette. Prox Ep. 6 feb 05:35."
     },
     {
       "show_name": "Parola di chef - Stag. 12 Ep. 10",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 12:00:00",
-      "end_time": "2026-02-05 12:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 00:05:00",
+      "end_time": "2026-02-06 00:35:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Una generazione di giovani chef si racconta in una serie tv: la passione, gli esordi, le difficolta' e le ricette che li caratterizzano. Prox Ep. 6 feb 12:05. Rep. 6 feb 0:05."
-    },
-    {
-      "show_name": "Tutto in famiglia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/tutto-in-famiglia.webp",
-      "start_time": "2026-02-05 12:30:00",
-      "end_time": "2026-02-05 13:00:00",
-      "episode_number": "S2 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Laura è pronta ad accoglierci nella Locanda degli angeli. Qui, ci mostra come realizza due piatti differenti, uno vegetariano e uno non, ma che abbinano entrambi carboidrati e proteine."
+      "show_description": "Una generazione di giovani chef si racconta in una serie tv: la passione, gli esordi, le difficolta' e le ricette che li caratterizzano. Prox Ep. 6 feb 12:05. Rep. 6 feb 06:00."
     },
     {
       "show_name": "Il sesto senso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/il-sesto-senso.webp",
-      "start_time": "2026-02-05 13:00:00",
-      "end_time": "2026-02-05 13:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/1f5df97c-bb0d-4ee3-bd71-56eafc2d5cbe/cover?territory=IT&md5ChecksumParam=a8af7706a59c9cae04a01d8cef415666",
+      "start_time": "2026-02-06 00:35:00",
+      "end_time": "2026-02-06 01:05:00",
       "episode_number": "S1 E4",
       "show_category": "Mondo e Tendenze",
       "show_description": "Chef Domingo e' in Puglia, per raccontare attraverso piatti e ricette i cinque sensi piu' il sesto, che e' quel 'quid' indefinibile che serve per essere un grande chef."
     },
     {
       "show_name": "Il gusto di Igles - Le origini",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/il-gusto-di-igles-le-origini.webp",
-      "start_time": "2026-02-05 13:30:00",
-      "end_time": "2026-02-05 14:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/bd181392-3de6-4143-a578-3cdf24493951/cover?territory=IT&md5ChecksumParam=cce8a899836572af14405024bf2a37f4",
+      "start_time": "2026-02-06 01:05:00",
+      "end_time": "2026-02-06 01:30:00",
       "episode_number": "S13 E5",
       "show_category": "Mondo e Tendenze",
       "show_description": "Igles Corelli: un grande chef consiglia ricette semplici e gustose realizzate con qualche trucco che rende la loro preparazione molto veloce."
     },
     {
+      "show_name": "Fuoco Piemonte",
+      "show_logo": "https://guidatv.sky.it/uuid/bb238271-de13-46eb-a0a6-e4b28982874d/cover?territory=IT&md5ChecksumParam=7c5b40e361cbb3b52cb09f780a599b3b",
+      "start_time": "2026-02-06 01:30:00",
+      "end_time": "2026-02-06 02:00:00",
+      "episode_number": "S6 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Alla scoperta delle avventure culinarie dello chef, sempre e rigorosamente sul territorio."
+    },
+    {
       "show_name": "Giorgione: orto e cucina - Val Trebbia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/giorgione-orto-e-cucina-val-trebbia.webp",
-      "start_time": "2026-02-05 14:00:00",
-      "end_time": "2026-02-05 14:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/9500bbab-511a-4bde-abed-0e632aeb3ed2/cover?territory=IT&md5ChecksumParam=04c7f8711b28511b3f23b242d0a616a1",
+      "start_time": "2026-02-06 02:00:00",
+      "end_time": "2026-02-06 02:30:00",
       "episode_number": "S39 E4",
       "show_category": "Mondo e Tendenze",
       "show_description": "L'amabile Giorgione e' il protagonista di piacevoli avventure nell'orto e in cucina. Il nostro beniamino e' sempre in cerca dei migliori ingredienti per creare ricette gustosissime."
     },
     {
-      "show_name": "Max sfida alle calorie winter edition - Stag. 5 Ep. 4 - Che fame in montagna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 14:30:00",
-      "end_time": "2026-02-05 15:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una zuppa calda a colazione? Certo, per Max tutto e' possibile, magari preparata la sera prima, per una colazione diversa anche in citta'. Prox Ep. 6 feb 07:30. Rep. 20 feb 07:30."
-    },
-    {
-      "show_name": "Con le mani in pasta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/con-le-mani-in-pasta.webp",
-      "start_time": "2026-02-05 15:00:00",
-      "end_time": "2026-02-05 15:30:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nonna Rina, di Moricone, ci delizia con il pangiallo e con i frittilli di mele alla moriconese."
-    },
-    {
-      "show_name": "Valtenesi - Stag. 1 Ep. 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 15:30:00",
-      "end_time": "2026-02-05 16:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Marco Sabellico in un territorio vocato al vino rosato: siamo in Valtenesi, zona del Groppello, un vitigno fragile e delicato che dona vini rosati unici e inconfondibili."
-    },
-    {
-      "show_name": "Questa terra e' la mia terra: Peppe...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/questa-terra-e-la-mia-terra-peppe.webp",
-      "start_time": "2026-02-05 16:00:00",
-      "end_time": "2026-02-05 16:30:00",
-      "episode_number": "S8 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Peppe Guida, i suoi fratelli e la loro passione per la cucina. Un viaggio nei sapori tra ricette e segreti di una grande famiglia."
-    },
-    {
-      "show_name": "Odissea nelle spezie",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/odissea-nelle-spezie.webp",
-      "start_time": "2026-02-05 16:30:00",
-      "end_time": "2026-02-05 17:00:00",
+      "show_name": "Vito con i suoi",
+      "show_logo": "https://guidatv.sky.it/uuid/4b6bd902-5324-44e6-a913-f1c63fb6747b/cover?territory=IT&md5ChecksumParam=43aa5603a2cd2167557cb4809b014245",
+      "start_time": "2026-02-06 02:30:00",
+      "end_time": "2026-02-06 02:55:00",
       "episode_number": "S1 E4",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Consigli per utilizzare al meglio in cucina questo ingrediente prezioso e caratteristico."
-    },
-    {
-      "show_name": "Parola di chef - Stag. 12 Ep. 9 - Davide Del Duca",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 17:00:00",
-      "end_time": "2026-02-05 17:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una generazione di giovani chef si racconta in una serie tv: la passione, gli esordi, le difficolta' e le ricette che li caratterizzano. Prox Ep. 6 feb 0:05. Rep. 6 feb 05:05."
-    },
-    {
-      "show_name": "Beker on Tour - Casoni - Stag. 46 Ep. 2 - Tris di bruschette",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 17:30:00",
-      "end_time": "2026-02-05 18:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nuova tappa per Fabrizio Nonis, 'El Beker': il viaggio del vostro macellaio di fiducia continua il suo viaggio alla scoperta di cotture, tagli e succose ricette. Prox Ep. 6 feb 17:30. Rep. 6 feb 05:35."
-    },
-    {
-      "show_name": "Come e' profondo il mare: Sardegna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/come-e-profondo-il-mare-sardegna.webp",
-      "start_time": "2026-02-05 18:00:00",
-      "end_time": "2026-02-05 18:30:00",
-      "episode_number": "S2 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Sapete che a ogni profondita' si pescano pesci differenti? Seguiteci in questa avventura che unisce una cucina stellare alle conoscenze piu' approfondite del fondale marino italiano."
-    },
-    {
-      "show_name": "Dolcemente con... - Stag. 16 Ep. 2 - Stefano Zizzola: rosegota vellutata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 18:30:00",
-      "end_time": "2026-02-05 19:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Maurizio Santin ospita i maestri pasticceri piu' famosi d'Italia e li accompagna nell'esecuzione di una ricetta, svelando i segreti per creare dolci perfetti. Prox Ep. 10 feb 10:30."
-    },
-    {
-      "show_name": "Il gusto di Igles - Le origini",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/il-gusto-di-igles-le-origini.webp",
-      "start_time": "2026-02-05 19:00:00",
-      "end_time": "2026-02-05 19:35:00",
-      "episode_number": "S13 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Igles Corelli: un grande chef consiglia ricette semplici e gustose realizzate con qualche trucco che rende la loro preparazione molto veloce."
-    },
-    {
-      "show_name": "I panini li fa Max",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/i-panini-li-fa-max.webp",
-      "start_time": "2026-02-05 19:35:00",
-      "end_time": "2026-02-05 20:00:00",
-      "episode_number": "S8 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Lo chef Massimiliano Mariola si avventura nel mondo del pane e delle sue farciture. In questo episodio due panini: Spalletta e Totanozzo."
-    },
-    {
-      "show_name": "Giorgione: orto e cucina - Val Trebbia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/giorgione-orto-e-cucina-val-trebbia.webp",
-      "start_time": "2026-02-05 20:00:00",
-      "end_time": "2026-02-05 21:05:00",
-      "episode_number": "S39 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "L'amabile Giorgione e' il protagonista di piacevoli avventure nell'orto e in cucina. Il nostro beniamino e' sempre in cerca dei migliori ingredienti per creare ricette gustosissime."
+      "show_description": "Stefano Bicocchi, in arte Vito, apre le porte di casa sua e ci fa entrare nella tradizione della cucina bolognese raccontandoci la sua citta', fatta di ricordi, profumi e sapori."
     },
     {
       "show_name": "Neogrania - Dal campo al forno - Stag. 1 Ep. 1 - Massimiliano Leonetti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 21:05:00",
-      "end_time": "2026-02-05 21:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 02:55:00",
+      "end_time": "2026-02-06 03:30:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "La nuova frontiera del grano: Neogrania un progetto che mira a creare nuove varieta' di grano, ecosostenibili e resistenti. Prox Ep. 12 feb 21:00. Rep. 6 feb 02:55."
+      "show_description": "La nuova frontiera del grano: Neogrania un progetto che mira a creare nuove varieta' di grano, ecosostenibili e resistenti. Prox Ep. 12 feb 21:00. Rep. 12 feb 09:00."
     },
     {
-      "show_name": "Con le mani in pasta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/con-le-mani-in-pasta.webp",
-      "start_time": "2026-02-05 21:30:00",
-      "end_time": "2026-02-05 22:00:00",
+      "show_name": "Orvieto: vino, storia, arte",
+      "show_logo": "https://guidatv.sky.it/uuid/a51a5edf-d184-4f12-a82f-54edeef71429/cover?cgid=261&territory=IT&md5ChecksumParam=54f0785ef739d5c127b0096bc6a407c8.it",
+      "start_time": "2026-02-06 03:30:00",
+      "end_time": "2026-02-06 04:00:00",
       "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Nonna Rina, di Moricone, ci delizia con il pangiallo e con i frittilli di mele alla moriconese."
-    },
-    {
-      "show_name": "Questa terra e' la mia terra: Peppe...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/questa-terra-e-la-mia-terra-peppe.webp",
-      "start_time": "2026-02-05 22:00:00",
-      "end_time": "2026-02-05 22:35:00",
-      "episode_number": "E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Peppe Guida, i suoi fratelli e la loro passione per la cucina. Un viaggio nei sapori tra ricette e segreti di una grande famiglia."
+      "show_description": "Orvieto, il duomo, l'arte e il vino Orvieto Doc conosciuto fin dal Medioevo per la sua straordinaria qualità."
     },
     {
       "show_name": "Ritratto di chef",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/ritratto-di-chef.webp",
-      "start_time": "2026-02-05 22:35:00",
-      "end_time": "2026-02-05 23:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/73b5f29b-6a2a-469c-81cd-3ef854b6bf18/cover?territory=IT&md5ChecksumParam=d285b9d53421fd0442f4de073c117374",
+      "start_time": "2026-02-06 04:00:00",
+      "end_time": "2026-02-06 04:30:00",
       "episode_number": "S1 E12",
       "show_category": "Mondo e Tendenze",
       "show_description": "Gli 'artisti dei fornelli' raccontano se' stessi e il loro modo di intendere la cucina in questa serie firmata Gambero Rosso."
     },
     {
       "show_name": "Ritratto di chef",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Gambero-Rosso-HD/today/ritratto-di-chef.webp",
-      "start_time": "2026-02-05 23:00:00",
-      "end_time": "2026-02-05 23:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/adbd504c-5982-4cc0-b840-add035c7d79d/cover?territory=IT&md5ChecksumParam=d285b9d53421fd0442f4de073c117374",
+      "start_time": "2026-02-06 04:30:00",
+      "end_time": "2026-02-06 05:00:00",
       "episode_number": "S1 E13",
       "show_category": "Mondo e Tendenze",
       "show_description": "Gli 'artisti dei fornelli' raccontano se' stessi e il loro modo di intendere la cucina in questa serie firmata Gambero Rosso."
     },
     {
-      "show_name": "Beker on Tour - Casoni - Stag. 46 Ep. 1 - Finger Food",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-05 23:30:00",
-      "end_time": "2026-02-06 00:05:00",
+      "show_name": "Parola di chef - Stag. 12 Ep. 9 - Davide Del Duca",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 05:00:00",
+      "end_time": "2026-02-06 05:30:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Nuova tappa per Fabrizio Nonis, 'El Beker': il viaggio del vostro macellaio di fiducia continua il suo viaggio alla scoperta di cotture, tagli e succose ricette. Prox Ep. 6 feb 05:35."
+      "show_description": "Una generazione di giovani chef si racconta in una serie tv: la passione, gli esordi, le difficolta' e le ricette che li caratterizzano. Prox Ep. 6 feb 06:00."
+    },
+    {
+      "show_name": "Beker on Tour - Casoni - Stag. 46 Ep. 2 - Tris di bruschette",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 05:30:00",
+      "end_time": "2026-02-06 06:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nuova tappa per Fabrizio Nonis, 'El Beker': il viaggio del vostro macellaio di fiducia continua il suo viaggio alla scoperta di cotture, tagli e succose ricette. Prox Ep. 6 feb 17:30. Rep. 6 feb 11:30."
+    },
+    {
+      "show_name": "Parola di chef - Stag. 12 Ep. 10",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 06:00:00",
+      "end_time": "2026-02-06 06:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una generazione di giovani chef si racconta in una serie tv: la passione, gli esordi, le difficolta' e le ricette che li caratterizzano. Prox Ep. 6 feb 12:05. Rep. 6 feb 17:00."
+    },
+    {
+      "show_name": "A casa Di Simo - Stag. 1 Ep. 5",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 06:30:00",
+      "end_time": "2026-02-06 07:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Simone Cipriani: ricette, cocktails e suggestioni diverse sempre nel segno del gusto. Prox Ep. 9 feb 06:30."
+    },
+    {
+      "show_name": "Il sesto senso",
+      "show_logo": "https://guidatv.sky.it/uuid/afe10ac7-8d99-4874-ab3c-06ab6ad78402/cover?territory=IT&md5ChecksumParam=a8af7706a59c9cae04a01d8cef415666",
+      "start_time": "2026-02-06 07:00:00",
+      "end_time": "2026-02-06 07:30:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Chef Domingo e' in Puglia, per raccontare attraverso piatti e ricette i cinque sensi piu' il sesto, che e' quel 'quid' indefinibile che serve per essere un grande chef."
+    },
+    {
+      "show_name": "Max sfida alle calorie winter edition - Stag. 5 Ep. 5 - Il freddo rigenera",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 07:30:00",
+      "end_time": "2026-02-06 08:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il freddo, la neve, lo sport all'aria aperta e iol contatto con la natura rigenerano mente e corpo e a Max viene voglia di nuove avventure anche in cucina. Prox Ep. 9 feb 07:30. Rep. 6 feb 14:30."
+    },
+    {
+      "show_name": "Giorgione: orto e cucina - Val Trebbia",
+      "show_logo": "https://guidatv.sky.it/uuid/9500bbab-511a-4bde-abed-0e632aeb3ed2/cover?territory=IT&md5ChecksumParam=04c7f8711b28511b3f23b242d0a616a1",
+      "start_time": "2026-02-06 08:00:00",
+      "end_time": "2026-02-06 08:30:00",
+      "episode_number": "S39 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "L'amabile Giorgione e' il protagonista di piacevoli avventure nell'orto e in cucina. Il nostro beniamino e' sempre in cerca dei migliori ingredienti per creare ricette gustosissime."
+    },
+    {
+      "show_name": "Le grandi cantine - Stag. 5 Ep. 3 - Bacio della Luna",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 08:30:00",
+      "end_time": "2026-02-06 09:05:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un programma alla scoperta delle tradizioni delle piu' importanti famiglie vinicole italiane. Prox Ep. 9 feb 08:30."
+    },
+    {
+      "show_name": "Giorgione in cammino Cervia",
+      "show_logo": "https://guidatv.sky.it/uuid/ff376bd4-8937-471c-8ebf-059bbc860f01/cover?territory=IT&md5ChecksumParam=e878a9bebe28fc49304b4e4001cde143",
+      "start_time": "2026-02-06 09:05:00",
+      "end_time": "2026-02-06 09:35:00",
+      "episode_number": "S3 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una nuova avventura per l'oste, che si cimenta in preparazioni tipiche insieme a cuochi locali. Pasta, pesce, piatti veloci, ma anche preparazioni più lunghe: Giorgione non si fa mancare nulla."
+    },
+    {
+      "show_name": "Giorgione in cammino Cervia - Stag. 3 Ep. 2",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 09:35:00",
+      "end_time": "2026-02-06 10:05:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Giorgione percorre sentieri e cammini storici, per scoprire e promuovere le eccellenze del territorio coniugando la passione per il paesaggio e quella per la buona cucina. Prox Ep. 13 feb 09:00. Rep. 6 feb 15:30."
+    },
+    {
+      "show_name": "Questa terra e' la mia terra: Peppe...",
+      "show_logo": "https://guidatv.sky.it/uuid/b25ff8f8-7334-43c8-a483-1399920ed437/cover?territory=IT&md5ChecksumParam=98582019114a47fd8f5cb83d87ae5216",
+      "start_time": "2026-02-06 10:05:00",
+      "end_time": "2026-02-06 10:35:00",
+      "episode_number": "S8 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Peppe Guida, i suoi fratelli e la loro passione per la cucina. Un viaggio nei sapori tra ricette e segreti di una grande famiglia."
+    },
+    {
+      "show_name": "Dolcemente con... - Stag. 16 Ep. 5 - Maurizio Frau: melina mignon alle mele",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 10:35:00",
+      "end_time": "2026-02-06 11:05:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Maurizio Santin ospita i maestri pasticceri piu' famosi d'Italia e li accompagna nell'esecuzione di una ricetta, svelando i segreti per creare dolci perfetti. Prox Ep. 11 feb 10:30. Rep. 6 feb 18:30."
+    },
+    {
+      "show_name": "Sweet Giulia",
+      "show_logo": "https://guidatv.sky.it/uuid/796c8794-0fa3-4587-835a-4caab1a49a4c/cover?territory=IT&md5ChecksumParam=68b139a8e2c0b5b2898ca18023f8a17f",
+      "start_time": "2026-02-06 11:05:00",
+      "end_time": "2026-02-06 11:35:00",
+      "episode_number": "S2 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Tutti i segreti della dolcezza svelati da Giulia Carboneschi. Giovane premiata dalla guida del Gambero Rosso come migliore pasticciera emergente, nel suo vasto repertorio puoi trovare di tutto: dolce e salato, torte, mignon e macaron e tanto ancora. Con l'aiuto di questa grande professionista potrai scoprire tutti i segreti e le ricette più gustose per realizzare dessert che lasceranno di stucco amici e parenti."
+    },
+    {
+      "show_name": "Beker on Tour - Casoni - Stag. 46 Ep. 2 - Tris di bruschette",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 11:35:00",
+      "end_time": "2026-02-06 12:05:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nuova tappa per Fabrizio Nonis, 'El Beker': il viaggio del vostro macellaio di fiducia continua il suo viaggio alla scoperta di cotture, tagli e succose ricette. Prox Ep. 6 feb 17:30. Rep. 6 feb 23:30."
+    },
+    {
+      "show_name": "Parola di chef - Stag. 12 Ep. 11 - German Scalmazzi",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 12:05:00",
+      "end_time": "2026-02-06 12:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una generazione di giovani chef si racconta in una serie tv: la passione, gli esordi, le difficolta' e le ricette che li caratterizzano. Prox Ep. 9 feb 12:00. Rep. 7 feb 0:00."
+    },
+    {
+      "show_name": "Tutto in famiglia",
+      "show_logo": "https://guidatv.sky.it/uuid/2a991ec5-765e-4b71-ad96-b4b87c8567f7/cover?territory=IT&md5ChecksumParam=af5c69f054a6df1c7ffea07807949aeb",
+      "start_time": "2026-02-06 12:30:00",
+      "end_time": "2026-02-06 13:00:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Laura è pronta ad accoglierci nella Locanda degli angeli. Qui, ci mostra come realizza due piatti differenti, che portano entrambi in tavola parti del maiale spesso sottovalutate nelle abitudini moderne."
+    },
+    {
+      "show_name": "Il sesto senso",
+      "show_logo": "https://guidatv.sky.it/uuid/afe10ac7-8d99-4874-ab3c-06ab6ad78402/cover?territory=IT&md5ChecksumParam=a8af7706a59c9cae04a01d8cef415666",
+      "start_time": "2026-02-06 13:00:00",
+      "end_time": "2026-02-06 13:30:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Chef Domingo e' in Puglia, per raccontare attraverso piatti e ricette i cinque sensi piu' il sesto, che e' quel 'quid' indefinibile che serve per essere un grande chef."
+    },
+    {
+      "show_name": "Il gusto di Igles - Le origini",
+      "show_logo": "https://guidatv.sky.it/uuid/928374d7-83aa-420d-bba7-ce91dfe2b102/cover?territory=IT&md5ChecksumParam=cce8a899836572af14405024bf2a37f4",
+      "start_time": "2026-02-06 13:30:00",
+      "end_time": "2026-02-06 14:05:00",
+      "episode_number": "S13 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Igles Corelli: un grande chef consiglia ricette semplici e gustose realizzate con qualche trucco che rende la loro preparazione molto veloce."
+    },
+    {
+      "show_name": "Giorgione: orto e cucina - Gubbio",
+      "show_logo": "https://guidatv.sky.it/uuid/f902ee06-a257-4a98-8a07-5da23e17e5f9/cover?territory=IT&md5ChecksumParam=6ca80b0a2ced1cb614d5d89535d5c998",
+      "start_time": "2026-02-06 14:05:00",
+      "end_time": "2026-02-06 14:30:00",
+      "episode_number": "S40 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "L'amabile Giorgione e' il protagonista di piacevoli avventure nell'orto e in cucina. Il nostro beniamino e' sempre in cerca dei migliori ingredienti per creare ricette gustosissime."
+    },
+    {
+      "show_name": "Max sfida alle calorie winter edition - Stag. 5 Ep. 5 - Il freddo rigenera",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 14:30:00",
+      "end_time": "2026-02-06 15:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il freddo, la neve, lo sport all'aria aperta e iol contatto con la natura rigenerano mente e corpo e a Max viene voglia di nuove avventure anche in cucina. Prox Ep. 9 feb 07:30. Rep. 23 feb 07:30."
+    },
+    {
+      "show_name": "Giorgione in cammino Cervia",
+      "show_logo": "https://guidatv.sky.it/uuid/ff376bd4-8937-471c-8ebf-059bbc860f01/cover?territory=IT&md5ChecksumParam=e878a9bebe28fc49304b4e4001cde143",
+      "start_time": "2026-02-06 15:00:00",
+      "end_time": "2026-02-06 15:30:00",
+      "episode_number": "S3 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una nuova avventura per l'oste, che si cimenta in preparazioni tipiche insieme a cuochi locali. Pasta, pesce, piatti veloci, ma anche preparazioni più lunghe: Giorgione non si fa mancare nulla."
+    },
+    {
+      "show_name": "Giorgione in cammino Cervia - Stag. 3 Ep. 2",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 15:30:00",
+      "end_time": "2026-02-06 16:05:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Giorgione percorre sentieri e cammini storici, per scoprire e promuovere le eccellenze del territorio coniugando la passione per il paesaggio e quella per la buona cucina. Prox Ep. 13 feb 09:00. Rep. 6 feb 21:30."
+    },
+    {
+      "show_name": "Questa terra e' la mia terra: Peppe...",
+      "show_logo": "https://guidatv.sky.it/uuid/1777a706-da27-4e0b-9ab8-b9abd2c17634/cover?territory=IT&md5ChecksumParam=98582019114a47fd8f5cb83d87ae5216",
+      "start_time": "2026-02-06 16:05:00",
+      "end_time": "2026-02-06 16:35:00",
+      "episode_number": "S8 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Peppe Guida, i suoi fratelli e la loro passione per la cucina. Un viaggio nei sapori tra ricette e segreti di una grande famiglia."
+    },
+    {
+      "show_name": "Odissea nelle spezie",
+      "show_logo": "https://guidatv.sky.it/uuid/246de3dd-6664-4804-ae46-1a3fcb77d4b2/cover?territory=IT&md5ChecksumParam=0c220d09455dfb0b72f9febe5774d768",
+      "start_time": "2026-02-06 16:35:00",
+      "end_time": "2026-02-06 17:00:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Consigli per utilizzare al meglio in cucina questo ingrediente dall'aroma caratteristico."
+    },
+    {
+      "show_name": "Parola di chef - Stag. 12 Ep. 10",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 17:00:00",
+      "end_time": "2026-02-06 17:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una generazione di giovani chef si racconta in una serie tv: la passione, gli esordi, le difficolta' e le ricette che li caratterizzano. Prox Ep. 7 feb 0:00. Rep. 7 feb 04:55."
+    },
+    {
+      "show_name": "Beker on Tour - Casoni - Stag. 46 Ep. 3 - Tris al tartufo",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 17:30:00",
+      "end_time": "2026-02-06 18:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nuova tappa per Fabrizio Nonis, 'El Beker': il viaggio del vostro macellaio di fiducia continua il suo viaggio alla scoperta di cotture, tagli e succose ricette. Prox Ep. 9 feb 17:30. Rep. 7 feb 05:35."
+    },
+    {
+      "show_name": "Come e' profondo il mare: Sardegna",
+      "show_logo": "https://guidatv.sky.it/uuid/8ca453b7-5315-4535-9234-6758898c2cf5/cover?territory=IT&md5ChecksumParam=cf7d3888cb7d34a4aed7d22c9ba8dd52",
+      "start_time": "2026-02-06 18:00:00",
+      "end_time": "2026-02-06 18:30:00",
+      "episode_number": "S2 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Sapete che a ogni profondita' si pescano pesci differenti? Seguiteci in questa avventura che unisce una cucina stellare alle conoscenze piu' approfondite del fondale marino italiano."
+    },
+    {
+      "show_name": "Dolcemente con... - Stag. 16 Ep. 5 - Maurizio Frau: melina mignon alle mele",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 18:30:00",
+      "end_time": "2026-02-06 19:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Maurizio Santin ospita i maestri pasticceri piu' famosi d'Italia e li accompagna nell'esecuzione di una ricetta, svelando i segreti per creare dolci perfetti. Prox Ep. 11 feb 10:30."
+    },
+    {
+      "show_name": "Il gusto di Igles",
+      "show_logo": "https://guidatv.sky.it/uuid/9935c58d-e54b-4cc1-8f57-df1c40ff4ff3/cover?territory=IT&md5ChecksumParam=04abb4977e9284c2de54cbae97d9ef96",
+      "start_time": "2026-02-06 19:00:00",
+      "end_time": "2026-02-06 19:30:00",
+      "episode_number": "S15 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Intelligente e creativo, Igles Corelli viaggia per l'Italia alla ricerca di vecchie ricette, per recuperarle e riproporle in chiave moderna."
+    },
+    {
+      "show_name": "I panini li fa Max",
+      "show_logo": "https://guidatv.sky.it/uuid/57b28a3a-c044-4cc7-838e-47737f760fc0/cover?territory=IT&md5ChecksumParam=fbe239c0ca240efc62c794ea2fc23723",
+      "start_time": "2026-02-06 19:30:00",
+      "end_time": "2026-02-06 21:00:00",
+      "episode_number": "S8 E7",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Lo chef Massimiliano Mariola si avventura nel mondo del pane e delle sue farciture. In questo episodio due panini: Effetto Seppia e Il Cipollo."
+    },
+    {
+      "show_name": "Giorgione in cammino Cervia",
+      "show_logo": "https://guidatv.sky.it/uuid/ff376bd4-8937-471c-8ebf-059bbc860f01/cover?territory=IT&md5ChecksumParam=e878a9bebe28fc49304b4e4001cde143",
+      "start_time": "2026-02-06 21:00:00",
+      "end_time": "2026-02-06 21:30:00",
+      "episode_number": "S3 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una nuova avventura per l'oste, che si cimenta in preparazioni tipiche insieme a cuochi locali. Pasta, pesce, piatti veloci, ma anche preparazioni più lunghe: Giorgione non si fa mancare nulla."
+    },
+    {
+      "show_name": "Giorgione in cammino Cervia - Stag. 3 Ep. 2",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 21:30:00",
+      "end_time": "2026-02-06 22:05:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Giorgione percorre sentieri e cammini storici, per scoprire e promuovere le eccellenze del territorio coniugando la passione per il paesaggio e quella per la buona cucina. Prox Ep. 13 feb 09:00. Rep. 7 feb 03:30."
+    },
+    {
+      "show_name": "Questa terra e' la mia terra: Peppe...",
+      "show_logo": "https://guidatv.sky.it/uuid/b25ff8f8-7334-43c8-a483-1399920ed437/cover?territory=IT&md5ChecksumParam=98582019114a47fd8f5cb83d87ae5216",
+      "start_time": "2026-02-06 22:05:00",
+      "end_time": "2026-02-06 22:35:00",
+      "episode_number": "S8 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Peppe Guida, i suoi fratelli e la loro passione per la cucina. Un viaggio nei sapori tra ricette e segreti di una grande famiglia."
+    },
+    {
+      "show_name": "Le grandi cucine - Stag. 1 Ep. 1 - Federico Beretta",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 22:35:00",
+      "end_time": "2026-02-06 23:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "I segreti e le ricette dei piu' grandi chef raccontati della loro voce. Storie di vita e di passioni. Prox Ep. 6 feb 23:00. Rep. 7 feb 04:00."
+    },
+    {
+      "show_name": "Le grandi cucine - Stag. 1 Ep. 2 - Filippo Saporito",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 23:00:00",
+      "end_time": "2026-02-06 23:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "I segreti e le ricette dei piu' grandi chef raccontati della loro voce. Storie di vita e di passioni. Prox Ep. 7 feb 22:30. Rep. 7 feb 04:25."
+    },
+    {
+      "show_name": "Beker on Tour - Casoni - Stag. 46 Ep. 2 - Tris di bruschette",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-06 23:30:00",
+      "end_time": "2026-02-07 00:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nuova tappa per Fabrizio Nonis, 'El Beker': il viaggio del vostro macellaio di fiducia continua il suo viaggio alla scoperta di cotture, tagli e succose ricette. Prox Ep. 7 feb 05:35."
     }
   ]
 }

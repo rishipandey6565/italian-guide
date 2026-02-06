@@ -1,15 +1,42 @@
 {
   "channel_name": "Sky Sport  253",
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "programs": [
     {
       "show_name": "Team Altamura - Monopoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-253/tomorrow/team-altamura-monopoli.webp",
-      "start_time": "2026-02-06 20:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/7f05939c-a2ec-4014-957b-d3da2d68ed61/cover?territory=IT&md5ChecksumParam=803922c1cf3346c09eca298610917722",
+      "start_time": "2026-02-07 00:00:00",
       "end_time": "2026-02-07 14:00:00",
       "episode_number": "S2025 E260",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Antonio D'Angelo di Altamura, Italia."
+    },
+    {
+      "show_name": "Giugliano - Cosenza",
+      "show_logo": "https://guidatv.sky.it/uuid/f81d6160-2bf4-44d5-bce8-c57acbfbb6b9/cover?territory=IT&md5ChecksumParam=57017baea6f09d7a808edc4e39c6a802",
+      "start_time": "2026-02-07 14:00:00",
+      "end_time": "2026-02-07 17:25:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Tutte le partite del campionato di Serie C italiano."
+    },
+    {
+      "show_name": "Alcione Milano - Arzignano Valchiampo",
+      "show_logo": "https://guidatv.sky.it/uuid/8b925f30-0059-4149-8351-dc89130be6cb/cover?territory=IT&md5ChecksumParam=7268e9481df7b3f0de363af312c6ecdd",
+      "start_time": "2026-02-07 17:25:00",
+      "end_time": "2026-02-07 21:00:00",
+      "episode_number": "S2025 E252",
+      "show_category": "Sport",
+      "show_description": "Dall'Arena Civica Gianni Brera di Milano, Italia."
+    },
+    {
+      "show_name": "Oklahoma City Thunder - Houston Rockets",
+      "show_logo": "https://guidatv.sky.it/uuid/85867add-f4a9-4d65-b816-5b1efd392234/cover?territory=IT&md5ChecksumParam=f6afe857b6a6da3eaeebac3e5b4593dc",
+      "start_time": "2026-02-07 21:00:00",
+      "end_time": "2026-02-08 14:00:00",
+      "episode_number": "S2025 E68",
+      "show_category": "Sport",
+      "show_description": "Dal Paycom Center di Oklahoma City, Stati Uniti."
     }
   ]
 }

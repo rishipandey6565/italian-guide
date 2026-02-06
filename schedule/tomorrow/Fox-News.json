@@ -1,186 +1,141 @@
 {
   "channel_name": "Fox News",
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "programs": [
     {
-      "show_name": "Special",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/special.webp",
-      "start_time": "2026-02-06 00:00:00",
-      "end_time": "2026-02-06 00:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Special - Features a roundtable ensemble of five personalities who debate current news stories."
-    },
-    {
-      "show_name": "Special Report - Stag. 1 - With Bret Baier Host Rich Edson",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/special-report-stag-1-with-bret-baier-host-rich-edson.webp",
-      "start_time": "2026-02-06 00:00:00",
-      "end_time": "2026-02-06 01:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "With Bret Baier Host Rich Edson - Bret Baier reports on the days events from Washington DC."
-    },
-    {
-      "show_name": "Host Laura Ingraham",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/host-laura-ingraham.webp",
-      "start_time": "2026-02-06 01:00:00",
-      "end_time": "2026-02-06 02:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Host Laura Ingraham - Laura Ingraham discusses the issues our country is in turmoil about."
-    },
-    {
-      "show_name": "Jesse Watters Primetime",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/jesse-watters-primetime.webp",
-      "start_time": "2026-02-06 02:00:00",
-      "end_time": "2026-02-06 03:00:00",
+      "show_name": "The Five",
+      "show_logo": "https://guidatv.sky.it/uuid/98aa916c-e4b7-4631-870a-d41bce09656f/cover?territory=IT&md5ChecksumParam=9329dd932cdadf9900d74cf7852803d1",
+      "start_time": "2026-02-07 00:00:00",
+      "end_time": "2026-02-07 00:00:00",
       "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Jesse Watters presents the news of the day."
+      "show_description": "Features a roundtable ensemble of five personalities who debate current news stories."
     },
     {
-      "show_name": "Host Sean Hannity (Milwaukee)",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/host-sean-hannity-milwaukee.webp",
-      "start_time": "2026-02-06 03:00:00",
-      "end_time": "2026-02-06 04:00:00",
+      "show_name": "Host Bret Baier",
+      "show_logo": "https://guidatv.sky.it/uuid/601bccc4-6983-4f29-9bad-7810ef8c6e49/cover?territory=IT&md5ChecksumParam=2fec7ad2a28299e02dda71d6b3e27ab4",
+      "start_time": "2026-02-07 00:00:00",
+      "end_time": "2026-02-07 01:00:00",
       "episode_number": "S1 E0",
       "show_category": "Informazione",
-      "show_description": "Host Sean Hannity - Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories."
+      "show_description": "Host Bret Baier - Bret Baier reports on the days events."
+    },
+    {
+      "show_name": "Host Brian Kilmeade",
+      "show_logo": "https://guidatv.sky.it/uuid/44074474-bbc1-4504-905c-35bb5b014a72/cover?territory=IT&md5ChecksumParam=cf03b9ad258f0a1d256dcb5928712401",
+      "start_time": "2026-02-07 01:00:00",
+      "end_time": "2026-02-07 02:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "Host Brian Kilmeade - Brian Kilmeade discusses the issues our country is in turmoil about."
+    },
+    {
+      "show_name": "Host Charlie Hurt",
+      "show_logo": "https://guidatv.sky.it/uuid/92381267-95ae-473e-99d1-8caeb7970207/cover?territory=IT&md5ChecksumParam=039d65d2736a8453158c24e6ddcaffdd",
+      "start_time": "2026-02-07 02:00:00",
+      "end_time": "2026-02-07 03:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "Host Charlie Hurt - Charlie Hurt presents the news of the day."
+    },
+    {
+      "show_name": "Host Jason Chaffetz",
+      "show_logo": "https://guidatv.sky.it/uuid/bfadc083-c3e8-4420-8d68-ead8e770db1d/cover?territory=IT&md5ChecksumParam=4db84921f01c7baa796efc6882c47ed9",
+      "start_time": "2026-02-07 03:00:00",
+      "end_time": "2026-02-07 07:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "Host Jason Chaffetz - Jason Chaffetz offers a mix of commentary, interviews and branded segments of the days top stories."
+    },
+    {
+      "show_name": "Host Charlie Hurt",
+      "show_logo": "https://guidatv.sky.it/uuid/92381267-95ae-473e-99d1-8caeb7970207/cover?territory=IT&md5ChecksumParam=039d65d2736a8453158c24e6ddcaffdd",
+      "start_time": "2026-02-07 07:00:00",
+      "end_time": "2026-02-07 08:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "Host Charlie Hurt - Charlie Hurt presents the news of the day."
+    },
+    {
+      "show_name": "Host Jason Chaffetz",
+      "show_logo": "https://guidatv.sky.it/uuid/bfadc083-c3e8-4420-8d68-ead8e770db1d/cover?territory=IT&md5ChecksumParam=4db84921f01c7baa796efc6882c47ed9",
+      "start_time": "2026-02-07 08:00:00",
+      "end_time": "2026-02-07 09:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "Host Jason Chaffetz - Jason Chaffetz offers a mix of commentary, interviews and branded segments of the days top stories."
     },
     {
       "show_name": "Gutfeld!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/gutfeld.webp",
-      "start_time": "2026-02-06 04:00:00",
-      "end_time": "2026-02-06 05:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/9ee62089-3415-498a-8037-2bbc53ff6709/cover?territory=IT&md5ChecksumParam=f23115ed59ac614334d8337936cea0a9",
+      "start_time": "2026-02-07 09:00:00",
+      "end_time": "2026-02-07 10:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture."
     },
     {
-      "show_name": "Special Report - Stag. 1 - With Bret Baier Host Rich Edson",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/special-report-stag-1-with-bret-baier-host-rich-edson.webp",
-      "start_time": "2026-02-06 05:00:00",
-      "end_time": "2026-02-06 07:00:00",
+      "show_name": "Host Brian Kilmeade",
+      "show_logo": "https://guidatv.sky.it/uuid/44074474-bbc1-4504-905c-35bb5b014a72/cover?territory=IT&md5ChecksumParam=cf03b9ad258f0a1d256dcb5928712401",
+      "start_time": "2026-02-07 10:00:00",
+      "end_time": "2026-02-07 11:00:00",
       "episode_number": "S1 E0",
       "show_category": "Informazione",
-      "show_description": "With Bret Baier Host Rich Edson - Bret Baier reports on the days events from Washington DC."
-    },
-    {
-      "show_name": "Jesse Watters Primetime",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/jesse-watters-primetime.webp",
-      "start_time": "2026-02-06 07:00:00",
-      "end_time": "2026-02-06 08:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Jesse Watters presents the news of the day."
-    },
-    {
-      "show_name": "Host Sean Hannity (Milwaukee)",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/host-sean-hannity-milwaukee.webp",
-      "start_time": "2026-02-06 08:00:00",
-      "end_time": "2026-02-06 09:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Host Sean Hannity - Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories."
-    },
-    {
-      "show_name": "Special",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/special.webp",
-      "start_time": "2026-02-06 09:00:00",
-      "end_time": "2026-02-06 10:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Special - Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture."
-    },
-    {
-      "show_name": "Host Laura Ingraham",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/host-laura-ingraham.webp",
-      "start_time": "2026-02-06 10:00:00",
-      "end_time": "2026-02-06 11:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Host Laura Ingraham - Laura Ingraham discusses the issues our country is in turmoil about."
-    },
-    {
-      "show_name": "Hosts Carley Shimkus and Todd Piro",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/hosts-carley-shimkus-and-todd-piro.webp",
-      "start_time": "2026-02-06 11:00:00",
-      "end_time": "2026-02-06 12:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Hosts Carley Shimkus and Todd Piro - Carley Shimkus and Todd Piro highlight the latest in news, weather, sports and entertainment."
-    },
-    {
-      "show_name": "Hosts Brian Kilmeade, Griff Jenkins & Lara Trump",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/hosts-brian-kilmeade-griff-jenkins-lara-trump.webp",
-      "start_time": "2026-02-06 12:00:00",
-      "end_time": "2026-02-06 15:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Hosts Brian Kilmeade, Griff Jenkins & Lara Trump - The latest in news, weather, sports and entertainment."
-    },
-    {
-      "show_name": "Hosts Molly Line & Ben Hall",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/hosts-molly-line-ben-hall.webp",
-      "start_time": "2026-02-06 15:00:00",
-      "end_time": "2026-02-06 17:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Hosts Molly Line & Ben Hall - A report of the days news."
-    },
-    {
-      "show_name": "Host Julie Banderas",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/host-julie-banderas.webp",
-      "start_time": "2026-02-06 17:00:00",
-      "end_time": "2026-02-06 18:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Host Julie Banderas - Julie Banderas continues the conversation on the days news with roundtable discussions and interviews."
-    },
-    {
-      "show_name": "Outnumbered",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/outnumbered.webp",
-      "start_time": "2026-02-06 18:00:00",
-      "end_time": "2026-02-06 19:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Rotating panel featuring four women and one man, gives a fresh take on the days news."
-    },
-    {
-      "show_name": "Hosts Sandra Smith and Griff Jenkins",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/hosts-sandra-smith-and-griff-jenkins.webp",
-      "start_time": "2026-02-06 19:00:00",
-      "end_time": "2026-02-06 21:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Hosts Sandra Smith and Griff Jenkins - Sandra Smith and Griff Jenkins report the days news."
-    },
-    {
-      "show_name": "The Story - Stag. 1 - Host Bill Melugin",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 21:00:00",
-      "end_time": "2026-02-06 22:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Host Bill Melugin - A focus on the issues that are most important to Americans."
-    },
-    {
-      "show_name": "Host Guy Benson",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/host-guy-benson.webp",
-      "start_time": "2026-02-06 22:00:00",
-      "end_time": "2026-02-06 23:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Host Guy Benson - Guy Benson Lawrence Jones, Emily Compagno and Joey Jones."
+      "show_description": "Host Brian Kilmeade - Brian Kilmeade discusses the issues our country is in turmoil about."
     },
     {
       "show_name": "The Five",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-News/tomorrow/the-five.webp",
-      "start_time": "2026-02-06 23:00:00",
-      "end_time": "2026-02-07 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/98aa916c-e4b7-4631-870a-d41bce09656f/cover?territory=IT&md5ChecksumParam=9329dd932cdadf9900d74cf7852803d1",
+      "start_time": "2026-02-07 11:00:00",
+      "end_time": "2026-02-07 12:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Features a roundtable ensemble of five personalities who debate current news stories."
+    },
+    {
+      "show_name": "Hosts Dr. Nicole Saphier, Griff Jenkins & Charlie Hurt",
+      "show_logo": "https://guidatv.sky.it/uuid/27090fb3-57aa-4d43-b003-541ac6f74dc4/cover?territory=IT&md5ChecksumParam=11f062e5445c9bf0bf11c3fdcb73c6bc",
+      "start_time": "2026-02-07 12:00:00",
+      "end_time": "2026-02-07 16:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Hosts Dr. Nicole Saphier, Griff Jenkins & Charlie Hurt - News, weather, sports & entertainment."
+    },
+    {
+      "show_name": "Host Bryan Llenas",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 16:00:00",
+      "end_time": "2026-02-07 18:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Host Bryan Llenas - News and analysis."
+    },
+    {
+      "show_name": "Live Hosts Mike Emanuel",
+      "show_logo": "https://guidatv.sky.it/uuid/6958da54-20c4-40a2-a220-d5abc3e14b1c/cover?territory=IT&md5ChecksumParam=8bc2b839a85b256d9bc820daa1e8288a",
+      "start_time": "2026-02-07 18:00:00",
+      "end_time": "2026-02-07 21:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Live Hosts Mike Emanuel - Fox News Live on Fox News Channel reports the latest national and world news."
+    },
+    {
+      "show_name": "Fox Report with Jon Scott",
+      "show_logo": "https://guidatv.sky.it/uuid/5f3be8e6-f4be-4a7e-a3af-271447a87b57/cover?territory=IT&md5ChecksumParam=3f0a722df4a72451b6b60142e1472a02",
+      "start_time": "2026-02-07 21:00:00",
+      "end_time": "2026-02-07 23:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Highlights the latest developments and breaking news in the U.S. and around the globe."
+    },
+    {
+      "show_name": "Hosts Tomi Lahren, Joe Concha, Molly Line & Rich Edson",
+      "show_logo": "https://guidatv.sky.it/uuid/91ee5912-2d47-4fb2-b694-06f8201ffd31/cover?territory=IT&md5ChecksumParam=8af7e8ff25e982fa35125142f2c8999f",
+      "start_time": "2026-02-07 23:00:00",
+      "end_time": "2026-02-08 02:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Hosts Tomi Lahren, Joe Concha, Molly Line & Rich Edson - Rotating panelists discuss the big news of the day."
     }
   ]
 }
