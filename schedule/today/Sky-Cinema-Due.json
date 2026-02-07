@@ -1,132 +1,105 @@
 {
   "channel_name": "Sky Cinema Due",
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "programs": [
     {
-      "show_name": "Forrest Gump",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/forrest-gump.webp",
-      "start_time": "2026-02-06 00:00:00",
-      "end_time": "2026-02-06 01:45:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "6 Oscar a una commedia cult degli anni 90, con Tom Hanks per la regia di Robert Zemeckis. Le incredibili vicende di un uomo ingenuo ma ottimista sullo sfondo di 30 anni di storia americana."
+      "show_name": "Gomorra: Le origini",
+      "show_logo": "https://guidatv.sky.it/uuid/13c16849-6422-4869-b02b-d20dc2445860/COVER_TITLE_TALL?territory=IT&version=2f2c2150-f0b9-3e86-bf75-f773e82b821a&w=600&h=800&md5ChecksumParam=a862ef50b9c98b82fc9e829a440eb21b",
+      "start_time": "2026-02-07 00:00:00",
+      "end_time": "2026-02-07 00:50:00",
+      "episode_number": "S1 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Angelo subisce un colpo fatale, mentre Pietro tenterà di intervenire in suo favore…Con sottotitoli."
     },
     {
-      "show_name": "Better Man",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/better-man.webp",
-      "start_time": "2026-02-06 01:45:00",
-      "end_time": "2026-02-06 04:00:00",
+      "show_name": "Soldato Jane",
+      "show_logo": "https://guidatv.sky.it/uuid/c125df58-d085-4283-8ab3-d162ee4346a2/cover?territory=IT&md5ChecksumParam=fdd91ccbd24c2163288993d37af40a30",
+      "start_time": "2026-02-07 00:50:00",
+      "end_time": "2026-02-07 02:50:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Michael Gracey confeziona un originale biopic su Robbie Williams, rappresentato sullo schermo da una scimmia: da timido bambino diventerà una pop star internazionale."
+      "show_description": "Demi Moore e Viggo Mortensen in un film di Ridley Scott. Una donna si sottopone a un addestramento massacrante agli ordini di un sadico istruttore per entrare nei Navy Seals."
     },
     {
-      "show_name": "Nata per te",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/nata-per-te.webp",
-      "start_time": "2026-02-06 04:00:00",
-      "end_time": "2026-02-06 05:50:00",
+      "show_name": "Attacco a Mumbai - Una vera storia di coraggio",
+      "show_logo": "https://guidatv.sky.it/uuid/5fd3e9b2-f23b-4762-9d84-0b463ebae1ee/cover?territory=IT&md5ChecksumParam=77b1aed25429c79aad23f997606e8d93",
+      "start_time": "2026-02-07 02:50:00",
+      "end_time": "2026-02-07 04:55:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Sky Original ispirato a una storia vera e piena d'amore diretta da Fabio Mollo. Luca, single e omosessuale con un forte desiderio di paternita', lotta per ottenere l’affidamento di Alba."
+      "show_description": "L’inferno del terrorismo in un infuocato dramma tratto da una storia vera, con Armie Hammer e Dev Patel. Nel novembre 2008 un gruppo di jihadisti armati sbarca a Mumbai per compiere una serie di attentati in vari punti della città e prendere d’assalto un storico albergo di lusso."
     },
     {
-      "show_name": "The Last Rifleman - Ritorno in Normandia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/the-last-rifleman-ritorno-in-normandia.webp",
-      "start_time": "2026-02-06 05:50:00",
-      "end_time": "2026-02-06 07:30:00",
+      "show_name": "Aprile",
+      "show_logo": "https://guidatv.sky.it/uuid/0ad7ceaa-08af-409a-8726-eff04285d7d0/cover?territory=IT&md5ChecksumParam=94fe02beed70a836f61087d3b8b6fb91",
+      "start_time": "2026-02-07 04:55:00",
+      "end_time": "2026-02-07 06:10:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Pellicola Sky Original con Pierce Brosnan protagonista. Un veterano della Seconda guerra mondiale fugge dalla casa di cura per partecipare al 75 anniversario dello sbarco in Normandia."
+      "show_description": "Nanni Moretti dirige e interpreta una commedia pungente che e' insieme opera autobiografica e resoconto critico delle vicende politiche, dalla primavera del 1994 all’estate del 1997."
     },
     {
-      "show_name": "Questo o quello - Speciale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/questo-o-quello-speciale.webp",
-      "start_time": "2026-02-06 07:30:00",
-      "end_time": "2026-02-06 07:50:00",
-      "episode_number": "S1 E264",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gli esperti di Sky Cinema, Francesco Castelnuovo e Gianni Canova, analizzano e mettono a confronto due film in programmazione sui canali Sky a puntata, per un confronto ricco di approfondimenti."
-    },
-    {
-      "show_name": "The Alto Knights - I due volti del crimine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/the-alto-knights-i-due-volti-del-crimine.webp",
-      "start_time": "2026-02-06 07:50:00",
-      "end_time": "2026-02-06 09:55:00",
+      "show_name": "Ligabue - 30 anni in un giorno",
+      "show_logo": "https://guidatv.sky.it/uuid/e4c05ee0-1821-49a6-855f-1f18d8083d43/cover?territory=IT&md5ChecksumParam=6c58d9e65b4afacc8513b51bc704d259",
+      "start_time": "2026-02-07 06:10:00",
+      "end_time": "2026-02-07 08:15:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Barry Levinson dirige Robert De Niro in un thriller dallo sceneggiatore di \"Quei bravi ragazzi\". New York, anni 50: per ottenere il controllo del mondo malavitoso, il boss Vito Genovese ordina di uccidere il rivale Frank Costello, che sopravvive miracolosamente all'attentato."
-    },
-    {
-      "show_name": "Il tempo che ci vuole",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/il-tempo-che-ci-vuole.webp",
-      "start_time": "2026-02-06 09:55:00",
-      "end_time": "2026-02-06 11:50:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Toccante film autobiografico di Francesca Comencini con Fabrizio Gifuni e Romana Maggiora Vergano. Sullo sfondo degli anni 70, tra la magia del cinema, gli anni di piombo e il tunnel della droga, la regista narra il suo complesso rapporto con il padre Luigi."
-    },
-    {
-      "show_name": "Changeling",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/changeling.webp",
-      "start_time": "2026-02-06 11:50:00",
-      "end_time": "2026-02-06 14:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Biopic diretto da Clint Eastwood con Angelina Jolie. Los Angeles, 1928: una donna afferma che il bambino che le hanno riportato dopo un rapimento non è suo figlio, ma nessuno le crede."
-    },
-    {
-      "show_name": "Forrest Gump",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/forrest-gump.webp",
-      "start_time": "2026-02-06 14:15:00",
-      "end_time": "2026-02-06 16:40:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "6 Oscar a una commedia cult degli anni 90, con Tom Hanks per la regia di Robert Zemeckis. Le incredibili vicende di un uomo ingenuo ma ottimista sullo sfondo di 30 anni di storia americana."
-    },
-    {
-      "show_name": "C'era una volta a... Hollywood",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/c-era-una-volta-a-hollywood.webp",
-      "start_time": "2026-02-06 16:40:00",
-      "end_time": "2026-02-06 19:20:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Oscar a Brad Pitt nel film di Quentin Tarantino con Leonardo DiCaprio e Margot Robbie. 1969: le vicende di Sharon Tate si intrecciano con quelle di un attore in declino e del suo stuntman."
+      "show_description": "Ligabue fa i conti con i suoi ricordi e con la sua carriera nel biopic incentrato sul leggendario concerto di Campovolo del 2022."
     },
     {
       "show_name": "Giurato numero 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/giurato-numero-2.webp",
-      "start_time": "2026-02-06 19:20:00",
-      "end_time": "2026-02-06 21:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/22666855-d637-4a2b-834a-9d6fffc0f7e5/cover?territory=IT&md5ChecksumParam=d8b3917aa052771b96de717a30b9cc2f",
+      "start_time": "2026-02-07 08:15:00",
+      "end_time": "2026-02-07 10:15:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Nicholas Hoult e Toni Collette in un legal-thriller di Clint Eastwood. Durante un processo per omicidio, uno dei giurati scopre di essere l'involontario colpevole del delitto. Sconvolto dal senso di colpa, cerca di scagionare l'imputato senza rivelare la propria responsabilità."
     },
     {
-      "show_name": "Gomorra: Le origini",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/gomorra-le-origini.webp",
-      "start_time": "2026-02-06 21:15:00",
-      "end_time": "2026-02-06 22:10:00",
-      "episode_number": "S1 E6",
-      "show_category": "Intrattenimento",
-      "show_description": "Angelo subisce un colpo fatale, mentre Pietro tenterà di intervenire in suo favore…Con sottotitoli."
+      "show_name": "The Fabelmans",
+      "show_logo": "https://guidatv.sky.it/uuid/7c27da54-3520-41ed-97d1-ae1b2ab82646/cover?territory=IT&md5ChecksumParam=1fad92b13d8c20eef66d9a06f63372c9",
+      "start_time": "2026-02-07 10:15:00",
+      "end_time": "2026-02-07 12:45:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Michelle Williams e Paul Dano nel film piu' intimo e autobiografico di Steven Spielberg. Quando l'armonia della sua famiglia si incrina, Sammy si rifugia nella settima arte."
     },
     {
       "show_name": "A History of Violence",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/a-history-of-violence.webp",
-      "start_time": "2026-02-06 22:10:00",
-      "end_time": "2026-02-06 23:50:00",
+      "show_logo": "https://guidatv.sky.it/uuid/9d6c821d-e0a2-4c2d-9b5f-723f624b3bd5/cover?territory=IT&md5ChecksumParam=5b0e888df810b11bd8cc310304ff627a",
+      "start_time": "2026-02-07 12:45:00",
+      "end_time": "2026-02-07 14:25:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "David Cronenberg dirige Viggo Mortensen in un thriller fra apparenza e realtà. Dopo aver ucciso 2 rapinatori per legittima difesa, un uomo si trova braccato da loschi individui."
     },
     {
-      "show_name": "Gomorra: Le origini",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/today/gomorra-le-origini.webp",
-      "start_time": "2026-02-06 23:50:00",
-      "end_time": "2026-02-07 00:50:00",
-      "episode_number": "S1 E6",
-      "show_category": "Intrattenimento",
-      "show_description": "Angelo subisce un colpo fatale, mentre Pietro tenterà di intervenire in suo favore…Con sottotitoli."
+      "show_name": "Il traditore",
+      "show_logo": "https://guidatv.sky.it/uuid/e71049d5-084b-4256-9e63-8e96bfc957e3/cover?territory=IT&md5ChecksumParam=4a2ab51403d0280e44ea606861cc8620",
+      "start_time": "2026-02-07 14:25:00",
+      "end_time": "2026-02-07 19:05:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Marco Bellocchio dirige Pierfrancesco Favino nella biografia del 'boss dei due mondi', Tommaso Buscetta, il primo pentito della mafia, che testimonio' nel maxiprocesso contro Cosa Nostra."
+    },
+    {
+      "show_name": "Southpaw - L'ultima sfida",
+      "show_logo": "https://guidatv.sky.it/uuid/15e603c1-b2df-4fb4-8f89-3f220c5a7727/cover?territory=IT&md5ChecksumParam=b4743f1e52c2d3a96d1fee6d39a5aa48",
+      "start_time": "2026-02-07 19:05:00",
+      "end_time": "2026-02-07 21:15:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Avvincente dramma sul mondo della boxe con Jack Gyllenhaal e Rachel McAdams. Caduto in disgrazia dopo un incidente, un pugile deve tornare sul ring per ottenere la custodia della figlia."
+    },
+    {
+      "show_name": "The Hateful Eight",
+      "show_logo": "https://guidatv.sky.it/uuid/576d953f-b9a7-4070-a788-6348cda1c1b3/cover?territory=IT&md5ChecksumParam=db63f096556d7d5256f7ea911ae94b6a",
+      "start_time": "2026-02-07 21:15:00",
+      "end_time": "2026-02-08 00:05:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Western di Quentin Tarantino con un supercast. In un rifugio di montagna, otto sconosciuti si scontrano fra minacce, inganni e pallottole. Oscar alle musiche di Ennio Morricone."
     }
   ]
 }

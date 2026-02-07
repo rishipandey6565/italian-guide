@@ -1,150 +1,159 @@
 {
   "channel_name": "Sky Sport 4K",
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "programs": [
     {
-      "show_name": "Cremonese - Inter",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/cremonese-inter.webp",
-      "start_time": "2026-02-07 00:00:00",
-      "end_time": "2026-02-07 01:15:00",
-      "episode_number": "S2025 E68",
+      "show_name": "Gara: GP Monaco",
+      "show_logo": "https://guidatv.sky.it/uuid/80cd906c-82a9-4e91-bed9-af8a63df92a4/cover?territory=IT&md5ChecksumParam=51ccf7f74d7eab95e2edcca4ccef2ee7",
+      "start_time": "2026-02-08 00:00:00",
+      "end_time": "2026-02-08 00:35:00",
+      "episode_number": "S2025 E40",
       "show_category": "Sport",
-      "show_description": "Dallo Stadio Giovanni Zini di Cremona, Italia."
+      "show_description": "Il Gran Premio più iconico del mondiale quest'anno presenta un'incognita in più: due soste ai box obbligatorie. Chi vincerà la roulette? Telecronaca di Carlo Vanzini, Marc Gené e Roberto Chinchero."
     },
     {
-      "show_name": "GP Italia: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/gp-italia-gara.webp",
-      "start_time": "2026-02-07 01:15:00",
-      "end_time": "2026-02-07 02:15:00",
-      "episode_number": "S2025 E80",
+      "show_name": "Fiorentina - Torino",
+      "show_logo": "https://guidatv.sky.it/uuid/87a253ac-fb62-4afd-ace3-f46942827cd3/cover?territory=IT&md5ChecksumParam=291216989b2a88e709dd195cac7d3df3",
+      "start_time": "2026-02-08 00:35:00",
+      "end_time": "2026-02-08 00:50:00",
+      "episode_number": "S2025 E70",
       "show_category": "Sport",
-      "show_description": "Dall'Autodromo Nazionale di Monza, Italia."
+      "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
     },
     {
       "show_name": "Udinese - Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/udinese-roma.webp",
-      "start_time": "2026-02-07 02:15:00",
-      "end_time": "2026-02-07 06:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/c1587252-5d2f-4aa5-8b04-9b754b829925/cover?territory=IT&md5ChecksumParam=9d357bd436b9d9075c7367d367f20161",
+      "start_time": "2026-02-08 00:50:00",
+      "end_time": "2026-02-08 02:35:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Udinese - Roma - Bianconeri tornati alla vittoria, 1-3 a Verona. Roma a -4 dal Milan dopo l'1-1 dell'Olimpico. A Udine ha vinto 9 delle ultime 12 sfide, un pareggio e 2 sconfitte. TC: Borghi-Gobbi."
     },
     {
-      "show_name": "Udinese - Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/udinese-roma.webp",
-      "start_time": "2026-02-07 06:00:00",
-      "end_time": "2026-02-07 07:45:00",
-      "episode_number": "",
+      "show_name": "Inter - Arsenal",
+      "show_logo": "https://guidatv.sky.it/uuid/19609031-0ff1-4a4c-86f9-a35bfb0fcf2c/cover?territory=IT&md5ChecksumParam=a946b727c721f50934b850f9f6ea9c08",
+      "start_time": "2026-02-08 02:35:00",
+      "end_time": "2026-02-08 06:00:00",
+      "episode_number": "S2025 E123",
       "show_category": "Sport",
-      "show_description": "Udinese - Roma - Bianconeri tornati alla vittoria, 1-3 a Verona. Roma a -4 dal Milan dopo l'1-1 dell'Olimpico. A Udine ha vinto 9 delle ultime 12 sfide, un pareggio e 2 sconfitte. TC: Borghi-Gobbi."
+      "show_description": "Dallo Stadio Giuseppe Meazza di Milano, Italia."
     },
     {
-      "show_name": "Gara: GP Arabia Saudita",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/gara-gp-arabia-saudita.webp",
-      "start_time": "2026-02-07 07:45:00",
-      "end_time": "2026-02-07 09:40:00",
-      "episode_number": "S2025 E25",
+      "show_name": "GP Olanda: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/d8036512-6b4a-4b6c-bfce-efa4e8aa7f45/cover?territory=IT&md5ChecksumParam=2183263155a88d4ca55a61b0f9c49d10",
+      "start_time": "2026-02-08 06:00:00",
+      "end_time": "2026-02-08 08:00:00",
+      "episode_number": "S2025 E75",
       "show_category": "Sport",
-      "show_description": "Quinta gara stagionale sul veloce circuito cittadino di Jeddah. Norris è leader del mondiale ma con solo 3 punti di vantaggio su Piastri. Telecronaca di Carlo Vanzini, Marc Gené e Roberto Chinchero."
-    },
-    {
-      "show_name": "Cagliari - Hellas Verona",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/cagliari-hellas-verona.webp",
-      "start_time": "2026-02-07 09:40:00",
-      "end_time": "2026-02-07 09:55:00",
-      "episode_number": "S2025 E224",
-      "show_category": "Sport",
-      "show_description": "Segui le partite del campionato di calcio Serie A."
-    },
-    {
-      "show_name": "Udinese - Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/udinese-roma.webp",
-      "start_time": "2026-02-07 09:55:00",
-      "end_time": "2026-02-07 11:40:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Udinese - Roma - Bianconeri tornati alla vittoria, 1-3 a Verona. Roma a -4 dal Milan dopo l'1-1 dell'Olimpico. A Udine ha vinto 9 delle ultime 12 sfide, un pareggio e 2 sconfitte. TC: Borghi-Gobbi."
-    },
-    {
-      "show_name": "Cremonese - Inter",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/cremonese-inter.webp",
-      "start_time": "2026-02-07 11:40:00",
-      "end_time": "2026-02-07 13:25:00",
-      "episode_number": "S2025 E68",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Giovanni Zini di Cremona, Italia."
-    },
-    {
-      "show_name": "Manchester United - Tottenham",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/manchester-united-tottenham.webp",
-      "start_time": "2026-02-07 13:25:00",
-      "end_time": "2026-02-07 15:25:00",
-      "episode_number": "S2025 E244",
-      "show_category": "Sport",
-      "show_description": "Dall'Old Trafford di Manchester, Inghilterra."
-    },
-    {
-      "show_name": "Cagliari - Hellas Verona",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/cagliari-hellas-verona.webp",
-      "start_time": "2026-02-07 15:25:00",
-      "end_time": "2026-02-07 15:40:00",
-      "episode_number": "S2025 E224",
-      "show_category": "Sport",
-      "show_description": "Segui le partite del campionato di calcio Serie A."
+      "show_description": "Dal Circuito di Zandvoort, Paesi Bassi."
     },
     {
       "show_name": "Motori Formula 1 - Ep. 120 - Motori F1 2025 Gp Abu Dhabi Gara 07/12/2025",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/motori-formula-1-ep-120-motori-f1-2025-gp-abu-dhabi-gara-07-12-2025.webp",
-      "start_time": "2026-02-07 15:40:00",
-      "end_time": "2026-02-07 16:40:00",
+      "show_logo": "https://guidatv.sky.it/uuid/6dbac4ae-bd39-4606-b9c0-27ff09238f98/cover?territory=IT&md5ChecksumParam=6315ea7262478e8b7078a2c295ed0208",
+      "start_time": "2026-02-08 08:00:00",
+      "end_time": "2026-02-08 10:15:00",
       "episode_number": "S2025 E120",
       "show_category": "Sport",
       "show_description": "Dallo Yas Marina Circuit di Abu Dhabi, Emirati Arabi Uniti."
     },
     {
-      "show_name": "Cremonese - Inter",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/cremonese-inter.webp",
-      "start_time": "2026-02-07 16:40:00",
-      "end_time": "2026-02-07 18:25:00",
-      "episode_number": "S2025 E68",
+      "show_name": "GP Qatar: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/032725f5-9892-48d6-ba19-bbc5e1ae0450/cover?territory=IT&md5ChecksumParam=dd4ee80283ba48c5d1149de2faf1e093",
+      "start_time": "2026-02-08 10:15:00",
+      "end_time": "2026-02-08 12:15:00",
+      "episode_number": "S2025 E115",
       "show_category": "Sport",
-      "show_description": "Dallo Stadio Giovanni Zini di Cremona, Italia."
+      "show_description": "Dal Losail International Circuit di Doha, Qatar."
     },
     {
-      "show_name": "Calcio Premier League - Ep. 250 - Calcio Premier League 25ga Newcastle/ Brentford 07/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/calcio-premier-league-ep-250-calcio-premier-league-25ga-newcastle-brentford-07-02-2026.webp",
-      "start_time": "2026-02-07 18:25:00",
-      "end_time": "2026-02-07 20:30:00",
-      "episode_number": "S2025 E250",
+      "show_name": "GP Belgio: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/8f268578-aae7-43aa-8c2a-631302f79155/cover?territory=IT&md5ChecksumParam=28d2c56cd3350d3a9b0d3f46537e37a6",
+      "start_time": "2026-02-08 12:15:00",
+      "end_time": "2026-02-08 14:10:00",
+      "episode_number": "S2025 E65",
       "show_category": "Sport",
-      "show_description": "Dal St. James' Park a Newcastle upon Tyne, Inghilterra."
+      "show_description": "Dal Circuito di Spa-Francorchamps, Stavelot, Belgio."
+    },
+    {
+      "show_name": "Monaco - Juventus",
+      "show_logo": "https://guidatv.sky.it/uuid/a89d43b3-0727-4a95-9698-015843b9b3a0/cover?territory=IT&md5ChecksumParam=65ff33a797b36976422022563823e38f",
+      "start_time": "2026-02-08 14:10:00",
+      "end_time": "2026-02-08 14:35:00",
+      "episode_number": "S2025 E134",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Diego Armando Maradona di Napoli, Italia."
     },
     {
       "show_name": "Cagliari - Hellas Verona",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/cagliari-hellas-verona.webp",
-      "start_time": "2026-02-07 20:30:00",
-      "end_time": "2026-02-07 20:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/e1d791fb-b7a7-44e8-b433-a53e4e1204e3/cover?territory=IT&md5ChecksumParam=c0958443056b683210fc40919849e4fc",
+      "start_time": "2026-02-08 14:35:00",
+      "end_time": "2026-02-08 14:55:00",
       "episode_number": "S2025 E224",
       "show_category": "Sport",
       "show_description": "Segui le partite del campionato di calcio Serie A."
     },
     {
-      "show_name": "Udinese - Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/udinese-roma.webp",
-      "start_time": "2026-02-07 20:45:00",
-      "end_time": "2026-02-07 22:30:00",
-      "episode_number": "",
+      "show_name": "Brighton - Crystal Palace",
+      "show_logo": "https://guidatv.sky.it/uuid/b86b8ecf-bde2-4af0-a093-4de0962cd1eb/cover?territory=IT&md5ChecksumParam=bbc437071ccc2acdeea0ed9602f90de4",
+      "start_time": "2026-02-08 14:55:00",
+      "end_time": "2026-02-08 17:00:00",
+      "episode_number": "S2025 E251",
       "show_category": "Sport",
-      "show_description": "Udinese - Roma - Bianconeri tornati alla vittoria, 1-3 a Verona. Roma a -4 dal Milan dopo l'1-1 dell'Olimpico. A Udine ha vinto 9 delle ultime 12 sfide, un pareggio e 2 sconfitte. TC: Borghi-Gobbi."
+      "show_description": "Dall'American Express Community Stadium di Brighton, Inghilterra."
     },
     {
-      "show_name": "Gara: GP Monaco",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/gara-gp-monaco.webp",
-      "start_time": "2026-02-07 22:30:00",
-      "end_time": "2026-02-08 00:35:00",
-      "episode_number": "S2025 E40",
+      "show_name": "Sky Sunday Football Prepartita",
+      "show_logo": "https://guidatv.sky.it/uuid/b3121881-718f-40c1-a433-c3828ca5c4d0/cover?territory=IT&md5ChecksumParam=2a462481ce7b688378ba18ba7192b0cc",
+      "start_time": "2026-02-08 17:00:00",
+      "end_time": "2026-02-08 17:55:00",
+      "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Il Gran Premio più iconico del mondiale quest'anno presenta un'incognita in più: due soste ai box obbligatorie. Chi vincerà la roulette? Telecronaca di Carlo Vanzini, Marc Gené e Roberto Chinchero."
+      "show_description": "Sky Sunday Football Prepartita - La presentazione del match di Serie A, le immagini e le interviste ai protagonisti. Nello studio di Leo Di Bello, anche calcio internazionale e le news di tutti gli sport di Sky."
+    },
+    {
+      "show_name": "Sassuolo - Inter",
+      "show_logo": "https://guidatv.sky.it/uuid/240da2ad-fd6d-4a98-b8ea-43e2f02e49dd/cover?territory=IT&md5ChecksumParam=4787a07f0936d47e2285f5bcc8b7e6e2",
+      "start_time": "2026-02-08 17:55:00",
+      "end_time": "2026-02-08 20:00:00",
+      "episode_number": "S2025 E71",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Mapei Città del Tricolore di Reggio Emilia, Italia."
+    },
+    {
+      "show_name": "Anteprima Sky Calcio Club",
+      "show_logo": "https://guidatv.sky.it/uuid/606d3a96-4c8b-4632-8124-b8870f5e805a/cover?territory=IT&md5ChecksumParam=66c2cb3b782831fab058ec92fec73e30",
+      "start_time": "2026-02-08 20:00:00",
+      "end_time": "2026-02-08 20:40:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Quindici minuti di notizie, immagini, gol e interviste che costituiscono il menu' di Sky Calcio Club. In onda subito dopo."
+    },
+    {
+      "show_name": "Monaco - Juventus",
+      "show_logo": "https://guidatv.sky.it/uuid/a89d43b3-0727-4a95-9698-015843b9b3a0/cover?territory=IT&md5ChecksumParam=65ff33a797b36976422022563823e38f",
+      "start_time": "2026-02-08 20:40:00",
+      "end_time": "2026-02-08 21:15:00",
+      "episode_number": "S2025 E134",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Diego Armando Maradona di Napoli, Italia."
+    },
+    {
+      "show_name": "Sassuolo - Inter",
+      "show_logo": "https://guidatv.sky.it/uuid/240da2ad-fd6d-4a98-b8ea-43e2f02e49dd/cover?territory=IT&md5ChecksumParam=4787a07f0936d47e2285f5bcc8b7e6e2",
+      "start_time": "2026-02-08 21:15:00",
+      "end_time": "2026-02-08 23:05:00",
+      "episode_number": "S2025 E71",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Mapei Città del Tricolore di Reggio Emilia, Italia."
+    },
+    {
+      "show_name": "GP Messico: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/29c62b0c-3652-48ea-aa47-58ee303f23af/cover?territory=IT&md5ChecksumParam=2e853c6132f9a6e453ab20075b691309",
+      "start_time": "2026-02-08 23:05:00",
+      "end_time": "2026-02-09 01:15:00",
+      "episode_number": "S2025 E100",
+      "show_category": "Sport",
+      "show_description": "Dall'Autodromo Hermanos Rodriguez di Città del Messico."
     }
   ]
 }

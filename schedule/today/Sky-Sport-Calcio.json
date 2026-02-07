@@ -1,150 +1,195 @@
 {
   "channel_name": "Sky Sport Calcio",
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "programs": [
     {
-      "show_name": "Cremonese - Inter",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/cremonese-inter.webp",
-      "start_time": "2026-02-06 00:00:00",
-      "end_time": "2026-02-06 01:35:00",
-      "episode_number": "S2025 E68",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Giovanni Zini di Cremona, Italia."
-    },
-    {
-      "show_name": "Manchester City - Galatasaray",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/manchester-city-galatasaray.webp",
-      "start_time": "2026-02-06 01:35:00",
-      "end_time": "2026-02-06 03:30:00",
-      "episode_number": "S2025 E136",
-      "show_category": "Sport",
-      "show_description": "Dall'Etihad Stadium di Manchester, Inghilterra."
-    },
-    {
-      "show_name": "Bundesliga Weekly",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/bundesliga-weekly.webp",
-      "start_time": "2026-02-06 03:30:00",
-      "end_time": "2026-02-06 04:00:00",
-      "episode_number": "S2023 E28",
-      "show_category": "Sport",
-      "show_description": "La giornata di Bundesliga si avvicina. Conosciamo da vicino i protagonisti del campionato tedesco, con l'anticipazione di tutti i temi dei match in programma."
-    },
-    {
-      "show_name": "Benfica - Real Madrid",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/benfica-real-madrid.webp",
-      "start_time": "2026-02-06 04:00:00",
-      "end_time": "2026-02-06 06:00:00",
-      "episode_number": "S2025 E137",
-      "show_category": "Sport",
-      "show_description": "Dall'Estadio da Luz di Lisbona, Portogallo."
-    },
-    {
-      "show_name": "Maccabi Tel Aviv - Bologna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/maccabi-tel-aviv-bologna.webp",
-      "start_time": "2026-02-06 06:00:00",
-      "end_time": "2026-02-06 08:45:00",
-      "episode_number": "S2025 E63",
-      "show_category": "Sport",
-      "show_description": "Segui la partita di UEFA Europa League in programma."
-    },
-    {
-      "show_name": "Panathinaikos - Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/panathinaikos-roma.webp",
-      "start_time": "2026-02-06 08:45:00",
-      "end_time": "2026-02-06 10:35:00",
-      "episode_number": "S2025 E64",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Olimpico di Atene, Grecia."
-    },
-    {
-      "show_name": "Saint-Gilloise - Atalanta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/saint-gilloise-atalanta.webp",
-      "start_time": "2026-02-06 10:35:00",
-      "end_time": "2026-02-06 12:20:00",
-      "episode_number": "S2025 E135",
-      "show_category": "Sport",
-      "show_description": "Dal Lotto Park di Bruxelles, Belgio."
-    },
-    {
-      "show_name": "Monaco - Juventus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/monaco-juventus.webp",
-      "start_time": "2026-02-06 12:20:00",
-      "end_time": "2026-02-06 14:15:00",
-      "episode_number": "S2025 E134",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Diego Armando Maradona di Napoli, Italia."
-    },
-    {
-      "show_name": "Calcio Uefa Champions League - Ep. 142 - Calcio Ucl 8ga Borussia Dortmund/ Inter 28/01/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/calcio-uefa-champions-league-ep-142-calcio-ucl-8ga-borussia-dortmund-inter-28-01-2026.webp",
-      "start_time": "2026-02-06 14:15:00",
-      "end_time": "2026-02-06 16:15:00",
-      "episode_number": "S2025 E142",
-      "show_category": "Sport",
-      "show_description": "Dal Signal Iduna Park di Dortmund, Germania."
-    },
-    {
-      "show_name": "Monaco - Juventus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/monaco-juventus.webp",
-      "start_time": "2026-02-06 16:15:00",
-      "end_time": "2026-02-06 18:00:00",
-      "episode_number": "S2025 E10",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Louis II di Fontvieille, Principato di Monaco."
-    },
-    {
-      "show_name": "1996, L'anno Di Del Piero Parte 1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/1996-l-anno-di-del-piero-parte-1.webp",
-      "start_time": "2026-02-06 18:00:00",
-      "end_time": "2026-02-06 18:50:00",
-      "episode_number": "S2025 E1",
-      "show_category": "Sport",
-      "show_description": "Prima parte del viaggio nel passato di Alessandro Del Piero, che ripercorre uno degli anni più iconici della sua carriera: il 1996."
-    },
-    {
-      "show_name": "Parte 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/parte-2.webp",
-      "start_time": "2026-02-06 18:50:00",
-      "end_time": "2026-02-06 19:35:00",
-      "episode_number": "S2025 E2",
-      "show_category": "Sport",
-      "show_description": "Seconda parte del viaggio nel passato di Alessandro Del Piero, che ripercorre uno degli anni più iconici della sua carriera: il 1996."
-    },
-    {
-      "show_name": "Ep.1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/ep-1.webp",
-      "start_time": "2026-02-06 19:35:00",
-      "end_time": "2026-02-06 19:50:00",
-      "episode_number": "S2026 E1",
-      "show_category": "Sport",
-      "show_description": "Servizi informativi dedicati ai più piccoli sportivi italiani e alle realtà giovanili legate al calcio, tra trofei, incontri, e storie."
-    },
-    {
       "show_name": "Uefa Champions League Magazine 2025/2026 Ep.19 06/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/uefa-champions-league-magazine-2025-2026-ep-19-06-02-2026.webp",
-      "start_time": "2026-02-06 19:50:00",
-      "end_time": "2026-02-06 20:55:00",
+      "show_logo": "https://guidatv.sky.it/uuid/ac54b41a-d422-4171-bbeb-d59bbf232ff9/cover?territory=IT&md5ChecksumParam=1fcd26729e7a8287acbfa6ec1a815d6c",
+      "start_time": "2026-02-07 00:00:00",
+      "end_time": "2026-02-07 00:00:00",
       "episode_number": "S2025 E19",
       "show_category": "Sport",
       "show_description": "Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
     },
     {
+      "show_name": "Ep.32",
+      "show_logo": "https://guidatv.sky.it/uuid/e94febc8-7b50-423b-afe1-1087283fdd0d/cover?territory=IT&md5ChecksumParam=1e34170d5094d2cf16307c750b0f8008",
+      "start_time": "2026-02-07 00:00:00",
+      "end_time": "2026-02-07 00:30:00",
+      "episode_number": "S2025 E32",
+      "show_category": "Sport",
+      "show_description": "Premier League Stories."
+    },
+    {
+      "show_name": "Uefa Europa&Conference League Magazine - Ep. 11 - Uefa Europa&Conference League Magazine Ep.11 03/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/6875e1b2-f90c-4a71-bce9-57bc9296aa0c/cover?territory=IT&md5ChecksumParam=fe2b6c901890b15cfe45c9bde9148d99",
+      "start_time": "2026-02-07 00:30:00",
+      "end_time": "2026-02-07 01:30:00",
+      "episode_number": "S2 E11",
+      "show_category": "Sport",
+      "show_description": "Notizie, interviste e analisi delle squadre di Europa League e Conference League."
+    },
+    {
+      "show_name": "Union Berlino - Eintracht Francoforte",
+      "show_logo": "https://guidatv.sky.it/uuid/d9895781-0b60-45a6-8af3-cfdf94725f40/cover?territory=IT&md5ChecksumParam=ef39d371f4a64c0998fc71fbc30394c2",
+      "start_time": "2026-02-07 01:30:00",
+      "end_time": "2026-02-07 03:30:00",
+      "episode_number": "S2025 E112",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadion An der Alten Försterei di Berlino, Germania."
+    },
+    {
+      "show_name": "Premier League Preview",
+      "show_logo": "https://guidatv.sky.it/uuid/b0757739-e69c-4335-abe8-455582683a71/cover?territory=IT&md5ChecksumParam=579b0d3d799dc99719938599d75c5532",
+      "start_time": "2026-02-07 03:30:00",
+      "end_time": "2026-02-07 04:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Si sta per aprire una nuova giornata di Premier League. Scopriamo insieme temi, notizie e possibili protagonisti."
+    },
+    {
+      "show_name": "FC Barcellona - Copenhagen",
+      "show_logo": "https://guidatv.sky.it/uuid/4835812a-8d38-40b5-956d-8c92821f2606/cover?territory=IT&md5ChecksumParam=59a575ee23530829fb3e85b543797d08",
+      "start_time": "2026-02-07 04:00:00",
+      "end_time": "2026-02-07 06:00:00",
+      "episode_number": "S2025 E140",
+      "show_category": "Sport",
+      "show_description": "Dal Camp Nou di Barcellona, Spagna."
+    },
+    {
       "show_name": "Leeds - Nottingham Forest",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/leeds-nottingham-forest.webp",
-      "start_time": "2026-02-06 20:55:00",
-      "end_time": "2026-02-06 23:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5d4d67e4-7380-4bcd-8c9d-e2affd2c2a7a/cover?territory=IT&md5ChecksumParam=355b192b9897e7f50a051ac2de4a3dc7",
+      "start_time": "2026-02-07 06:00:00",
+      "end_time": "2026-02-07 08:00:00",
       "episode_number": "S2025 E243",
       "show_category": "Sport",
       "show_description": "Dall'Elland Road di Leeds, Inghilterra."
     },
     {
       "show_name": "Uefa Champions League Magazine 2025/2026 Ep.19 06/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/uefa-champions-league-magazine-2025-2026-ep-19-06-02-2026.webp",
-      "start_time": "2026-02-06 23:00:00",
-      "end_time": "2026-02-07 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/ac54b41a-d422-4171-bbeb-d59bbf232ff9/cover?territory=IT&md5ChecksumParam=1fcd26729e7a8287acbfa6ec1a815d6c",
+      "start_time": "2026-02-07 08:00:00",
+      "end_time": "2026-02-07 09:00:00",
       "episode_number": "S2025 E19",
       "show_category": "Sport",
       "show_description": "Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
+    },
+    {
+      "show_name": "Union Berlino - Eintracht Francoforte",
+      "show_logo": "https://guidatv.sky.it/uuid/d9895781-0b60-45a6-8af3-cfdf94725f40/cover?territory=IT&md5ChecksumParam=ef39d371f4a64c0998fc71fbc30394c2",
+      "start_time": "2026-02-07 09:00:00",
+      "end_time": "2026-02-07 10:55:00",
+      "episode_number": "S2025 E112",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadion An der Alten Försterei di Berlino, Germania."
+    },
+    {
+      "show_name": "Leeds - Nottingham Forest",
+      "show_logo": "https://guidatv.sky.it/uuid/5d4d67e4-7380-4bcd-8c9d-e2affd2c2a7a/cover?territory=IT&md5ChecksumParam=355b192b9897e7f50a051ac2de4a3dc7",
+      "start_time": "2026-02-07 10:55:00",
+      "end_time": "2026-02-07 12:50:00",
+      "episode_number": "S2025 E243",
+      "show_category": "Sport",
+      "show_description": "Dall'Elland Road di Leeds, Inghilterra."
+    },
+    {
+      "show_name": "Ep.32",
+      "show_logo": "https://guidatv.sky.it/uuid/e94febc8-7b50-423b-afe1-1087283fdd0d/cover?territory=IT&md5ChecksumParam=1e34170d5094d2cf16307c750b0f8008",
+      "start_time": "2026-02-07 12:50:00",
+      "end_time": "2026-02-07 13:25:00",
+      "episode_number": "S2025 E32",
+      "show_category": "Sport",
+      "show_description": "Premier League Stories."
+    },
+    {
+      "show_name": "Manchester United - Tottenham",
+      "show_logo": "https://guidatv.sky.it/uuid/215e68a4-4f99-4db3-aeff-af26308e4d24/cover?territory=IT&md5ChecksumParam=757babfdb0120b0491d6fc9a0676f657",
+      "start_time": "2026-02-07 13:25:00",
+      "end_time": "2026-02-07 15:30:00",
+      "episode_number": "S2025 E244",
+      "show_category": "Sport",
+      "show_description": "Dall'Old Trafford di Manchester, Inghilterra."
+    },
+    {
+      "show_name": "Ep.1",
+      "show_logo": "https://guidatv.sky.it/uuid/360eaf3c-f9fa-44b2-87dc-293f993f095e/cover?territory=IT&md5ChecksumParam=ea8de2f29d117ce052c3da77b110ebd3",
+      "start_time": "2026-02-07 15:30:00",
+      "end_time": "2026-02-07 15:40:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "Servizi informativi dedicati ai più piccoli sportivi italiani e alle realtà giovanili legate al calcio, tra trofei, incontri, e storie."
+    },
+    {
+      "show_name": "Programmazione non disponibile",
+      "show_logo": "https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&md5ChecksumParam=4a25768e3cfcae514f94f50e5a0fe2c7",
+      "start_time": "2026-02-07 15:40:00",
+      "end_time": "2026-02-07 15:55:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Programmazione non disponibile."
+    },
+    {
+      "show_name": "Arsenal - Sunderland",
+      "show_logo": "https://guidatv.sky.it/uuid/393ebae0-3aed-4c98-8d00-7d626b3cec3f/cover?territory=IT&md5ChecksumParam=9d15b266dbb9846d32baca952dc16ac1",
+      "start_time": "2026-02-07 15:55:00",
+      "end_time": "2026-02-07 18:00:00",
+      "episode_number": "S2025 E245",
+      "show_category": "Sport",
+      "show_description": "Dall'Emirates Stadium di Londra, Inghilterra."
+    },
+    {
+      "show_name": "Ep.1",
+      "show_logo": "https://guidatv.sky.it/uuid/360eaf3c-f9fa-44b2-87dc-293f993f095e/cover?territory=IT&md5ChecksumParam=ea8de2f29d117ce052c3da77b110ebd3",
+      "start_time": "2026-02-07 18:00:00",
+      "end_time": "2026-02-07 18:15:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "Servizi informativi dedicati ai più piccoli sportivi italiani e alle realtà giovanili legate al calcio, tra trofei, incontri, e storie."
+    },
+    {
+      "show_name": "Programmazione non disponibile",
+      "show_logo": "https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&md5ChecksumParam=4a25768e3cfcae514f94f50e5a0fe2c7",
+      "start_time": "2026-02-07 18:15:00",
+      "end_time": "2026-02-07 18:25:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Programmazione non disponibile."
+    },
+    {
+      "show_name": "Calcio Premier League - Ep. 250 - Calcio Premier League 25ga Newcastle/ Brentford 07/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/4b4d0f0e-b1df-4969-b6f5-55806f1650ec/cover?territory=IT&md5ChecksumParam=b0f0d9291b2628479acb1f4b787c7229",
+      "start_time": "2026-02-07 18:25:00",
+      "end_time": "2026-02-07 20:30:00",
+      "episode_number": "S2025 E250",
+      "show_category": "Sport",
+      "show_description": "Dal St. James' Park a Newcastle upon Tyne, Inghilterra."
+    },
+    {
+      "show_name": "Sky Saturday Night",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 20:30:00",
+      "end_time": "2026-02-07 20:40:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Sky Saturday Night."
+    },
+    {
+      "show_name": "Fiorentina - Torino",
+      "show_logo": "https://guidatv.sky.it/uuid/87a253ac-fb62-4afd-ace3-f46942827cd3/cover?territory=IT&md5ChecksumParam=291216989b2a88e709dd195cac7d3df3",
+      "start_time": "2026-02-07 20:40:00",
+      "end_time": "2026-02-07 22:45:00",
+      "episode_number": "S2025 E70",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
+    },
+    {
+      "show_name": "Sky Saturday Night",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 22:45:00",
+      "end_time": "2026-02-08 00:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Sky Saturday Night."
     }
   ]
 }

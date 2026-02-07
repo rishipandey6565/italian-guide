@@ -1,15 +1,33 @@
 {
   "channel_name": "Sky Sport  255",
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "programs": [
     {
       "show_name": "Union Berlino - Eintracht Francoforte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-255/today/union-berlino-eintracht-francoforte.webp",
-      "start_time": "2026-02-06 20:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/d9895781-0b60-45a6-8af3-cfdf94725f40/cover?territory=IT&md5ChecksumParam=ef39d371f4a64c0998fc71fbc30394c2",
+      "start_time": "2026-02-07 00:00:00",
       "end_time": "2026-02-07 14:00:00",
       "episode_number": "S2025 E112",
       "show_category": "Sport",
       "show_description": "Dallo Stadion An der Alten Försterei di Berlino, Germania."
+    },
+    {
+      "show_name": "Casarano - Sorrento",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 14:00:00",
+      "end_time": "2026-02-07 17:25:00",
+      "episode_number": "S2025 E253",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Giuseppe Capozza di Casarano, Italia."
+    },
+    {
+      "show_name": "Pergolettese - Trento",
+      "show_logo": "https://guidatv.sky.it/uuid/73ee7071-f5f7-4160-9865-ba8ecda44378/cover?territory=IT&md5ChecksumParam=e0190d05fd5c4fe8a8071113b6525a4b",
+      "start_time": "2026-02-07 17:25:00",
+      "end_time": "2026-02-08 14:00:00",
+      "episode_number": "S2025 E258",
+      "show_category": "Sport",
+      "show_description": "Dallo stadio Giuseppe Voltini di Crema, Lombardia, Italia."
     }
   ]
 }

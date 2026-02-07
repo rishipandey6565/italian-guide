@@ -1,150 +1,186 @@
 {
   "channel_name": "ACI Sport Tv",
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "programs": [
     {
-      "show_name": "DTM - Norisring- G1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 00:00:00",
-      "end_time": "2026-02-06 01:07:44",
+      "show_name": "SPA - GP Pit",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 00:00:00",
+      "end_time": "2026-02-07 00:52:57",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Round 4 - Il Deutsche Tourenwagen Masters 2025 corre sulla pista di Norisring."
+      "show_description": "Round 5 - Formula 4 Iracing 2025."
     },
     {
-      "show_name": "DTM - Norisring - G2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 01:07:44",
-      "end_time": "2026-02-06 03:02:00",
+      "show_name": "DTM - Nurburgring - G1",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 00:52:57",
+      "end_time": "2026-02-07 02:41:37",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Round 4 - Il Deutsche Tourenwagen Masters 2025 corre sulla pista di Norisring."
+      "show_description": "Round 5 - Il DTM fa tappa a Nurburgring."
     },
     {
-      "show_name": "CIRT - Adriatico - Arrivo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 03:02:00",
-      "end_time": "2026-02-06 03:53:22",
+      "show_name": "DTM - Nurburgring - G2",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 02:41:37",
+      "end_time": "2026-02-07 02:43:25",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Round 3 - Campionato Italiano Rally Terra - Adriatico."
+      "show_description": "Round 5 - Il DTM fa tappa a Nurburgring."
     },
     {
-      "show_name": "C.I.Esport GT Sprint - Spa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 03:53:22",
-      "end_time": "2026-02-06 06:01:17",
+      "show_name": "DTM - Nurburgring - G2",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 02:43:25",
+      "end_time": "2026-02-07 04:13:37",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Round 6 - Ultimo round del Tricolore Esport GT3 Sprint curato da Assetto Corsa Competizione."
+      "show_description": "Round 5 - Il DTM fa tappa a Nurburgring."
     },
     {
-      "show_name": "Revival ACI Sport since 2012",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 06:01:17",
-      "end_time": "2026-02-06 06:41:35",
+      "show_name": "CIRT - San Marino Rally - Arrivo",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 04:13:37",
+      "end_time": "2026-02-07 05:17:34",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "1 - Il fascino del passato con i passaggi e le immagini di ACI Sport dal 2012 in poi."
+      "show_description": "Round 4 - Crocevia per la stagione tricolore al 53.San Marino Rally con tutti i big del CIRT sfidarsi all'ombra del Titano."
+    },
+    {
+      "show_name": "Dust to Dusk",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 05:17:34",
+      "end_time": "2026-02-07 05:34:28",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Ep.5 - La polvere e' solo la superficie. La prima serie originale dedicata al Rally Italia Sardegna. Uno sguardo dietro le quinte di questa leggendaria tappa del FIA WRC mondiale di rally."
+    },
+    {
+      "show_name": "SPECIALE GT - ANTONELLI MOTORSPORT",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 05:34:28",
+      "end_time": "2026-02-07 06:00:53",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Dalle piste italiane alla Formula 1: scopriamo la squadra che schiera due Mercedes AMG GT3 nel Tricolore Gran Turismo e che ha cresciuto Kimi Antonelli, oggi astro nascente della F1 con Mercedes."
+    },
+    {
+      "show_name": "CIRT - Vermentino - QS",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 06:00:53",
+      "end_time": "2026-02-07 06:45:32",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Round 5 - Doppio appuntamento tricolore Rally in Sardegna con base a Berchidda."
     },
     {
       "show_name": "Magazine ACI Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 06:41:35",
-      "end_time": "2026-02-06 07:12:58",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 06:45:32",
+      "end_time": "2026-02-07 07:16:26",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "PT 13 - La cronaca e le immagini delle gare a cura di ACI Sport. Questa settimana: il Trofeo Classic Lago di Como, la Trento Bondone, i Prototipi a Vallelunga e la FRECA a Zandvoort."
     },
     {
-      "show_name": "CIRT - San Marino Rally - PS2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 07:12:58",
-      "end_time": "2026-02-06 08:00:25",
+      "show_name": "Rally e Dintorni - Rally del Lazio",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 07:16:26",
+      "end_time": "2026-02-07 07:34:17",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Round 4 - Crocevia per la stagione tricolore al 53.San Marino Rally con tutti i big del CIRT sfidarsi all'ombra del Titano."
+      "show_description": "La rubrica che mette sotto i riflettori i principali protagonisti dei rally. Scopriamo la zona di Cassino e il basso Lazio."
     },
     {
-      "show_name": "Super Salita - Luzzi Sambucina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 08:00:25",
-      "end_time": "2026-02-06 11:48:09",
+      "show_name": "CIRT - Vermentino - PS1",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 07:34:17",
+      "end_time": "2026-02-07 08:22:10",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Manche 2 - La quarta prova del Campionato Italiano Supersalita nel cuore della Calabria in provincia di Cosenza."
+      "show_description": "Round 5 - Doppio appuntamento tricolore Rally in Sardegna con base a Berchidda."
     },
     {
-      "show_name": "CIRT - San Marino Rally - PS7",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 11:48:09",
-      "end_time": "2026-02-06 12:29:17",
+      "show_name": "Coppa dei Campioni - Valvibrata",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 08:22:10",
+      "end_time": "2026-02-07 11:06:08",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Round 4 - Crocevia per la stagione tricolore al 53.San Marino Rally con tutti i big del CIRT sfidarsi all'ombra del Titano."
+      "show_description": "Sul Kartodromo Val Vibrata la Coppa dei Campioni ACI Sport 2025: in gara le categorie MINI Gr.3 Under 10, MINI Gr.3, OK-N Junior, OK-N, KZ2, KZN Rookie, KZN Under, KZN Over, KZN Over 50."
     },
     {
-      "show_name": "Mugello - GT Endurance - Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 12:29:17",
-      "end_time": "2026-02-06 16:50:20",
+      "show_name": "CIRT - Vermentino - PS2",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 11:06:08",
+      "end_time": "2026-02-07 11:52:28",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "L'ACI Racing Weekend torna al Mugello Circuit con l'atto finale del Campionato Italiano Gran Turismo Endurance, il TCR Italy, la E4 e la Mitjet."
+      "show_description": "Round 5 - Doppio appuntamento tricolore Rally in Sardegna con base a Berchidda."
     },
     {
-      "show_name": "Revival ACI Sport since 2012",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 16:50:20",
-      "end_time": "2026-02-06 17:49:08",
+      "show_name": "CIK - Valvibrata - Gara 2",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 11:52:28",
+      "end_time": "2026-02-07 14:45:17",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "1 - Il fascino del passato con i passaggi e le immagini di ACI Sport dal 2012 in poi."
+      "show_description": "Terza prova del Campionato Italiano Karting sbarca in Abruzzo."
     },
     {
-      "show_name": "Speciale ACI 120 - MAUTO Torino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 17:49:08",
-      "end_time": "2026-02-06 18:03:06",
+      "show_name": "Speciale Specialist Motorsport Academy",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 14:45:17",
+      "end_time": "2026-02-07 15:00:03",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Le celebrazioni dei 120 anni di ACI al Mauto di Torino con l'annullo filatelico del francobollo celebrativo che Poste Italiane ha voluto dedicare  dell'Automobile Club d'Italia."
+      "show_description": "Specialist Motorsport Academy adesso ha una casa: 300 mq presso l'Autodromo di Vallelunga che fungeranno da scuola per gli ufficiali di gara e il personale sanitario che lavora sulle piste."
     },
     {
-      "show_name": "Super Salita - Luzzi Sambucina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 18:03:06",
-      "end_time": "2026-02-06 21:44:03",
+      "show_name": "Super Salita - Rieti Terminillo",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 15:00:03",
+      "end_time": "2026-02-07 19:08:46",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Manche 2 - La quarta prova del Campionato Italiano Supersalita nel cuore della Calabria in provincia di Cosenza."
+      "show_description": "Manche - Quinto atto del Tricolore Super Salita sulla montagna reatina  prima della pausa estiva."
     },
     {
-      "show_name": "Magazine MLMC - Silverstone",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 21:44:03",
-      "end_time": "2026-02-06 22:10:54",
+      "show_name": "CIRT - Vermentino - Arrivo",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 19:08:46",
+      "end_time": "2026-02-07 19:57:55",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Round 5 - Il recap del penultimo atto della Coppa Michelin Le Mans 2025 andato in scena sul circuito inglese."
+      "show_description": "Round 5 - Doppio appuntamento tricolore Rally in Sardegna con base a Berchidda."
     },
     {
-      "show_name": "Sotto il Casco - Parola ai protagonisti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 22:10:54",
-      "end_time": "2026-02-06 23:07:10",
+      "show_name": "Magazine MLMC - Portimao",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 19:57:55",
+      "end_time": "2026-02-07 21:17:49",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "PT 11 - Il Talk Show dedicato ai protagonisti con servizi filmati, ospiti in studio e collegamenti con i protagonisti del motorsport curato da ACI Sport."
+      "show_description": "Round 6 - Rush finale della Coppa MIchelin Le Mans 2025 sul circuito portoghese."
     },
     {
-      "show_name": "SPA - GP Pit",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 23:07:10",
-      "end_time": "2026-02-07 00:52:57",
+      "show_name": "Hungaroring",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 21:17:49",
+      "end_time": "2026-02-07 22:55:25",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Round 5 - Formula 4 Iracing 2025."
+      "show_description": "Round 6 - Il Formula 4 Iracing 2025 Iracing pronto per il penultimo round stagionale sul circuito."
+    },
+    {
+      "show_name": "DTM - Sachsenring - G1",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-07 22:55:25",
+      "end_time": "2026-02-08 00:44:21",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Round 6 - Sesto round del DTM a Sachsenring."
     }
   ]
 }

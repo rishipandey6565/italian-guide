@@ -1,132 +1,123 @@
 {
   "channel_name": "Discovery Channel",
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "programs": [
     {
-      "show_name": "I segreti delle strutture",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 00:00:00",
-      "end_time": "2026-02-06 00:05:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "5' Stagione Ep.7 - I segreti dell'impero perduto - Grazie alla moderna tecnologia, gli esperti analizzano l'affondamento di un impero."
-    },
-    {
-      "show_name": "Come è fatto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 00:05:00",
-      "end_time": "2026-02-06 00:35:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "3' Stagione Ep.10 - Come vengono realizzati gli oggetti di uso quotidiano? Scopriamo i processi di produzione degli elmetti per i pompieri, dei compassi nautici, dei tubi da imballaggio e delle seghe manuali."
-    },
-    {
-      "show_name": "Come è fatto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 00:35:00",
-      "end_time": "2026-02-06 01:05:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "3' Stagione Ep.11 - Scopriamo come sono fatti alcuni oggetti di uso quotidiano, tra cui le lampade alogene, l'isolante in cellulosa, le scale di alluminio e le canne da pesca a mosca in bambù."
-    },
-    {
-      "show_name": "Come è fatto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 01:05:00",
-      "end_time": "2026-02-06 01:35:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "3' Stagione Ep.12 - Come vengono realizzati gli oggetti di uso quotidiano come le lattine in alluminio, i dolci di gelatina o le sculture in bronzo? Analizziamoli nei dettagli per capire come sono fatti."
-    },
-    {
-      "show_name": "Come è fatto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 01:35:00",
-      "end_time": "2026-02-06 02:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "3' Stagione Ep.13 - Come vengono realizzati gli oggetti di uso quotidiano come pentole e padelle in alluminio, arti artificiali e burro di arachidi? Analizziamoli nei dettagli per capire come sono fatti."
-    },
-    {
-      "show_name": "Come funziona l'Universo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 02:00:00",
-      "end_time": "2026-02-06 02:55:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "8' Stagione Ep.7 - Come costruire un Pianeta - Alcune delle menti più brillanti del Pianeta analizzano i limiti dello scibile umano e svelano la scienza che si cela dietro le regole dell'universo."
-    },
-    {
-      "show_name": "Come funziona l'Universo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 02:55:00",
-      "end_time": "2026-02-06 03:50:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "8' Stagione Ep.8 - Un viaggio cosmico - La Terra ruota sul proprio asse compiendo un tratto della sua orbita intorno al sole. Scienziati ed esperti spiegano come il Pianeta viaggi attraverso la Via Lattea."
-    },
-    {
-      "show_name": "Come funziona l'Universo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 03:50:00",
-      "end_time": "2026-02-06 04:45:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "8' Stagione Ep.9 - Alla ricerca di prove - La scoperta della vita extra-terrestre ha portato gli studiosi a una sfida quasi impossibile: dimostrare o smentire l'esistenza degli alieni."
-    },
-    {
-      "show_name": "Come è fatto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 04:45:00",
-      "end_time": "2026-02-06 05:10:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "18' Stagione Ep.1 - Vi siete mai chiesti come sono fatti gli oggetti di uso quotidiano? In questo episodio scopriamo come nascono i pannelli di vetro, i bauli da viaggio e le animazioni \"passo uno\"."
-    },
-    {
-      "show_name": "Come è fatto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 05:10:00",
-      "end_time": "2026-02-06 05:35:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "18' Stagione Ep.2 - Vi siete mai chiesti come sono fatti gli oggetti di uso quotidiano? In questo episodio scopriamo come nascono le corde in acciaio, le pareti verdi e le macchine fotografiche."
-    },
-    {
-      "show_name": "Come è fatto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 05:35:00",
-      "end_time": "2026-02-06 06:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "18' Stagione Ep.3 - Vi siete mai chiesti come sono fatti gli oggetti di uso quotidiano? In questo episodio scopriamo come nascono le monete di cioccolato, le auto a pedali e le spade in lattice."
-    },
-    {
-      "show_name": "Come fanno gli animali",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 06:00:00",
-      "end_time": "2026-02-06 06:25:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "1' Stagione Ep.39 - Ragni ballerini - Quali uccelli riescono a volare tanto in alto quanto gli aerei? E perché alcuni piccoli ragni saltellanti ballano per la loro sopravvivenza."
-    },
-    {
-      "show_name": "Come fanno gli animali",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 06:25:00",
-      "end_time": "2026-02-06 06:50:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "1' Stagione Ep.40 - Il segreto di una vita lunga - Come fanno i piccioni a ritrovare la strada di casa? E come fanno alcuni pesci a sopravvivere per anni."
-    },
-    {
-      "show_name": "Una famiglia fuori dal mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 06:50:00",
+      "show_name": "La febbre dell'oro: il tesoro del fiume",
+      "show_logo": "",
+      "start_time": "2026-02-07 00:00:00",
       "end_time": "2026-02-07 00:05:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "5' Stagione Ep.8 - Dove c'è acqua c'è speranza - I fratelli tentano di finire il sistema idraulico, ma Billy riceve alcune notizie scioccanti. Bear va a caccia e riflette su una decisione importante."
+      "show_description": "2' Stagione Ep.10 - Nuova miniera - La squadra continua il lavaggio e fa l'ultima pesatura della stagione. Dustin conduce la squadra verso una nuova miniera, che si dimostra subito avere un grande potenziale."
+    },
+    {
+      "show_name": "Come è fatto",
+      "show_logo": "",
+      "start_time": "2026-02-07 00:05:00",
+      "end_time": "2026-02-07 00:35:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "4' Stagione Ep.1 - Passiamo al vaglio altri oggetti quotidiani per scoprire come vengono prodotti."
+    },
+    {
+      "show_name": "Come è fatto",
+      "show_logo": "",
+      "start_time": "2026-02-07 00:35:00",
+      "end_time": "2026-02-07 01:05:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "4' Stagione Ep.2 - Passiamo al vaglio altri oggetti quotidiani per scoprire come vengono prodotti, tra cui le bottiglie di vetro, le seghette e le maschere per i portieri di hockey."
+    },
+    {
+      "show_name": "Come è fatto",
+      "show_logo": "",
+      "start_time": "2026-02-07 01:05:00",
+      "end_time": "2026-02-07 01:35:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "4' Stagione Ep.3 - Scopriamo come vengono prodotti alcuni oggetti di uso quotidiano, tra cui le racchette per giocare a lacrosse, i prodotti di pesce surgelati, le torce elettriche e i pennelli."
+    },
+    {
+      "show_name": "Come è fatto",
+      "show_logo": "",
+      "start_time": "2026-02-07 01:35:00",
+      "end_time": "2026-02-07 02:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "4' Stagione Ep.4 - Scopriamo i processi di realizzazione di alcuni oggetti di uso comune, tra cui le lenti ottiche, le batterie per veicoli e i barattoli."
+    },
+    {
+      "show_name": "Come funziona l'Universo",
+      "show_logo": "",
+      "start_time": "2026-02-07 02:00:00",
+      "end_time": "2026-02-07 02:55:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "8' Stagione Ep.10 - La Luna - Nuove scoperte scientifiche hanno portato alla luce lincredibile storia della Luna. In origine questo satellite era più simile alla Terra di quanto si pensasse."
+    },
+    {
+      "show_name": "Come funziona l'Universo",
+      "show_logo": "",
+      "start_time": "2026-02-07 02:55:00",
+      "end_time": "2026-02-07 04:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "8' Stagione Ep.11 - Asteroidi: la nuova minaccia - L'impatto di un asteroide sulla Terra potrebbe distruggere il nostro Pianeta. Gli esperti rivelano quanto ad aprile 2020 siamo stati vicino all'apocalisse."
+    },
+    {
+      "show_name": "Come è fatto",
+      "show_logo": "",
+      "start_time": "2026-02-07 04:45:00",
+      "end_time": "2026-02-07 05:10:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "18' Stagione Ep.4 - Vi siete mai chiesti come sono fatti gli oggetti di uso quotidiano? In questo episodio: giacche da moto, pale e vanghe e caviale d'allevamento."
+    },
+    {
+      "show_name": "Come è fatto",
+      "show_logo": "",
+      "start_time": "2026-02-07 05:10:00",
+      "end_time": "2026-02-07 05:35:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "18' Stagione Ep.5 - Vi siete mai chiesti come sono fatti gli oggetti di uso quotidiano? In questo episodio: statue di cera, tendalini, cracker sandwich e boccali di peltro."
+    },
+    {
+      "show_name": "Come è fatto",
+      "show_logo": "",
+      "start_time": "2026-02-07 05:35:00",
+      "end_time": "2026-02-07 06:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "18' Stagione Ep.6 - Scopriamo come vengono creati gli scovolini, il formaggio Stilton, i contatori elettrici intelligenti e i telescopi."
+    },
+    {
+      "show_name": "Matto da pescare",
+      "show_logo": "",
+      "start_time": "2026-02-07 06:00:00",
+      "end_time": "2026-02-07 06:25:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "2' Stagione Ep.1 - La migrazione - Eric segue la migrazione annuale dei persici e dei pesci serra a Long Island. In seguito cercherà di praticare il surfcasting, ma la sua nuova tecnica gli permetterà di vincere un premio."
+    },
+    {
+      "show_name": "Matto da pescare",
+      "show_logo": "",
+      "start_time": "2026-02-07 06:25:00",
+      "end_time": "2026-02-07 06:50:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "2' Stagione Ep.2 - Eric e 'Golia' - Eric va alla ricerca di un'enorme creatura che vive nell'Oceano Atlantico e che può pesare anche 350 Kg. Decide di usare solo una corda e la sua forza per catturarlo: ce la farà."
+    },
+    {
+      "show_name": "Mountain Monsters",
+      "show_logo": "",
+      "start_time": "2026-02-07 06:50:00",
+      "end_time": "2026-02-08 00:05:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "1' Stagione Ep.5 - Il Mothman - Sembra che un Mothman volante sia ritornato nella Virginia Occidentale e stia terrorizzando la Contea di Mason. I cacciatori riusciranno a catturare la creatura una volta per tutte."
     }
   ]
 }

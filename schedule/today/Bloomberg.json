@@ -1,159 +1,402 @@
 {
   "channel_name": "Bloomberg",
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "programs": [
     {
       "show_name": "Bloomberg: Balance of Power",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 00:00:00",
-      "end_time": "2026-02-06 00:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts."
-    },
-    {
-      "show_name": "Bloomberg The Asia Trade",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 00:00:00",
-      "end_time": "2026-02-06 02:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets."
-    },
-    {
-      "show_name": "Bloomberg: The China Show",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 02:00:00",
-      "end_time": "2026-02-06 04:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Your definitive source for news and analysis on the world's second-biggest economy. Hosted by Yvonne Man and David Ingles."
-    },
-    {
-      "show_name": "Insight with Haslinda Amin",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 04:00:00",
-      "end_time": "2026-02-06 06:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations."
-    },
-    {
-      "show_name": "Bloomberg Horizons Middle East...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 06:00:00",
-      "end_time": "2026-02-06 07:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Linking the market drivers from overnight in the US and across Asia into the region's trading day, with deep dive analysis of the top business, energy and geopolitical stories shaping decisions."
-    },
-    {
-      "show_name": "Bloomberg Daybreak: Europe",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 07:00:00",
-      "end_time": "2026-02-06 08:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Live from London, we catch you up with overnight markets news from the US and Asia. Plus, we'll tell you what matters for investors in Europe, giving you insight before trading begins."
-    },
-    {
-      "show_name": "Bloomberg: The Opening Trade",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 08:00:00",
-      "end_time": "2026-02-06 10:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Everything you need to know as markets open across Europe. We break down today's biggest stories and speak to guests with skin in the game. Hosted by Anna Edwards, Guy Johnson and Kriti Gupta."
-    },
-    {
-      "show_name": "The Pulse with Francine Lacqua",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 10:00:00",
-      "end_time": "2026-02-06 11:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops."
-    },
-    {
-      "show_name": "Bloomberg Brief",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 11:00:00",
-      "end_time": "2026-02-06 12:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Delivering the market news, data and analysis you need to set your agenda."
-    },
-    {
-      "show_name": "Bloomberg Surveillance",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 12:00:00",
-      "end_time": "2026-02-06 15:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern."
-    },
-    {
-      "show_name": "Bloomberg Open Interest",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 15:00:00",
-      "end_time": "2026-02-06 17:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Matt Miller, Katie Greifeld and Sonali Basak deliver the market-moving news you need to know to get a jump start on the US trading day."
-    },
-    {
-      "show_name": "Bloomberg Tech",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 17:00:00",
-      "end_time": "2026-02-06 18:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories."
-    },
-    {
-      "show_name": "Bloomberg Real Yield",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 18:00:00",
-      "end_time": "2026-02-06 19:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Sonali Basak discusses stories from the fixed income world with the biggest names in the field."
-    },
-    {
-      "show_name": "Bloomberg: Balance of Power",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 19:00:00",
-      "end_time": "2026-02-06 20:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts."
-    },
-    {
-      "show_name": "Bloomberg Businessweek Daily",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 20:00:00",
-      "end_time": "2026-02-06 21:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy."
-    },
-    {
-      "show_name": "Bloomberg The Close",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 21:00:00",
-      "end_time": "2026-02-06 23:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Alix Steel, Romaine Bostick and Scarlet Fu own the market-moving breaking news around the closing bell in this must-watch daily program to get an edge on equities, earnings and the economy."
-    },
-    {
-      "show_name": "Bloomberg: Balance of Power",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-06 23:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 00:00:00",
       "end_time": "2026-02-07 00:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts."
+    },
+    {
+      "show_name": "Bloomberg Wall Street Week",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 00:00:00",
+      "end_time": "2026-02-07 01:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York."
+    },
+    {
+      "show_name": "The Best Of Davos 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 01:00:00",
+      "end_time": "2026-02-07 01:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "A recap of Bloomberg TV coverage of Davos 2026 featuring interviews with global leaders in business, finance and politics. Hosted by Francine Lacqua."
+    },
+    {
+      "show_name": "The Mishal Husain Show",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 01:30:00",
+      "end_time": "2026-02-07 02:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons."
+    },
+    {
+      "show_name": "Bloomberg Screentime: The...",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 02:00:00",
+      "end_time": "2026-02-07 02:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "At Screentime, the icons and innovators behind today's entertainment revolution take the stage. The agenda: AI's creative takeover, the streaming wars, and what's next for legacy media."
+    },
+    {
+      "show_name": "Best of the Bloomberg Women...",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 02:30:00",
+      "end_time": "2026-02-07 02:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Highlights of the event which brings together the most influential female voices in finance from around the world to discuss the biggest themes facing the future of business."
+    },
+    {
+      "show_name": "Crypto IRL",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 02:30:00",
+      "end_time": "2026-02-07 03:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Tim Stenovec and Katie Greifeld make sense of the crypto world. From utility to energy to NFTs, from web3 to crime, this series is relaxed, conversational, accessible and full of insight."
+    },
+    {
+      "show_name": "The David Rubenstein Show",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 03:00:00",
+      "end_time": "2026-02-07 03:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Mike Pence, Former US Vice President - Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business."
+    },
+    {
+      "show_name": "The David Rubenstein Show",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 03:00:00",
+      "end_time": "2026-02-07 03:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business."
+    },
+    {
+      "show_name": "Bloomberg Chief Future Officer",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 03:30:00",
+      "end_time": "2026-02-07 04:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organisations to meet future challenges - this programme profiles them."
+    },
+    {
+      "show_name": "Bloomberg Wall Street Week",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 04:00:00",
+      "end_time": "2026-02-07 05:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York."
+    },
+    {
+      "show_name": "Bloomberg Front Row",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 05:00:00",
+      "end_time": "2026-02-07 05:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Providing key news and information through in-depth analysis along with exclusive interviews with some of the most influential names in finance."
+    },
+    {
+      "show_name": "Bloomberg Chief Future Officer",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 05:30:00",
+      "end_time": "2026-02-07 06:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organisations to meet future challenges - this programme profiles them."
+    },
+    {
+      "show_name": "Bloomberg Primer",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 06:00:00",
+      "end_time": "2026-02-07 06:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The Big Business of Drilling Deep Into the Earth - Geothermal has been the underdog of the energy industry - but that may be about to change as new startups use fracking technologies to expand potential geothermal sites."
+    },
+    {
+      "show_name": "Bloomberg Primer",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 06:30:00",
+      "end_time": "2026-02-07 07:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Why Money Is Flowing Into Geoengineering - Scientists and entrepreneurs are testing radical ideas like solar radiation management and ocean fertilisation - and finding funding for it."
+    },
+    {
+      "show_name": "Best of the Bloomberg Women...",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 07:00:00",
+      "end_time": "2026-02-07 07:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Highlights of the event which brings together the most influential female voices in finance from around the world to discuss the biggest themes facing the future of business."
+    },
+    {
+      "show_name": "Bloomberg New Economy: Thriving...",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 07:30:00",
+      "end_time": "2026-02-07 08:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore."
+    },
+    {
+      "show_name": "The Mishal Husain Show",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 08:00:00",
+      "end_time": "2026-02-07 08:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons."
+    },
+    {
+      "show_name": "The Mishal Husain Show",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 08:30:00",
+      "end_time": "2026-02-07 09:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons."
+    },
+    {
+      "show_name": "Bloomberg Wall Street Week",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 09:00:00",
+      "end_time": "2026-02-07 10:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York."
+    },
+    {
+      "show_name": "Bloomberg Next Africa",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 10:00:00",
+      "end_time": "2026-02-07 10:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "A monthly deep dive into Africa's biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa's quest of bridging the gap with global powers."
+    },
+    {
+      "show_name": "LEADERS with Francine Lacqua",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 10:30:00",
+      "end_time": "2026-02-07 11:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Theresa May and the Brutality of Politics - Former UK Prime Minister Theresa May speaks with Francine Lacqua about Vladimir Putin, and her approach to leadership in a world seeing a rise in \"strongmen."
+    },
+    {
+      "show_name": "LEADERS with Francine Lacqua",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 11:00:00",
+      "end_time": "2026-02-07 11:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Christine Lagarde on How to Lead Through Crisis - Francine Lacqua speaks to Christine Lagarde about Europe's economic crises, populism and how to lead through turbulent times."
+    },
+    {
+      "show_name": "Bloomberg New Economy: Thriving...",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 11:30:00",
+      "end_time": "2026-02-07 12:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore."
+    },
+    {
+      "show_name": "Bloomberg Wall Street Week",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 12:00:00",
+      "end_time": "2026-02-07 13:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York."
+    },
+    {
+      "show_name": "Bloomberg Screentime: The...",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 13:00:00",
+      "end_time": "2026-02-07 13:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "At Screentime, the icons and innovators behind today's entertainment revolution take the stage. The agenda: AI's creative takeover, the streaming wars, and what's next for legacy media."
+    },
+    {
+      "show_name": "Bloomberg Chief Future Officer",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 13:30:00",
+      "end_time": "2026-02-07 14:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gina Goetter, Hasbro - Gina Goetter is the CFO and COO of Hasbro. She's the architect of the company's transformation, diversifying its manufacturing footprint and investing in Hasbro's video game ambitions."
+    },
+    {
+      "show_name": "The Mishal Husain Show",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 14:00:00",
+      "end_time": "2026-02-07 14:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons."
+    },
+    {
+      "show_name": "The Mishal Husain Show",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 14:30:00",
+      "end_time": "2026-02-07 15:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons."
+    },
+    {
+      "show_name": "The David Rubenstein Show",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 15:00:00",
+      "end_time": "2026-02-07 15:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Mike Pence, Former US Vice President - Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business."
+    },
+    {
+      "show_name": "The Best Of Davos 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 15:30:00",
+      "end_time": "2026-02-07 16:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "A recap of Bloomberg TV coverage of Davos 2026 featuring interviews with global leaders in business, finance and politics. Hosted by Francine Lacqua."
+    },
+    {
+      "show_name": "Bloomberg Wall Street Week",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 16:00:00",
+      "end_time": "2026-02-07 17:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York."
+    },
+    {
+      "show_name": "The Circuit",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 17:00:00",
+      "end_time": "2026-02-07 17:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Reese Witherspoon - Emily meets Reese Witherspoon and the Hello Sunshine executive team to discuss the company's founding mission and what's next for Hollywood."
+    },
+    {
+      "show_name": "LEADERS with Francine Lacqua",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 17:30:00",
+      "end_time": "2026-02-07 18:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Christine Lagarde on How to Lead Through Crisis - Francine Lacqua speaks to Christine Lagarde about Europe's economic crises, populism and how to lead through turbulent times."
+    },
+    {
+      "show_name": "Bloomberg Next Africa",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 18:00:00",
+      "end_time": "2026-02-07 18:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "A monthly deep dive into Africa's biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa's quest of bridging the gap with global powers."
+    },
+    {
+      "show_name": "Bloomberg Originals",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 18:30:00",
+      "end_time": "2026-02-07 19:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it."
+    },
+    {
+      "show_name": "The David Rubenstein Show",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 19:00:00",
+      "end_time": "2026-02-07 19:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Mike Pence, Former US Vice President - Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business."
+    },
+    {
+      "show_name": "The Best Of Davos 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 19:30:00",
+      "end_time": "2026-02-07 21:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "A recap of Bloomberg TV coverage of Davos 2026 featuring interviews with global leaders in business, finance and politics. Hosted by Francine Lacqua."
+    },
+    {
+      "show_name": "The Circuit",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 21:00:00",
+      "end_time": "2026-02-07 21:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Reese Witherspoon - Emily meets Reese Witherspoon and the Hello Sunshine executive team to discuss the company's founding mission and what's next for Hollywood."
+    },
+    {
+      "show_name": "Bloomberg Chief Future Officer",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 21:30:00",
+      "end_time": "2026-02-07 22:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gina Goetter, Hasbro - Gina Goetter is the CFO and COO of Hasbro. She's the architect of the company's transformation, diversifying its manufacturing footprint and investing in Hasbro's video game ambitions."
+    },
+    {
+      "show_name": "Longevity with David Rubenstein",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 22:00:00",
+      "end_time": "2026-02-07 22:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "David Rubenstein explores the science of living longer by interviewing leading experts and examining the key barriers that still affect it: obesity, neurodegenerative diseases and cancer."
+    },
+    {
+      "show_name": "Longevity with David Rubenstein",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 22:30:00",
+      "end_time": "2026-02-07 23:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "David Rubenstein explores the science of living longer by interviewing leading experts and examining the key barriers that still affect it: obesity, neurodegenerative diseases and cancer."
+    },
+    {
+      "show_name": "Bloomberg Primer",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 23:00:00",
+      "end_time": "2026-02-07 23:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "How New Magnets Could Power the Future - Scientists are developing powerful magnets to enable clean energy sources like fusion. But China's dominance of the supply chain for rare-earth magnets threatens their global availability."
+    },
+    {
+      "show_name": "Bloomberg Primer",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-07 23:30:00",
+      "end_time": "2026-02-08 00:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Can Living Human Brain Cells Power AI? - We explore the world of biocomputing-where scientists are laying the foundation for a field that may blur the lines between the biological and synthetic."
     }
   ]
 }
