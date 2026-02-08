@@ -1,330 +1,420 @@
 {
   "channel_name": "CNBC HD",
-  "date": "2026-02-08",
+  "date": "2026-02-09",
   "programs": [
     {
       "show_name": "Late Night with Seth Meyers",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 00:00:00",
-      "end_time": "2026-02-08 00:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "S5 Ep58 - Seth Meyers with guests. (US TX: 10 Jun 2025)."
-    },
-    {
-      "show_name": "Late Night with Seth Meyers",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 00:00:00",
-      "end_time": "2026-02-08 01:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "S5 Ep58 - Seth Meyers with guests. (US TX: 10 Jun 2025)."
-    },
-    {
-      "show_name": "Late Night with Seth Meyers",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 01:00:00",
-      "end_time": "2026-02-08 02:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "S5 Ep58 - Seth Meyers with guests. (US TX: 10 Jun 2025)."
-    },
-    {
-      "show_name": "The Score",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 02:00:00",
-      "end_time": "2026-02-08 02:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Ep6 - From TV rights to ticket sales and endorsement deals to merchandise, The Score reveals the biggest business stories behind the world's most popular sports."
-    },
-    {
-      "show_name": "Leaders Playbook",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 02:30:00",
-      "end_time": "2026-02-08 03:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Go inside Netflix, the #1 streaming platform in the world."
-    },
-    {
-      "show_name": "Executive Decisions",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 03:00:00",
-      "end_time": "2026-02-08 03:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "'Executive Decisions' is a CNBC podcast offering a rare window into the minds of top decision-makers."
-    },
-    {
-      "show_name": "CNBC Sport: On the Record",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 03:30:00",
-      "end_time": "2026-02-08 04:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Conversations with two-time Super Bowl MVP Eli Manning, two-time WNBA MVP Candace Parker and three-time Super Bowl MVP Patrick Mahomes."
-    },
-    {
-      "show_name": "American Greed",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 04:00:00",
-      "end_time": "2026-02-08 05:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Karl Karlsen is a hardworking man with what seems to be a terrible streak of bad luck."
-    },
-    {
-      "show_name": "The Score",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 05:00:00",
-      "end_time": "2026-02-08 05:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Ep6 - From TV rights to ticket sales and endorsement deals to merchandise, The Score reveals the biggest business stories behind the world's most popular sports."
-    },
-    {
-      "show_name": "Leaders Playbook",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 05:30:00",
-      "end_time": "2026-02-08 06:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Go inside Netflix, the #1 streaming platform in the world."
-    },
-    {
-      "show_name": "Executive Decisions",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 06:00:00",
-      "end_time": "2026-02-08 06:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "'Executive Decisions' is a CNBC podcast offering a rare window into the minds of top decision-makers."
-    },
-    {
-      "show_name": "CNBC Sport: On the Record",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 06:30:00",
-      "end_time": "2026-02-08 07:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Conversations with two-time Super Bowl MVP Eli Manning, two-time WNBA MVP Candace Parker and three-time Super Bowl MVP Patrick Mahomes."
-    },
-    {
-      "show_name": "The Score",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 07:00:00",
-      "end_time": "2026-02-08 07:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Ep6 - From TV rights to ticket sales and endorsement deals to merchandise, The Score reveals the biggest business stories behind the world's most popular sports."
-    },
-    {
-      "show_name": "Leaders Playbook",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 07:30:00",
-      "end_time": "2026-02-08 08:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Go inside Netflix, the #1 streaming platform in the world."
-    },
-    {
-      "show_name": "Executive Decisions",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 08:00:00",
-      "end_time": "2026-02-08 08:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "'Executive Decisions' is a CNBC podcast offering a rare window into the minds of top decision-makers."
-    },
-    {
-      "show_name": "Answers with Bayless Conley",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 08:30:00",
-      "end_time": "2026-02-08 09:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "S5 Ep24 - Religious programming."
-    },
-    {
-      "show_name": "In Touch Ministries",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 09:00:00",
-      "end_time": "2026-02-08 09:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "S5 Ep34 - Religious programming."
-    },
-    {
-      "show_name": "New Creation Church with Joseph Prince",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 09:30:00",
-      "end_time": "2026-02-08 10:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Religious programming."
-    },
-    {
-      "show_name": "Executive Decisions",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 10:00:00",
-      "end_time": "2026-02-08 10:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "'Executive Decisions' is a CNBC podcast offering a rare window into the minds of top decision-makers."
-    },
-    {
-      "show_name": "CNBC Sport: On the Record",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 10:30:00",
-      "end_time": "2026-02-08 11:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Conversations with two-time Super Bowl MVP Eli Manning, two-time WNBA MVP Candace Parker and three-time Super Bowl MVP Patrick Mahomes."
-    },
-    {
-      "show_name": "American Greed",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 11:00:00",
-      "end_time": "2026-02-08 12:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Karl Karlsen is a hardworking man with what seems to be a terrible streak of bad luck."
-    },
-    {
-      "show_name": "CNBC Sports - PGA Tour",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 12:00:00",
-      "end_time": "2026-02-08 14:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Highlights from the latest PGA TOUR tournament."
-    },
-    {
-      "show_name": "UIM-ABP Aquabike World Championship",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 14:00:00",
-      "end_time": "2026-02-08 14:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep7 - The UIM-ABP Aquabike World Championship is the most acclaimed and prestigious international series promoting personal watercraft."
-    },
-    {
-      "show_name": "UIM-ABP Aquabike World Championship",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 14:30:00",
-      "end_time": "2026-02-08 15:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep7 - The UIM-ABP Aquabike World Championship is the most acclaimed and prestigious international series promoting personal watercraft."
-    },
-    {
-      "show_name": "Longines Fei Jumping World Cup...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 15:00:00",
-      "end_time": "2026-02-08 16:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "... - North American League: The Longines FEI Jumping World Cup Series features qualifying competitions held around the world and a Final each Spring."
-    },
-    {
-      "show_name": "The Score",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 16:00:00",
-      "end_time": "2026-02-08 16:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Ep6 - From TV rights to ticket sales and endorsement deals to merchandise, The Score reveals the biggest business stories behind the world's most popular sports."
-    },
-    {
-      "show_name": "Leaders Playbook",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 16:30:00",
-      "end_time": "2026-02-08 17:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Go inside Netflix, the #1 streaming platform in the world."
-    },
-    {
-      "show_name": "American Greed: Biggest Cons",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 17:00:00",
-      "end_time": "2026-02-08 18:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Eric Conn, the convicted mastermind of the largest U.S. Social Security fraud in history vanishes and is apprehended, but leaves thousands of his clients struggling to survive."
-    },
-    {
-      "show_name": "Executive Decisions",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 18:00:00",
-      "end_time": "2026-02-08 18:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "'Executive Decisions' is a CNBC podcast offering a rare window into the minds of top decision-makers."
-    },
-    {
-      "show_name": "CNBC Sport: On the Record",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 18:30:00",
-      "end_time": "2026-02-08 19:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Conversations with two-time Super Bowl MVP Eli Manning, two-time WNBA MVP Candace Parker and three-time Super Bowl MVP Patrick Mahomes."
-    },
-    {
-      "show_name": "The Score",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 19:00:00",
-      "end_time": "2026-02-08 19:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Ep6 - From TV rights to ticket sales and endorsement deals to merchandise, The Score reveals the biggest business stories behind the world's most popular sports."
-    },
-    {
-      "show_name": "Leaders Playbook",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 19:30:00",
-      "end_time": "2026-02-08 21:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Go inside Netflix, the #1 streaming platform in the world."
-    },
-    {
-      "show_name": "Executive Decisions",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 21:00:00",
-      "end_time": "2026-02-08 21:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "'Executive Decisions' is a CNBC podcast offering a rare window into the minds of top decision-makers."
-    },
-    {
-      "show_name": "CNBC Sport: On the Record",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 21:30:00",
-      "end_time": "2026-02-08 22:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Conversations with two-time Super Bowl MVP Eli Manning, two-time WNBA MVP Candace Parker and three-time Super Bowl MVP Patrick Mahomes."
-    },
-    {
-      "show_name": "Late Night with Seth Meyers",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 22:00:00",
-      "end_time": "2026-02-08 23:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "S5 Ep58 - Seth Meyers with guests. (US TX: 10 Jun 2025)."
-    },
-    {
-      "show_name": "Late Night with Seth Meyers",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 23:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 00:00:00",
       "end_time": "2026-02-09 00:00:00",
       "episode_number": "",
       "show_category": "Intrattenimento",
       "show_description": "S5 Ep58 - Seth Meyers with guests. (US TX: 10 Jun 2025)."
+    },
+    {
+      "show_name": "Squawk Box Asia",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 00:00:00",
+      "end_time": "2026-02-09 00:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep6 - Squawk Box Asia is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia's business trading day."
+    },
+    {
+      "show_name": "Squawk Box Asia",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 00:30:00",
+      "end_time": "2026-02-09 01:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep6 - Squawk Box Asia is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia's business trading day."
+    },
+    {
+      "show_name": "Squawk Box Asia",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 01:00:00",
+      "end_time": "2026-02-09 01:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep6 - Squawk Box Asia is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia's business trading day."
+    },
+    {
+      "show_name": "Squawk Box Asia",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 01:30:00",
+      "end_time": "2026-02-09 02:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep6 - Squawk Box Asia is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia's business trading day."
+    },
+    {
+      "show_name": "Squawk Box Asia",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 02:00:00",
+      "end_time": "2026-02-09 02:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep6 - Squawk Box Asia is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia's business trading day."
+    },
+    {
+      "show_name": "Squawk Box Asia",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 02:30:00",
+      "end_time": "2026-02-09 03:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep6 - Squawk Box Asia is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia's business trading day."
+    },
+    {
+      "show_name": "The China Connection",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 03:00:00",
+      "end_time": "2026-02-09 03:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep2 - The China Connection delivers in-depth analysis of China's economy, markets and its relationship with the global landscape."
+    },
+    {
+      "show_name": "The China Connection",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 03:30:00",
+      "end_time": "2026-02-09 04:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep2 - The China Connection delivers in-depth analysis of China's economy, markets and its relationship with the global landscape."
+    },
+    {
+      "show_name": "Inside India",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 04:00:00",
+      "end_time": "2026-02-09 04:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep2 - CNBC's Inside India gives you news and market commentary on the emerging powerhouse, businesses and people behind its rise."
+    },
+    {
+      "show_name": "Inside India",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 04:30:00",
+      "end_time": "2026-02-09 05:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep2 - CNBC's Inside India gives you news and market commentary on the emerging powerhouse, businesses and people behind its rise."
+    },
+    {
+      "show_name": "Access Middle East",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 05:00:00",
+      "end_time": "2026-02-09 05:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep2 - With exclusive interviews and high-level analysis, the program brings viewers closer to the decision-makers deploying capital."
+    },
+    {
+      "show_name": "Access Middle East",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 05:30:00",
+      "end_time": "2026-02-09 06:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep2 - With exclusive interviews and high-level analysis, the program brings viewers closer to the decision-makers deploying capital."
+    },
+    {
+      "show_name": "The Score",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 06:00:00",
+      "end_time": "2026-02-09 06:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Ep6 - From TV rights to ticket sales and endorsement deals to merchandise, The Score reveals the biggest business stories behind the world's most popular sports."
+    },
+    {
+      "show_name": "Leaders Playbook",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 06:30:00",
+      "end_time": "2026-02-09 07:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Go inside Netflix, the #1 streaming platform in the world."
+    },
+    {
+      "show_name": "Europe Early Edition",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 07:00:00",
+      "end_time": "2026-02-09 07:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep2 - Start your trading day with Europe Early Edition as major European financial centres take the reins of global markets."
+    },
+    {
+      "show_name": "Europe Early Edition",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 07:30:00",
+      "end_time": "2026-02-09 08:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep2 - Start your trading day with Europe Early Edition as major European financial centres take the reins of global markets."
+    },
+    {
+      "show_name": "Squawk Box Europe",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 08:00:00",
+      "end_time": "2026-02-09 08:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep1 - It's one hour until the opening bell in Europe and Squawk Box Europe has everything you need to prepare for the first trade."
+    },
+    {
+      "show_name": "Squawk Box Europe",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 08:30:00",
+      "end_time": "2026-02-09 09:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep1 - It's one hour until the opening bell in Europe and Squawk Box Europe has everything you need to prepare for the first trade."
+    },
+    {
+      "show_name": "Squawk Box Europe",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 09:00:00",
+      "end_time": "2026-02-09 09:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep1 - It's one hour until the opening bell in Europe and Squawk Box Europe has everything you need to prepare for the first trade."
+    },
+    {
+      "show_name": "Squawk Box Europe",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 09:30:00",
+      "end_time": "2026-02-09 10:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep1 - It's one hour until the opening bell in Europe and Squawk Box Europe has everything you need to prepare for the first trade."
+    },
+    {
+      "show_name": "Squawk Box Europe",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 10:00:00",
+      "end_time": "2026-02-09 10:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep1 - It's one hour until the opening bell in Europe and Squawk Box Europe has everything you need to prepare for the first trade."
+    },
+    {
+      "show_name": "Squawk Box Europe",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 10:30:00",
+      "end_time": "2026-02-09 11:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep1 - It's one hour until the opening bell in Europe and Squawk Box Europe has everything you need to prepare for the first trade."
+    },
+    {
+      "show_name": "Worldwide Exchange",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 11:00:00",
+      "end_time": "2026-02-09 11:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep1 - Broadcast from CNBC Global Headquarters in Englewood Cliffs, N.J., CNBC's Worldwide Exchange delivers actionable information and analysis."
+    },
+    {
+      "show_name": "Worldwide Exchange",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 11:30:00",
+      "end_time": "2026-02-09 12:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep1 - Broadcast from CNBC Global Headquarters in Englewood Cliffs, N.J., CNBC's Worldwide Exchange delivers actionable information and analysis."
+    },
+    {
+      "show_name": "US Squawk Box",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 12:00:00",
+      "end_time": "2026-02-09 12:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep3 - Squawk Box is the ultimate pre-market morning news and talk program, where the biggest names in business and politics tell their most important stories."
+    },
+    {
+      "show_name": "US Squawk Box",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 12:30:00",
+      "end_time": "2026-02-09 13:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep3 - Squawk Box is the ultimate pre-market morning news and talk program, where the biggest names in business and politics tell their most important stories."
+    },
+    {
+      "show_name": "US Squawk Box",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 13:00:00",
+      "end_time": "2026-02-09 13:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep3 - Squawk Box is the ultimate pre-market morning news and talk program, where the biggest names in business and politics tell their most important stories."
+    },
+    {
+      "show_name": "US Squawk Box",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 13:30:00",
+      "end_time": "2026-02-09 14:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep3 - Squawk Box is the ultimate pre-market morning news and talk program, where the biggest names in business and politics tell their most important stories."
+    },
+    {
+      "show_name": "US Squawk Box",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 14:00:00",
+      "end_time": "2026-02-09 14:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep3 - Squawk Box is the ultimate pre-market morning news and talk program, where the biggest names in business and politics tell their most important stories."
+    },
+    {
+      "show_name": "US Squawk Box",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 14:30:00",
+      "end_time": "2026-02-09 15:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep3 - Squawk Box is the ultimate pre-market morning news and talk program, where the biggest names in business and politics tell their most important stories."
+    },
+    {
+      "show_name": "Squawk on the Street",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 15:00:00",
+      "end_time": "2026-02-09 15:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Ep3 - Headquartered live on the floor of the New York Stock Exchange (NYSE) where the biggest companies in the world trade, ''Squawk On The Street'' tracks the action of every stock."
+    },
+    {
+      "show_name": "Squawk on the Street",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 15:30:00",
+      "end_time": "2026-02-09 16:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Ep3 - Headquartered live on the floor of the New York Stock Exchange (NYSE) where the biggest companies in the world trade, ''Squawk On The Street'' tracks the action of every stock."
+    },
+    {
+      "show_name": "Squawk on the Street",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 16:00:00",
+      "end_time": "2026-02-09 16:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Ep3 - Headquartered live on the floor of the New York Stock Exchange (NYSE) where the biggest companies in the world trade, ''Squawk On The Street'' tracks the action of every stock."
+    },
+    {
+      "show_name": "Squawk on the Street",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 16:30:00",
+      "end_time": "2026-02-09 17:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Ep3 - Headquartered live on the floor of the New York Stock Exchange (NYSE) where the biggest companies in the world trade, ''Squawk On The Street'' tracks the action of every stock."
+    },
+    {
+      "show_name": "Money Movers",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 17:00:00",
+      "end_time": "2026-02-09 17:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep1 - TechCheck attracts the most influential and disruptive voices in the global technology landscape."
+    },
+    {
+      "show_name": "Money Movers",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 17:30:00",
+      "end_time": "2026-02-09 18:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep1 - TechCheck attracts the most influential and disruptive voices in the global technology landscape."
+    },
+    {
+      "show_name": "Halftime Report",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 18:00:00",
+      "end_time": "2026-02-09 18:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Ep1 - ''Halftime Report'' is on the front lines of CNBC's market coverage."
+    },
+    {
+      "show_name": "Halftime Report",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 18:30:00",
+      "end_time": "2026-02-09 19:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Ep1 - ''Halftime Report'' is on the front lines of CNBC's market coverage."
+    },
+    {
+      "show_name": "The Exchange",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 19:00:00",
+      "end_time": "2026-02-09 19:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Ep2 - CNBC's 'The Exchange' is the newsroom-based program for today's investor."
+    },
+    {
+      "show_name": "The Exchange",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 19:30:00",
+      "end_time": "2026-02-09 21:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Ep2 - CNBC's 'The Exchange' is the newsroom-based program for today's investor."
+    },
+    {
+      "show_name": "Closing Bell",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 21:00:00",
+      "end_time": "2026-02-09 21:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Ep2 - Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most."
+    },
+    {
+      "show_name": "Closing Bell",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 21:30:00",
+      "end_time": "2026-02-09 22:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Ep2 - Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most."
+    },
+    {
+      "show_name": "Closing Bell: Overtime",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 22:00:00",
+      "end_time": "2026-02-09 22:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep1 - When the bell rings, the action does not end. Closing Bell: Overtime takes you through all of the after-hours moves."
+    },
+    {
+      "show_name": "Closing Bell: Overtime",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 22:30:00",
+      "end_time": "2026-02-09 23:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep1 - When the bell rings, the action does not end. Closing Bell: Overtime takes you through all of the after-hours moves."
+    },
+    {
+      "show_name": "U.S. Markets Edition",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-09 23:00:00",
+      "end_time": "2026-02-10 00:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "S1 Ep39 - View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview."
     }
   ]
 }

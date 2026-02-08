@@ -1,1005 +1,1104 @@
 {
   "channel_name": "France 24 English HD",
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "programs": [
     {
-      "show_name": "The World This Week",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 00:00:00",
-      "end_time": "2026-02-07 00:00:00",
+      "show_name": "Tete a tete",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 00:00:00",
+      "end_time": "2026-02-08 00:00:00",
       "episode_number": "",
       "show_category": "Intrattenimento",
-      "show_description": "Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments."
+      "show_description": "An interview with a personality from the world of economics, politics, culture or diplomacy."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 00:00:00",
-      "end_time": "2026-02-07 00:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "French Connections",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 00:15:00",
-      "end_time": "2026-02-07 00:21:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "French Connections revolves around France, its top stories and news, its experience in various spheres and cultural life, sport events, health care and education, cuisine and so much more. Find out what is like to live in France, get to know its regions, and feel the true taste of France."
-    },
-    {
-      "show_name": "Focus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 00:21:00",
-      "end_time": "2026-02-07 00:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what's going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 00:30:00",
-      "end_time": "2026-02-07 00:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Arts24",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 00:45:00",
-      "end_time": "2026-02-07 01:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Daily international culture news from the world's art, food and fashion capital, Paris."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 01:00:00",
-      "end_time": "2026-02-07 01:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "People And Profit",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 01:15:00",
-      "end_time": "2026-02-07 01:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "People and Profit presents top business stories, analyses latest trends and explains what and how impact business operations. Find out what the business prospects are, how business and economic situation affect each and everyone."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 01:30:00",
-      "end_time": "2026-02-07 01:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Eye on Africa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 01:45:00",
-      "end_time": "2026-02-07 02:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Join Georja Calvin-Smith for all the news from Africa and the Maghreb, together with France 24's correspondents and guests of the show. Eye on Africa is on every week day twice a day. Have a look at African life and find out what is going on there in the sphere of politics, health care, business."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 02:00:00",
-      "end_time": "2026-02-07 02:10:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "The World This Week",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 02:10:00",
-      "end_time": "2026-02-07 03:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 03:00:00",
-      "end_time": "2026-02-07 03:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Across Africa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 03:15:00",
-      "end_time": "2026-02-07 03:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Across Africa is a weekly news program presenting latest updates and stories from the African continent to the world. Get up-to-date full coverage of politics, social events, economic analysis with the help of our team of professional reporters."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 03:30:00",
-      "end_time": "2026-02-07 03:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Scoop",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 03:45:00",
-      "end_time": "2026-02-07 04:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scoop\" provides a critical lens on the ever-evolving media landscape."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 04:00:00",
-      "end_time": "2026-02-07 04:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Eye on Africa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 04:15:00",
-      "end_time": "2026-02-07 04:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Join Georja Calvin-Smith for all the news from Africa and the Maghreb, together with France 24's correspondents and guests of the show. Eye on Africa is on every week day twice a day. Have a look at African life and find out what is going on there in the sphere of politics, health care, business."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 04:30:00",
-      "end_time": "2026-02-07 04:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Arts24",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 04:45:00",
-      "end_time": "2026-02-07 05:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Daily international culture news from the world's art, food and fashion capital, Paris."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 05:00:00",
-      "end_time": "2026-02-07 05:12:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "The World This Week",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 05:12:00",
-      "end_time": "2026-02-07 06:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 06:00:00",
-      "end_time": "2026-02-07 06:20:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Sports Sunday",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 06:20:00",
-      "end_time": "2026-02-07 06:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Sports Sunday presents top scores and covers top sports news from all over the world and latest sports events. In ten minutes Elliot Richardson provides sports round-up for you not to miss a thing."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 06:30:00",
-      "end_time": "2026-02-07 07:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 07:00:00",
-      "end_time": "2026-02-07 07:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 07:30:00",
-      "end_time": "2026-02-07 08:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 08:00:00",
-      "end_time": "2026-02-07 08:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Guest of the day",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 08:15:00",
-      "end_time": "2026-02-07 08:30:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Guest of the day."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 08:30:00",
-      "end_time": "2026-02-07 09:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 09:00:00",
-      "end_time": "2026-02-07 09:14:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 09:14:00",
-      "end_time": "2026-02-07 09:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Access Asia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 09:15:00",
-      "end_time": "2026-02-07 09:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Access Asia opens the diverse continent and presents news from its segments to the audience. Get the latest updates on the social events and political stories, thorough analysis of the cutting-edge current affairs from India, China, Indonesia, Australia and other countries."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 09:30:00",
-      "end_time": "2026-02-07 09:44:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 09:44:00",
-      "end_time": "2026-02-07 09:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 00:00:00",
+      "end_time": "2026-02-08 00:15:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
     },
     {
       "show_name": "The Observers",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 09:45:00",
-      "end_time": "2026-02-07 09:51:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 00:15:00",
+      "end_time": "2026-02-08 00:21:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "The Observers on France 24 is a weekly show produced with photos, videos and personal accounts from Observers around the world. Top international current affairs are covered by using eyewitness accounts from Observers- people who are at the heart of an event. They send their photos and videos, which are verified and contextualized by France 24 team of professional journalists in Paris."
     },
     {
       "show_name": "Focus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 09:51:00",
-      "end_time": "2026-02-07 10:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 00:21:00",
+      "end_time": "2026-02-08 00:30:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what's going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 10:00:00",
-      "end_time": "2026-02-07 10:09:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 10:09:00",
-      "end_time": "2026-02-07 10:10:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Revisited",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 10:10:00",
-      "end_time": "2026-02-07 10:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Revisited presents certain places in different parts of the world several years after some significant events or accidents. See what the current situation is and find out what people think and feel after a while. Are there any changes?"
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 10:30:00",
-      "end_time": "2026-02-07 10:39:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 10:39:00",
-      "end_time": "2026-02-07 10:40:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "The Paris of the Arts",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 10:40:00",
-      "end_time": "2026-02-07 10:55:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "See Paris through the eyes of an artist for a cultural insight into their favourite haunts."
-    },
-    {
-      "show_name": "Short Cuts",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 10:55:00",
-      "end_time": "2026-02-07 11:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Inspiring topics and positive initiatives that are changing the world."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 11:00:00",
-      "end_time": "2026-02-07 11:14:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 11:14:00",
-      "end_time": "2026-02-07 11:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 00:30:00",
+      "end_time": "2026-02-08 00:45:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
     },
     {
       "show_name": "Arts24",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 11:15:00",
-      "end_time": "2026-02-07 11:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 00:45:00",
+      "end_time": "2026-02-08 01:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Daily international culture news from the world's art, food and fashion capital, Paris."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 11:30:00",
-      "end_time": "2026-02-07 11:44:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 11:44:00",
-      "end_time": "2026-02-07 11:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Focus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 11:45:00",
-      "end_time": "2026-02-07 11:50:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what's going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you."
-    },
-    {
-      "show_name": "Sports",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 11:50:00",
-      "end_time": "2026-02-07 12:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Un suivi de toutes les news sportives et les resultats avec ce magazine anime par des specialistes du football, du basketball, du tennis et du cyclisme."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 12:00:00",
-      "end_time": "2026-02-07 12:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Guest of the day",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 12:15:00",
-      "end_time": "2026-02-07 12:30:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Guest of the day."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 12:30:00",
-      "end_time": "2026-02-07 12:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "The 51 Percent",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 12:45:00",
-      "end_time": "2026-02-07 13:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "The 51 Percent is revolving around women and their role in the world. The program presents various stories of women with different backgrounds, women fighting for equality, women in politics and their work, women promoting sexual education all over the world, women in sports, and women on the front line."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 13:00:00",
-      "end_time": "2026-02-07 13:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "A Week in France",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 13:15:00",
-      "end_time": "2026-02-07 13:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Politics, economy, society - all the essential news from France, as seen by the France 24 teams."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 13:30:00",
-      "end_time": "2026-02-07 13:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "The Reporter's Week",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 13:45:00",
-      "end_time": "2026-02-07 14:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "International in-depth reports from the France 24 teams and senior reporters around the world."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 14:00:00",
-      "end_time": "2026-02-07 14:09:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 14:09:00",
-      "end_time": "2026-02-07 14:10:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 01:00:00",
+      "end_time": "2026-02-08 01:12:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
     },
     {
       "show_name": "The Paris of the Arts",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 14:10:00",
-      "end_time": "2026-02-07 14:25:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 01:12:00",
+      "end_time": "2026-02-08 01:30:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "See Paris through the eyes of an artist for a cultural insight into their favourite haunts."
     },
     {
-      "show_name": "Short Cuts",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 14:25:00",
-      "end_time": "2026-02-07 14:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Inspiring topics and positive initiatives that are changing the world."
-    },
-    {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 14:30:00",
-      "end_time": "2026-02-07 14:39:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 14:39:00",
-      "end_time": "2026-02-07 14:40:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Revisited",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 14:40:00",
-      "end_time": "2026-02-07 15:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Revisited presents certain places in different parts of the world several years after some significant events or accidents. See what the current situation is and find out what people think and feel after a while. Are there any changes?"
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 15:00:00",
-      "end_time": "2026-02-07 15:14:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 15:14:00",
-      "end_time": "2026-02-07 15:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "French Connections",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 15:15:00",
-      "end_time": "2026-02-07 15:21:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "French Connections revolves around France, its top stories and news, its experience in various spheres and cultural life, sport events, health care and education, cuisine and so much more. Find out what is like to live in France, get to know its regions, and feel the true taste of France."
-    },
-    {
-      "show_name": "Entre Nous",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 15:21:00",
-      "end_time": "2026-02-07 15:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "From life questions, to social norms, to what is making headlines in France: an in-depth look at our society."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 15:30:00",
-      "end_time": "2026-02-07 15:44:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 15:44:00",
-      "end_time": "2026-02-07 15:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Arts24",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 15:45:00",
-      "end_time": "2026-02-07 16:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Daily international culture news from the world's art, food and fashion capital, Paris."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 16:00:00",
-      "end_time": "2026-02-07 16:14:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 16:14:00",
-      "end_time": "2026-02-07 16:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 01:30:00",
+      "end_time": "2026-02-08 01:42:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
     },
     {
       "show_name": "Across Africa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 16:15:00",
-      "end_time": "2026-02-07 16:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 01:42:00",
+      "end_time": "2026-02-08 01:54:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Across Africa is a weekly news program presenting latest updates and stories from the African continent to the world. Get up-to-date full coverage of politics, social events, economic analysis with the help of our team of professional reporters."
     },
     {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 16:30:00",
-      "end_time": "2026-02-07 16:44:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 16:44:00",
-      "end_time": "2026-02-07 16:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Tete a tete",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 16:45:00",
-      "end_time": "2026-02-07 17:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "An interview with a personality from the world of economics, politics, culture or diplomacy."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 17:00:00",
-      "end_time": "2026-02-07 17:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Top Story",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 17:15:00",
-      "end_time": "2026-02-07 17:30:00",
+      "show_name": "Short Cuts",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 01:54:00",
+      "end_time": "2026-02-08 02:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Take a look at the latest and most important top stories that are happening in France and around the globe."
+      "show_description": "Inspiring topics and positive initiatives that are changing the world."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 17:30:00",
-      "end_time": "2026-02-07 17:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 02:00:00",
+      "end_time": "2026-02-08 02:15:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
     },
     {
-      "show_name": "Global Grid",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 17:45:00",
-      "end_time": "2026-02-07 18:00:00",
+      "show_name": "People And Profit",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 02:15:00",
+      "end_time": "2026-02-08 02:30:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "France 24's International Affairs Editors come on set to give you their take on world events."
+      "show_description": "People and Profit presents top business stories, analyses latest trends and explains what and how impact business operations. Find out what the business prospects are, how business and economic situation affect each and everyone."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 18:00:00",
-      "end_time": "2026-02-07 18:13:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 02:30:00",
+      "end_time": "2026-02-08 02:45:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
     },
     {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 18:13:00",
-      "end_time": "2026-02-07 18:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Talking Europe",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 18:15:00",
-      "end_time": "2026-02-07 18:30:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Talking Europe guides you to the world of Europe's politics and cultures. Presented by Catherine Nicholson, the program revolves around top EU issues and events. Find out latest news from politicians and researchers joined by the guests of the program."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 18:30:00",
-      "end_time": "2026-02-07 18:43:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 18:43:00",
-      "end_time": "2026-02-07 18:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Talking Europe",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 18:45:00",
-      "end_time": "2026-02-07 19:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Talking Europe guides you to the world of Europe's politics and cultures. Presented by Catherine Nicholson, the program revolves around top EU issues and events. Find out latest news from politicians and researchers joined by the guests of the program."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 19:00:00",
-      "end_time": "2026-02-07 19:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 19:15:00",
-      "end_time": "2026-02-07 19:16:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "French Connections",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 19:16:00",
-      "end_time": "2026-02-07 19:22:00",
+      "show_name": "The 51 Percent",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 02:45:00",
+      "end_time": "2026-02-08 03:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "French Connections revolves around France, its top stories and news, its experience in various spheres and cultural life, sport events, health care and education, cuisine and so much more. Find out what is like to live in France, get to know its regions, and feel the true taste of France."
-    },
-    {
-      "show_name": "Focus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 19:22:00",
-      "end_time": "2026-02-07 19:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what's going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you."
+      "show_description": "The 51 Percent is revolving around women and their role in the world. The program presents various stories of women with different backgrounds, women fighting for equality, women in politics and their work, women promoting sexual education all over the world, women in sports, and women on the front line."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 19:30:00",
-      "end_time": "2026-02-07 19:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 19:45:00",
-      "end_time": "2026-02-07 19:46:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "France In Focus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 19:46:00",
-      "end_time": "2026-02-07 21:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "France in Focus brings top stories and most essential reports on France, its political and social life. Be the first to know about latest events in politics, culture and economy, find out about the present and future of medicine, magnificent French heritage and so much more."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 21:00:00",
-      "end_time": "2026-02-07 21:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 03:00:00",
+      "end_time": "2026-02-08 03:15:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
     },
     {
       "show_name": "Reporters",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 21:15:00",
-      "end_time": "2026-02-07 21:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 03:15:00",
+      "end_time": "2026-02-08 03:30:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Avec les equipes de France 24 et les grands reporters aux quatre coins du monde, une decouverte des reportages long format sur des sujets d'actualite internationale."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 21:30:00",
-      "end_time": "2026-02-07 21:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 03:30:00",
+      "end_time": "2026-02-08 03:45:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
     },
     {
-      "show_name": "The Reporter's Week",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 21:45:00",
-      "end_time": "2026-02-07 22:00:00",
+      "show_name": "A Week in France",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 03:45:00",
+      "end_time": "2026-02-08 04:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "International in-depth reports from the France 24 teams and senior reporters around the world."
+      "show_description": "Politics, economy, society - all the essential news from France, as seen by the France 24 teams."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 22:00:00",
-      "end_time": "2026-02-07 22:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 04:00:00",
+      "end_time": "2026-02-08 04:15:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
     },
     {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 22:15:00",
-      "end_time": "2026-02-07 22:16:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "Sports Sunday",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 22:16:00",
-      "end_time": "2026-02-07 22:30:00",
+      "show_name": "Access Asia",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 04:15:00",
+      "end_time": "2026-02-08 04:30:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Sports Sunday presents top scores and covers top sports news from all over the world and latest sports events. In ten minutes Elliot Richardson provides sports round-up for you not to miss a thing."
+      "show_description": "Access Asia opens the diverse continent and presents news from its segments to the audience. Get the latest updates on the social events and political stories, thorough analysis of the cutting-edge current affairs from India, China, Indonesia, Australia and other countries."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 22:30:00",
-      "end_time": "2026-02-07 22:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 22:45:00",
-      "end_time": "2026-02-07 22:46:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 04:30:00",
+      "end_time": "2026-02-08 04:45:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
     },
     {
       "show_name": "Arts24",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 22:46:00",
-      "end_time": "2026-02-07 23:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 04:45:00",
+      "end_time": "2026-02-08 05:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Daily international culture news from the world's art, food and fashion capital, Paris."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 23:00:00",
-      "end_time": "2026-02-07 23:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 05:00:00",
+      "end_time": "2026-02-08 05:14:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 05:14:00",
+      "end_time": "2026-02-08 05:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Sports",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 05:15:00",
+      "end_time": "2026-02-08 05:21:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Un suivi de toutes les news sportives et les resultats avec ce magazine anime par des specialistes du football, du basketball, du tennis et du cyclisme."
+    },
+    {
+      "show_name": "The Observers",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 05:21:00",
+      "end_time": "2026-02-08 05:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "The Observers on France 24 is a weekly show produced with photos, videos and personal accounts from Observers around the world. Top international current affairs are covered by using eyewitness accounts from Observers- people who are at the heart of an event. They send their photos and videos, which are verified and contextualized by France 24 team of professional journalists in Paris."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 05:30:00",
+      "end_time": "2026-02-08 05:44:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 05:44:00",
+      "end_time": "2026-02-08 05:45:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
     },
     {
       "show_name": "French Connections",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 23:15:00",
-      "end_time": "2026-02-07 23:21:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 05:45:00",
+      "end_time": "2026-02-08 05:51:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "French Connections revolves around France, its top stories and news, its experience in various spheres and cultural life, sport events, health care and education, cuisine and so much more. Find out what is like to live in France, get to know its regions, and feel the true taste of France."
     },
     {
       "show_name": "Fashion",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 23:21:00",
-      "end_time": "2026-02-07 23:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 05:51:00",
+      "end_time": "2026-02-08 06:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Young creative minds and experienced gurus of fashion present their collections to the audience. Be aware of what is in the spotlight every season and find out the latest trends. Follow haute couture news, videos, reports and analyses, and look behind the scene of Parisian catwalks."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 23:30:00",
-      "end_time": "2026-02-07 23:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 06:00:00",
+      "end_time": "2026-02-08 06:20:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Sports Sunday",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 06:20:00",
+      "end_time": "2026-02-08 06:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Sports Sunday presents top scores and covers top sports news from all over the world and latest sports events. In ten minutes Elliot Richardson provides sports round-up for you not to miss a thing."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 06:30:00",
+      "end_time": "2026-02-08 07:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 07:00:00",
+      "end_time": "2026-02-08 07:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 07:30:00",
+      "end_time": "2026-02-08 08:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 08:00:00",
+      "end_time": "2026-02-08 08:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Guest of the day",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 08:15:00",
+      "end_time": "2026-02-08 08:30:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Guest of the day."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 08:30:00",
+      "end_time": "2026-02-08 09:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 09:00:00",
+      "end_time": "2026-02-08 09:14:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 09:14:00",
+      "end_time": "2026-02-08 09:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Entre Nous",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 09:15:00",
+      "end_time": "2026-02-08 09:20:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "From life questions, to social norms, to what is making headlines in France: an in-depth look at our society."
+    },
+    {
+      "show_name": "Focus",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 09:20:00",
+      "end_time": "2026-02-08 09:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what's going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 09:30:00",
+      "end_time": "2026-02-08 09:44:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 09:44:00",
+      "end_time": "2026-02-08 09:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Reporters",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 09:45:00",
+      "end_time": "2026-02-08 10:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Avec les equipes de France 24 et les grands reporters aux quatre coins du monde, une decouverte des reportages long format sur des sujets d'actualite internationale."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 10:00:00",
+      "end_time": "2026-02-08 10:14:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 10:14:00",
+      "end_time": "2026-02-08 10:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Talking Europe",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 10:15:00",
+      "end_time": "2026-02-08 10:30:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Talking Europe guides you to the world of Europe's politics and cultures. Presented by Catherine Nicholson, the program revolves around top EU issues and events. Find out latest news from politicians and researchers joined by the guests of the program."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 10:30:00",
+      "end_time": "2026-02-08 10:44:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 10:44:00",
+      "end_time": "2026-02-08 10:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Talking Europe",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 10:45:00",
+      "end_time": "2026-02-08 11:00:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Talking Europe guides you to the world of Europe's politics and cultures. Presented by Catherine Nicholson, the program revolves around top EU issues and events. Find out latest news from politicians and researchers joined by the guests of the program."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 11:00:00",
+      "end_time": "2026-02-08 11:14:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 11:14:00",
+      "end_time": "2026-02-08 11:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Arts24",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 11:15:00",
+      "end_time": "2026-02-08 11:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Daily international culture news from the world's art, food and fashion capital, Paris."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 11:30:00",
+      "end_time": "2026-02-08 11:44:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 11:44:00",
+      "end_time": "2026-02-08 11:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Focus",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 11:45:00",
+      "end_time": "2026-02-08 11:50:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what's going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you."
+    },
+    {
+      "show_name": "Sports",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 11:50:00",
+      "end_time": "2026-02-08 12:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Un suivi de toutes les news sportives et les resultats avec ce magazine anime par des specialistes du football, du basketball, du tennis et du cyclisme."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 12:00:00",
+      "end_time": "2026-02-08 12:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Guest of the day",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 12:15:00",
+      "end_time": "2026-02-08 12:30:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Guest of the day."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 12:30:00",
+      "end_time": "2026-02-08 12:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "People And Profit",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 12:45:00",
+      "end_time": "2026-02-08 13:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "People and Profit presents top business stories, analyses latest trends and explains what and how impact business operations. Find out what the business prospects are, how business and economic situation affect each and everyone."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 13:00:00",
+      "end_time": "2026-02-08 13:12:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 13:12:00",
+      "end_time": "2026-02-08 13:13:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "The Paris of the Arts",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 13:13:00",
+      "end_time": "2026-02-08 13:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "See Paris through the eyes of an artist for a cultural insight into their favourite haunts."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 13:30:00",
+      "end_time": "2026-02-08 13:42:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 13:42:00",
+      "end_time": "2026-02-08 13:43:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
     },
     {
       "show_name": "Tete a tete",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 23:45:00",
-      "end_time": "2026-02-08 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 13:43:00",
+      "end_time": "2026-02-08 13:55:00",
       "episode_number": "",
       "show_category": "Intrattenimento",
       "show_description": "An interview with a personality from the world of economics, politics, culture or diplomacy."
+    },
+    {
+      "show_name": "Short Cuts",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 13:55:00",
+      "end_time": "2026-02-08 14:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Inspiring topics and positive initiatives that are changing the world."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 14:00:00",
+      "end_time": "2026-02-08 14:09:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 14:09:00",
+      "end_time": "2026-02-08 14:10:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Across Africa",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 14:10:00",
+      "end_time": "2026-02-08 14:22:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Across Africa is a weekly news program presenting latest updates and stories from the African continent to the world. Get up-to-date full coverage of politics, social events, economic analysis with the help of our team of professional reporters."
+    },
+    {
+      "show_name": "Tech 24",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 14:22:00",
+      "end_time": "2026-02-08 14:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Programme focuses on the cutting-edge trends and news from the world of technology and showcases how exactly it is changing the planet. From digital revolution to the prediction of volcanoes activity, from virtual market of collectibles to space exploration and the search for extraterrestrial intelligence, all possible fields are changed for the better and revolutionized with the help of technologies."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 14:30:00",
+      "end_time": "2026-02-08 14:39:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 14:39:00",
+      "end_time": "2026-02-08 14:40:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Reporters",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 14:40:00",
+      "end_time": "2026-02-08 14:52:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Avec les equipes de France 24 et les grands reporters aux quatre coins du monde, une decouverte des reportages long format sur des sujets d'actualite internationale."
+    },
+    {
+      "show_name": "Focus",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 14:52:00",
+      "end_time": "2026-02-08 15:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what's going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 15:00:00",
+      "end_time": "2026-02-08 15:14:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 15:14:00",
+      "end_time": "2026-02-08 15:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "The Observers",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 15:15:00",
+      "end_time": "2026-02-08 15:21:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "The Observers on France 24 is a weekly show produced with photos, videos and personal accounts from Observers around the world. Top international current affairs are covered by using eyewitness accounts from Observers- people who are at the heart of an event. They send their photos and videos, which are verified and contextualized by France 24 team of professional journalists in Paris."
+    },
+    {
+      "show_name": "Focus",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 15:21:00",
+      "end_time": "2026-02-08 15:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what's going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 15:30:00",
+      "end_time": "2026-02-08 15:44:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 15:44:00",
+      "end_time": "2026-02-08 15:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Arts24",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 15:45:00",
+      "end_time": "2026-02-08 16:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Daily international culture news from the world's art, food and fashion capital, Paris."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 16:00:00",
+      "end_time": "2026-02-08 16:14:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 16:14:00",
+      "end_time": "2026-02-08 16:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Talking Europe",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 16:15:00",
+      "end_time": "2026-02-08 16:30:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Talking Europe guides you to the world of Europe's politics and cultures. Presented by Catherine Nicholson, the program revolves around top EU issues and events. Find out latest news from politicians and researchers joined by the guests of the program."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 16:30:00",
+      "end_time": "2026-02-08 16:44:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 16:44:00",
+      "end_time": "2026-02-08 16:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Talking Europe",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 16:45:00",
+      "end_time": "2026-02-08 17:00:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Talking Europe guides you to the world of Europe's politics and cultures. Presented by Catherine Nicholson, the program revolves around top EU issues and events. Find out latest news from politicians and researchers joined by the guests of the program."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 17:00:00",
+      "end_time": "2026-02-08 17:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Top Story",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 17:15:00",
+      "end_time": "2026-02-08 17:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Take a look at the latest and most important top stories that are happening in France and around the globe."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 17:30:00",
+      "end_time": "2026-02-08 17:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Global Grid",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 17:45:00",
+      "end_time": "2026-02-08 18:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "France 24's International Affairs Editors come on set to give you their take on world events."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 18:00:00",
+      "end_time": "2026-02-08 18:13:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 18:13:00",
+      "end_time": "2026-02-08 18:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Tete a tete",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 18:15:00",
+      "end_time": "2026-02-08 18:30:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "An interview with a personality from the world of economics, politics, culture or diplomacy."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 18:30:00",
+      "end_time": "2026-02-08 18:43:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 18:43:00",
+      "end_time": "2026-02-08 18:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "People And Profit",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 18:45:00",
+      "end_time": "2026-02-08 19:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "People and Profit presents top business stories, analyses latest trends and explains what and how impact business operations. Find out what the business prospects are, how business and economic situation affect each and everyone."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 19:00:00",
+      "end_time": "2026-02-08 19:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 19:15:00",
+      "end_time": "2026-02-08 19:16:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "The 51 Percent",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 19:16:00",
+      "end_time": "2026-02-08 19:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "The 51 Percent is revolving around women and their role in the world. The program presents various stories of women with different backgrounds, women fighting for equality, women in politics and their work, women promoting sexual education all over the world, women in sports, and women on the front line."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 19:30:00",
+      "end_time": "2026-02-08 19:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 19:45:00",
+      "end_time": "2026-02-08 19:46:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Access Asia",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 19:46:00",
+      "end_time": "2026-02-08 21:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Access Asia opens the diverse continent and presents news from its segments to the audience. Get the latest updates on the social events and political stories, thorough analysis of the cutting-edge current affairs from India, China, Indonesia, Australia and other countries."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 21:00:00",
+      "end_time": "2026-02-08 21:10:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Revisited",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 21:10:00",
+      "end_time": "2026-02-08 21:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Revisited presents certain places in different parts of the world several years after some significant events or accidents. See what the current situation is and find out what people think and feel after a while. Are there any changes?"
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 21:30:00",
+      "end_time": "2026-02-08 21:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "A Week in France",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 21:45:00",
+      "end_time": "2026-02-08 22:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Politics, economy, society - all the essential news from France, as seen by the France 24 teams."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 22:00:00",
+      "end_time": "2026-02-08 22:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 22:15:00",
+      "end_time": "2026-02-08 22:16:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Sports Sunday",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 22:16:00",
+      "end_time": "2026-02-08 22:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Sports Sunday presents top scores and covers top sports news from all over the world and latest sports events. In ten minutes Elliot Richardson provides sports round-up for you not to miss a thing."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 22:30:00",
+      "end_time": "2026-02-08 22:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 22:45:00",
+      "end_time": "2026-02-08 22:46:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Arts24",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 22:46:00",
+      "end_time": "2026-02-08 23:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Daily international culture news from the world's art, food and fashion capital, Paris."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 23:00:00",
+      "end_time": "2026-02-08 23:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "Entre Nous",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 23:15:00",
+      "end_time": "2026-02-08 23:21:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "From life questions, to social norms, to what is making headlines in France: an in-depth look at our society."
+    },
+    {
+      "show_name": "Tech 24",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 23:21:00",
+      "end_time": "2026-02-08 23:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Programme focuses on the cutting-edge trends and news from the world of technology and showcases how exactly it is changing the planet. From digital revolution to the prediction of volcanoes activity, from virtual market of collectibles to space exploration and the search for extraterrestrial intelligence, all possible fields are changed for the better and revolutionized with the help of technologies."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 23:30:00",
+      "end_time": "2026-02-08 23:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports."
+    },
+    {
+      "show_name": "People And Profit",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 23:45:00",
+      "end_time": "2026-02-09 00:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "People and Profit presents top business stories, analyses latest trends and explains what and how impact business operations. Find out what the business prospects are, how business and economic situation affect each and everyone."
     }
   ]
 }

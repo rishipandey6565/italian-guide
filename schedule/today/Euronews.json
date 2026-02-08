@@ -1,858 +1,939 @@
 {
   "channel_name": "Euronews",
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "programs": [
     {
-      "show_name": "The European Debrief",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 00:00:00",
-      "end_time": "2026-02-07 00:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre."
-    },
-    {
-      "show_name": "The European Debrief",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 00:00:00",
-      "end_time": "2026-02-07 00:14:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre."
-    },
-    {
-      "show_name": "The European Debrief",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 00:14:00",
-      "end_time": "2026-02-07 00:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre."
-    },
-    {
-      "show_name": "The European Debrief",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 00:30:00",
-      "end_time": "2026-02-07 00:46:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre."
-    },
-    {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 00:46:00",
-      "end_time": "2026-02-07 01:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "The European Debrief",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 01:00:00",
-      "end_time": "2026-02-07 01:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre."
-    },
-    {
-      "show_name": "The European Debrief",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 01:15:00",
-      "end_time": "2026-02-07 01:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre."
-    },
-    {
-      "show_name": "The European Debrief",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 01:30:00",
-      "end_time": "2026-02-07 02:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 02:00:00",
-      "end_time": "2026-02-07 02:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 02:15:00",
-      "end_time": "2026-02-07 02:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 02:30:00",
-      "end_time": "2026-02-07 03:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 03:00:00",
-      "end_time": "2026-02-07 03:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 03:15:00",
-      "end_time": "2026-02-07 03:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 03:30:00",
-      "end_time": "2026-02-07 04:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 04:00:00",
-      "end_time": "2026-02-07 04:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 04:15:00",
-      "end_time": "2026-02-07 04:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 04:30:00",
-      "end_time": "2026-02-07 05:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 05:00:00",
-      "end_time": "2026-02-07 05:14:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 05:14:00",
-      "end_time": "2026-02-07 05:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 05:30:00",
-      "end_time": "2026-02-07 05:46:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 05:46:00",
-      "end_time": "2026-02-07 06:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 06:00:00",
-      "end_time": "2026-02-07 06:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 06:15:00",
-      "end_time": "2026-02-07 06:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "Global Week-End",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 06:30:00",
-      "end_time": "2026-02-07 07:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 07:00:00",
-      "end_time": "2026-02-07 07:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 07:15:00",
-      "end_time": "2026-02-07 07:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 07:30:00",
-      "end_time": "2026-02-07 08:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 08:00:00",
-      "end_time": "2026-02-07 08:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 08:05:00",
-      "end_time": "2026-02-07 08:29:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 08:29:00",
-      "end_time": "2026-02-07 08:34:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 08:34:00",
-      "end_time": "2026-02-07 09:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 09:00:00",
-      "end_time": "2026-02-07 09:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 09:05:00",
-      "end_time": "2026-02-07 09:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 09:30:00",
-      "end_time": "2026-02-07 09:38:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 09:38:00",
-      "end_time": "2026-02-07 09:48:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 09:48:00",
-      "end_time": "2026-02-07 10:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 10:00:00",
-      "end_time": "2026-02-07 10:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 10:05:00",
-      "end_time": "2026-02-07 10:29:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 10:29:00",
-      "end_time": "2026-02-07 10:34:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 10:34:00",
-      "end_time": "2026-02-07 11:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 11:00:00",
-      "end_time": "2026-02-07 11:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 11:05:00",
-      "end_time": "2026-02-07 11:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 11:30:00",
-      "end_time": "2026-02-07 11:38:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 11:38:00",
-      "end_time": "2026-02-07 11:48:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 11:48:00",
-      "end_time": "2026-02-07 12:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 12:00:00",
-      "end_time": "2026-02-07 12:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 12:05:00",
-      "end_time": "2026-02-07 12:29:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 12:29:00",
-      "end_time": "2026-02-07 12:34:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 12:34:00",
-      "end_time": "2026-02-07 13:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 13:00:00",
-      "end_time": "2026-02-07 13:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 13:05:00",
-      "end_time": "2026-02-07 13:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 13:30:00",
-      "end_time": "2026-02-07 13:38:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 13:38:00",
-      "end_time": "2026-02-07 13:48:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 13:48:00",
-      "end_time": "2026-02-07 14:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 14:00:00",
-      "end_time": "2026-02-07 14:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 14:05:00",
-      "end_time": "2026-02-07 14:29:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 14:29:00",
-      "end_time": "2026-02-07 14:34:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 14:34:00",
-      "end_time": "2026-02-07 15:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 15:00:00",
-      "end_time": "2026-02-07 15:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 15:05:00",
-      "end_time": "2026-02-07 15:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 15:30:00",
-      "end_time": "2026-02-07 15:38:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 15:38:00",
-      "end_time": "2026-02-07 15:48:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 15:48:00",
-      "end_time": "2026-02-07 16:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 16:00:00",
-      "end_time": "2026-02-07 16:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 16:05:00",
-      "end_time": "2026-02-07 16:29:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 16:29:00",
-      "end_time": "2026-02-07 16:34:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 16:34:00",
-      "end_time": "2026-02-07 17:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 17:00:00",
-      "end_time": "2026-02-07 17:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 17:05:00",
-      "end_time": "2026-02-07 17:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 17:30:00",
-      "end_time": "2026-02-07 17:38:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 17:38:00",
-      "end_time": "2026-02-07 17:48:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 17:48:00",
-      "end_time": "2026-02-07 18:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 18:00:00",
-      "end_time": "2026-02-07 18:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 18:05:00",
-      "end_time": "2026-02-07 18:29:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 18:29:00",
-      "end_time": "2026-02-07 18:34:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 18:34:00",
-      "end_time": "2026-02-07 19:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 19:00:00",
-      "end_time": "2026-02-07 19:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 19:05:00",
-      "end_time": "2026-02-07 19:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 19:30:00",
-      "end_time": "2026-02-07 19:38:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 19:38:00",
-      "end_time": "2026-02-07 19:48:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 19:48:00",
-      "end_time": "2026-02-07 21:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 21:00:00",
-      "end_time": "2026-02-07 21:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 21:05:00",
-      "end_time": "2026-02-07 21:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 21:30:00",
-      "end_time": "2026-02-07 21:38:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 21:38:00",
-      "end_time": "2026-02-07 21:48:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 21:48:00",
-      "end_time": "2026-02-07 22:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 22:00:00",
-      "end_time": "2026-02-07 22:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 22:05:00",
-      "end_time": "2026-02-07 22:29:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 22:29:00",
-      "end_time": "2026-02-07 22:34:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 22:34:00",
-      "end_time": "2026-02-07 23:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 23:00:00",
-      "end_time": "2026-02-07 23:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 23:05:00",
-      "end_time": "2026-02-07 23:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "5 Minutes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 23:30:00",
-      "end_time": "2026-02-07 23:38:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 23:38:00",
-      "end_time": "2026-02-07 23:48:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The leading news stories of the moment."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 23:48:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 00:00:00",
       "end_time": "2026-02-08 00:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 00:00:00",
+      "end_time": "2026-02-08 00:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 00:05:00",
+      "end_time": "2026-02-08 00:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 00:29:00",
+      "end_time": "2026-02-08 00:34:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 00:34:00",
+      "end_time": "2026-02-08 01:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 01:00:00",
+      "end_time": "2026-02-08 01:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 01:05:00",
+      "end_time": "2026-02-08 01:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 01:30:00",
+      "end_time": "2026-02-08 01:38:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 01:38:00",
+      "end_time": "2026-02-08 01:48:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 01:48:00",
+      "end_time": "2026-02-08 02:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "Global Week-End",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 02:00:00",
+      "end_time": "2026-02-08 02:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 02:05:00",
+      "end_time": "2026-02-08 02:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "Global Week-End",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 02:30:00",
+      "end_time": "2026-02-08 02:38:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 02:38:00",
+      "end_time": "2026-02-08 02:48:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 02:48:00",
+      "end_time": "2026-02-08 03:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "Global Week-End",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 03:00:00",
+      "end_time": "2026-02-08 03:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 03:05:00",
+      "end_time": "2026-02-08 03:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "Global Week-End",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 03:29:00",
+      "end_time": "2026-02-08 03:34:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 03:34:00",
+      "end_time": "2026-02-08 04:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "Global Week-End",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 04:00:00",
+      "end_time": "2026-02-08 04:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 04:05:00",
+      "end_time": "2026-02-08 04:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "Global Week-End",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 04:30:00",
+      "end_time": "2026-02-08 04:38:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 04:38:00",
+      "end_time": "2026-02-08 04:48:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 04:48:00",
+      "end_time": "2026-02-08 05:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "Global Week-End",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 05:00:00",
+      "end_time": "2026-02-08 05:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 05:05:00",
+      "end_time": "2026-02-08 05:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "Global Week-End",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 05:29:00",
+      "end_time": "2026-02-08 05:34:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 05:34:00",
+      "end_time": "2026-02-08 06:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "Global Week-End",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 06:00:00",
+      "end_time": "2026-02-08 06:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 06:05:00",
+      "end_time": "2026-02-08 06:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "Global Week-End",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 06:30:00",
+      "end_time": "2026-02-08 06:38:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 06:38:00",
+      "end_time": "2026-02-08 06:48:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 06:48:00",
+      "end_time": "2026-02-08 07:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 07:00:00",
+      "end_time": "2026-02-08 07:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 07:05:00",
+      "end_time": "2026-02-08 07:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 07:29:00",
+      "end_time": "2026-02-08 07:34:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 07:34:00",
+      "end_time": "2026-02-08 08:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 08:00:00",
+      "end_time": "2026-02-08 08:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 08:05:00",
+      "end_time": "2026-02-08 08:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 08:30:00",
+      "end_time": "2026-02-08 08:38:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 08:38:00",
+      "end_time": "2026-02-08 08:48:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 08:48:00",
+      "end_time": "2026-02-08 09:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 09:00:00",
+      "end_time": "2026-02-08 09:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 09:05:00",
+      "end_time": "2026-02-08 09:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 09:29:00",
+      "end_time": "2026-02-08 09:34:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 09:34:00",
+      "end_time": "2026-02-08 10:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 10:00:00",
+      "end_time": "2026-02-08 10:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 10:05:00",
+      "end_time": "2026-02-08 10:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 10:30:00",
+      "end_time": "2026-02-08 10:38:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 10:38:00",
+      "end_time": "2026-02-08 10:48:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 10:48:00",
+      "end_time": "2026-02-08 11:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 11:00:00",
+      "end_time": "2026-02-08 11:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 11:05:00",
+      "end_time": "2026-02-08 11:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 11:29:00",
+      "end_time": "2026-02-08 11:34:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 11:34:00",
+      "end_time": "2026-02-08 12:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 12:00:00",
+      "end_time": "2026-02-08 12:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 12:05:00",
+      "end_time": "2026-02-08 12:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 12:30:00",
+      "end_time": "2026-02-08 12:38:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 12:38:00",
+      "end_time": "2026-02-08 12:48:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 12:48:00",
+      "end_time": "2026-02-08 13:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 13:00:00",
+      "end_time": "2026-02-08 13:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 13:05:00",
+      "end_time": "2026-02-08 13:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 13:29:00",
+      "end_time": "2026-02-08 13:34:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 13:34:00",
+      "end_time": "2026-02-08 14:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 14:00:00",
+      "end_time": "2026-02-08 14:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 14:05:00",
+      "end_time": "2026-02-08 14:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 14:30:00",
+      "end_time": "2026-02-08 14:38:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 14:38:00",
+      "end_time": "2026-02-08 14:48:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 14:48:00",
+      "end_time": "2026-02-08 15:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 15:00:00",
+      "end_time": "2026-02-08 15:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 15:05:00",
+      "end_time": "2026-02-08 15:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 15:29:00",
+      "end_time": "2026-02-08 15:34:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 15:34:00",
+      "end_time": "2026-02-08 16:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 16:00:00",
+      "end_time": "2026-02-08 16:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 16:05:00",
+      "end_time": "2026-02-08 16:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 16:30:00",
+      "end_time": "2026-02-08 16:38:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 16:38:00",
+      "end_time": "2026-02-08 16:48:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 16:48:00",
+      "end_time": "2026-02-08 17:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 17:00:00",
+      "end_time": "2026-02-08 17:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 17:05:00",
+      "end_time": "2026-02-08 17:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 17:29:00",
+      "end_time": "2026-02-08 17:34:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 17:34:00",
+      "end_time": "2026-02-08 18:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 18:00:00",
+      "end_time": "2026-02-08 18:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 18:05:00",
+      "end_time": "2026-02-08 18:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 18:30:00",
+      "end_time": "2026-02-08 18:38:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 18:38:00",
+      "end_time": "2026-02-08 18:48:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 18:48:00",
+      "end_time": "2026-02-08 19:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 19:00:00",
+      "end_time": "2026-02-08 19:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 19:05:00",
+      "end_time": "2026-02-08 19:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 19:29:00",
+      "end_time": "2026-02-08 19:34:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 19:34:00",
+      "end_time": "2026-02-08 21:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 21:00:00",
+      "end_time": "2026-02-08 21:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 21:05:00",
+      "end_time": "2026-02-08 21:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 21:29:00",
+      "end_time": "2026-02-08 21:34:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 21:34:00",
+      "end_time": "2026-02-08 22:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 22:00:00",
+      "end_time": "2026-02-08 22:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 22:05:00",
+      "end_time": "2026-02-08 22:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 22:30:00",
+      "end_time": "2026-02-08 22:38:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 22:38:00",
+      "end_time": "2026-02-08 22:48:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 22:48:00",
+      "end_time": "2026-02-08 23:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 23:00:00",
+      "end_time": "2026-02-08 23:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 23:05:00",
+      "end_time": "2026-02-08 23:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "5 Minutes",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 23:29:00",
+      "end_time": "2026-02-08 23:34:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "The leading news stories of the moment."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-08 23:34:00",
+      "end_time": "2026-02-09 00:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "The leading news stories of the moment."

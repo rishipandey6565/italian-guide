@@ -1,195 +1,213 @@
 {
   "channel_name": "Sky Sport Calcio",
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "programs": [
     {
+      "show_name": "Sky Saturday Night",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-08 00:00:00",
+      "end_time": "2026-02-08 00:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Sky Saturday Night."
+    },
+    {
+      "show_name": "Premier League Remix",
+      "show_logo": "https://guidatv.sky.it/uuid/30098a05-01a0-4ff0-b299-05e45c70d9ce/cover?territory=IT&md5ChecksumParam=9aa73c9c8e3d42ac24093b3cc3129fd6",
+      "start_time": "2026-02-08 00:00:00",
+      "end_time": "2026-02-08 00:15:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "La Premier League regala sempre spettacolo e sorprese. Riviviamo tutti i gol e le principali azioni del turno di gioco."
+    },
+    {
+      "show_name": "Ep.1",
+      "show_logo": "https://guidatv.sky.it/uuid/360eaf3c-f9fa-44b2-87dc-293f993f095e/cover?territory=IT&md5ChecksumParam=ea8de2f29d117ce052c3da77b110ebd3",
+      "start_time": "2026-02-08 00:15:00",
+      "end_time": "2026-02-08 00:30:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "Servizi informativi dedicati ai più piccoli sportivi italiani e alle realtà giovanili legate al calcio, tra trofei, incontri, e storie."
+    },
+    {
       "show_name": "Uefa Champions League Magazine 2025/2026 Ep.19 06/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/uefa-champions-league-magazine-2025-2026-ep-19-06-02-2026.webp",
-      "start_time": "2026-02-07 00:00:00",
-      "end_time": "2026-02-07 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/ac54b41a-d422-4171-bbeb-d59bbf232ff9/cover?territory=IT&md5ChecksumParam=1fcd26729e7a8287acbfa6ec1a815d6c",
+      "start_time": "2026-02-08 00:30:00",
+      "end_time": "2026-02-08 01:35:00",
       "episode_number": "S2025 E19",
       "show_category": "Sport",
       "show_description": "Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
     },
     {
-      "show_name": "Ep.32",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/ep-32.webp",
-      "start_time": "2026-02-07 00:00:00",
-      "end_time": "2026-02-07 00:30:00",
-      "episode_number": "S2025 E32",
-      "show_category": "Sport",
-      "show_description": "Premier League Stories."
-    },
-    {
       "show_name": "Uefa Europa&Conference League Magazine - Ep. 11 - Uefa Europa&Conference League Magazine Ep.11 03/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/uefa-europa-conference-league-magazine-ep-11-uefa-europa-conference-league-magazine-ep-11-03-02-2026.webp",
-      "start_time": "2026-02-07 00:30:00",
-      "end_time": "2026-02-07 01:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/6875e1b2-f90c-4a71-bce9-57bc9296aa0c/cover?territory=IT&md5ChecksumParam=fe2b6c901890b15cfe45c9bde9148d99",
+      "start_time": "2026-02-08 01:35:00",
+      "end_time": "2026-02-08 02:30:00",
       "episode_number": "S2 E11",
       "show_category": "Sport",
       "show_description": "Notizie, interviste e analisi delle squadre di Europa League e Conference League."
     },
     {
-      "show_name": "Union Berlino - Eintracht Francoforte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/union-berlino-eintracht-francoforte.webp",
-      "start_time": "2026-02-07 01:30:00",
-      "end_time": "2026-02-07 03:30:00",
-      "episode_number": "S2025 E112",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadion An der Alten Försterei di Berlino, Germania."
-    },
-    {
-      "show_name": "Premier League Preview",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/premier-league-preview.webp",
-      "start_time": "2026-02-07 03:30:00",
-      "end_time": "2026-02-07 04:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Si sta per aprire una nuova giornata di Premier League. Scopriamo insieme temi, notizie e possibili protagonisti."
-    },
-    {
-      "show_name": "FC Barcellona - Copenhagen",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/fc-barcellona-copenhagen.webp",
-      "start_time": "2026-02-07 04:00:00",
-      "end_time": "2026-02-07 06:00:00",
-      "episode_number": "S2025 E140",
-      "show_category": "Sport",
-      "show_description": "Dal Camp Nou di Barcellona, Spagna."
-    },
-    {
-      "show_name": "Leeds - Nottingham Forest",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/leeds-nottingham-forest.webp",
-      "start_time": "2026-02-07 06:00:00",
-      "end_time": "2026-02-07 08:00:00",
-      "episode_number": "S2025 E243",
-      "show_category": "Sport",
-      "show_description": "Dall'Elland Road di Leeds, Inghilterra."
-    },
-    {
-      "show_name": "Uefa Champions League Magazine 2025/2026 Ep.19 06/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/uefa-champions-league-magazine-2025-2026-ep-19-06-02-2026.webp",
-      "start_time": "2026-02-07 08:00:00",
-      "end_time": "2026-02-07 09:00:00",
-      "episode_number": "S2025 E19",
-      "show_category": "Sport",
-      "show_description": "Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
-    },
-    {
-      "show_name": "Union Berlino - Eintracht Francoforte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/union-berlino-eintracht-francoforte.webp",
-      "start_time": "2026-02-07 09:00:00",
-      "end_time": "2026-02-07 10:55:00",
-      "episode_number": "S2025 E112",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadion An der Alten Försterei di Berlino, Germania."
-    },
-    {
-      "show_name": "Leeds - Nottingham Forest",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/leeds-nottingham-forest.webp",
-      "start_time": "2026-02-07 10:55:00",
-      "end_time": "2026-02-07 12:50:00",
-      "episode_number": "S2025 E243",
-      "show_category": "Sport",
-      "show_description": "Dall'Elland Road di Leeds, Inghilterra."
-    },
-    {
-      "show_name": "Ep.32",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/ep-32.webp",
-      "start_time": "2026-02-07 12:50:00",
-      "end_time": "2026-02-07 13:25:00",
-      "episode_number": "S2025 E32",
-      "show_category": "Sport",
-      "show_description": "Premier League Stories."
-    },
-    {
-      "show_name": "Manchester United - Tottenham",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/manchester-united-tottenham.webp",
-      "start_time": "2026-02-07 13:25:00",
-      "end_time": "2026-02-07 15:30:00",
-      "episode_number": "S2025 E244",
-      "show_category": "Sport",
-      "show_description": "Dall'Old Trafford di Manchester, Inghilterra."
-    },
-    {
-      "show_name": "Ep.1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/ep-1.webp",
-      "start_time": "2026-02-07 15:30:00",
-      "end_time": "2026-02-07 15:40:00",
-      "episode_number": "S2026 E1",
-      "show_category": "Sport",
-      "show_description": "Servizi informativi dedicati ai più piccoli sportivi italiani e alle realtà giovanili legate al calcio, tra trofei, incontri, e storie."
-    },
-    {
-      "show_name": "Programmazione non disponibile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/programmazione-non-disponibile.webp",
-      "start_time": "2026-02-07 15:40:00",
-      "end_time": "2026-02-07 15:55:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Programmazione non disponibile."
-    },
-    {
-      "show_name": "Arsenal - Sunderland",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/arsenal-sunderland.webp",
-      "start_time": "2026-02-07 15:55:00",
-      "end_time": "2026-02-07 18:00:00",
-      "episode_number": "S2025 E245",
-      "show_category": "Sport",
-      "show_description": "Dall'Emirates Stadium di Londra, Inghilterra."
-    },
-    {
-      "show_name": "Ep.1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/ep-1.webp",
-      "start_time": "2026-02-07 18:00:00",
-      "end_time": "2026-02-07 18:15:00",
-      "episode_number": "S2026 E1",
-      "show_category": "Sport",
-      "show_description": "Servizi informativi dedicati ai più piccoli sportivi italiani e alle realtà giovanili legate al calcio, tra trofei, incontri, e storie."
-    },
-    {
-      "show_name": "Programmazione non disponibile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/programmazione-non-disponibile.webp",
-      "start_time": "2026-02-07 18:15:00",
-      "end_time": "2026-02-07 18:25:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Programmazione non disponibile."
-    },
-    {
-      "show_name": "Calcio Premier League - Ep. 250 - Calcio Premier League 25ga Newcastle/ Brentford 07/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/calcio-premier-league-ep-250-calcio-premier-league-25ga-newcastle-brentford-07-02-2026.webp",
-      "start_time": "2026-02-07 18:25:00",
-      "end_time": "2026-02-07 20:30:00",
-      "episode_number": "S2025 E250",
-      "show_category": "Sport",
-      "show_description": "Dal St. James' Park a Newcastle upon Tyne, Inghilterra."
-    },
-    {
-      "show_name": "Sky Saturday Night",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 20:30:00",
-      "end_time": "2026-02-07 20:40:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Sky Saturday Night."
-    },
-    {
       "show_name": "Fiorentina - Torino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Calcio/today/fiorentina-torino.webp",
-      "start_time": "2026-02-07 20:40:00",
-      "end_time": "2026-02-07 22:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/87a253ac-fb62-4afd-ace3-f46942827cd3/cover?territory=IT&md5ChecksumParam=291216989b2a88e709dd195cac7d3df3",
+      "start_time": "2026-02-08 02:30:00",
+      "end_time": "2026-02-08 05:25:00",
       "episode_number": "S2025 E70",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
     },
     {
-      "show_name": "Sky Saturday Night",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-07 22:45:00",
-      "end_time": "2026-02-08 00:00:00",
+      "show_name": "Tutti i gol di Van Nistelrooy in Champions League",
+      "show_logo": "https://guidatv.sky.it/uuid/fe3c0e6d-261d-48f9-b2d4-5eec82f1a931/cover?territory=IT&md5ChecksumParam=569f77416b639176451725aab46ecc39",
+      "start_time": "2026-02-08 05:25:00",
+      "end_time": "2026-02-08 05:45:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Sky Saturday Night."
+      "show_description": "Rivediamo tutti i gol di Ruud Van Nistelrooy in Champions League, con le maglie di PSV Eindhoven, Manchester United e Real Madrid."
+    },
+    {
+      "show_name": "Tutti i gol di Henry nelle Coppe Europee",
+      "show_logo": "https://guidatv.sky.it/uuid/f2ae74c0-4fce-442d-b499-e471778fcc69/cover?territory=IT&md5ChecksumParam=1cda79dba114a9c7b05d936d2fac5168",
+      "start_time": "2026-02-08 05:45:00",
+      "end_time": "2026-02-08 06:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Rivediamo tutti i gol di Thierry Henry nelle coppe europee, con le maglie di Monaco, Arsenal e Barcellona."
+    },
+    {
+      "show_name": "Fiorentina - Torino",
+      "show_logo": "https://guidatv.sky.it/uuid/87a253ac-fb62-4afd-ace3-f46942827cd3/cover?territory=IT&md5ChecksumParam=291216989b2a88e709dd195cac7d3df3",
+      "start_time": "2026-02-08 06:00:00",
+      "end_time": "2026-02-08 08:00:00",
+      "episode_number": "S2025 E70",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
+    },
+    {
+      "show_name": "VfL Wolfsburg - Borussia Dortmund",
+      "show_logo": "https://guidatv.sky.it/uuid/8c63db38-7e09-4ecd-97dd-1356d7e0aa6a/cover?territory=IT&md5ChecksumParam=89a444291675e19f7313f008589d2fdb",
+      "start_time": "2026-02-08 08:00:00",
+      "end_time": "2026-02-08 09:45:00",
+      "episode_number": "S2025 E113",
+      "show_category": "Sport",
+      "show_description": "Dalla Volkswagen Arena di Wolfsburg, Germania."
+    },
+    {
+      "show_name": "Premier League Remix",
+      "show_logo": "https://guidatv.sky.it/uuid/30098a05-01a0-4ff0-b299-05e45c70d9ce/cover?territory=IT&md5ChecksumParam=9aa73c9c8e3d42ac24093b3cc3129fd6",
+      "start_time": "2026-02-08 09:45:00",
+      "end_time": "2026-02-08 10:05:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "La Premier League regala sempre spettacolo e sorprese. Riviviamo tutti i gol e le principali azioni del turno di gioco."
+    },
+    {
+      "show_name": "Fiorentina - Torino",
+      "show_logo": "https://guidatv.sky.it/uuid/87a253ac-fb62-4afd-ace3-f46942827cd3/cover?territory=IT&md5ChecksumParam=291216989b2a88e709dd195cac7d3df3",
+      "start_time": "2026-02-08 10:05:00",
+      "end_time": "2026-02-08 11:50:00",
+      "episode_number": "S2025 E70",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
+    },
+    {
+      "show_name": "Ep.1",
+      "show_logo": "https://guidatv.sky.it/uuid/360eaf3c-f9fa-44b2-87dc-293f993f095e/cover?territory=IT&md5ChecksumParam=ea8de2f29d117ce052c3da77b110ebd3",
+      "start_time": "2026-02-08 11:50:00",
+      "end_time": "2026-02-08 12:10:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "Servizi informativi dedicati ai più piccoli sportivi italiani e alle realtà giovanili legate al calcio, tra trofei, incontri, e storie."
+    },
+    {
+      "show_name": "Premier League Remix",
+      "show_logo": "https://guidatv.sky.it/uuid/30098a05-01a0-4ff0-b299-05e45c70d9ce/cover?territory=IT&md5ChecksumParam=9aa73c9c8e3d42ac24093b3cc3129fd6",
+      "start_time": "2026-02-08 12:10:00",
+      "end_time": "2026-02-08 12:25:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "La Premier League regala sempre spettacolo e sorprese. Riviviamo tutti i gol e le principali azioni del turno di gioco."
+    },
+    {
+      "show_name": "Pontedera - Ternana",
+      "show_logo": "https://guidatv.sky.it/uuid/ee184f12-3c59-48a1-ac03-69eaed0539ac/cover?territory=IT&md5ChecksumParam=c7092897b056863db3bb42788a8e5d12",
+      "start_time": "2026-02-08 12:25:00",
+      "end_time": "2026-02-08 14:30:00",
+      "episode_number": "S2025 E250",
+      "show_category": "Sport",
+      "show_description": "Tutte le partite del campionato di Serie C italiano."
+    },
+    {
+      "show_name": "Ep.1",
+      "show_logo": "https://guidatv.sky.it/uuid/360eaf3c-f9fa-44b2-87dc-293f993f095e/cover?territory=IT&md5ChecksumParam=ea8de2f29d117ce052c3da77b110ebd3",
+      "start_time": "2026-02-08 14:30:00",
+      "end_time": "2026-02-08 14:45:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "Servizi informativi dedicati ai più piccoli sportivi italiani e alle realtà giovanili legate al calcio, tra trofei, incontri, e storie."
+    },
+    {
+      "show_name": "Programmazione non disponibile",
+      "show_logo": "https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&md5ChecksumParam=4a25768e3cfcae514f94f50e5a0fe2c7",
+      "start_time": "2026-02-08 14:45:00",
+      "end_time": "2026-02-08 14:55:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Programmazione non disponibile."
+    },
+    {
+      "show_name": "Brighton - Crystal Palace",
+      "show_logo": "https://guidatv.sky.it/uuid/b86b8ecf-bde2-4af0-a093-4de0962cd1eb/cover?territory=IT&md5ChecksumParam=bbc437071ccc2acdeea0ed9602f90de4",
+      "start_time": "2026-02-08 14:55:00",
+      "end_time": "2026-02-08 17:00:00",
+      "episode_number": "S2025 E251",
+      "show_category": "Sport",
+      "show_description": "Dall'American Express Community Stadium di Brighton, Inghilterra."
+    },
+    {
+      "show_name": "Sky Sunday Football Prepartita",
+      "show_logo": "https://guidatv.sky.it/uuid/b3121881-718f-40c1-a433-c3828ca5c4d0/cover?territory=IT&md5ChecksumParam=2a462481ce7b688378ba18ba7192b0cc",
+      "start_time": "2026-02-08 17:00:00",
+      "end_time": "2026-02-08 17:55:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Sky Sunday Football Prepartita - La presentazione del match di Serie A, le immagini e le interviste ai protagonisti. Nello studio di Leo Di Bello, anche calcio internazionale e le news di tutti gli sport di Sky."
+    },
+    {
+      "show_name": "Sassuolo - Inter",
+      "show_logo": "https://guidatv.sky.it/uuid/240da2ad-fd6d-4a98-b8ea-43e2f02e49dd/cover?territory=IT&md5ChecksumParam=4787a07f0936d47e2285f5bcc8b7e6e2",
+      "start_time": "2026-02-08 17:55:00",
+      "end_time": "2026-02-08 20:00:00",
+      "episode_number": "S2025 E71",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Mapei Città del Tricolore di Reggio Emilia, Italia."
+    },
+    {
+      "show_name": "Anteprima Sky Calcio Club",
+      "show_logo": "https://guidatv.sky.it/uuid/606d3a96-4c8b-4632-8124-b8870f5e805a/cover?territory=IT&md5ChecksumParam=66c2cb3b782831fab058ec92fec73e30",
+      "start_time": "2026-02-08 20:00:00",
+      "end_time": "2026-02-08 20:40:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Quindici minuti di notizie, immagini, gol e interviste che costituiscono il menu' di Sky Calcio Club. In onda subito dopo."
+    },
+    {
+      "show_name": "Paris Saint-Germain - Olympique Marsiglia",
+      "show_logo": "https://guidatv.sky.it/uuid/36153163-c7d2-4d9a-a7ab-b11ea288109b/cover?territory=IT&md5ChecksumParam=e1520e2af21dcae5940eed9bafcd4ed6",
+      "start_time": "2026-02-08 20:40:00",
+      "end_time": "2026-02-08 22:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Dal Parco dei Principi di Parigi, Francia."
+    },
+    {
+      "show_name": "Sky Calcio Club",
+      "show_logo": "https://guidatv.sky.it/uuid/aa108560-d14c-4ad4-9f01-26797feec321/cover?territory=IT&md5ChecksumParam=2ef58ba86c96408a500d24797a17e4ef",
+      "start_time": "2026-02-08 22:45:00",
+      "end_time": "2026-02-09 00:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Fabio Caressa, Beppe Bergomi e altri grandi ospiti commentano il posticipo di serie A e tutti gol, le azioni salienti e le maggiori curiosita' delle partite del weekend."
     }
   ]
 }

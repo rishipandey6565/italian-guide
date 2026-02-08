@@ -1,177 +1,249 @@
 {
   "channel_name": "La 5",
-  "date": "2026-02-08",
+  "date": "2026-02-09",
   "programs": [
     {
+      "show_name": "Amici Di Maria",
+      "show_logo": "",
+      "start_time": "2026-02-09 00:00:00",
+      "end_time": "2026-02-09 00:46:00",
+      "episode_number": "",
+      "show_category": "Talent show",
+      "show_description": "La corsa al serale entra nel vivo e ogni esibizione puo' cambiare tutto. Chi salvera' la maglia? Chi lascera' la scuola? I giudici della puntata: Ilenia Pastorelli, Alex Britti e Marcello Sacchetta."
+    },
+    {
+      "show_name": "X Style",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314203401000201/media/4/4/a8c7530e-35c3-453e-a751-d61ab41175a2/7932581f-d09c-4adb-a2d6-a89ecef20ca3.jpg",
+      "start_time": "2026-02-09 00:46:00",
+      "end_time": "2026-02-09 01:25:00",
+      "episode_number": "",
+      "show_category": "Lifestyle",
+      "show_description": "Il rotocalco dedicato alla moda, bellezza, lifestyle e tendenze."
+    },
+    {
       "show_name": "Un Amore Senza Tempo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/un-amore-senza-tempo.webp",
-      "start_time": "2026-02-08 00:00:00",
-      "end_time": "2026-02-08 01:02:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F013041601000105/media/2/2/ca69bc26-ba82-45c8-8d08-407ff4e83d9b/f1fa0bab-5839-4edf-b2d0-fef98db3c3cc.jpg",
+      "start_time": "2026-02-09 01:25:00",
+      "end_time": "2026-02-09 03:16:00",
       "episode_number": "",
       "show_category": "Sentimentale",
       "show_description": "In punto di morte, Ann ripercorre il viale dei ricordi. Un viaggio nel passato, negli anni '50, quando era una promettente cantante ventiquattrenne. Ann rivela alle figlie che, invitata al matrimonio della migliore amica Lila, si era recata alla residenza dei Wittenborn. Quel weekend segnò anche il suo incontro con il promettente medico Harris: un segreto tenuto nascosto per tanto tempo. Le due donne, al capezzale della madre, la sentono poi pronunciare ad alta voce il nome dell'uomo che ha amato più di ogni altro nella sua vita. Ma chi è questo Harris Arden."
     },
     {
-      "show_name": "Maria Montessori Una Vita Per I Bambini",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 01:02:00",
-      "end_time": "2026-02-08 03:39:00",
-      "episode_number": "",
-      "show_category": "Biografico",
-      "show_description": "Maria montessori una vita per i bambini ITA 2006."
+      "show_name": "Centovetrine",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101006801/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-09 03:16:00",
+      "end_time": "2026-02-09 03:38:00",
+      "episode_number": "S1 E68",
+      "show_category": "Soap opera",
+      "show_description": "Elena, nervosa per la continua gelosia di Giuliano, si sfoga con Laura. La donna le propone di andare a trovare Ettore. Rosa accusa Paolo di essere un bugiardo e di averle mentito. Il giovane Monti sfoga la sua rabbia contro Beatrice. Anita rivela a Vanessa la sua storia con Ivan e la ragazza le propone un modo per farla pagare cara a Bettini."
     },
     {
       "show_name": "Centovetrine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/centovetrine.webp",
-      "start_time": "2026-02-08 03:39:00",
-      "end_time": "2026-02-08 04:02:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101006901/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-09 03:38:00",
+      "end_time": "2026-02-09 04:01:00",
       "episode_number": "S1 E69",
       "show_category": "Soap opera",
       "show_description": "Elena, dopo aver rivelato ad Ettore di volergli bene quasi come ad un padre, si addormenta nella stanza d'ospedale. Ivan, portato da Vanessa nella bisca, attribuisce il merito della sua vincita alla presenza di Anita. La giovane Ferri viene a sapere della partenza di Federico e si reca da lui per parlargli."
     },
     {
       "show_name": "Centovetrine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/centovetrine.webp",
-      "start_time": "2026-02-08 04:02:00",
-      "end_time": "2026-02-08 04:25:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101007001/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-09 04:01:00",
+      "end_time": "2026-02-09 04:24:00",
       "episode_number": "S1 E70",
       "show_category": "Soap opera",
       "show_description": "Elena, convinta da Fatima, parla con Giuliano, ma il giovane Corsini la mette di fronte ad una scelta: o lui o Ettore. Beatrice mente ad Ugo e va lei a prendere Benedetta, di ritorno dalla gita."
     },
     {
       "show_name": "Centovetrine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/centovetrine.webp",
-      "start_time": "2026-02-08 04:25:00",
-      "end_time": "2026-02-08 04:47:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101007101/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-09 04:24:00",
+      "end_time": "2026-02-09 04:44:00",
       "episode_number": "S1 E71",
       "show_category": "Soap opera",
       "show_description": "Beatrice, con grande sforzo interiore, decide di non rivelare a Benedetta che in realtà è sua madre. Ettore chiede ad Elena di andarlo a prendere all'ospedale e la Novelli accetta. Ivan chiede ad Anita di tornare alla bisca e la donna è ben felice di accompagnarlo, il suo piano sta funzionando alla perfezione."
     },
     {
       "show_name": "Centovetrine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/centovetrine.webp",
-      "start_time": "2026-02-08 04:47:00",
-      "end_time": "2026-02-08 05:11:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101007201/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-09 04:44:00",
+      "end_time": "2026-02-09 05:08:00",
       "episode_number": "S1 E72",
       "show_category": "Soap opera",
       "show_description": "Ivan perde tutto al gioco e chiede un prestito ad Anita. Elena, dopo aver assistito allo scontro verbale tra Giuliano ed Ettore, segue il giovane Corsini, ma il ragazzo le dice che non saranno mai tranquilli finchè ci sarà Ettore tra loro."
     },
     {
       "show_name": "Tempesta D'amore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 05:11:00",
-      "end_time": "2026-02-08 06:00:00",
-      "episode_number": "S17 E182",
-      "show_category": "",
-      "show_description": "Christoph cerca di convincere Michael che Rosalie e' fortemente innamorata di lui e che non lo ha mai tradito. Ariane non vuole sostituire Robert e informa i soci dell'offerta fatta a Lia."
-    },
-    {
-      "show_name": "Tempesta D'amore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 06:00:00",
-      "end_time": "2026-02-08 06:51:00",
+      "show_logo": "",
+      "start_time": "2026-02-09 05:08:00",
+      "end_time": "2026-02-09 06:00:00",
       "episode_number": "S17 E183",
       "show_category": "",
       "show_description": "Lia dice ad Ariane di non avere piu' intenzione di andarsene. Hannes finge di aver un impiego a Florian; Maja decide di confessare il suo amore a Florian."
     },
     {
-      "show_name": "Dalla Parte Degli Animali",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/dalla-parte-degli-animali.webp",
-      "start_time": "2026-02-08 06:51:00",
-      "end_time": "2026-02-08 08:21:00",
-      "episode_number": "",
-      "show_category": "Lifestyle",
-      "show_description": "Tante storie con protagonisti i nostri amici a quattro zampe. Conduce Vittoria Brambilla."
-    },
-    {
-      "show_name": "La Promessa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 08:21:00",
-      "end_time": "2026-02-08 09:35:00",
-      "episode_number": "S4 E80",
+      "show_name": "Tempesta D'amore",
+      "show_logo": "",
+      "start_time": "2026-02-09 06:00:00",
+      "end_time": "2026-02-09 06:52:00",
+      "episode_number": "S17 E184",
       "show_category": "",
-      "show_description": "Simona scopre che Antonio si trova alla Promessa, lo incontra ma Antonio non le vuole parlare. Curro dopo la caduta da cavallo ha qualche dolore, ma finge di stare bene."
+      "show_description": "Ariane cerca di far cambiare idea a Robert ma l'uomo e' deciso a trasferirsi in Italia. Christoph ha in mente qualcosa per Hannes."
     },
     {
-      "show_name": "La Promessa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 09:35:00",
-      "end_time": "2026-02-08 10:56:00",
-      "episode_number": "S4 E81",
-      "show_category": "",
-      "show_description": "Pia e' allarmata dalla scomparsa del figlio, ma, all'improvviso, arriva Ana con Diego in braccio, che si era perso per strada. Leocadia continua a prendere il controllo della casa."
-    },
-    {
-      "show_name": "La Promessa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 10:56:00",
-      "end_time": "2026-02-08 12:15:00",
-      "episode_number": "S4 E82",
-      "show_category": "",
-      "show_description": "Curro dice a Pia che devono dissotterrare la salma di Jana per scoprire come e' morta. Pia e' contraria. Simona dice ad Antonio che non l'aveva abbandonato ma Antonio e' convinto del contrario."
-    },
-    {
-      "show_name": "Verissimo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 12:15:00",
-      "end_time": "2026-02-08 14:51:00",
-      "episode_number": "",
-      "show_category": "Talk Show",
-      "show_description": "Tra gli ospiti di Silvia Toffanin, la neo coppia di Uomini e Donne formata da Cristiana Anania e Ernesto Passaro; in studio anche l'attore Matteo Paolillo."
-    },
-    {
-      "show_name": "Don Gnocchi L'angelo Dei Bimbi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 14:51:00",
-      "end_time": "2026-02-08 18:16:00",
-      "episode_number": "",
-      "show_category": "Religione",
-      "show_description": "DON GNOCCHI-L'ANGELO DEI BIMBI1Don Carlo Gnocchi, un prete straordinario, che fece integralmente l'esperienza di Dio, attraverso la concreta vita dell'uomo. 1941. Tra i discepoli di Don Gnocchi (Daniele Liotti) all'Istituto Gonzaga di Milano spiccano Francesco (Francesco Martino) e Matteo (Giulio Pampiglione), dal carattere opposto ma legati da una profonda amicizia: introverso e disciplinato il primo, piu' ribelle, cupo e talvolta in aperto conflitto verbale con Don Carlo il secondo. Dopo aver discusso con il gerarca Baldacci (Mattia Sbragia), simbolo ambiguo del fragile potere fascista di quell'epoca, e dopo aver convinto il Cardinale Shuster (Ugo Pagliai), Don Gnocchi parte volontario come cappellano militare durante la guerra d'Albania nel 1941. I suoi allievi all'Istituto Gonzaga, seguono appassionati le sue gesta da lontano. Durante il conflitto, Don Gnocchi, continua a svolgere il suo ruolo spirituale, confortando per quanto e' nelle sue possibilita' i soldati e dimostrand... ITA 2004."
-    },
-    {
-      "show_name": "Io Sono Farah",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/io-sono-farah.webp",
-      "start_time": "2026-02-08 18:16:00",
-      "end_time": "2026-02-08 19:12:00",
-      "episode_number": "S2 E10",
+      "show_name": "Vivere",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009378601021701/media/10/10/af4d144f-9f89-404a-9cab-390c5dfa8dd9/4b98354e-0a18-4a48-ba0a-b8ccd2877290.jpg",
+      "start_time": "2026-02-09 06:52:00",
+      "end_time": "2026-02-09 07:15:00",
+      "episode_number": "S2 E217",
       "show_category": "Soap opera",
-      "show_description": "Farah ha un piano in mente: mettere le mani sul video con cui Behnam la tiene sotto scacco. Tahir, nel frattempo, collabora con Merjan per attirare tra le sue fila il responsabile della sicurezza di Behnam. Per farlo, ha bisogno anche di Mehmet, quindi va da lui e lo convince a trasferirsi a casa sua."
+      "show_description": "Mentre tra Alfio e Giovanni incomincia e sciogliersi la tensione, Letizia escogita un nuovo modo per indurre Eva ad entrare nell'affare dei megastores, nonostante il parere contrario di Alfio. Giacomo si lamenta con Emilia perche' Vittorio non gli affida mansioni da medico. Marco, sempre piu' in crisi con lo studio e sempre piu' attirato dall'idea delle corse clandestine, litiga con Alice che lo mette in guardia da Maurizio e i suoi amici. Sharis e Bruno vanno a ballare insieme e al ritorno."
     },
     {
-      "show_name": "Io Sono Farah",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/io-sono-farah.webp",
-      "start_time": "2026-02-08 19:12:00",
-      "end_time": "2026-02-08 20:11:00",
-      "episode_number": "S2 E11",
+      "show_name": "Vivere",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009378601021801/media/10/10/af4d144f-9f89-404a-9cab-390c5dfa8dd9/4b98354e-0a18-4a48-ba0a-b8ccd2877290.jpg",
+      "start_time": "2026-02-09 07:15:00",
+      "end_time": "2026-02-09 07:41:00",
+      "episode_number": "S2 E218",
       "show_category": "Soap opera",
-      "show_description": "Tahir riesce a ottenere una piccola parte di azioni della holding di Behnam, sfruttando le informazioni che si è procurato Mehmet, e si presenta alla conferenza di lancio del progetto dell'azienda, annunciandosi pubblicamente come un nuovo socio."
+      "show_description": "Quando viene a sapere che Andrea entrera' nell'affare dei megastores al posto suo, Eva, cadendo nella trappola di Letizia, corre da Maffioli chiedendogli di firmare il contratto. Bruno spiega a Sharis che il bacio della sera prima e' stato un errore, per tutta risposta la ragazza gli dichiara il grande amore che nutre per lui. Marco e' sempre piu' attirato dall'idea delle corse clandestine. Luca e Lisa convincono Vincenzo a ristrutturare la casa."
     },
     {
-      "show_name": "Io Sono Farah",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/io-sono-farah.webp",
-      "start_time": "2026-02-08 20:11:00",
-      "end_time": "2026-02-08 21:10:00",
-      "episode_number": "S2 E12",
+      "show_name": "Centovetrine",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101007301/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-09 07:41:00",
+      "end_time": "2026-02-09 08:09:00",
+      "episode_number": "S1 E73",
       "show_category": "Soap opera",
-      "show_description": "Dopo gli avvenimenti della mattinata, Merjan si presenta a sorpresa a casa di Tahir per scoprire come sia riuscito a mettere le mani sulle quote della società. L'uomo non è particolarmente felice della presenza della ragazza, ma le chiede comunque se Farah fosse rimasta vittima di qualche incidente."
+      "show_description": "Benedetta crede che Paolo si sia invaghito di Beatrice. Rosa consiglia al giovane Monti di rivelare alla bambina la verità su Beatrice. Elena viene scelta come testimonial di \"CentoVetrine\"."
     },
     {
-      "show_name": "Love By Design",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/love-by-design.webp",
-      "start_time": "2026-02-08 21:10:00",
-      "end_time": "2026-02-08 22:52:00",
+      "show_name": "Centovetrine",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101007401/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-09 08:09:00",
+      "end_time": "2026-02-09 08:44:00",
+      "episode_number": "S1 E74",
+      "show_category": "Soap opera",
+      "show_description": "La piccola Benedetta, dopo una splendida giornata in compagnia di Paolo e Beatrice, scopre chi è in realtà la donna. Ivan decide di tornare alla bisca e falsifica la firma della moglie per vendere alcune azioni. Anita, soddisfatta per come procede il suo piano contro Bettini, ne parla con Vanessa."
+    },
+    {
+      "show_name": "Furore Il Vento Della Speranza",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305231601000601/images/Mediaset_Italia_Production_-_Main/861/368/ST000000000504-2-header-poster-320x260.jpg",
+      "start_time": "2026-02-09 08:44:00",
+      "end_time": "2026-02-09 10:41:00",
+      "episode_number": "S1 E6",
+      "show_category": "Drammatico",
+      "show_description": "Saruzzo (Massimiliano Morra) cerca invano notizie di Irma (Giuliana De Sio), arrestata e trasferita a Savona. La donna, con il cuore che oramai fa le bizze, si e' rifiutata di troncare la sua relazione con il giovane Licata, determinata a difendere il suo amore. Ora il suo unico desiderio e' rivedere al piu' presto Saruzzo...Intanto a Lido Ligure l'estate e' afosa e accende gli animi. Mentre Vito, (Francesco Testi) ignaro della verita', aspetta l'amata al Budello, Concetta (Cosima Coppola) e' gia' partita per la Svizzera con il figlio. E' determinata a iniziare la sua nuova vita, ma non riesce a dimenticare il bel Vito. La donna ha con se' anche la pistola sottratta a Schivo (Stefano Dionisi), quella con cui Mario Patane' (Giuseppe De Rosa) ha ucciso Rinaldo Voglino (Andrea Preti). Una prova importante che inchioda i responsabili alle proprie colpe. Si avvicina il giorno delle elezioni. Mentre Schivo cerca in tutti i modi di recuperare il nastro che incastra sua figlia e mostra un.."
+    },
+    {
+      "show_name": "La Forza Di Una Donna",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313930601007404/media/25/89/7bf4b909-d2dc-40e1-b4e5-7ef07b071eb0/3fde9355-53e2-4898-90dc-b8a48a182ba1.jpg",
+      "start_time": "2026-02-09 10:41:00",
+      "end_time": "2026-02-09 11:41:00",
+      "episode_number": "S2 E74",
+      "show_category": "Soap opera",
+      "show_description": "Kismet cerca di capire quale sia la ragione per cui Nezir ha liberato tutti all'improvviso, ma senza arrivare a una conclusione plausibile. Bahar è molto preoccupata per Arif e ne parla con Kismet. Arif non riesce a spiegarsi come suo padre Yusuf abbia potuto abbandonare un figlio senza rimorsi."
+    },
+    {
+      "show_name": "Beautiful",
+      "show_logo": "",
+      "start_time": "2026-02-09 11:41:00",
+      "end_time": "2026-02-09 12:17:00",
+      "episode_number": "S34 E203",
+      "show_category": "Soap opera",
+      "show_description": "Finn insiste con Deacon per portare Sheila in ospedale perché disidratata ma lei minimizza, ora che è a casa si sente al sicuro e si riprenderà molto più velocemente. Al ristorante \"Il Giardino\" Steffy, stupita per il bacio che Ivy ha dato a Liam davanti a tutti, le chiede quale sia lo scopo del suo viaggio."
+    },
+    {
+      "show_name": "Uomini E Donne",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314092401008701/media/11/11/f21ea52d-1e31-49e7-8d68-e227cdb624e0/8885b7cc-6615-475b-a906-64cbebbebdbe.jpg",
+      "start_time": "2026-02-09 12:17:00",
+      "end_time": "2026-02-09 13:51:00",
       "episode_number": "",
-      "show_category": "Commedia Romantica",
-      "show_description": "Brooke sogna una vita perfetta da quando ha 14 anni: un marito conosciuto alle superiori, una sua ditta di design e la casa dei sogni. Ma crescendo, abbandona i suoi progetti per dedicarsi alla relazione con Bill. Mai rinunciare ai propri sogni."
+      "show_category": "Reality show",
+      "show_description": "Sara e Raien ai ferri corti. Alessio e Rosanna a muso duro. Mauro e Gemma al centro delle discussioni. Un cavaliere per Sabrina e uno per Lucia."
     },
     {
       "show_name": "Amici Di Maria",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-08 22:52:00",
-      "end_time": "2026-02-09 00:46:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314092501008201/media/0/0/505449c3-b007-47fe-8c6e-44dc417e7726/a5c19870-83ae-4766-98bd-f2bd73b42bca.jpg",
+      "start_time": "2026-02-09 13:51:00",
+      "end_time": "2026-02-09 14:29:00",
       "episode_number": "",
       "show_category": "Talent show",
-      "show_description": "La corsa al serale entra nel vivo e ogni esibizione puo' cambiare tutto. Chi salvera' la maglia? Chi lascera' la scuola? I giudici della puntata: Ilenia Pastorelli, Alex Britti e Marcello Sacchetta."
+      "show_description": "Le scelte dei prof. di ballo. Plasma ela masterclass con Jake La Furia. Un compito per Plasma."
+    },
+    {
+      "show_name": "Una Mamma Per Amica",
+      "show_logo": "",
+      "start_time": "2026-02-09 14:29:00",
+      "end_time": "2026-02-09 15:28:00",
+      "episode_number": "S7 E13",
+      "show_category": "",
+      "show_description": "Lorelai, Emily e Rory si precipitano in ospedale dove Richard e' stato ricoverato d'urgenza per via di un infarto."
+    },
+    {
+      "show_name": "Una Mamma Per Amica",
+      "show_logo": "",
+      "start_time": "2026-02-09 15:28:00",
+      "end_time": "2026-02-09 16:26:00",
+      "episode_number": "S7 E14",
+      "show_category": "",
+      "show_description": "Richard sta meglio, e cosi' Lorelai torna al lavoro, e Rory a Yale. Christopher da' sfogo a tutta la sua gelosia nei confronti di Luke."
+    },
+    {
+      "show_name": "Bitter Sweet Ingredienti D'amore",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F308759301007304/images/Mediaset_Italia_Production_-_Main/210/524/ST000000001339-3-header-poster-320x260.jpg",
+      "start_time": "2026-02-09 16:26:00",
+      "end_time": "2026-02-09 17:20:00",
+      "episode_number": "S1 E73",
+      "show_category": "Soap opera",
+      "show_description": "Il piano di Hakan sembra funzionare e Nazli e' costretta ad allontanarsi da Ferit. Ma lui non sembra voler accettare la separazione. Le spiegazioni di Nazli, infatti, non sono convincenti e Ferit e' determinato a non arrendersi finche' non scoprira' le vere ragioni del suo allontanamento. Intanto, aiutata da Fatos, Nazli decide di non poter restare con le mani in mano: vuole agire per risolvere la situazione. Cosi', le due amiche, decidono di perquisire la casa di Muzzafer."
+    },
+    {
+      "show_name": "Le Stagioni Del Cuore",
+      "show_logo": "",
+      "start_time": "2026-02-09 17:20:00",
+      "end_time": "2026-02-09 19:33:00",
+      "episode_number": "S1 E4",
+      "show_category": "",
+      "show_description": "Inverno 1967. Sergio e' molto triste: e' il primo Natale senza Claudia ed Emma, ed inoltre l'inflazione ha colpito duramente la Caslam."
+    },
+    {
+      "show_name": "Amici Di Maria",
+      "show_logo": "",
+      "start_time": "2026-02-09 19:33:00",
+      "end_time": "2026-02-09 20:03:00",
+      "episode_number": "",
+      "show_category": "Talent show",
+      "show_description": "L'appuntamento quotidiano con i ragazzi di Amici."
+    },
+    {
+      "show_name": "Uomini E Donne",
+      "show_logo": "",
+      "start_time": "2026-02-09 20:03:00",
+      "end_time": "2026-02-09 21:27:00",
+      "episode_number": "",
+      "show_category": "Reality show",
+      "show_description": "Il dating show che racconta l'amore in chiave contemporanea, tra tronisti giovani e partecipanti over che cercano la loro anima gemella."
+    },
+    {
+      "show_name": "Le Pagine Della Nostra Vita",
+      "show_logo": "",
+      "start_time": "2026-02-09 21:27:00",
+      "end_time": "2026-02-09 23:58:00",
+      "episode_number": "",
+      "show_category": "Drammatico",
+      "show_description": "Dal best seller di Nicholas Sparks. Ryan Gosling e Rachel McAdams in una struggente storia d'amore ambientata negli anni '40. Regia di N. Cassavetes; USA 2004."
+    },
+    {
+      "show_name": "Matrimonio Con L'ex",
+      "show_logo": "",
+      "start_time": "2026-02-09 23:58:00",
+      "end_time": "2026-02-10 01:59:00",
+      "episode_number": "",
+      "show_category": "Commedia",
+      "show_description": "Commedia con Glenn Close e John Malkovich. Una star del cinema con quattro matrimoni alle spalle si prepara alle quinte nozze. Ma niente andra' come previsto. Regia di D. Harris; USA 2017."
     }
   ]
 }

@@ -1,348 +1,222 @@
 {
   "channel_name": "Sky Sport F1",
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "programs": [
     {
-      "show_name": "GP Austria: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/gp-austria-gara.webp",
-      "start_time": "2026-02-07 00:00:00",
-      "end_time": "2026-02-07 00:00:00",
-      "episode_number": "S2025 E55",
-      "show_category": "Sport",
-      "show_description": "Dal Red Bull Ring di Spielberg, Austria."
-    },
-    {
-      "show_name": "Kimi e Toto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/kimi-e-toto.webp",
-      "start_time": "2026-02-07 00:00:00",
-      "end_time": "2026-02-07 00:30:00",
-      "episode_number": "S2024 E7",
-      "show_category": "Sport",
-      "show_description": "Il legame tra Andrea Kimi Antonelli e Toto Wolff va oltre il semplice rapporto tra pilota e team principal: è una scommessa che guarda lontano."
-    },
-    {
-      "show_name": "L'uomo Contro La Macchina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/l-uomo-contro-la-macchina.webp",
-      "start_time": "2026-02-07 00:30:00",
-      "end_time": "2026-02-07 01:00:00",
+      "show_name": "Presentazione Ferrari Sf-26",
+      "show_logo": "https://guidatv.sky.it/uuid/2b1c46fb-7b33-44e6-ace4-52f190b9bfba/cover?territory=IT&md5ChecksumParam=34141bcee65ff0ddf97b538dd4f6c5df",
+      "start_time": "2026-02-08 00:00:00",
+      "end_time": "2026-02-08 00:00:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
-    },
-    {
-      "show_name": "Silverstone: Sprint Race",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/silverstone-sprint-race.webp",
-      "start_time": "2026-02-07 01:00:00",
-      "end_time": "2026-02-07 02:00:00",
-      "episode_number": "S2025 E35",
-      "show_category": "Sport",
-      "show_description": "Dal Circuito di Silverstone, Towcester, Inghilterra."
-    },
-    {
-      "show_name": "Olanda",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/olanda.webp",
-      "start_time": "2026-02-07 02:00:00",
-      "end_time": "2026-02-07 02:30:00",
-      "episode_number": "S2025 E5",
-      "show_category": "Sport",
-      "show_description": "Highlights F1 Academy."
-    },
-    {
-      "show_name": "Fattore McLaren: Andrea Stella",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/fattore-mclaren-andrea-stella.webp",
-      "start_time": "2026-02-07 02:30:00",
-      "end_time": "2026-02-07 02:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Fattore McLaren: Andrea Stella."
-    },
-    {
-      "show_name": "Rivoluzione 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/rivoluzione-2026.webp",
-      "start_time": "2026-02-07 02:45:00",
-      "end_time": "2026-02-07 03:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Prepariamoci al cambio più radicale della storia della F1. Macchina, motore, carburante, gomme: sarà tutto nuovo. Matteo Bobbi ci spiega l’imminente rivoluzione."
-    },
-    {
-      "show_name": "Gara: GP Spagna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/gara-gp-spagna.webp",
-      "start_time": "2026-02-07 03:00:00",
-      "end_time": "2026-02-07 04:00:00",
-      "episode_number": "S2025 E45",
-      "show_category": "Sport",
-      "show_description": "A Barcellona nona gara stagionale: Piastri guida la classifica con 3 punti su Norris e 25 su Verstappen. Telecronaca di Carlo Vanzini, Marc Gené e Roberto Chinchero."
-    },
-    {
-      "show_name": "Singapore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/singapore.webp",
-      "start_time": "2026-02-07 04:00:00",
-      "end_time": "2026-02-07 04:30:00",
-      "episode_number": "S2025 E6",
-      "show_category": "Sport",
-      "show_description": "Highlights F1 Academy."
-    },
-    {
-      "show_name": "Mi presento: Leonardo Fornaroli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/mi-presento-leonardo-fornaroli.webp",
-      "start_time": "2026-02-07 04:30:00",
-      "end_time": "2026-02-07 04:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Conosciamo meglio il pilota italiano campione F3 e in lotta per il titolo di F2: l’obiettivo F1 per Leo ormai è sempre più vicino."
-    },
-    {
-      "show_name": "Il Caso Hamilton",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/il-caso-hamilton.webp",
-      "start_time": "2026-02-07 04:45:00",
-      "end_time": "2026-02-07 05:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Il Caso Hamilton."
-    },
-    {
-      "show_name": "GP Austria: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/gp-austria-gara.webp",
-      "start_time": "2026-02-07 05:00:00",
-      "end_time": "2026-02-07 06:00:00",
-      "episode_number": "S2025 E55",
-      "show_category": "Sport",
-      "show_description": "Dal Red Bull Ring di Spielberg, Austria."
-    },
-    {
-      "show_name": "Kimi e Toto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/kimi-e-toto.webp",
-      "start_time": "2026-02-07 06:00:00",
-      "end_time": "2026-02-07 06:30:00",
-      "episode_number": "S2024 E7",
-      "show_category": "Sport",
-      "show_description": "Il legame tra Andrea Kimi Antonelli e Toto Wolff va oltre il semplice rapporto tra pilota e team principal: è una scommessa che guarda lontano."
-    },
-    {
-      "show_name": "L'uomo Contro La Macchina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/l-uomo-contro-la-macchina.webp",
-      "start_time": "2026-02-07 06:30:00",
-      "end_time": "2026-02-07 07:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
-    },
-    {
-      "show_name": "Silverstone: Sprint Race",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/silverstone-sprint-race.webp",
-      "start_time": "2026-02-07 07:00:00",
-      "end_time": "2026-02-07 08:00:00",
-      "episode_number": "S2025 E35",
-      "show_category": "Sport",
-      "show_description": "Dal Circuito di Silverstone, Towcester, Inghilterra."
-    },
-    {
-      "show_name": "Olanda",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/olanda.webp",
-      "start_time": "2026-02-07 08:00:00",
-      "end_time": "2026-02-07 08:30:00",
-      "episode_number": "S2025 E5",
-      "show_category": "Sport",
-      "show_description": "Highlights F1 Academy."
-    },
-    {
-      "show_name": "Fattore McLaren: Andrea Stella",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/fattore-mclaren-andrea-stella.webp",
-      "start_time": "2026-02-07 08:30:00",
-      "end_time": "2026-02-07 08:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Fattore McLaren: Andrea Stella."
-    },
-    {
-      "show_name": "Rivoluzione 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/rivoluzione-2026.webp",
-      "start_time": "2026-02-07 08:45:00",
-      "end_time": "2026-02-07 09:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Prepariamoci al cambio più radicale della storia della F1. Macchina, motore, carburante, gomme: sarà tutto nuovo. Matteo Bobbi ci spiega l’imminente rivoluzione."
-    },
-    {
-      "show_name": "Gara: GP Spagna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/gara-gp-spagna.webp",
-      "start_time": "2026-02-07 09:00:00",
-      "end_time": "2026-02-07 10:00:00",
-      "episode_number": "S2025 E45",
-      "show_category": "Sport",
-      "show_description": "A Barcellona nona gara stagionale: Piastri guida la classifica con 3 punti su Norris e 25 su Verstappen. Telecronaca di Carlo Vanzini, Marc Gené e Roberto Chinchero."
-    },
-    {
-      "show_name": "Singapore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/singapore.webp",
-      "start_time": "2026-02-07 10:00:00",
-      "end_time": "2026-02-07 10:30:00",
-      "episode_number": "S2025 E6",
-      "show_category": "Sport",
-      "show_description": "Highlights F1 Academy."
-    },
-    {
-      "show_name": "Mi presento: Leonardo Fornaroli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/mi-presento-leonardo-fornaroli.webp",
-      "start_time": "2026-02-07 10:30:00",
-      "end_time": "2026-02-07 10:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Conosciamo meglio il pilota italiano campione F3 e in lotta per il titolo di F2: l’obiettivo F1 per Leo ormai è sempre più vicino."
-    },
-    {
-      "show_name": "Il Caso Hamilton",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/il-caso-hamilton.webp",
-      "start_time": "2026-02-07 10:45:00",
-      "end_time": "2026-02-07 11:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Il Caso Hamilton."
-    },
-    {
-      "show_name": "GP Austria: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/gp-austria-gara.webp",
-      "start_time": "2026-02-07 11:00:00",
-      "end_time": "2026-02-07 12:00:00",
-      "episode_number": "S2025 E55",
-      "show_category": "Sport",
-      "show_description": "Dal Red Bull Ring di Spielberg, Austria."
-    },
-    {
-      "show_name": "Kimi e Toto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/kimi-e-toto.webp",
-      "start_time": "2026-02-07 12:00:00",
-      "end_time": "2026-02-07 12:30:00",
-      "episode_number": "S2024 E7",
-      "show_category": "Sport",
-      "show_description": "Il legame tra Andrea Kimi Antonelli e Toto Wolff va oltre il semplice rapporto tra pilota e team principal: è una scommessa che guarda lontano."
-    },
-    {
-      "show_name": "L'uomo Contro La Macchina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/l-uomo-contro-la-macchina.webp",
-      "start_time": "2026-02-07 12:30:00",
-      "end_time": "2026-02-07 13:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
-    },
-    {
-      "show_name": "Silverstone: Sprint Race",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/silverstone-sprint-race.webp",
-      "start_time": "2026-02-07 13:00:00",
-      "end_time": "2026-02-07 14:05:00",
-      "episode_number": "S2025 E35",
-      "show_category": "Sport",
-      "show_description": "Dal Circuito di Silverstone, Towcester, Inghilterra."
-    },
-    {
-      "show_name": "Olanda",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/olanda.webp",
-      "start_time": "2026-02-07 14:05:00",
-      "end_time": "2026-02-07 14:30:00",
-      "episode_number": "S2025 E5",
-      "show_category": "Sport",
-      "show_description": "Highlights F1 Academy."
-    },
-    {
-      "show_name": "Fattore McLaren: Andrea Stella",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/fattore-mclaren-andrea-stella.webp",
-      "start_time": "2026-02-07 14:30:00",
-      "end_time": "2026-02-07 14:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Fattore McLaren: Andrea Stella."
-    },
-    {
-      "show_name": "Rivoluzione 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/rivoluzione-2026.webp",
-      "start_time": "2026-02-07 14:45:00",
-      "end_time": "2026-02-07 15:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Prepariamoci al cambio più radicale della storia della F1. Macchina, motore, carburante, gomme: sarà tutto nuovo. Matteo Bobbi ci spiega l’imminente rivoluzione."
-    },
-    {
-      "show_name": "Gara: GP Spagna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/gara-gp-spagna.webp",
-      "start_time": "2026-02-07 15:00:00",
-      "end_time": "2026-02-07 16:00:00",
-      "episode_number": "S2025 E45",
-      "show_category": "Sport",
-      "show_description": "A Barcellona nona gara stagionale: Piastri guida la classifica con 3 punti su Norris e 25 su Verstappen. Telecronaca di Carlo Vanzini, Marc Gené e Roberto Chinchero."
-    },
-    {
-      "show_name": "Singapore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/singapore.webp",
-      "start_time": "2026-02-07 16:00:00",
-      "end_time": "2026-02-07 16:30:00",
-      "episode_number": "S2025 E6",
-      "show_category": "Sport",
-      "show_description": "Highlights F1 Academy."
-    },
-    {
-      "show_name": "Mi presento: Leonardo Fornaroli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/mi-presento-leonardo-fornaroli.webp",
-      "start_time": "2026-02-07 16:30:00",
-      "end_time": "2026-02-07 16:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Conosciamo meglio il pilota italiano campione F3 e in lotta per il titolo di F2: l’obiettivo F1 per Leo ormai è sempre più vicino."
-    },
-    {
-      "show_name": "Il Caso Hamilton",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/il-caso-hamilton.webp",
-      "start_time": "2026-02-07 16:45:00",
-      "end_time": "2026-02-07 17:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Il Caso Hamilton."
-    },
-    {
-      "show_name": "GP Austria: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/gp-austria-gara.webp",
-      "start_time": "2026-02-07 17:00:00",
-      "end_time": "2026-02-07 18:00:00",
-      "episode_number": "S2025 E55",
-      "show_category": "Sport",
-      "show_description": "Dal Red Bull Ring di Spielberg, Austria."
+      "show_description": "A Maranello si svela la nuova rossa: oltre all'unveiling da seguire i primi giri della SF-26 sulla pista di Fiorano con Charles Leclerc e Lewis Hamilton."
     },
     {
       "show_name": "S.Race: GP Belgio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/s-race-gp-belgio.webp",
-      "start_time": "2026-02-07 18:00:00",
-      "end_time": "2026-02-07 19:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/14373121-6631-477d-a130-88a38cbf2cd4/cover?territory=IT&md5ChecksumParam=e53b4813e442c9d3e6299df0af087804",
+      "start_time": "2026-02-08 00:00:00",
+      "end_time": "2026-02-08 01:20:00",
       "episode_number": "S2025 E39",
       "show_category": "Sport",
       "show_description": "Dal Circuito di Spa-Francorchamps, Stavelot, Belgio."
     },
     {
       "show_name": "Race 2: GP Singapore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/race-2-gp-singapore.webp",
-      "start_time": "2026-02-07 19:15:00",
-      "end_time": "2026-02-07 21:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/29f69372-c23b-4ee4-9b65-97f83dd4639d/cover?territory=IT&md5ChecksumParam=d4729bf4e7948402cc12e187c3129740",
+      "start_time": "2026-02-08 01:20:00",
+      "end_time": "2026-02-08 02:15:00",
       "episode_number": "S2025 E25",
       "show_category": "Sport",
       "show_description": "18 giovani ragazze si sfidano in pista con delle Formula 4 e con le livree dei team di F1: chi sarà l'erede di Abbi Pulling, campionessa 2024?"
     },
     {
+      "show_name": "Rivoluzione 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/3c0f00ed-2802-4148-9931-f80a03e70262/cover?territory=IT&md5ChecksumParam=aa20c478ce79e174be70d62cbc16572b",
+      "start_time": "2026-02-08 02:15:00",
+      "end_time": "2026-02-08 02:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Prepariamoci al cambio più radicale della storia della F1. Macchina, motore, carburante, gomme: sarà tutto nuovo. Matteo Bobbi ci spiega l’imminente rivoluzione."
+    },
+    {
+      "show_name": "L'uomo Contro La Macchina",
+      "show_logo": "https://guidatv.sky.it/uuid/4edd351f-b9cd-41b9-8d4f-4f465a5e8e72/cover?territory=IT&md5ChecksumParam=04da735fa3b770755c00a60ad0525c02",
+      "start_time": "2026-02-08 02:30:00",
+      "end_time": "2026-02-08 03:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
+    },
+    {
       "show_name": "GP Gran Bretagna: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/gp-gran-bretagna-gara.webp",
-      "start_time": "2026-02-07 21:00:00",
-      "end_time": "2026-02-07 22:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/c5878ae4-e720-41f6-91c0-3f146f4ec773/cover?territory=IT&md5ChecksumParam=e862fb4ed92a824cd83c7184dac96137",
+      "start_time": "2026-02-08 03:00:00",
+      "end_time": "2026-02-08 04:00:00",
       "episode_number": "S2025 E60",
       "show_category": "Sport",
       "show_description": "Dal Circuito di Silverstone, Towcester, Inghilterra."
     },
     {
       "show_name": "Presentazione Ferrari Sf-26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/today/presentazione-ferrari-sf-26.webp",
-      "start_time": "2026-02-07 22:00:00",
-      "end_time": "2026-02-08 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/2b1c46fb-7b33-44e6-ace4-52f190b9bfba/cover?territory=IT&md5ChecksumParam=34141bcee65ff0ddf97b538dd4f6c5df",
+      "start_time": "2026-02-08 04:00:00",
+      "end_time": "2026-02-08 06:00:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "A Maranello si svela la nuova rossa: oltre all'unveiling da seguire i primi giri della SF-26 sulla pista di Fiorano con Charles Leclerc e Lewis Hamilton."
+    },
+    {
+      "show_name": "S.Race: GP Belgio",
+      "show_logo": "https://guidatv.sky.it/uuid/14373121-6631-477d-a130-88a38cbf2cd4/cover?territory=IT&md5ChecksumParam=e53b4813e442c9d3e6299df0af087804",
+      "start_time": "2026-02-08 06:00:00",
+      "end_time": "2026-02-08 07:15:00",
+      "episode_number": "S2025 E39",
+      "show_category": "Sport",
+      "show_description": "Dal Circuito di Spa-Francorchamps, Stavelot, Belgio."
+    },
+    {
+      "show_name": "Race 2: GP Singapore",
+      "show_logo": "https://guidatv.sky.it/uuid/29f69372-c23b-4ee4-9b65-97f83dd4639d/cover?territory=IT&md5ChecksumParam=d4729bf4e7948402cc12e187c3129740",
+      "start_time": "2026-02-08 07:15:00",
+      "end_time": "2026-02-08 08:15:00",
+      "episode_number": "S2025 E25",
+      "show_category": "Sport",
+      "show_description": "18 giovani ragazze si sfidano in pista con delle Formula 4 e con le livree dei team di F1: chi sarà l'erede di Abbi Pulling, campionessa 2024?"
+    },
+    {
+      "show_name": "Rivoluzione 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/3c0f00ed-2802-4148-9931-f80a03e70262/cover?territory=IT&md5ChecksumParam=aa20c478ce79e174be70d62cbc16572b",
+      "start_time": "2026-02-08 08:15:00",
+      "end_time": "2026-02-08 08:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Prepariamoci al cambio più radicale della storia della F1. Macchina, motore, carburante, gomme: sarà tutto nuovo. Matteo Bobbi ci spiega l’imminente rivoluzione."
+    },
+    {
+      "show_name": "L'uomo Contro La Macchina",
+      "show_logo": "https://guidatv.sky.it/uuid/4edd351f-b9cd-41b9-8d4f-4f465a5e8e72/cover?territory=IT&md5ChecksumParam=04da735fa3b770755c00a60ad0525c02",
+      "start_time": "2026-02-08 08:30:00",
+      "end_time": "2026-02-08 09:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
+    },
+    {
+      "show_name": "GP Gran Bretagna: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/c5878ae4-e720-41f6-91c0-3f146f4ec773/cover?territory=IT&md5ChecksumParam=e862fb4ed92a824cd83c7184dac96137",
+      "start_time": "2026-02-08 09:00:00",
+      "end_time": "2026-02-08 10:00:00",
+      "episode_number": "S2025 E60",
+      "show_category": "Sport",
+      "show_description": "Dal Circuito di Silverstone, Towcester, Inghilterra."
+    },
+    {
+      "show_name": "Presentazione Ferrari Sf-26",
+      "show_logo": "https://guidatv.sky.it/uuid/2b1c46fb-7b33-44e6-ace4-52f190b9bfba/cover?territory=IT&md5ChecksumParam=34141bcee65ff0ddf97b538dd4f6c5df",
+      "start_time": "2026-02-08 10:00:00",
+      "end_time": "2026-02-08 12:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "A Maranello si svela la nuova rossa: oltre all'unveiling da seguire i primi giri della SF-26 sulla pista di Fiorano con Charles Leclerc e Lewis Hamilton."
+    },
+    {
+      "show_name": "S.Race: GP Belgio",
+      "show_logo": "https://guidatv.sky.it/uuid/14373121-6631-477d-a130-88a38cbf2cd4/cover?territory=IT&md5ChecksumParam=e53b4813e442c9d3e6299df0af087804",
+      "start_time": "2026-02-08 12:00:00",
+      "end_time": "2026-02-08 13:15:00",
+      "episode_number": "S2025 E39",
+      "show_category": "Sport",
+      "show_description": "Dal Circuito di Spa-Francorchamps, Stavelot, Belgio."
+    },
+    {
+      "show_name": "Race 2: GP Singapore",
+      "show_logo": "https://guidatv.sky.it/uuid/29f69372-c23b-4ee4-9b65-97f83dd4639d/cover?territory=IT&md5ChecksumParam=d4729bf4e7948402cc12e187c3129740",
+      "start_time": "2026-02-08 13:15:00",
+      "end_time": "2026-02-08 14:10:00",
+      "episode_number": "S2025 E25",
+      "show_category": "Sport",
+      "show_description": "18 giovani ragazze si sfidano in pista con delle Formula 4 e con le livree dei team di F1: chi sarà l'erede di Abbi Pulling, campionessa 2024?"
+    },
+    {
+      "show_name": "Rivoluzione 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/3c0f00ed-2802-4148-9931-f80a03e70262/cover?territory=IT&md5ChecksumParam=aa20c478ce79e174be70d62cbc16572b",
+      "start_time": "2026-02-08 14:10:00",
+      "end_time": "2026-02-08 14:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Prepariamoci al cambio più radicale della storia della F1. Macchina, motore, carburante, gomme: sarà tutto nuovo. Matteo Bobbi ci spiega l’imminente rivoluzione."
+    },
+    {
+      "show_name": "L'uomo Contro La Macchina",
+      "show_logo": "https://guidatv.sky.it/uuid/4edd351f-b9cd-41b9-8d4f-4f465a5e8e72/cover?territory=IT&md5ChecksumParam=04da735fa3b770755c00a60ad0525c02",
+      "start_time": "2026-02-08 14:30:00",
+      "end_time": "2026-02-08 15:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
+    },
+    {
+      "show_name": "GP Gran Bretagna: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/c5878ae4-e720-41f6-91c0-3f146f4ec773/cover?territory=IT&md5ChecksumParam=e862fb4ed92a824cd83c7184dac96137",
+      "start_time": "2026-02-08 15:00:00",
+      "end_time": "2026-02-08 16:00:00",
+      "episode_number": "S2025 E60",
+      "show_category": "Sport",
+      "show_description": "Dal Circuito di Silverstone, Towcester, Inghilterra."
+    },
+    {
+      "show_name": "Presentazione Ferrari Sf-26",
+      "show_logo": "https://guidatv.sky.it/uuid/2b1c46fb-7b33-44e6-ace4-52f190b9bfba/cover?territory=IT&md5ChecksumParam=34141bcee65ff0ddf97b538dd4f6c5df",
+      "start_time": "2026-02-08 16:00:00",
+      "end_time": "2026-02-08 18:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "A Maranello si svela la nuova rossa: oltre all'unveiling da seguire i primi giri della SF-26 sulla pista di Fiorano con Charles Leclerc e Lewis Hamilton."
+    },
+    {
+      "show_name": "Monza: Sprint Race",
+      "show_logo": "https://guidatv.sky.it/uuid/ba20e8ac-418b-44e4-a274-2d82448b8c29/cover?territory=IT&md5ChecksumParam=fbfaf99f654b2c71540a1d9667474d42",
+      "start_time": "2026-02-08 18:00:00",
+      "end_time": "2026-02-08 19:00:00",
+      "episode_number": "S2025 E47",
+      "show_category": "Sport",
+      "show_description": "Dall'Autodromo Nazionale di Monza, Italia."
+    },
+    {
+      "show_name": "Race 2: GP Las Vegas",
+      "show_logo": "https://guidatv.sky.it/uuid/896f2446-90e0-4917-a658-ee553d99c8c8/cover?territory=IT&md5ChecksumParam=39758367b078939c06f55ac41f0ff9fe",
+      "start_time": "2026-02-08 19:00:00",
+      "end_time": "2026-02-08 21:00:00",
+      "episode_number": "S2025 E29",
+      "show_category": "Sport",
+      "show_description": "18 giovani ragazze si sfidano in pista con delle Formula 4 e con le livree dei team di F1: chi sarà l'erede di Abbi Pulling, campionessa 2024?"
+    },
+    {
+      "show_name": "GP Belgio: Sprint Race",
+      "show_logo": "https://guidatv.sky.it/uuid/54befddb-24bf-47f7-91cb-d1872aeca017/cover?territory=IT&md5ChecksumParam=988971b9a6add2d545326b52537635f3",
+      "start_time": "2026-02-08 21:00:00",
+      "end_time": "2026-02-08 21:55:00",
+      "episode_number": "S2025 E63",
+      "show_category": "Sport",
+      "show_description": "Dal Circuito di Spa-Francorchamps, Stavelot, Belgio."
+    },
+    {
+      "show_name": "GP Belgio: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/8f268578-aae7-43aa-8c2a-631302f79155/cover?territory=IT&md5ChecksumParam=28d2c56cd3350d3a9b0d3f46537e37a6",
+      "start_time": "2026-02-08 21:55:00",
+      "end_time": "2026-02-08 23:00:00",
+      "episode_number": "S2025 E65",
+      "show_category": "Sport",
+      "show_description": "Dal Circuito di Spa-Francorchamps, Stavelot, Belgio."
+    },
+    {
+      "show_name": "Yas Island: Feature Race",
+      "show_logo": "https://guidatv.sky.it/uuid/5a73b908-eff6-4ec0-96fe-9b4f8a48dfd2/cover?territory=IT&md5ChecksumParam=b4c76cfed730e6c874ace8d721fb89e3",
+      "start_time": "2026-02-08 23:00:00",
+      "end_time": "2026-02-09 00:00:00",
+      "episode_number": "S2025 E60",
+      "show_category": "Sport",
+      "show_description": "Dallo Yas Marina Circuit di Abu Dhabi, Emirati Arabi Uniti."
     }
   ]
 }
