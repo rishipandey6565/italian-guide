@@ -1,33 +1,24 @@
 {
   "channel_name": "Sky Sport  251",
-  "date": "2026-02-08",
+  "date": "2026-02-09",
   "programs": [
     {
-      "show_name": "Fiorentina - Torino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/today/fiorentina-torino.webp",
-      "start_time": "2026-02-08 00:00:00",
-      "end_time": "2026-02-08 14:00:00",
-      "episode_number": "S2025 E70",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
-    },
-    {
-      "show_name": "Sambenedettese - Perugia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/today/sambenedettese-perugia.webp",
-      "start_time": "2026-02-08 14:00:00",
-      "end_time": "2026-02-08 17:00:00",
-      "episode_number": "S2025 E252",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Riviera delle Palme di San Benedetto del Tronto, Italia."
-    },
-    {
       "show_name": "Sassuolo - Inter",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/today/sassuolo-inter.webp",
-      "start_time": "2026-02-08 17:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/240da2ad-fd6d-4a98-b8ea-43e2f02e49dd/cover?territory=IT&md5ChecksumParam=4787a07f0936d47e2285f5bcc8b7e6e2",
+      "start_time": "2026-02-09 00:00:00",
       "end_time": "2026-02-09 20:00:00",
       "episode_number": "S2025 E71",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Mapei Città del Tricolore di Reggio Emilia, Italia."
+    },
+    {
+      "show_name": "Roma - Cagliari",
+      "show_logo": "https://guidatv.sky.it/uuid/f1ede0e5-2852-4a0c-ac36-a5273ef144a1/cover?territory=IT&md5ChecksumParam=454c8be319cd05ff6480577a0350a7db",
+      "start_time": "2026-02-09 20:00:00",
+      "end_time": "2026-02-10 17:30:00",
+      "episode_number": "S2025 E72",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Olimpico di Roma, Italia."
     }
   ]
 }

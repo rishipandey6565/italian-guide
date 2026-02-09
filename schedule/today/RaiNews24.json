@@ -1,678 +1,525 @@
 {
   "channel_name": "RaiNews24",
-  "date": "2026-02-08",
+  "date": "2026-02-09",
   "programs": [
     {
       "show_name": "Rassegna Stampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/rassegna-stampa.webp",
-      "start_time": "2026-02-08 00:00:00",
-      "end_time": "2026-02-08 00:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "TG notte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/tg-notte.webp",
-      "start_time": "2026-02-08 00:00:00",
-      "end_time": "2026-02-08 00:26:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Meteo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/meteo.webp",
-      "start_time": "2026-02-08 00:26:00",
-      "end_time": "2026-02-08 00:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "TG notte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/tg-notte.webp",
-      "start_time": "2026-02-08 00:30:00",
-      "end_time": "2026-02-08 00:45:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Rassegna Stampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/rassegna-stampa.webp",
-      "start_time": "2026-02-08 00:45:00",
-      "end_time": "2026-02-08 01:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Rassegna Stampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/rassegna-stampa.webp",
-      "start_time": "2026-02-08 01:00:00",
-      "end_time": "2026-02-08 01:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "TuttiFrutti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/tuttifrutti.webp",
-      "start_time": "2026-02-08 01:30:00",
-      "end_time": "2026-02-08 02:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "TG notte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/tg-notte.webp",
-      "start_time": "2026-02-08 02:00:00",
-      "end_time": "2026-02-08 02:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Rassegna Stampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/rassegna-stampa.webp",
-      "start_time": "2026-02-08 02:30:00",
-      "end_time": "2026-02-08 03:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 03:00:00",
-      "end_time": "2026-02-08 03:03:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Documentario",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/documentario.webp",
-      "start_time": "2026-02-08 03:03:00",
-      "end_time": "2026-02-08 03:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Documentario",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/documentario.webp",
-      "start_time": "2026-02-08 03:30:00",
-      "end_time": "2026-02-08 04:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Rassegna Stampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/rassegna-stampa.webp",
-      "start_time": "2026-02-08 04:00:00",
-      "end_time": "2026-02-08 04:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Sulla strada",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/sulla-strada.webp",
-      "start_time": "2026-02-08 04:30:00",
-      "end_time": "2026-02-08 05:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "TG alba",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/tg-alba.webp",
-      "start_time": "2026-02-08 05:00:00",
-      "end_time": "2026-02-08 05:15:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Rassegna Stampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/rassegna-stampa.webp",
-      "start_time": "2026-02-08 05:15:00",
-      "end_time": "2026-02-08 05:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Rassegna Stampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/rassegna-stampa.webp",
-      "start_time": "2026-02-08 05:30:00",
-      "end_time": "2026-02-08 06:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 06:00:00",
-      "end_time": "2026-02-08 06:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Rassegna Stampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/rassegna-stampa.webp",
-      "start_time": "2026-02-08 06:20:00",
-      "end_time": "2026-02-08 06:26:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Meteo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/meteo.webp",
-      "start_time": "2026-02-08 06:26:00",
-      "end_time": "2026-02-08 06:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "TuttiFrutti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/tuttifrutti.webp",
-      "start_time": "2026-02-08 06:30:00",
-      "end_time": "2026-02-08 06:56:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Meteo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/meteo.webp",
-      "start_time": "2026-02-08 06:56:00",
-      "end_time": "2026-02-08 07:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 07:00:00",
-      "end_time": "2026-02-08 07:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Rassegna Stampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/rassegna-stampa.webp",
-      "start_time": "2026-02-08 07:30:00",
-      "end_time": "2026-02-08 08:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 08:00:00",
-      "end_time": "2026-02-08 08:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Rassegna Stampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/rassegna-stampa.webp",
-      "start_time": "2026-02-08 08:30:00",
-      "end_time": "2026-02-08 08:55:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Meteo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/meteo.webp",
-      "start_time": "2026-02-08 08:55:00",
-      "end_time": "2026-02-08 09:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 09:00:00",
-      "end_time": "2026-02-08 09:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Sommario",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/sommario.webp",
-      "start_time": "2026-02-08 09:30:00",
-      "end_time": "2026-02-08 09:45:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Sulla strada",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/sulla-strada.webp",
-      "start_time": "2026-02-08 09:45:00",
-      "end_time": "2026-02-08 10:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 10:00:00",
-      "end_time": "2026-02-08 10:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Lo Stato dell'Unione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/lo-stato-dell-unione.webp",
-      "start_time": "2026-02-08 10:30:00",
-      "end_time": "2026-02-08 10:57:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "CCISS - Viaggiare informati",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/cciss-viaggiare-informati.webp",
-      "start_time": "2026-02-08 10:57:00",
-      "end_time": "2026-02-08 11:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 11:00:00",
-      "end_time": "2026-02-08 11:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "TG breve",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/tg-breve.webp",
-      "start_time": "2026-02-08 11:30:00",
-      "end_time": "2026-02-08 11:55:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Meteo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/meteo.webp",
-      "start_time": "2026-02-08 11:55:00",
-      "end_time": "2026-02-08 12:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Via della Conciliazione - Dentro il Giubileo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/via-della-conciliazione-dentro-il-giubileo.webp",
-      "start_time": "2026-02-08 12:00:00",
-      "end_time": "2026-02-08 12:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "VIA DELLA CONCILIAZIONE - DENTRO IL GIUBILEO."
-    },
-    {
-      "show_name": "Sport 24",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/sport-24.webp",
-      "start_time": "2026-02-08 12:30:00",
-      "end_time": "2026-02-08 13:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 13:00:00",
-      "end_time": "2026-02-08 13:27:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Meteo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/meteo.webp",
-      "start_time": "2026-02-08 13:27:00",
-      "end_time": "2026-02-08 13:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Sommario",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/sommario.webp",
-      "start_time": "2026-02-08 13:30:00",
-      "end_time": "2026-02-08 13:45:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "AR - Frammenti d'ARte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/ar-frammenti-d-arte.webp",
-      "start_time": "2026-02-08 13:45:00",
-      "end_time": "2026-02-08 14:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 14:00:00",
-      "end_time": "2026-02-08 14:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Non solo 8 marzo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/non-solo-8-marzo.webp",
-      "start_time": "2026-02-08 14:20:00",
-      "end_time": "2026-02-08 14:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083156682_1.jpg",
+      "start_time": "2026-02-09 00:00:00",
+      "end_time": "2026-02-09 00:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/news.webp",
-      "start_time": "2026-02-08 14:30:00",
-      "end_time": "2026-02-08 14:45:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/23/1674460838987_1.jpg",
+      "start_time": "2026-02-09 00:00:00",
+      "end_time": "2026-02-09 00:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "In Scena",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/in-scena.webp",
-      "start_time": "2026-02-08 14:45:00",
-      "end_time": "2026-02-08 14:51:00",
+      "show_name": "Rassegna Stampa",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083156682_1.jpg",
+      "start_time": "2026-02-09 00:30:00",
+      "end_time": "2026-02-09 01:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Supercinema",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/supercinema.webp",
-      "start_time": "2026-02-08 14:51:00",
-      "end_time": "2026-02-08 15:00:00",
+      "show_name": "News",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/23/1674460838987_1.jpg",
+      "start_time": "2026-02-09 01:00:00",
+      "end_time": "2026-02-09 01:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 15:00:00",
-      "end_time": "2026-02-08 15:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Sommario",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/sommario.webp",
-      "start_time": "2026-02-08 15:30:00",
-      "end_time": "2026-02-08 15:50:00",
+      "show_name": "News",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/23/1674460838987_1.jpg",
+      "start_time": "2026-02-09 01:30:00",
+      "end_time": "2026-02-09 01:45:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Central Park West",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/central-park-west.webp",
-      "start_time": "2026-02-08 15:50:00",
-      "end_time": "2026-02-08 16:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674085100111_1.jpg",
+      "start_time": "2026-02-09 01:45:00",
+      "end_time": "2026-02-09 02:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 16:00:00",
-      "end_time": "2026-02-08 16:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "TG ucraino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/tg-ucraino.webp",
-      "start_time": "2026-02-08 16:30:00",
-      "end_time": "2026-02-08 16:35:00",
+      "show_name": "Rassegna Stampa",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083156682_1.jpg",
+      "start_time": "2026-02-09 02:00:00",
+      "end_time": "2026-02-09 02:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/news.webp",
-      "start_time": "2026-02-08 16:35:00",
-      "end_time": "2026-02-08 16:45:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/23/1674460838987_1.jpg",
+      "start_time": "2026-02-09 02:30:00",
+      "end_time": "2026-02-09 02:45:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Altri Mondi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/altri-mondi.webp",
-      "start_time": "2026-02-08 16:45:00",
-      "end_time": "2026-02-08 17:00:00",
+      "show_name": "Focus 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083347761_1.jpg",
+      "start_time": "2026-02-09 02:45:00",
+      "end_time": "2026-02-09 03:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Rassegna Stampa",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083156682_1.jpg",
+      "start_time": "2026-02-09 03:00:00",
+      "end_time": "2026-02-09 03:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/23/1674460838987_1.jpg",
+      "start_time": "2026-02-09 03:30:00",
+      "end_time": "2026-02-09 03:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "AR - Frammenti d'ARte",
+      "show_logo": "https://www.raiplay.it/dl/img/2018/09/04/1536059425306_AR_frammentidarte_o.jpg",
+      "start_time": "2026-02-09 03:45:00",
+      "end_time": "2026-02-09 04:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Rassegna Stampa",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083156682_1.jpg",
+      "start_time": "2026-02-09 04:00:00",
+      "end_time": "2026-02-09 04:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/23/1674460838987_1.jpg",
+      "start_time": "2026-02-09 04:30:00",
+      "end_time": "2026-02-09 04:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Focus 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083347761_1.jpg",
+      "start_time": "2026-02-09 04:45:00",
+      "end_time": "2026-02-09 05:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Rassegna Stampa",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083156682_1.jpg",
+      "start_time": "2026-02-09 05:00:00",
+      "end_time": "2026-02-09 05:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Rassegna Stampa",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083156682_1.jpg",
+      "start_time": "2026-02-09 05:30:00",
+      "end_time": "2026-02-09 06:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/23/1674460838987_1.jpg",
+      "start_time": "2026-02-09 06:00:00",
+      "end_time": "2026-02-09 06:15:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Mattina 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/10/09/1760011000774_MATTINA24_4%20RAIPLAY%202048%201152.jpg",
+      "start_time": "2026-02-09 06:15:00",
+      "end_time": "2026-02-09 07:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Rassegna Stampa",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083156682_1.jpg",
+      "start_time": "2026-02-09 07:00:00",
+      "end_time": "2026-02-09 07:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Mattina 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/01/1769969475287_Mattina%2024.jpg",
+      "start_time": "2026-02-09 07:30:00",
+      "end_time": "2026-02-09 08:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/23/1674460838987_1.jpg",
+      "start_time": "2026-02-09 08:00:00",
+      "end_time": "2026-02-09 08:25:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "CCISS - Viaggiare informati",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/11/21/1763723047284_RaiMobilita2048x1152.png",
+      "start_time": "2026-02-09 08:25:00",
+      "end_time": "2026-02-09 08:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Rassegna Stampa",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083156682_1.jpg",
+      "start_time": "2026-02-09 08:30:00",
+      "end_time": "2026-02-09 08:55:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Meteo 2",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/11/20/1763645323036_RaiMeteo2048x1152.png",
+      "start_time": "2026-02-09 08:55:00",
+      "end_time": "2026-02-09 09:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 17:00:00",
-      "end_time": "2026-02-08 17:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/09/21/1758487064891_news24%202048.jpg",
+      "start_time": "2026-02-09 09:00:00",
+      "end_time": "2026-02-09 09:17:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Sommario",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/sommario.webp",
-      "start_time": "2026-02-08 17:30:00",
-      "end_time": "2026-02-08 17:45:00",
+      "show_name": "Rassegna Stampa",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083156682_1.jpg",
+      "start_time": "2026-02-09 09:17:00",
+      "end_time": "2026-02-09 09:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Basta la salute",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/basta-la-salute.webp",
-      "start_time": "2026-02-08 17:45:00",
-      "end_time": "2026-02-08 18:00:00",
+      "show_name": "Cronache dall'Italia",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083679998_1.jpg",
+      "start_time": "2026-02-09 09:30:00",
+      "end_time": "2026-02-09 10:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 18:00:00",
-      "end_time": "2026-02-08 18:26:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Meteo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/meteo.webp",
-      "start_time": "2026-02-08 18:26:00",
-      "end_time": "2026-02-08 18:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Spotlight",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/spotlight.webp",
-      "start_time": "2026-02-08 18:30:00",
-      "end_time": "2026-02-08 19:00:00",
+      "show_name": "Inside 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/09/30/1759222883390_2048x1152.jpg",
+      "start_time": "2026-02-09 10:00:00",
+      "end_time": "2026-02-09 11:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 19:00:00",
-      "end_time": "2026-02-08 19:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Sommario",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/sommario.webp",
-      "start_time": "2026-02-08 19:30:00",
-      "end_time": "2026-02-08 19:35:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Sport 24",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/sport-24.webp",
-      "start_time": "2026-02-08 19:35:00",
-      "end_time": "2026-02-08 19:45:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "In Scena",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/in-scena.webp",
-      "start_time": "2026-02-08 19:45:00",
-      "end_time": "2026-02-08 19:51:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Supercinema",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/supercinema.webp",
-      "start_time": "2026-02-08 19:51:00",
-      "end_time": "2026-02-08 20:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/09/21/1758487064891_news24%202048.jpg",
+      "start_time": "2026-02-09 11:00:00",
+      "end_time": "2026-02-09 11:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "TG LIS",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/tg-lis.webp",
-      "start_time": "2026-02-08 20:00:00",
-      "end_time": "2026-02-08 20:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083766456_1.jpg",
+      "start_time": "2026-02-09 11:30:00",
+      "end_time": "2026-02-09 11:35:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "TuttiFrutti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/tuttifrutti.webp",
-      "start_time": "2026-02-08 20:30:00",
-      "end_time": "2026-02-08 21:00:00",
+      "show_name": "Cronache dall'Italia",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083679998_1.jpg",
+      "start_time": "2026-02-09 11:35:00",
+      "end_time": "2026-02-09 11:50:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 21:00:00",
-      "end_time": "2026-02-08 21:30:00",
+      "show_name": "Focus 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083347761_1.jpg",
+      "start_time": "2026-02-09 11:50:00",
+      "end_time": "2026-02-09 12:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Sommario TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/sommario-tg.webp",
-      "start_time": "2026-02-08 21:30:00",
-      "end_time": "2026-02-08 21:45:00",
+      "show_name": "News",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/23/1674460838987_1.jpg",
+      "start_time": "2026-02-09 12:00:00",
+      "end_time": "2026-02-09 12:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
-      "show_name": "Altri Mondi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/altri-mondi.webp",
-      "start_time": "2026-02-08 21:45:00",
-      "end_time": "2026-02-08 22:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Documentario",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/documentario.webp",
-      "start_time": "2026-02-08 22:00:00",
-      "end_time": "2026-02-08 22:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Documentario",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/documentario.webp",
-      "start_time": "2026-02-08 22:30:00",
-      "end_time": "2026-02-08 23:00:00",
+      "show_name": "Sport 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083857577_1.jpg",
+      "start_time": "2026-02-09 12:30:00",
+      "end_time": "2026-02-09 13:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Titoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/titoli.webp",
-      "start_time": "2026-02-08 23:00:00",
-      "end_time": "2026-02-08 23:15:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/09/21/1758487064891_news24%202048.jpg",
+      "start_time": "2026-02-09 13:00:00",
+      "end_time": "2026-02-09 13:28:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Meteo",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png",
+      "start_time": "2026-02-09 13:28:00",
+      "end_time": "2026-02-09 13:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "News in english",
+      "show_logo": "https://www.raiplay.it/dl/img/2022/11/30/1669831222804_2048x1152_News%20in%20English.jpg",
+      "start_time": "2026-02-09 13:30:00",
+      "end_time": "2026-02-09 13:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Motori 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674085191973_1.jpg",
+      "start_time": "2026-02-09 13:40:00",
+      "end_time": "2026-02-09 14:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Titoli",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/09/21/1758487064891_news24%202048.jpg",
+      "start_time": "2026-02-09 14:00:00",
+      "end_time": "2026-02-09 14:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/23/1674460838987_1.jpg",
+      "start_time": "2026-02-09 14:30:00",
+      "end_time": "2026-02-09 14:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Focus 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083347761_1.jpg",
+      "start_time": "2026-02-09 14:45:00",
+      "end_time": "2026-02-09 15:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Pomeriggio 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/09/30/1759222931269_2048x1152.jpg",
+      "start_time": "2026-02-09 15:00:00",
+      "end_time": "2026-02-09 17:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Titoli",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/09/21/1758487064891_news24%202048.jpg",
+      "start_time": "2026-02-09 17:00:00",
+      "end_time": "2026-02-09 17:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Sera 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/09/30/1759222983291_2048x1152.jpg",
+      "start_time": "2026-02-09 17:30:00",
+      "end_time": "2026-02-09 19:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Sport 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083857577_1.jpg",
+      "start_time": "2026-02-09 19:30:00",
+      "end_time": "2026-02-09 19:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Focus 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083347761_1.jpg",
+      "start_time": "2026-02-09 19:45:00",
+      "end_time": "2026-02-09 20:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "TG LIS",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083766456_1.jpg",
+      "start_time": "2026-02-09 20:00:00",
+      "end_time": "2026-02-09 20:26:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Meteo",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png",
+      "start_time": "2026-02-09 20:26:00",
+      "end_time": "2026-02-09 20:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Sommario",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083815252_1.jpg",
+      "start_time": "2026-02-09 20:30:00",
+      "end_time": "2026-02-09 20:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Focus 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083347761_1.jpg",
+      "start_time": "2026-02-09 20:45:00",
+      "end_time": "2026-02-09 21:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/23/1674460838987_1.jpg",
+      "start_time": "2026-02-09 21:00:00",
+      "end_time": "2026-02-09 21:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Focus 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083347761_1.jpg",
+      "start_time": "2026-02-09 21:30:00",
+      "end_time": "2026-02-09 21:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Motori 24",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674085191973_1.jpg",
+      "start_time": "2026-02-09 21:45:00",
+      "end_time": "2026-02-09 22:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Titoli",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/09/21/1758487064891_news24%202048.jpg",
+      "start_time": "2026-02-09 22:00:00",
+      "end_time": "2026-02-09 22:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Spotlight",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/09/30/1759235377815_2048x1152.jpg",
+      "start_time": "2026-02-09 22:30:00",
+      "end_time": "2026-02-09 23:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Rassegna Stampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/rassegna-stampa.webp",
-      "start_time": "2026-02-08 23:15:00",
-      "end_time": "2026-02-08 23:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083156682_1.jpg",
+      "start_time": "2026-02-09 23:00:00",
+      "end_time": "2026-02-09 23:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Rassegna Stampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiNews24/today/rassegna-stampa.webp",
-      "start_time": "2026-02-08 23:30:00",
-      "end_time": "2026-02-09 00:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/01/19/1674083156682_1.jpg",
+      "start_time": "2026-02-09 23:30:00",
+      "end_time": "2026-02-10 00:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""

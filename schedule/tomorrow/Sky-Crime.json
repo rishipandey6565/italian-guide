@@ -1,285 +1,240 @@
 {
   "channel_name": "Sky Crime",
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "programs": [
     {
+      "show_name": "OnlyFans: sesso, soldi e sangue",
+      "show_logo": "https://guidatv.sky.it/uuid/79510ab0-868d-4d89-9449-c7a468662da2/cover?territory=IT&md5ChecksumParam=17a9cd1d12804996a9d3d8ac4c07305a",
+      "start_time": "2026-02-10 00:00:00",
+      "end_time": "2026-02-10 01:10:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "OnlyFans: sesso, soldi e sangue - Un misterioso omicidio a Miami svela il lato oscuro di OnlyFans: la piattaforma che ha rivoluzionato internet nasconde una storia di potere e pericoli."
+    },
+    {
+      "show_name": "Murder Suspect",
+      "show_logo": "https://guidatv.sky.it/uuid/3409e90c-2570-4df0-8c0a-a511029fe42f/cover?cgid=282&territory=IT&md5ChecksumParam=13478e70ab35274d199c76bf5becdcee.it",
+      "start_time": "2026-02-10 01:10:00",
+      "end_time": "2026-02-10 02:20:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Parte 2 - Un uomo viene trovato picchiato a morte nella sua casa. Tre uomini sono sospettati, ma un imprevisto mette a rischio l'indagine."
+    },
+    {
+      "show_name": "Homicide Squad: New Orleans",
+      "show_logo": "https://guidatv.sky.it/uuid/ebf4a9a1-3e61-44e3-9a54-652270f90670/cover?cgid=282&territory=IT&md5ChecksumParam=a6e11100b67eae0bba237a1b1e624e22.it",
+      "start_time": "2026-02-10 02:20:00",
+      "end_time": "2026-02-10 03:10:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nel cuore del vivace Mardi Gras di New Orleans, la festa viene spezzata da colpi di pistola: nel French Quarter un uomo cade a terra senza vita."
+    },
+    {
+      "show_name": "Homicide Squad: New Orleans",
+      "show_logo": "https://guidatv.sky.it/uuid/ebf4a9a1-3e61-44e3-9a54-652270f90670/cover?cgid=282&territory=IT&md5ChecksumParam=a6e11100b67eae0bba237a1b1e624e22.it",
+      "start_time": "2026-02-10 03:10:00",
+      "end_time": "2026-02-10 03:55:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "All'alba di domenica, la detective Tanisha Sykes Smith interviene nel Lower 9th Ward, quartiere di New Orleans."
+    },
+    {
       "show_name": "Sei in arresto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/sei-in-arresto.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-09 00:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/0ad8954e-ec6b-3940-9f9d-ac9995a107aa/cover?territory=IT&md5ChecksumParam=15eb5b73e62aabf3d3f62caf140348ad",
+      "start_time": "2026-02-10 03:55:00",
+      "end_time": "2026-02-10 04:20:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un uomo chiede alla sua ragazza di sposarlo mentre sta venendo arrestato e il dipendente di un acquario da' una mano a catturare un ladro di squali."
+    },
+    {
+      "show_name": "Sei in arresto!",
+      "show_logo": "https://guidatv.sky.it/uuid/0ad8954e-ec6b-3940-9f9d-ac9995a107aa/cover?territory=IT&md5ChecksumParam=15eb5b73e62aabf3d3f62caf140348ad",
+      "start_time": "2026-02-10 04:20:00",
+      "end_time": "2026-02-10 04:45:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un ladro rimane incastrato in un comignolo, il proprietario di un negozio di animali coglie un ladro con serpenti nei pantaloni."
+    },
+    {
+      "show_name": "Sei in arresto!",
+      "show_logo": "https://guidatv.sky.it/uuid/0ad8954e-ec6b-3940-9f9d-ac9995a107aa/cover?territory=IT&md5ChecksumParam=15eb5b73e62aabf3d3f62caf140348ad",
+      "start_time": "2026-02-10 04:45:00",
+      "end_time": "2026-02-10 05:05:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una sposa e il suo servizio di catering sono accusati di aver drogato gli invitati al matrimonio e una donna entra nella tana dei leoni dello zoo del Bronx."
+    },
+    {
+      "show_name": "Sei in arresto!",
+      "show_logo": "https://guidatv.sky.it/uuid/0ad8954e-ec6b-3940-9f9d-ac9995a107aa/cover?territory=IT&md5ChecksumParam=15eb5b73e62aabf3d3f62caf140348ad",
+      "start_time": "2026-02-10 05:05:00",
+      "end_time": "2026-02-10 05:30:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Due anziani vengono arrestati per invasione di proprieta' privata mentre catturano gatti randagi."
+    },
+    {
+      "show_name": "Sei in arresto!",
+      "show_logo": "https://guidatv.sky.it/uuid/0ad8954e-ec6b-3940-9f9d-ac9995a107aa/cover?territory=IT&md5ChecksumParam=15eb5b73e62aabf3d3f62caf140348ad",
+      "start_time": "2026-02-10 05:30:00",
+      "end_time": "2026-02-10 06:00:00",
       "episode_number": "S1 E7",
       "show_category": "Mondo e Tendenze",
       "show_description": "Una sospettata fugge a tutta velocita portandosi dietro suo figlio in fasce, un poliziotto arresta un uomo con un palo del telefono sulla macchina."
     },
     {
+      "show_name": "L'impostore: La storia di Alessandro Proto",
+      "show_logo": "https://guidatv.sky.it/uuid/4a10dcb0-36d1-4172-9cdf-65dd997fe30b/cover?territory=IT&md5ChecksumParam=0359d4c73085792404c5d6dcc8778800",
+      "start_time": "2026-02-10 06:00:00",
+      "end_time": "2026-02-10 07:50:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La storia di Alessandro Proto, l'impostore che millantava vendite immobiliari a celebrità come George Clooney e Brad Pitt."
+    },
+    {
       "show_name": "Sei in arresto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/sei-in-arresto.webp",
-      "start_time": "2026-02-09 00:05:00",
-      "end_time": "2026-02-09 00:35:00",
+      "show_logo": "https://guidatv.sky.it/uuid/0ad8954e-ec6b-3940-9f9d-ac9995a107aa/cover?territory=IT&md5ChecksumParam=15eb5b73e62aabf3d3f62caf140348ad",
+      "start_time": "2026-02-10 07:50:00",
+      "end_time": "2026-02-10 08:15:00",
       "episode_number": "S1 E8",
       "show_category": "Mondo e Tendenze",
       "show_description": "Un uomo corre per un campo da golf intralciando un torneo, sul patio di una casa compare un pesce morto, due uomini scalano il Golden Gate."
     },
     {
       "show_name": "Sei in arresto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/sei-in-arresto.webp",
-      "start_time": "2026-02-09 00:35:00",
-      "end_time": "2026-02-09 01:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/0ad8954e-ec6b-3940-9f9d-ac9995a107aa/cover?territory=IT&md5ChecksumParam=15eb5b73e62aabf3d3f62caf140348ad",
+      "start_time": "2026-02-10 08:15:00",
+      "end_time": "2026-02-10 08:40:00",
       "episode_number": "S1 E9",
       "show_category": "Mondo e Tendenze",
       "show_description": "Un aspirante rapper viene arrestato dopo una performance in cima a un cartellone, un uomo viene sorpreso a leccare il citofono di una casa."
     },
     {
       "show_name": "Sei in arresto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/sei-in-arresto.webp",
-      "start_time": "2026-02-09 01:00:00",
-      "end_time": "2026-02-09 01:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/0ad8954e-ec6b-3940-9f9d-ac9995a107aa/cover?territory=IT&md5ChecksumParam=15eb5b73e62aabf3d3f62caf140348ad",
+      "start_time": "2026-02-10 08:40:00",
+      "end_time": "2026-02-10 09:05:00",
       "episode_number": "S1 E10",
       "show_category": "Mondo e Tendenze",
       "show_description": "Un uomo sta sdraiato sul tettuccio di un'auto che sfreccia in autostrada, una donna ubriaca scappa dalla polizia aeroportuale."
     },
     {
-      "show_name": "Sei in arresto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/sei-in-arresto.webp",
-      "start_time": "2026-02-09 01:30:00",
-      "end_time": "2026-02-09 01:55:00",
-      "episode_number": "S1 E11",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un padre protettivo diventa il principale sospettato in un'indagine per omicidio quando la sua ex moglie viene uccisa subito dopo il suo ritorno in città. Cassandra aiuta un senzatetto locale che viene tormentato da alcuni ragazzi del posto."
-    },
-    {
-      "show_name": "Il castratore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/il-castratore.webp",
-      "start_time": "2026-02-09 01:55:00",
-      "end_time": "2026-02-09 02:45:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il giornalista Marcel Theroux indaga la scioccante vicenda di Marius Gustavson, accusato di aver guidato un gruppo responsabile di castrazioni volontarie trasmesse in streaming."
-    },
-    {
-      "show_name": "Il castratore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/il-castratore.webp",
-      "start_time": "2026-02-09 02:45:00",
-      "end_time": "2026-02-09 03:35:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il giornalista Marcel Theroux indaga la scioccante vicenda di Marius Gustavson, accusato di aver guidato un gruppo responsabile di castrazioni volontarie trasmesse in streaming."
-    },
-    {
       "show_name": "Profondo Nero Di Carlo Lucarelli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/profondo-nero-di-carlo-lucarelli.webp",
-      "start_time": "2026-02-09 03:35:00",
-      "end_time": "2026-02-09 04:25:00",
-      "episode_number": "S1 E6",
+      "show_logo": "https://guidatv.sky.it/uuid/c25285ea-0009-4e08-af8d-e1e2ef00c314/cover?territory=IT&md5ChecksumParam=0ea441c3c0dab35d2033fa7f72c953b1",
+      "start_time": "2026-02-10 09:05:00",
+      "end_time": "2026-02-10 09:50:00",
+      "episode_number": "S3 E1",
       "show_category": "Mondo e Tendenze",
-      "show_description": "In compagnia di Carlo Lucarelli, addentriamoci nei meandri piu' oscuri della mente criminale, scovando i segreti di queste persone. Leonarda Cianciulli e' passata alla storia per aver bollito con la soda caustica i resti di alcune sue vittime, per farne del sapone."
-    },
-    {
-      "show_name": "Ostaggi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/ostaggi.webp",
-      "start_time": "2026-02-09 04:25:00",
-      "end_time": "2026-02-09 05:15:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gianni Murgia e' un imprenditore benestante di un paesino sardo."
-    },
-    {
-      "show_name": "Ostaggi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/ostaggi.webp",
-      "start_time": "2026-02-09 05:15:00",
-      "end_time": "2026-02-09 06:00:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il 13enne Alfredo Antico, figlio di un ricco ufficiale sanitario di Siderno, e' una preda molto ambita dall'Anonima Sequestri calabrese. Il 30 agosto dell'82 viene rapito."
-    },
-    {
-      "show_name": "Celebrity Sex Tapes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/celebrity-sex-tapes.webp",
-      "start_time": "2026-02-09 06:00:00",
-      "end_time": "2026-02-09 06:50:00",
-      "episode_number": "S1 E8",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Dan Benson e Maitland Ward, partiti dai teen show Disney, sono oggi tra le star piu' note dell'intrattenimento per adulti."
+      "show_description": "Il 15 giugno 1983 il corpo di Francesca Alinovi viene trovato sul pavimento del suo piccolo appartamento a Bologna, e' stata uccisa con 47 coltellate. Da subito viene ritenuto colpevole Francesco Ciancabilla, suo compagno piu' giovane di 12 anni, con il quale la Alinovi ha uno strano rapporto."
     },
     {
       "show_name": "Un avvertimento prima di iniziare - Stag. 1 Ep. 3 - Episode 3",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 06:50:00",
-      "end_time": "2026-02-09 07:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-10 09:50:00",
+      "end_time": "2026-02-10 10:45:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "...iniziare: Mia sorella, bruciata viva. Pablo Trincia incontra Mina, battutasi fino all'ultimo per ottenere giustizia per la sorella, arsa viva a 14 anni."
     },
     {
-      "show_name": "Gary - Io ero Arnold",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/gary-io-ero-arnold.webp",
-      "start_time": "2026-02-09 07:45:00",
-      "end_time": "2026-02-09 09:25:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gary - Io ero Arnold - Gary Coleman e' stato il bambino prodigio della TV americana tra la fine degli anni '70 e l'inizio degli '80, celebre in Italia per il ruolo di Arnold."
-    },
-    {
-      "show_name": "Delitti a circuito chiuso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/delitti-a-circuito-chiuso.webp",
-      "start_time": "2026-02-09 09:25:00",
-      "end_time": "2026-02-09 10:20:00",
-      "episode_number": "S10 E20",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gabriel Perez viene freddato in un fast food. Le telecamere portano a una coppia di mezza eta', apparentemente senza legami con la vittima."
-    },
-    {
-      "show_name": "OJ Simpson - Il processo del secolo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/oj-simpson-il-processo-del-secolo.webp",
-      "start_time": "2026-02-09 10:20:00",
-      "end_time": "2026-02-09 11:55:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "OJ Simpson - Il processo del secolo - Il caso giudiziario che ha scosso l'America, mettendo a nudo tensioni razziali e cambiando per sempre la storia della giustizia."
-    },
-    {
-      "show_name": "Omicidi in Paradiso: Massacro a Bali",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/omicidi-in-paradiso-massacro-a-bali.webp",
-      "start_time": "2026-02-09 11:55:00",
-      "end_time": "2026-02-09 13:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Omicidi in Paradiso: Massacro a Bali - Durante una vacanza di lusso a Bali, una figlia e il suo fidanzato ordiscono il brutale omicidio della madre, Sheila von Wiese-Mack."
-    },
-    {
-      "show_name": "Digital forensic: sulle...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/digital-forensic-sulle.webp",
-      "start_time": "2026-02-09 13:05:00",
-      "end_time": "2026-02-09 13:55:00",
-      "episode_number": "S1 E9",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "...tracce dell'assassino: Carolina del Sud: dopo il ritrovamento del cadavere di una donna, gli investigatori indagano sul marito separato e l'attuale fidanzato."
-    },
-    {
-      "show_name": "Digital forensic: sulle ...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/digital-forensic-sulle.webp",
-      "start_time": "2026-02-09 13:55:00",
-      "end_time": "2026-02-09 14:45:00",
-      "episode_number": "S1 E10",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "...tracce dell'assassino: Vancouver, Stato di Washington: un'influencer transgender 17enne scompare nel nulla. La sua famiglia e i fan temono il peggio."
-    },
-    {
-      "show_name": "Real Cops",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/real-cops.webp",
-      "start_time": "2026-02-09 14:45:00",
-      "end_time": "2026-02-09 15:10:00",
-      "episode_number": "S1 E13",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un folle inseguimento contromano, uno stallo con un ladro su un'autostrada, e un pedofilo condannato che ruba un'auto della Homeland Security."
-    },
-    {
-      "show_name": "Real Cops",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/real-cops.webp",
-      "start_time": "2026-02-09 15:10:00",
-      "end_time": "2026-02-09 15:35:00",
-      "episode_number": "S1 E14",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La polizia soccorre una madre e le sue figlie dopo un violento incidente, mentre un fuggitivo tenta una disperata fuga a nuoto."
-    },
-    {
-      "show_name": "Real Cops",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/real-cops.webp",
-      "start_time": "2026-02-09 15:35:00",
-      "end_time": "2026-02-09 16:00:00",
-      "episode_number": "S1 E15",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gli agenti tentano manovre PIT per fermare due sospetti armati, ricercati per rapina e molto altro ancora."
-    },
-    {
-      "show_name": "Real Cops",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/real-cops.webp",
-      "start_time": "2026-02-09 16:00:00",
-      "end_time": "2026-02-09 16:30:00",
-      "episode_number": "S1 E16",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un agente della polizia statale esegue una manovra PIT su un pirata della strada. La polizia ingaggia un inseguimento ad alta velocita' con due uomini."
-    },
-    {
-      "show_name": "Cold Case - La verita' del...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/cold-case-la-verita-del.webp",
-      "start_time": "2026-02-09 16:30:00",
-      "end_time": "2026-02-09 17:20:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Minerva Cantu viene trovata morta in casa. Sembra una rapina, ma il mistero di chi abbia ucciso questa giovane madre durera' vent'anni."
-    },
-    {
-      "show_name": "Cold Case - La verita' del...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/cold-case-la-verita-del.webp",
-      "start_time": "2026-02-09 17:20:00",
-      "end_time": "2026-02-09 18:10:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nel 1977, Liliana Adank ed Eric Goldstrand vengono trovati uccisi in un parco dell'Oregon."
-    },
-    {
-      "show_name": "Delitti a circuito chiuso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/delitti-a-circuito-chiuso.webp",
-      "start_time": "2026-02-09 18:10:00",
-      "end_time": "2026-02-09 19:05:00",
-      "episode_number": "S9 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nel 2010, Dexter Bain, barista di 36 anni, rimane vittima di una rapina in un pub a Calgary, in Canada. L'indagine procede con operazioni sotto copertura e intercettazioni per catturare il principale sospettato."
-    },
-    {
-      "show_name": "Delitti a circuito chiuso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/delitti-a-circuito-chiuso.webp",
-      "start_time": "2026-02-09 19:05:00",
-      "end_time": "2026-02-09 20:00:00",
-      "episode_number": "S9 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nel 2016, Craig Rideout, padre di sette figli, scompare dopo un tentativo di furto in casa, a Rochester, New York. Dopo il ritrovamento di un cadavere sfigurato, viene a galla qualcosa di sinistro che devasta la famiglia."
-    },
-    {
       "show_name": "Delitti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/delitti.webp",
-      "start_time": "2026-02-09 20:00:00",
-      "end_time": "2026-02-09 21:10:00",
+      "show_logo": "https://guidatv.sky.it/uuid/36d5b95e-f10a-464a-bab4-1350b7aa847b/COVER_TITLE_TALL?territory=IT&version=3b9ae381-97b0-36f6-83b5-9288ea35d8de&w=600&h=800&md5ChecksumParam=5bd58cdacb9bf92f815682d8114dc03d",
+      "start_time": "2026-02-10 10:45:00",
+      "end_time": "2026-02-10 11:50:00",
       "episode_number": "S4 E1",
       "show_category": "Altro",
       "show_description": "Roma, 1991. La contessa Alberica Filo della Torre viene uccisa nella propria villa. Le ipotesi sull'omicidio sono molteplici, dalla vendetta allo spionaggio fino allo scioccante epilogo."
     },
     {
-      "show_name": "Rapita dal mio ragazzo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/rapita-dal-mio-ragazzo.webp",
-      "start_time": "2026-02-09 21:10:00",
-      "end_time": "2026-02-09 22:05:00",
+      "show_name": "Il delitto di Via Poma",
+      "show_logo": "https://guidatv.sky.it/uuid/98ed4e51-f749-4003-8a05-b900dc1b64d3/COVER_TITLE_TALL?territory=IT&version=cfb40587-c39b-338c-8452-d5355c5ea788&w=600&h=800&md5ChecksumParam=5cf4e7aafc0a79e19ff434dbef07400c",
+      "start_time": "2026-02-10 11:50:00",
+      "end_time": "2026-02-10 12:45:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nell'estate del 1990, una ragazza di 20 anni viene trovata senza vita nell'ufficio in cui lavora, a Roma. Uccisa con 29 coltellate, la giovane diventa il centro di un caso che sconvolge l'Italia per la sua efferatezza."
+    },
+    {
+      "show_name": "Il delitto di Via Poma",
+      "show_logo": "https://guidatv.sky.it/uuid/fb1a9fa5-d6c5-40fd-a2ef-3ccc14dd7790/COVER_TITLE_TALL?territory=IT&version=cfb40587-c39b-338c-8452-d5355c5ea788&w=600&h=800&md5ChecksumParam=5cf4e7aafc0a79e19ff434dbef07400c",
+      "start_time": "2026-02-10 12:45:00",
+      "end_time": "2026-02-10 13:45:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Le indagini sulla morte di Simonetta proseguono, ma faticano a trovare una pista certa. Non ci sono testimoni dei fatti, le tracce sono poche e il caso resta pieno di zone d'ombra."
+    },
+    {
+      "show_name": "Achille Lauro: La crociera del terrore",
+      "show_logo": "https://guidatv.sky.it/uuid/0757809a-391d-4c7e-ac61-b97599a7c05b/COVER_TITLE_TALL?territory=IT&version=0047a927-7fae-3549-a6d1-9b3800c8cea8&w=600&h=800&md5ChecksumParam=472c0c72e803febde5ad0cb06d2da806",
+      "start_time": "2026-02-10 13:45:00",
+      "end_time": "2026-02-10 15:25:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Rapita dal mio ragazzo - La tragica storia di Angel Lynn, una ragazza del Leicestershire rapita da un ex violento e abbandonata in fin di vita, incapace di camminare o parlare."
+      "show_description": "Ottobre 1985. La nave da crociera Achille Lauro viene dirottata da un commando palestinese."
     },
     {
-      "show_name": "Celebrity Sex Tapes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/celebrity-sex-tapes.webp",
-      "start_time": "2026-02-09 22:05:00",
-      "end_time": "2026-02-09 22:55:00",
-      "episode_number": "S1 E7",
+      "show_name": "Fantasma - Il caso Unabomber",
+      "show_logo": "https://guidatv.sky.it/uuid/d28aea2e-1d0f-404a-867b-7dbe452fc840/COVER_TITLE_TALL?territory=IT&version=03f21010-128d-3e60-9779-13344b8c88f0&w=600&h=800&md5ChecksumParam=0d3c36182c55dc59f4b8479b145f538a",
+      "start_time": "2026-02-10 15:25:00",
+      "end_time": "2026-02-10 16:40:00",
+      "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Una maxi violazione informatica scuote il mondo delle celebrita'."
+      "show_description": "Marco Maisano riapre il caso Unabomber: per anni ha terrorizzato il nord est italiano con bombe in oggetti comuni. Un sospetto emerge, ma qualcosa non torna e potrebbe non essere davvero lui il colpevole."
     },
     {
-      "show_name": "Celebrity Sex Tapes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/celebrity-sex-tapes.webp",
-      "start_time": "2026-02-09 22:55:00",
-      "end_time": "2026-02-09 23:45:00",
-      "episode_number": "S1 E8",
+      "show_name": "Fantasma - Il caso Unabomber",
+      "show_logo": "https://guidatv.sky.it/uuid/4c1f12d8-3aee-4863-8ba7-2129f8792740/COVER_TITLE_TALL?territory=IT&version=03f21010-128d-3e60-9779-13344b8c88f0&w=600&h=800&md5ChecksumParam=0d3c36182c55dc59f4b8479b145f538a",
+      "start_time": "2026-02-10 16:40:00",
+      "end_time": "2026-02-10 17:50:00",
+      "episode_number": "S1 E2",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Dan Benson e Maitland Ward, partiti dai teen show Disney, sono oggi tra le star piu' note dell'intrattenimento per adulti."
+      "show_description": "Attraverso nuove testimonianze inedite, interviste alle vittime, si indaga nelle ombre di un'indagine controversa, mettendo in discussione le verità ufficiali e cercando risposte in una vicenda rimasta senza giustizia."
     },
     {
-      "show_name": "OnlyFans: sesso, soldi e sangue",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/onlyfans-sesso-soldi-e-sangue.webp",
-      "start_time": "2026-02-09 23:45:00",
-      "end_time": "2026-02-10 01:10:00",
-      "episode_number": "",
+      "show_name": "Fantasma - Il caso Unabomber",
+      "show_logo": "https://guidatv.sky.it/uuid/7bb3d8a7-4555-44b8-8c37-f5e0d3699fc0/COVER_TITLE_TALL?territory=IT&version=03f21010-128d-3e60-9779-13344b8c88f0&w=600&h=800&md5ChecksumParam=0d3c36182c55dc59f4b8479b145f538a",
+      "start_time": "2026-02-10 17:50:00",
+      "end_time": "2026-02-10 19:00:00",
+      "episode_number": "S1 E3",
       "show_category": "Mondo e Tendenze",
-      "show_description": "OnlyFans: sesso, soldi e sangue - Un misterioso omicidio a Miami svela il lato oscuro di OnlyFans: la piattaforma che ha rivoluzionato internet nasconde una storia di potere e pericoli."
+      "show_description": "Attraverso nuove testimonianze inedite, interviste alle vittime, si indaga nelle ombre di un'indagine controversa, mettendo in discussione le verità ufficiali e cercando risposte in una vicenda rimasta senza giustizia."
+    },
+    {
+      "show_name": "Delitti",
+      "show_logo": "https://guidatv.sky.it/uuid/54639124-6fe6-4bf7-b83c-ab48ad585414/cover?territory=IT&md5ChecksumParam=e6529b477df74fd494c2c81b469c7564",
+      "start_time": "2026-02-10 19:00:00",
+      "end_time": "2026-02-10 21:00:00",
+      "episode_number": "S6 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Melania Rea scompare nei boschi vicino ad Ascoli Piceno. 2 giorni dopo viene ritrovato il suo cadavere. Le indagini fanno emergere un delitto passionale."
+    },
+    {
+      "show_name": "Delitti: Famiglie Criminali",
+      "show_logo": "https://guidatv.sky.it/uuid/edbb7434-c45e-4e5d-968b-47a0c894be28/COVER_TITLE_TALL?territory=IT&version=b095a6d0-c1eb-3013-9e37-c897252b5e6b&w=600&h=800&md5ChecksumParam=6936cc96cd3350ac13d1b6da8d80ce55",
+      "start_time": "2026-02-10 21:00:00",
+      "end_time": "2026-02-10 22:00:00",
+      "episode_number": "S2 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Scopriamo insieme alcune storie vere e drammatiche di famiglie i cui particolari legami tra i membri li spingono verso atti criminali."
+    },
+    {
+      "show_name": "La banda della Magliana - La...",
+      "show_logo": "https://guidatv.sky.it/uuid/d7a23b12-7591-492a-8fea-786636a144b5/cover?cgid=282&territory=IT&md5ChecksumParam=ae619055a98d298ff0aeb08135d49688.it",
+      "start_time": "2026-02-10 22:00:00",
+      "end_time": "2026-02-10 23:05:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La storia di Franco Giuseppucci e l'ascesa della Banda della Magliana ai vertici della criminalita' romana, tra interviste inedite e documenti esclusivi."
+    },
+    {
+      "show_name": "Mostri Senza Nome - Roma",
+      "show_logo": "https://guidatv.sky.it/uuid/9edb16bd-6c5b-4099-a3c4-f2f0bf848985/cover?territory=IT&md5ChecksumParam=7ae0351362eaabcf276ec8fd19da9818",
+      "start_time": "2026-02-10 23:05:00",
+      "end_time": "2026-02-11 00:00:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un'analisi dei piu' intricati cold case romani, delitti rimasti irrisolti che tra gli anni '90 e 2000 hanno riempito le prime pagine dei giornali."
     }
   ]
 }

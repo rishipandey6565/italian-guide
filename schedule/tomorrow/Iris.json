@@ -1,132 +1,159 @@
 {
   "channel_name": "Iris",
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "programs": [
     {
-      "show_name": "American Gangster",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-09 00:34:00",
-      "episode_number": "",
-      "show_category": "Thriller",
-      "show_description": "New York, anni 70. La storia vera di Frank Lucas, uno spacciatore che, in seguito alla morte del suo capo, riesce a diventare il più famoso narcotrafficante d'America. Nel frattempo il poliziotto Richie Roberts cerca di catturarlo. Con Denzel Washington e Russell Crowe."
-    },
-    {
-      "show_name": "Nick Mano Fredda",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:34:00",
-      "end_time": "2026-02-09 02:32:00",
-      "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "Per il ciclo: HOLLYWOODLAND. Condannato ai lavori forzati, Nick, detto \"mano fredda\" per il carattere di ghiaccio, non sopporta la vita del carcere e fugge per tre volte. Regia di S. Rosenberg; USA 1967."
-    },
-    {
-      "show_name": "Il Professore E Il Pazzo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Iris/tomorrow/il-professore-e-il-pazzo.webp",
-      "start_time": "2026-02-09 02:32:00",
-      "end_time": "2026-02-09 04:29:00",
-      "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "Dall'omonimo libro di Simon Winchester, la vera storia della genesi del primo dizionario d'inglese. Nel 1879, professor James Murray chiede aiuto a volontari da tutto il mondo per redigere l'Oxford English Dictionary. Tra questi, un uomo che si firma W.C. Minor, il quale si trova nel manicomio di Broadmoor. Anni prima, a causa di una gravissima paranoia, Minor aveva ucciso per errore un passante. Con N. Dormer e M. Gibson."
-    },
-    {
-      "show_name": "Land",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 04:29:00",
-      "end_time": "2026-02-09 05:55:00",
-      "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "Per il ciclo: EFFETTO NOTTE. Una donna, unica sopravissuta ad un tragico incidente, si rifugia in una baita senza luce elettrica ne' acqua, fra le montagne rocciose del Canada Regia di R. Wright; USA 2021."
-    },
-    {
-      "show_name": "I Cinque Del Quinto Piano",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 05:55:00",
-      "end_time": "2026-02-09 06:22:00",
-      "episode_number": "S1 E17",
-      "show_category": "",
-      "show_description": "Rastelli diventa il manager e l'agente di Guy The Blond, un giovanissimo cantante destinato a diventare in poco tempo una rock star."
-    },
-    {
-      "show_name": "Kojak",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 06:22:00",
-      "end_time": "2026-02-09 07:12:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Gli agenti locali e federali intendono catturare uno strozzino, cosi' Kojak convince un suo amico di infanzia ad agire sotto copertura per incastrarlo."
-    },
-    {
-      "show_name": "Walker Texas Ranger",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 07:12:00",
-      "end_time": "2026-02-09 08:07:00",
-      "episode_number": "S5 E16",
-      "show_category": "",
-      "show_description": "L'ex moglie di Cody, detto il crociato, un wrestler, ha assistito ad un omicidio e il colpevole la cerca per eliminarla. Walker convince il figlio a dirgli dov'e' la donna."
-    },
-    {
-      "show_name": "American Gangster",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 08:07:00",
-      "end_time": "2026-02-09 11:24:00",
-      "episode_number": "",
-      "show_category": "Thriller",
-      "show_description": "New York, anni 70. La storia vera di Frank Lucas, uno spacciatore che, in seguito alla morte del suo capo, riesce a diventare il più famoso narcotrafficante d'America. Nel frattempo il poliziotto Richie Roberts cerca di catturarlo. Con Denzel Washington e Russell Crowe."
-    },
-    {
-      "show_name": "Queen & Slim",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 11:24:00",
-      "end_time": "2026-02-09 14:22:00",
-      "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "Per il ciclo: IN AMERICA. Dramma politico sentimentale. Al primo appuntamento, una coppia afroamericana vittima delle circostanze deve fuggire. Ingiustizia e razzismo ma con l'amore che salva. Regia di M. Matsoukas; CAN 2019."
-    },
-    {
-      "show_name": "Non Mangiate Le Margherite",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 14:22:00",
-      "end_time": "2026-02-09 16:48:00",
-      "episode_number": "",
-      "show_category": "Commedia",
-      "show_description": "Per il ciclo: IN AMERICA. Storia di una vivace famigliola composta da un padre critico teatrale senza peli sulla lingua, da sua moglie che sa quello che vuole e da quattro figli. Regia di C. Walters; USA 1960."
-    },
-    {
-      "show_name": "La Gatta Sul Tetto Che Scotta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 16:48:00",
-      "end_time": "2026-02-09 19:12:00",
-      "episode_number": "",
-      "show_category": "Drammatico",
-      "show_description": "Per il ciclo: IN AMERICA. Dalla commedia di Tennessee Williams, con due stelle come E.Taylor e P.Newman. Una famiglia e' dilaniata da conflitti di gelosia e di eredita'. Regia di R. Brooks, con E. Taylor, P. Newman; USA 1958."
-    },
-    {
-      "show_name": "Kojak",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 19:12:00",
-      "end_time": "2026-02-09 20:14:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Gli agenti locali e federali intendono catturare uno strozzino, cosi' Kojak convince un suo amico di infanzia ad agire sotto copertura per incastrarlo."
-    },
-    {
-      "show_name": "Walker Texas Ranger",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 20:14:00",
-      "end_time": "2026-02-09 21:18:00",
-      "episode_number": "S5 E16",
-      "show_category": "",
-      "show_description": "L'ex moglie di Cody, detto il crociato, un wrestler, ha assistito ad un omicidio e il colpevole la cerca per eliminarla. Walker convince il figlio a dirgli dov'e' la donna."
-    },
-    {
       "show_name": "Il Padrino Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Iris/tomorrow/il-padrino-parte.webp",
-      "start_time": "2026-02-09 21:18:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000518202000103/media/7/7/fde2bb54-4c99-4803-994b-0f0e18b52e41/9d409e08-7257-47b1-b1bb-258f6eca0831.jpg",
+      "start_time": "2026-02-10 00:00:00",
       "end_time": "2026-02-10 01:27:00",
       "episode_number": "S2",
       "show_category": "Drammatico",
       "show_description": "Secondo capitolo della saga e vincitore di 6 premi Oscar, con Al Pacino, Robert De Niro. Le origini e l'evoluzione di Don Vito Corleone, diventato ricco e potente grazie allo sfruttamento dei giochi d'azzardo e della prostituzione."
+    },
+    {
+      "show_name": "Note Di Cinema",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334401000601/media/16/80/b431800d-3c5c-400e-a5fd-e8f0a6f6073c/12a8fb1a-1bcc-4dcb-b967-e4a16a286e7d.jpg",
+      "start_time": "2026-02-10 01:27:00",
+      "end_time": "2026-02-10 01:39:00",
+      "episode_number": "",
+      "show_category": "Magazine",
+      "show_description": "La giornalista Anna Praderio firma questa rubrica che approfondisce, con servizi e interviste ai protagonisti del cinema italiano e internazionale, gli eventi legati al mondo dello spettacolo."
+    },
+    {
+      "show_name": "La Gatta Sul Tetto Che Scotta",
+      "show_logo": "",
+      "start_time": "2026-02-10 01:39:00",
+      "end_time": "2026-02-10 03:26:00",
+      "episode_number": "",
+      "show_category": "Drammatico",
+      "show_description": "Per il ciclo: EFFETTO NOTTE. Dalla commedia di Tennessee Williams, con due stelle come E.Taylor e P.Newman. Una famiglia e' dilaniata da conflitti di gelosia e di eredita'. Regia di R. Brooks, con E. Taylor, P. Newman; USA 1958."
+    },
+    {
+      "show_name": "Non Mangiate Le Margherite",
+      "show_logo": "",
+      "start_time": "2026-02-10 03:26:00",
+      "end_time": "2026-02-10 05:13:00",
+      "episode_number": "",
+      "show_category": "Commedia",
+      "show_description": "Per il ciclo: EFFETTO NOTTE. Storia di una vivace famigliola composta da un padre critico teatrale senza peli sulla lingua, da sua moglie che sa quello che vuole e da quattro figli. Regia di C. Walters; USA 1960."
+    },
+    {
+      "show_name": "I Cinque Del Quinto Piano",
+      "show_logo": "",
+      "start_time": "2026-02-10 05:13:00",
+      "end_time": "2026-02-10 05:37:00",
+      "episode_number": "S1 E18",
+      "show_category": "",
+      "show_description": "Gianfilippo si converte alla fede. Per la verita' si tratta di una fede molto particolare che impone vestiti e discipline insoliti."
+    },
+    {
+      "show_name": "I Cinque Del Quinto Piano",
+      "show_logo": "",
+      "start_time": "2026-02-10 05:37:00",
+      "end_time": "2026-02-10 06:24:00",
+      "episode_number": "S1 E19",
+      "show_category": "",
+      "show_description": "Per conquistare il cuore di Rosalia, la colf siciliana dagli atteggiamenti provocanti, Gianfilippo tenta di sedurla con le arti marziali."
+    },
+    {
+      "show_name": "Kojak",
+      "show_logo": "",
+      "start_time": "2026-02-10 06:24:00",
+      "end_time": "2026-02-10 07:12:00",
+      "episode_number": "S3 E3",
+      "show_category": "",
+      "show_description": "Un collega di Kojak uccide accidentalmente un ragazzo durante un arresto. Il tenente si impegna per non farlo condannare."
+    },
+    {
+      "show_name": "Walker Texas Ranger",
+      "show_logo": "",
+      "start_time": "2026-02-10 07:12:00",
+      "end_time": "2026-02-10 07:56:00",
+      "episode_number": "S5 E17",
+      "show_category": "",
+      "show_description": "Nel corso di una sparatoria con dei rapinatori, un bambino resta gravemente ferito. Trivette viene accusato di aver sparato il colpo e viene sospeso dal servizio."
+    },
+    {
+      "show_name": "Ciao Ma'... (baci Da Roma)",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F001337501000101/media/2/2/f0e07bb6-486f-426c-a8ff-29c9f63db97b/7500cf8f-c22b-4c6a-b611-aa566cda012f.jpg",
+      "start_time": "2026-02-10 07:56:00",
+      "end_time": "2026-02-10 10:06:00",
+      "episode_number": "",
+      "show_category": "Commedia",
+      "show_description": "Nella calda estate romana si intrecciano le storie di alcuni ragazzi, nell'attesa del concerto di Vasco Rossi al Palasport. I protagonisti sono un rocchettaro, due fanatici del culturismo, due commesse e due figli di ricca borghesia. Con Marco Leonardi, Claudia Gerini."
+    },
+    {
+      "show_name": "Nick Mano Fredda",
+      "show_logo": "",
+      "start_time": "2026-02-10 10:06:00",
+      "end_time": "2026-02-10 12:21:00",
+      "episode_number": "",
+      "show_category": "Drammatico",
+      "show_description": "Per il ciclo: 35 MM. Condannato ai lavori forzati, Nick, detto \"mano fredda\" per il carattere di ghiaccio, non sopporta la vita del carcere e fugge per tre volte. Regia di S. Rosenberg; USA 1967."
+    },
+    {
+      "show_name": "Segreti Di Famiglia",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011630001000101/media/19/83/17d1349a-4c31-4042-a0c8-8072b21f3526/720d8ca7-9ab9-4a7f-a1d3-71a8aa6ef667.jpg",
+      "start_time": "2026-02-10 12:21:00",
+      "end_time": "2026-02-10 14:29:00",
+      "episode_number": "",
+      "show_category": "Thriller",
+      "show_description": "Il giovane Thomas si trasferisce da New York a Venezia dove lo aspetta zio Nico con cui lavorerà nel suo albergo. Thomas ha alle spalle un passato tragico segnato dalla scomparsa della sua famiglia che riemerge solo in terribili incubi. Dopo aver conosciuto Thelma, la moglie di Nico, che sembra non sopportare la sua presenza, tra i due nasce invece una strana attrazione. Intanto dal passato riaffiorano pericolosi ricordi. Con Henry Cavill, Joe Mantegna."
+    },
+    {
+      "show_name": "Gosford Park",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011036601000102/media/31/95/ee02dcb9-67cc-4737-8b8f-915fbbdca707/fda951ba-0116-47a6-a637-bc3b7c67fb79.jpg",
+      "start_time": "2026-02-10 14:29:00",
+      "end_time": "2026-02-10 17:16:00",
+      "episode_number": "",
+      "show_category": "Thriller",
+      "show_description": "Altman dirige un film giallo in costume nella tenuta di Gosford Park. I vizi di ieri sono quelli di oggi. Vincitore di un Premio Oscar. Con J. Northam, K. Scott Thomas. Sir William McCordle e sua moglie Lady Sylvia invitano alcuni parenti ed amici nella loro villa di campagna per trascorrere un weekend di caccia e relax. Tutto sembra procedere per il meglio, fino a quando un uomo viene trovato assassinato."
+    },
+    {
+      "show_name": "Assassinio Al Galoppatoio",
+      "show_logo": "",
+      "start_time": "2026-02-10 17:16:00",
+      "end_time": "2026-02-10 19:11:00",
+      "episode_number": "",
+      "show_category": "Giallo",
+      "show_description": "Per il ciclo: LA TENSIONE CORRE SU IRIS. Il vecchio e ricco Mr. Enderby muore apparentemente per un attacco di cuore, ma Miss Marple sospetta si tratti di omicidio. Regia di G. Pollock; GBR 1963."
+    },
+    {
+      "show_name": "Kojak",
+      "show_logo": "",
+      "start_time": "2026-02-10 19:11:00",
+      "end_time": "2026-02-10 20:11:00",
+      "episode_number": "S3 E3",
+      "show_category": "",
+      "show_description": "Un collega di Kojak uccide accidentalmente un ragazzo durante un arresto. Il tenente si impegna per non farlo condannare."
+    },
+    {
+      "show_name": "Walker Texas Ranger",
+      "show_logo": "",
+      "start_time": "2026-02-10 20:11:00",
+      "end_time": "2026-02-10 21:14:00",
+      "episode_number": "S5 E17",
+      "show_category": "",
+      "show_description": "Nel corso di una sparatoria con dei rapinatori, un bambino resta gravemente ferito. Trivette viene accusato di aver sparato il colpo e viene sospeso dal servizio."
+    },
+    {
+      "show_name": "Appaloosa",
+      "show_logo": "",
+      "start_time": "2026-02-10 21:14:00",
+      "end_time": "2026-02-10 23:36:00",
+      "episode_number": "",
+      "show_category": "Avventura",
+      "show_description": "Per il ciclo: L'ULTIMO WEST. Appaloosa, cittadina senza legge e bersaglio dei soprusi di un proprietario terriero, verra' destabilizzata dall'arrivo di un'attraente vedova. Regia di E. Harris; USA 2008."
+    },
+    {
+      "show_name": "Forsaken Il Fuoco Della Giustizia",
+      "show_logo": "",
+      "start_time": "2026-02-10 23:36:00",
+      "end_time": "2026-02-11 01:32:00",
+      "episode_number": "",
+      "show_category": "Drammatico",
+      "show_description": "Per il ciclo: C'ERA UNA VOLTA IL WESTERN. Un pistolero dal passato torbido torna in citta' per ricucire il rapporto con il padre. Ma la comunita' e' sottomessa a una banda locale. Con Kiefer e Donald Sutherland Regia di J. Cassar; CAN 2015."
     }
   ]
 }

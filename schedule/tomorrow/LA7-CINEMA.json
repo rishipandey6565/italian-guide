@@ -1,159 +1,168 @@
 {
   "channel_name": "LA7 CINEMA",
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "programs": [
     {
-      "show_name": "Broken city",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/tomorrow/broken-city.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-09 01:30:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Russell Crowe, Mark Wahlberg e Catherine Zeta-Jones in un thriller fra ricatti e sporchi tornaconti. Il sindaco di New York ingaggia un detective privato, Billy Taggart, per indagare sulla presunta infedelta' della moglie. Convinto di poterlo manovrare a proprio piacimento, per via del passato dell'investigatore e dei suoi debiti ancora in sospeso. Quando l'amante della donna viene ucciso, si aprono le porte di un mondo sommerso in cui il crimine ha volti insospettabili: per Taggart sara' l'occasione per mettere finalmente una pietra sopra il proprio passato."
-    },
-    {
-      "show_name": "Ritorno a Cold Mountain",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/tomorrow/ritorno-a-cold-mountain.webp",
-      "start_time": "2026-02-09 01:30:00",
-      "end_time": "2026-02-09 04:20:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Oscar e Golden Globe a Renée Zellweger per una love story con Nicole Kidman e Jude Law. Guerra di Secessione: un soldato ferito affronta un duro viaggio per tornare dalla sua donna."
-    },
-    {
-      "show_name": "Troppo giovani per morire - Ep. 3 - John Belushi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 04:20:00",
-      "end_time": "2026-02-09 05:25:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Attraverso interviste ad amici e parenti, filmati amatoriali e spezzoni di film, Jobst Knigge racconta la formazione e l'ascesa al successo del giovane John Belushi."
-    },
-    {
-      "show_name": "Uozzap Cinema - Stag. 20 Ep. 3",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 05:25:00",
-      "end_time": "2026-02-09 06:00:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "'La TV in chat' che seleziona i momenti piu' divertenti e ironici dei personaggi piu' amati della televisione."
-    },
-    {
-      "show_name": "Tg La7",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/tomorrow/tg-la7.webp",
-      "start_time": "2026-02-09 06:00:00",
-      "end_time": "2026-02-09 06:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
-    },
-    {
-      "show_name": "Uozzap Cinema - Stag. 19 Ep. 13",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 06:05:00",
-      "end_time": "2026-02-09 06:40:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "'La TV in chat' che seleziona i momenti piu' divertenti e ironici dei personaggi piu' amati della televisione."
-    },
-    {
-      "show_name": "Hollywood Collection - Stag. 1 - The Horror of it all",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 06:40:00",
-      "end_time": "2026-02-09 07:40:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "S1 The Horror of it all - Una serie di splendide biografie, narrate da voci illustri, di alcuni tra i piu' famosi attori e attrici che hanno caratterizzato il cinema hollywoodiano classico."
-    },
-    {
-      "show_name": "Josephine, ange gardien",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/tomorrow/josephine-ange-gardien.webp",
-      "start_time": "2026-02-09 07:40:00",
-      "end_time": "2026-02-09 09:35:00",
-      "episode_number": "S10 E3",
-      "show_category": "Intrattenimento",
-      "show_description": "Nina, una giovane donna di trent'anni, vive in un tranquillo villaggio con il marito, Paul. La coppia cerca di avere un figlio, ma..."
-    },
-    {
-      "show_name": "Josephine, ange gardien",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/tomorrow/josephine-ange-gardien.webp",
-      "start_time": "2026-02-09 09:35:00",
-      "end_time": "2026-02-09 11:35:00",
-      "episode_number": "S10 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "Genevieve, una donna sulla cinquantina, vive sulla strada da mesi. Josephine cerca di capire come una persona forte come lei possa essere arrivata a questo punto."
-    },
-    {
-      "show_name": "La corsa piu' pazza del mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 11:35:00",
-      "end_time": "2026-02-09 13:35:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Un gruppo di persone, ognuno dalla provenienza sociale piu' disparata, si raduna ogni anno per una leggendaria corsa automobilistica: la Gumball Rally. La competizione, illegale, si svolge lungo un percorso segreto che attraversa gli USA."
-    },
-    {
-      "show_name": "Un figlio all'improvviso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/tomorrow/un-figlio-all-improvviso.webp",
-      "start_time": "2026-02-09 13:35:00",
-      "end_time": "2026-02-09 15:10:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Christian Clavier in una brillante commedia dai divertenti equivoci. La vita di una coppia di mezza età cambia radicalmente con l'arrivo di un giovane che afferma di essere loro figlio."
-    },
-    {
-      "show_name": "I love shopping",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/tomorrow/i-love-shopping.webp",
-      "start_time": "2026-02-09 15:10:00",
-      "end_time": "2026-02-09 17:10:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Dal bestseller di Sophie Kinsella, le divertenti avventure di Isla Fisher, giornalista affetta da un 'costoso' disturbo: lo shopping compulsivo. Le scarse finanze non le concedono di placare i suoi desideri griffati. Finche' un giorno un suo articolo non finisce in prima pagina..."
-    },
-    {
-      "show_name": "Tg La7",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/tomorrow/tg-la7.webp",
-      "start_time": "2026-02-09 17:10:00",
-      "end_time": "2026-02-09 17:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
-    },
-    {
-      "show_name": "The Illusionist - L'illusionista",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/tomorrow/the-illusionist-l-illusionista.webp",
-      "start_time": "2026-02-09 17:15:00",
-      "end_time": "2026-02-09 19:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Edward Norton e Jessica Biel fra intrighi amorosi e magia. Vienna, primi del '900: l'amore tra un mago e una duchessa viene ostacolato da un principe, promesso sposo della ragazza."
-    },
-    {
-      "show_name": "Misure straordinarie",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/tomorrow/misure-straordinarie.webp",
-      "start_time": "2026-02-09 19:15:00",
-      "end_time": "2026-02-09 21:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Quando ai due figli viene diagnosticata una rara malattia, John Crowley decide di contattare un promettente ricercatore..."
-    },
-    {
-      "show_name": "La lettera scarlatta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/tomorrow/la-lettera-scarlatta.webp",
-      "start_time": "2026-02-09 21:15:00",
-      "end_time": "2026-02-09 23:50:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Demi Moore e Gary Oldman in una coinvolgente parabola sull'amore proibito nell'America puritana del '600. Hester Prynne, una donna sposata, giunge in una comunità del Massachusetts e s'innamora del reverendo Arthur Dimmesdale. Divenuti amanti dopo la presunta morte del marito di lei, concepiscono una bambina illegittima. Hester viene bollata come peccatrice, con l'infamante lettera A di adultera sui vestiti. L'improvviso ritorno di Roger, il marito ritenuto scomparso, pegiora la situazione; appresa la notizia dell'adulterio, cercherà la sua vendetta. Dal capolavoro di Nathaniel Hawthorne."
-    },
-    {
       "show_name": "L'ultimo lupo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7-CINEMA/tomorrow/l-ultimo-lupo.webp",
-      "start_time": "2026-02-09 23:50:00",
+      "show_logo": "https://guidatv.sky.it/uuid/7cf34277-dcaf-4b60-bce1-a39d36ac159e/cover?territory=IT&md5ChecksumParam=ef44e2a5bbfaf3a5f942908ed589f93a",
+      "start_time": "2026-02-10 00:00:00",
       "end_time": "2026-02-10 02:00:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Jean-Jacques Annaud dirige un'avventurosa storia di coraggio e amicizia. Durante la Rivoluzione Culturale, uno studente cinese cerca di salvare un cucciolo di lupo dal governo."
+    },
+    {
+      "show_name": "Nonno scatenato",
+      "show_logo": "https://guidatv.sky.it/uuid/28548328-38cb-4729-b807-89011690cfae/cover?territory=IT&md5ChecksumParam=89047353bc5062998d4b546b2241ee91",
+      "start_time": "2026-02-10 02:00:00",
+      "end_time": "2026-02-10 02:00:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Commedia 'on the road' con Robert De Niro e Zac Efron. Un anziano vedovo trascina il nipote, in procinto di sposarsi, in un viaggio in Florida alla ricerca di trasgressione."
+    },
+    {
+      "show_name": "La forma dell'acqua - The Shape of Water",
+      "show_logo": "https://guidatv.sky.it/uuid/25ca0255-011b-44f6-a5b9-09ebea98b8e1/cover?territory=IT&md5ChecksumParam=a1111a3faab5c67d938864b56a61f790",
+      "start_time": "2026-02-10 02:00:00",
+      "end_time": "2026-02-10 04:15:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "4 Oscar, 2 Golden Globe e Leone d'oro al capolavoro di Guillermo Del Toro con Sally Hawkins e Michael Shannon. America, Guerra Fredda: una donna muta si innamora di una creatura anfibia."
+    },
+    {
+      "show_name": "Troppo giovani per morire - Ep. 5 - Natalie Wood",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-10 04:15:00",
+      "end_time": "2026-02-10 05:20:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Attraverso brani di film, interviste ad amici e parenti, Annette Baumeister ricostruisce la storia dell'affascinante attrice di origine russa, Natalie Wood."
+    },
+    {
+      "show_name": "Uozzap Cinema - Stag. 20 Ep. 3",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-10 05:20:00",
+      "end_time": "2026-02-10 05:55:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "'La TV in chat' che seleziona i momenti piu' divertenti e ironici dei personaggi piu' amati della televisione."
+    },
+    {
+      "show_name": "Documentario",
+      "show_logo": "https://guidatv.sky.it/uuid/353e6a3d-3ff6-465d-97a9-42665f885da7/cover?territory=IT&md5ChecksumParam=c1891cfbc595c2978b2fdface5130c31",
+      "start_time": "2026-02-10 05:55:00",
+      "end_time": "2026-02-10 06:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Fascia dedicata al documentario."
+    },
+    {
+      "show_name": "Tg La7",
+      "show_logo": "https://guidatv.sky.it/uuid/9746f404-e911-432d-b5de-6aa9b54f6c76/cover?territory=IT&md5ChecksumParam=b22d7d1d07ae1f8d98fafcfd3520e0be",
+      "start_time": "2026-02-10 06:00:00",
+      "end_time": "2026-02-10 06:40:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
+    },
+    {
+      "show_name": "Josephine, ange gardien",
+      "show_logo": "https://guidatv.sky.it/uuid/b8635719-a948-40b1-8dd4-c66ba441af89/cover?territory=IT&md5ChecksumParam=5624eb551b4b09f5e3ec3c4d50e49947",
+      "start_time": "2026-02-10 06:40:00",
+      "end_time": "2026-02-10 08:40:00",
+      "episode_number": "S10 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "Josephine viene incaricata di aiutare Tania Fournier, una signora anziana minacciata di sfratto. Salvare lei e tutto il condominio non sara' una cosa facile."
+    },
+    {
+      "show_name": "Josephine, ange gardien",
+      "show_logo": "https://guidatv.sky.it/uuid/781894d9-3483-48a0-98f5-cc5146b79366/cover?territory=IT&md5ChecksumParam=a9cb7e8cc16960076fd7ec2d760ec792",
+      "start_time": "2026-02-10 08:40:00",
+      "end_time": "2026-02-10 10:35:00",
+      "episode_number": "S10 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Josephine arriva in aiuto di Camille Garnier, una giovane donna di diciotto anni volontaria nell'esercito che, pur di arruolarsi, ha mentito ai suoi genitori."
+    },
+    {
+      "show_name": "Emma",
+      "show_logo": "https://guidatv.sky.it/uuid/91e51d60-5796-43cb-bc14-c0187eb0b1ae/cover?territory=IT&md5ChecksumParam=24ae2e6ee5f01044e5ed29552690259a",
+      "start_time": "2026-02-10 10:35:00",
+      "end_time": "2026-02-10 12:50:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Dal romanzo di Jane Austen, una storia di intese amorose con Gwyneth Paltrow. 1800: una giovane aristocratica inglese aiuta una ragazza timida a trovare l'uomo giusto. Oscar alle musiche."
+    },
+    {
+      "show_name": "Point Break (2015)",
+      "show_logo": "https://guidatv.sky.it/uuid/4ceca77d-c1e2-4f54-ab1b-40fe4d7f323d/cover?territory=IT&md5ChecksumParam=dfcfc1fba92b9d58da0fe88784811c86",
+      "start_time": "2026-02-10 12:50:00",
+      "end_time": "2026-02-10 14:50:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Edgar Ramirez nel remake dell'omonimo cult del 1991. Per fare luce su una serie di crimini, un giovane agente dell'FBI deve infiltrarsi in una banda dedita agli sport estremi."
+    },
+    {
+      "show_name": "Il mio migliore incubo!",
+      "show_logo": "https://guidatv.sky.it/uuid/4737a585-88b5-4ec3-ad90-a5602d799b41/cover?territory=IT&md5ChecksumParam=06446a8fc7a23bbb25f1d7a339a4dadb",
+      "start_time": "2026-02-10 14:50:00",
+      "end_time": "2026-02-10 16:45:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Ironica commedia con la straordinaria Isabelle Huppert e l'incontenibile Benoit Poelvoorde. Il destino di un'altezzosa donna in carriera di Parigi si incrocia con quello di Patrick, un muratore insolente incaricato di svolgere lavori nel suo appartamento. Saranno scintille!"
+    },
+    {
+      "show_name": "Dentro la notizia",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-10 16:45:00",
+      "end_time": "2026-02-10 17:45:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Storie di carriera, cinismo e amore fra tre giornalisti televisivi, uno bravo, uno in carriera e una donna divisa tra i due."
+    },
+    {
+      "show_name": "Tg La7",
+      "show_logo": "https://guidatv.sky.it/uuid/9746f404-e911-432d-b5de-6aa9b54f6c76/cover?territory=IT&md5ChecksumParam=b22d7d1d07ae1f8d98fafcfd3520e0be",
+      "start_time": "2026-02-10 17:45:00",
+      "end_time": "2026-02-10 17:50:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
+    },
+    {
+      "show_name": "Dentro la notizia",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-10 17:50:00",
+      "end_time": "2026-02-10 19:20:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Storie di carriera, cinismo e amore fra tre giornalisti televisivi, uno bravo, uno in carriera e una donna divisa tra i due."
+    },
+    {
+      "show_name": "Hudson Hawk - Il mago del furto",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-10 19:20:00",
+      "end_time": "2026-02-10 21:15:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Hudson Hawk, ladro geniale e disincantato deve penetrare nei Musei Vaticani e trafugare un codice di Leonardo Da Vinci."
+    },
+    {
+      "show_name": "Acque profonde",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-10 21:15:00",
+      "end_time": "2026-02-10 23:20:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Thriller a tinte erotiche con Ben Affleck e Ana de Armas. Un uomo sembra accettare che la sua bellissima e inquieta moglie abbia diversi amanti proprio sotto i suoi occhi. Ma quando uno di questi muore, lui e' il primo sospettato per l'omicidio..."
+    },
+    {
+      "show_name": "Hysteria",
+      "show_logo": "https://guidatv.sky.it/uuid/b0ad4196-1c97-4921-8c2c-a3500eb5f55d/cover?territory=IT&md5ChecksumParam=2f0af0ef9d25ef1ce0f8109c04608e0c",
+      "start_time": "2026-02-10 23:20:00",
+      "end_time": "2026-02-11 01:15:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "In epoca vittoriana, un medico e il suo aiutante si prefiggono di porre fine all'isterismo femminile con uno stravagante metodo..."
     }
   ]
 }

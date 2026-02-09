@@ -1,231 +1,285 @@
 {
   "channel_name": "Fox Business",
-  "date": "2026-02-08",
+  "date": "2026-02-09",
   "programs": [
     {
+      "show_name": "Paper",
+      "show_logo": "https://guidatv.sky.it/uuid/a08ec234-d3c8-4ef1-9814-07de50328c69/cover?territory=IT&md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4",
+      "start_time": "2026-02-09 00:00:00",
+      "end_time": "2026-02-09 00:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "Paper - Mike Rowe discusses the importance of America's industries and explains how American infrastructures work."
+    },
+    {
+      "show_name": "Fight or Flight",
+      "show_logo": "https://guidatv.sky.it/uuid/adc3732a-b0da-413b-b0c4-c18ee9a2d0d5/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 00:00:00",
+      "end_time": "2026-02-09 00:30:00",
+      "episode_number": "S1 E0",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Fight or Flight - Follow inspiring stories."
+    },
+    {
+      "show_name": "Who Let the Dogs Out?",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 00:30:00",
+      "end_time": "2026-02-09 01:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Who Let the Dogs Out? - Follow inspiring stories."
+    },
+    {
+      "show_name": "Dead Man Flushing",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 01:00:00",
+      "end_time": "2026-02-09 01:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Dead Man Flushing - Follow inspiring stories."
+    },
+    {
+      "show_name": "Cops - Stag. 1 - Pistol Packin' Families",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 01:30:00",
+      "end_time": "2026-02-09 02:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Pistol Packin' Families - Follow inspiring stories."
+    },
+    {
+      "show_name": "Grown Men Gone Wild",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 02:00:00",
+      "end_time": "2026-02-09 02:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Grown Men Gone Wild - Follow inspiring stories."
+    },
+    {
+      "show_name": "Kill ‘Em With Kindness",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 02:30:00",
+      "end_time": "2026-02-09 03:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Kill 'Em With Kindness - Follow inspiring stories."
+    },
+    {
+      "show_name": "Fight or Flight",
+      "show_logo": "https://guidatv.sky.it/uuid/adc3732a-b0da-413b-b0c4-c18ee9a2d0d5/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 03:00:00",
+      "end_time": "2026-02-09 03:30:00",
+      "episode_number": "S1 E0",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Fight or Flight - Follow inspiring stories."
+    },
+    {
+      "show_name": "Who Let the Dogs Out?",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 03:30:00",
+      "end_time": "2026-02-09 04:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Who Let the Dogs Out? - Follow inspiring stories."
+    },
+    {
+      "show_name": "Dead Man Flushing",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 04:00:00",
+      "end_time": "2026-02-09 04:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Dead Man Flushing - Follow inspiring stories."
+    },
+    {
+      "show_name": "Cops - Stag. 1 - Pistol Packin' Families",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 04:30:00",
+      "end_time": "2026-02-09 05:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Pistol Packin' Families - Follow inspiring stories."
+    },
+    {
+      "show_name": "Grown Men Gone Wild",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 05:00:00",
+      "end_time": "2026-02-09 05:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Grown Men Gone Wild - Follow inspiring stories."
+    },
+    {
+      "show_name": "Kill ‘Em With Kindness",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 05:30:00",
+      "end_time": "2026-02-09 06:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Kill 'Em With Kindness - Follow inspiring stories."
+    },
+    {
+      "show_name": "Sugar",
+      "show_logo": "https://guidatv.sky.it/uuid/b993928f-3960-4e2e-a5d7-201fe8f6cae9/cover?territory=IT&md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4",
+      "start_time": "2026-02-09 06:00:00",
+      "end_time": "2026-02-09 07:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "Sugar - Mike Rowe discusses the importance of America's industries and explains how American infrastructures work."
+    },
+    {
+      "show_name": "Navy",
+      "show_logo": "https://guidatv.sky.it/uuid/44592577-98aa-42ce-b7d0-ebcae0af336b/cover?territory=IT&md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4",
+      "start_time": "2026-02-09 07:00:00",
+      "end_time": "2026-02-09 08:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "Navy - Mike Rowe discusses the importance of America's industries and explains how American infrastructures work."
+    },
+    {
+      "show_name": "Heavy Machinery",
+      "show_logo": "https://guidatv.sky.it/uuid/77694483-f88a-4f1e-a134-f21a59b0bc7e/cover?territory=IT&md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4",
+      "start_time": "2026-02-09 08:00:00",
+      "end_time": "2026-02-09 09:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "Heavy Machinery - Mike Rowe discusses the importance of America's industries and explains how American infrastructures work."
+    },
+    {
       "show_name": "Corn",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/corn.webp",
-      "start_time": "2026-02-08 00:00:00",
-      "end_time": "2026-02-08 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/c6520fb0-33ba-45af-b4ef-67f05aa85ef8/cover?territory=IT&md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4",
+      "start_time": "2026-02-09 09:00:00",
+      "end_time": "2026-02-09 10:00:00",
       "episode_number": "S1 E0",
       "show_category": "Informazione",
       "show_description": "Corn - Mike Rowe discusses the importance of America's industries and explains how American infrastructures work."
     },
     {
-      "show_name": "Sleeper S-10",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/sleeper-s-10.webp",
-      "start_time": "2026-02-08 00:00:00",
-      "end_time": "2026-02-08 01:00:00",
+      "show_name": "Fight or Flight",
+      "show_logo": "https://guidatv.sky.it/uuid/adc3732a-b0da-413b-b0c4-c18ee9a2d0d5/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 10:00:00",
+      "end_time": "2026-02-09 10:30:00",
       "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Sleeper S-10 - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Fight or Flight - Follow inspiring stories."
     },
     {
-      "show_name": "Small Car Big Dreams",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/small-car-big-dreams.webp",
-      "start_time": "2026-02-08 01:00:00",
-      "end_time": "2026-02-08 02:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Small Car Big Dreams - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
+      "show_name": "Who Let the Dogs Out?",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-09 10:30:00",
+      "end_time": "2026-02-09 11:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Who Let the Dogs Out? - Follow inspiring stories."
     },
     {
-      "show_name": "Carlo Goes Full Monte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/carlo-goes-full-monte.webp",
-      "start_time": "2026-02-08 02:00:00",
-      "end_time": "2026-02-08 03:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Carlo Goes Full Monte - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
-    },
-    {
-      "show_name": "My Dream Car",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/my-dream-car.webp",
-      "start_time": "2026-02-08 03:00:00",
-      "end_time": "2026-02-08 04:00:00",
-      "episode_number": "S1 E4",
-      "show_category": "Informazione",
-      "show_description": "Dad-sun 208Z - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
-    },
-    {
-      "show_name": "Pace Car Racecar",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/pace-car-racecar.webp",
-      "start_time": "2026-02-08 04:00:00",
-      "end_time": "2026-02-08 05:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Pace Car Racecar - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
-    },
-    {
-      "show_name": "It Takes Two",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/it-takes-two.webp",
-      "start_time": "2026-02-08 05:00:00",
-      "end_time": "2026-02-08 06:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "It Takes Two - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
-    },
-    {
-      "show_name": "My Dream Car",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/my-dream-car.webp",
-      "start_time": "2026-02-08 06:00:00",
-      "end_time": "2026-02-08 07:00:00",
-      "episode_number": "S1 E8",
-      "show_category": "Informazione",
-      "show_description": "Father Son F1 - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
-    },
-    {
-      "show_name": "Coupe de Minnesota",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/coupe-de-minnesota.webp",
-      "start_time": "2026-02-08 07:00:00",
-      "end_time": "2026-02-08 08:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Coupe de Minnesota - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
-    },
-    {
-      "show_name": "My Dream Car",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/my-dream-car.webp",
-      "start_time": "2026-02-08 08:00:00",
-      "end_time": "2026-02-08 09:00:00",
-      "episode_number": "S1 E9",
-      "show_category": "Informazione",
-      "show_description": "Soldier's Camaro - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
-    },
-    {
-      "show_name": "Girl Scout",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/girl-scout.webp",
-      "start_time": "2026-02-08 09:00:00",
-      "end_time": "2026-02-08 10:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Girl Scout - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
-    },
-    {
-      "show_name": "Sleeper S-10",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/sleeper-s-10.webp",
-      "start_time": "2026-02-08 10:00:00",
-      "end_time": "2026-02-08 11:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Sleeper S-10 - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
-    },
-    {
-      "show_name": "Small Car Big Dreams",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/small-car-big-dreams.webp",
-      "start_time": "2026-02-08 11:00:00",
-      "end_time": "2026-02-08 12:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Small Car Big Dreams - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
-    },
-    {
-      "show_name": "Weather Command Weekend",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/weather-command-weekend.webp",
-      "start_time": "2026-02-08 12:00:00",
-      "end_time": "2026-02-08 13:00:00",
+      "show_name": "Fox Weather First",
+      "show_logo": "https://guidatv.sky.it/uuid/3c9a9a5f-b5f3-450d-8193-a238e3180324/cover?territory=IT&md5ChecksumParam=519fedbe21da29962f23198137f1aa93",
+      "start_time": "2026-02-09 11:00:00",
+      "end_time": "2026-02-09 12:00:00",
       "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "The weather forecast."
+      "show_description": "The weather forecast with an analysis of the impact of major weather events."
     },
     {
-      "show_name": "Weather Command Weekend",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/weather-command-weekend.webp",
-      "start_time": "2026-02-08 13:00:00",
-      "end_time": "2026-02-08 14:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The weather forecast."
-    },
-    {
-      "show_name": "Weather Command Weekend",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/weather-command-weekend.webp",
-      "start_time": "2026-02-08 14:00:00",
-      "end_time": "2026-02-08 15:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The weather forecast."
-    },
-    {
-      "show_name": "Maria Bartiromo's Wall Street",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/maria-bartiromo-s-wall-street.webp",
-      "start_time": "2026-02-08 15:00:00",
-      "end_time": "2026-02-08 15:30:00",
+      "show_name": "Mornings with Maria Bartiromo",
+      "show_logo": "https://guidatv.sky.it/uuid/32aff08b-2601-4ca8-9d31-4130171cd1cc/cover?territory=IT&md5ChecksumParam=66ec63240b62048d527bda13b9fd6f89",
+      "start_time": "2026-02-09 12:00:00",
+      "end_time": "2026-02-09 13:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Maria Bartiromo offers the stock markets latest headlines and business events."
     },
     {
-      "show_name": "Barron's Round Table",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/barron-s-round-table.webp",
-      "start_time": "2026-02-08 15:30:00",
-      "end_time": "2026-02-08 16:00:00",
+      "show_name": "Mornings with Maria Bartiromo",
+      "show_logo": "https://guidatv.sky.it/uuid/32aff08b-2601-4ca8-9d31-4130171cd1cc/cover?territory=IT&md5ChecksumParam=66ec63240b62048d527bda13b9fd6f89",
+      "start_time": "2026-02-09 13:00:00",
+      "end_time": "2026-02-09 14:00:00",
       "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Jack Otter hosts Barron's Roundtable."
+      "show_description": "Maria Bartiromo offers the stock markets latest headlines and business events."
     },
     {
-      "show_name": "Kudlow Weekend",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/kudlow-weekend.webp",
-      "start_time": "2026-02-08 16:00:00",
-      "end_time": "2026-02-08 17:00:00",
+      "show_name": "Mornings with Maria Bartiromo",
+      "show_logo": "https://guidatv.sky.it/uuid/32aff08b-2601-4ca8-9d31-4130171cd1cc/cover?territory=IT&md5ChecksumParam=66ec63240b62048d527bda13b9fd6f89",
+      "start_time": "2026-02-09 14:00:00",
+      "end_time": "2026-02-09 15:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Maria Bartiromo offers the stock markets latest headlines and business events."
+    },
+    {
+      "show_name": "Varney & Company",
+      "show_logo": "https://guidatv.sky.it/uuid/181d9b55-59b4-48f4-8b4b-6b4b0f0c2e6d/cover?territory=IT&md5ChecksumParam=a51faf5290e3ca839e34d4c1d07f838c",
+      "start_time": "2026-02-09 15:00:00",
+      "end_time": "2026-02-09 16:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Stuart Varney offers the stock markets latest headlines and business events."
+    },
+    {
+      "show_name": "Varney & Company",
+      "show_logo": "https://guidatv.sky.it/uuid/181d9b55-59b4-48f4-8b4b-6b4b0f0c2e6d/cover?territory=IT&md5ChecksumParam=a51faf5290e3ca839e34d4c1d07f838c",
+      "start_time": "2026-02-09 16:00:00",
+      "end_time": "2026-02-09 17:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Stuart Varney offers the stock markets latest headlines and business events."
+    },
+    {
+      "show_name": "Varney & Company",
+      "show_logo": "https://guidatv.sky.it/uuid/181d9b55-59b4-48f4-8b4b-6b4b0f0c2e6d/cover?territory=IT&md5ChecksumParam=a51faf5290e3ca839e34d4c1d07f838c",
+      "start_time": "2026-02-09 17:00:00",
+      "end_time": "2026-02-09 18:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Stuart Varney offers the stock markets latest headlines and business events."
+    },
+    {
+      "show_name": "The Big Money Show",
+      "show_logo": "https://guidatv.sky.it/uuid/20ac9618-c0f6-4951-8a62-0768e2bef3d9/cover?territory=IT&md5ChecksumParam=99a5cd0b5cbc27e2ecfb2dba58fa9015",
+      "start_time": "2026-02-09 18:00:00",
+      "end_time": "2026-02-09 19:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Breaking financial news and analysis with experts giving a unique knowledge on markets, economics and policy."
+    },
+    {
+      "show_name": "The Big Money Show",
+      "show_logo": "https://guidatv.sky.it/uuid/20ac9618-c0f6-4951-8a62-0768e2bef3d9/cover?territory=IT&md5ChecksumParam=99a5cd0b5cbc27e2ecfb2dba58fa9015",
+      "start_time": "2026-02-09 19:00:00",
+      "end_time": "2026-02-09 21:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Breaking financial news and analysis with experts giving a unique knowledge on markets, economics and policy."
+    },
+    {
+      "show_name": "The Claman Countdown",
+      "show_logo": "https://guidatv.sky.it/uuid/2c8642d3-2949-4af8-94cc-39071e639f67/cover?territory=IT&md5ChecksumParam=b905e76aa2b0e74adb2060f0492be9e3",
+      "start_time": "2026-02-09 21:00:00",
+      "end_time": "2026-02-09 22:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Liz Claman captures the chaos of the last hour on Wall Street."
+    },
+    {
+      "show_name": "Kudlow",
+      "show_logo": "https://guidatv.sky.it/uuid/b1c18a3e-8959-42f1-b27f-656b52fbb9a2/cover?territory=IT&md5ChecksumParam=4eb3d2ed8b6e40b6322b123a2b5e64c2",
+      "start_time": "2026-02-09 22:00:00",
+      "end_time": "2026-02-09 23:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Former National Economic Council Director gives market analysis and interviews."
     },
     {
-      "show_name": "Sunday Morning Futures",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/sunday-morning-futures.webp",
-      "start_time": "2026-02-08 17:00:00",
-      "end_time": "2026-02-08 18:00:00",
+      "show_name": "The Evening Edit",
+      "show_logo": "https://guidatv.sky.it/uuid/cfc26129-0a07-44bd-ba6f-e8b9f2e0e4af/cover?territory=IT&md5ChecksumParam=7b5de4d48bb00c75f1f899235e33ed79",
+      "start_time": "2026-02-09 23:00:00",
+      "end_time": "2026-02-10 00:00:00",
       "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Takes a hard look at job creation, investment opportunities and more."
-    },
-    {
-      "show_name": "Aluminum",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/aluminum.webp",
-      "start_time": "2026-02-08 18:00:00",
-      "end_time": "2026-02-08 19:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Aluminum - Mike Rowe discusses the importance of America's industries and explains how American infrastructures work."
-    },
-    {
-      "show_name": "Textiles",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/textiles.webp",
-      "start_time": "2026-02-08 19:00:00",
-      "end_time": "2026-02-08 21:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Textiles - Mike Rowe discusses the importance of America's industries and explains how American infrastructures work."
-    },
-    {
-      "show_name": "Law Enforcement",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/law-enforcement.webp",
-      "start_time": "2026-02-08 21:00:00",
-      "end_time": "2026-02-08 22:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Law Enforcement - Mike Rowe discusses the importance of America's industries and explains how American infrastructures work."
-    },
-    {
-      "show_name": "Brick",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/brick.webp",
-      "start_time": "2026-02-08 22:00:00",
-      "end_time": "2026-02-08 23:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Brick - Mike Rowe discusses the importance of America's industries and explains how American infrastructures work."
-    },
-    {
-      "show_name": "Paper",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/today/paper.webp",
-      "start_time": "2026-02-08 23:00:00",
-      "end_time": "2026-02-09 00:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Informazione",
-      "show_description": "Paper - Mike Rowe discusses the importance of America's industries and explains how American infrastructures work."
+      "show_description": "Liz McDonald interviews the Industries experts."
     }
   ]
 }

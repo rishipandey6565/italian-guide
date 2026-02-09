@@ -1,15 +1,24 @@
 {
   "channel_name": "Sky Sport  257",
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "programs": [
     {
       "show_name": "Finale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-257/tomorrow/finale.webp",
-      "start_time": "2026-02-09 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/ce4bdcef-de1f-4b7f-94ec-69520521f6f1/cover?territory=IT&md5ChecksumParam=f1880cf6351a70f6ba3f41c436d9fb1a",
+      "start_time": "2026-02-10 00:00:00",
       "end_time": "2026-02-10 20:00:00",
       "episode_number": "S2026 E7",
       "show_category": "Sport",
       "show_description": "Dalla Sud de France Arena di Montpellier, Francia."
+    },
+    {
+      "show_name": "Tottenham - Newcastle",
+      "show_logo": "https://guidatv.sky.it/uuid/c158c6b9-8266-46d3-9661-a88e2c86b98b/cover?territory=IT&md5ChecksumParam=76ca34098009e7e7ec8037d519c95cb9",
+      "start_time": "2026-02-10 20:00:00",
+      "end_time": "2026-02-11 20:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Calcio Premier League 26a giornata, Calcio d'inizio ore 20:30."
     }
   ]
 }

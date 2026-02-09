@@ -1,258 +1,321 @@
 {
   "channel_name": "San Marino RTV",
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "programs": [
     {
-      "show_name": "Roxy Bar 2025",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-09 02:55:00",
+      "show_name": "Meteo Rtv",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 00:00:00",
+      "end_time": "2026-02-10 00:01:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "3BMeteo."
+    },
+    {
+      "show_name": "In Viaggio 2022",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 00:01:00",
+      "end_time": "2026-02-10 00:28:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "a cura di Red Ronnie."
+      "show_description": "Documentario."
+    },
+    {
+      "show_name": "Un posto al sole",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 00:28:00",
+      "end_time": "2026-02-10 00:55:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Un posto al sole DECIMA serie."
+    },
+    {
+      "show_name": "La donna del mistero",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 00:55:00",
+      "end_time": "2026-02-10 01:34:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Telenovela."
     },
     {
       "show_name": "SMRTV Notte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 02:55:00",
-      "end_time": "2026-02-09 07:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 01:34:00",
+      "end_time": "2026-02-10 07:15:00",
       "episode_number": "",
       "show_category": "Altri Programmi",
       "show_description": "Il meglio dei programmi della giornata."
     },
     {
       "show_name": "Tom and Friends",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 07:15:00",
-      "end_time": "2026-02-09 07:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 07:15:00",
+      "end_time": "2026-02-10 07:30:00",
       "episode_number": "",
       "show_category": "Ragazzi e Musica",
       "show_description": "Cartoni Animati."
     },
     {
       "show_name": "RTV News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 07:30:00",
-      "end_time": "2026-02-09 08:32:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 07:30:00",
+      "end_time": "2026-02-10 08:30:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "RTV News."
     },
     {
       "show_name": "La Casa della Salute Anthology",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 08:32:00",
-      "end_time": "2026-02-09 09:01:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 08:30:00",
+      "end_time": "2026-02-10 09:00:00",
       "episode_number": "",
       "show_category": "Altri Programmi",
       "show_description": "Salute, benessere di Luciano Onder."
     },
     {
       "show_name": "Radio 2 Happy Family",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 09:01:00",
-      "end_time": "2026-02-09 10:03:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 09:00:00",
+      "end_time": "2026-02-10 10:01:00",
       "episode_number": "",
       "show_category": "Altri Programmi",
       "show_description": "Ema Stokholma e i Gemelli di Guidonia, in diretta dalla Sala B di via Asiago, ci accompagnano in un'ora all'insegna di musica e divertimento."
     },
     {
       "show_name": "Un posto al sole",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 10:03:00",
-      "end_time": "2026-02-09 10:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 10:01:00",
+      "end_time": "2026-02-10 10:30:00",
       "episode_number": "",
       "show_category": "Intrattenimento",
       "show_description": "Un posto al sole DECIMA serie."
     },
     {
       "show_name": "TG Flash",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 10:30:00",
-      "end_time": "2026-02-09 10:37:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 10:30:00",
+      "end_time": "2026-02-10 10:35:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "TG Flash."
     },
     {
       "show_name": "La donna del mistero",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 10:37:00",
-      "end_time": "2026-02-09 11:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 10:35:00",
+      "end_time": "2026-02-10 11:17:00",
       "episode_number": "",
       "show_category": "Intrattenimento",
       "show_description": "Telenovela."
     },
     {
       "show_name": "SM RTV STORY",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 11:15:00",
-      "end_time": "2026-02-09 11:40:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 11:17:00",
+      "end_time": "2026-02-10 11:37:00",
       "episode_number": "",
       "show_category": "Altri Programmi",
       "show_description": "L'archivio della San Marino RTV."
     },
     {
       "show_name": "00Verde Inverno 2019",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 11:40:00",
-      "end_time": "2026-02-09 12:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 11:37:00",
+      "end_time": "2026-02-10 12:35:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Un format itinerante che si snoda tra immagini suggestive e inedite della Repubblica e dei territori limitrofi,  interviste ad esperti e personaggi del territorio."
     },
     {
-      "show_name": "Cambiare energia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 12:30:00",
-      "end_time": "2026-02-09 13:02:00",
+      "show_name": "In Viaggio 2022",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 12:35:00",
+      "end_time": "2026-02-10 13:03:00",
       "episode_number": "",
       "show_category": "Altri Programmi",
-      "show_description": "Cambiare energia."
+      "show_description": "Documentario."
     },
     {
       "show_name": "Modigliani",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 13:02:00",
-      "end_time": "2026-02-09 13:33:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 13:03:00",
+      "end_time": "2026-02-10 13:33:00",
       "episode_number": "",
       "show_category": "Altri Programmi",
       "show_description": "Documentario che ricostruisce la vita e le opere dell' artista. Di Paolo Mieli con la partecipazione di C.Augias, T.Montanari e R.Scamarcio. Prodotto da Paolo Alberti, a cura di Valentina Antonioli."
     },
     {
+      "show_name": "Alta Marea",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 13:33:00",
+      "end_time": "2026-02-10 13:45:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Storie di mare."
+    },
+    {
       "show_name": "Dreaming San Marino Song Contest",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 13:33:00",
-      "end_time": "2026-02-09 14:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 13:45:00",
+      "end_time": "2026-02-10 14:00:00",
       "episode_number": "",
       "show_category": "Altri Programmi",
       "show_description": "Dreaming San Marino Song Contest 2026."
     },
     {
       "show_name": "TG SAN MARINO",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 14:00:00",
-      "end_time": "2026-02-09 14:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 14:00:00",
+      "end_time": "2026-02-10 14:15:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Notizie sammarinesi e dal mondo."
     },
     {
       "show_name": "TG SPORT",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 14:15:00",
-      "end_time": "2026-02-09 14:22:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 14:15:00",
+      "end_time": "2026-02-10 14:24:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Notizie sportive."
     },
     {
       "show_name": "Un posto al sole",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 14:22:00",
-      "end_time": "2026-02-09 14:51:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 14:24:00",
+      "end_time": "2026-02-10 14:50:00",
       "episode_number": "",
       "show_category": "Intrattenimento",
       "show_description": "Un posto al sole DECIMA serie."
     },
     {
       "show_name": "Radio 2 Happy Family",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 14:51:00",
-      "end_time": "2026-02-09 15:47:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 14:50:00",
+      "end_time": "2026-02-10 15:54:00",
       "episode_number": "",
       "show_category": "Altri Programmi",
       "show_description": "Ema Stokholma e i Gemelli di Guidonia, in diretta dalla Sala B di via Asiago, ci accompagnano in un'ora all'insegna di musica e divertimento."
     },
     {
       "show_name": "00Verde Inverno 2019",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 15:47:00",
-      "end_time": "2026-02-09 16:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 15:54:00",
+      "end_time": "2026-02-10 16:39:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Un format itinerante che si snoda tra immagini suggestive e inedite della Repubblica e dei territori limitrofi,  interviste ad esperti e personaggi del territorio."
     },
     {
       "show_name": "A tutto Gas",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 16:45:00",
-      "end_time": "2026-02-09 17:43:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 16:39:00",
+      "end_time": "2026-02-10 17:27:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Settimanale automobilistico dedicato ai Campionati Italiani. Rally, gare in salita, pista e fuoristrada."
     },
     {
-      "show_name": "Qualcosa di personale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 17:43:00",
-      "end_time": "2026-02-09 18:45:00",
+      "show_name": "Cose Di calcio",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 17:27:00",
+      "end_time": "2026-02-10 18:44:00",
       "episode_number": "",
       "show_category": "Intrattenimento",
-      "show_description": "Un programma a cura di Monica Fabbri."
+      "show_description": "Il programma della San Marino RTV sui campionati di calcio di serie C e D. A cura di Roberto Chiesa con Maurizio Marin."
     },
     {
-      "show_name": "In Viaggio 2022",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 18:45:00",
-      "end_time": "2026-02-09 19:13:00",
+      "show_name": "I tesori dell' Etna",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 18:44:00",
+      "end_time": "2026-02-10 19:11:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Documentario."
+      "show_description": "I tesori dell' Etna."
     },
     {
       "show_name": "Dreaming San Marino Song Contest",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 19:13:00",
-      "end_time": "2026-02-09 19:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 19:11:00",
+      "end_time": "2026-02-10 19:30:00",
       "episode_number": "",
       "show_category": "Altri Programmi",
       "show_description": "Dreaming San Marino Song Contest 2026."
     },
     {
       "show_name": "TG SAN MARINO",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 19:30:00",
-      "end_time": "2026-02-09 21:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 19:30:00",
+      "end_time": "2026-02-10 20:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Notizie sammarinesi e dal mondo."
     },
     {
-      "show_name": "Cose Di calcio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 21:00:00",
-      "end_time": "2026-02-09 22:24:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Il programma della San Marino RTV sui campionati di calcio di serie C e D. A cura di Roberto Chiesa con Maurizio Marin."
-    },
-    {
-      "show_name": "La casa della Salute",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 22:24:00",
-      "end_time": "2026-02-09 23:30:00",
-      "episode_number": "",
-      "show_category": "Altri Programmi",
-      "show_description": "Salute, benessere di Luciano Onder."
-    },
-    {
-      "show_name": "TG SAN MARINO",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 23:30:00",
-      "end_time": "2026-02-09 23:58:00",
+      "show_name": "TG SPORT",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 20:00:00",
+      "end_time": "2026-02-10 20:12:00",
       "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Notizie sammarinesi e dal mondo."
+      "show_description": "Notizie sportive."
     },
     {
       "show_name": "Meteo Rtv",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 23:58:00",
-      "end_time": "2026-02-10 00:01:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 20:12:00",
+      "end_time": "2026-02-10 20:15:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "3BMeteo."
+    },
+    {
+      "show_name": "La donna del mistero",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 20:15:00",
+      "end_time": "2026-02-10 20:55:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Telenovela."
+    },
+    {
+      "show_name": "Telestadio",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 20:55:00",
+      "end_time": "2026-02-10 22:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Rubrica sul Campionato di Calcio Sammarinese. A cura di Alessandro Ciacci."
+    },
+    {
+      "show_name": "Il Grande Gioco",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 22:00:00",
+      "end_time": "2026-02-10 22:32:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Con Dario Fabbri e Gianmarco Morosini."
+    },
+    {
+      "show_name": "Qualcosa di personale",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 22:32:00",
+      "end_time": "2026-02-10 23:33:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Un programma a cura di Monica Fabbri."
+    },
+    {
+      "show_name": "TG SAN MARINO",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 23:33:00",
+      "end_time": "2026-02-11 00:01:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Notizie sammarinesi e dal mondo."
     }
   ]
 }

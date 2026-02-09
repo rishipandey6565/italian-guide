@@ -1,15 +1,24 @@
 {
   "channel_name": "Sky Sport  258",
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "programs": [
     {
       "show_name": "Pontedera - Ternana",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-258/tomorrow/pontedera-ternana.webp",
-      "start_time": "2026-02-09 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/ee184f12-3c59-48a1-ac03-69eaed0539ac/cover?territory=IT&md5ChecksumParam=c7092897b056863db3bb42788a8e5d12",
+      "start_time": "2026-02-10 00:00:00",
       "end_time": "2026-02-10 20:00:00",
       "episode_number": "S2025 E250",
       "show_category": "Sport",
       "show_description": "Tutte le partite del campionato di Serie C italiano."
+    },
+    {
+      "show_name": "Everton - Bournemouth",
+      "show_logo": "https://guidatv.sky.it/uuid/065b2a09-7b47-4d8e-a50c-fae503d3f781/cover?territory=IT&md5ChecksumParam=5c62136fd50027019fb50dd5fe0d953f",
+      "start_time": "2026-02-10 20:00:00",
+      "end_time": "2026-02-11 20:00:00",
+      "episode_number": "S2025 E256",
+      "show_category": "Sport",
+      "show_description": "From Hill Dickinson Stadium in Liverpool, Merseyside, England."
     }
   ]
 }
