@@ -1,339 +1,303 @@
 {
   "channel_name": "Canale 5",
-  "date": "2026-02-10",
+  "date": "2026-02-11",
   "programs": [
     {
-      "show_name": "Taratata'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 00:00:00",
-      "end_time": "2026-02-10 00:39:00",
-      "episode_number": "",
-      "show_category": "Musicale",
-      "show_description": "Paolo Bonolis celebra la musica live alla Festa della Musica. Sul palco del Choruslife Arena di Bergamo un viaggio sonoro con grandi artisti."
-    },
-    {
-      "show_name": "Tg5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 00:39:00",
-      "end_time": "2026-02-10 01:22:00",
-      "episode_number": "",
-      "show_category": "Telegiornale",
-      "show_description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5."
-    },
-    {
-      "show_name": "Uomini E Donne",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 01:22:00",
-      "end_time": "2026-02-10 02:41:00",
-      "episode_number": "",
-      "show_category": "Reality show",
-      "show_description": "Il dating show che racconta l'amore in chiave contemporanea, tra tronisti giovani e partecipanti over che cercano la loro anima gemella."
-    },
-    {
-      "show_name": "Una Vita",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 02:41:00",
-      "end_time": "2026-02-10 03:04:00",
-      "episode_number": "S22 E31",
-      "show_category": "",
-      "show_description": "Con l'aiuto di Roberto, Miguel porta a termine il furto in casa di Marcos assicurandosi un lauto bottino, che poi dona interamente ad Alberto pregandolo di usarlo per la causa."
-    },
-    {
-      "show_name": "Una Vita",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 03:04:00",
-      "end_time": "2026-02-10 03:27:00",
-      "episode_number": "S22 E32",
-      "show_category": "",
-      "show_description": "Antonito riceve una richiesta di colloquio privato da parte del presidente del governo. Alodia sviene davanti a Bellita."
-    },
-    {
-      "show_name": "Una Vita",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 03:27:00",
-      "end_time": "2026-02-10 03:49:00",
-      "episode_number": "S22 E33",
-      "show_category": "",
-      "show_description": "Dopo avere scoperto che Ignacio commercia clandestinamente in scheletri umani, Jose chiede al nipote di interrompere immediatamente quel losco traffico."
-    },
-    {
-      "show_name": "Una Vita",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 03:49:00",
-      "end_time": "2026-02-10 04:13:00",
-      "episode_number": "S22 E34",
-      "show_category": "",
-      "show_description": "Genoveva cerca di scoprire quale segreto del passato leghi Marcos a Natalia. Appreso che Natalia sara' rilasciata a breve, Marcos incontra Pierre Caron."
-    },
-    {
-      "show_name": "Una Vita",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 04:13:00",
-      "end_time": "2026-02-10 04:36:00",
-      "episode_number": "S22 E35",
-      "show_category": "",
-      "show_description": "Il presidente di governo, Don Eduardo Dato, offre ad Antonito l'opportunita' di diventare ministro del lavoro. Jose discute nuovamente con Ignacio."
-    },
-    {
-      "show_name": "Una Vita",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 04:36:00",
-      "end_time": "2026-02-10 04:59:00",
-      "episode_number": "S22 E36",
-      "show_category": "",
-      "show_description": "Casilda decide di accompagnare Alodia a fare una visita medica, per capire se e' davvero incinta. Marcos riceve una chiamata preoccupante da Suor Sagrario."
-    },
-    {
-      "show_name": "Distretto Di Polizia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Canale-5/tomorrow/distretto-di-polizia.webp",
-      "start_time": "2026-02-10 04:59:00",
-      "end_time": "2026-02-10 06:00:00",
-      "episode_number": "S9 E16",
-      "show_category": "Poliziesco",
-      "show_description": "Mentre i colleghi del X Tuscolano indagano su una rapina ad un furgone portavalori e scoprono che la morte dell'autista e' un caso di omicidio premeditato, l'ispettore Anna Gori e' alle prese con i sospetti di Nadja, la cui diffidenza verso di lei rischia di contagiare anche Dorian."
-    },
-    {
-      "show_name": "Prima Pagina Tg5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 06:00:00",
-      "end_time": "2026-02-10 06:15:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
-    },
-    {
-      "show_name": "Prima Pagina Tg5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 06:15:00",
-      "end_time": "2026-02-10 06:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
-    },
-    {
-      "show_name": "Prima Pagina Tg5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 06:30:00",
-      "end_time": "2026-02-10 06:45:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
-    },
-    {
-      "show_name": "Prima Pagina Tg5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 06:45:00",
-      "end_time": "2026-02-10 07:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
-    },
-    {
-      "show_name": "Prima Pagina Tg5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 07:00:00",
-      "end_time": "2026-02-10 07:15:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
-    },
-    {
-      "show_name": "Prima Pagina Tg5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 07:15:00",
-      "end_time": "2026-02-10 07:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
-    },
-    {
-      "show_name": "Prima Pagina Tg5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 07:30:00",
-      "end_time": "2026-02-10 07:45:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
-    },
-    {
-      "show_name": "Prima Pagina Tg5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 07:45:00",
-      "end_time": "2026-02-10 07:53:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
-    },
-    {
-      "show_name": "Traffico",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 07:53:00",
-      "end_time": "2026-02-10 07:59:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Bollettino del traffico che si avvale di simulazioni grafiche costantemente aggiornate."
-    },
-    {
-      "show_name": "Tg5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 07:59:00",
-      "end_time": "2026-02-10 08:44:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5."
-    },
-    {
-      "show_name": "Mattino Cinque News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 08:44:00",
-      "end_time": "2026-02-10 10:52:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "In diretta con i fatti di cronaca, politica, spettacolo e gossip. Conducono Francesco Vecchi e Federica Panicucci."
-    },
-    {
-      "show_name": "Tg5 Ore 10",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 10:52:00",
-      "end_time": "2026-02-10 11:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Appuntamento con le notizie piu' importanti, nazionali ed internazionali, a cura della redazione giornalistica di Canale 5."
-    },
-    {
-      "show_name": "Forum",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 11:00:00",
-      "end_time": "2026-02-10 12:58:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Il processo tv che affronta vicende comuni e quotidiane con uno sguardo sempre attento ai temi piu' attuali. Conduce Barbara Palombelli."
-    },
-    {
-      "show_name": "Tg5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 12:58:00",
-      "end_time": "2026-02-10 13:40:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5."
-    },
-    {
-      "show_name": "Beautiful",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Canale-5/tomorrow/beautiful.webp",
-      "start_time": "2026-02-10 13:40:00",
-      "end_time": "2026-02-10 14:05:00",
-      "episode_number": "S35 E7",
-      "show_category": "Soap opera",
-      "show_description": "Deacon annuncia a Hope il matrimonio con Sheila, sorprendendo Steffy, Ridge e Brooke. Hope decide di sostenere il padre nonostante i dubbi della famiglia. Sheila insiste che Finn partecipi e faccia da testimone, ricordandogli di essere cambiata. Finn rifiuta con fermezza, ma rassicura Steffy del suo amore e della protezione della famiglia. Sheila attribuisce a Steffy il rifiuto di Finn."
-    },
-    {
-      "show_name": "Io Sono Farah",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Canale-5/tomorrow/io-sono-farah.webp",
-      "start_time": "2026-02-10 14:05:00",
-      "end_time": "2026-02-10 14:15:00",
-      "episode_number": "S2 E14",
-      "show_category": "Soap opera",
-      "show_description": "La lettura del testamento di Ali Galip scatena tensioni e sorprese che mettono in gioco alleanze e ambizioni: quali segreti si nascondono davvero tra le eredità? Vera è sconvolta e disposta a tutto per ottenere una ricompensa da Behnam. Quali equilibri verranno sconvolti."
-    },
-    {
-      "show_name": "Forbidden Fruit",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 14:15:00",
-      "end_time": "2026-02-10 14:45:00",
-      "episode_number": "S3 E6",
-      "show_category": "",
-      "show_description": "Yigit recupera il computer di Zehra che e' stato violato, e da cui e' stato cancellato il suo libro, e cosi' facendo si guadagna la stima di tutti."
-    },
-    {
-      "show_name": "Uomini E Donne",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 14:45:00",
-      "end_time": "2026-02-10 16:05:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Il dating show che racconta l'amore in chiave contemporanea, tra tronisti giovani e partecipanti over che cercano la loro anima gemella."
-    },
-    {
-      "show_name": "La Forza Di Una Donna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Canale-5/tomorrow/la-forza-di-una-donna.webp",
-      "start_time": "2026-02-10 16:05:00",
-      "end_time": "2026-02-10 16:25:00",
-      "episode_number": "S3 E6",
-      "show_category": "Soap opera",
-      "show_description": "Enver e Sirin non riescono a rientrare a casa perché tutto ricorda loro Hatice. Emre, dopo aver portato Nisan e Doruk al luna park, accompagna loro e Ceyda a casa e decide di fermarsi a dormire da lei."
-    },
-    {
-      "show_name": "Amici Di Maria",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 16:25:00",
-      "end_time": "2026-02-10 16:55:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "L'appuntamento quotidiano con i ragazzi di Amici."
-    },
-    {
-      "show_name": "Dentro La Notizia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 16:55:00",
-      "end_time": "2026-02-10 18:53:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Il nuovo programma pomeridiano d'informazione condotto da Gianluigi Nuzzi con approfondimenti su storie, fatti e attualita'."
-    },
-    {
-      "show_name": "Caduta Libera",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 18:53:00",
-      "end_time": "2026-02-10 19:54:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Max Giusti e' alla guida della nuova edizione. Al suo fianco, Isobel Fetiye Kinnear, ballerina finalista del talent \"Amici\" 2023. Il montepremi puo' raggiungere i 300.000 euro!"
-    },
-    {
-      "show_name": "Tg5 Prima Pagina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 19:54:00",
-      "end_time": "2026-02-10 20:01:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Sintesi delle notizie principali del giorno."
-    },
-    {
-      "show_name": "Tg5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 20:01:00",
-      "end_time": "2026-02-10 20:40:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5. QUESTO PROGRAMMA E' SOTTOTITOLATO."
-    },
-    {
-      "show_name": "La Ruota Della Fortuna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 20:40:00",
-      "end_time": "2026-02-10 21:21:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Gerry Scotti, Samira e la ruota piu' famosa della tv! I concorrenti devono scoprire le frasi nascoste. Serve bravura ma la fortuna ci mette del suo."
-    },
-    {
       "show_name": "Colpa Dei Sensi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 21:21:00",
-      "end_time": "2026-02-10 23:46:00",
+      "show_logo": "",
+      "start_time": "2026-02-11 00:00:00",
+      "end_time": "2026-02-11 00:13:00",
       "episode_number": "S1 E2",
       "show_category": "Drammatico",
       "show_description": "Il recapito dell'anello alla madre Lidia sconvolge Enrico al punto da spingerlo al casale, dove e' determinato ad affrontare Davide: la tensione tra i due amici e' palpabile."
     },
     {
       "show_name": "X Style",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 23:46:00",
-      "end_time": "2026-02-11 00:22:00",
+      "show_logo": "",
+      "start_time": "2026-02-11 00:13:00",
+      "end_time": "2026-02-11 00:54:00",
+      "episode_number": "",
+      "show_category": "Lifestyle",
+      "show_description": "Il rotocalco dedicato alla moda, bellezza, lifestyle e tendenze."
+    },
+    {
+      "show_name": "Tg5",
+      "show_logo": "",
+      "start_time": "2026-02-11 00:54:00",
+      "end_time": "2026-02-11 01:38:00",
+      "episode_number": "",
+      "show_category": "Telegiornale",
+      "show_description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5."
+    },
+    {
+      "show_name": "Uomini E Donne",
+      "show_logo": "",
+      "start_time": "2026-02-11 01:38:00",
+      "end_time": "2026-02-11 02:52:00",
+      "episode_number": "",
+      "show_category": "Reality show",
+      "show_description": "Il dating show che racconta l'amore in chiave contemporanea, tra tronisti giovani e partecipanti over che cercano la loro anima gemella."
+    },
+    {
+      "show_name": "Una Vita",
+      "show_logo": "",
+      "start_time": "2026-02-11 02:52:00",
+      "end_time": "2026-02-11 05:12:00",
+      "episode_number": "S22 E37",
+      "show_category": "",
+      "show_description": "Natalia racconta a Genoveva di essere stata stuprata da Marcos e la donna la consola. Felipe va in carcere per annunciare a Natalia che sara' rilasciata."
+    },
+    {
+      "show_name": "Distretto Di Polizia",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F301358901001701/media/28/92/94629df1-259d-4f34-a016-5e90b5724c8a/55b94761-0331-4c4f-a0a3-859a3ba9b379.jpg",
+      "start_time": "2026-02-11 05:12:00",
+      "end_time": "2026-02-11 06:00:00",
+      "episode_number": "S9 E17",
+      "show_category": "Poliziesco",
+      "show_description": "I disperati appelli radiofonici di una ragazza rapita vengono intercettati da un adolescente radioamatore ma sara' compito degli ispettori del Distretto identificare il luogo dove e' tenuta segregata e liberarla in tempo per un'urgente operazione chirurgica. L'ispettore Anna Gori deve riconquistare la fiducia di Dorian che sapendo che lei e' a conoscenza della sua appartenenza all'organizzazione criminale teme possa denunciarlo alla polizia."
+    },
+    {
+      "show_name": "Prima Pagina Tg5",
+      "show_logo": "",
+      "start_time": "2026-02-11 06:00:00",
+      "end_time": "2026-02-11 06:15:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Il rotocalco dedicato alla moda, bellezza, lifestyle e tendenze."
+      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
+    },
+    {
+      "show_name": "Prima Pagina Tg5",
+      "show_logo": "",
+      "start_time": "2026-02-11 06:15:00",
+      "end_time": "2026-02-11 06:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
+    },
+    {
+      "show_name": "Prima Pagina Tg5",
+      "show_logo": "",
+      "start_time": "2026-02-11 06:30:00",
+      "end_time": "2026-02-11 06:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
+    },
+    {
+      "show_name": "Prima Pagina Tg5",
+      "show_logo": "",
+      "start_time": "2026-02-11 06:45:00",
+      "end_time": "2026-02-11 07:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
+    },
+    {
+      "show_name": "Prima Pagina Tg5",
+      "show_logo": "",
+      "start_time": "2026-02-11 07:00:00",
+      "end_time": "2026-02-11 07:15:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
+    },
+    {
+      "show_name": "Prima Pagina Tg5",
+      "show_logo": "",
+      "start_time": "2026-02-11 07:15:00",
+      "end_time": "2026-02-11 07:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
+    },
+    {
+      "show_name": "Prima Pagina Tg5",
+      "show_logo": "",
+      "start_time": "2026-02-11 07:30:00",
+      "end_time": "2026-02-11 07:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
+    },
+    {
+      "show_name": "Prima Pagina Tg5",
+      "show_logo": "",
+      "start_time": "2026-02-11 07:45:00",
+      "end_time": "2026-02-11 07:53:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5."
+    },
+    {
+      "show_name": "Traffico",
+      "show_logo": "",
+      "start_time": "2026-02-11 07:53:00",
+      "end_time": "2026-02-11 07:59:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Bollettino del traffico che si avvale di simulazioni grafiche costantemente aggiornate."
+    },
+    {
+      "show_name": "Tg5",
+      "show_logo": "",
+      "start_time": "2026-02-11 07:59:00",
+      "end_time": "2026-02-11 08:44:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5."
+    },
+    {
+      "show_name": "Mattino Cinque News",
+      "show_logo": "",
+      "start_time": "2026-02-11 08:44:00",
+      "end_time": "2026-02-11 10:52:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "In diretta con i fatti di cronaca, politica, spettacolo e gossip. Conducono Francesco Vecchi e Federica Panicucci."
+    },
+    {
+      "show_name": "Tg5 Ore 10",
+      "show_logo": "",
+      "start_time": "2026-02-11 10:52:00",
+      "end_time": "2026-02-11 11:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Appuntamento con le notizie piu' importanti, nazionali ed internazionali, a cura della redazione giornalistica di Canale 5."
+    },
+    {
+      "show_name": "Forum",
+      "show_logo": "",
+      "start_time": "2026-02-11 11:00:00",
+      "end_time": "2026-02-11 12:58:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Il processo tv che affronta vicende comuni e quotidiane con uno sguardo sempre attento ai temi piu' attuali. Conduce Barbara Palombelli."
+    },
+    {
+      "show_name": "Tg5",
+      "show_logo": "",
+      "start_time": "2026-02-11 12:58:00",
+      "end_time": "2026-02-11 13:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5."
+    },
+    {
+      "show_name": "Beautiful",
+      "show_logo": "",
+      "start_time": "2026-02-11 13:40:00",
+      "end_time": "2026-02-11 14:05:00",
+      "episode_number": "S35 E8",
+      "show_category": "",
+      "show_description": "Deacon e Sheila si sposano al ristorante. Hope decide di esserci. Finn arriva all'improvviso, Sheila lo accoglie tra le braccia senza sapere cosa sta per accadere."
+    },
+    {
+      "show_name": "Io Sono Farah",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313291601001404/media/20/84/e46d7b71-bb76-4639-8220-08c2f3c1f2c3/77fc2054-8676-4289-a288-be8c24814d46.jpg",
+      "start_time": "2026-02-11 14:05:00",
+      "end_time": "2026-02-11 14:15:00",
+      "episode_number": "S2 E14",
+      "show_category": "Soap opera",
+      "show_description": "La lettura del testamento di Ali Galip scatena tensioni e sorprese che mettono in gioco alleanze e ambizioni: quali segreti si nascondono davvero tra le eredità? Vera è sconvolta e disposta a tutto per ottenere una ricompensa da Behnam. Quali equilibri verranno sconvolti."
+    },
+    {
+      "show_name": "Forbidden Fruit",
+      "show_logo": "",
+      "start_time": "2026-02-11 14:15:00",
+      "end_time": "2026-02-11 14:45:00",
+      "episode_number": "S3 E7",
+      "show_category": "",
+      "show_description": "Indignata per essere stata declassata all'alloggio dei domestici, Yildiz comincia ad architettare un piano per vendicarsi di Halit e Sahika."
+    },
+    {
+      "show_name": "Uomini E Donne",
+      "show_logo": "",
+      "start_time": "2026-02-11 14:45:00",
+      "end_time": "2026-02-11 16:05:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Il dating show che racconta l'amore in chiave contemporanea, tra tronisti giovani e partecipanti over che cercano la loro anima gemella."
+    },
+    {
+      "show_name": "La Forza Di Una Donna",
+      "show_logo": "",
+      "start_time": "2026-02-11 16:05:00",
+      "end_time": "2026-02-11 16:25:00",
+      "episode_number": "S3 E7",
+      "show_category": "Soap opera",
+      "show_description": "Bahar si scusa con Sarp per non averlo accolto come meritava e per aver ceduto alla rabbia. Si puo' davvero ricominciare tutto daccapo."
+    },
+    {
+      "show_name": "Amici Di Maria",
+      "show_logo": "",
+      "start_time": "2026-02-11 16:25:00",
+      "end_time": "2026-02-11 16:55:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "L'appuntamento quotidiano con i ragazzi di Amici."
+    },
+    {
+      "show_name": "Dentro La Notizia",
+      "show_logo": "",
+      "start_time": "2026-02-11 16:55:00",
+      "end_time": "2026-02-11 18:53:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Il nuovo programma pomeridiano d'informazione condotto da Gianluigi Nuzzi con approfondimenti su storie, fatti e attualita'."
+    },
+    {
+      "show_name": "Caduta Libera",
+      "show_logo": "",
+      "start_time": "2026-02-11 18:53:00",
+      "end_time": "2026-02-11 19:54:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Max Giusti e' alla guida della nuova edizione. Al suo fianco, Isobel Fetiye Kinnear, ballerina finalista del talent \"Amici\" 2023. Il montepremi puo' raggiungere i 300.000 euro!"
+    },
+    {
+      "show_name": "Tg5 Prima Pagina",
+      "show_logo": "",
+      "start_time": "2026-02-11 19:54:00",
+      "end_time": "2026-02-11 20:01:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Sintesi delle notizie principali del giorno."
+    },
+    {
+      "show_name": "Tg5",
+      "show_logo": "",
+      "start_time": "2026-02-11 20:01:00",
+      "end_time": "2026-02-11 20:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5. QUESTO PROGRAMMA E' SOTTOTITOLATO."
+    },
+    {
+      "show_name": "La Ruota Della Fortuna",
+      "show_logo": "",
+      "start_time": "2026-02-11 20:40:00",
+      "end_time": "2026-02-11 21:21:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Gerry Scotti, Samira e la ruota piu' famosa della tv! I concorrenti devono scoprire le frasi nascoste. Serve bravura ma la fortuna ci mette del suo."
+    },
+    {
+      "show_name": "Una Nuova Vita",
+      "show_logo": "",
+      "start_time": "2026-02-11 21:21:00",
+      "end_time": "2026-02-11 23:37:00",
+      "episode_number": "S1 E3",
+      "show_category": "",
+      "show_description": "Vittoria e' vittima della stampa scandalistica, che pubblica delle foto che la ritraggono insieme a Diego; nonostante questo non rinuncia alla riconquista del cuore di suo figlio Matteo."
+    },
+    {
+      "show_name": "Risiko Sfide Di Potere",
+      "show_logo": "",
+      "start_time": "2026-02-11 23:37:00",
+      "end_time": "2026-02-12 01:18:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Federico Rampini racconta il nuovo risiko globale: leader, sfide e poteri che ridisegnano il mondo. Un viaggio tra volti, strategie e futuri possibili."
     }
   ]
 }

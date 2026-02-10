@@ -1,201 +1,210 @@
 {
   "channel_name": "QVC",
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "programs": [
     {
-      "show_name": "Best of event",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-09 00:00:00",
+      "show_name": "Best of the day",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 00:00:00",
+      "end_time": "2026-02-10 00:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Il meglio dell'evento su QVC."
-    },
-    {
-      "show_name": "Dyson, tecnologia ed innovazione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-09 01:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopri QVC. Scopri Dyson, gamma di prodotti innovativi dotati di tecnologie all'avanguardia."
-    },
-    {
-      "show_name": "Replica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 01:00:00",
-      "end_time": "2026-02-09 02:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Replica."
-    },
-    {
-      "show_name": "Replica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 02:00:00",
-      "end_time": "2026-02-09 03:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Replica."
-    },
-    {
-      "show_name": "Replica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 03:00:00",
-      "end_time": "2026-02-09 04:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Replica."
-    },
-    {
-      "show_name": "Replica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 04:00:00",
-      "end_time": "2026-02-09 05:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Replica."
-    },
-    {
-      "show_name": "Replica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 05:00:00",
-      "end_time": "2026-02-09 06:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Replica."
-    },
-    {
-      "show_name": "Replica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 06:00:00",
-      "end_time": "2026-02-09 07:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Replica."
-    },
-    {
-      "show_name": "Replica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 07:00:00",
-      "end_time": "2026-02-09 08:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Replica."
-    },
-    {
-      "show_name": "Dyson, tecnologia ed innovazione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 08:00:00",
-      "end_time": "2026-02-09 10:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopri QVC. Scopri Dyson, gamma di prodotti innovativi dotati di tecnologie all'avanguardia."
-    },
-    {
-      "show_name": "Officina della moda, The fashion factory",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 10:00:00",
-      "end_time": "2026-02-09 11:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopri QVC. Scopri Officina della Moda, esempio della creativita' italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile."
-    },
-    {
-      "show_name": "Dyson, tecnologia ed innovazione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 11:00:00",
-      "end_time": "2026-02-09 13:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopri QVC. Scopri Dyson, gamma di prodotti innovativi dotati di tecnologie all'avanguardia."
-    },
-    {
-      "show_name": "E' tutta un'altra casa con De'Longhi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 13:00:00",
-      "end_time": "2026-02-09 14:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta di idee moderne e sempre nuove e di De'Longhi."
-    },
-    {
-      "show_name": "Galieti, Moda e sapienza italiane",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 14:00:00",
-      "end_time": "2026-02-09 15:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopri Galieti un'azienda a conduzione familiare che porta avanti la tradizione italiana di scarpe, tutte realizzate prestando attenzione al design ed a ogni singolo dettaglio."
-    },
-    {
-      "show_name": "Dyson, tecnologia ed innovazione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 15:00:00",
-      "end_time": "2026-02-09 16:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopri QVC. Scopri Dyson, gamma di prodotti innovativi dotati di tecnologie all'avanguardia."
-    },
-    {
-      "show_name": "Bievisan Integrazione polivalente",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 16:00:00",
-      "end_time": "2026-02-09 17:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopri QVC. Scopri Bievisan e' una start up innovativa, rivolta alla ricerca e diretta a nuove scoperte in ambito nutraceutico. L'obiettivo e' apportare benefici multipli con un singolo prodotto."
-    },
-    {
-      "show_name": "Officina della moda, The fashion factory",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 17:00:00",
-      "end_time": "2026-02-09 18:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopri QVC. Scopri Officina della Moda, esempio della creativita' italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile."
-    },
-    {
-      "show_name": "Galieti, Moda e sapienza italiane",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 18:00:00",
-      "end_time": "2026-02-09 19:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopri Galieti un'azienda a conduzione familiare che porta avanti la tradizione italiana di scarpe, tutte realizzate prestando attenzione al design ed a ogni singolo dettaglio."
-    },
-    {
-      "show_name": "Dyson, tecnologia ed innovazione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 19:00:00",
-      "end_time": "2026-02-09 21:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopri QVC. Scopri Dyson, gamma di prodotti innovativi dotati di tecnologie all'avanguardia."
-    },
-    {
-      "show_name": "Officina della moda, The fashion factory",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 21:00:00",
-      "end_time": "2026-02-09 22:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopri QVC. Scopri Officina della Moda, esempio della creativita' italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile."
+      "show_description": "Il meglio del giorno su QVC."
     },
     {
       "show_name": "Syrio, formule di benessere",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 22:00:00",
-      "end_time": "2026-02-09 23:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 00:00:00",
+      "end_time": "2026-02-10 01:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Scopri QVC. Scopri Syrio un'azienda italiana che opera nel canale farmacia, parafarmacia ed erboristeria che offre un'ampia gamma di Integratori Alimentari."
     },
     {
+      "show_name": "Replica",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 01:00:00",
+      "end_time": "2026-02-10 02:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Replica."
+    },
+    {
+      "show_name": "Replica",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 02:00:00",
+      "end_time": "2026-02-10 03:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Replica."
+    },
+    {
+      "show_name": "Replica",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 03:00:00",
+      "end_time": "2026-02-10 04:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Replica."
+    },
+    {
+      "show_name": "Replica",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 04:00:00",
+      "end_time": "2026-02-10 05:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Replica."
+    },
+    {
+      "show_name": "Replica",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 05:00:00",
+      "end_time": "2026-02-10 06:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Replica."
+    },
+    {
+      "show_name": "Replica",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 06:00:00",
+      "end_time": "2026-02-10 07:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Replica."
+    },
+    {
+      "show_name": "Replica",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 07:00:00",
+      "end_time": "2026-02-10 08:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Replica."
+    },
+    {
+      "show_name": "Syrio, formule di benessere",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 08:00:00",
+      "end_time": "2026-02-10 10:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Scopri QVC. Scopri Syrio un'azienda italiana che opera nel canale farmacia, parafarmacia ed erboristeria che offre un'ampia gamma di Integratori Alimentari."
+    },
+    {
+      "show_name": "In cucina con Guzzini",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 10:00:00",
+      "end_time": "2026-02-10 11:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Benvenuto nel nostro show in cucina con Guzzini in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti."
+    },
+    {
+      "show_name": "Palazzo Moda, stile tra arte e natura",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 11:00:00",
+      "end_time": "2026-02-10 12:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Scopri QVC!Scopri Palazzo Moda brand di moda made in Italy. Le sue collezioni si distinguono per i colori, per i materiali ispirati alla natura e per le texture che richiamano l'arte e l'architettura."
+    },
+    {
+      "show_name": "Syrio, formule di benessere",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 12:00:00",
+      "end_time": "2026-02-10 13:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Scopri QVC. Scopri Syrio un'azienda italiana che opera nel canale farmacia, parafarmacia ed erboristeria che offre un'ampia gamma di Integratori Alimentari."
+    },
+    {
+      "show_name": "Soffice Sogno, Lo stile della comodita'",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 13:00:00",
+      "end_time": "2026-02-10 14:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Scopri QVC. Scopri Soffice Sogno, una linea di scarpe di produzione italiana, che uniscono al comfort l'attenzione alla moda e ai dettagli."
+    },
+    {
+      "show_name": "Palazzo Moda, stile tra arte e natura",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 14:00:00",
+      "end_time": "2026-02-10 15:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Scopri QVC!Scopri Palazzo Moda brand di moda made in Italy. Le sue collezioni si distinguono per i colori, per i materiali ispirati alla natura e per le texture che richiamano l'arte e l'architettura."
+    },
+    {
+      "show_name": "In cucina con Guzzini",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 15:00:00",
+      "end_time": "2026-02-10 16:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Benvenuto nel nostro show in cucina con Guzzini in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti."
+    },
+    {
+      "show_name": "Mono Skincare, naturale e ricaricabile",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 16:00:00",
+      "end_time": "2026-02-10 17:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "MONO e' l'innovativa linea di skincare in compresse solubili, pensata per chi cerca soluzioni 100% naturali, efficaci e trasparenti per la pelle sensibile."
+    },
+    {
+      "show_name": "Syrio, formule di benessere",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 17:00:00",
+      "end_time": "2026-02-10 18:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Scopri QVC. Scopri Syrio un'azienda italiana che opera nel canale farmacia, parafarmacia ed erboristeria che offre un'ampia gamma di Integratori Alimentari."
+    },
+    {
+      "show_name": "Soffice Sogno, Lo stile della comodita'",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 18:00:00",
+      "end_time": "2026-02-10 19:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Scopri QVC. Scopri Soffice Sogno, una linea di scarpe di produzione italiana, che uniscono al comfort l'attenzione alla moda e ai dettagli."
+    },
+    {
+      "show_name": "In cucina con Guzzini",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 19:00:00",
+      "end_time": "2026-02-10 20:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Benvenuto nel nostro show in cucina con Guzzini in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti."
+    },
+    {
+      "show_name": "Buonasera bellezza!",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 20:00:00",
+      "end_time": "2026-02-10 22:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Scopri QVC. Ci occuperemo di bellezza a 360gradi: make-up, skincare, prodotti per capelli e molto altro! Tanti prodotti diversi, per un imperdibile appuntamento di visione."
+    },
+    {
+      "show_name": "Nina Leonard, lo stile Newyorkese",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 22:00:00",
+      "end_time": "2026-02-10 23:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Scopri QVC. Scopri Nina Leonard Collection,  il brand per la donna moderna che ama la comodita' senza rinunciare a raffinatezza e fascino, creato dall'esperienza del designer americano Lenny Feinberg."
+    },
+    {
       "show_name": "Best of the day",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 23:00:00",
-      "end_time": "2026-02-10 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-10 23:00:00",
+      "end_time": "2026-02-11 00:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Il meglio del giorno su QVC."

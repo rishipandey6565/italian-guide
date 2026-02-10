@@ -1,429 +1,366 @@
 {
   "channel_name": "Food Network",
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "programs": [
     {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-09 00:00:00",
-      "episode_number": "S8 E6",
-      "show_category": "",
-      "show_description": "Colazione a letto - Benedetta cucina delle ricette per San Valentino, per una colazione a letto."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-09 00:05:00",
-      "episode_number": "S8 E6",
-      "show_category": "",
-      "show_description": "Colazione a letto - Benedetta cucina delle ricette per San Valentino, per una colazione a letto."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:05:00",
-      "end_time": "2026-02-09 00:45:00",
-      "episode_number": "S6 E13",
-      "show_category": "",
-      "show_description": "St.6 Ep.13 - Benedetta propone alcune ricette adatte per una cena importante: risotto al mascarpone e pepe rosa: vitello agli agrumi; mini pavlove."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:45:00",
-      "end_time": "2026-02-09 01:20:00",
-      "episode_number": "S7 E7",
-      "show_category": "",
-      "show_description": "Il pistacchio - In questa puntata, Benedetta prepara un menu' interamente a base di pistacchio."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 01:20:00",
-      "end_time": "2026-02-09 01:55:00",
-      "episode_number": "S9 E2",
-      "show_category": "",
-      "show_description": "St.9 Ep.2 - In questa puntata Benedetta prepara tre deliziose ricette anti-spreco."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 01:55:00",
-      "end_time": "2026-02-09 02:20:00",
-      "episode_number": "S7 E9",
-      "show_category": "",
-      "show_description": "Alleanze segrete - I proprietari dell'Indulge Bistro & Wine Bar notano delle stranezze nei costi del cibo e chiamano Charles Stiles. Colpa di alcuni dipendenti che organizzano eventi con quei soldi."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 02:20:00",
-      "end_time": "2026-02-09 02:55:00",
-      "episode_number": "S4 E13",
-      "show_category": "",
-      "show_description": "Il terzo incomodo - Marvin, proprietario del Falls Taproom di Philadelphia, chiede a Charles di indagare sui dissapori tra la sua ragazza e manager del locale e il suo migliore amico, nonche' cliente."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 02:55:00",
-      "end_time": "2026-02-09 03:25:00",
-      "episode_number": "S8 E6",
-      "show_category": "",
-      "show_description": "Biliardo losco - Kent, proprietario di Uptown Billiards, crede che il suo esperto di social media non faccia un lavoro adeguato. Charles invia la spia Amber e scopre una truffa a danno dei clienti."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 03:25:00",
-      "end_time": "2026-02-09 03:55:00",
-      "episode_number": "S4 E8",
-      "show_category": "",
-      "show_description": "Intolleranza al lattosio - Quando diverse signore esili riescono a vincere una sfida terminando enormi porzioni, Chris, proprietario del Pub Cheesie di Chicago, chiede a Charles di indagare. Colpa dei dipendenti?"
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 03:55:00",
-      "end_time": "2026-02-09 04:15:00",
-      "episode_number": "S9 E8",
-      "show_category": "",
-      "show_description": "Matrimonio - Alcuni ristoratori si affidano a un gruppo di 'spie' e all'ausilio di telecamere nascoste per controllare i loro impiegati e scovare i dipendenti piu' indisciplinati."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 04:15:00",
-      "end_time": "2026-02-09 04:45:00",
-      "episode_number": "S11 E7",
-      "show_category": "",
-      "show_description": "Guai al parcheggio - Dopo alcune lamentele sul servizio parcheggio, la proprietaria del Breuckelen Colony contatta Charles Stiles. Le spie Daniel e Jamie scopriranno un autolavaggio non autorizzato."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 04:45:00",
-      "end_time": "2026-02-09 05:10:00",
-      "episode_number": "S9 E11",
-      "show_category": "",
-      "show_description": "Claustrofobia - Alcuni ristoratori si affidano a un gruppo di 'spie' e all'ausilio di telecamere nascoste per controllare i loro impiegati e scovare i dipendenti piu' indisciplinati."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 05:10:00",
-      "end_time": "2026-02-09 05:35:00",
-      "episode_number": "S4 E7",
-      "show_category": "",
-      "show_description": "Vino express - Gary e Tony, co-proprietari del ristorante Big & Little di Chicago, contattano Charles dopo aver sentito voci sulla presunta vendita illegale di alcolici da parte di alcuni loro dipendenti."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 05:35:00",
-      "end_time": "2026-02-09 06:00:00",
-      "episode_number": "S3 E12",
-      "show_category": "",
-      "show_description": "Servizi armati - Keith, proprietaria del Buttons Restaurant in Texas, chiede a Charles Stiles di indagare dopo aver ricevuto lamentele sulla eccessiva severita' del suo manager."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 06:00:00",
-      "end_time": "2026-02-09 06:20:00",
-      "episode_number": "S5 E12",
-      "show_category": "",
-      "show_description": "Il coperto - David e Petra, proprietari del Redballs Rock & Roll Pizza a Moorpark, California, contattano Charles per indagare su alcune discrepanze nelle loro forniture di pizza."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 06:20:00",
-      "end_time": "2026-02-09 06:40:00",
-      "episode_number": "S5 E13",
-      "show_category": "",
-      "show_description": "Tragedia a cena - Peter, titolare dell'Encore Dinner Theatre, teme che la relazione tra uno dei suoi camerieri e una delle attrici stia avendo un impatto negativo sul servizio offerto alla clientela."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 06:40:00",
-      "end_time": "2026-02-09 07:05:00",
-      "episode_number": "S4 E5",
-      "show_category": "",
-      "show_description": "Quando il gatto non c'e'... - Durante la convalescenza in Brasile dopo un incidente in parapendio, Kevin, proprietario del Gauchos Village di Glendale, nota alcune discrepanze tra inventario e profitti. Charles indaga."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 07:05:00",
-      "end_time": "2026-02-09 07:30:00",
-      "episode_number": "S8 E3",
-      "show_category": "",
-      "show_description": "Profitti illegali - Temendo che qualche dipendente usi le provviste del ristorante Cookin' with Lenny Smokehouse in un'azienda di catering concorrente, il proprietario Lenny contatta Charles Stiles."
-    },
-    {
-      "show_name": "La casa di Nonna Lalla",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 07:30:00",
-      "end_time": "2026-02-09 08:00:00",
-      "episode_number": "S1 E4",
-      "show_category": "",
-      "show_description": "La ragazza palombarese - Nonna Lalla prepara: pomodori ripieni di riso e patate, pomodori con la mentuccia e ciambelle degli sposi."
-    },
-    {
-      "show_name": "La casa di Nonna Lalla",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 08:00:00",
-      "end_time": "2026-02-09 08:35:00",
-      "episode_number": "S2 E1",
-      "show_category": "",
-      "show_description": "La mamma e' sempre la mamma - Nonna Lalla cucina Cannelloni e Biscotti della nonna Maria."
-    },
-    {
-      "show_name": "La casa di Nonna Lalla",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 08:35:00",
-      "end_time": "2026-02-09 09:05:00",
-      "episode_number": "S1 E5",
-      "show_category": "",
-      "show_description": "Il matrimonio - Nonna Lalla prepara: crespelle, pane ammollo e ciambellette al vino."
-    },
-    {
-      "show_name": "La casa di Nonna Lalla",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 09:05:00",
-      "end_time": "2026-02-09 09:40:00",
-      "episode_number": "S1 E6",
-      "show_category": "",
-      "show_description": "Vita da nonna - Nonna Lalla prepara: gnocchi di patate al pesto, lombrichelli e pizza fritta."
-    },
-    {
-      "show_name": "La casa di Nonna Lalla",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 09:40:00",
-      "end_time": "2026-02-09 10:05:00",
-      "episode_number": "S1 E2",
-      "show_category": "",
-      "show_description": "Ricordi d'infanzia - Nonna Lalla prepara: stracciatella con brodo di gallina, zabaione e crostata con marmellata di limone."
-    },
-    {
-      "show_name": "La casa di Nonna Lalla",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 10:05:00",
-      "end_time": "2026-02-09 10:35:00",
-      "episode_number": "S2 E2",
-      "show_category": "",
-      "show_description": "Il papa' di una volta - Nonna Lalla cucina Pane coni broccoletti e Trippa."
-    },
-    {
-      "show_name": "La casa di Nonna Lalla",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 10:35:00",
-      "end_time": "2026-02-09 11:05:00",
-      "episode_number": "S2 E3",
-      "show_category": "",
-      "show_description": "La nonna 'scalinata' - Nonna Lalla cucina Pane ammollo con fagioli e Nocchiata."
-    },
-    {
-      "show_name": "La casa di Nonna Lalla",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 11:05:00",
-      "end_time": "2026-02-09 11:35:00",
-      "episode_number": "S2 E4",
-      "show_category": "",
-      "show_description": "La nonna del marito - Nonna Lalla cucina Sagne e Involtini di carne con il sugo."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 11:35:00",
-      "end_time": "2026-02-09 12:05:00",
-      "episode_number": "S6 E6",
-      "show_category": "",
-      "show_description": "St.6 Ep.6 - Benedetta ci dimostra come alle volte basta un piatto unico per una pranzo completo: polenta con le polpette; timballo di pasta; poke rustico."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 12:05:00",
-      "end_time": "2026-02-09 12:40:00",
-      "episode_number": "S3 E8",
-      "show_category": "",
-      "show_description": "St.3 Ep.8 - Benedetta Rossi e' pronta a deliziarci con tre ricette semplici e genuine: carbonara di zucchine, rotolo di panfocaccia con erbette e provola, maritozzi con trucchetto della nonna."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 12:40:00",
-      "end_time": "2026-02-09 13:15:00",
-      "episode_number": "S9 E2",
-      "show_category": "",
-      "show_description": "St.9 Ep.2 - In questa puntata Benedetta prepara tre deliziose ricette anti-spreco."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 13:15:00",
-      "end_time": "2026-02-09 13:45:00",
-      "episode_number": "S6 E2",
-      "show_category": "",
-      "show_description": "St.6 Ep.2 - Benedetta propone ricette leggere per recuperare dopo i pranzi delle feste: vellutata di piselli; fusi di pollo al forno; ciambellone integrale all'arancia."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 13:45:00",
-      "end_time": "2026-02-09 14:25:00",
-      "episode_number": "S7 E11",
-      "show_category": "",
-      "show_description": "Fritto e' buono ovunque - Benedetta prepara delle ricette di fritto provenienti da tre diversi continenti."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 14:25:00",
-      "end_time": "2026-02-09 15:00:00",
-      "episode_number": "S5 E2",
-      "show_category": "",
-      "show_description": "St.5 Ep.2 - Benedetta prepara 3 ricette gustose e sane, per prepararsi alla prova costume senza rinunce: cornetti allo yogurt zero, pesce spada alle mandorle, minestrone ricco."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 15:00:00",
-      "end_time": "2026-02-09 15:35:00",
-      "episode_number": "S8 E14",
-      "show_category": "",
-      "show_description": "Menu' floreale - In questa puntata il menu' proposto da Benedetta sara' a tema floreale."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 15:35:00",
-      "end_time": "2026-02-09 16:10:00",
-      "episode_number": "S7 E16",
-      "show_category": "",
-      "show_description": "Le mele - Benedetta cucina tre piatti a base di mele: una pasta, uno strudel salato e una torta."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 16:10:00",
-      "end_time": "2026-02-09 16:45:00",
-      "episode_number": "S10 E7",
-      "show_category": "",
-      "show_description": "St.10 Ep.7 - Benedetta prepara tre piatti gustosi che vedono i legumi come protagonisti."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 16:45:00",
-      "end_time": "2026-02-09 17:25:00",
-      "episode_number": "S5 E22",
-      "show_category": "",
-      "show_description": "St.5 Ep.22 - Insieme a mamma Teresa, Benedetta ci insegna tre ricette all'insegna della tradizione della sua terra, le Marche. Taccu' col sugo di mamma; pollo in potacchio; cavallucci dolci."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 17:25:00",
-      "end_time": "2026-02-09 18:00:00",
-      "episode_number": "S2 E4",
-      "show_category": "",
-      "show_description": "St.2 Ep.4 - Benedetta Rossi e' pronta a deliziarci con tre ricette semplici e genuine: verdure gratinate, focaccine soffici e zuppa inglese."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 18:00:00",
-      "end_time": "2026-02-09 18:35:00",
-      "episode_number": "S1 E6",
-      "show_category": "",
-      "show_description": "St.1 Ep.6 - Benedetta Rossi e' pronta a deliziarci con tre ricette semplici e genuine: vellutata di zucca con crostini, polpette di zucca e muffin di zucca."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 18:35:00",
-      "end_time": "2026-02-09 19:15:00",
-      "episode_number": "S7 E18",
-      "show_category": "",
-      "show_description": "Menu cremoso - Benedetta prepara tre ricette che hanno un tocco di cremosita'."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 19:15:00",
-      "end_time": "2026-02-09 19:45:00",
-      "episode_number": "S10 E12",
-      "show_category": "",
-      "show_description": "St.10 Ep.12 - Benedetta Rossi torna a preparare tante nuove ricette."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 19:45:00",
-      "end_time": "2026-02-09 20:20:00",
-      "episode_number": "S7 E15",
-      "show_category": "",
-      "show_description": "Menu al formaggio - Benedetta prepara un menu interamente dedicato ai formaggi."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 20:20:00",
-      "end_time": "2026-02-09 20:50:00",
-      "episode_number": "S8 E3",
-      "show_category": "",
-      "show_description": "Una cenetta tutta per me - Benedetta cucina tre ricette dedicate a una serata in beata solitudine."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 20:50:00",
-      "end_time": "2026-02-09 21:25:00",
-      "episode_number": "S10 E20",
-      "show_category": "",
-      "show_description": "Tutti pazzi per la panna - La panna, che bonta'... Benedetta prepara tre dolci che conquistano tutti!"
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 21:25:00",
-      "end_time": "2026-02-09 21:55:00",
-      "episode_number": "S3 E1",
-      "show_category": "",
-      "show_description": "St.3 Ep.1 - Benedetta Rossi e' pronta a deliziarci con tre ricette semplici e genuine: spezzatino di manzo al sugo con patate, vitello tonnato e rolle' di tacchino ripieno con salsiccia e olive."
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 21:55:00",
-      "end_time": "2026-02-09 22:25:00",
-      "episode_number": "S10 E1",
-      "show_category": "",
-      "show_description": "St.10 Ep.1 - Benedetta prepara un menu' per conquistare tutti, anche i palati difficili!"
-    },
-    {
-      "show_name": "Fatto in casa per voi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 22:25:00",
-      "end_time": "2026-02-09 23:00:00",
-      "episode_number": "S9 E1",
-      "show_category": "",
-      "show_description": "St.9 Ep.1 - Benedetta cucina tre ricette con la zucca, ingrediente gustoso ed economico."
-    },
-    {
       "show_name": "The Best of Giusina in cucina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 23:00:00",
+      "show_logo": "",
+      "start_time": "2026-02-10 00:00:00",
       "end_time": "2026-02-10 00:00:00",
       "episode_number": "S1 E3",
       "show_category": "",
       "show_description": "I miei primi piatti - Giusina prepara sei primi piatti: pasta con le sarde, pasta alla norma, pasta alla favignanese, pasta n'caciata, pasta c'anciova e anelletti al forno."
+    },
+    {
+      "show_name": "The Best of Giusina in cucina",
+      "show_logo": "",
+      "start_time": "2026-02-10 00:00:00",
+      "end_time": "2026-02-10 00:05:00",
+      "episode_number": "S1 E3",
+      "show_category": "",
+      "show_description": "I miei primi piatti - Giusina prepara sei primi piatti: pasta con le sarde, pasta alla norma, pasta alla favignanese, pasta n'caciata, pasta c'anciova e anelletti al forno."
+    },
+    {
+      "show_name": "The Best of Giusina in cucina",
+      "show_logo": "",
+      "start_time": "2026-02-10 00:05:00",
+      "end_time": "2026-02-10 01:25:00",
+      "episode_number": "S1 E4",
+      "show_category": "",
+      "show_description": "Le mie bonta' dal forno - Giusina prepara cinque ricette della tradizione palermitana da preparare al forno: mix di rosticceria, brioches, treccine, sfincione e brioches salata ripiena."
+    },
+    {
+      "show_name": "The Best of Giusina in cucina",
+      "show_logo": "",
+      "start_time": "2026-02-10 01:25:00",
+      "end_time": "2026-02-10 02:35:00",
+      "episode_number": "S1 E2",
+      "show_category": "",
+      "show_description": "I miei dolci alla ricotta - Giusina prepara cinque dolci della tradizione palermitana, a base di ricotta: la cassata al forno, i cannoli siciliani, le cassatelle, l'iris e le sfince di San Giuseppe."
+    },
+    {
+      "show_name": "Spie al ristorante",
+      "show_logo": "",
+      "start_time": "2026-02-10 02:35:00",
+      "end_time": "2026-02-10 03:10:00",
+      "episode_number": "S7 E10",
+      "show_category": "",
+      "show_description": "Raggiri d'epoca - Un calo delle vendite preoccupa molto Jimmy, proprietario del ristorante Rockabillies di Arvada, soprattutto durante la mostra estiva di auto d'epoca. C'entra forse il suo staff?"
+    },
+    {
+      "show_name": "Spie al ristorante",
+      "show_logo": "",
+      "start_time": "2026-02-10 03:10:00",
+      "end_time": "2026-02-10 03:40:00",
+      "episode_number": "S5 E1",
+      "show_category": "",
+      "show_description": "In fiamme - Temendo che il suo staff si prenda gioco della clientela con la salsa piccante \\."
+    },
+    {
+      "show_name": "Spie al ristorante",
+      "show_logo": "",
+      "start_time": "2026-02-10 03:40:00",
+      "end_time": "2026-02-10 04:10:00",
+      "episode_number": "S8 E7",
+      "show_category": "",
+      "show_description": "La catastrofe - Quando i proprietari del Food Pavilion di Portland, in Oregon, ricevono lamentele che riguardano il nuovo gestore, i due si rivolgono a Charles Stiles per indagare."
+    },
+    {
+      "show_name": "Spie al ristorante",
+      "show_logo": "",
+      "start_time": "2026-02-10 04:10:00",
+      "end_time": "2026-02-10 04:40:00",
+      "episode_number": "S4 E9",
+      "show_category": "",
+      "show_description": "Consegne imperfette - Dopo diverse lamentele sul servizio di consegna, Danny, proprietario del caffe' Bella Luna di Chicago, si rivolge a Charles. E se gli autisti stessero approfittando della buona fede di Danny?"
+    },
+    {
+      "show_name": "Spie al ristorante",
+      "show_logo": "",
+      "start_time": "2026-02-10 04:40:00",
+      "end_time": "2026-02-10 05:05:00",
+      "episode_number": "S11 E8",
+      "show_category": "",
+      "show_description": "Vandalismo in sede - A causa degli atti vandalici presso lo Spanish Potato Grill, il proprietario contatta le spie, che scopriranno che i sabotaggi partono dall'interno del locale."
+    },
+    {
+      "show_name": "Spie al ristorante",
+      "show_logo": "",
+      "start_time": "2026-02-10 05:05:00",
+      "end_time": "2026-02-10 05:30:00",
+      "episode_number": "S9 E12",
+      "show_category": "",
+      "show_description": "Rapina al treno - Alcuni ristoratori si affidano a un gruppo di 'spie' e all'ausilio di telecamere nascoste per controllare i loro impiegati e scovare i dipendenti piu' indisciplinati."
+    },
+    {
+      "show_name": "Spie al ristorante",
+      "show_logo": "",
+      "start_time": "2026-02-10 05:30:00",
+      "end_time": "2026-02-10 06:00:00",
+      "episode_number": "S3 E13",
+      "show_category": "",
+      "show_description": "I libri - Jamie e Francine, proprietari del California Sisley Italian Kitchen, credono che il loro contabile sia il responsabile di una discrepanza sugli introiti."
+    },
+    {
+      "show_name": "Le ricette del convento",
+      "show_logo": "",
+      "start_time": "2026-02-10 06:00:00",
+      "end_time": "2026-02-10 06:35:00",
+      "episode_number": "S3 E2",
+      "show_category": "",
+      "show_description": "St.3 Ep.2 - Mare e terra: baccala' in teglia e peperonata, questi i piatti che passano in convento."
+    },
+    {
+      "show_name": "Le ricette del convento",
+      "show_logo": "",
+      "start_time": "2026-02-10 06:35:00",
+      "end_time": "2026-02-10 07:10:00",
+      "episode_number": "S3 E7",
+      "show_category": "",
+      "show_description": "St.3 Ep.7 - Fettine al marsala e dolcetti monastici. Le ricette benedettine de nostri don."
+    },
+    {
+      "show_name": "Le ricette del convento",
+      "show_logo": "",
+      "start_time": "2026-02-10 07:10:00",
+      "end_time": "2026-02-10 07:45:00",
+      "episode_number": "S7 E8",
+      "show_category": "",
+      "show_description": "St.7 Ep.8 - Un pranzo di festa in monastero, tra preghiera e dolcezza."
+    },
+    {
+      "show_name": "Le ricette del convento",
+      "show_logo": "",
+      "start_time": "2026-02-10 07:45:00",
+      "end_time": "2026-02-10 08:20:00",
+      "episode_number": "S8 E2",
+      "show_category": "",
+      "show_description": "St.8 Ep.2 - I monaci cucinano: parmigiana di zucchine e semifreddo."
+    },
+    {
+      "show_name": "Le ricette del convento",
+      "show_logo": "",
+      "start_time": "2026-02-10 08:20:00",
+      "end_time": "2026-02-10 08:55:00",
+      "episode_number": "S5 E5",
+      "show_category": "",
+      "show_description": "Bucatini con i calamari e alici all'arancia - Oggi il chiostro profuma di pesce ma anche di agrumi."
+    },
+    {
+      "show_name": "Le ricette del convento",
+      "show_logo": "",
+      "start_time": "2026-02-10 08:55:00",
+      "end_time": "2026-02-10 09:30:00",
+      "episode_number": "S7 E6",
+      "show_category": "",
+      "show_description": "St.7 Ep.6 - Gnocchi e carne per una mensa fraterna tra i monaci della Conca d'Oro."
+    },
+    {
+      "show_name": "Le ricette del convento",
+      "show_logo": "",
+      "start_time": "2026-02-10 09:30:00",
+      "end_time": "2026-02-10 10:05:00",
+      "episode_number": "S4 E6",
+      "show_category": "",
+      "show_description": "St.4 Ep.6 - Don Salvatore e don Anselmo preparano spaccarelle al sugo di agnello e agnello all'origano."
+    },
+    {
+      "show_name": "Le ricette del convento",
+      "show_logo": "",
+      "start_time": "2026-02-10 10:05:00",
+      "end_time": "2026-02-10 10:40:00",
+      "episode_number": "S6 E6",
+      "show_category": "",
+      "show_description": "St.6 Ep.6 - I monaci raccontano la tradizione con la pasta ai 5 buchi e scacciata."
+    },
+    {
+      "show_name": "Le ricette del convento",
+      "show_logo": "",
+      "start_time": "2026-02-10 10:40:00",
+      "end_time": "2026-02-10 11:15:00",
+      "episode_number": "S8 E6",
+      "show_category": "",
+      "show_description": "St.8 Ep.6 - I monaci cucinano: frittata di ricotta e crostata al gelo."
+    },
+    {
+      "show_name": "Le ricette del convento",
+      "show_logo": "",
+      "start_time": "2026-02-10 11:15:00",
+      "end_time": "2026-02-10 11:50:00",
+      "episode_number": "S8 E5",
+      "show_category": "",
+      "show_description": "St.8 Ep.5 - I monaci cucinano: Riso alle melanzane e coniglio alla stimpirata."
+    },
+    {
+      "show_name": "Le ricette del convento",
+      "show_logo": "",
+      "start_time": "2026-02-10 11:50:00",
+      "end_time": "2026-02-10 12:25:00",
+      "episode_number": "S7 E8",
+      "show_category": "",
+      "show_description": "St.7 Ep.8 - Un pranzo di festa in monastero, tra preghiera e dolcezza."
+    },
+    {
+      "show_name": "Le ricette del convento",
+      "show_logo": "",
+      "start_time": "2026-02-10 12:25:00",
+      "end_time": "2026-02-10 13:00:00",
+      "episode_number": "S8 E3",
+      "show_category": "",
+      "show_description": "St.8 Ep.3 - I monaci cucinano: zuppa di formaggi e tritato a sfincione."
+    },
+    {
+      "show_name": "Le ricette del convento",
+      "show_logo": "",
+      "start_time": "2026-02-10 13:00:00",
+      "end_time": "2026-02-10 13:35:00",
+      "episode_number": "S8 E2",
+      "show_category": "",
+      "show_description": "St.8 Ep.2 - I monaci cucinano: parmigiana di zucchine e semifreddo."
+    },
+    {
+      "show_name": "Cucina al mercato con Ruben",
+      "show_logo": "",
+      "start_time": "2026-02-10 13:35:00",
+      "end_time": "2026-02-10 14:15:00",
+      "episode_number": "S2 E4",
+      "show_category": "",
+      "show_description": "St.2 Ep.4 - All'ombra del Vesuvio, Ruben ci delizia con: paccheri al coccio e alici in tortiera."
+    },
+    {
+      "show_name": "Cucina al mercato con Ruben",
+      "show_logo": "",
+      "start_time": "2026-02-10 14:15:00",
+      "end_time": "2026-02-10 14:55:00",
+      "episode_number": "S4 E4",
+      "show_category": "",
+      "show_description": "St.4 Ep.4 - Oggi si cucina il tonno: bistecca con cipolle in agrodolce e arancini di ragu' al tonno."
+    },
+    {
+      "show_name": "Cucina al mercato con Ruben",
+      "show_logo": "",
+      "start_time": "2026-02-10 14:55:00",
+      "end_time": "2026-02-10 15:35:00",
+      "episode_number": "S1 E8",
+      "show_category": "",
+      "show_description": "Oriente - Alla Montagnola Ruben propone due ricette ispirate all'Oriente."
+    },
+    {
+      "show_name": "Cucina al mercato con Ruben",
+      "show_logo": "",
+      "start_time": "2026-02-10 15:35:00",
+      "end_time": "2026-02-10 16:15:00",
+      "episode_number": "S4 E6",
+      "show_category": "",
+      "show_description": "St.4 Ep.6 - Profumo di mare: maltagliati con polpette di sarde e pasta con le sarde."
+    },
+    {
+      "show_name": "Cucina al mercato con Ruben",
+      "show_logo": "",
+      "start_time": "2026-02-10 16:15:00",
+      "end_time": "2026-02-10 16:55:00",
+      "episode_number": "S4 E2",
+      "show_category": "",
+      "show_description": "St.4 Ep.2 - Ruben prepara pasta al pesto trapanese e crostone con ricotta di mandorle e fichi."
+    },
+    {
+      "show_name": "Cucina al mercato con Ruben",
+      "show_logo": "",
+      "start_time": "2026-02-10 16:55:00",
+      "end_time": "2026-02-10 17:35:00",
+      "episode_number": "S3 E8",
+      "show_category": "",
+      "show_description": "St.3 Ep.8 - Ruben ci stupisce con due gustose preparazioni a base di pomodoro."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-10 17:35:00",
+      "end_time": "2026-02-10 18:15:00",
+      "episode_number": "S4 E11",
+      "show_category": "",
+      "show_description": "Altri pesti - Luca Pappagallo cucina la pasta al pesto di sedano, di prezzemolo, di pistacchi."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-10 18:15:00",
+      "end_time": "2026-02-10 18:55:00",
+      "episode_number": "S3 E4",
+      "show_category": "",
+      "show_description": "Grandi classici - Luca Pappagallo porta a tavola i grandi classici: pasta alla Norma, la gricia e il risotto alla milanese."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-10 18:55:00",
+      "end_time": "2026-02-10 19:35:00",
+      "episode_number": "S5 E2",
+      "show_category": "",
+      "show_description": "Crespelle - Luca Pappagallo cucina le crespelle: alla fiorentina, ai funghi, gorgonzola e pere."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-10 19:35:00",
+      "end_time": "2026-02-10 20:10:00",
+      "episode_number": "S4 E7",
+      "show_category": "",
+      "show_description": "Torte salate dal mondo - Luca Pappagallo cucina: quiche lorraine, polvorosa di pollo, tourtie're."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-10 20:10:00",
+      "end_time": "2026-02-10 20:45:00",
+      "episode_number": "S6 E2",
+      "show_category": "",
+      "show_description": "Ricette con le arance - Luca Pappagallo cucina tre ricette all'arancia: spaghetti alla chitaratta, pollo e crostata."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-10 20:45:00",
+      "end_time": "2026-02-10 21:20:00",
+      "episode_number": "S6 E5",
+      "show_category": "",
+      "show_description": "Ricette dalla Gran Bretagna - Luca Pappagallo cucina: Cornish Pasties, Toad in the hole e Bubble and Squeak."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-10 21:20:00",
+      "end_time": "2026-02-10 22:00:00",
+      "episode_number": "S6 E6",
+      "show_category": "",
+      "show_description": "Ricette lombarde - Luca Pappagallo cucina 3 ricette lombarde: Capunsei, Ossobuco alla milanese e torta sbrisolona."
+    },
+    {
+      "show_name": "Best Beker - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-10 22:00:00",
+      "end_time": "2026-02-10 22:35:00",
+      "episode_number": "S5 E1",
+      "show_category": "",
+      "show_description": "Torino - Cuneo - Fabrizio Nonis mette a confronto due visioni diverse ma complementari della braceria piemontese, unite dalla stessa profonda cultura della carne."
+    },
+    {
+      "show_name": "Best Beker - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-10 22:35:00",
+      "end_time": "2026-02-10 23:10:00",
+      "episode_number": "S5 E2",
+      "show_category": "",
+      "show_description": "Milano - Bergamo - Il Beker visita due bracerie eleganti che trasformano la carne in un'esperienza di alta competenza, ricerca e rispetto per l'animale."
+    },
+    {
+      "show_name": "Scarpetta d'Italia",
+      "show_logo": "",
+      "start_time": "2026-02-10 23:10:00",
+      "end_time": "2026-02-11 00:00:00",
+      "episode_number": "S3 E5",
+      "show_category": "",
+      "show_description": "St.3 Ep.5 - Luca Terni prosegue il suo viaggio alla scoperta delle locande italiane."
     }
   ]
 }

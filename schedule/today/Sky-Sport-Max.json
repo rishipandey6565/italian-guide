@@ -1,177 +1,213 @@
 {
   "channel_name": "Sky Sport Max",
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "programs": [
     {
-      "show_name": "Sassuolo - Inter",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/sassuolo-inter.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-09 00:30:00",
-      "episode_number": "S2025 E71",
+      "show_name": "Round 1",
+      "show_logo": "https://guidatv.sky.it/uuid/4d04e06f-eead-4b6b-80e4-1b3d77c8d495/cover?territory=IT&md5ChecksumParam=33b3f5da04fa4bbb23ad423721b0fc50",
+      "start_time": "2026-02-10 00:00:00",
+      "end_time": "2026-02-10 00:00:00",
+      "episode_number": "S2026 E1",
       "show_category": "Sport",
-      "show_description": "Dallo Stadio Mapei Città del Tricolore di Reggio Emilia, Italia."
-    },
-    {
-      "show_name": "Stefania Belmondo E Kristian Ghedina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/stefania-belmondo-e-kristian-ghedina.webp",
-      "start_time": "2026-02-09 00:30:00",
-      "end_time": "2026-02-09 00:45:00",
-      "episode_number": "S2026 E3",
-      "show_category": "Sport",
-      "show_description": "Stefania Belmondo E Kristian Ghedina."
+      "show_description": "Ritorniamo sulle partite del torneo internazionale di rugby under 20."
     },
     {
       "show_name": "Ep.1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/ep-1.webp",
-      "start_time": "2026-02-09 00:45:00",
-      "end_time": "2026-02-09 01:35:00",
+      "show_logo": "https://guidatv.sky.it/uuid/615891e0-7dfb-4812-9ed9-333030a5b52c/cover?territory=IT&md5ChecksumParam=459a2bc76f659361d90cfe87c51afda9",
+      "start_time": "2026-02-10 00:00:00",
+      "end_time": "2026-02-10 00:45:00",
       "episode_number": "S2026 E1",
       "show_category": "Sport",
       "show_description": "racconta l'Italia intrecciando la storia delle Olimpiadi e delle infrastrutture ferroviarie, mostrando come i grandi eventi abbiano accelerato il cambiamento del Paese."
     },
     {
-      "show_name": "Icarus Ultra 2025 Ep.18 02/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/icarus-ultra-2025-ep-18-02-02-2026.webp",
-      "start_time": "2026-02-09 01:35:00",
-      "end_time": "2026-02-09 02:05:00",
-      "episode_number": "S2025 E18",
+      "show_name": "Stefania Belmondo E Kristian Ghedina",
+      "show_logo": "https://guidatv.sky.it/uuid/e9092619-629b-47d5-b787-953331db444c/cover?territory=IT&md5ChecksumParam=e766146eca9b7d38ac6bf3f3a579df79",
+      "start_time": "2026-02-10 00:45:00",
+      "end_time": "2026-02-10 01:00:00",
+      "episode_number": "S2026 E3",
+      "show_category": "Sport",
+      "show_description": "Stefania Belmondo E Kristian Ghedina."
+    },
+    {
+      "show_name": "Uefa Champions League Magazine 2025/2026 Ep.19 06/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/ac54b41a-d422-4171-bbeb-d59bbf232ff9/cover?territory=IT&md5ChecksumParam=1fcd26729e7a8287acbfa6ec1a815d6c",
+      "start_time": "2026-02-10 01:00:00",
+      "end_time": "2026-02-10 02:00:00",
+      "episode_number": "S2025 E19",
+      "show_category": "Sport",
+      "show_description": "Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
+    },
+    {
+      "show_name": "Bayern Monaco - Hoffenheim",
+      "show_logo": "https://guidatv.sky.it/uuid/48b245fa-3413-44a7-9e29-dd81478b885d/cover?territory=IT&md5ChecksumParam=c0d2893a7e3cfe01b8aaaf1c32c883c0",
+      "start_time": "2026-02-10 02:00:00",
+      "end_time": "2026-02-10 04:00:00",
+      "episode_number": "S2025 E116",
+      "show_category": "Sport",
+      "show_description": "Dall'Allianz Arena di Monaco di Baviera, Germania."
+    },
+    {
+      "show_name": "Race 2: GP Cina",
+      "show_logo": "https://guidatv.sky.it/uuid/94d23545-0e97-4ebd-b2f3-6d6238895c6e/cover?territory=IT&md5ChecksumParam=e8bcbac36017c2b2111176c9acfd2649",
+      "start_time": "2026-02-10 04:00:00",
+      "end_time": "2026-02-10 05:05:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Seconda gara del weekend, quella che assegna punti pesanti. Tra i tanti volti nuovi, Doriane Pin e Maya Weug puntano a far sentire il peso dell'esperienza. Telecronaca di Andrea Sillitti."
+    },
+    {
+      "show_name": "Race 2: GP Arabia Saudita",
+      "show_logo": "https://guidatv.sky.it/uuid/d49d3cc7-9d6e-4409-b32c-d8c892831ada/cover?territory=IT&md5ChecksumParam=fc31ea271f21661ff00d79fb85b60b05",
+      "start_time": "2026-02-10 05:05:00",
+      "end_time": "2026-02-10 06:00:00",
+      "episode_number": "S2025 E8",
+      "show_category": "Sport",
+      "show_description": "Sul circuito di Jeddah la gara più importante del weekend, quella che assegna punteggio pieno: chi prenderà i 25 punti che spettano alla vincitrice? Telecronaca di Andrea Sillitti e Vicky Piria."
+    },
+    {
+      "show_name": "Uefa Champions League Magazine 2025/2026 Ep.19 06/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/ac54b41a-d422-4171-bbeb-d59bbf232ff9/cover?territory=IT&md5ChecksumParam=1fcd26729e7a8287acbfa6ec1a815d6c",
+      "start_time": "2026-02-10 06:00:00",
+      "end_time": "2026-02-10 07:00:00",
+      "episode_number": "S2025 E19",
+      "show_category": "Sport",
+      "show_description": "Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
+    },
+    {
+      "show_name": "Lyon-Villeurbanne - EA7 Emporio Armani Milano",
+      "show_logo": "https://guidatv.sky.it/uuid/5454b304-cdfc-44ed-8977-7ca74559dc7b/cover?territory=IT&md5ChecksumParam=5bbe291b6e9b477e204a036ce58508e9",
+      "start_time": "2026-02-10 07:00:00",
+      "end_time": "2026-02-10 09:00:00",
+      "episode_number": "S2025 E98",
+      "show_category": "Sport",
+      "show_description": "Dall'Astroballe di Lione, Rodano-Alpi, Francia."
+    },
+    {
+      "show_name": "Icarus Ultra 2025 Ep.19 09/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/ef695a3d-7cef-4db3-9a3d-d86e80afcbaf/cover?territory=IT&md5ChecksumParam=a64bf0fa09bc073eea50b6f2609ece07",
+      "start_time": "2026-02-10 09:00:00",
+      "end_time": "2026-02-10 09:30:00",
+      "episode_number": "S2025 E19",
       "show_category": "Sport",
       "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
     },
     {
-      "show_name": "Fiorentina - Torino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/fiorentina-torino.webp",
-      "start_time": "2026-02-09 02:05:00",
-      "end_time": "2026-02-09 03:55:00",
-      "episode_number": "S2025 E70",
+      "show_name": "Roma - Cagliari",
+      "show_logo": "https://guidatv.sky.it/uuid/4453d3a5-1960-43a9-b785-28aa4f4cbf48/cover?territory=IT&md5ChecksumParam=454c8be319cd05ff6480577a0350a7db",
+      "start_time": "2026-02-10 09:30:00",
+      "end_time": "2026-02-10 11:15:00",
+      "episode_number": "S2025 E72",
       "show_category": "Sport",
-      "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
+      "show_description": "Dallo Stadio Olimpico di Roma, Italia."
     },
     {
-      "show_name": "Montecarlo: Stage 8",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/montecarlo-stage-8.webp",
-      "start_time": "2026-02-09 03:55:00",
-      "end_time": "2026-02-09 05:30:00",
-      "episode_number": "S2026 E8",
+      "show_name": "Ep.1",
+      "show_logo": "https://guidatv.sky.it/uuid/360eaf3c-f9fa-44b2-87dc-293f993f095e/cover?territory=IT&md5ChecksumParam=ea8de2f29d117ce052c3da77b110ebd3",
+      "start_time": "2026-02-10 11:15:00",
+      "end_time": "2026-02-10 11:30:00",
+      "episode_number": "S2026 E1",
       "show_category": "Sport",
-      "show_description": "Segui le gare del World Rally Championship."
-    },
-    {
-      "show_name": "L'uomo Contro La Macchina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/l-uomo-contro-la-macchina.webp",
-      "start_time": "2026-02-09 05:30:00",
-      "end_time": "2026-02-09 07:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
-    },
-    {
-      "show_name": "Olympiacos - Virtus Olidata Bologna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/olympiacos-virtus-olidata-bologna.webp",
-      "start_time": "2026-02-09 07:00:00",
-      "end_time": "2026-02-09 09:00:00",
-      "episode_number": "S2025 E99",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio della pace e dell'amicizia, Il Pireo, Grecia."
+      "show_description": "Servizi informativi dedicati ai più piccoli sportivi italiani e alle realtà giovanili legate al calcio, tra trofei, incontri, e storie."
     },
     {
       "show_name": "Ep.41",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/ep-41.webp",
-      "start_time": "2026-02-09 09:00:00",
-      "end_time": "2026-02-09 09:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/0ff6859e-85fc-43fb-a90b-189e4a64cc7e/cover?territory=IT&md5ChecksumParam=40d3d23ed4cdb3a75df14bd642197540",
+      "start_time": "2026-02-10 11:30:00",
+      "end_time": "2026-02-10 12:00:00",
       "episode_number": "S1 E41",
       "show_category": "Sport",
       "show_description": "I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia."
     },
     {
-      "show_name": "Fiorentina - Torino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/fiorentina-torino.webp",
-      "start_time": "2026-02-09 09:30:00",
-      "end_time": "2026-02-09 11:15:00",
-      "episode_number": "S2025 E70",
+      "show_name": "Italia - Scozia",
+      "show_logo": "https://guidatv.sky.it/uuid/1f5cf930-f9ca-4de9-9136-3303871c8ded/COVER_TITLE_TALL?territory=IT&version=8566458d-f322-3f03-872a-ccf242c20030&w=600&h=800&md5ChecksumParam=4adb703090edf4afe4f9c294d9df2d91",
+      "start_time": "2026-02-10 12:00:00",
+      "end_time": "2026-02-10 14:00:00",
+      "episode_number": "S2026 E2",
       "show_category": "Sport",
-      "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
+      "show_description": "Dallo Stadio Olimpico di Roma, Italia."
     },
     {
-      "show_name": "Sport Awards San Marino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/sport-awards-san-marino.webp",
-      "start_time": "2026-02-09 11:15:00",
-      "end_time": "2026-02-09 11:30:00",
-      "episode_number": "S2024 E22",
+      "show_name": "Federico Buffa A Teatro: Otto Infinito",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-10 14:00:00",
+      "end_time": "2026-02-10 14:30:00",
+      "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Attraverso il racconto di allenatori, atleti e specialisti di settore di ieri e di oggi, scopriamo alcuni dei cambiamenti più importanti nell’evoluzione degli sport."
+      "show_description": "Federico Buffa, la regista Marelli e il maestro Nidi aprono il backstage a Sky Sport: genesi, trama e legacy dello spettacolo su Kobe Bryant. Dal 7 febbraio a teatro."
     },
     {
-      "show_name": "Boat Show - Ep. 45 - Boat Show 2025 Ep.45 05/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/boat-show-ep-45-boat-show-2025-ep-45-05-02-2026.webp",
-      "start_time": "2026-02-09 11:30:00",
-      "end_time": "2026-02-09 12:00:00",
-      "episode_number": "S2025 E45",
+      "show_name": "Icarus Ultra 2025 Ep.19 09/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/ef695a3d-7cef-4db3-9a3d-d86e80afcbaf/cover?territory=IT&md5ChecksumParam=a64bf0fa09bc073eea50b6f2609ece07",
+      "start_time": "2026-02-10 14:30:00",
+      "end_time": "2026-02-10 15:00:00",
+      "episode_number": "S2025 E19",
       "show_category": "Sport",
-      "show_description": "Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico."
+      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
     },
     {
-      "show_name": "Inghilterra - Galles",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/inghilterra-galles.webp",
-      "start_time": "2026-02-09 12:00:00",
-      "end_time": "2026-02-09 14:00:00",
-      "episode_number": "S2026 E3",
+      "show_name": "Michel Platini: Le Roi",
+      "show_logo": "https://guidatv.sky.it/uuid/bd2bee7f-f123-4132-b146-b740818bd001/cover?territory=IT&md5ChecksumParam=6fe8dc3aa3a562126953f8988c42ca67",
+      "start_time": "2026-02-10 15:00:00",
+      "end_time": "2026-02-10 16:00:00",
+      "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Dall'Allianz-Stadion Twickenham di Londra, Inghilterra."
-    },
-    {
-      "show_name": "Minnesota Timberwolves - LA Clippers",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/minnesota-timberwolves-la-clippers.webp",
-      "start_time": "2026-02-09 14:00:00",
-      "end_time": "2026-02-09 16:00:00",
-      "episode_number": "S2025 E69",
-      "show_category": "Sport",
-      "show_description": "Dal Target Center di Minneapolis, Minnesota, USA."
-    },
-    {
-      "show_name": "Sasha Danilovic",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/sasha-danilovic.webp",
-      "start_time": "2026-02-09 16:00:00",
-      "end_time": "2026-02-09 16:30:00",
-      "episode_number": "S2025 E4",
-      "show_category": "Sport",
-      "show_description": "Amadori Protein Talk: Sasha Danilovic."
+      "show_description": "Michel Platini: Le Roi - Michel Platini: Le Roi."
     },
     {
       "show_name": "Sassuolo - Inter",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/sassuolo-inter.webp",
-      "start_time": "2026-02-09 16:30:00",
-      "end_time": "2026-02-09 18:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/240da2ad-fd6d-4a98-b8ea-43e2f02e49dd/cover?territory=IT&md5ChecksumParam=4787a07f0936d47e2285f5bcc8b7e6e2",
+      "start_time": "2026-02-10 16:00:00",
+      "end_time": "2026-02-10 17:55:00",
       "episode_number": "S2025 E71",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Mapei Città del Tricolore di Reggio Emilia, Italia."
     },
     {
-      "show_name": "World Athletics Indoor Tour - Ep. 5 - World Athletics Indoor Tour Gold 2026 Karlsruhe 08/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/world-athletics-indoor-tour-ep-5-world-athletics-indoor-tour-gold-2026-karlsruhe-08-02-2026.webp",
-      "start_time": "2026-02-09 18:30:00",
-      "end_time": "2026-02-09 23:30:00",
-      "episode_number": "",
+      "show_name": "Sorrento - Giugliano",
+      "show_logo": "https://guidatv.sky.it/uuid/eb637995-da0d-475b-8dfc-7745b98c0520/cover?territory=IT&md5ChecksumParam=744c72133366968f58566129b62898ac",
+      "start_time": "2026-02-10 17:55:00",
+      "end_time": "2026-02-10 20:00:00",
+      "episode_number": "S2025 E268",
       "show_category": "Sport",
-      "show_description": "Karlsruhe - L'appuntamento con i migliori meeting indoor del calendario di atletica leggera."
+      "show_description": "Dallo Stadio Italia di Sorrento, Campania, Italia."
     },
     {
-      "show_name": "Round 1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/round-1.webp",
-      "start_time": "2026-02-09 23:30:00",
-      "end_time": "2026-02-09 23:45:00",
+      "show_name": "Ep.1",
+      "show_logo": "https://guidatv.sky.it/uuid/615891e0-7dfb-4812-9ed9-333030a5b52c/cover?territory=IT&md5ChecksumParam=459a2bc76f659361d90cfe87c51afda9",
+      "start_time": "2026-02-10 20:00:00",
+      "end_time": "2026-02-10 21:10:00",
       "episode_number": "S2026 E1",
       "show_category": "Sport",
-      "show_description": "Scopriamo i momenti migliori del primo turno del \"Rugby Six Nations\" dell'anno 2026."
+      "show_description": "racconta l'Italia intrecciando la storia delle Olimpiadi e delle infrastrutture ferroviarie, mostrando come i grandi eventi abbiano accelerato il cambiamento del Paese."
     },
     {
-      "show_name": "Round 1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/round-1.webp",
-      "start_time": "2026-02-09 23:45:00",
-      "end_time": "2026-02-10 00:00:00",
-      "episode_number": "S2026 E1",
+      "show_name": "West Ham - Manchester United",
+      "show_logo": "https://guidatv.sky.it/uuid/b737fa66-2235-4b4e-a9a0-e7c82231774d/cover?territory=IT&md5ChecksumParam=f9e1c3e197ceae47b07888e8cea36516",
+      "start_time": "2026-02-10 21:10:00",
+      "end_time": "2026-02-10 23:15:00",
+      "episode_number": "S2025 E257",
       "show_category": "Sport",
-      "show_description": "Ritorniamo sulle partite del torneo internazionale di rugby under 20."
+      "show_description": "Dal London Stadium di Londra, Inghilterra."
+    },
+    {
+      "show_name": "Stefania Belmondo E Kristian Ghedina",
+      "show_logo": "https://guidatv.sky.it/uuid/e9092619-629b-47d5-b787-953331db444c/cover?territory=IT&md5ChecksumParam=e766146eca9b7d38ac6bf3f3a579df79",
+      "start_time": "2026-02-10 23:15:00",
+      "end_time": "2026-02-10 23:30:00",
+      "episode_number": "S2026 E3",
+      "show_category": "Sport",
+      "show_description": "Stefania Belmondo E Kristian Ghedina."
+    },
+    {
+      "show_name": "Montpellier - Civitanova",
+      "show_logo": "https://guidatv.sky.it/uuid/ec1c042e-ca29-41af-86c3-452fdb25aa02/cover?territory=IT&md5ChecksumParam=bd23582201898b032018bec241e2edb0",
+      "start_time": "2026-02-10 23:30:00",
+      "end_time": "2026-02-11 01:00:00",
+      "episode_number": "S2025 E37",
+      "show_category": "Sport",
+      "show_description": "Segui la partita valida per la Champions League di pallavolo."
     }
   ]
 }

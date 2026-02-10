@@ -1,321 +1,339 @@
 {
   "channel_name": "Sky Sport F1",
-  "date": "2026-02-10",
+  "date": "2026-02-11",
   "programs": [
     {
-      "show_name": "GP Singapore: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/gp-singapore-gara.webp",
-      "start_time": "2026-02-10 00:00:00",
-      "end_time": "2026-02-10 00:00:00",
-      "episode_number": "S2025 E90",
+      "show_name": "GP Stati Uniti: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/a6ad28ef-30cf-4f5f-bab7-b18b9f2e9635/cover?territory=IT&md5ChecksumParam=82975050ea0c3da79c0f69a7a629675e",
+      "start_time": "2026-02-11 00:00:00",
+      "end_time": "2026-02-11 00:05:00",
+      "episode_number": "S2025 E95",
       "show_category": "Sport",
-      "show_description": "Dal Marina Bay Street Circuit di Singapore."
-    },
-    {
-      "show_name": "Race 2: GP Cina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/race-2-gp-cina.webp",
-      "start_time": "2026-02-10 00:00:00",
-      "end_time": "2026-02-10 01:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Seconda gara del weekend, quella che assegna punti pesanti. Tra i tanti volti nuovi, Doriane Pin e Maya Weug puntano a far sentire il peso dell'esperienza. Telecronaca di Andrea Sillitti."
-    },
-    {
-      "show_name": "Kimi e Toto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/kimi-e-toto.webp",
-      "start_time": "2026-02-10 01:00:00",
-      "end_time": "2026-02-10 01:30:00",
-      "episode_number": "S2024 E7",
-      "show_category": "Sport",
-      "show_description": "Il legame tra Andrea Kimi Antonelli e Toto Wolff va oltre il semplice rapporto tra pilota e team principal: è una scommessa che guarda lontano."
-    },
-    {
-      "show_name": "In pista con Jannik",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/in-pista-con-jannik.webp",
-      "start_time": "2026-02-10 01:30:00",
-      "end_time": "2026-02-10 01:50:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Tutta la passione di Jannik Sinner per la F1 nell’intervista con Stefano Domenicali e nel giro in macchina con Kimi Antonelli."
-    },
-    {
-      "show_name": "Rivoluzione 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/rivoluzione-2026.webp",
-      "start_time": "2026-02-10 01:50:00",
-      "end_time": "2026-02-10 02:05:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Prepariamoci al cambio più radicale della storia della F1. Macchina, motore, carburante, gomme: sarà tutto nuovo. Matteo Bobbi ci spiega l’imminente rivoluzione."
-    },
-    {
-      "show_name": "Presentazione Ferrari Sf-26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/presentazione-ferrari-sf-26.webp",
-      "start_time": "2026-02-10 02:05:00",
-      "end_time": "2026-02-10 04:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "A Maranello si svela la nuova rossa: oltre all'unveiling da seguire i primi giri della SF-26 sulla pista di Fiorano con Charles Leclerc e Lewis Hamilton."
-    },
-    {
-      "show_name": "Giro d'Italia: Lewis & Charles",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/giro-d-italia-lewis-charles.webp",
-      "start_time": "2026-02-10 04:00:00",
-      "end_time": "2026-02-10 04:15:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Giro d'Italia: Lewis & Charles (ITA 2025)."
-    },
-    {
-      "show_name": "Fattore McLaren: Andrea Stella",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/fattore-mclaren-andrea-stella.webp",
-      "start_time": "2026-02-10 04:15:00",
-      "end_time": "2026-02-10 04:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Fattore McLaren: Andrea Stella."
-    },
-    {
-      "show_name": "Inside The Team: Un GP con Bearman",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/inside-the-team-un-gp-con-bearman.webp",
-      "start_time": "2026-02-10 04:30:00",
-      "end_time": "2026-02-10 05:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Scopriamo nel dettaglio come funziona il weekend di gara di un team di F1, con Matteo Bobbi al fianco di Oliver Bearman e del team Haas per tutto il fine settimana di Zandvoort."
-    },
-    {
-      "show_name": "GP Singapore: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/gp-singapore-gara.webp",
-      "start_time": "2026-02-10 05:00:00",
-      "end_time": "2026-02-10 06:00:00",
-      "episode_number": "S2025 E90",
-      "show_category": "Sport",
-      "show_description": "Dal Marina Bay Street Circuit di Singapore."
-    },
-    {
-      "show_name": "Race 2: GP Cina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/race-2-gp-cina.webp",
-      "start_time": "2026-02-10 06:00:00",
-      "end_time": "2026-02-10 07:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Seconda gara del weekend, quella che assegna punti pesanti. Tra i tanti volti nuovi, Doriane Pin e Maya Weug puntano a far sentire il peso dell'esperienza. Telecronaca di Andrea Sillitti."
-    },
-    {
-      "show_name": "Kimi e Toto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/kimi-e-toto.webp",
-      "start_time": "2026-02-10 07:00:00",
-      "end_time": "2026-02-10 07:30:00",
-      "episode_number": "S2024 E7",
-      "show_category": "Sport",
-      "show_description": "Il legame tra Andrea Kimi Antonelli e Toto Wolff va oltre il semplice rapporto tra pilota e team principal: è una scommessa che guarda lontano."
-    },
-    {
-      "show_name": "In pista con Jannik",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/in-pista-con-jannik.webp",
-      "start_time": "2026-02-10 07:30:00",
-      "end_time": "2026-02-10 07:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Tutta la passione di Jannik Sinner per la F1 nell’intervista con Stefano Domenicali e nel giro in macchina con Kimi Antonelli."
-    },
-    {
-      "show_name": "Rivoluzione 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/rivoluzione-2026.webp",
-      "start_time": "2026-02-10 07:45:00",
-      "end_time": "2026-02-10 08:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Prepariamoci al cambio più radicale della storia della F1. Macchina, motore, carburante, gomme: sarà tutto nuovo. Matteo Bobbi ci spiega l’imminente rivoluzione."
-    },
-    {
-      "show_name": "Presentazione Ferrari Sf-26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/presentazione-ferrari-sf-26.webp",
-      "start_time": "2026-02-10 08:00:00",
-      "end_time": "2026-02-10 10:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "A Maranello si svela la nuova rossa: oltre all'unveiling da seguire i primi giri della SF-26 sulla pista di Fiorano con Charles Leclerc e Lewis Hamilton."
-    },
-    {
-      "show_name": "Giro d'Italia: Lewis & Charles",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/giro-d-italia-lewis-charles.webp",
-      "start_time": "2026-02-10 10:00:00",
-      "end_time": "2026-02-10 10:15:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Giro d'Italia: Lewis & Charles (ITA 2025)."
-    },
-    {
-      "show_name": "Fattore McLaren: Andrea Stella",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/fattore-mclaren-andrea-stella.webp",
-      "start_time": "2026-02-10 10:15:00",
-      "end_time": "2026-02-10 10:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Fattore McLaren: Andrea Stella."
-    },
-    {
-      "show_name": "Inside The Team: Un GP con Bearman",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/inside-the-team-un-gp-con-bearman.webp",
-      "start_time": "2026-02-10 10:30:00",
-      "end_time": "2026-02-10 11:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Scopriamo nel dettaglio come funziona il weekend di gara di un team di F1, con Matteo Bobbi al fianco di Oliver Bearman e del team Haas per tutto il fine settimana di Zandvoort."
-    },
-    {
-      "show_name": "GP Singapore: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/gp-singapore-gara.webp",
-      "start_time": "2026-02-10 11:00:00",
-      "end_time": "2026-02-10 12:00:00",
-      "episode_number": "S2025 E90",
-      "show_category": "Sport",
-      "show_description": "Dal Marina Bay Street Circuit di Singapore."
-    },
-    {
-      "show_name": "Race 2: GP Cina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/race-2-gp-cina.webp",
-      "start_time": "2026-02-10 12:00:00",
-      "end_time": "2026-02-10 13:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Seconda gara del weekend, quella che assegna punti pesanti. Tra i tanti volti nuovi, Doriane Pin e Maya Weug puntano a far sentire il peso dell'esperienza. Telecronaca di Andrea Sillitti."
-    },
-    {
-      "show_name": "Kimi e Toto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/kimi-e-toto.webp",
-      "start_time": "2026-02-10 13:00:00",
-      "end_time": "2026-02-10 13:30:00",
-      "episode_number": "S2024 E7",
-      "show_category": "Sport",
-      "show_description": "Il legame tra Andrea Kimi Antonelli e Toto Wolff va oltre il semplice rapporto tra pilota e team principal: è una scommessa che guarda lontano."
-    },
-    {
-      "show_name": "In pista con Jannik",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/in-pista-con-jannik.webp",
-      "start_time": "2026-02-10 13:30:00",
-      "end_time": "2026-02-10 13:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Tutta la passione di Jannik Sinner per la F1 nell’intervista con Stefano Domenicali e nel giro in macchina con Kimi Antonelli."
-    },
-    {
-      "show_name": "Rivoluzione 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/rivoluzione-2026.webp",
-      "start_time": "2026-02-10 13:45:00",
-      "end_time": "2026-02-10 14:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Prepariamoci al cambio più radicale della storia della F1. Macchina, motore, carburante, gomme: sarà tutto nuovo. Matteo Bobbi ci spiega l’imminente rivoluzione."
-    },
-    {
-      "show_name": "Presentazione Ferrari Sf-26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/presentazione-ferrari-sf-26.webp",
-      "start_time": "2026-02-10 14:00:00",
-      "end_time": "2026-02-10 16:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "A Maranello si svela la nuova rossa: oltre all'unveiling da seguire i primi giri della SF-26 sulla pista di Fiorano con Charles Leclerc e Lewis Hamilton."
-    },
-    {
-      "show_name": "Giro d'Italia: Lewis & Charles",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/giro-d-italia-lewis-charles.webp",
-      "start_time": "2026-02-10 16:00:00",
-      "end_time": "2026-02-10 16:15:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Giro d'Italia: Lewis & Charles (ITA 2025)."
-    },
-    {
-      "show_name": "Fattore McLaren: Andrea Stella",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/fattore-mclaren-andrea-stella.webp",
-      "start_time": "2026-02-10 16:15:00",
-      "end_time": "2026-02-10 16:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Fattore McLaren: Andrea Stella."
-    },
-    {
-      "show_name": "Inside The Team: Un GP con Bearman",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/inside-the-team-un-gp-con-bearman.webp",
-      "start_time": "2026-02-10 16:30:00",
-      "end_time": "2026-02-10 17:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Scopriamo nel dettaglio come funziona il weekend di gara di un team di F1, con Matteo Bobbi al fianco di Oliver Bearman e del team Haas per tutto il fine settimana di Zandvoort."
-    },
-    {
-      "show_name": "GP Singapore: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/gp-singapore-gara.webp",
-      "start_time": "2026-02-10 17:00:00",
-      "end_time": "2026-02-10 18:00:00",
-      "episode_number": "S2025 E90",
-      "show_category": "Sport",
-      "show_description": "Dal Marina Bay Street Circuit di Singapore."
+      "show_description": "Dal Circuito delle Americhe, Austin, Stati Uniti."
     },
     {
       "show_name": "Race 2: GP Arabia Saudita",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/race-2-gp-arabia-saudita.webp",
-      "start_time": "2026-02-10 18:00:00",
-      "end_time": "2026-02-10 19:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/d49d3cc7-9d6e-4409-b32c-d8c892831ada/cover?territory=IT&md5ChecksumParam=fc31ea271f21661ff00d79fb85b60b05",
+      "start_time": "2026-02-11 00:05:00",
+      "end_time": "2026-02-11 01:00:00",
       "episode_number": "S2025 E8",
       "show_category": "Sport",
       "show_description": "Sul circuito di Jeddah la gara più importante del weekend, quella che assegna punteggio pieno: chi prenderà i 25 punti che spettano alla vincitrice? Telecronaca di Andrea Sillitti e Vicky Piria."
     },
     {
       "show_name": "MondiaLando",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/mondialando.webp",
-      "start_time": "2026-02-10 19:00:00",
-      "end_time": "2026-02-10 19:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/b1471950-0568-4650-a9e5-4a47d54874cd/cover?territory=IT&md5ChecksumParam=ade11057dce8709c307e6a537d870b70",
+      "start_time": "2026-02-11 01:00:00",
+      "end_time": "2026-02-11 01:15:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "MondiaLando."
     },
     {
       "show_name": "F2rnaroli - Leo Campione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/f2rnaroli-leo-campione.webp",
-      "start_time": "2026-02-10 19:15:00",
-      "end_time": "2026-02-10 19:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/92feb172-101b-40dd-8a35-8d01e15da966/cover?territory=IT&md5ChecksumParam=f4036342daaef0c4d35ee2ed2753168f",
+      "start_time": "2026-02-11 01:15:00",
+      "end_time": "2026-02-11 01:30:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "F2rnaroli - Leo Campione (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025)."
     },
     {
       "show_name": "L'uomo Contro La Macchina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/l-uomo-contro-la-macchina.webp",
-      "start_time": "2026-02-10 19:30:00",
-      "end_time": "2026-02-10 21:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/4edd351f-b9cd-41b9-8d4f-4f465a5e8e72/cover?territory=IT&md5ChecksumParam=04da735fa3b770755c00a60ad0525c02",
+      "start_time": "2026-02-11 01:30:00",
+      "end_time": "2026-02-11 02:00:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
     },
     {
+      "show_name": "F1aenza",
+      "show_logo": "https://guidatv.sky.it/uuid/b794c446-78d7-4034-b831-404466610dba/cover?territory=IT&md5ChecksumParam=c7b8dfbade388ad008415dff2e973194",
+      "start_time": "2026-02-11 02:00:00",
+      "end_time": "2026-02-11 02:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "A pochi km da Imola, nella sede italiana della Visa Cash App Racing Bulls, alla scoperta del lavoro che viene fatto prima e durante un weekend di gara. Con Mara Sangiorgio."
+    },
+    {
+      "show_name": "In pista con Jannik",
+      "show_logo": "https://guidatv.sky.it/uuid/bbb310e7-4ccd-4f78-b577-eb6566a3600f/cover?territory=IT&md5ChecksumParam=bb11104d7c2541f4b37740da9b2f54a2",
+      "start_time": "2026-02-11 02:30:00",
+      "end_time": "2026-02-11 02:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Tutta la passione di Jannik Sinner per la F1 nell’intervista con Stefano Domenicali e nel giro in macchina con Kimi Antonelli."
+    },
+    {
+      "show_name": "Rivoluzione 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/3c0f00ed-2802-4148-9931-f80a03e70262/cover?territory=IT&md5ChecksumParam=aa20c478ce79e174be70d62cbc16572b",
+      "start_time": "2026-02-11 02:45:00",
+      "end_time": "2026-02-11 03:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Prepariamoci al cambio più radicale della storia della F1. Macchina, motore, carburante, gomme: sarà tutto nuovo. Matteo Bobbi ci spiega l’imminente rivoluzione."
+    },
+    {
       "show_name": "Motori F1 Race Anatomy - Stag. Motori Race Anatomy F1 2025 - Motori Race Anatomy F1 2025 Ep.25 Speciale Natale 2025 22/12/2025",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/motori-f1-race-anatomy-stag-motori-race-anatomy-f1-2025-motori-race-anatomy-f1-2025-ep-25-speciale-natale-2025-22-12-2025.webp",
-      "start_time": "2026-02-10 21:00:00",
-      "end_time": "2026-02-10 22:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/9b87ba47-05c2-4f27-9b2c-cd33ef11756b/cover?territory=IT&md5ChecksumParam=1ea123d37ff27a7f74b0d0f2bae08dbb",
+      "start_time": "2026-02-11 03:00:00",
+      "end_time": "2026-02-11 04:00:00",
       "episode_number": "S2025 E25",
       "show_category": "Sport",
       "show_description": "Speciale Natale."
     },
     {
       "show_name": "GP Stati Uniti: Sprint",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/gp-stati-uniti-sprint.webp",
-      "start_time": "2026-02-10 22:00:00",
-      "end_time": "2026-02-10 23:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/4b70e9cd-ea99-49ed-a703-9de29778f4a9/cover?territory=IT&md5ChecksumParam=9cc15e582fc11c737f5e98171b78f749",
+      "start_time": "2026-02-11 04:00:00",
+      "end_time": "2026-02-11 05:00:00",
       "episode_number": "S2025 E93",
       "show_category": "Sport",
       "show_description": "Dal Circuito delle Americhe, Austin, Stati Uniti."
     },
     {
       "show_name": "GP Stati Uniti: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-F1/tomorrow/gp-stati-uniti-gara.webp",
-      "start_time": "2026-02-10 23:00:00",
-      "end_time": "2026-02-11 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/a6ad28ef-30cf-4f5f-bab7-b18b9f2e9635/cover?territory=IT&md5ChecksumParam=82975050ea0c3da79c0f69a7a629675e",
+      "start_time": "2026-02-11 05:00:00",
+      "end_time": "2026-02-11 06:00:00",
       "episode_number": "S2025 E95",
       "show_category": "Sport",
       "show_description": "Dal Circuito delle Americhe, Austin, Stati Uniti."
+    },
+    {
+      "show_name": "Race 2: GP Arabia Saudita",
+      "show_logo": "https://guidatv.sky.it/uuid/d49d3cc7-9d6e-4409-b32c-d8c892831ada/cover?territory=IT&md5ChecksumParam=fc31ea271f21661ff00d79fb85b60b05",
+      "start_time": "2026-02-11 06:00:00",
+      "end_time": "2026-02-11 07:00:00",
+      "episode_number": "S2025 E8",
+      "show_category": "Sport",
+      "show_description": "Sul circuito di Jeddah la gara più importante del weekend, quella che assegna punteggio pieno: chi prenderà i 25 punti che spettano alla vincitrice? Telecronaca di Andrea Sillitti e Vicky Piria."
+    },
+    {
+      "show_name": "MondiaLando",
+      "show_logo": "https://guidatv.sky.it/uuid/b1471950-0568-4650-a9e5-4a47d54874cd/cover?territory=IT&md5ChecksumParam=ade11057dce8709c307e6a537d870b70",
+      "start_time": "2026-02-11 07:00:00",
+      "end_time": "2026-02-11 07:15:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "MondiaLando."
+    },
+    {
+      "show_name": "F2rnaroli - Leo Campione",
+      "show_logo": "https://guidatv.sky.it/uuid/92feb172-101b-40dd-8a35-8d01e15da966/cover?territory=IT&md5ChecksumParam=f4036342daaef0c4d35ee2ed2753168f",
+      "start_time": "2026-02-11 07:15:00",
+      "end_time": "2026-02-11 07:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "F2rnaroli - Leo Campione (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025)."
+    },
+    {
+      "show_name": "L'uomo Contro La Macchina",
+      "show_logo": "https://guidatv.sky.it/uuid/4edd351f-b9cd-41b9-8d4f-4f465a5e8e72/cover?territory=IT&md5ChecksumParam=04da735fa3b770755c00a60ad0525c02",
+      "start_time": "2026-02-11 07:30:00",
+      "end_time": "2026-02-11 08:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
+    },
+    {
+      "show_name": "F1aenza",
+      "show_logo": "https://guidatv.sky.it/uuid/b794c446-78d7-4034-b831-404466610dba/cover?territory=IT&md5ChecksumParam=c7b8dfbade388ad008415dff2e973194",
+      "start_time": "2026-02-11 08:00:00",
+      "end_time": "2026-02-11 08:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "A pochi km da Imola, nella sede italiana della Visa Cash App Racing Bulls, alla scoperta del lavoro che viene fatto prima e durante un weekend di gara. Con Mara Sangiorgio."
+    },
+    {
+      "show_name": "In pista con Jannik",
+      "show_logo": "https://guidatv.sky.it/uuid/bbb310e7-4ccd-4f78-b577-eb6566a3600f/cover?territory=IT&md5ChecksumParam=bb11104d7c2541f4b37740da9b2f54a2",
+      "start_time": "2026-02-11 08:30:00",
+      "end_time": "2026-02-11 08:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Tutta la passione di Jannik Sinner per la F1 nell’intervista con Stefano Domenicali e nel giro in macchina con Kimi Antonelli."
+    },
+    {
+      "show_name": "Rivoluzione 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/3c0f00ed-2802-4148-9931-f80a03e70262/cover?territory=IT&md5ChecksumParam=aa20c478ce79e174be70d62cbc16572b",
+      "start_time": "2026-02-11 08:45:00",
+      "end_time": "2026-02-11 09:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Prepariamoci al cambio più radicale della storia della F1. Macchina, motore, carburante, gomme: sarà tutto nuovo. Matteo Bobbi ci spiega l’imminente rivoluzione."
+    },
+    {
+      "show_name": "Motori F1 Race Anatomy - Stag. Motori Race Anatomy F1 2025 - Motori Race Anatomy F1 2025 Ep.25 Speciale Natale 2025 22/12/2025",
+      "show_logo": "https://guidatv.sky.it/uuid/9b87ba47-05c2-4f27-9b2c-cd33ef11756b/cover?territory=IT&md5ChecksumParam=1ea123d37ff27a7f74b0d0f2bae08dbb",
+      "start_time": "2026-02-11 09:00:00",
+      "end_time": "2026-02-11 10:00:00",
+      "episode_number": "S2025 E25",
+      "show_category": "Sport",
+      "show_description": "Speciale Natale."
+    },
+    {
+      "show_name": "GP Stati Uniti: Sprint",
+      "show_logo": "https://guidatv.sky.it/uuid/4b70e9cd-ea99-49ed-a703-9de29778f4a9/cover?territory=IT&md5ChecksumParam=9cc15e582fc11c737f5e98171b78f749",
+      "start_time": "2026-02-11 10:00:00",
+      "end_time": "2026-02-11 11:00:00",
+      "episode_number": "S2025 E93",
+      "show_category": "Sport",
+      "show_description": "Dal Circuito delle Americhe, Austin, Stati Uniti."
+    },
+    {
+      "show_name": "GP Stati Uniti: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/a6ad28ef-30cf-4f5f-bab7-b18b9f2e9635/cover?territory=IT&md5ChecksumParam=82975050ea0c3da79c0f69a7a629675e",
+      "start_time": "2026-02-11 11:00:00",
+      "end_time": "2026-02-11 12:00:00",
+      "episode_number": "S2025 E95",
+      "show_category": "Sport",
+      "show_description": "Dal Circuito delle Americhe, Austin, Stati Uniti."
+    },
+    {
+      "show_name": "Race 2: GP Arabia Saudita",
+      "show_logo": "https://guidatv.sky.it/uuid/d49d3cc7-9d6e-4409-b32c-d8c892831ada/cover?territory=IT&md5ChecksumParam=fc31ea271f21661ff00d79fb85b60b05",
+      "start_time": "2026-02-11 12:00:00",
+      "end_time": "2026-02-11 12:55:00",
+      "episode_number": "S2025 E8",
+      "show_category": "Sport",
+      "show_description": "Sul circuito di Jeddah la gara più importante del weekend, quella che assegna punteggio pieno: chi prenderà i 25 punti che spettano alla vincitrice? Telecronaca di Andrea Sillitti e Vicky Piria."
+    },
+    {
+      "show_name": "Test 2026 Bahrain: Giorno 1",
+      "show_logo": "https://guidatv.sky.it/uuid/a47579ab-386a-4638-8773-fb764a910521/cover?territory=IT&md5ChecksumParam=3a589d791927ddf9fb5fffb2cffe1970",
+      "start_time": "2026-02-11 12:55:00",
+      "end_time": "2026-02-11 17:05:00",
+      "episode_number": "S2026 E2",
+      "show_category": "Sport",
+      "show_description": "Formula 1 Test."
+    },
+    {
+      "show_name": "Rivoluzione 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/3c0f00ed-2802-4148-9931-f80a03e70262/cover?territory=IT&md5ChecksumParam=aa20c478ce79e174be70d62cbc16572b",
+      "start_time": "2026-02-11 17:05:00",
+      "end_time": "2026-02-11 17:20:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Prepariamoci al cambio più radicale della storia della F1. Macchina, motore, carburante, gomme: sarà tutto nuovo. Matteo Bobbi ci spiega l’imminente rivoluzione."
+    },
+    {
+      "show_name": "Inside The Team: Un GP con Bearman",
+      "show_logo": "https://guidatv.sky.it/uuid/e9e38314-f910-459f-900d-7135798f6d84/cover?territory=IT&md5ChecksumParam=cc4bc43e0a32bc50a1b955a3b53206a7",
+      "start_time": "2026-02-11 17:20:00",
+      "end_time": "2026-02-11 17:50:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Scopriamo nel dettaglio come funziona il weekend di gara di un team di F1, con Matteo Bobbi al fianco di Oliver Bearman e del team Haas per tutto il fine settimana di Zandvoort."
+    },
+    {
+      "show_name": "Programmazione non disponibile",
+      "show_logo": "https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&md5ChecksumParam=4a25768e3cfcae514f94f50e5a0fe2c7",
+      "start_time": "2026-02-11 17:50:00",
+      "end_time": "2026-02-11 18:00:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Programmazione non disponibile."
+    },
+    {
+      "show_name": "Race 1: GP Miami",
+      "show_logo": "https://guidatv.sky.it/uuid/37c23569-20de-4d75-8f53-0d23127bd839/cover?territory=IT&md5ChecksumParam=70cb58db67c6f3fab3a99b55d3321a30",
+      "start_time": "2026-02-11 18:00:00",
+      "end_time": "2026-02-11 18:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "A Miami prima gara del weekend a griglia invertita. Guida la classifica Maya Weug, inseguita da Doriane Pin e Chloe Chambers. Telecronaca di Andrea Sillitti e Matteo Bobbi."
+    },
+    {
+      "show_name": "F2rnaroli - Leo Campione",
+      "show_logo": "https://guidatv.sky.it/uuid/92feb172-101b-40dd-8a35-8d01e15da966/cover?territory=IT&md5ChecksumParam=f4036342daaef0c4d35ee2ed2753168f",
+      "start_time": "2026-02-11 18:45:00",
+      "end_time": "2026-02-11 19:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "F2rnaroli - Leo Campione (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025)."
+    },
+    {
+      "show_name": "In pista con Jannik",
+      "show_logo": "https://guidatv.sky.it/uuid/bbb310e7-4ccd-4f78-b577-eb6566a3600f/cover?territory=IT&md5ChecksumParam=bb11104d7c2541f4b37740da9b2f54a2",
+      "start_time": "2026-02-11 19:00:00",
+      "end_time": "2026-02-11 19:15:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Tutta la passione di Jannik Sinner per la F1 nell’intervista con Stefano Domenicali e nel giro in macchina con Kimi Antonelli."
+    },
+    {
+      "show_name": "Rivoluzione 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/3c0f00ed-2802-4148-9931-f80a03e70262/cover?territory=IT&md5ChecksumParam=aa20c478ce79e174be70d62cbc16572b",
+      "start_time": "2026-02-11 19:15:00",
+      "end_time": "2026-02-11 19:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Prepariamoci al cambio più radicale della storia della F1. Macchina, motore, carburante, gomme: sarà tutto nuovo. Matteo Bobbi ci spiega l’imminente rivoluzione."
+    },
+    {
+      "show_name": "MondiaLando",
+      "show_logo": "https://guidatv.sky.it/uuid/b1471950-0568-4650-a9e5-4a47d54874cd/cover?territory=IT&md5ChecksumParam=ade11057dce8709c307e6a537d870b70",
+      "start_time": "2026-02-11 19:30:00",
+      "end_time": "2026-02-11 19:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "MondiaLando."
+    },
+    {
+      "show_name": "F2rnaroli - Leo Campione",
+      "show_logo": "https://guidatv.sky.it/uuid/92feb172-101b-40dd-8a35-8d01e15da966/cover?territory=IT&md5ChecksumParam=f4036342daaef0c4d35ee2ed2753168f",
+      "start_time": "2026-02-11 19:45:00",
+      "end_time": "2026-02-11 20:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "F2rnaroli - Leo Campione (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025) (ITA 2025)."
+    },
+    {
+      "show_name": "Test Bahrain 2026 11/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/b695c19e-47e4-4e8c-a8fd-0950a8c124a3/cover?territory=IT&md5ChecksumParam=70a36a2b5b137d4220d9169e0c8ef0a6",
+      "start_time": "2026-02-11 20:00:00",
+      "end_time": "2026-02-11 21:15:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "Test Bahrain 2026 11/02/2026 - Test Bahrain 2026 - In collegamento dal paddock, il meglio della giornata in pista con approfondimenti e aggiornamenti in tempo reale."
+    },
+    {
+      "show_name": "Barilla e Bottura: piatti da GP",
+      "show_logo": "https://guidatv.sky.it/uuid/379478ec-74c5-45c7-9675-f0dca18f5767/cover?territory=IT&md5ChecksumParam=fd55ebf32726a861c0529d76436c61aa",
+      "start_time": "2026-02-11 21:15:00",
+      "end_time": "2026-02-11 21:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Leo Turrini ospita Paolo Barilla e Massimo Bottura per una chiacchierata ricca di aneddoti che spazia dalla F1 al valore della tavola e della nutrizione."
+    },
+    {
+      "show_name": "L'uomo Contro La Macchina",
+      "show_logo": "https://guidatv.sky.it/uuid/4edd351f-b9cd-41b9-8d4f-4f465a5e8e72/cover?territory=IT&md5ChecksumParam=04da735fa3b770755c00a60ad0525c02",
+      "start_time": "2026-02-11 21:30:00",
+      "end_time": "2026-02-11 22:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
+    },
+    {
+      "show_name": "Motori F1 Race Anatomy - Stag. Motori Race Anatomy F1 2025 - Motori Race Anatomy F1 2025 Ep.25 Speciale Natale 2025 22/12/2025",
+      "show_logo": "https://guidatv.sky.it/uuid/9b87ba47-05c2-4f27-9b2c-cd33ef11756b/cover?territory=IT&md5ChecksumParam=1ea123d37ff27a7f74b0d0f2bae08dbb",
+      "start_time": "2026-02-11 22:00:00",
+      "end_time": "2026-02-11 23:00:00",
+      "episode_number": "S2025 E25",
+      "show_category": "Sport",
+      "show_description": "Speciale Natale."
+    },
+    {
+      "show_name": "GP Messico: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/29c62b0c-3652-48ea-aa47-58ee303f23af/cover?territory=IT&md5ChecksumParam=2e853c6132f9a6e453ab20075b691309",
+      "start_time": "2026-02-11 23:00:00",
+      "end_time": "2026-02-12 00:00:00",
+      "episode_number": "S2025 E100",
+      "show_category": "Sport",
+      "show_description": "Dall'Autodromo Hermanos Rodriguez di Città del Messico."
     }
   ]
 }

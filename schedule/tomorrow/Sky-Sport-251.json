@@ -1,33 +1,33 @@
 {
   "channel_name": "Sky Sport  251",
-  "date": "2026-02-10",
+  "date": "2026-02-11",
   "programs": [
     {
-      "show_name": "Roma - Cagliari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/tomorrow/roma-cagliari.webp",
-      "start_time": "2026-02-10 00:00:00",
-      "end_time": "2026-02-10 17:30:00",
-      "episode_number": "S2025 E72",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Olimpico di Roma, Italia."
-    },
-    {
-      "show_name": "Trapani - Benevento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/tomorrow/trapani-benevento.webp",
-      "start_time": "2026-02-10 17:30:00",
-      "end_time": "2026-02-10 20:25:00",
-      "episode_number": "S2025 E270",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Polisportivo Provinciale di Erice, Italia."
-    },
-    {
       "show_name": "Catania - Audace Cerignola",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/tomorrow/catania-audace-cerignola.webp",
-      "start_time": "2026-02-10 20:25:00",
+      "show_logo": "https://guidatv.sky.it/uuid/0d0fcfa4-d36a-441a-bf2b-74b943006a7f/cover?territory=IT&md5ChecksumParam=16f6e74865d7f88c9ac6431ffeea8991",
+      "start_time": "2026-02-11 00:00:00",
       "end_time": "2026-02-11 17:30:00",
       "episode_number": "S2025 E263",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Massimino di Catania, Italia."
+    },
+    {
+      "show_name": "Alcione Milano - Ospitaletto",
+      "show_logo": "https://guidatv.sky.it/uuid/dc1c5b22-4be3-460e-9a5b-a2092863c05c/cover?territory=IT&md5ChecksumParam=0b434d16254c0f2320214a796ff093e7",
+      "start_time": "2026-02-11 17:30:00",
+      "end_time": "2026-02-11 20:25:00",
+      "episode_number": "S2025 E261",
+      "show_category": "Sport",
+      "show_description": "Dall'Arena Civica Gianni Brera di Milano, Italia."
+    },
+    {
+      "show_name": "Calcio Campionato Italiano Serie C - Ep. 268 - Calcio Serie C 26ga Girone A Pro Vercelli/ L.R. Vicenza 11/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/4a944cfc-c77a-4c0b-82c2-31489152ec53/cover?territory=IT&md5ChecksumParam=554ba20750eabf7a6591ca83b5fe38a4",
+      "start_time": "2026-02-11 20:25:00",
+      "end_time": "2026-02-12 17:30:00",
+      "episode_number": "S2025 E268",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Silvio Piola di Vercelli, Italia."
     }
   ]
 }

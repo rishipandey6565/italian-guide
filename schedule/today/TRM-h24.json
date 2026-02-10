@@ -1,552 +1,534 @@
 {
   "channel_name": "TRM h24",
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "programs": [
     {
       "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-09 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 00:00:00",
+      "end_time": "2026-02-10 00:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-09 00:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:15:00",
-      "end_time": "2026-02-09 00:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Focus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:30:00",
-      "end_time": "2026-02-09 01:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 01:30:00",
-      "end_time": "2026-02-09 01:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 01:45:00",
-      "end_time": "2026-02-09 02:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 02:00:00",
-      "end_time": "2026-02-09 02:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 02:15:00",
-      "end_time": "2026-02-09 02:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 02:30:00",
-      "end_time": "2026-02-09 02:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 02:45:00",
-      "end_time": "2026-02-09 03:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 03:00:00",
-      "end_time": "2026-02-09 03:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Libri",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 03:15:00",
-      "end_time": "2026-02-09 03:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 03:30:00",
-      "end_time": "2026-02-09 03:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 03:45:00",
-      "end_time": "2026-02-09 04:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 04:00:00",
-      "end_time": "2026-02-09 04:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 04:15:00",
-      "end_time": "2026-02-09 04:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 04:30:00",
-      "end_time": "2026-02-09 04:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 04:45:00",
-      "end_time": "2026-02-09 05:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 05:00:00",
-      "end_time": "2026-02-09 05:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 05:15:00",
-      "end_time": "2026-02-09 05:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 05:30:00",
-      "end_time": "2026-02-09 05:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 05:45:00",
-      "end_time": "2026-02-09 06:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 06:00:00",
-      "end_time": "2026-02-09 06:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 06:15:00",
-      "end_time": "2026-02-09 06:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 06:30:00",
-      "end_time": "2026-02-09 06:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 06:45:00",
-      "end_time": "2026-02-09 07:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 07:00:00",
-      "end_time": "2026-02-09 07:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Edicola",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 07:15:00",
-      "end_time": "2026-02-09 07:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 07:30:00",
-      "end_time": "2026-02-09 07:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Edicola",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 07:45:00",
-      "end_time": "2026-02-09 08:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia."
-    },
-    {
-      "show_name": "Live Special",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 08:00:00",
-      "end_time": "2026-02-09 09:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Appuntamento quotidiano in diretta con le principali notizie della Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 09:30:00",
-      "end_time": "2026-02-09 09:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Edicola",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 09:45:00",
-      "end_time": "2026-02-09 10:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia."
-    },
-    {
-      "show_name": "Live Special",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 10:00:00",
-      "end_time": "2026-02-09 11:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Appuntamento quotidiano in diretta con le principali notizie della Puglia e Basilicata."
-    },
-    {
-      "show_name": "Live Special",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 11:30:00",
-      "end_time": "2026-02-09 13:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Appuntamento quotidiano in diretta con le principali notizie della Puglia e Basilicata."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 13:00:00",
-      "end_time": "2026-02-09 13:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Fatti ed eventi di Puglia e Basilicata."
-    },
-    {
-      "show_name": "Edicola",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 13:15:00",
-      "end_time": "2026-02-09 13:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia."
-    },
-    {
-      "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 13:30:00",
-      "end_time": "2026-02-09 14:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 00:00:00",
+      "end_time": "2026-02-10 00:30:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "Eccheccalcio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 14:00:00",
-      "end_time": "2026-02-09 15:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 00:30:00",
+      "end_time": "2026-02-10 01:30:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Eccheccalcio Dibattiti e commenti dell'Arena sul weekend calcistico."
     },
     {
       "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 15:00:00",
-      "end_time": "2026-02-09 15:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 01:30:00",
+      "end_time": "2026-02-10 02:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Approfondimento",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 02:00:00",
+      "end_time": "2026-02-10 02:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Approfondimento",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 02:15:00",
+      "end_time": "2026-02-10 02:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 02:30:00",
+      "end_time": "2026-02-10 02:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Approfondimento",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 02:45:00",
+      "end_time": "2026-02-10 03:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 03:00:00",
+      "end_time": "2026-02-10 03:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Approfondimento",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 03:15:00",
+      "end_time": "2026-02-10 03:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 03:30:00",
+      "end_time": "2026-02-10 03:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Approfondimento",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 03:45:00",
+      "end_time": "2026-02-10 04:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 04:00:00",
+      "end_time": "2026-02-10 04:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Approfondimento",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 04:15:00",
+      "end_time": "2026-02-10 04:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 04:30:00",
+      "end_time": "2026-02-10 04:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Approfondimento",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 04:45:00",
+      "end_time": "2026-02-10 05:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 05:00:00",
+      "end_time": "2026-02-10 05:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Approfondimento",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 05:15:00",
+      "end_time": "2026-02-10 05:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 05:30:00",
+      "end_time": "2026-02-10 05:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Approfondimento",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 05:45:00",
+      "end_time": "2026-02-10 06:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 06:00:00",
+      "end_time": "2026-02-10 06:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Approfondimento",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 06:15:00",
+      "end_time": "2026-02-10 06:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 06:30:00",
+      "end_time": "2026-02-10 06:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Approfondimento",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 06:45:00",
+      "end_time": "2026-02-10 07:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 07:00:00",
+      "end_time": "2026-02-10 07:15:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "Edicola",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 15:15:00",
-      "end_time": "2026-02-09 15:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 07:15:00",
+      "end_time": "2026-02-10 07:30:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia."
     },
     {
       "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 15:30:00",
-      "end_time": "2026-02-09 15:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 07:30:00",
+      "end_time": "2026-02-10 07:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 07:45:00",
+      "end_time": "2026-02-10 08:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia."
+    },
+    {
+      "show_name": "Live Special",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 08:00:00",
+      "end_time": "2026-02-10 09:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Appuntamento quotidiano in diretta con le principali notizie della Puglia e Basilicata."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 09:30:00",
+      "end_time": "2026-02-10 09:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 09:45:00",
+      "end_time": "2026-02-10 10:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia."
+    },
+    {
+      "show_name": "Live Special",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 10:00:00",
+      "end_time": "2026-02-10 11:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Appuntamento quotidiano in diretta con le principali notizie della Puglia e Basilicata."
+    },
+    {
+      "show_name": "Live Special",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 11:30:00",
+      "end_time": "2026-02-10 13:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Appuntamento quotidiano in diretta con le principali notizie della Puglia e Basilicata."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 13:00:00",
+      "end_time": "2026-02-10 13:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 13:15:00",
+      "end_time": "2026-02-10 13:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 13:30:00",
+      "end_time": "2026-02-10 14:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Focus",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 14:00:00",
+      "end_time": "2026-02-10 15:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 15:00:00",
+      "end_time": "2026-02-10 15:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
+    },
+    {
+      "show_name": "Edicola",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 15:15:00",
+      "end_time": "2026-02-10 15:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia."
+    },
+    {
+      "show_name": "TG",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 15:30:00",
+      "end_time": "2026-02-10 15:45:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Telegiornale - L'informazione di Puglia e Basilicata."
     },
     {
       "show_name": "Edicola",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 15:45:00",
-      "end_time": "2026-02-09 16:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 15:45:00",
+      "end_time": "2026-02-10 16:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia."
     },
     {
       "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 16:00:00",
-      "end_time": "2026-02-09 16:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 16:00:00",
+      "end_time": "2026-02-10 16:30:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
-      "show_name": "Eccheccalcio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 16:30:00",
-      "end_time": "2026-02-09 17:30:00",
+      "show_name": "Focus",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 16:30:00",
+      "end_time": "2026-02-10 17:30:00",
       "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Eccheccalcio Dibattiti e commenti dell'Arena sul weekend calcistico."
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 17:30:00",
-      "end_time": "2026-02-09 17:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 17:30:00",
+      "end_time": "2026-02-10 17:45:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 17:45:00",
-      "end_time": "2026-02-09 18:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 17:45:00",
+      "end_time": "2026-02-10 18:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 18:00:00",
-      "end_time": "2026-02-09 18:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 18:00:00",
+      "end_time": "2026-02-10 18:30:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 18:30:00",
-      "end_time": "2026-02-09 18:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 18:30:00",
+      "end_time": "2026-02-10 18:45:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 18:45:00",
-      "end_time": "2026-02-09 19:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 18:45:00",
+      "end_time": "2026-02-10 19:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 19:00:00",
-      "end_time": "2026-02-09 19:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 19:00:00",
+      "end_time": "2026-02-10 19:15:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 19:15:00",
-      "end_time": "2026-02-09 19:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 19:15:00",
+      "end_time": "2026-02-10 19:30:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 19:30:00",
-      "end_time": "2026-02-09 21:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 19:30:00",
+      "end_time": "2026-02-10 21:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 21:00:00",
-      "end_time": "2026-02-09 21:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 21:00:00",
+      "end_time": "2026-02-10 21:15:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 21:15:00",
-      "end_time": "2026-02-09 21:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 21:15:00",
+      "end_time": "2026-02-10 21:30:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 21:30:00",
-      "end_time": "2026-02-09 21:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 21:30:00",
+      "end_time": "2026-02-10 21:45:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 21:45:00",
-      "end_time": "2026-02-09 22:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 21:45:00",
+      "end_time": "2026-02-10 22:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 22:00:00",
-      "end_time": "2026-02-09 22:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 22:00:00",
+      "end_time": "2026-02-10 22:30:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
-      "show_name": "Eccheccalcio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 22:30:00",
-      "end_time": "2026-02-09 23:30:00",
+      "show_name": "Focus",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 22:30:00",
+      "end_time": "2026-02-10 23:30:00",
       "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Eccheccalcio Dibattiti e commenti dell'Arena sul weekend calcistico."
+      "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "TG",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 23:30:00",
-      "end_time": "2026-02-09 23:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 23:30:00",
+      "end_time": "2026-02-10 23:45:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Fatti ed eventi di Puglia e Basilicata."
     },
     {
       "show_name": "Approfondimento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 23:45:00",
-      "end_time": "2026-02-10 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-10 23:45:00",
+      "end_time": "2026-02-11 00:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Approfondimento - focus su fatti ed eventi di Puglia e Basilicata."

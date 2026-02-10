@@ -1,33 +1,33 @@
 {
   "channel_name": "Sky Sport  254",
-  "date": "2026-02-10",
+  "date": "2026-02-11",
   "programs": [
     {
-      "show_name": "Livorno - Bra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-254/tomorrow/livorno-bra.webp",
-      "start_time": "2026-02-10 00:00:00",
-      "end_time": "2026-02-10 17:30:00",
-      "episode_number": "S2025 E248",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Armando Picchi di Livorno, Italia."
-    },
-    {
-      "show_name": "Calcio Campionato Italiano Serie C - Ep. 269 - Calcio Serie C 26ga Girone C Team Altamura/ Latina 10/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-254/tomorrow/calcio-campionato-italiano-serie-c-ep-269-calcio-serie-c-26ga-girone-c-team-altamura-latina-10-02-2026.webp",
-      "start_time": "2026-02-10 17:30:00",
-      "end_time": "2026-02-10 20:25:00",
-      "episode_number": "S2025 E269",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Antonio D'Angelo di Altamura, Italia."
-    },
-    {
       "show_name": "Casertana - Crotone",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-10 20:25:00",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-11 00:00:00",
       "end_time": "2026-02-11 17:30:00",
       "episode_number": "S2025 E262",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Alberto Pinto di Caserta, Campania, Italia."
+    },
+    {
+      "show_name": "Dolomiti Bellunesi - Pergolettese",
+      "show_logo": "https://guidatv.sky.it/uuid/dc950031-2a13-4f1d-817b-0f0afab327e2/cover?territory=IT&md5ChecksumParam=a5fcfc66c1bb23f7abf2d0ec04aae1e8",
+      "start_time": "2026-02-11 17:30:00",
+      "end_time": "2026-02-11 20:25:00",
+      "episode_number": "S2025 E263",
+      "show_category": "Sport",
+      "show_description": "Tutte le partite del campionato di Serie C italiano."
+    },
+    {
+      "show_name": "Giana Erminio - Lecco",
+      "show_logo": "https://guidatv.sky.it/uuid/9f7ad844-2ebf-459b-9082-e397a64cc40b/cover?territory=IT&md5ChecksumParam=d04439265ea920dc5ed375305143642e",
+      "start_time": "2026-02-11 20:25:00",
+      "end_time": "2026-02-12 20:00:00",
+      "episode_number": "S2025 E264",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Città di Gorgonzola, Italia."
     }
   ]
 }

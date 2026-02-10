@@ -1,258 +1,294 @@
 {
   "channel_name": "Italia 1",
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "programs": [
     {
-      "show_name": "Le Iene",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Italia-1/today/le-iene.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-09 00:15:00",
-      "episode_number": "",
-      "show_category": "Varietà",
-      "show_description": "Veronica Gentili conduce con Max Angioni il programma cult di attualita' con nuove interviste dissacranti ed inchieste di cronaca degli inviati."
+      "show_name": "Law & Order: I Due Volti Della Giustizia",
+      "show_logo": "",
+      "start_time": "2026-02-10 00:00:00",
+      "end_time": "2026-02-10 00:36:00",
+      "episode_number": "S22 E7",
+      "show_category": "Azione",
+      "show_description": "Una consulente che si era fatta molti nemici e' stata uccisa. Price e Maroun devono mettere da parte il potenziale danno alla reputazione del testimone per poter sostenere la loro causa."
     },
     {
-      "show_name": "Super Bowl",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 00:15:00",
-      "end_time": "2026-02-09 04:39:00",
-      "episode_number": "S60",
-      "show_category": "",
-      "show_description": "In diretta dal Levi's Stadium di Santa Clara, California, i New England Patriots sfidano i Seattle Seahawks."
+      "show_name": "Sport Mediaset Monday Night",
+      "show_logo": "",
+      "start_time": "2026-02-10 00:36:00",
+      "end_time": "2026-02-10 01:10:00",
+      "episode_number": "",
+      "show_category": "Calcio",
+      "show_description": "Tutte le notizie sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset. Conduce Benedetta Radaelli."
+    },
+    {
+      "show_name": "E Planet",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314224501000601/media/29/93/e73019ed-1a11-48db-b88d-8444833d5c44/366bb03f-4831-4a31-bc0a-86b36f51731a.jpg",
+      "start_time": "2026-02-10 01:10:00",
+      "end_time": "2026-02-10 01:38:00",
+      "episode_number": "S1 E6",
+      "show_category": "Magazine",
+      "show_description": "Appuntamento con il Magazine Green all'insegna della sostenibilità."
+    },
+    {
+      "show_name": "Drive Up Winter Edition",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313764003000501/media/16/80/e7b349ea-06cd-4a0d-a537-ee61f5e2d3a8/3e13035b-a092-4a83-bc97-5f9deef8d720.jpg",
+      "start_time": "2026-02-10 01:38:00",
+      "end_time": "2026-02-10 02:14:00",
+      "episode_number": "",
+      "show_category": "Magazine",
+      "show_description": "Magazine di motori che ci guida tra supercar e auto da sogno, approfondimenti sui modelli più recenti e anticipazioni sulle novità più interessanti."
     },
     {
       "show_name": "Studio Aperto La Giornata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 04:39:00",
-      "end_time": "2026-02-09 04:52:00",
+      "show_logo": "",
+      "start_time": "2026-02-10 02:14:00",
+      "end_time": "2026-02-10 02:32:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "I principali fatti e notizie della giornata a cura della redazione giornalistica di Studio Aperto."
     },
     {
-      "show_name": "Sport Mediaset La Giornata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 04:52:00",
-      "end_time": "2026-02-09 05:12:00",
-      "episode_number": "",
+      "show_name": "Grown Ish",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312469601000703/media/17/81/bb9f166c-f2aa-458c-a1d6-6687829f7ab4/d3569952-df74-4a1d-a0de-f2c6807eaaf5.jpg",
+      "start_time": "2026-02-10 02:32:00",
+      "end_time": "2026-02-10 02:52:00",
+      "episode_number": "S6 E7",
+      "show_category": "Commedia",
+      "show_description": "Il gruppo è in allarme quando Zaara è completamente presa dalla sua recente avventura con Drea; Aaron sente una scintilla romantica per la sua collega ma non è sicuro della prossima mossa da fare; Kiela ha difficoltà con un compito in classe in cui Lauryn eccelle."
+    },
+    {
+      "show_name": "Unearthed La Storia Dalle Fondamenta",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313791501000204/media/20/84/8f31ac8c-a764-4041-96c0-30c6786d2b86/999bffad-eb43-4488-b594-91c3bd31f3b6.jpg",
+      "start_time": "2026-02-10 02:52:00",
+      "end_time": "2026-02-10 03:34:00",
+      "episode_number": "S3 E2",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Le fortezze perdute dell'era vichinga nell'odierna Danimarca. Perché furono costruite e cosa causò la fine dell'era vichinga."
+    },
+    {
+      "show_name": "Unearthed La Storia Dalle Fondamenta",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313791501000304/media/20/84/8f31ac8c-a764-4041-96c0-30c6786d2b86/999bffad-eb43-4488-b594-91c3bd31f3b6.jpg",
+      "start_time": "2026-02-10 03:34:00",
+      "end_time": "2026-02-10 04:16:00",
+      "episode_number": "S3 E3",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Nell'odierno Perù, la città piramidale di Caral, risalente a 5.000 anni fa, segna il luogo in cui un tempo esisteva la forse più antica civiltà delle Americhe: praticavano sacrifici umani, come altre presenti nel continente."
+    },
+    {
+      "show_name": "Unearthed La Storia Dalle Fondamenta",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313791501000404/media/20/84/8f31ac8c-a764-4041-96c0-30c6786d2b86/999bffad-eb43-4488-b594-91c3bd31f3b6.jpg",
+      "start_time": "2026-02-10 04:16:00",
+      "end_time": "2026-02-10 04:58:00",
+      "episode_number": "S3 E4",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "La statua della libertà: un'icona del mondo moderno tanto famosa quanto misteriosa. Quali segreti nasconde e perchè è stata costruita proprio in quel luogo."
+    },
+    {
+      "show_name": "Morte Al Tiranno! Congiure E Attentati Contro I Dittatori",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313448601000102/media/27/91/7dd1640f-8686-4408-9487-c2adacc5c404/cd6c2938-55ac-42bd-bedf-436152a66b7f.jpg",
+      "start_time": "2026-02-10 04:58:00",
+      "end_time": "2026-02-10 05:55:00",
+      "episode_number": "S1 E1",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Mentre la presa di Castro su Cuba si rafforza, gli sforzi per eliminare Fidel Castro diventano più disperati. Mentre un assassino si ribella e giura vendetta, questo dittatore soccomberà finalmente a una minaccia mortale."
+    },
+    {
+      "show_name": "Hazzard",
+      "show_logo": "",
+      "start_time": "2026-02-10 05:55:00",
+      "end_time": "2026-02-10 06:42:00",
+      "episode_number": "S7 E12",
       "show_category": "",
-      "show_description": "Le principali notizie sportive della giornata a cura della redazione giornalistica di Sport Mediaset."
-    },
-    {
-      "show_name": "Stranezze Di Questo Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Italia-1/today/stranezze-di-questo-mondo.webp",
-      "start_time": "2026-02-09 05:12:00",
-      "end_time": "2026-02-09 05:54:00",
-      "episode_number": "S4 E10",
-      "show_category": "Scienza e Tecnologia",
-      "show_description": "Bizzarri dischi di ghiaccio attraversano i corsi d'acqua del Regno Unito; in un porticciolo della Tasmania l'acqua è disseminata di puntini luminosi che si accendono e si spengono; facendo una passeggiata sulla spiaggia, un'abitante della Nuova Zelanda scopre la presenza di enormi massi sferici; sull'isola di Socotra viene scoperto un albero che sanguina; sotto una cascata degli Stati Uniti si nasconde un fuoco perenne."
-    },
-    {
-      "show_name": "Grown Ish",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Italia-1/today/grown-ish.webp",
-      "start_time": "2026-02-09 05:54:00",
-      "end_time": "2026-02-09 06:14:00",
-      "episode_number": "S6 E5",
-      "show_category": "Commedia",
-      "show_description": "Andre si candida per diventare presidente della confraternita Gamma, ma per vincere deve essere disposto a sacrificare la sua morale; Doug ha un appuntamento con Sloane; Zaara è ossessionata da Drea."
-    },
-    {
-      "show_name": "Grown Ish",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Italia-1/today/grown-ish.webp",
-      "start_time": "2026-02-09 06:14:00",
-      "end_time": "2026-02-09 06:37:00",
-      "episode_number": "S6 E6",
-      "show_category": "Commedia",
-      "show_description": "La cavalleria moderna è al centro dell'attenzione di tutti, mentre Annika si stanca della routine da cavaliere bianco di Andre; Doug cerca di impressionare Sloane e Aaron si ritrova coinvolto in una battaglia via email passivo-aggressiva con un collega."
+      "show_description": "Boss arresta Bo e Luke per la sparizione di un furgone blindato, ma la scomparsa di un secondo furgone, avvenuta mentre i Duke erano in carcere, li scagiona."
     },
     {
       "show_name": "A Team",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 06:37:00",
-      "end_time": "2026-02-09 07:34:00",
-      "episode_number": "S1 E11",
+      "show_logo": "",
+      "start_time": "2026-02-10 06:42:00",
+      "end_time": "2026-02-10 07:39:00",
+      "episode_number": "S1 E13",
       "show_category": "",
-      "show_description": "L'A-Team viene arrestato dal colonnello Lynch, che e' sulle loro tracce fin dai tempi del Vietnam. In cambio della liberta', propone una missione nel Borneo."
+      "show_description": "Un gruppo di dirottatori prende controllo di un Jumbo, chiede cinque milioni di dollari e via libera per la Libia. L'A-Team organizza un piano."
     },
     {
       "show_name": "A Team",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 07:34:00",
-      "end_time": "2026-02-09 08:31:00",
-      "episode_number": "S1 E12",
+      "show_logo": "",
+      "start_time": "2026-02-10 07:39:00",
+      "end_time": "2026-02-10 08:33:00",
+      "episode_number": "S1 E14",
       "show_category": "",
-      "show_description": "Una bella ereditiera, viene sequestrata dal suo fidanzato, un ricco industriale. L'A-Team si fingono camerieri del ricevimento di nozze per liberarla."
+      "show_description": "Al funerale di un vecchio compagno dei tempi della guerra del Vietnam, l'A-Team oe' ggetto di rappresaglie da parte di alcuni abitanti del luogo."
     },
     {
       "show_name": "Chicago Fire",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 08:31:00",
-      "end_time": "2026-02-09 09:29:00",
-      "episode_number": "S5 E22",
+      "show_logo": "",
+      "start_time": "2026-02-10 08:33:00",
+      "end_time": "2026-02-10 09:28:00",
+      "episode_number": "S6 E2",
       "show_category": "Drammatico",
-      "show_description": "Casey si batte per far approvare la sua proposta di legge, ma scopre che il lavoro da sindacalista talvolta entra in conflitto con la sua vita familiare."
+      "show_description": "Il laboratorio di chimica della scuola dove lavora Donna va in fiamme. Dalle indagini sembra un incidente ma Donna e' convinta che l'incendio sia doloso."
     },
     {
       "show_name": "Chicago Fire",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 09:29:00",
-      "end_time": "2026-02-09 10:26:00",
-      "episode_number": "S6 E1",
+      "show_logo": "",
+      "start_time": "2026-02-10 09:28:00",
+      "end_time": "2026-02-10 10:25:00",
+      "episode_number": "S6 E3",
       "show_category": "Drammatico",
-      "show_description": "Dopo essersi salvati dall'incendio alla fabbrica, le vite dei Vigili del Fuoco, riprendono. Mouch coinvolge la Squadra in una sorta di olimpiadi dei vigili."
+      "show_description": "La squadra e' scossa dall'arrivo del Capitano Mullins, che per un turno deve sostituire il Capitano Boden. L' operato di Casey e' messo in discussione."
     },
     {
       "show_name": "Chicago P.d.",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 10:26:00",
-      "end_time": "2026-02-09 11:26:00",
-      "episode_number": "S5 E1",
+      "show_logo": "",
+      "start_time": "2026-02-10 10:25:00",
+      "end_time": "2026-02-10 11:24:00",
+      "episode_number": "S5 E3",
       "show_category": "Crime",
-      "show_description": "Durante un'operazione per sventare un traffico di armi, Halstead resta coinvolto in una sparatoria in cui una donna perde la vita e una bambina resta gravemente ferita."
+      "show_description": "Antonio e' coinvolto emotivamente nell'omicidio di una ragazza latina. Inizialmente la squadra di Voight pensa che il caso abbia a che fare con il contrabbando di droga."
     },
     {
       "show_name": "Chicago P.d.",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 11:26:00",
-      "end_time": "2026-02-09 12:25:00",
-      "episode_number": "S5 E2",
+      "show_logo": "",
+      "start_time": "2026-02-10 11:24:00",
+      "end_time": "2026-02-10 12:25:00",
+      "episode_number": "S5 E4",
       "show_category": "Crime",
-      "show_description": "In una festa di quartiere esplode una bomba piazzata in un furgone. E'un attentato terroristico e dalle prime indagini, sembra che sia coinvolto anche l'agente Frank Toma."
+      "show_description": "Ruzek conduce un'operazione sotto copertura e, assieme a Eddie Green, incontra Kurtis Washington e Andre Wallace, due noti spacciatori."
     },
     {
       "show_name": "Studio Aperto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 12:25:00",
-      "end_time": "2026-02-09 13:05:00",
+      "show_logo": "",
+      "start_time": "2026-02-10 12:25:00",
+      "end_time": "2026-02-10 13:06:00",
       "episode_number": "",
       "show_category": "Telegiornale",
       "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
     },
     {
       "show_name": "Sport Mediaset",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 13:05:00",
-      "end_time": "2026-02-09 14:00:00",
+      "show_logo": "",
+      "start_time": "2026-02-10 13:06:00",
+      "end_time": "2026-02-10 14:00:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Approfondimento quotidiano in diretta sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset."
     },
     {
       "show_name": "Sport Mediaset Extra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 14:00:00",
-      "end_time": "2026-02-09 14:13:00",
+      "show_logo": "",
+      "start_time": "2026-02-10 14:00:00",
+      "end_time": "2026-02-10 14:14:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Approfondimento quotidiano in diretta dedicato al mondo dei motori a cura della redazione giornalistica di Sport Mediaset."
     },
     {
       "show_name": "I Simpson",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Italia-1/today/i-simpson.webp",
-      "start_time": "2026-02-09 14:13:00",
-      "end_time": "2026-02-09 14:40:00",
-      "episode_number": "S27 E7",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F307003801000803/media/5/5/e30724fd-a2b3-44ee-940f-41af32101012/e9320dbe-45c3-4d7a-9acf-0c4e62c90d43.jpg",
+      "start_time": "2026-02-10 14:14:00",
+      "end_time": "2026-02-10 14:41:00",
+      "episode_number": "S27 E8",
       "show_category": "Sit-Com",
-      "show_description": "E' la serata del poker e Homer perde tutto contro Laney Fontaine, famosa cantante oraun po' sul viale del tramonto. Homer la invita a cena a casa, sperando di impietosirlae di non pagarle quello che le deve. Lisa suona un brano per lei e subito Laneypropone di azzerare il debito di gioco a patto di portarla in tourne'e con se'. Ma, quandoLaney vede la tristezza di Marge nel lasciare la figlioletta, decide di rimandare Lisa acasa, con la scusa che ha avuto piu' successo di lei."
+      "show_description": "Lisa e Bart vanno insieme in un ex manicomio dove era stata rinchiusa un'inventricedel XIX secolo, Amelia Vanderbuckle. Bart qui trova il diario di un pazzosociopatico e ne distribuisce delle pagine ai suoi amici. Ma il diario viene preso persuo: Homer e Marge gli fanno fare un test per capire se effettivamente Bart siasociopatico. Bart se ne accorge e finge di esserlo veramente. Cosi' viene affidato a unistituto, che in realta' e' un centro dell'Aeronautica degli Stati Uniti. Intanto Lisascopre che Amelia aveva inventato il primo telaio-computer, e riesce a riabilitare ilnome dell'inventrice davanti a tutta la citta'. Bart, finalmente, dimostra di non esseremalato e torna a casa."
     },
     {
       "show_name": "Ncis: Los Angeles",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Italia-1/today/ncis-los-angeles.webp",
-      "start_time": "2026-02-09 14:40:00",
-      "end_time": "2026-02-09 15:36:00",
-      "episode_number": "S7 E3",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F307391401000502/media/28/92/3034689d-0843-48bb-a751-469d1f691368/cbae7039-135e-4c50-a347-d556ace36f15.jpg",
+      "start_time": "2026-02-10 14:41:00",
+      "end_time": "2026-02-10 15:37:00",
+      "episode_number": "S7 E5",
       "show_category": "Crime",
-      "show_description": "La squadra indaga su un massacro avvenuto in Perù vent'anni prima e una nota modella, Miss Diaz, è uno dei potenziali bersagli in quanto una sopravvissuta a quella strage. Kensi e Deeks vanno sotto copertura, lei come assistente della modella e lui come suo autista."
+      "show_description": "Tony DiNozzo chiede aiuto alla squadra di Los Angeles per ritrovare un prigioniero riuscito a fuggire durante un volo da Singapore diretto proprio a Los Angeles. Il suo arrivo, e l'intesa subito trovata con la Blye, non mancano di suscitare qualche gelosia nel suo partner, Deeks. Questo episodio è un cross-over con la serie madre \"NCIS - Unità anticrimine\" ed è la seconda parte dell'episodio di tale serie \"Lavoro di squadra\"."
     },
     {
       "show_name": "Ncis: Los Angeles",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Italia-1/today/ncis-los-angeles.webp",
-      "start_time": "2026-02-09 15:36:00",
-      "end_time": "2026-02-09 16:35:00",
-      "episode_number": "S7 E4",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F307391401000602/media/28/92/3034689d-0843-48bb-a751-469d1f691368/cbae7039-135e-4c50-a347-d556ace36f15.jpg",
+      "start_time": "2026-02-10 15:37:00",
+      "end_time": "2026-02-10 16:34:00",
+      "episode_number": "S7 E6",
       "show_category": "Crime",
-      "show_description": "Callen e Sam sono costretti a lavorare nel loro giorno libero quando ricevono una telefonata da un uomo misterioso che minaccia di uccidere delle persone innocenti se i due non eseguiranno i suoi ordini. Durante le indagini la squadra scoprirà che il loro nemico è legato ad un uomo ucciso durante un'indagine dell'NCIS di Los Angeles."
+      "show_description": "La squadra è alla ricerca di Mark Ruiz, vecchio partner di Sam, scomparso nel nulla mentre acquistava dell'esplosivo durante una missione sotto copertura."
     },
     {
       "show_name": "Lethal Weapon",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 16:35:00",
-      "end_time": "2026-02-09 17:26:00",
-      "episode_number": "S2 E14",
+      "show_logo": "",
+      "start_time": "2026-02-10 16:34:00",
+      "end_time": "2026-02-10 17:24:00",
+      "episode_number": "S2 E16",
       "show_category": "",
-      "show_description": "Bailey trova un ciondolo di sua sorella sulla scena di un omicidio e infrange le regole per arrivare a lei prima della polizia."
+      "show_description": "Una banda ruba un carico d'armi alla polizia. Il colpo e' messo a segno da un agente dell'ATF infiltrato e Roger rispolvera la sua vecchia identita' da infiltrato: Randy Drexler."
     },
     {
       "show_name": "Lethal Weapon",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 17:26:00",
-      "end_time": "2026-02-09 18:21:00",
-      "episode_number": "S2 E15",
+      "show_logo": "",
+      "start_time": "2026-02-10 17:24:00",
+      "end_time": "2026-02-10 18:20:00",
+      "episode_number": "S2 E17",
       "show_category": "",
-      "show_description": "Riggs e Murtaugh indagano su un colpo a una gioielleria, sventato dall'intervento di un'eccentrica signora armata di revolver e conclusasi con la morte di uno dei rapinatori."
+      "show_description": "Mentre e' ai ferri corti con sua moglie, Murtaugh conduce con Riggs un arresto esplosivo durante un'importante inaugurazione, un progetto a cui Trish lavora da mesi."
     },
     {
       "show_name": "Studio Aperto Live",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 18:21:00",
-      "end_time": "2026-02-09 18:30:00",
+      "show_logo": "",
+      "start_time": "2026-02-10 18:20:00",
+      "end_time": "2026-02-10 18:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
     },
     {
       "show_name": "Studio Aperto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 18:30:00",
-      "end_time": "2026-02-09 18:56:00",
+      "show_logo": "",
+      "start_time": "2026-02-10 18:30:00",
+      "end_time": "2026-02-10 18:57:00",
       "episode_number": "",
       "show_category": "Telegiornale",
       "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
     },
     {
       "show_name": "Studio Aperto Mag",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 18:56:00",
-      "end_time": "2026-02-09 19:31:00",
+      "show_logo": "",
+      "start_time": "2026-02-10 18:57:00",
+      "end_time": "2026-02-10 19:30:00",
       "episode_number": "",
       "show_category": "Magazine",
       "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
     },
     {
       "show_name": "C.s.i. Scena Del Crimine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Italia-1/today/c-s-i-scena-del-crimine.webp",
-      "start_time": "2026-02-09 19:31:00",
-      "end_time": "2026-02-09 20:38:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011553105001302/media/29/93/33f0279a-be84-44c0-b874-62bcb5beb69d/ed1ea996-ba75-459e-a775-c60a0a643eee.jpg",
+      "start_time": "2026-02-10 19:30:00",
+      "end_time": "2026-02-10 20:31:00",
       "episode_number": "S3 E13",
       "show_category": "Crime",
-      "show_description": "La piccola Aimee Phelps viene colpita a morte da un proiettile vagante durante una sparatoria mentre si trova nella sua cameretta. Ad un primo esame delle ferite sulla bambina appare evidente che l'arma che ha colpito la piccola e' una pistola automatica. Durante le indagini si scoprira' che in realta' il proiettile era destinato a Jason Gilbert, un adolescente che ha qualche problema di adattamento all'interno del quartiere e la cui ragazza abita proprio vicino all'appartamento di Aimee. Il padre di Jason, Matt (Dwayne L. Barnes), attivista in una comunita', e' un vecchio amico di Warrick (Gary Dourdan), anch'egli cresciuto nel quartiere in cui e' avvenuta la sparatoria. Grissom (William Petersen) cosi' comincia a dubitare del fatto che Warrick possa condurre le indagini in maniera totalmente obiettiva essendo in qualche modo coinvolto emotivamente. Le prove raccolte portano alla fine ad un certo Gene Jaycobs, il quale e' in possesso di un'arma i cui proiettili sono .."
+      "show_description": "La CSI interviene sulla scena di un'aggressione sessuale avvenuta in un appartamento. Appare evidente che si tratta di qualcuno che spiava fuori dall'abitazione."
     },
     {
-      "show_name": "Ncis Unita' Anticrimine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 20:38:00",
-      "end_time": "2026-02-09 21:28:00",
-      "episode_number": "S3 E2",
-      "show_category": "Crime",
-      "show_description": "Ari rapisce Ducky, mentre Tony scopre che Ziva ha consegnato un passaporto francese falso per Ari a un'altra ragazza con la stella di David al collo."
-    },
-    {
-      "show_name": "Taken 3 L'ora Della Verita'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Italia-1/today/taken-3-l-ora-della-verita.webp",
-      "start_time": "2026-02-09 21:28:00",
-      "end_time": "2026-02-09 23:46:00",
+      "show_name": "Coppa Italia Live",
+      "show_logo": "",
+      "start_time": "2026-02-10 20:31:00",
+      "end_time": "2026-02-10 20:49:00",
       "episode_number": "",
-      "show_category": "Azione",
-      "show_description": "Bryan Mills, ex agente della CIA, conduce una vita tranquilla circondato dall'affetto di vecchi amici, della figlia Kim e dell'ex moglie, Lenore, che vorrebbe tornare a far parte del suo presente. Una mattina Lenore viene trovata morta proprio da Bryan che, colto sulla scena del delitto, è accusato di omicidio. Comincia così una fuga disperata dalla polizia sulle tracce dei veri colpevoli, per proteggere l'ultima cosa al mondo che gli resta: la figlia Kim."
+      "show_category": "",
+      "show_description": "Gli highlights di tutte le partite di Coppa Italia 2025-2026 in esclusiva assoluta su Mediaset."
     },
     {
-      "show_name": "Law & Order: I Due Volti Della Giustizia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-09 23:46:00",
-      "end_time": "2026-02-10 00:38:00",
-      "episode_number": "S22 E7",
-      "show_category": "Azione",
-      "show_description": "Una consulente che si era fatta molti nemici e' stata uccisa. Price e Maroun devono mettere da parte il potenziale danno alla reputazione del testimone per poter sostenere la loro causa."
+      "show_name": "Napoli Como",
+      "show_logo": "",
+      "start_time": "2026-02-10 20:49:00",
+      "end_time": "2026-02-10 23:12:00",
+      "episode_number": "",
+      "show_category": "Calcio",
+      "show_description": "In diretta dalla stadio Maradona, gli azzurri guidati da Antonio Conte sfidano i lariani di mister Cesc Fabregas."
+    },
+    {
+      "show_name": "Coppa Italia Live",
+      "show_logo": "",
+      "start_time": "2026-02-10 23:12:00",
+      "end_time": "2026-02-11 00:10:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Gli highlights di tutte le partite di Coppa Italia 2025-2026 in esclusiva assoluta su Mediaset."
     }
   ]
 }

@@ -1,156 +1,210 @@
 {
   "channel_name": "RaiSport",
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "programs": [
     {
-      "show_name": "UAE Tour",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/uae-tour.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-09 00:45:00",
-      "episode_number": "S2026",
-      "show_category": "Ciclismo",
-      "show_description": "Ciclismo: UAE Tour Femminile - 4a tappa: Abu Dhabi - Jebel Hafeet. Ciclismo: UAE Tour Femminile - 4a tappa: Abu Dhabi - Jebel Hafeet."
-    },
-    {
-      "show_name": "Pallanuoto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/pallanuoto.webp",
-      "start_time": "2026-02-09 00:45:00",
-      "end_time": "2026-02-09 02:00:00",
-      "episode_number": "S2026",
-      "show_category": "Nuoto",
-      "show_description": "Luci puntate sulla piscina Sciorba di Genova, prestigioso palcoscenico della 34esima Coppa Italia Unipol di pallanuoto maschile. Luci puntate sulla piscina Sciorba di Genova, prestigioso palcoscenico della 34esima Coppa Italia Unipol di pallanuoto maschile."
-    },
-    {
-      "show_name": "Pallanuoto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/pallanuoto.webp",
-      "start_time": "2026-02-09 02:00:00",
-      "end_time": "2026-02-09 03:15:00",
-      "episode_number": "S2026",
-      "show_category": "Nuoto",
-      "show_description": "Luci puntate sulla piscina Sciorba di Genova, prestigioso palcoscenico della 34esima Coppa Italia Unipol di pallanuoto maschile. Luci puntate sulla piscina Sciorba di Genova, prestigioso palcoscenico della 34esima Coppa Italia Unipol di pallanuoto maschile."
-    },
-    {
-      "show_name": "Pallanuoto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/pallanuoto.webp",
-      "start_time": "2026-02-09 03:15:00",
-      "end_time": "2026-02-09 06:00:00",
-      "episode_number": "",
-      "show_category": "Nuoto",
-      "show_description": "Pallanuoto: Coppa Italia maschile - Finale: Recco - Savona. Pallanuoto: Coppa Italia maschile - Finale: Recco - Savona."
-    },
-    {
-      "show_name": "Ciclocross",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/ciclocross.webp",
-      "start_time": "2026-02-09 06:00:00",
-      "end_time": "2026-02-09 07:00:00",
-      "episode_number": "S2026",
-      "show_category": "Ciclismo",
-      "show_description": "Va in scena la gara Uomini Elite dei Mondiali di Ciclocross 2026: il massimo appuntamento della disciplina, dove i migliori specialisti del mondo si sfidano su un percorso tecnico e impegnativo per conquistare la maglia iridata. Va in scena la gara Uomini Elite dei Mondiali di Ciclocross 2026: il massimo appuntamento della disciplina, dove i migliori specialisti del mondo si sfidano su un percorso tecnico e impegnativo per conquistare la maglia iridata."
-    },
-    {
-      "show_name": "Tg Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/tg-sport.webp",
-      "start_time": "2026-02-09 07:00:00",
-      "end_time": "2026-02-09 07:30:00",
+      "show_name": "Memory - Rai Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-10 00:00:00",
+      "end_time": "2026-02-10 00:25:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "TG Sport Mattina."
+      "show_description": "Memory: Giuliano Razzoli."
+    },
+    {
+      "show_name": "Pallavolo: Serie A Maschile",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/08/1770514031175_pallavolo-maschile-Verona.jpg",
+      "start_time": "2026-02-10 00:25:00",
+      "end_time": "2026-02-10 03:00:00",
+      "episode_number": "",
+      "show_category": "Pallavolo",
+      "show_description": "Finale di Coppa Italia 2026 di pallavolo maschile tra Itas Trentino e Rana Verona. Finale di Coppa Italia 2026 di pallavolo maschile tra Itas Trentino e Rana Verona."
     },
     {
       "show_name": "Serie A Women Athora",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/serie-a-women-athora.webp",
-      "start_time": "2026-02-09 07:30:00",
-      "end_time": "2026-02-09 09:40:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/08/1770513734308_calcio-femminile-inter-RAINETPORTALE_20260208022516293_b6e19cbd8b3da40987245448e7aa73ae.jpg",
+      "start_time": "2026-02-10 03:00:00",
+      "end_time": "2026-02-10 05:00:00",
       "episode_number": "",
       "show_category": "Calcio",
       "show_description": "Match di alta classifica nella massima serie di calcio femminile italiana tra l'Inter e la Fiorentina. Match di alta classifica nella massima serie di calcio femminile italiana tra l'Inter e la Fiorentina."
     },
     {
       "show_name": "Ciclocross",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/ciclocross.webp",
-      "start_time": "2026-02-09 09:40:00",
-      "end_time": "2026-02-09 10:30:00",
-      "episode_number": "S2026",
-      "show_category": "Ciclismo",
-      "show_description": "Va in scena la gara Uomini Elite dei Mondiali di Ciclocross 2026: il massimo appuntamento della disciplina, dove i migliori specialisti del mondo si sfidano su un percorso tecnico e impegnativo per conquistare la maglia iridata. Va in scena la gara Uomini Elite dei Mondiali di Ciclocross 2026: il massimo appuntamento della disciplina, dove i migliori specialisti del mondo si sfidano su un percorso tecnico e impegnativo per conquistare la maglia iridata."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-09 10:30:00",
-      "end_time": "2026-02-09 12:30:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-09 12:30:00",
-      "end_time": "2026-02-09 14:30:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
-    },
-    {
-      "show_name": "UAE Tour",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/uae-tour.webp",
-      "start_time": "2026-02-09 14:30:00",
-      "end_time": "2026-02-09 16:30:00",
-      "episode_number": "S2026",
-      "show_category": "Ciclismo",
-      "show_description": "Ciclismo: UAE Tour Femminile - 4a tappa: Abu Dhabi - Jebel Hafeet. Ciclismo: UAE Tour Femminile - 4a tappa: Abu Dhabi - Jebel Hafeet."
-    },
-    {
-      "show_name": "Ciclocross",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/ciclocross.webp",
-      "start_time": "2026-02-09 16:30:00",
-      "end_time": "2026-02-09 17:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/03/1770130245017_1770130271061.png",
+      "start_time": "2026-02-10 05:00:00",
+      "end_time": "2026-02-10 06:00:00",
       "episode_number": "S2026",
       "show_category": "Ciclismo",
       "show_description": "Mondiali - Donne U23. Mondiali - Donne U23."
     },
     {
+      "show_name": "Tour de France",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/07/02/1751452417200_Tour-de-France-2025-assets2048x1152.jpg",
+      "start_time": "2026-02-10 06:00:00",
+      "end_time": "2026-02-10 07:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Ciclismo. Tour di notte - 3a tappa."
+    },
+    {
+      "show_name": "Tg Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg",
+      "start_time": "2026-02-10 07:00:00",
+      "end_time": "2026-02-10 07:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "TG Sport Mattina."
+    },
+    {
+      "show_name": "Basket: Serie A2 Old Wild West",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/01/24/1737725286334_Basket%20-%20Serie%20A2%202025-assets2048x1152.jpg",
+      "start_time": "2026-02-10 07:30:00",
+      "end_time": "2026-02-10 09:35:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Pallacanestro. Serie A2 Old Wild West: Torino-Bologna - 26a g.ta."
+    },
+    {
+      "show_name": "Ciclocross",
+      "show_logo": "https://www.raiplay.it/dl/img/2020/10/26/1603724481069_CicloCross-assets2048x1152.jpg",
+      "start_time": "2026-02-10 09:35:00",
+      "end_time": "2026-02-10 10:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Ciclocross. Mondiali Hulst: Uomini Junior."
+    },
+    {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-09 17:30:00",
-      "end_time": "2026-02-09 19:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-10 10:30:00",
+      "end_time": "2026-02-10 11:10:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-09 19:00:00",
-      "end_time": "2026-02-09 19:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-10 11:10:00",
+      "end_time": "2026-02-10 12:00:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-09 19:30:00",
-      "end_time": "2026-02-09 21:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-10 12:00:00",
+      "end_time": "2026-02-10 12:35:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-09 21:00:00",
-      "end_time": "2026-02-09 23:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-10 12:35:00",
+      "end_time": "2026-02-10 13:00:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-10 13:00:00",
+      "end_time": "2026-02-10 13:20:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-10 13:20:00",
+      "end_time": "2026-02-10 13:30:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-10 13:30:00",
+      "end_time": "2026-02-10 13:40:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-10 13:40:00",
+      "end_time": "2026-02-10 14:10:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Pallavolo: Serie A Maschile",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/10/14/1760456426256_Pallavolo%20-%20Serie%20A%20maschile2048x1152.jpg",
+      "start_time": "2026-02-10 14:10:00",
+      "end_time": "2026-02-10 16:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Pallavolo. Coppa Italia Del Monte: Finale."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-10 16:40:00",
+      "end_time": "2026-02-10 18:40:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-10 18:40:00",
+      "end_time": "2026-02-10 19:30:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
     },
     {
       "show_name": "Memory - Rai Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/memory-rai-sport.webp",
-      "start_time": "2026-02-09 23:30:00",
-      "end_time": "2026-02-10 00:25:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-10 19:30:00",
+      "end_time": "2026-02-10 20:10:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Memory: Stefania Belmondo."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-10 20:10:00",
+      "end_time": "2026-02-10 22:40:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Ciclocross",
+      "show_logo": "https://www.raiplay.it/dl/img/2020/10/26/1603724481069_CicloCross-assets2048x1152.jpg",
+      "start_time": "2026-02-10 22:40:00",
+      "end_time": "2026-02-10 23:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Ciclocross. Mondiali Hulst: Donne U23."
+    },
+    {
+      "show_name": "Memory - Rai Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-10 23:40:00",
+      "end_time": "2026-02-11 00:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Memory: Giuliano Razzoli."

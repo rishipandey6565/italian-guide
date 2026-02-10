@@ -1,15 +1,24 @@
 {
   "channel_name": "Sky Sport  253",
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "programs": [
     {
-      "show_name": "LR Vicenza - Dolomiti Bellunesi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-253/today/lr-vicenza-dolomiti-bellunesi.webp",
-      "start_time": "2026-02-09 00:00:00",
-      "end_time": "2026-02-10 17:30:00",
-      "episode_number": "",
+      "show_name": "Sorrento - Giugliano",
+      "show_logo": "https://guidatv.sky.it/uuid/eb637995-da0d-475b-8dfc-7745b98c0520/cover?territory=IT&md5ChecksumParam=744c72133366968f58566129b62898ac",
+      "start_time": "2026-02-10 17:30:00",
+      "end_time": "2026-02-10 20:25:00",
+      "episode_number": "S2025 E268",
       "show_category": "Sport",
-      "show_description": "Dallo Stadio Romeo Menti di Castellammare di Stabia, Italia."
+      "show_description": "Dallo Stadio Italia di Sorrento, Campania, Italia."
+    },
+    {
+      "show_name": "Atalanta U23 - Potenza",
+      "show_logo": "https://guidatv.sky.it/uuid/116f6ec8-22a7-42e4-9922-54b80ba91214/cover?territory=IT&md5ChecksumParam=bc4ea042f259b6d833281c3877ea0ff8",
+      "start_time": "2026-02-10 20:25:00",
+      "end_time": "2026-02-11 17:30:00",
+      "episode_number": "S2025 E261",
+      "show_category": "Sport",
+      "show_description": "Tutte le partite del campionato di Serie C italiano."
     }
   ]
 }
