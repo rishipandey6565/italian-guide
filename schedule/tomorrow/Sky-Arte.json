@@ -1,276 +1,258 @@
 {
   "channel_name": "Sky Arte",
-  "date": "2026-02-11",
+  "date": "2026-02-12",
   "programs": [
     {
-      "show_name": "Italie invisibili",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/italie-invisibili.webp",
-      "start_time": "2026-02-11 00:00:00",
-      "end_time": "2026-02-11 00:05:00",
-      "episode_number": "S5 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopriamo la storia della famiglia Challant, che per i Savoia governo' la Valle d'Aosta svolgendo un ruolo fondamentale sul territorio."
-    },
-    {
-      "show_name": "Italie invisibili",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/italie-invisibili.webp",
-      "start_time": "2026-02-11 00:05:00",
-      "end_time": "2026-02-11 00:40:00",
-      "episode_number": "S5 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Tre devastanti scosse di terremoto sconvolsero geologicamente la Calabria. Esperti di ogni campo collaborarono alla ricostruzione delle citta'."
-    },
-    {
-      "show_name": "ArtBox",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/artbox.webp",
-      "start_time": "2026-02-11 00:40:00",
-      "end_time": "2026-02-11 01:20:00",
-      "episode_number": "S11 E12",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Alla scoperta delle migliori e più accattivanti mostre d'arte in Italia e nel mondo in compagnia di esperti d'arte, collezionisti e curatori. Uno spazio dedicato ad incontri con artisti e critici."
-    },
-    {
-      "show_name": "Italie invisibili",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/italie-invisibili.webp",
-      "start_time": "2026-02-11 01:20:00",
-      "end_time": "2026-02-11 01:50:00",
-      "episode_number": "S5 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "I Castelli Romani, da sempre popolari per la bellezza dei luoghi, vantano un importante valore storico artistico. Scopriamolo!"
-    },
-    {
-      "show_name": "Italie invisibili",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/italie-invisibili.webp",
-      "start_time": "2026-02-11 01:50:00",
-      "end_time": "2026-02-11 02:20:00",
-      "episode_number": "S5 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La puntata ricostruisce i tratti di indipendenza politica e culturale di Ancona, tra i grandi protagonisti del 'Rinascimento adriatico'."
-    },
-    {
-      "show_name": "Italie invisibili",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/italie-invisibili.webp",
-      "start_time": "2026-02-11 02:20:00",
-      "end_time": "2026-02-11 02:50:00",
-      "episode_number": "S5 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopriamo la storia del Marchesato del Monferrato nel suo ultimo tratto di splendore, nei decenni conclusivi della dinastia dei marchesi Paleologi."
-    },
-    {
-      "show_name": "Indie Jungle",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/indie-jungle.webp",
-      "start_time": "2026-02-11 02:50:00",
-      "end_time": "2026-02-11 03:30:00",
-      "episode_number": "S2 E9",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una serata esclusiva alla scoperta della sonorita' e delle storie dei protagonisti della scena indie italiana. In questa puntata: NAIP."
-    },
-    {
-      "show_name": "Indie Jungle",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/indie-jungle.webp",
-      "start_time": "2026-02-11 03:30:00",
-      "end_time": "2026-02-11 04:20:00",
-      "episode_number": "S2 E10",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una serata esclusiva alla scoperta della sonorita' e delle storie dei protagonisti della scena indie italiana. In questa puntata: Vasco Brondi."
-    },
-    {
-      "show_name": "33 giri Italian masters",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/33-giri-italian-masters.webp",
-      "start_time": "2026-02-11 04:20:00",
-      "end_time": "2026-02-11 05:10:00",
-      "episode_number": "S1 E7",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La voce del padrone - Ci sono album che hanno segnato la storia della musica italiana. Andiamo alla scoperta dei loro segreti. Davanti ai mixer ospiti d'eccezione commenteranno le tracce."
-    },
-    {
-      "show_name": "33 giri Italian masters",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/33-giri-italian-masters.webp",
-      "start_time": "2026-02-11 05:10:00",
-      "end_time": "2026-02-11 06:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Pigro - Ci sono album che hanno segnato la storia della musica italiana: riapriamo i nastri originali delle canzoni alla scoperta dei loro segreti. Ospiti d'eccezione commenteranno le tracce."
-    },
-    {
-      "show_name": "Sacra bellezza - Storie di santi e...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/sacra-bellezza-storie-di-santi-e.webp",
-      "start_time": "2026-02-11 06:00:00",
-      "end_time": "2026-02-11 06:50:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Quattro storie di santi che hanno generato devozione o ricerche scientifiche, ispirato grandi artisti e sono stati oggetto di trame criminali."
-    },
-    {
-      "show_name": "Sacra bellezza - Storie di santi e...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/sacra-bellezza-storie-di-santi-e.webp",
-      "start_time": "2026-02-11 06:50:00",
-      "end_time": "2026-02-11 07:40:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "I martiri sono il simbolo del sacrificio per eccellenza, le loro storie sono avvincenti e molte delle loro reliquie sono state contese."
-    },
-    {
-      "show_name": "Indie Jungle",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/indie-jungle.webp",
-      "start_time": "2026-02-11 07:40:00",
-      "end_time": "2026-02-11 08:35:00",
-      "episode_number": "S2 E11",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una serata esclusiva alla scoperta della sonorita' e delle storie dei protagonisti della scena indie italiana. In questa puntata: Margherita Vicario."
-    },
-    {
-      "show_name": "Indie Jungle",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/indie-jungle.webp",
-      "start_time": "2026-02-11 08:35:00",
-      "end_time": "2026-02-11 09:35:00",
-      "episode_number": "S3 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Ep1 di 13 Ditonellapiaga -Un viaggio nella musica dal vivo con i protagonisti della scena indie italiana. In questo episodio: Ditonellapiaga."
-    },
-    {
-      "show_name": "La Strana Coppia - L'arte Di Gilbert & George",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/la-strana-coppia-l-arte-di-gilbert-george.webp",
-      "start_time": "2026-02-11 09:35:00",
-      "end_time": "2026-02-11 11:10:00",
+      "show_name": "Take That: The Baloise Concert",
+      "show_logo": "https://guidatv.sky.it/uuid/2e50f3c9-90b8-42f6-8eb8-2478d83a890f/cover?territory=IT&md5ChecksumParam=ff3325f05cb2448e8646b844037b965a",
+      "start_time": "2026-02-12 00:00:00",
+      "end_time": "2026-02-12 00:30:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Per Gilbert e George, la loro vita è la loro arte. In questo documentario riflettono sul loro impegno comune nei confronti dell'arte."
-    },
-    {
-      "show_name": "Italian Season",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/italian-season.webp",
-      "start_time": "2026-02-11 11:10:00",
-      "end_time": "2026-02-11 12:10:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Ep.1 di 7 - Un viaggio tra i nomi e i luoghi che hanno fatto dell'Italia il sinonimo di arte. Scopriamo i più celebri episodi dell'Inferno dantesco, che hanno ispirato artisti come Botticelli e Dali'."
-    },
-    {
-      "show_name": "Italian Season",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/italian-season.webp",
-      "start_time": "2026-02-11 12:10:00",
-      "end_time": "2026-02-11 13:05:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Ep.2 di 7 - Un viaggio tra i nomi e i luoghi che hanno fatto dell'Italia il sinonimo di arte. In questo episodio scopriremo il celeberrimo Teatro alla Scala di Milano."
-    },
-    {
-      "show_name": "ArtBox",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/artbox.webp",
-      "start_time": "2026-02-11 13:05:00",
-      "end_time": "2026-02-11 13:45:00",
-      "episode_number": "S11 E12",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Alla scoperta delle migliori e più accattivanti mostre d'arte in Italia e nel mondo in compagnia di esperti d'arte, collezionisti e curatori. Uno spazio dedicato ad incontri con artisti e critici."
-    },
-    {
-      "show_name": "San Francesco: Dal cuore dell'Umbria al mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/san-francesco-dal-cuore-dell-umbria-al-mondo.webp",
-      "start_time": "2026-02-11 13:45:00",
-      "end_time": "2026-02-11 14:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Si esplora la figura del Santo di Assisi e il suo impatto universale, partendo dai luoghi umbri ai quali era legato."
-    },
-    {
-      "show_name": "Italie invisibili",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/italie-invisibili.webp",
-      "start_time": "2026-02-11 14:00:00",
-      "end_time": "2026-02-11 14:35:00",
-      "episode_number": "S5 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La puntata ricostruisce i tratti di indipendenza politica e culturale di Ancona, tra i grandi protagonisti del 'Rinascimento adriatico'."
-    },
-    {
-      "show_name": "Italie invisibili",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/italie-invisibili.webp",
-      "start_time": "2026-02-11 14:35:00",
-      "end_time": "2026-02-11 15:10:00",
-      "episode_number": "S5 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopriamo la storia del Marchesato del Monferrato nel suo ultimo tratto di splendore, nei decenni conclusivi della dinastia dei marchesi Paleologi."
-    },
-    {
-      "show_name": "Italie invisibili",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/italie-invisibili.webp",
-      "start_time": "2026-02-11 15:10:00",
-      "end_time": "2026-02-11 15:45:00",
-      "episode_number": "S5 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il tratto piu' affascinante del Ducato di Benevento fu l'autonomia culturale, che produsse forme altamente originali in tutte le arti."
-    },
-    {
-      "show_name": "Italie invisibili",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/italie-invisibili.webp",
-      "start_time": "2026-02-11 15:45:00",
-      "end_time": "2026-02-11 16:20:00",
-      "episode_number": "S5 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Scopriamo la storia della famiglia Challant, che per i Savoia governo' la Valle d'Aosta svolgendo un ruolo fondamentale sul territorio."
-    },
-    {
-      "show_name": "Italie invisibili",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/italie-invisibili.webp",
-      "start_time": "2026-02-11 16:20:00",
-      "end_time": "2026-02-11 16:55:00",
-      "episode_number": "S5 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Tre devastanti scosse di terremoto sconvolsero geologicamente la Calabria. Esperti di ogni campo collaborarono alla ricostruzione delle citta'."
-    },
-    {
-      "show_name": "Semidei",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/semidei.webp",
-      "start_time": "2026-02-11 16:55:00",
-      "end_time": "2026-02-11 18:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Ripercorriamo mezzo secolo di storia, raccontando la scoperta dei bronzi di Riace."
-    },
-    {
-      "show_name": "Indie Jungle",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/indie-jungle.webp",
-      "start_time": "2026-02-11 18:30:00",
-      "end_time": "2026-02-11 19:25:00",
-      "episode_number": "S2 E11",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una serata esclusiva alla scoperta della sonorita' e delle storie dei protagonisti della scena indie italiana. In questa puntata: Margherita Vicario."
-    },
-    {
-      "show_name": "Indie Jungle",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/indie-jungle.webp",
-      "start_time": "2026-02-11 19:25:00",
-      "end_time": "2026-02-11 21:15:00",
-      "episode_number": "S3 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Ep1 di 13 Ditonellapiaga -Un viaggio nella musica dal vivo con i protagonisti della scena indie italiana. In questo episodio: Ditonellapiaga."
+      "show_description": "Take That: The Baloise Concert."
     },
     {
       "show_name": "Janet Jackson.",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/janet-jackson.webp",
-      "start_time": "2026-02-11 21:15:00",
-      "end_time": "2026-02-11 22:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/ab91a556-5451-4418-b747-1a6361876d06/cover?territory=IT&md5ChecksumParam=cc5e357a89bd05f6f98e9e3b2bc13f39",
+      "start_time": "2026-02-12 00:30:00",
+      "end_time": "2026-02-12 01:20:00",
       "episode_number": "S1 E3",
       "show_category": "Mondo e Tendenze",
       "show_description": "Janet firma contratti di sponsorizzazione multimilionari e ottiene ruoli da protagonista in lungometraggi. Ma con la notizia delle accuse su suo fratello Michael, il suo mondo crolla."
     },
     {
       "show_name": "Janet Jackson.",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/janet-jackson.webp",
-      "start_time": "2026-02-11 22:05:00",
-      "end_time": "2026-02-11 22:55:00",
+      "show_logo": "https://guidatv.sky.it/uuid/afec6af6-1524-457b-9325-56c5049e0246/cover?territory=IT&md5ChecksumParam=cc5e357a89bd05f6f98e9e3b2bc13f39",
+      "start_time": "2026-02-12 01:20:00",
+      "end_time": "2026-02-12 02:05:00",
       "episode_number": "S1 E4",
       "show_category": "Mondo e Tendenze",
       "show_description": "In seguito alla controversia del Super Bowl del 2004, Janet e' nella lista nera. Amici e fan combattono per il suo diritto a essere riconosciuta come una leggenda dello spettacolo."
     },
     {
-      "show_name": "Take That: The Baloise Concert",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Arte/tomorrow/take-that-the-baloise-concert.webp",
-      "start_time": "2026-02-11 22:55:00",
-      "end_time": "2026-02-12 00:25:00",
+      "show_name": "Indie Jungle",
+      "show_logo": "https://guidatv.sky.it/uuid/bb94bd78-5709-456c-889e-4266fe0e4741/cover?territory=IT&md5ChecksumParam=09d2609ef0e76266d571e24761783dad",
+      "start_time": "2026-02-12 02:05:00",
+      "end_time": "2026-02-12 03:00:00",
+      "episode_number": "S2 E11",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una serata esclusiva alla scoperta della sonorita' e delle storie dei protagonisti della scena indie italiana. In questa puntata: Margherita Vicario."
+    },
+    {
+      "show_name": "Indie Jungle",
+      "show_logo": "https://guidatv.sky.it/uuid/14a3a535-d134-485f-af01-52d68dfef93f/cover?territory=IT&md5ChecksumParam=1e343e718487afbf05ed6b9929608c27",
+      "start_time": "2026-02-12 03:00:00",
+      "end_time": "2026-02-12 03:50:00",
+      "episode_number": "S3 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ep1 di 13 Ditonellapiaga -Un viaggio nella musica dal vivo con i protagonisti della scena indie italiana. In questo episodio: Ditonellapiaga."
+    },
+    {
+      "show_name": "33 giri Italian masters",
+      "show_logo": "https://guidatv.sky.it/uuid/391e1ae6-1683-4840-bdda-d76d93c8a9bc/cover?territory=IT&md5ChecksumParam=9dcb1508968ead245805747f96e4a486",
+      "start_time": "2026-02-12 03:50:00",
+      "end_time": "2026-02-12 04:45:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Come e' profondo il mare - Ci sono album che hanno segnato la storia della musica italiana: riapriamo i nastri originali delle canzoni alla scoperta dei loro segreti. Ospiti d'eccezione commenteranno le tracce."
+    },
+    {
+      "show_name": "33 giri Italian masters",
+      "show_logo": "https://guidatv.sky.it/uuid/d7e442e9-e88c-40f8-9dac-37971437772a/cover?territory=IT&md5ChecksumParam=6f845b58eecdcb973a29a9320ab02ff7",
+      "start_time": "2026-02-12 04:45:00",
+      "end_time": "2026-02-12 05:30:00",
+      "episode_number": "S2 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Terra mia - Sky Arte vi porta alla scoperta degli album che hanno segnato la storia della musica italiana. Nella puntata scopriamo il disco \"Terra mia\" di Pino Daniele. Tra gli ospiti: Renzo Arbore."
+    },
+    {
+      "show_name": "Godai - Il Festival Dei 5 Elementi",
+      "show_logo": "https://guidatv.sky.it/uuid/855ef648-fc52-45e8-ac86-9561ae1b260b/cover?territory=IT&md5ChecksumParam=5fe3181c4cc5e12d994d653df1edab7c",
+      "start_time": "2026-02-12 05:30:00",
+      "end_time": "2026-02-12 06:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Take That: The Baloise Concert."
+      "show_description": "Godai - Il Festival Dei 5 Elementi."
+    },
+    {
+      "show_name": "Sacra bellezza - Storie di santi e...",
+      "show_logo": "https://guidatv.sky.it/uuid/479d8a07-97af-4a53-ad5a-dd8630552065/cover?territory=IT&md5ChecksumParam=2a56c1501c57cdf69b54b578e40c6eb4",
+      "start_time": "2026-02-12 06:00:00",
+      "end_time": "2026-02-12 06:50:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Le reliquie sono state spesso contese tra popoli diversi che le hanno disperse o moltiplicate. Storie di santi senza pace, neanche dopo la morte."
+    },
+    {
+      "show_name": "Sacra bellezza - Storie di santi e...",
+      "show_logo": "https://guidatv.sky.it/uuid/0dfe4d74-2d1c-4dbe-84e2-7c0bc699efac/cover?territory=IT&md5ChecksumParam=2a56c1501c57cdf69b54b578e40c6eb4",
+      "start_time": "2026-02-12 06:50:00",
+      "end_time": "2026-02-12 07:40:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Roma e' la citta' di resti e reliquie per eccellenza: storie di luoghi dove nei secoli sono state raccolte innumerevoli reliquie."
+    },
+    {
+      "show_name": "Indie Jungle",
+      "show_logo": "https://guidatv.sky.it/uuid/f869708d-7144-4f13-953c-8f902b4a5ed3/cover?territory=IT&md5ChecksumParam=1e343e718487afbf05ed6b9929608c27",
+      "start_time": "2026-02-12 07:40:00",
+      "end_time": "2026-02-12 08:35:00",
+      "episode_number": "S3 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un viaggio nella musica dal vivo con i protagonisti della scena indie italiana. In questo episodio: Giorgio Poi."
+    },
+    {
+      "show_name": "Indie Jungle",
+      "show_logo": "https://guidatv.sky.it/uuid/3aeed40b-5c7c-4205-aee1-6105b3fd7adb/cover?territory=IT&md5ChecksumParam=1e343e718487afbf05ed6b9929608c27",
+      "start_time": "2026-02-12 08:35:00",
+      "end_time": "2026-02-12 09:30:00",
+      "episode_number": "S3 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un viaggio nella musica dal vivo con i protagonisti della scena indie italiana. In questo episodio: Willie Peyote."
+    },
+    {
+      "show_name": "Black Art Matters",
+      "show_logo": "https://guidatv.sky.it/uuid/15abc7d1-f5c9-452d-a789-9beba38fe324/cover?territory=IT&md5ChecksumParam=9a0daac401fc8b6edab0f420f4fea040",
+      "start_time": "2026-02-12 09:30:00",
+      "end_time": "2026-02-12 11:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il film mette in luce lo straordinario impatto della mostra di Driskell su generazioni di artisti neri che hanno rivendicato il loro legittimo posto nel mondo dell'arte del 21esimo secolo."
+    },
+    {
+      "show_name": "Echo: Quello che rimane",
+      "show_logo": "https://guidatv.sky.it/uuid/92069a04-3e98-4614-8733-f4012218c8ce/COVER_TITLE_TALL?territory=IT&version=61f6cf37-4438-3dbc-bebc-537260e97c7d&w=600&h=800&md5ChecksumParam=4fc1d822ae99332ebf23a7f73c0a5a9a",
+      "start_time": "2026-02-12 11:00:00",
+      "end_time": "2026-02-12 11:30:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La storia di Bruno Pizzul che ha attraversato e raccontato lo sport italiano con la sua voce inconfondibile."
+    },
+    {
+      "show_name": "The Square: All you can art",
+      "show_logo": "https://guidatv.sky.it/uuid/9c7c9f8a-ec34-4a82-9836-7fd365ec6ce7/COVER_TITLE_TALL?territory=IT&version=5f0c6666-0f0f-3b28-92d3-7c84282bec64&w=600&h=800&md5ChecksumParam=7f2a096807962eee0b12628e1cdd932b",
+      "start_time": "2026-02-12 11:30:00",
+      "end_time": "2026-02-12 12:05:00",
+      "episode_number": "S6 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "A Milano, per fare visita all’artista mantovano Stefano Arienti nella sua singolare casa/studio. Ci si sposta quindi in Valle d’Aosta, dove è in corso la retrospettiva su Fernando Botero intitolata \"Tecnica monumentale\"."
+    },
+    {
+      "show_name": "Italian Season",
+      "show_logo": "https://guidatv.sky.it/uuid/bd5f89dc-3b4f-4c02-b7d6-91a68e71104a/cover?territory=IT&md5ChecksumParam=e4ca1b837c8b1f6d63025da55d5cb8fb",
+      "start_time": "2026-02-12 12:05:00",
+      "end_time": "2026-02-12 13:00:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ep.3 di 7 - Un viaggio tra i nomi e i luoghi che hanno fatto dell'Italia il sinonimo di arte. Riscopriamo le ville dell'Otium della costa campana del I secolo d.C., con i loro meravigliosi giardini."
+    },
+    {
+      "show_name": "Italian Season",
+      "show_logo": "https://guidatv.sky.it/uuid/87f44902-7f48-4377-9933-42a8dd92e13d/cover?territory=IT&md5ChecksumParam=e4ca1b837c8b1f6d63025da55d5cb8fb",
+      "start_time": "2026-02-12 13:00:00",
+      "end_time": "2026-02-12 13:55:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ep.2 di 7 - Un viaggio tra i nomi e i luoghi che hanno fatto dell'Italia il sinonimo di arte. In questo episodio scopriremo il celeberrimo Teatro alla Scala di Milano."
+    },
+    {
+      "show_name": "Stax - The sound of Memphis",
+      "show_logo": "https://guidatv.sky.it/uuid/903a9113-6005-4919-9fd4-353f5b7d967b/cover?territory=IT&md5ChecksumParam=f0bfbee6594917c1ce3a201779222ca5",
+      "start_time": "2026-02-12 13:55:00",
+      "end_time": "2026-02-12 14:55:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nonostante le gravi difficoltà commerciali, la Stax Records si risolleva con il lavoro di Isaac Hayes, vincitore di un Oscar e di un Grammy, per Shaft del 1971."
+    },
+    {
+      "show_name": "Janet Jackson.",
+      "show_logo": "https://guidatv.sky.it/uuid/ab91a556-5451-4418-b747-1a6361876d06/cover?territory=IT&md5ChecksumParam=cc5e357a89bd05f6f98e9e3b2bc13f39",
+      "start_time": "2026-02-12 14:55:00",
+      "end_time": "2026-02-12 15:45:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Janet firma contratti di sponsorizzazione multimilionari e ottiene ruoli da protagonista in lungometraggi. Ma con la notizia delle accuse su suo fratello Michael, il suo mondo crolla."
+    },
+    {
+      "show_name": "Janet Jackson.",
+      "show_logo": "https://guidatv.sky.it/uuid/afec6af6-1524-457b-9325-56c5049e0246/cover?territory=IT&md5ChecksumParam=cc5e357a89bd05f6f98e9e3b2bc13f39",
+      "start_time": "2026-02-12 15:45:00",
+      "end_time": "2026-02-12 16:35:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "In seguito alla controversia del Super Bowl del 2004, Janet e' nella lista nera. Amici e fan combattono per il suo diritto a essere riconosciuta come una leggenda dello spettacolo."
+    },
+    {
+      "show_name": "La Valigia",
+      "show_logo": "https://guidatv.sky.it/uuid/47334593-925e-4077-8351-522ab7bc9d8f/cover?territory=IT&md5ChecksumParam=df38f6927a522934c5bbff1dbb1ce532",
+      "start_time": "2026-02-12 16:35:00",
+      "end_time": "2026-02-12 17:35:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un documentario sull’era dell’AI che, tra arte, teatro e filosofia, esplora il confine tra umano e virtuale, realtà e finzione, offrendo strumenti per capire il cambiamento."
+    },
+    {
+      "show_name": "Mario Perrotta: Scene Familiari",
+      "show_logo": "https://guidatv.sky.it/uuid/d9d263b4-fa92-42b2-88f7-37018237030d/cover?territory=IT&md5ChecksumParam=7a9d00c52f3e909db4da20f15177b283",
+      "start_time": "2026-02-12 17:35:00",
+      "end_time": "2026-02-12 18:35:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il percorso di indagine svolto da Mario Perrotta dentro le relazioni familiari rilette attraverso il medium teatrale."
+    },
+    {
+      "show_name": "Indie Jungle",
+      "show_logo": "https://guidatv.sky.it/uuid/f869708d-7144-4f13-953c-8f902b4a5ed3/cover?territory=IT&md5ChecksumParam=1e343e718487afbf05ed6b9929608c27",
+      "start_time": "2026-02-12 18:35:00",
+      "end_time": "2026-02-12 19:30:00",
+      "episode_number": "S3 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un viaggio nella musica dal vivo con i protagonisti della scena indie italiana. In questo episodio: Giorgio Poi."
+    },
+    {
+      "show_name": "Indie Jungle",
+      "show_logo": "https://guidatv.sky.it/uuid/3aeed40b-5c7c-4205-aee1-6105b3fd7adb/cover?territory=IT&md5ChecksumParam=1e343e718487afbf05ed6b9929608c27",
+      "start_time": "2026-02-12 19:30:00",
+      "end_time": "2026-02-12 20:25:00",
+      "episode_number": "S3 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un viaggio nella musica dal vivo con i protagonisti della scena indie italiana. In questo episodio: Willie Peyote."
+    },
+    {
+      "show_name": "Il mistero dei capolavori perduti",
+      "show_logo": "https://guidatv.sky.it/uuid/d3c543d3-9374-466e-b90d-b7cea3390deb/cover?territory=IT&md5ChecksumParam=c9edea134b0e1f2281ca824eba158dc1",
+      "start_time": "2026-02-12 20:25:00",
+      "end_time": "2026-02-12 21:15:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Le storie di sette grandi dipinti tragicamente scomparsi. Un team di esperti rimaterializza \"Medicina\" di Gustav Klimt, quadro distrutto in un incendio alla fine della Seconda guerra mondiale."
+    },
+    {
+      "show_name": "Il Bacio Di Klimt",
+      "show_logo": "https://guidatv.sky.it/uuid/1e49f178-49d9-492e-82bb-67abd18b534f/cover?territory=IT&md5ChecksumParam=1b43f263985765208817db43c286fee0",
+      "start_time": "2026-02-12 21:15:00",
+      "end_time": "2026-02-12 22:50:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Tra luce dorata, simbolismo ed erotismo, un viaggio nei capolavori di Gustav Klimt, fino all’opera che meglio incarna lo spirito del primo ’900: “Il Bacio”."
+    },
+    {
+      "show_name": "Il mistero dei capolavori perduti",
+      "show_logo": "https://guidatv.sky.it/uuid/22b5a0f2-a068-4585-8de9-8071b36adb90/cover?territory=IT&md5ChecksumParam=c9edea134b0e1f2281ca824eba158dc1",
+      "start_time": "2026-02-12 22:50:00",
+      "end_time": "2026-02-12 23:40:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Le storie di sette grandi dipinti tragicamente scomparsi. Un team di esperti rimaterializza \"La torre dei cavalli azzurri\" di Franz Marc, dipinto sequestrato da Hermann Goering negli anni '40."
+    },
+    {
+      "show_name": "Il Bacio Di Klimt",
+      "show_logo": "https://guidatv.sky.it/uuid/1e49f178-49d9-492e-82bb-67abd18b534f/cover?territory=IT&md5ChecksumParam=1b43f263985765208817db43c286fee0",
+      "start_time": "2026-02-12 23:40:00",
+      "end_time": "2026-02-13 01:15:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Tra luce dorata, simbolismo ed erotismo, un viaggio nei capolavori di Gustav Klimt, fino all’opera che meglio incarna lo spirito del primo ’900: “Il Bacio”."
     }
   ]
 }

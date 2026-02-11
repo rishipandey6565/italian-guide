@@ -1,33 +1,24 @@
 {
   "channel_name": "Sky Sport  254",
-  "date": "2026-02-11",
+  "date": "2026-02-12",
   "programs": [
     {
-      "show_name": "Casertana - Crotone",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-11 00:00:00",
-      "end_time": "2026-02-11 17:30:00",
-      "episode_number": "S2025 E262",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Alberto Pinto di Caserta, Campania, Italia."
-    },
-    {
-      "show_name": "Dolomiti Bellunesi - Pergolettese",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-254/tomorrow/dolomiti-bellunesi-pergolettese.webp",
-      "start_time": "2026-02-11 17:30:00",
-      "end_time": "2026-02-11 20:25:00",
-      "episode_number": "S2025 E263",
-      "show_category": "Sport",
-      "show_description": "Tutte le partite del campionato di Serie C italiano."
-    },
-    {
       "show_name": "Giana Erminio - Lecco",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-254/tomorrow/giana-erminio-lecco.webp",
-      "start_time": "2026-02-11 20:25:00",
+      "show_logo": "https://guidatv.sky.it/uuid/9f7ad844-2ebf-459b-9082-e397a64cc40b/cover?territory=IT&md5ChecksumParam=d04439265ea920dc5ed375305143642e",
+      "start_time": "2026-02-12 00:00:00",
       "end_time": "2026-02-12 20:00:00",
       "episode_number": "S2025 E264",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Città di Gorgonzola, Italia."
+    },
+    {
+      "show_name": "Ascoli - Torres",
+      "show_logo": "https://guidatv.sky.it/uuid/504e809b-fa7d-438e-a5d2-776e3d897bec/cover?territory=IT&md5ChecksumParam=8feb4aef3e51c9ba482b340f110272a2",
+      "start_time": "2026-02-12 20:00:00",
+      "end_time": "2026-02-13 15:30:00",
+      "episode_number": "S2025 E255",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Cino e Lillo Del Duca di Ascoli, Italia."
     }
   ]
 }

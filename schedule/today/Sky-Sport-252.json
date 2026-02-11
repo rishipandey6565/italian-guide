@@ -1,24 +1,33 @@
 {
   "channel_name": "Sky Sport  252",
-  "date": "2026-02-10",
+  "date": "2026-02-11",
   "programs": [
     {
-      "show_name": "Cavese - Monopoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/today/cavese-monopoli.webp",
-      "start_time": "2026-02-10 17:30:00",
-      "end_time": "2026-02-10 20:25:00",
-      "episode_number": "S2025 E264",
-      "show_category": "Sport",
-      "show_description": "Tutte le partite del campionato di Serie C italiano."
-    },
-    {
       "show_name": "Salernitana - Casarano",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/today/salernitana-casarano.webp",
-      "start_time": "2026-02-10 20:25:00",
+      "show_logo": "https://guidatv.sky.it/uuid/36e004ce-8a08-4ab4-b831-a3b8470fd759/cover?territory=IT&md5ChecksumParam=76cf09f3ce04d540ab51de3e4d4f2197",
+      "start_time": "2026-02-11 00:00:00",
       "end_time": "2026-02-11 17:30:00",
       "episode_number": "S2025 E267",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Arechi di Salerno, Italia."
+    },
+    {
+      "show_name": "Renate - Triestina",
+      "show_logo": "https://guidatv.sky.it/uuid/11ed3c5a-adab-426a-9e70-7f758552bafd/cover?territory=IT&md5ChecksumParam=b469bbb31f34f65042cefcd8f532134a",
+      "start_time": "2026-02-11 17:30:00",
+      "end_time": "2026-02-11 20:25:00",
+      "episode_number": "S2025 E269",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Città di Meda a Meda, Monza e Brianza, Italia."
+    },
+    {
+      "show_name": "Union Brescia - Virtus Verona",
+      "show_logo": "https://guidatv.sky.it/uuid/9e3b35a1-cfff-4e38-9892-129fbc5b7472/cover?territory=IT&md5ChecksumParam=69a5aaef18605c493440a8b88533b2d1",
+      "start_time": "2026-02-11 20:25:00",
+      "end_time": "2026-02-12 17:30:00",
+      "episode_number": "S2025 E270",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Rigamonti di Brescia, Italia."
     }
   ]
 }
