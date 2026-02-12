@@ -1,402 +1,294 @@
 {
   "channel_name": "Food Network",
-  "date": "2026-02-12",
+  "date": "2026-02-13",
   "programs": [
     {
-      "show_name": "Sagre d'Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 00:00:00",
-      "end_time": "2026-02-12 00:00:00",
-      "episode_number": "S1 E8",
-      "show_category": "",
-      "show_description": "Abruzzo - Tra montagna e mare, l'Abruzzo prende forma nei profumi del tartufo di Poggio Umbricchio e nella tradizione del baccala' di Sant'Omero."
-    },
-    {
-      "show_name": "Sagre d'Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 00:00:00",
-      "end_time": "2026-02-12 00:05:00",
-      "episode_number": "S1 E8",
-      "show_category": "",
-      "show_description": "Abruzzo - Tra montagna e mare, l'Abruzzo prende forma nei profumi del tartufo di Poggio Umbricchio e nella tradizione del baccala' di Sant'Omero."
-    },
-    {
-      "show_name": "L'Italia a morsi - Con Chiara Maci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 00:05:00",
-      "end_time": "2026-02-12 01:10:00",
-      "episode_number": "S4 E13",
-      "show_category": "",
-      "show_description": "St.4 Ep.13 - Chiara Maci arriva a Pescara ed entra nel vivo della tradizione culinaria locale attraverso due grandi classici: gli spaghetti alla chitarra e gli arrosticini."
-    },
-    {
-      "show_name": "L'Italia a morsi - Con Chiara Maci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 01:10:00",
-      "end_time": "2026-02-12 02:15:00",
-      "episode_number": "S4 E5",
-      "show_category": "",
-      "show_description": "St.4 Ep.5 - Chiara Maci e' a Teramo per scoprire i segreti del miele e di una pietanza storica: le 'virtu' teramane'. Con Carla prepara poi alcune delle ricette piu' tipiche del territorio."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 02:15:00",
-      "end_time": "2026-02-12 02:40:00",
-      "episode_number": "S7 E12",
-      "show_category": "",
-      "show_description": "Colpo grosso al ristorante - Dopo aver acquisito il Cafe Aldente di Studio City in California, i proprietari pensano che i dipendenti seguano le vecchie regole. C'e' qualcuno che ignora davvero le nuove norme?"
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 02:40:00",
-      "end_time": "2026-02-12 03:05:00",
-      "episode_number": "S5 E3",
-      "show_category": "",
-      "show_description": "Soldi in piu' - Quando Don, proprietario del Rocco's Cafe di San Francisco, sente dire che il nuovo manager farebbe promozioni del personale senza la sua autorizzazione, contatta Charles per indagare."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 03:05:00",
-      "end_time": "2026-02-12 03:30:00",
-      "episode_number": "S8 E9",
-      "show_category": "",
-      "show_description": "Che succede ai cimeli? - Michael, proprietario del Rock Island Cafe, e' preoccupato dal calo delle vendite dei suoi cimeli. Charles Stiles scopre che lo staff usa il locale per affari personali."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 03:30:00",
-      "end_time": "2026-02-12 03:55:00",
-      "episode_number": "S4 E11",
-      "show_category": "",
-      "show_description": "Problemi con la sicurezza - Dave e Mike Frank, co-proprietari del ristorante Del Rossi's Cheesesteak Co. di Philadelphia, chiedono alle spie di verificare se un agente della sicurezza sia sgarbato con la clientela."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 03:55:00",
-      "end_time": "2026-02-12 04:20:00",
-      "episode_number": "S9 E11",
-      "show_category": "",
-      "show_description": "Claustrofobia - Alcuni ristoratori si affidano a un gruppo di 'spie' e all'ausilio di telecamere nascoste per controllare i loro impiegati e scovare i dipendenti piu' indisciplinati."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 04:20:00",
-      "end_time": "2026-02-12 04:45:00",
-      "episode_number": "S11 E10",
-      "show_category": "",
-      "show_description": "Carne al fuoco - Le transazioni sono un po' troppo convenienti: Tony, del Rivoli's, crede che il fornitore gli venda carne rubata. Verra' inviata una spia che s'inserira' nello staff con difficolta'."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 04:45:00",
-      "end_time": "2026-02-12 05:10:00",
-      "episode_number": "S10 E1",
-      "show_category": "",
-      "show_description": "Problemi - Un ex cliente contatta Charles per capire se investire o meno in un ristorante. Kendall e Kiel scoprono che l'attuale proprietario non e' affatto onesto."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 05:10:00",
-      "end_time": "2026-02-12 05:35:00",
-      "episode_number": "S4 E10",
-      "show_category": "",
-      "show_description": "Mammina cara - Tommy, proprietario del ristorante da Gigi a Philadelphia, sospetta che sua madre, manager del locale, si comporti in modo discriminatorio verso i clienti piu' giovani. Si rivolge a Charles."
-    },
-    {
-      "show_name": "Spie al ristorante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 05:35:00",
-      "end_time": "2026-02-12 06:00:00",
-      "episode_number": "S4 E3",
-      "show_category": "",
-      "show_description": "Una birra strana - A Charles viene chiesto di scoprire se il mastro birraio di un ristorante abbia o meno un secondo lavoro. Le spie Amber e Grant iniziano le indagini..."
-    },
-    {
-      "show_name": "La cucina delle monache",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 06:00:00",
-      "end_time": "2026-02-12 06:35:00",
-      "episode_number": "S2 E5",
-      "show_category": "",
-      "show_description": "St.2 Ep.5 - Crespelle e torta di mele sono le ricette del giorno nella cucina delle Monache."
-    },
-    {
-      "show_name": "La cucina delle monache",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 06:35:00",
-      "end_time": "2026-02-12 07:10:00",
-      "episode_number": "S4 E7",
-      "show_category": "",
-      "show_description": "St.4 Ep.7 - Oggi ricette speciali, tortino di patate e tartufo nero e savoiardi al tiramisu'."
-    },
-    {
-      "show_name": "La cucina delle monache",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 07:10:00",
-      "end_time": "2026-02-12 07:45:00",
-      "episode_number": "S3 E5",
-      "show_category": "",
-      "show_description": "St.3 Ep.5 - Dall'autunno con gli gnocchi zucca e castagne all'estate con il dolce al cocco."
-    },
-    {
-      "show_name": "La cucina delle monache",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 07:45:00",
-      "end_time": "2026-02-12 08:20:00",
-      "episode_number": "S5 E5",
-      "show_category": "",
-      "show_description": "St.5 Ep.5 - Ricette del cuore e della tradizione: baccala' alla vicentina e paste bianche."
-    },
-    {
-      "show_name": "La cucina delle monache",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 08:20:00",
-      "end_time": "2026-02-12 08:55:00",
-      "episode_number": "S5 E7",
-      "show_category": "",
-      "show_description": "St.5 Ep.7 - Le monache cucinano: spaghetti alla nerano e rocciata."
-    },
-    {
-      "show_name": "La cucina delle monache",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 08:55:00",
-      "end_time": "2026-02-12 09:30:00",
-      "episode_number": "S3 E9",
-      "show_category": "",
-      "show_description": "St.3 Ep.9 - Pammelati, biscotti speciali e alici indorate e fritte tanto care a suor Myriam."
-    },
-    {
-      "show_name": "La cucina delle monache",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 09:30:00",
-      "end_time": "2026-02-12 10:05:00",
-      "episode_number": "S4 E8",
-      "show_category": "",
-      "show_description": "St.4 Ep.8 - Spezie, tradizione e famiglia: riso coperto con pollo e piselli e polpettone."
-    },
-    {
-      "show_name": "La cucina delle monache",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 10:05:00",
-      "end_time": "2026-02-12 10:40:00",
-      "episode_number": "S2 E6",
-      "show_category": "",
-      "show_description": "St.2 Ep.6 - Un menu' celestiale: insalata d'orzo con verdure e ciaramicola."
-    },
-    {
-      "show_name": "La cucina delle monache",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 10:40:00",
-      "end_time": "2026-02-12 11:15:00",
-      "episode_number": "S4 E5",
-      "show_category": "",
-      "show_description": "St.4 Ep.5 - La Pasqua si avvicina ecco la torta di Pasqua e la zuppa di cozze del Giovedi' Santo."
-    },
-    {
-      "show_name": "Sweet Home",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 11:15:00",
-      "end_time": "2026-02-12 11:55:00",
-      "episode_number": "S2 E13",
-      "show_category": "",
-      "show_description": "St.2 Ep.13 - Nella cucina di sweet home arrivano Giulia Glorioso e Marco Cesare Merola."
-    },
-    {
-      "show_name": "Sweet Home",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 11:55:00",
-      "end_time": "2026-02-12 12:35:00",
-      "episode_number": "S2 E14",
-      "show_category": "",
-      "show_description": "St.2 Ep.14 - Nella cucina di sweet home arrivano Giuseppe Messina e Paolo Staccoli."
-    },
-    {
-      "show_name": "Sweet Home",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 12:35:00",
-      "end_time": "2026-02-12 13:15:00",
-      "episode_number": "S2 E15",
-      "show_category": "",
-      "show_description": "St.2 Ep.15 - Nella cucina di sweet home arrivano Mauro Miranti e Eugenio Morrone."
-    },
-    {
-      "show_name": "A tavola con Lorenzon",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 13:15:00",
-      "end_time": "2026-02-12 13:50:00",
-      "episode_number": "S3 E10",
-      "show_category": "",
-      "show_description": "Piatti sfiziosi - Antonio a Daniel cucinano rigatoni di pesce e polpette di agnello."
-    },
-    {
-      "show_name": "A tavola con Lorenzon",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 13:50:00",
-      "end_time": "2026-02-12 14:25:00",
-      "episode_number": "S3 E5",
-      "show_category": "",
-      "show_description": "St.3 Ep.5 - La tradizione rivisitata: conchiglioni ripieni alla norma e frittata al vapore con porri."
-    },
-    {
-      "show_name": "Nel forno di casa tua",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 14:25:00",
-      "end_time": "2026-02-12 15:00:00",
-      "episode_number": "S2 E15",
-      "show_category": "",
-      "show_description": "Pomeriggio al luna park - Fulvio prepara: le montanare e i taralli sugna e pepe."
-    },
-    {
-      "show_name": "Nel forno di casa tua",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 15:00:00",
-      "end_time": "2026-02-12 15:35:00",
-      "episode_number": "S3 E2",
-      "show_category": "",
-      "show_description": "Serata giapponese - Fulio Marino vola in Giappone con il kastu sando e i panini dolci alle patate viola."
-    },
-    {
-      "show_name": "Nel forno di casa tua",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 15:35:00",
-      "end_time": "2026-02-12 16:10:00",
-      "episode_number": "S3 E20",
-      "show_category": "",
-      "show_description": "Gita in barca - La focaccia da spiaggia e le tropezienne, ricette pratiche e gustose per una gita in barca."
-    },
-    {
-      "show_name": "Nel forno di casa tua",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 16:10:00",
-      "end_time": "2026-02-12 16:45:00",
-      "episode_number": "S1 E4",
-      "show_category": "",
-      "show_description": "St.1 Ep.4 - Fulvio ci porta in Francia con due ricette: la baguette e le brioche suisse."
-    },
-    {
-      "show_name": "Nel forno di casa tua",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 16:45:00",
-      "end_time": "2026-02-12 17:20:00",
-      "episode_number": "S2 E6",
-      "show_category": "",
-      "show_description": "St.2 Ep.6 - Fulvio esplora le terre del nord con il pane di segale e la babka."
-    },
-    {
-      "show_name": "Le ricette del convento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 17:20:00",
-      "end_time": "2026-02-12 17:55:00",
-      "episode_number": "S8 E4",
-      "show_category": "",
-      "show_description": "St.8 Ep.4 - I monaci cucinano: Passato di lattuga e polpette di spada."
-    },
-    {
-      "show_name": "Le ricette del convento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 17:55:00",
-      "end_time": "2026-02-12 18:30:00",
-      "episode_number": "S8 E3",
-      "show_category": "",
-      "show_description": "St.8 Ep.3 - I monaci cucinano: zuppa di formaggi e tritato a sfincione."
-    },
-    {
-      "show_name": "Le ricette del convento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 18:30:00",
-      "end_time": "2026-02-12 19:05:00",
-      "episode_number": "S7 E1",
-      "show_category": "",
-      "show_description": "St.7 Ep.1 - I monaci cucinano: riso alle ortiche e polpette di asparagi."
-    },
-    {
-      "show_name": "Le ricette del convento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 19:05:00",
-      "end_time": "2026-02-12 19:40:00",
-      "episode_number": "S7 E8",
-      "show_category": "",
-      "show_description": "St.7 Ep.8 - Un pranzo di festa in monastero, tra preghiera e dolcezza."
-    },
-    {
-      "show_name": "Le ricette del convento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 19:40:00",
-      "end_time": "2026-02-12 20:15:00",
-      "episode_number": "S6 E1",
-      "show_category": "",
-      "show_description": "St.6 Ep.1 - Oggi in convento si cucinano antichi sapori monastici: cous cous di tacchino e minnulati."
-    },
-    {
-      "show_name": "Le ricette del convento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 20:15:00",
-      "end_time": "2026-02-12 20:50:00",
-      "episode_number": "S8 E2",
-      "show_category": "",
-      "show_description": "St.8 Ep.2 - I monaci cucinano: parmigiana di zucchine e semifreddo."
-    },
-    {
-      "show_name": "Le ricette del convento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 20:50:00",
-      "end_time": "2026-02-12 21:25:00",
-      "episode_number": "S8 E5",
-      "show_category": "",
-      "show_description": "St.8 Ep.5 - I monaci cucinano: Riso alle melanzane e coniglio alla stimpirata."
-    },
-    {
-      "show_name": "Le ricette del convento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 21:25:00",
-      "end_time": "2026-02-12 22:00:00",
-      "episode_number": "S8 E6",
-      "show_category": "",
-      "show_description": "St.8 Ep.6 - I monaci cucinano: frittata di ricotta e crostata al gelo."
-    },
-    {
-      "show_name": "Sweet Home - 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 22:00:00",
-      "end_time": "2026-02-12 22:35:00",
-      "episode_number": "S2 E16",
-      "show_category": "",
-      "show_description": "St.2 Ep.16 - Nella cucina di sweet home arrivano Damiano Rizzo e Marco Tateo."
-    },
-    {
-      "show_name": "Sweet Home - 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 22:35:00",
-      "end_time": "2026-02-12 23:10:00",
-      "episode_number": "S2 E17",
-      "show_category": "",
-      "show_description": "St.2 Ep.17 - Nella cucina di sweet home arrivano Rocco Scutella e Fabrizio Camplone."
-    },
-    {
-      "show_name": "Sweet Home - 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 23:10:00",
-      "end_time": "2026-02-12 23:45:00",
-      "episode_number": "S2 E18",
-      "show_category": "",
-      "show_description": "St.2 Ep.18 - Nella cucina di sweet home arrivano Davide Zerbato e Iginio Massari."
-    },
-    {
       "show_name": "Cake Star - Pasticcerie in sfida",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 23:45:00",
+      "show_logo": "",
+      "start_time": "2026-02-13 00:00:00",
       "end_time": "2026-02-13 00:00:00",
       "episode_number": "S3 E2",
       "show_category": "",
       "show_description": "Valle d'Itria - Prosegue il viaggio di Katia e Damiano alla ricerca delle migliori pasticcerie d'Italia. In questa tappa, a sfidarsi saranno \\."
+    },
+    {
+      "show_name": "Cake Star - Pasticcerie in sfida",
+      "show_logo": "",
+      "start_time": "2026-02-13 00:00:00",
+      "end_time": "2026-02-13 01:00:00",
+      "episode_number": "S3 E2",
+      "show_category": "",
+      "show_description": "Valle d'Itria - Prosegue il viaggio di Katia e Damiano alla ricerca delle migliori pasticcerie d'Italia. In questa tappa, a sfidarsi saranno \\."
+    },
+    {
+      "show_name": "Cake Star - Pasticcerie in sfida",
+      "show_logo": "",
+      "start_time": "2026-02-13 01:00:00",
+      "end_time": "2026-02-13 02:20:00",
+      "episode_number": "S1 E3",
+      "show_category": "",
+      "show_description": "Bari - Katia e Damiano approdano in Puglia. A sfidarsi, saranno le pasticcerie 'Le Plaisir - Atelier del gusto', la 'Ladisa' e la 'Petriella'."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 02:20:00",
+      "end_time": "2026-02-13 02:50:00",
+      "episode_number": "S5 E26",
+      "show_category": "",
+      "show_description": "Cucina di mare diversa - Luca Pappagallo cucina: le reginette del marinaio, Bacalhau a' brás e sgrombro cipolle e limone."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 02:50:00",
+      "end_time": "2026-02-13 03:25:00",
+      "episode_number": "S3 E26",
+      "show_category": "",
+      "show_description": "Risotti - Luca Pappagallo porta in tavola i risotti: 'nduja e salsiccia, al pesto, nasello e lime."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 03:25:00",
+      "end_time": "2026-02-13 04:00:00",
+      "episode_number": "S5 E30",
+      "show_category": "",
+      "show_description": "Una cena raffinata di pesce - Luca Pappagallo cucina: blinis, risotto alla crema di scampi e gamberoni al guazzetto."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 04:00:00",
+      "end_time": "2026-02-13 04:40:00",
+      "episode_number": "S4 E26",
+      "show_category": "",
+      "show_description": "Torta di mele - Luca Pappagallo cucina la torta di mele in tre versioni: della nonna, rumena e norvegese."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 04:40:00",
+      "end_time": "2026-02-13 05:20:00",
+      "episode_number": "S5 E5",
+      "show_category": "",
+      "show_description": "Frittate - Luca Pappagallo cucina varieta' di frittate: di cipolle, con zucchine e Speck e il rotolo."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 05:20:00",
+      "end_time": "2026-02-13 06:00:00",
+      "episode_number": "S3 E27",
+      "show_category": "",
+      "show_description": "Che cavolo! - Luca porta in tavola: cavolo cappuccio gratinato, il trinxat, il rosti di cavolfiore."
+    },
+    {
+      "show_name": "Food Advisor",
+      "show_logo": "",
+      "start_time": "2026-02-13 06:00:00",
+      "end_time": "2026-02-13 07:00:00",
+      "episode_number": "S1 E3",
+      "show_category": "",
+      "show_description": "St.1 Ep.3 - Riviera romagnola - Piadina - Simone Rugiati e' in viaggio per il Bel Paese alla ricerca dei migliori food advisor."
+    },
+    {
+      "show_name": "Food Advisor",
+      "show_logo": "",
+      "start_time": "2026-02-13 07:00:00",
+      "end_time": "2026-02-13 08:00:00",
+      "episode_number": "S1 E4",
+      "show_category": "",
+      "show_description": "St.1 Ep.4 - Roma - Suppli' - Simone Rugiati e' in viaggio per il Bel Paese alla ricerca dei migliori food advisor."
+    },
+    {
+      "show_name": "Food Advisor",
+      "show_logo": "",
+      "start_time": "2026-02-13 08:00:00",
+      "end_time": "2026-02-13 09:00:00",
+      "episode_number": "S1 E5",
+      "show_category": "",
+      "show_description": "St.1 Ep.5 - Milano - Hamburger - Simone Rugiati e' in viaggio per il Bel Paese alla ricerca dei migliori food advisor."
+    },
+    {
+      "show_name": "Food Advisor",
+      "show_logo": "",
+      "start_time": "2026-02-13 09:00:00",
+      "end_time": "2026-02-13 10:00:00",
+      "episode_number": "S1 E6",
+      "show_category": "",
+      "show_description": "St.1 Ep.6 - Napoli - Cuoppo - Simone Rugiati e' in viaggio per il Bel Paese alla ricerca dei migliori food advisor."
+    },
+    {
+      "show_name": "Food Advisor",
+      "show_logo": "",
+      "start_time": "2026-02-13 10:00:00",
+      "end_time": "2026-02-13 11:00:00",
+      "episode_number": "S2 E1",
+      "show_category": "",
+      "show_description": "Ascoli - Olive - Simone Rugiati e' in viaggio per il Bel Paese alla ricerca dei migliori food advisor."
+    },
+    {
+      "show_name": "Recensioni del terzo tipo",
+      "show_logo": "",
+      "start_time": "2026-02-13 11:00:00",
+      "end_time": "2026-02-13 12:05:00",
+      "episode_number": "S1 E3",
+      "show_category": "",
+      "show_description": "Gli esperti della carne - Mitch ed El Beker provano 3 ristoranti di carne rinomati: Habibi, Churraskinho e Svakka. Ne vale la pena?"
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 12:05:00",
+      "end_time": "2026-02-13 12:45:00",
+      "episode_number": "S3 E28",
+      "show_category": "",
+      "show_description": "Vegetariana con gusto - Luca porta in tavola: lo stufato, risotto porro e piselli, frittelline di verdure."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 12:45:00",
+      "end_time": "2026-02-13 13:25:00",
+      "episode_number": "S3 E18",
+      "show_category": "",
+      "show_description": "Paste e legumi - Luca Pappagallo porta in tavola la pasta con vari legumi: ceci, fagioli e lenticchie."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 13:25:00",
+      "end_time": "2026-02-13 14:05:00",
+      "episode_number": "S4 E23",
+      "show_category": "",
+      "show_description": "Cucinare con il latte - Luca Pappagallo cucina: riso al latte, arista al latte, latte fritto."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 14:05:00",
+      "end_time": "2026-02-13 14:45:00",
+      "episode_number": "S4 E24",
+      "show_category": "",
+      "show_description": "Ricette con i porri - Luca Pappagallo cucina: polenta e porri, risotto cipolla e porri e la vellutata."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 14:45:00",
+      "end_time": "2026-02-13 15:20:00",
+      "episode_number": "S6 E5",
+      "show_category": "",
+      "show_description": "Ricette dalla Gran Bretagna - Luca Pappagallo cucina: Cornish Pasties, Toad in the hole e Bubble and Squeak."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 15:20:00",
+      "end_time": "2026-02-13 16:00:00",
+      "episode_number": "S6 E6",
+      "show_category": "",
+      "show_description": "Ricette lombarde - Luca Pappagallo cucina 3 ricette lombarde: Capunsei, Ossobuco alla milanese e torta sbrisolona."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 16:00:00",
+      "end_time": "2026-02-13 16:40:00",
+      "episode_number": "S6 E3",
+      "show_category": "",
+      "show_description": "Ricette abruzzesi - Luca Pappagallo cucina tre riectte abruzzesi: i Fiadoni, Sagne e fagioli e Cif e Ciaf."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 16:40:00",
+      "end_time": "2026-02-13 17:15:00",
+      "episode_number": "S6 E4",
+      "show_category": "",
+      "show_description": "Una cena d'inverno - Luca Pappagallo cucina: sformatini di broccoli, risotto alla monzese e rosticciana con le olive."
+    },
+    {
+      "show_name": "In cucina con Luca Pappagallo",
+      "show_logo": "",
+      "start_time": "2026-02-13 17:15:00",
+      "end_time": "2026-02-13 17:50:00",
+      "episode_number": "S6 E2",
+      "show_category": "",
+      "show_description": "Ricette con le arance - Luca Pappagallo cucina tre ricette all'arancia: spaghetti alla chitaratta, pollo e crostata."
+    },
+    {
+      "show_name": "Cucina al mercato con Ruben",
+      "show_logo": "",
+      "start_time": "2026-02-13 17:50:00",
+      "end_time": "2026-02-13 18:30:00",
+      "episode_number": "S3 E1",
+      "show_category": "",
+      "show_description": "St.3 Ep.1 - Al mercato della Montagnola, Ruben ci propone due diverse versioni di gnocchi."
+    },
+    {
+      "show_name": "Cucina al mercato con Ruben",
+      "show_logo": "",
+      "start_time": "2026-02-13 18:30:00",
+      "end_time": "2026-02-13 19:15:00",
+      "episode_number": "S2 E7",
+      "show_category": "",
+      "show_description": "St.2 Ep.7 - A Napoli Ruben ci delizia con: pasta patate e provola e pasta cavolfiore, alici e provola."
+    },
+    {
+      "show_name": "Cucina al mercato con Ruben",
+      "show_logo": "",
+      "start_time": "2026-02-13 19:15:00",
+      "end_time": "2026-02-13 19:55:00",
+      "episode_number": "S2 E6",
+      "show_category": "",
+      "show_description": "St.2 Ep.6 - Al mercato di Fuorigrotta Ruben prepara: pasta alla Nerano e zucchine alla scapece."
+    },
+    {
+      "show_name": "Cucina al mercato con Ruben",
+      "show_logo": "",
+      "start_time": "2026-02-13 19:55:00",
+      "end_time": "2026-02-13 20:40:00",
+      "episode_number": "S1 E2",
+      "show_category": "",
+      "show_description": "Pasta fresca - Ruben e' al mercato di Testaccio ad imparare i segreti della pasta fresca."
+    },
+    {
+      "show_name": "Cucina al mercato con Ruben",
+      "show_logo": "",
+      "start_time": "2026-02-13 20:40:00",
+      "end_time": "2026-02-13 21:20:00",
+      "episode_number": "S4 E8",
+      "show_category": "",
+      "show_description": "St.4 Ep.8 - Dolce finale con Ruben: cassata siciliana e sfinci di San Giuseppe."
+    },
+    {
+      "show_name": "Cucina al mercato con Ruben",
+      "show_logo": "",
+      "start_time": "2026-02-13 21:20:00",
+      "end_time": "2026-02-13 22:00:00",
+      "episode_number": "S2 E3",
+      "show_category": "",
+      "show_description": "St.2 Ep.3 - Al mercato oggi i protagonisti sono i friarielli con cui Ruben prepara pasta e baccala'."
+    },
+    {
+      "show_name": "Recensioni del terzo tipo - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-13 22:00:00",
+      "end_time": "2026-02-13 23:05:00",
+      "episode_number": "S1 E4",
+      "show_category": "",
+      "show_description": "Prezzi stellari - Mitch e Daniele Rossi valutano tre ristoranti costosi: Botinero, Magenes e L'Ecurie. Valgono la spesa?"
+    },
+    {
+      "show_name": "Recensioni del terzo tipo",
+      "show_logo": "",
+      "start_time": "2026-02-13 23:05:00",
+      "end_time": "2026-02-14 00:00:00",
+      "episode_number": "S1 E3",
+      "show_category": "",
+      "show_description": "Gli esperti della carne - Mitch ed El Beker provano 3 ristoranti di carne rinomati: Habibi, Churraskinho e Svakka. Ne vale la pena?"
     }
   ]
 }

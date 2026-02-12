@@ -1,258 +1,249 @@
 {
   "channel_name": "Focus",
-  "date": "2026-02-11",
+  "date": "2026-02-12",
   "programs": [
     {
+      "show_name": "Cronache Di Sangue La Storia Di Jack Lo Squartatore",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314100701000304/media/15/15/6cfdd6da-119c-43b8-af3b-8c26da765c7e/149df111-50dd-4646-9d5b-b106311724e0.jpg",
+      "start_time": "2026-02-12 00:00:00",
+      "end_time": "2026-02-12 00:29:00",
+      "episode_number": "S1 E3",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Mentre la paura attanaglia Whitechapel, il panico dilaga, spingendo Fred Best a falsificare un'altra lettera ed alimentare il mito di Jack lo squartatore."
+    },
+    {
+      "show_name": "Loch Ness Storia Di Un Mostro",
+      "show_logo": "",
+      "start_time": "2026-02-12 00:29:00",
+      "end_time": "2026-02-12 01:32:00",
+      "episode_number": "S1 E3",
+      "show_category": "",
+      "show_description": "La gente e' ancora ossessionata dall'esistenza del mostro di Loch Ness; il mito e' radicato nella cultura delle Highlands e non solo."
+    },
+    {
+      "show_name": "Dinosauri Tra I Ghiacci",
+      "show_logo": "",
+      "start_time": "2026-02-12 01:32:00",
+      "end_time": "2026-02-12 02:24:00",
+      "episode_number": "",
+      "show_category": "Il regno Animale",
+      "show_description": "I dinosauri prosperavano in luoghi improbabili come il freddo e oscuro Circolo Polare Artico. Come? Scopriamolo insieme."
+    },
+    {
+      "show_name": "I Grandi Miti Dell'umanita' Misteri E Rivelazioni",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313197401000904/media/30/94/c158d27b-5766-425a-842f-6671645d9594/3423c511-5860-4eb6-bfae-95f84e63e399.jpg",
+      "start_time": "2026-02-12 02:24:00",
+      "end_time": "2026-02-12 03:21:00",
+      "episode_number": "S3 E9",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Gli studiosi indagano sui misteriosi monumenti megalitici sparsi in tutta l'Europa: da Stonehenge all'Irlanda, dall'Italia a Malta. Queste strutture sono accomunate da una serie di incisioni geometri-che che ripropongono sempre gli stessi motivi e sembrano risalire a diverse migliaia di anni fa. Come sono stati costruiti? Qual era la loro funzione? E perché si somigliano tanto tra loro? Gli esperti tenteranno di rispondere a queste domande."
+    },
+    {
+      "show_name": "Verso L'aldila' Riti, Misteri E Credenze Degli Antichi",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312457801000204/media/27/91/84bece0f-519f-4ab1-bfeb-5fd41e727508/942c8288-3716-4f95-94bb-8be5ff165cf4.jpg",
+      "start_time": "2026-02-12 03:21:00",
+      "end_time": "2026-02-12 04:06:00",
+      "episode_number": "",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Un misterioso pozzo pieno di ossa rivela una strana pratica nell'antica Persia... Gli archeologi scavando in Mongolia hanno scoperto un tessuto di duemila anni che custodisce la chiave di un mistero... Nel Sichuan, vengono scoperte delle bare sospese."
+    },
+    {
+      "show_name": "Viaggiatori Uno Sguardo Sul Mondo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305857401004401/media/22/86/6ce1216a-49df-4b95-a893-61bdfab593c2/6c2e69a2-f71c-4ad5-b405-7773cbcbf5bc.jpg",
+      "start_time": "2026-02-12 04:06:00",
+      "end_time": "2026-02-12 04:30:00",
+      "episode_number": "S1 E44",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Alla scoperta delle bellezze artistiche e naturali del mondo, dalla Polinesia all'Indonesia, dall'Africa ai Caraibi."
+    },
+    {
+      "show_name": "Waterworld Africa",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311716001000802/media/18/82/146f96d7-d22a-4188-bbd6-3b16025ebfa6/b2394f62-0681-4d6e-a624-641ae1b2093b.jpg",
+      "start_time": "2026-02-12 04:30:00",
+      "end_time": "2026-02-12 05:16:00",
+      "episode_number": "S1 E8",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "L'Africa meridionale è in preda a una siccità punitiva. In tutta la regione le piante e gli animali soffrono. A volte come quest'acqua diventa fondamentale per la sopravvivenza e le zone umide diventano magneti per la vita."
+    },
+    {
+      "show_name": "David Attenborough Alla Scoperta Delle Formiche",
+      "show_logo": "",
+      "start_time": "2026-02-12 05:16:00",
+      "end_time": "2026-02-12 06:08:00",
+      "episode_number": "",
+      "show_category": "Il regno Animale",
+      "show_description": "Scopriamo il misterioso regno delle formiche, formato da un cast di regine e operaie, scout e soldati con tutte le loro incredibili storie."
+    },
+    {
+      "show_name": "Luoghi Di Magnifica Italia",
+      "show_logo": "",
+      "start_time": "2026-02-12 06:08:00",
+      "end_time": "2026-02-12 06:13:00",
+      "episode_number": "S1 E30",
+      "show_category": "Viaggi",
+      "show_description": "Alla scoperta delle meraviglie del nostro Paese."
+    },
+    {
+      "show_name": "Monti Selvaggi",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311505601000302/media/14/14/e4526c9e-f68b-4a3f-8fd4-f12a3dc71d96/b2d483a2-062e-4432-a097-41f72a785a43.jpg",
+      "start_time": "2026-02-12 06:13:00",
+      "end_time": "2026-02-12 07:00:00",
+      "episode_number": "S1 E3",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "I corsi d'acqua delle montagne rocciose sono le arterie vitali di queste vette. L'acqua scorre veloce fino all'Oceano."
+    },
+    {
+      "show_name": "Luoghi Di Magnifica Italia",
+      "show_logo": "",
+      "start_time": "2026-02-12 07:00:00",
+      "end_time": "2026-02-12 07:05:00",
+      "episode_number": "S1 E31",
+      "show_category": "Viaggi",
+      "show_description": "Alla scoperta delle meraviglie del nostro Paese."
+    },
+    {
+      "show_name": "Luoghi Di Magnifica Italia",
+      "show_logo": "",
+      "start_time": "2026-02-12 07:05:00",
+      "end_time": "2026-02-12 07:10:00",
+      "episode_number": "S1 E32",
+      "show_category": "Viaggi",
+      "show_description": "Alla scoperta delle meraviglie del nostro Paese."
+    },
+    {
+      "show_name": "Viaggiatori Uno Sguardo Sul Mondo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305857401004501/media/22/86/6ce1216a-49df-4b95-a893-61bdfab593c2/6c2e69a2-f71c-4ad5-b405-7773cbcbf5bc.jpg",
+      "start_time": "2026-02-12 07:10:00",
+      "end_time": "2026-02-12 07:34:00",
+      "episode_number": "S1 E45",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Alla scoperta delle bellezze artistiche e naturali del mondo, dalla Polinesia all'Indonesia, dall'Africa ai Caraibi."
+    },
+    {
+      "show_name": "Unearthed La Storia Dalle Fondamenta",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309299101000304/media/29/93/8b0c6785-5531-4877-bd10-f04e06bcea46/1b8bb042-28ea-4d96-b0c5-5740a3514f91.jpg",
+      "start_time": "2026-02-12 07:34:00",
+      "end_time": "2026-02-12 08:22:00",
+      "episode_number": "S2 E3",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Teotihuacan, nella valle del Messico, è stata una grande città precolombiana del Mesoamerica, la cui civiltà sembra essere svanita nel nulla. Gli archeologi, analizzando i reperti e le ossa rinvenuti all'interno delle piramidi di questa metropoli tentacolare, ne svelano i misteri e riescono a spiegare la sua scomparsa improvvisa, avvenuta soltanto 900 anni dopo la sua fondazione."
+    },
+    {
+      "show_name": "Fuori Le Prove! Indagini Ai Confini Della Realta'",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313427201001204/media/1/1/0119531c-14ba-49ac-8b46-a8ddb54b3b58/6db4541d-a241-4322-a4b0-0ccdbee7ea84.jpg",
+      "start_time": "2026-02-12 08:22:00",
+      "end_time": "2026-02-12 09:20:00",
+      "episode_number": "S4 E12",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "Delle foto in bianco e nero risalenti al 1951 sono la prova che la combustione spontanea esiste? Che cos'è il perenne suono martellante che affligge i residenti di Brooklyn? Una donna ha assistito all'abbattimento di un vero UFO nei cieli di Billings, nel Montana? Una termocamera ha ripreso una vera fata in volo? Tony Harris e il suo team di esperti indagano per scoprire la verità."
+    },
+    {
+      "show_name": "Verso L'aldila' Riti, Misteri E Credenze Degli Antichi",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312457801000204/media/27/91/84bece0f-519f-4ab1-bfeb-5fd41e727508/942c8288-3716-4f95-94bb-8be5ff165cf4.jpg",
+      "start_time": "2026-02-12 09:20:00",
+      "end_time": "2026-02-12 10:22:00",
+      "episode_number": "",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Un misterioso pozzo pieno di ossa rivela una strana pratica nell'antica Persia... Gli archeologi scavando in Mongolia hanno scoperto un tessuto di duemila anni che custodisce la chiave di un mistero... Nel Sichuan, vengono scoperte delle bare sospese."
+    },
+    {
+      "show_name": "La Valle Delle Balene",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313157001000104/media/7/7/8f9356eb-1a37-4e5a-9cb0-f4249efe2c82/c0178e3b-3243-484a-8720-089e247cf632.jpg",
+      "start_time": "2026-02-12 10:22:00",
+      "end_time": "2026-02-12 11:37:00",
+      "episode_number": "",
+      "show_category": "Il regno Animale",
+      "show_description": "In Egitto, nel deserto del Sahara, si estende Wadi Al-Hitan, la \"Valle delle Balene\". Qui, esperti paleontologi hanno rinvenuto migliaia di fossili risalenti a 40 milioni di anni fa, tra cui numerosi resti di antichi cetacei. Riusciranno a ricomporre l'albero genealogico dei giganti degli oceani."
+    },
+    {
+      "show_name": "Cose Di Questo Mondo",
+      "show_logo": "",
+      "start_time": "2026-02-12 11:37:00",
+      "end_time": "2026-02-12 12:40:00",
+      "episode_number": "S3 E4",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "Nel luglio 2013 un satellite cattura delle inquietanti immagini del deserto egiziano : centinaia di macchie nere nella necropoli ad una trentina di chilometri dal Cairo."
+    },
+    {
+      "show_name": "Waterworld Africa",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311716001000802/media/18/82/146f96d7-d22a-4188-bbd6-3b16025ebfa6/b2394f62-0681-4d6e-a624-641ae1b2093b.jpg",
+      "start_time": "2026-02-12 12:40:00",
+      "end_time": "2026-02-12 13:42:00",
+      "episode_number": "S1 E8",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "L'Africa meridionale è in preda a una siccità punitiva. In tutta la regione le piante e gli animali soffrono. A volte come quest'acqua diventa fondamentale per la sopravvivenza e le zone umide diventano magneti per la vita."
+    },
+    {
+      "show_name": "David Attenborough Alla Scoperta Delle Formiche",
+      "show_logo": "",
+      "start_time": "2026-02-12 13:42:00",
+      "end_time": "2026-02-12 14:56:00",
+      "episode_number": "",
+      "show_category": "Il regno Animale",
+      "show_description": "Scopriamo il misterioso regno delle formiche, formato da un cast di regine e operaie, scout e soldati con tutte le loro incredibili storie."
+    },
+    {
       "show_name": "Presenze Aliene",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/presenze-aliene.webp",
-      "start_time": "2026-02-11 00:00:00",
-      "end_time": "2026-02-11 00:34:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313890001000504/media/7/7/8145753e-56f5-41e2-956b-6c314d8e26a8/91cd38f8-f08a-456e-9ee5-f86ffc5a5ae0.jpg",
+      "start_time": "2026-02-12 14:56:00",
+      "end_time": "2026-02-12 15:56:00",
       "episode_number": "S1 E5",
       "show_category": "Spazio",
       "show_description": "Con l'aiuto degli studiosi, esploriamo le leggende della regione di Pine Barrens, vasta pineta dello Stato del New Jersey in cui tanti sostengono di aver visto strane luci fluttuanti, UFO e apparizioni spettrali. Quale potrebbe essere il collegamento tra divinità indigene, diavoli del folklore popolare e creature extraterrestri."
     },
     {
       "show_name": "Presenze Aliene",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/presenze-aliene.webp",
-      "start_time": "2026-02-11 00:34:00",
-      "end_time": "2026-02-11 01:28:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313890001000604/media/7/7/8145753e-56f5-41e2-956b-6c314d8e26a8/91cd38f8-f08a-456e-9ee5-f86ffc5a5ae0.jpg",
+      "start_time": "2026-02-12 15:56:00",
+      "end_time": "2026-02-12 16:58:00",
       "episode_number": "S1 E6",
       "show_category": "Spazio",
       "show_description": "Anche se non si tratta del primo posto che viene in mente quando si parla di misteri alieni, la Scozia è in realtà un paese in cui da decenni si verificano avvistamenti di UFO e incontri ravvicinati del terzo tipo. In particolare, la regione del Triangolo di Falkirk sembra essere l'epicentro di fenomeni inspiegabili: cupole volanti e luci triangolari che provocano svenimenti sono solo alcune delle segnalazioni provenienti da questa zona."
     },
     {
-      "show_name": "A Tavola Con L'uomo Di Neanderthal",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/a-tavola-con-l-uomo-di-neanderthal.webp",
-      "start_time": "2026-02-11 01:28:00",
-      "end_time": "2026-02-11 02:20:00",
-      "episode_number": "",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Sin dalla notte dei tempi, il cibo è stato una delle preoccupazioni primarie dell'umanità. Oggi, nuove tecniche permettono di scoprire e comprendere sfaccettature dei nostri antenati fino ad allora totalmente sconosciute. Quindi cosa mangiavano i nostri antenati preistorici."
-    },
-    {
-      "show_name": "I Grandi Miti Dell'umanita' Misteri E Rivelazioni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/i-grandi-miti-dell-umanita-misteri-e-rivelazioni.webp",
-      "start_time": "2026-02-11 02:20:00",
-      "end_time": "2026-02-11 03:17:00",
-      "episode_number": "S3 E8",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Zombie: non-morti assetati di sangue che ritornano in vita e terrorizzano il nostro immaginario da secoli. È possibile che il mito abbia una spiegazione medico-scientifica? Oppure le sue origini vanno ricercate nei meandri delle tradizioni spirituali di alcuni popoli africani? Insieme a un gruppo di studiosi intraprendiamo un viaggio tra Haiti, New Orleans e l'Africa occidentale, che ci condurrà alla scoperta di una leggenda secolare."
-    },
-    {
-      "show_name": "Verso L'aldila' Riti, Misteri E Credenze Degli Antichi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/verso-l-aldila-riti-misteri-e-credenze-degli-antichi.webp",
-      "start_time": "2026-02-11 03:17:00",
-      "end_time": "2026-02-11 04:02:00",
-      "episode_number": "S1 E1",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Gli egiziani svilupparono rituali elaborati, tombe massicce e persino incantesimi magici tramandati nel corso dei millenni. I romani erano tutti incentrati sullo sfarzo processionale e sulla grandezza. Le remote grotte di Mustang in Nepal custodiscono cadaveri millenari."
-    },
-    {
-      "show_name": "Viaggiatori Uno Sguardo Sul Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/viaggiatori-uno-sguardo-sul-mondo.webp",
-      "start_time": "2026-02-11 04:02:00",
-      "end_time": "2026-02-11 04:25:00",
-      "episode_number": "S1 E43",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Alla scoperta delle bellezze artistiche e naturali del mondo, dalla Polinesia all'Indonesia, dall'Africa ai Caraibi."
-    },
-    {
-      "show_name": "Waterworld Africa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/waterworld-africa.webp",
-      "start_time": "2026-02-11 04:25:00",
-      "end_time": "2026-02-11 05:11:00",
-      "episode_number": "S1 E7",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Nonostante molti ostacoli, un fiume trova sempre la sua strada dalla sorgente al mare come parte del ciclo dell'acqua terrestre. I fiumi nascono nelle montagne e sul tetto dell'Africa meridionale, le nuvole rilasciano la loro umidità contro le rocce rocciose delle montagne e la gravità sposta l'acqua in un viaggio contorto verso il mare. L'acqua a volte è bloccata sotto forma di ghiaccio sulla montagna per un certo periodo, ma in primavera inizia a sciogliersi. Le rane del fiume Maluti e i topi del ghiaccio si sono adattati per sopravvivere in queste acque ghiacciate. Le cascate si riversano in pozze profonde e le proprietà corrosive e abrasive dell'acqua del fiume erodono la dura roccia granitica, scavando valli e modificando il paesaggio mentre scorre. Alla base delle montagne, il fiume rallenta nelle terre pianeggianti e nella stagione secca la terra assorbe gran parte dell'acqua. Gli animali africani in via di estinzione fanno affidamento sul fiume per la sopravvivenza e un percors."
-    },
-    {
-      "show_name": "Killer Snake Island",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-11 05:11:00",
-      "end_time": "2026-02-11 06:01:00",
-      "episode_number": "",
-      "show_category": "Il regno Animale",
-      "show_description": "Su un'arida isola australiana, i letali serpenti tigre sopravvivono in un luogo ostile e spietato. Non c'è acqua fresca nè cibo. Vivono all'ombra di un brutale aggressore che becca i loro occhi per difendere la loro prole dalla fame feroce del serpente. Nonostante questo stanno prosperando e sono diventati giganti della loro specie. Ma perché sono qui e come prosperano in questo luogo desolato è rimasto un mistero… fino ad ora."
-    },
-    {
-      "show_name": "Lo Sapevi Che?",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-11 06:01:00",
-      "end_time": "2026-02-11 06:08:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Haven 1, progettata e costruita dalla societa' spaziale Vast, potrebbe essere la prima stazione spaziale occidentale ad affiancarsi a quella internazionale."
-    },
-    {
-      "show_name": "Luoghi Di Magnifica Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-11 06:08:00",
-      "end_time": "2026-02-11 06:13:00",
-      "episode_number": "S1 E29",
-      "show_category": "Viaggi",
-      "show_description": "Alla scoperta delle meraviglie del nostro Paese."
-    },
-    {
-      "show_name": "Monti Selvaggi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/monti-selvaggi.webp",
-      "start_time": "2026-02-11 06:13:00",
-      "end_time": "2026-02-11 07:00:00",
-      "episode_number": "S1 E2",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "In un luogo freddo, spoglio, praticamente invivibile nel Nord America trovano la loro ideale dimora le capre delle nevi e le marmotte canute. Come riescono a sopravvivere."
-    },
-    {
-      "show_name": "Viaggiatori Uno Sguardo Sul Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/viaggiatori-uno-sguardo-sul-mondo.webp",
-      "start_time": "2026-02-11 07:00:00",
-      "end_time": "2026-02-11 07:23:00",
-      "episode_number": "S1 E44",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Alla scoperta delle bellezze artistiche e naturali del mondo, dalla Polinesia all'Indonesia, dall'Africa ai Caraibi."
-    },
-    {
-      "show_name": "Unearthed La Storia Dalle Fondamenta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/unearthed-la-storia-dalle-fondamenta.webp",
-      "start_time": "2026-02-11 07:23:00",
-      "end_time": "2026-02-11 08:10:00",
-      "episode_number": "S2 E2",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "La Grande Sfinge di Giza è senza dubbio uno dei monumenti più iconici della storia. È possibile che la costruzione della Sfinge e dei templi che sorgevano lì davanti sia opera dello stesso faraone, Chefren, il quale non si limitò a far costruire questi maestosi monumenti, ma volle anche una statua il cui volto, per gli storici, sarebbe proprio il suo."
-    },
-    {
       "show_name": "Fuori Le Prove! Indagini Ai Confini Della Realta'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/fuori-le-prove-indagini-ai-confini-della-realta.webp",
-      "start_time": "2026-02-11 08:10:00",
-      "end_time": "2026-02-11 09:07:00",
-      "episode_number": "S4 E11",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313427201001304/media/1/1/0119531c-14ba-49ac-8b46-a8ddb54b3b58/6db4541d-a241-4322-a4b0-0ccdbee7ea84.jpg",
+      "start_time": "2026-02-12 16:58:00",
+      "end_time": "2026-02-12 17:59:00",
+      "episode_number": "S4 E13",
       "show_category": "Scienza e Tecnologia",
-      "show_description": "Gli esperti analizzano il caso di un mostruoso serpente marino avvistato nelle acque del Pacifico. Poi una strana formazione di UFO viene fotografata da un giovane negli anni'50. Uno fastidioso ronzio costante tormenta una cittadina canadese per 10 anni. Infine una insolita neve simile a polistirolo cade dal cielo."
-    },
-    {
-      "show_name": "Verso L'aldila' Riti, Misteri E Credenze Degli Antichi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/verso-l-aldila-riti-misteri-e-credenze-degli-antichi.webp",
-      "start_time": "2026-02-11 09:07:00",
-      "end_time": "2026-02-11 10:02:00",
-      "episode_number": "S1 E1",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Gli egiziani svilupparono rituali elaborati, tombe massicce e persino incantesimi magici tramandati nel corso dei millenni. I romani erano tutti incentrati sullo sfarzo processionale e sulla grandezza. Le remote grotte di Mustang in Nepal custodiscono cadaveri millenari."
-    },
-    {
-      "show_name": "Dinosauri Tra I Ghiacci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-11 10:02:00",
-      "end_time": "2026-02-11 11:17:00",
-      "episode_number": "",
-      "show_category": "Il regno Animale",
-      "show_description": "I dinosauri prosperavano in luoghi improbabili come il freddo e oscuro Circolo Polare Artico. Come? Scopriamolo insieme."
-    },
-    {
-      "show_name": "Cose Di Questo Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-11 11:17:00",
-      "end_time": "2026-02-11 12:17:00",
-      "episode_number": "S3 E3",
-      "show_category": "Scienza e Tecnologia",
-      "show_description": "A 800 km sopra l'Arizona, un satellite avvista degli strani puntini in prossimita' del parco del Gran Canyon, come se il terreno avesse una malattia infettiva."
-    },
-    {
-      "show_name": "Waterworld Africa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/waterworld-africa.webp",
-      "start_time": "2026-02-11 12:17:00",
-      "end_time": "2026-02-11 13:21:00",
-      "episode_number": "S1 E7",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Nonostante molti ostacoli, un fiume trova sempre la sua strada dalla sorgente al mare come parte del ciclo dell'acqua terrestre. I fiumi nascono nelle montagne e sul tetto dell'Africa meridionale, le nuvole rilasciano la loro umidità contro le rocce rocciose delle montagne e la gravità sposta l'acqua in un viaggio contorto verso il mare. L'acqua a volte è bloccata sotto forma di ghiaccio sulla montagna per un certo periodo, ma in primavera inizia a sciogliersi. Le rane del fiume Maluti e i topi del ghiaccio si sono adattati per sopravvivere in queste acque ghiacciate. Le cascate si riversano in pozze profonde e le proprietà corrosive e abrasive dell'acqua del fiume erodono la dura roccia granitica, scavando valli e modificando il paesaggio mentre scorre. Alla base delle montagne, il fiume rallenta nelle terre pianeggianti e nella stagione secca la terra assorbe gran parte dell'acqua. Gli animali africani in via di estinzione fanno affidamento sul fiume per la sopravvivenza e un percors."
-    },
-    {
-      "show_name": "Killer Snake Island",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-11 13:21:00",
-      "end_time": "2026-02-11 14:28:00",
-      "episode_number": "",
-      "show_category": "Il regno Animale",
-      "show_description": "Su un'arida isola australiana, i letali serpenti tigre sopravvivono in un luogo ostile e spietato. Non c'è acqua fresca nè cibo. Vivono all'ombra di un brutale aggressore che becca i loro occhi per difendere la loro prole dalla fame feroce del serpente. Nonostante questo stanno prosperando e sono diventati giganti della loro specie. Ma perché sono qui e come prosperano in questo luogo desolato è rimasto un mistero… fino ad ora."
-    },
-    {
-      "show_name": "Vita Da Soldati Nell'antica Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/vita-da-soldati-nell-antica-roma.webp",
-      "start_time": "2026-02-11 14:28:00",
-      "end_time": "2026-02-11 15:42:00",
-      "episode_number": "S1 E1",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Le scoperte di antichi accampamenti romani in tutta Europa stanno gettando nuova luce sulla vita dei loro soldati, i legionari."
-    },
-    {
-      "show_name": "Vita Da Soldati Nell'antica Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/vita-da-soldati-nell-antica-roma.webp",
-      "start_time": "2026-02-11 15:42:00",
-      "end_time": "2026-02-11 16:56:00",
-      "episode_number": "S1 E2",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Le scoperte di antichi accampamenti romani in tutta Europa stanno gettando nuova luce sulla vita dei loro soldati, i legionari."
-    },
-    {
-      "show_name": "Fuori Le Prove! Indagini Ai Confini Della Realta'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/fuori-le-prove-indagini-ai-confini-della-realta.webp",
-      "start_time": "2026-02-11 16:56:00",
-      "end_time": "2026-02-11 17:53:00",
-      "episode_number": "S4 E12",
-      "show_category": "Scienza e Tecnologia",
-      "show_description": "Delle foto in bianco e nero risalenti al 1951 sono la prova che la combustione spontanea esiste? Che cos'è il perenne suono martellante che affligge i residenti di Brooklyn? Una donna ha assistito all'abbattimento di un vero UFO nei cieli di Billings, nel Montana? Una termocamera ha ripreso una vera fata in volo? Tony Harris e il suo team di esperti indagano per scoprire la verità."
-    },
-    {
-      "show_name": "La Vita Segreta Delle Rane",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/la-vita-segreta-delle-rane.webp",
-      "start_time": "2026-02-11 17:53:00",
-      "end_time": "2026-02-11 19:12:00",
-      "episode_number": "",
-      "show_category": "Il regno Animale",
-      "show_description": "Tigri ed elefanti nel profondo della giungla dell'India; intrepidi esploratori che lavorano per salvare gli anfibi dell'India dalla tragedia di un'estinzione; i segreti della \"Rana Danzante\", una rana che si riproduce senza alcun contatto fisico."
-    },
-    {
-      "show_name": "Same Same But Different",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/same-same-but-different.webp",
-      "start_time": "2026-02-11 19:12:00",
-      "end_time": "2026-02-11 20:30:00",
-      "episode_number": "",
-      "show_category": "Il regno Animale",
-      "show_description": "La Terra ospita milioni di specie, dai microbi alla balenottera azzurra. Alcune sono strettamente imparentate, altre si somigliano senza esserlo: l'irace è parente dell'elefante, noi dei colugos, struzzi dei coccodrilli. Ma balene e squali balena? No! Perché l'evoluzione crea somiglianze senza parentela."
-    },
-    {
-      "show_name": "Enigmi Alieni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/enigmi-alieni.webp",
-      "start_time": "2026-02-11 20:30:00",
-      "end_time": "2026-02-11 21:20:00",
-      "episode_number": "S12 E32",
-      "show_category": "Spazio",
-      "show_description": "In ogni tradizione sacra nel mondo esiste un numero considerato divino. IL 12 non emerge solo nella Bibbia. La sua ricorrenza è solo un caso."
+      "show_description": "Da presunti esemplari di Megalodonti ancora vivi in Giappone, ad alieni che si alimentano di stelle. Misteriose figure tra le nuvole e una grotta Maya creata dagli alieni; e ancora cibi che girano da soli all'enigma delle luci sull'Hotel Bonaventure a strane luci nel cielo."
     },
     {
       "show_name": "Meraviglie Della Terra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/meraviglie-della-terra.webp",
-      "start_time": "2026-02-11 21:20:00",
-      "end_time": "2026-02-11 22:12:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311525001000304/media/25/89/5059ab24-55d5-4059-a922-d7ec1acae96a/af006f84-7946-4df5-a784-a5c1cfa6e823.jpg",
+      "start_time": "2026-02-12 17:59:00",
+      "end_time": "2026-02-12 19:03:00",
       "episode_number": "S3 E3",
       "show_category": "Meraviglie della Natura",
       "show_description": "Nel cuore delle terre selvagge del Centro America si distende una terra forgiata da una intensa attività vulcanica."
     },
     {
       "show_name": "Natura Meraviglie Senza Tempo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/natura-meraviglie-senza-tempo.webp",
-      "start_time": "2026-02-11 22:12:00",
-      "end_time": "2026-02-11 23:25:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312747001000102/media/20/84/d7edf0ad-b2e6-4176-aead-609d0469a497/62b0aa8a-a95c-4792-98f5-5818efa037eb.jpg",
+      "start_time": "2026-02-12 19:03:00",
+      "end_time": "2026-02-12 20:30:00",
       "episode_number": "S1 E1",
       "show_category": "Meraviglie della Natura",
       "show_description": "Scopriamo le varie e meravigliose sfaccettature della natura islandese, sempre in movimento e in continuo cambiamento."
     },
     {
-      "show_name": "Cronache Di Sangue La Storia Di Jack Lo Squartatore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/cronache-di-sangue-la-storia-di-jack-lo-squartatore.webp",
-      "start_time": "2026-02-11 23:25:00",
-      "end_time": "2026-02-12 00:29:00",
-      "episode_number": "S1 E3",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Mentre la paura attanaglia Whitechapel, il panico dilaga, spingendo Fred Best a falsificare un'altra lettera ed alimentare il mito di Jack lo squartatore."
+      "show_name": "Enigmi Alieni",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313797201000202/media/12/12/34d9aa63-c951-43c7-b6d4-2a1a65447dcf/f6d9f815-b714-4288-b9f0-f568e61fa538.jpg",
+      "start_time": "2026-02-12 20:30:00",
+      "end_time": "2026-02-12 21:20:00",
+      "episode_number": "S1 E2",
+      "show_category": "Spazio",
+      "show_description": "Strani codici nel grano ritrovati in tutto il mondo: meravigliosi disegni che si estendono per centinaia di metri. Queste tracce avvolte nel mistero contengono traccia di radiazioni."
+    },
+    {
+      "show_name": "Freedom Oltre Il Confine",
+      "show_logo": "",
+      "start_time": "2026-02-12 21:20:00",
+      "end_time": "2026-02-13 00:33:00",
+      "episode_number": "S1 E13",
+      "show_category": "Viaggi",
+      "show_description": "In questa puntata: visiteremo il Museo del Grande Torino, scopriremo i segreti della Sfinge, conosceremo la storia della Villa di Corliano, ammireremo da vicino l'arte di Giotto nella Cappella degli Scrovegni e racconteremo la vita dell'architetto Andrea Palladio."
     }
   ]
 }

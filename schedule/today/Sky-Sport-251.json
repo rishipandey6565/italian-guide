@@ -1,33 +1,33 @@
 {
   "channel_name": "Sky Sport  251",
-  "date": "2026-02-11",
+  "date": "2026-02-12",
   "programs": [
     {
-      "show_name": "Catania - Audace Cerignola",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/today/catania-audace-cerignola.webp",
-      "start_time": "2026-02-11 00:00:00",
-      "end_time": "2026-02-11 17:30:00",
-      "episode_number": "S2025 E263",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Massimino di Catania, Italia."
-    },
-    {
-      "show_name": "Alcione Milano - Ospitaletto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/today/alcione-milano-ospitaletto.webp",
-      "start_time": "2026-02-11 17:30:00",
-      "end_time": "2026-02-11 20:25:00",
-      "episode_number": "S2025 E261",
-      "show_category": "Sport",
-      "show_description": "Dall'Arena Civica Gianni Brera di Milano, Italia."
-    },
-    {
       "show_name": "Calcio Campionato Italiano Serie C - Ep. 268 - Calcio Serie C 26ga Girone A Pro Vercelli/ L.R. Vicenza 11/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/today/calcio-campionato-italiano-serie-c-ep-268-calcio-serie-c-26ga-girone-a-pro-vercelli-l-r-vicenza-11-02-2026.webp",
-      "start_time": "2026-02-11 20:25:00",
+      "show_logo": "https://guidatv.sky.it/uuid/4a944cfc-c77a-4c0b-82c2-31489152ec53/cover?territory=IT&md5ChecksumParam=554ba20750eabf7a6591ca83b5fe38a4",
+      "start_time": "2026-02-12 00:00:00",
       "end_time": "2026-02-12 17:30:00",
       "episode_number": "S2025 E268",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Silvio Piola di Vercelli, Italia."
+    },
+    {
+      "show_name": "Juventus Next Gen - Sambenedettese",
+      "show_logo": "https://guidatv.sky.it/uuid/88390879-281a-4c4b-9ea7-a332acf5be10/cover?territory=IT&md5ChecksumParam=b1ace8abf094ec7e9a167a1dd2307bd4",
+      "start_time": "2026-02-12 17:30:00",
+      "end_time": "2026-02-12 20:25:00",
+      "episode_number": "S2025 E261",
+      "show_category": "Sport",
+      "show_description": "Tutte le partite del campionato di Serie C italiano."
+    },
+    {
+      "show_name": "Calcio Campionato Italiano Serie C - Ep. 263 - Calcio Serie C 26ga Girone B Ternana/ Ravenna 12/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-12 20:25:00",
+      "end_time": "2026-02-13 20:00:00",
+      "episode_number": "S2025 E263",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Liberati di Terni, Italia."
     }
   ]
 }

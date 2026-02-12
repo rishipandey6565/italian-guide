@@ -1,33 +1,24 @@
 {
   "channel_name": "Sky Sport  252",
-  "date": "2026-02-12",
+  "date": "2026-02-13",
   "programs": [
     {
-      "show_name": "Union Brescia - Virtus Verona",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/tomorrow/union-brescia-virtus-verona.webp",
-      "start_time": "2026-02-12 00:00:00",
-      "end_time": "2026-02-12 17:30:00",
-      "episode_number": "S2025 E270",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Rigamonti di Brescia, Italia."
-    },
-    {
-      "show_name": "Guidonia Montecelio - Bra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/tomorrow/guidonia-montecelio-bra.webp",
-      "start_time": "2026-02-12 17:30:00",
-      "end_time": "2026-02-12 20:25:00",
-      "episode_number": "S2025 E260",
-      "show_category": "Sport",
-      "show_description": "Tutte le partite del campionato di Serie C italiano."
-    },
-    {
       "show_name": "Carpi - Arezzo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/tomorrow/carpi-arezzo.webp",
-      "start_time": "2026-02-12 20:25:00",
+      "show_logo": "https://guidatv.sky.it/uuid/cfc61fb0-be4e-4cf9-ab5a-5db054c75544/cover?territory=IT&md5ChecksumParam=59fe24356ba324804c7bf2290ca07bbf",
+      "start_time": "2026-02-13 00:00:00",
       "end_time": "2026-02-13 20:00:00",
       "episode_number": "S2025 E257",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Cabassi di Carpi, Italia."
+    },
+    {
+      "show_name": "Genzano - Catania",
+      "show_logo": "https://guidatv.sky.it/uuid/50679e81-b1e1-4e3e-95c2-261c9966b049/cover?territory=IT&md5ChecksumParam=e69189d8768b1c985da73d84e39eee80",
+      "start_time": "2026-02-13 20:00:00",
+      "end_time": "2026-02-14 14:00:00",
+      "episode_number": "S2025 E20",
+      "show_category": "Sport",
+      "show_description": "Segui la partita di calcio a 5 in programma."
     }
   ]
 }

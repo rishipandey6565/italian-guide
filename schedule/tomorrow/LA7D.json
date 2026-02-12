@@ -1,204 +1,132 @@
 {
   "channel_name": "LA7D",
-  "date": "2026-02-12",
+  "date": "2026-02-13",
   "programs": [
     {
-      "show_name": "Coco Chanel & Igor Stravinsky",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/coco-chanel-igor-stravinsky.webp",
-      "start_time": "2026-02-12 00:00:00",
-      "end_time": "2026-02-12 01:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Appassionata all'opera di Igor Stravinsky, Coco Chanel lo protegge nella sua villa durante la rivoluzione bolscevica..."
-    },
-    {
-      "show_name": "Don't Say a Word",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/don-t-say-a-word.webp",
-      "start_time": "2026-02-12 01:15:00",
-      "end_time": "2026-02-12 03:20:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Un thriller che setaccia i misteri dell'inconscio. Michael Douglas e' uno psichiatra vittima di un ricatto: alcuni criminali rapiscono sua figlia; in cambio dovra' carpire un prezioso segreto ad una ragazza malata di mente."
-    },
-    {
-      "show_name": "Vite da Star - Stag. 1 Ep. 1 - Marilyn Monroe",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 03:20:00",
-      "end_time": "2026-02-12 04:15:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La storia delle star piu' famose al mondo. Attraverso immagini e interviste, ripercorriamo la loro brillante carriera e i loro successi sul grande schermo."
-    },
-    {
-      "show_name": "Uozzap Cinema - Stag. 20 Ep. 3",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 04:15:00",
-      "end_time": "2026-02-12 04:50:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "'La TV in chat' che seleziona i momenti piu' divertenti e ironici dei personaggi piu' amati della televisione."
-    },
-    {
-      "show_name": "Documentario",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/documentario.webp",
-      "start_time": "2026-02-12 04:50:00",
-      "end_time": "2026-02-12 06:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Fascia dedicata al documentario."
-    },
-    {
-      "show_name": "Oroscopo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/oroscopo.webp",
-      "start_time": "2026-02-12 06:00:00",
-      "end_time": "2026-02-12 06:05:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La lettura dell'oroscopo del giorno per tutti i segni zodiacali."
-    },
-    {
-      "show_name": "Meteo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/meteo.webp",
-      "start_time": "2026-02-12 06:05:00",
-      "end_time": "2026-02-12 06:10:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia."
-    },
-    {
-      "show_name": "Oroscopo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/oroscopo.webp",
-      "start_time": "2026-02-12 06:10:00",
-      "end_time": "2026-02-12 06:15:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La lettura dell'oroscopo del giorno per tutti i segni zodiacali."
-    },
-    {
-      "show_name": "Meteo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/meteo.webp",
-      "start_time": "2026-02-12 06:15:00",
-      "end_time": "2026-02-12 06:20:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia."
-    },
-    {
-      "show_name": "Oroscopo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/oroscopo.webp",
-      "start_time": "2026-02-12 06:20:00",
-      "end_time": "2026-02-12 06:25:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La lettura dell'oroscopo del giorno per tutti i segni zodiacali."
-    },
-    {
-      "show_name": "Tg La7",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/tg-la7.webp",
-      "start_time": "2026-02-12 06:25:00",
-      "end_time": "2026-02-12 06:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
-    },
-    {
-      "show_name": "Josephine, ange gardien",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/josephine-ange-gardien.webp",
-      "start_time": "2026-02-12 06:30:00",
-      "end_time": "2026-02-12 08:20:00",
-      "episode_number": "S11 E3",
-      "show_category": "Intrattenimento",
-      "show_description": "Josephine appare sulla soglia di un castello dove una famiglia vive nella paura di una maledizione che risale al Medioevo."
-    },
-    {
-      "show_name": "Josephine, ange gardien",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/josephine-ange-gardien.webp",
-      "start_time": "2026-02-12 08:20:00",
-      "end_time": "2026-02-12 10:25:00",
-      "episode_number": "S11 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "Broadway - Josephine aiuta Olympus, che passa di provino in provino terrorizzata dall'ansia da palcoscenico. Questa volta e' ancora piu' dura, si tratta del musical Parigi-Broadway!"
-    },
-    {
-      "show_name": "World Trade Center",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/world-trade-center.webp",
-      "start_time": "2026-02-12 10:25:00",
-      "end_time": "2026-02-12 12:45:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Oliver Stone dirige Nicolas Cage e racconta la tragedia dell'11 settembre. Durante le operazioni di salvataggio, due poliziotti rimangono intrappolati fra le macerie delle Torri Gemelle."
-    },
-    {
-      "show_name": "L'ultimo lupo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/l-ultimo-lupo.webp",
-      "start_time": "2026-02-12 12:45:00",
-      "end_time": "2026-02-12 14:55:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Jean-Jacques Annaud dirige un'avventurosa storia di coraggio e amicizia. Durante la Rivoluzione Culturale, uno studente cinese cerca di salvare un cucciolo di lupo dal governo."
-    },
-    {
-      "show_name": "Panic Room",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/panic-room.webp",
-      "start_time": "2026-02-12 14:55:00",
-      "end_time": "2026-02-12 17:00:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Thriller di David Fincher con Jodie Foster, Kristen Stewart e Jared Leto. Sorprese in casa dai ladri, madre e figlia si rifugiano in una stanza blindata che tuttavia contiene l'ambito caveau."
-    },
-    {
-      "show_name": "Tre scapoli e un bebe'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/tre-scapoli-e-un-bebe.webp",
-      "start_time": "2026-02-12 17:00:00",
-      "end_time": "2026-02-12 17:50:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Tom Selleck, Ted Danson e Steve Guttenberg in una commedia piena di brio e gag spassose. Peter, Michael e Paul, playboy e scapoli impenitenti, si ritrovano una bambina neonata davanti alla porta dell'appartamento nel quale vivono assieme. La piccola, lasciata dalla madre, e' la figlia di Paul e inevitabilmente finira' per sconvolgere le loro vite in una baraonda di equivoci. I tre, tra mille difficolta', pappe e insonnie, piano piano si trasformano in adorabili papa'. Remake del film francese \"Tre uomini e una culla\", di Coline Serreau."
-    },
-    {
-      "show_name": "Tg La7",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/tg-la7.webp",
-      "start_time": "2026-02-12 17:50:00",
-      "end_time": "2026-02-12 17:55:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
-    },
-    {
-      "show_name": "Tre scapoli e un bebe'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/tre-scapoli-e-un-bebe.webp",
-      "start_time": "2026-02-12 17:55:00",
-      "end_time": "2026-02-12 19:00:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Tom Selleck, Ted Danson e Steve Guttenberg in una commedia piena di brio e gag spassose. Peter, Michael e Paul, playboy e scapoli impenitenti, si ritrovano una bambina neonata davanti alla porta dell'appartamento nel quale vivono assieme. La piccola, lasciata dalla madre, e' la figlia di Paul e inevitabilmente finira' per sconvolgere le loro vite in una baraonda di equivoci. I tre, tra mille difficolta', pappe e insonnie, piano piano si trasformano in adorabili papa'. Remake del film francese \"Tre uomini e una culla\", di Coline Serreau."
-    },
-    {
-      "show_name": "Diritto di cronaca",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 19:00:00",
-      "end_time": "2026-02-12 21:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "L'omicidio di un sindacalista a Miami fa tirare fuori gli artigli ad una giovane giornalista d'assalto. Il suo coinvolgimento nelle indagini peggiorera' le cose."
-    },
-    {
-      "show_name": "Identikit di un delitto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 21:15:00",
-      "end_time": "2026-02-12 23:05:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Dal regista di \"Infernal Affairs\", un thriller con Richard Gere e Claire Danes. Un detective disilluso coinvolge la giovane collega nella ricerca di una ragazza rapita da un maniaco."
-    },
-    {
       "show_name": "Doppio taglio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/LA7D/tomorrow/doppio-taglio.webp",
-      "start_time": "2026-02-12 23:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/2cce5552-e3c4-4828-9fa7-2b1e70ab0628/cover?territory=IT&md5ChecksumParam=2484b6070cc99f56e3f09c05490f547f",
+      "start_time": "2026-02-13 00:00:00",
       "end_time": "2026-02-13 01:10:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Il premio Oscar Jeff Bridges sul banco degli imputati in un thriller processuale con Glenn Close. Un ricco editore viene accusato dell'omicidio della moglie e della cameriera. Le prove sembrano schiaccianti, ma lui sostiene la sua innocenza. Un'agguerrita avvocatessa, all'inizio riluttante, assume la sua difesa. Finira' con l'innamorarsi del suo cliente, ma durante il processo alcune contraddizioni, sempre piu' numerose ed evidenti, la portano a dubitare dell'innocenza del suo assistito. Ultimo film diretto da Richard Marquand, prima della sua scomparsa."
+    },
+    {
+      "show_name": "Il grande freddo",
+      "show_logo": "https://guidatv.sky.it/uuid/e039d6f2-ec0f-4798-9252-c82c669a9a86/cover?territory=IT&md5ChecksumParam=8132d554280d2ede70ec760275e30eee",
+      "start_time": "2026-02-13 01:10:00",
+      "end_time": "2026-02-13 06:00:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Dramma generazionale che ha fatto epoca, con una memorabile colonna sonora e un cast stellare. Un gruppo di ex-studenti degli anni '60 si riunisce dopo molto tempo per il funerale di un amico suicida. Sarà l'occasione per un nostalgico amarcord, ma soprattutto per tracciare un amaro bilancio delle proprie vite e dei propri sogni infranti. Una curiosità passata alla storia: il ruolo del defunto fu assegnato a Kevin Costner ma le scene da lui interpretate sono state tagliate, con l'eccezione della sequenza iniziale. Diretto da Lawrence Kasdan, alla sua seconda regia dopo \"Brivido caldo\"."
+    },
+    {
+      "show_name": "Oroscopo",
+      "show_logo": "https://guidatv.sky.it/uuid/27865c78-a80f-437d-8417-75125db86915/cover?territory=IT&md5ChecksumParam=c274430f5bf1729f8fd685f7ae02f415",
+      "start_time": "2026-02-13 06:00:00",
+      "end_time": "2026-02-13 06:05:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La lettura dell'oroscopo del giorno per tutti i segni zodiacali."
+    },
+    {
+      "show_name": "Tg La7",
+      "show_logo": "https://guidatv.sky.it/uuid/9746f404-e911-432d-b5de-6aa9b54f6c76/cover?territory=IT&md5ChecksumParam=b22d7d1d07ae1f8d98fafcfd3520e0be",
+      "start_time": "2026-02-13 06:05:00",
+      "end_time": "2026-02-13 06:10:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
+    },
+    {
+      "show_name": "Josephine, ange gardien",
+      "show_logo": "https://guidatv.sky.it/uuid/e27a6098-c02c-4c20-9347-d884887a1cd6/cover?territory=IT&md5ChecksumParam=a9cb7e8cc16960076fd7ec2d760ec792",
+      "start_time": "2026-02-13 06:10:00",
+      "end_time": "2026-02-13 08:00:00",
+      "episode_number": "S11 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "Josephine va nel Medioevo per dare una mano a Eleonor, una giovane donna che e' all'origine di una maledizione che incombe su tutti i suoi discendenti."
+    },
+    {
+      "show_name": "Josephine, ange gardien",
+      "show_logo": "https://guidatv.sky.it/uuid/b4f6e5dd-5d47-45e5-98b9-7bd8691db272/cover?territory=IT&md5ChecksumParam=5624eb551b4b09f5e3ec3c4d50e49947",
+      "start_time": "2026-02-13 08:00:00",
+      "end_time": "2026-02-13 09:45:00",
+      "episode_number": "S12 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Josephine sbarca in Asia e deve aiutare una coppia, Emilie e Victor, che vuole adottare una bambina, ma il cui dossier e' stato perso dall'agenzia."
+    },
+    {
+      "show_name": "Dentro la notizia",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-13 09:45:00",
+      "end_time": "2026-02-13 12:15:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Storie di carriera, cinismo e amore fra tre giornalisti televisivi, uno bravo, uno in carriera e una donna divisa tra i due."
+    },
+    {
+      "show_name": "L'amore ha due facce",
+      "show_logo": "https://guidatv.sky.it/uuid/875ec29d-63f7-4a44-a0fd-f36caf824db4/cover?territory=IT&md5ChecksumParam=fc70609c11115d82373ce261460c0302",
+      "start_time": "2026-02-13 12:15:00",
+      "end_time": "2026-02-13 16:35:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Barbra Streisand dirige e interpreta con Lauren Bacall e Jeff Bridges una commedia sulla ricerca dell'anima gemella. Greg e Rose sono due insegnanti alla Columbia University: lui insegna matematica, lei letteratura romantica anche se nella sua vita di romanticismo non c'e' traccia; lui, ferito dalle passate delusioni sentimentali, vuole un rapporto esclusivamente platonico; lei, non particolarmente bella, accetta di vivere una relazione basata sull'amicizia e il rispetto reciproco. Ma il matrimonio bianco avra' inaspettati sviluppi..."
+    },
+    {
+      "show_name": "Mogambo",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-13 16:35:00",
+      "end_time": "2026-02-13 17:35:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Una spedizione guidata da un cacciatore bianco si inoltra nella giungla alla ricerca di un gorilla. L'eccitazione per la caccia all'animale si mescola agli intrecci sentimentali fra i partecipanti al safari."
+    },
+    {
+      "show_name": "Tg La7",
+      "show_logo": "https://guidatv.sky.it/uuid/9746f404-e911-432d-b5de-6aa9b54f6c76/cover?territory=IT&md5ChecksumParam=b22d7d1d07ae1f8d98fafcfd3520e0be",
+      "start_time": "2026-02-13 17:35:00",
+      "end_time": "2026-02-13 17:40:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7."
+    },
+    {
+      "show_name": "Mogambo",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-13 17:40:00",
+      "end_time": "2026-02-13 18:55:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Una spedizione guidata da un cacciatore bianco si inoltra nella giungla alla ricerca di un gorilla. L'eccitazione per la caccia all'animale si mescola agli intrecci sentimentali fra i partecipanti al safari."
+    },
+    {
+      "show_name": "Suspect - Presunto colpevole",
+      "show_logo": "https://guidatv.sky.it/uuid/dcaab994-7dfa-477f-bdd0-77140ff18b85/cover?territory=IT&md5ChecksumParam=283003a5903c837aa59be63d71e2d79a",
+      "start_time": "2026-02-13 18:55:00",
+      "end_time": "2026-02-13 21:15:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Il premio Oscar Cher in un teso thriller giudiziario con Dennis Quaid e Liam Neeson. Una tenace avvocatessa difende un barbone sordomuto accusato d'omicidio e collabora con uno dei giurati per scoprire il vero colpevole. Un colpo di scena inaspettato stravolgerà il verdetto."
+    },
+    {
+      "show_name": "The 33",
+      "show_logo": "https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png",
+      "start_time": "2026-02-13 21:15:00",
+      "end_time": "2026-02-13 23:30:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "La disperata lotta per la sopravvivenza di 33 minatori, intrappolati per oltre due mesi all'interno di una miniera d'oro in Cile."
+    },
+    {
+      "show_name": "A Bigger Splash",
+      "show_logo": "https://guidatv.sky.it/uuid/c09464ae-1017-4dda-b641-cade13bc5533/cover?territory=IT&md5ChecksumParam=f11335ade2d439ca0ec76d3bc838632f",
+      "start_time": "2026-02-13 23:30:00",
+      "end_time": "2026-02-14 01:45:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Thriller di Luca Guadagnino con Ralph Fiennes, Dakota Johnson e Tilda Swinton. Pantelleria: il soggiorno di una rockstar e del fidanzato viene turbato dall'arrivo di un ex amante."
     }
   ]
 }

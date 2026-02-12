@@ -1,258 +1,348 @@
 {
   "channel_name": "HGTV",
-  "date": "2026-02-12",
+  "date": "2026-02-13",
   "programs": [
     {
-      "show_name": "Donne in affari - 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 00:00:00",
-      "end_time": "2026-02-12 00:00:00",
-      "episode_number": "S8 E2",
-      "show_category": "",
-      "show_description": "Santuario segreto - Mina e il team devono attirare gli acquirenti piu' esigenti della zona."
-    },
-    {
-      "show_name": "Donne in affari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 00:00:00",
-      "end_time": "2026-02-12 01:05:00",
-      "episode_number": "S7 E13",
-      "show_category": "",
-      "show_description": "Raddoppio - Dopo il suo ultimo successo, Mina decide di creare una proprieta' simile."
-    },
-    {
-      "show_name": "Ma che casa ho comprato?",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 01:05:00",
-      "end_time": "2026-02-12 02:10:00",
-      "episode_number": "S1 E5",
-      "show_category": "",
-      "show_description": "Il garage - Una famiglia deve sistemare un garage pieno di cose strane e una casa ricca di problemi."
-    },
-    {
-      "show_name": "Ma che casa ho comprato?",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 02:10:00",
-      "end_time": "2026-02-12 03:15:00",
-      "episode_number": "S1 E6",
-      "show_category": "",
-      "show_description": "Bambini e caos - Una casa e' piena di roba. Kim cerca di ricavare qualche spazio."
-    },
-    {
-      "show_name": "Ma che casa ho comprato?",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 03:15:00",
-      "end_time": "2026-02-12 04:15:00",
-      "episode_number": "S1 E7",
-      "show_category": "",
-      "show_description": "Vecchio e nuovo - Una coppia ama la loro vecchia casa, ma vorrebbe anche ispirarsi a uno stile piu' moderno."
-    },
-    {
-      "show_name": "Ma che casa ho comprato?",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 04:15:00",
-      "end_time": "2026-02-12 05:10:00",
-      "episode_number": "S2 E1",
-      "show_category": "",
-      "show_description": "Un ranch da sogno - Kim e la sua squadra cercano di sistemare i disastri in un ranch."
-    },
-    {
-      "show_name": "Una coppia in affari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 05:10:00",
-      "end_time": "2026-02-12 05:35:00",
-      "episode_number": "S4 E8",
-      "show_category": "",
-      "show_description": "Che disastro! - Tarek e Christina adocchiano una casa occupata ma in cattivo stato a La Puente. Se l'acquisteranno al prezzo giusto, potrebbe fruttare molto. La salveranno o affondera del tutto?"
-    },
-    {
-      "show_name": "Una coppia in affari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 05:35:00",
-      "end_time": "2026-02-12 06:00:00",
-      "episode_number": "S4 E9",
-      "show_category": "",
-      "show_description": "Un diamante tra i vetri - Tarek e Christina trovano una casetta in un grazioso quartiere di Costa Mesa, in California. Riusciranno a trasformare questo brutto anatroccolo in un cigno in riva al mare?"
-    },
-    {
-      "show_name": "A caccia di occasioni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 06:00:00",
-      "end_time": "2026-02-12 06:25:00",
-      "episode_number": "S1 E4",
-      "show_category": "",
-      "show_description": "Numero fortunato - Due stilisti affrontano una squadra di sorelle nella trasformazione di oggetti di seconda mano. Dopo aver scoperto alcune cose preziose, tentano di sistemarle."
-    },
-    {
-      "show_name": "A caccia di occasioni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 06:25:00",
-      "end_time": "2026-02-12 06:50:00",
-      "episode_number": "S1 E5",
-      "show_category": "",
-      "show_description": "Brooklyn - La sfida e' tra due designer e una squadra di esperti di trasformazioni al mercatino delle pulci di Brooklyn. Chi vincera' i 5.000 dollari in palio?"
-    },
-    {
-      "show_name": "A caccia di occasioni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 06:50:00",
-      "end_time": "2026-02-12 07:15:00",
-      "episode_number": "S1 E6",
-      "show_category": "",
-      "show_description": "Mobili - La sfida e' tra una squadra di amici creativi e una di design blogger per sistemare dei mobili di seconda mano e trasformare vecchi pezzi da esterni. Chi otterra' il premio?"
-    },
-    {
-      "show_name": "C'era una volta casa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 07:15:00",
-      "end_time": "2026-02-12 08:10:00",
-      "episode_number": "S4 E10",
-      "show_category": "",
-      "show_description": "Casa vacanze - Ben ed Erin aiutano una coppia a trovare una casa per le vacanze abbastanza grande in cui potersi divertire. I due creano un'enorme cucina."
-    },
-    {
-      "show_name": "C'era una volta casa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 08:10:00",
-      "end_time": "2026-02-12 09:05:00",
-      "episode_number": "S4 E11",
-      "show_category": "",
-      "show_description": "Casa storica - Erin e Ben sistemano un cottage degli anni '20 per riportarlo al suo antico splendore. I due pensano anche a delle strutture in legno."
-    },
-    {
-      "show_name": "C'era una volta casa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 09:05:00",
-      "end_time": "2026-02-12 10:05:00",
-      "episode_number": "S4 E12",
-      "show_category": "",
-      "show_description": "Termiti - Ben ed Erin devono rinnovare la sua antica casa. Ma i due incontrano un problema inaspettato che potrebbe bloccare l'intero progetto."
-    },
-    {
-      "show_name": "C'era una volta casa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 10:05:00",
-      "end_time": "2026-02-12 11:05:00",
-      "episode_number": "S7 E15",
-      "show_category": "",
-      "show_description": "Il cottage - Una madre single desidera una casa accogliente come quella in cui e' cresciuta."
-    },
-    {
-      "show_name": "C'era una volta casa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 11:05:00",
-      "end_time": "2026-02-12 12:05:00",
-      "episode_number": "S7 E16",
-      "show_category": "",
-      "show_description": "Benvenuti a Laurel - Ben ed Erin aiutano a trasformare un edificio storico e un alloggio popolare."
-    },
-    {
-      "show_name": "Case da favola con Chelsea e Cole",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 12:05:00",
-      "end_time": "2026-02-12 13:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "",
-      "show_description": "Stile francese - Chelsea e Cole devono sistemare il bungalow anni '20 di una persona a loro molto cara."
-    },
-    {
-      "show_name": "Case da favola con Chelsea e Cole",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 13:00:00",
-      "end_time": "2026-02-12 14:00:00",
-      "episode_number": "S1 E4",
-      "show_category": "",
-      "show_description": "Stile industriale - Chelsea e Cole si occupano della casa di due dentisti che non temono di osare."
-    },
-    {
-      "show_name": "La mia casa da sogno in 100 giorni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 14:00:00",
-      "end_time": "2026-02-12 15:00:00",
-      "episode_number": "S2 E5",
-      "show_category": "",
-      "show_description": "Fascino - Negli ultimi dieci anni, una famiglia di quattro persone ha cambiato sei case. Brian e Mika li aiutano a costruire la loro casa dei sogni."
-    },
-    {
-      "show_name": "La mia casa da sogno in 100 giorni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 15:00:00",
-      "end_time": "2026-02-12 16:00:00",
-      "episode_number": "S2 E6",
-      "show_category": "",
-      "show_description": "Nella Grande Mela - Una coppia amante del divertimento e' stanca del loro appartamento a Brooklyn. Brian e Mika aiutano i due a trasferirsi vicino alla famiglia in Florida."
-    },
-    {
-      "show_name": "La mia casa da sogno in 100 giorni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 16:00:00",
-      "end_time": "2026-02-12 17:00:00",
-      "episode_number": "S2 E7",
-      "show_category": "",
-      "show_description": "Il viaggiatore - Un appassionato di viaggi e' finalmente pronto a fermarsi e a vivere con la sua fidanzata. Brian e Mika hanno solo 100 giorni per terminare il progetto."
-    },
-    {
-      "show_name": "La mia casa da sogno in 100 giorni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 17:00:00",
-      "end_time": "2026-02-12 18:00:00",
-      "episode_number": "S2 E8",
-      "show_category": "",
-      "show_description": "Il sogno di Brian e Mika - Dopo aver aiutato centinaia di clienti, Brian e Mika sono pronti a costruire la loro casa dei sogni. I due devono scendere a compromessi."
-    },
-    {
-      "show_name": "Sogni in costruzione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 18:00:00",
-      "end_time": "2026-02-12 19:00:00",
-      "episode_number": "S2 E13",
-      "show_category": "",
-      "show_description": "Casa rosa - Un'insegnante e' tornata a Bentonville per acquistare la sua prima casa. Dave e Jenny trasformano la struttura fatiscente in una casa dei sogni tutta colorata."
-    },
-    {
-      "show_name": "Sogni in costruzione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 19:00:00",
-      "end_time": "2026-02-12 20:00:00",
-      "episode_number": "S3 E1",
-      "show_category": "",
-      "show_description": "Rifugio sul lago - Una coppia ha acquistato una proprieta' con una splendida vista sul lago. Dave e Jenny devono trasformarla in una casa adatta anche ai bambini."
-    },
-    {
-      "show_name": "Sogni in costruzione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 20:00:00",
-      "end_time": "2026-02-12 21:00:00",
-      "episode_number": "S3 E2",
-      "show_category": "",
-      "show_description": "Dagli anni '90 a oggi - Un padre spera di sistemare il suo appartamento in un luogo adatto a lui e ai suoi due figli. Dave e Jenny intervengono con le loro idee."
-    },
-    {
-      "show_name": "Sogni in costruzione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 21:00:00",
-      "end_time": "2026-02-12 22:00:00",
-      "episode_number": "S3 E3",
-      "show_category": "",
-      "show_description": "Chalet moderno - Una coppia non ha sistemato la propria casa a causa dei problemi di salute. Dave e Jenny arrivano per rinnovare la cucina e creare un porticato accogliente."
-    },
-    {
-      "show_name": "Sogni in costruzione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 22:00:00",
-      "end_time": "2026-02-12 23:00:00",
-      "episode_number": "S3 E4",
-      "show_category": "",
-      "show_description": "I sogni diventano realta' - Una coppia aveva acquistato una casa sul lago, ma la spaziosa proprieta' deve essere sistemata. Dave e Jenny la trasformano in un'oasi moderna."
-    },
-    {
       "show_name": "Turisti per case",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-12 23:00:00",
+      "show_logo": "",
+      "start_time": "2026-02-13 00:00:00",
       "end_time": "2026-02-13 00:00:00",
       "episode_number": "S1 E5",
       "show_category": "",
       "show_description": "St.1 Ep.5 - In questa puntata, Gianluca portera' Ida e Tommaso in Veneto tra lusso e dimore storiche."
+    },
+    {
+      "show_name": "Turisti per case",
+      "show_logo": "",
+      "start_time": "2026-02-13 00:00:00",
+      "end_time": "2026-02-13 00:10:00",
+      "episode_number": "S1 E5",
+      "show_category": "",
+      "show_description": "St.1 Ep.5 - In questa puntata, Gianluca portera' Ida e Tommaso in Veneto tra lusso e dimore storiche."
+    },
+    {
+      "show_name": "Turisti per case",
+      "show_logo": "",
+      "start_time": "2026-02-13 00:10:00",
+      "end_time": "2026-02-13 01:20:00",
+      "episode_number": "S1 E4",
+      "show_category": "",
+      "show_description": "St.1 Ep.4 - In Piemonte, Tommaso fara' scoprire a Ida e Gianluca due strutture piene di fascino."
+    },
+    {
+      "show_name": "Sogni in costruzione",
+      "show_logo": "",
+      "start_time": "2026-02-13 01:20:00",
+      "end_time": "2026-02-13 02:15:00",
+      "episode_number": "S3 E7",
+      "show_category": "",
+      "show_description": "Casa con piscina - Paul vuole trasformare il suo appartamento da scapolo in una casa in cui divertirsi. Dave e Jenny sistemano l'abitazione secondo lo stile scelto dal cliente."
+    },
+    {
+      "show_name": "Sogni in costruzione",
+      "show_logo": "",
+      "start_time": "2026-02-13 02:15:00",
+      "end_time": "2026-02-13 03:10:00",
+      "episode_number": "S3 E8",
+      "show_category": "",
+      "show_description": "Il bungalow - Dave e Jenny Marrs restaurano case storiche a Bentonville, in Arkansas. La coppia creativa trasforma le abitazioni in vista di potenziali acquirenti."
+    },
+    {
+      "show_name": "Sogni in costruzione",
+      "show_logo": "",
+      "start_time": "2026-02-13 03:10:00",
+      "end_time": "2026-02-13 04:05:00",
+      "episode_number": "S3 E9",
+      "show_category": "",
+      "show_description": "Cottage vittoriano - Una coppia ama la propria casa in stile vittoriano, ma le stanze sono troppo piccole. Dave e Jenny tentano di realizzare spazi piu' ampi."
+    },
+    {
+      "show_name": "Sogni in costruzione",
+      "show_logo": "",
+      "start_time": "2026-02-13 04:05:00",
+      "end_time": "2026-02-13 05:00:00",
+      "episode_number": "S3 E10",
+      "show_category": "",
+      "show_description": "Sorpresa per le vacanze - Gli esperti sistemano un rifugio per animali creando nuove cucce e spazi per i gatti. Dopo i lavori, organizzano un evento per adottare le creature."
+    },
+    {
+      "show_name": "Una coppia in affari",
+      "show_logo": "",
+      "start_time": "2026-02-13 05:00:00",
+      "end_time": "2026-02-13 05:30:00",
+      "episode_number": "S10 E2",
+      "show_category": "",
+      "show_description": "Anhaeim - Tarek e Christina si occupano di una casa in Anaheim. La struttura ha delle aggiunte che potrebbero, in seguito, creare problemi. Riusciranno a rispettare il budget?"
+    },
+    {
+      "show_name": "Una coppia in affari",
+      "show_logo": "",
+      "start_time": "2026-02-13 05:30:00",
+      "end_time": "2026-02-13 06:00:00",
+      "episode_number": "S5 E2",
+      "show_category": "",
+      "show_description": "Un affare con stretto margine di guadagno - Tarek e Christina sono contattati dall'amico e investitore Pete, che ha gia' acquistato una casa ad Anaheim e vuole coinvolgerli in un affare veloce e di modesto profitto."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 06:00:00",
+      "end_time": "2026-02-13 06:30:00",
+      "episode_number": "S1 E1",
+      "show_category": "",
+      "show_description": "Prezzo alto - Rick e Lorie hanno vinto 180 milioni di dollari alla lotteria. I due ora cercano la casa dei sogni nella Contea di Riverside, in California."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 06:30:00",
+      "end_time": "2026-02-13 06:55:00",
+      "episode_number": "S1 E2",
+      "show_category": "",
+      "show_description": "Il cane - Joe e Rhonda hanno vinto poco meno di 12 milioni di dollari alla lotteria. I due ora cercano una nuova casa dei sogni vicino alla bellissima Stillwater."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 06:55:00",
+      "end_time": "2026-02-13 07:20:00",
+      "episode_number": "S1 E3",
+      "show_category": "",
+      "show_description": "Matrimonio - David Bromstad, esperto di design, si occupa dei vincitori della lotteria del New Jersey che vogliono acquistare la casa perfetta per la loro famiglia."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 07:20:00",
+      "end_time": "2026-02-13 07:45:00",
+      "episode_number": "S1 E4",
+      "show_category": "",
+      "show_description": "Casa dei sogni - David Bromstad, esperto di design, si occupa di una coppia che ha vinto 5 milioni di dollari alla lotteria e che ora cerca la casa perfetta per la loro famiglia."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 07:45:00",
+      "end_time": "2026-02-13 08:15:00",
+      "episode_number": "S1 E5",
+      "show_category": "",
+      "show_description": "In California - La malattia di famiglia e la disoccupazione costringono una coppia di mezza eta' a trasferirsi con la madre. Ma tutto cambia quando vincono un milione di dollari con un gratta e vinci!"
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 08:15:00",
+      "end_time": "2026-02-13 08:40:00",
+      "episode_number": "S1 E6",
+      "show_category": "",
+      "show_description": "Casa con vista - David Bromstad, esperto di design, si occupa di un agente immobiliare della Florida che cerca una casa lussuosa a Jacksonville."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 08:40:00",
+      "end_time": "2026-02-13 09:10:00",
+      "episode_number": "S1 E7",
+      "show_category": "",
+      "show_description": "Negli Hamptons - David Bromstad, esperto di design, si occupa dei vincitori della lotteria, che hanno a disposizione 20 milioni di dollari per trovare la loro casa dei sogni negli Hamptons!"
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 09:10:00",
+      "end_time": "2026-02-13 09:35:00",
+      "episode_number": "S1 E8",
+      "show_category": "",
+      "show_description": "In centro - Una donna conquista finalmente la sua indipendenza e acquista una casa di lusso dopo aver vinto 5 milioni di dollari alla lotteria."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 09:35:00",
+      "end_time": "2026-02-13 10:00:00",
+      "episode_number": "S1 E9",
+      "show_category": "",
+      "show_description": "Casa per le vacanze - Dopo aver vinto un milione di dollari, una famiglia cerca una casa in Alabama. Visitano un'abitazione sulla spiaggia, una su una laguna con accesso privato e un appartamento."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 10:00:00",
+      "end_time": "2026-02-13 10:25:00",
+      "episode_number": "S1 E10",
+      "show_category": "",
+      "show_description": "A Las Vegas - L'ex pugile professionista Damian, noto come 'BOLO', aveva attraversato momenti duri in California prima di vincere un milione di dollari a un gratta e vinci. Ora, cerca una casa a Las Vegas."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 10:25:00",
+      "end_time": "2026-02-13 10:55:00",
+      "episode_number": "S1 E11",
+      "show_category": "",
+      "show_description": "La ricerca - Una coppia ha vinto due milioni di dollari alla lotteria, due anni dopo aver vinto un premio ben diverso! I due cercano una casa grande a Columbus, in Ohio per una vita memorabile."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 10:55:00",
+      "end_time": "2026-02-13 11:20:00",
+      "episode_number": "S1 E12",
+      "show_category": "",
+      "show_description": "In Texas - Una coppia e' pronta a spendere 8 milioni di dollari, il premio vinto alla lotteria, acquistando una casa dei sogni su un lago in Texas. Quale acquisteranno?"
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 11:20:00",
+      "end_time": "2026-02-13 11:45:00",
+      "episode_number": "S2 E1",
+      "show_category": "",
+      "show_description": "Indiana - Craig aveva difficolta' ad arrivare a fine mese ma la vita gli ha dato una seconda possibilita': ha vinto un milione di dollari alla lotteria!"
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 11:45:00",
+      "end_time": "2026-02-13 12:10:00",
+      "episode_number": "S2 E2",
+      "show_category": "",
+      "show_description": "Louisville - Todd e' stato fortunato: ha vinto un biglietto alla lotteria mentre andava al baby shower di sua figlia."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 12:10:00",
+      "end_time": "2026-02-13 12:35:00",
+      "episode_number": "S2 E3",
+      "show_category": "",
+      "show_description": "California - L'appassionato di motociclette, e vincitore di 5 milioni di dollari, Josh acquista la proprieta' rurale dei suoi sogni in California."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 12:35:00",
+      "end_time": "2026-02-13 13:05:00",
+      "episode_number": "S2 E4",
+      "show_category": "",
+      "show_description": "North Carolina - Una coppia in pensione vince un milione di dollari nella Carolina del Nord e puo' finalmente comprare la casa vacanze dei loro sogni."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 13:05:00",
+      "end_time": "2026-02-13 13:30:00",
+      "episode_number": "S2 E5",
+      "show_category": "",
+      "show_description": "Kansas - Una coppia del Kansas vince un milione di dollari. I due sono finalmente pronti per trasferirsi nella citta' dei loro sogni: Nashville."
+    },
+    {
+      "show_name": "Ho vinto la casa alla lotteria",
+      "show_logo": "",
+      "start_time": "2026-02-13 13:30:00",
+      "end_time": "2026-02-13 14:00:00",
+      "episode_number": "S2 E6",
+      "show_category": "",
+      "show_description": "Utah - I vincitori di un milione di dollari cercano la casa dei loro sogni nelle montagne dello Utah."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-13 14:00:00",
+      "end_time": "2026-02-13 15:00:00",
+      "episode_number": "S16 E7",
+      "show_category": "",
+      "show_description": "Illuminazioni - Johnny Vegas si unisce a Drew in un viaggio speciale. I due si occupano di una collezione d'arte a Wigan e analizzano un deposito pieno di illuminazioni a Blackpool."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-13 15:00:00",
+      "end_time": "2026-02-13 16:00:00",
+      "episode_number": "S16 E8",
+      "show_category": "",
+      "show_description": "St.16 Ep.8 - Drew Pritchard continua a cercare oggetti strani e meravigliosi nascosti in granai, depositi e rimesse della Gran Bretagna."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-13 16:00:00",
+      "end_time": "2026-02-13 17:00:00",
+      "episode_number": "S16 E9",
+      "show_category": "",
+      "show_description": "St.16 Ep.9 - Drew Pritchard continua a cercare oggetti strani e meravigliosi nascosti in granai, depositi e rimesse della Gran Bretagna."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-13 17:00:00",
+      "end_time": "2026-02-13 17:55:00",
+      "episode_number": "S16 E10",
+      "show_category": "",
+      "show_description": "St.16 Ep.10 - Drew Pritchard continua a cercare oggetti strani e meravigliosi nascosti in granai, depositi e rimesse della Gran Bretagna."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-13 17:55:00",
+      "end_time": "2026-02-13 18:50:00",
+      "episode_number": "S16 E11",
+      "show_category": "",
+      "show_description": "St.16 Ep.11 - Drew Pritchard continua a cercare oggetti strani e meravigliosi nascosti in granai, depositi e rimesse della Gran Bretagna."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-13 18:50:00",
+      "end_time": "2026-02-13 19:45:00",
+      "episode_number": "S16 E12",
+      "show_category": "",
+      "show_description": "St.16 Ep.12 - Drew Pritchard continua a cercare oggetti strani e meravigliosi nascosti in granai, depositi e rimesse della Gran Bretagna."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-13 19:45:00",
+      "end_time": "2026-02-13 20:45:00",
+      "episode_number": "S16 E13",
+      "show_category": "",
+      "show_description": "St.16 Ep.13 - Drew Pritchard continua a cercare oggetti strani e meravigliosi nascosti in granai, depositi e rimesse della Gran Bretagna."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-13 20:45:00",
+      "end_time": "2026-02-13 21:45:00",
+      "episode_number": "S16 E14",
+      "show_category": "",
+      "show_description": "St.16 Ep.14 - Drew Pritchard continua a cercare oggetti strani e meravigliosi nascosti in granai, depositi e rimesse della Gran Bretagna."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-13 21:45:00",
+      "end_time": "2026-02-13 22:45:00",
+      "episode_number": "S11 E6",
+      "show_category": "",
+      "show_description": "Best Sellers - Drew va a Edimburgo. Qui, in un negozio di antiquariato, scopre una bici americana deluxe degli anni '40. Piu' tardi, trova una scrivania di meta' secolo."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-13 22:45:00",
+      "end_time": "2026-02-13 23:45:00",
+      "episode_number": "S11 E7",
+      "show_category": "",
+      "show_description": "Nulla di intentato - A Seaton, Drew valuta un paio di proiettori. Nello Yorkshire, usa un coltellino tascabile per vedere se una sedia recentemente imbottita nasconde qualcosa di prezioso."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-13 23:45:00",
+      "end_time": "2026-02-14 00:00:00",
+      "episode_number": "S11 E8",
+      "show_category": "",
+      "show_description": "Famiglia - Drew avvia una difficile trattativa nel Somerset. E nel Dumfriesshire perlustra una tenuta di famiglia, appartenuta a diverse generazioni e piena di meravigliosi oggetti d'antiquariato."
     }
   ]
 }

@@ -1,168 +1,168 @@
 {
   "channel_name": "Sky Sport 4K",
-  "date": "2026-02-12",
+  "date": "2026-02-13",
   "programs": [
     {
+      "show_name": "Roma - Cagliari",
+      "show_logo": "https://guidatv.sky.it/uuid/4453d3a5-1960-43a9-b785-28aa4f4cbf48/cover?territory=IT&md5ChecksumParam=454c8be319cd05ff6480577a0350a7db",
+      "start_time": "2026-02-13 00:00:00",
+      "end_time": "2026-02-13 01:05:00",
+      "episode_number": "S2025 E72",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Olimpico di Roma, Italia."
+    },
+    {
       "show_name": "Sassuolo - Inter",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/sassuolo-inter.webp",
-      "start_time": "2026-02-12 00:00:00",
-      "end_time": "2026-02-12 00:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/240da2ad-fd6d-4a98-b8ea-43e2f02e49dd/cover?territory=IT&md5ChecksumParam=4787a07f0936d47e2285f5bcc8b7e6e2",
+      "start_time": "2026-02-13 01:05:00",
+      "end_time": "2026-02-13 02:45:00",
+      "episode_number": "S2025 E71",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Mapei Città del Tricolore di Reggio Emilia, Italia."
+    },
+    {
+      "show_name": "Atalanta - Athletic Bilbao",
+      "show_logo": "https://guidatv.sky.it/uuid/effbf8b7-5b02-49e1-a025-50d21db26fc5/cover?territory=IT&md5ChecksumParam=d37e49ab56e39666daeaa5b2fcad33e9",
+      "start_time": "2026-02-13 02:45:00",
+      "end_time": "2026-02-13 04:45:00",
+      "episode_number": "S2025 E133",
+      "show_category": "Sport",
+      "show_description": "Dalla New Balance Arena di Bergamo, Italia."
+    },
+    {
+      "show_name": "GP Messico: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/29c62b0c-3652-48ea-aa47-58ee303f23af/cover?territory=IT&md5ChecksumParam=2e853c6132f9a6e453ab20075b691309",
+      "start_time": "2026-02-13 04:45:00",
+      "end_time": "2026-02-13 05:45:00",
+      "episode_number": "S2025 E100",
+      "show_category": "Sport",
+      "show_description": "Dall'Autodromo Hermanos Rodriguez di Città del Messico."
+    },
+    {
+      "show_name": "Fiorentina - Torino",
+      "show_logo": "https://guidatv.sky.it/uuid/87a253ac-fb62-4afd-ace3-f46942827cd3/cover?territory=IT&md5ChecksumParam=291216989b2a88e709dd195cac7d3df3",
+      "start_time": "2026-02-13 05:45:00",
+      "end_time": "2026-02-13 06:00:00",
+      "episode_number": "S2025 E70",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
+    },
+    {
+      "show_name": "Gara: GP Bahrain",
+      "show_logo": "https://guidatv.sky.it/uuid/22d869b7-1443-4ac5-9f3c-e3dc8963e06c/cover?territory=IT&md5ChecksumParam=a633e9148c78905d6a478a70766bd684",
+      "start_time": "2026-02-13 06:00:00",
+      "end_time": "2026-02-13 08:00:00",
+      "episode_number": "S2025 E20",
+      "show_category": "Sport",
+      "show_description": "Tre vincitori diversi nei primi tre Gran Premi: chi trionferà nella quarta gara stagionale sul circuito di Sakhir? Telecronaca di Carlo Vanzini, Marc Gené e Roberto Chinchero."
+    },
+    {
+      "show_name": "Gara: GP Miami",
+      "show_logo": "https://guidatv.sky.it/uuid/bf1e3ed9-8643-4a7f-91d1-353eff60a942/cover?territory=IT&md5ChecksumParam=88bba05b26ceaccb8aae1f2a2b137af1",
+      "start_time": "2026-02-13 08:00:00",
+      "end_time": "2026-02-13 10:00:00",
+      "episode_number": "S2025 E30",
+      "show_category": "Sport",
+      "show_description": "In Florida sesta gara stagionale: finora 4 successi McLaren e 1 vittoria di Max Verstappen. Chi trionferà nella Magic City? Telecronaca di Carlo Vanzini, Marc Gené e Roberto Chinchero."
+    },
+    {
+      "show_name": "Gara: GP Monaco",
+      "show_logo": "https://guidatv.sky.it/uuid/80cd906c-82a9-4e91-bed9-af8a63df92a4/cover?territory=IT&md5ChecksumParam=51ccf7f74d7eab95e2edcca4ccef2ee7",
+      "start_time": "2026-02-13 10:00:00",
+      "end_time": "2026-02-13 12:00:00",
+      "episode_number": "S2025 E40",
+      "show_category": "Sport",
+      "show_description": "Il Gran Premio più iconico del mondiale quest'anno presenta un'incognita in più: due soste ai box obbligatorie. Chi vincerà la roulette? Telecronaca di Carlo Vanzini, Marc Gené e Roberto Chinchero."
+    },
+    {
+      "show_name": "Sassuolo - Inter",
+      "show_logo": "https://guidatv.sky.it/uuid/240da2ad-fd6d-4a98-b8ea-43e2f02e49dd/cover?territory=IT&md5ChecksumParam=4787a07f0936d47e2285f5bcc8b7e6e2",
+      "start_time": "2026-02-13 12:00:00",
+      "end_time": "2026-02-13 13:45:00",
       "episode_number": "S2025 E71",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Mapei Città del Tricolore di Reggio Emilia, Italia."
     },
     {
       "show_name": "Roma - Cagliari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/roma-cagliari.webp",
-      "start_time": "2026-02-12 00:30:00",
-      "end_time": "2026-02-12 02:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/4453d3a5-1960-43a9-b785-28aa4f4cbf48/cover?territory=IT&md5ChecksumParam=454c8be319cd05ff6480577a0350a7db",
+      "start_time": "2026-02-13 13:45:00",
+      "end_time": "2026-02-13 15:30:00",
       "episode_number": "S2025 E72",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Olimpico di Roma, Italia."
     },
     {
-      "show_name": "GP Qatar: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/gp-qatar-gara.webp",
-      "start_time": "2026-02-12 02:15:00",
-      "end_time": "2026-02-12 04:15:00",
-      "episode_number": "S2025 E115",
-      "show_category": "Sport",
-      "show_description": "Dal Losail International Circuit di Doha, Qatar."
-    },
-    {
-      "show_name": "Sassuolo - Inter",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/sassuolo-inter.webp",
-      "start_time": "2026-02-12 04:15:00",
-      "end_time": "2026-02-12 06:00:00",
-      "episode_number": "S2025 E71",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Mapei Città del Tricolore di Reggio Emilia, Italia."
-    },
-    {
-      "show_name": "Roma - Cagliari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/roma-cagliari.webp",
-      "start_time": "2026-02-12 06:00:00",
-      "end_time": "2026-02-12 07:45:00",
-      "episode_number": "S2025 E72",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Olimpico di Roma, Italia."
-    },
-    {
-      "show_name": "Calcio Campionato Italiano Serie A - Ep. 65 - Calcio Serie A 22ga Juventus/ Napoli 25/01/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/calcio-campionato-italiano-serie-a-ep-65-calcio-serie-a-22ga-juventus-napoli-25-01-2026.webp",
-      "start_time": "2026-02-12 07:45:00",
-      "end_time": "2026-02-12 09:30:00",
-      "episode_number": "S2025 E218",
-      "show_category": "Sport",
-      "show_description": "Dall'Allianz Stadium di Torino, Italia."
-    },
-    {
-      "show_name": "Gara: GP Australia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/gara-gp-australia.webp",
-      "start_time": "2026-02-12 09:30:00",
-      "end_time": "2026-02-12 11:45:00",
-      "episode_number": "S2025 E5",
-      "show_category": "Sport",
-      "show_description": "A Melbourne la prima gara del mondiale: sul circuito di Albert Park scopriremo chi sara' grande protagonista in questo 2025. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
-    },
-    {
-      "show_name": "Motori Formula 1 - Ep. 10 - Motori F1 2025 Gp Cina Gara 23/03/2025",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/motori-formula-1-ep-10-motori-f1-2025-gp-cina-gara-23-03-2025.webp",
-      "start_time": "2026-02-12 11:45:00",
-      "end_time": "2026-02-12 14:00:00",
+      "show_name": "Monaco - Juventus",
+      "show_logo": "https://guidatv.sky.it/uuid/624b71ca-3e72-45ec-9ce0-3fbf592038f6/cover?territory=IT&md5ChecksumParam=d09f92e4094420ae83b5313cf5b1505e",
+      "start_time": "2026-02-13 15:30:00",
+      "end_time": "2026-02-13 16:00:00",
       "episode_number": "S2025 E10",
       "show_category": "Sport",
-      "show_description": "Seconda gara del mondiale: dopo il dominio di Norris in Australia, riusciranno gli avversari a insidiare la supremazia McLaren? Telecronaca di Carlo Vanzini, Marc Gené e Roberto Chinchero."
+      "show_description": "Dallo Stadio Louis II di Fontvieille, Principato di Monaco."
+    },
+    {
+      "show_name": "GP Messico: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/29c62b0c-3652-48ea-aa47-58ee303f23af/cover?territory=IT&md5ChecksumParam=2e853c6132f9a6e453ab20075b691309",
+      "start_time": "2026-02-13 16:00:00",
+      "end_time": "2026-02-13 18:15:00",
+      "episode_number": "S2025 E100",
+      "show_category": "Sport",
+      "show_description": "Dall'Autodromo Hermanos Rodriguez di Città del Messico."
+    },
+    {
+      "show_name": "Fiorentina - Torino",
+      "show_logo": "https://guidatv.sky.it/uuid/87a253ac-fb62-4afd-ace3-f46942827cd3/cover?territory=IT&md5ChecksumParam=291216989b2a88e709dd195cac7d3df3",
+      "start_time": "2026-02-13 18:15:00",
+      "end_time": "2026-02-13 18:30:00",
+      "episode_number": "S2025 E70",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
+    },
+    {
+      "show_name": "Monaco - Juventus",
+      "show_logo": "https://guidatv.sky.it/uuid/624b71ca-3e72-45ec-9ce0-3fbf592038f6/cover?territory=IT&md5ChecksumParam=d09f92e4094420ae83b5313cf5b1505e",
+      "start_time": "2026-02-13 18:30:00",
+      "end_time": "2026-02-13 19:00:00",
+      "episode_number": "S2025 E10",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Louis II di Fontvieille, Principato di Monaco."
+    },
+    {
+      "show_name": "Roma - Cagliari",
+      "show_logo": "https://guidatv.sky.it/uuid/4453d3a5-1960-43a9-b785-28aa4f4cbf48/cover?territory=IT&md5ChecksumParam=454c8be319cd05ff6480577a0350a7db",
+      "start_time": "2026-02-13 19:00:00",
+      "end_time": "2026-02-13 20:45:00",
+      "episode_number": "S2025 E72",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Olimpico di Roma, Italia."
+    },
+    {
+      "show_name": "Sassuolo - Inter",
+      "show_logo": "https://guidatv.sky.it/uuid/240da2ad-fd6d-4a98-b8ea-43e2f02e49dd/cover?territory=IT&md5ChecksumParam=4787a07f0936d47e2285f5bcc8b7e6e2",
+      "start_time": "2026-02-13 20:45:00",
+      "end_time": "2026-02-13 22:30:00",
+      "episode_number": "S2025 E71",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Mapei Città del Tricolore di Reggio Emilia, Italia."
     },
     {
       "show_name": "Calcio Uefa Champions League - Ep. 142 - Calcio Ucl 8ga Borussia Dortmund/ Inter 28/01/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/calcio-uefa-champions-league-ep-142-calcio-ucl-8ga-borussia-dortmund-inter-28-01-2026.webp",
-      "start_time": "2026-02-12 14:00:00",
-      "end_time": "2026-02-12 14:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/c3786b34-f168-4971-a16c-92544e9cd67b/cover?territory=IT&md5ChecksumParam=23fa76d1e8243f9a2fb34de33e4e52f6",
+      "start_time": "2026-02-13 22:30:00",
+      "end_time": "2026-02-13 23:00:00",
       "episode_number": "S2025 E142",
       "show_category": "Sport",
       "show_description": "Dal Signal Iduna Park di Dortmund, Germania."
     },
     {
-      "show_name": "Fiorentina - Torino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/fiorentina-torino.webp",
-      "start_time": "2026-02-12 14:30:00",
-      "end_time": "2026-02-12 14:45:00",
-      "episode_number": "S2025 E70",
+      "show_name": "GP Qatar: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/032725f5-9892-48d6-ba19-bbc5e1ae0450/cover?territory=IT&md5ChecksumParam=dd4ee80283ba48c5d1149de2faf1e093",
+      "start_time": "2026-02-13 23:00:00",
+      "end_time": "2026-02-14 00:00:00",
+      "episode_number": "S2025 E115",
       "show_category": "Sport",
-      "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
-    },
-    {
-      "show_name": "Roma - Cagliari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/roma-cagliari.webp",
-      "start_time": "2026-02-12 14:45:00",
-      "end_time": "2026-02-12 16:30:00",
-      "episode_number": "S2025 E72",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Olimpico di Roma, Italia."
-    },
-    {
-      "show_name": "Inter - Arsenal",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/inter-arsenal.webp",
-      "start_time": "2026-02-12 16:30:00",
-      "end_time": "2026-02-12 18:30:00",
-      "episode_number": "S2025 E123",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Giuseppe Meazza di Milano, Italia."
-    },
-    {
-      "show_name": "Monaco - Juventus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/monaco-juventus.webp",
-      "start_time": "2026-02-12 18:30:00",
-      "end_time": "2026-02-12 19:00:00",
-      "episode_number": "S2025 E134",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Diego Armando Maradona di Napoli, Italia."
-    },
-    {
-      "show_name": "Fiorentina - Torino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/fiorentina-torino.webp",
-      "start_time": "2026-02-12 19:00:00",
-      "end_time": "2026-02-12 19:15:00",
-      "episode_number": "S2025 E70",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
-    },
-    {
-      "show_name": "Sassuolo - Inter",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/sassuolo-inter.webp",
-      "start_time": "2026-02-12 19:15:00",
-      "end_time": "2026-02-12 21:00:00",
-      "episode_number": "S2025 E71",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Mapei Città del Tricolore di Reggio Emilia, Italia."
-    },
-    {
-      "show_name": "Brentford - Arsenal",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/brentford-arsenal.webp",
-      "start_time": "2026-02-12 21:00:00",
-      "end_time": "2026-02-12 23:00:00",
-      "episode_number": "S2025 E263",
-      "show_category": "Sport",
-      "show_description": "Dal Gtech Community Stadium di Brentford, Inghilterra."
-    },
-    {
-      "show_name": "Fiorentina - Torino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/fiorentina-torino.webp",
-      "start_time": "2026-02-12 23:00:00",
-      "end_time": "2026-02-12 23:15:00",
-      "episode_number": "S2025 E70",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
-    },
-    {
-      "show_name": "Roma - Cagliari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-4K/tomorrow/roma-cagliari.webp",
-      "start_time": "2026-02-12 23:15:00",
-      "end_time": "2026-02-13 01:00:00",
-      "episode_number": "S2025 E72",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Olimpico di Roma, Italia."
+      "show_description": "Dal Losail International Circuit di Doha, Qatar."
     }
   ]
 }

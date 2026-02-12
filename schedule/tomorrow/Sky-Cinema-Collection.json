@@ -1,123 +1,123 @@
 {
   "channel_name": "Sky Cinema Collection",
-  "date": "2026-02-12",
+  "date": "2026-02-13",
   "programs": [
     {
+      "show_name": "I pompieri",
+      "show_logo": "https://guidatv.sky.it/uuid/0741c214-63b9-4eb8-b393-3930b27d6b89/cover?territory=IT&md5ChecksumParam=11a14853f9f7ad3d1077ccedc22ad782",
+      "start_time": "2026-02-13 00:00:00",
+      "end_time": "2026-02-13 00:50:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Lino Banfi e Massimo Boldi fra incendi e allagamenti, in un mare di risate. Due vigili del fuoco in pensione ritornano in servizio unendosi ai colleghi più giovani della disastrosa squadra 17, il cui caposquadra è affetto da sonnambulismo. Oltre ai guai in cui finiscono ogni volta che affrontano una missione, questi goffi pompieri dovranno vedersela con lo zelante comandante della caserma e con un fastidioso giornalista alla ricerca continua di scoop. Cast arricchito da Christian De Sica, Gigi Sammarchi, Andrea Roncato e da un cameo di Moana Pozzi."
+    },
+    {
+      "show_name": "Una poltrona per due",
+      "show_logo": "https://guidatv.sky.it/uuid/871b0a53-0d1b-45a8-94eb-a9ebea4b9a1f/cover?territory=IT&md5ChecksumParam=4ddadd9cf5b6b3fdc7b50585eb16e692",
+      "start_time": "2026-02-13 00:50:00",
+      "end_time": "2026-02-13 02:45:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "John Landis dirige Eddie Murphy e Dan Aykroyd nella piu' classica delle commedie natalizie. Per una scommessa, due perfidi finanzieri sostituiscono un loro dirigente con un senzatetto."
+    },
+    {
+      "show_name": "Interceptor, il guerriero della strada",
+      "show_logo": "https://guidatv.sky.it/uuid/faa04c0a-4c6a-40a2-95cd-03aac69c91ba/cover?territory=IT&md5ChecksumParam=4f30f2dd809c57e339643f116338ddfd",
+      "start_time": "2026-02-13 02:45:00",
+      "end_time": "2026-02-13 04:20:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Secondo capitolo di Mad Max con Mel Gibson diretto da George Miller. Divisi in 2 clan rivali, i pochi umani superstiti ingaggiano una violenta battaglia per il carburante rimasto."
+    },
+    {
+      "show_name": "Ritorno al futuro - Parte II",
+      "show_logo": "https://guidatv.sky.it/uuid/922cf79a-4810-4804-a033-a510c6fd8587/cover?territory=IT&md5ChecksumParam=e52b186ea3b29aca823a1bbe6ac415af",
+      "start_time": "2026-02-13 04:20:00",
+      "end_time": "2026-02-13 06:05:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Secondo capitolo della trilogia di Robert Zemeckis con Michael J. Fox e Christopher Lloyd. Marty e Doc volano nel 2015, innescando una serie di eventi che cambieranno anche il passato."
+    },
+    {
+      "show_name": "Palombella rossa",
+      "show_logo": "https://guidatv.sky.it/uuid/92f7ffb4-c48b-41a0-8af7-cad18ef03d79/cover?territory=IT&md5ChecksumParam=a7e241fd3a2ad12fbd367853c542407b",
+      "start_time": "2026-02-13 06:05:00",
+      "end_time": "2026-02-13 07:35:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "La crisi del comunismo secondo Nanni Moretti. Un dirigente del PCI viene colpito da amnesia. Durante una partita di pallanuoto cerchera' di rimettere insieme i pezzi della sua vita."
+    },
+    {
+      "show_name": "Top Gun",
+      "show_logo": "https://guidatv.sky.it/uuid/fec349f3-d8dd-46e4-a694-24fbf61fa933/cover?territory=IT&md5ChecksumParam=f894d5cb6f1f45d401c2564810900375",
+      "start_time": "2026-02-13 07:35:00",
+      "end_time": "2026-02-13 09:30:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "L'action che ha consacrato Tom Cruise. Un pilota di caccia va in crisi quando causa la morte di un amico. Ne uscira' grazie a una donna. Oscar e Golden Globe per la migliore canzone."
+    },
+    {
+      "show_name": "La donna esplosiva",
+      "show_logo": "https://guidatv.sky.it/uuid/2b66295f-b2aa-4763-82fb-d137db763f57/cover?territory=IT&md5ChecksumParam=9dd3b123a8d977e4f6f8176750714985",
+      "start_time": "2026-02-13 09:30:00",
+      "end_time": "2026-02-13 11:10:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Teen-comedy anni 80 con Kelly LeBrock e Robert Downey Jr. Impacciati con le ragazze, due adolescenti creano la donna ideale al computer e vengono coinvolti in una rocambolesca avventura."
+    },
+    {
       "show_name": "Nato il quattro luglio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Collection/tomorrow/nato-il-quattro-luglio.webp",
-      "start_time": "2026-02-12 00:00:00",
-      "end_time": "2026-02-12 01:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/8bd137c0-5c4d-4f79-9853-9cfbb268d81a/cover?territory=IT&md5ChecksumParam=8365ffdc9b9a50539c54f75ad2942174",
+      "start_time": "2026-02-13 11:10:00",
+      "end_time": "2026-02-13 13:35:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Due Oscar al biopic di Oliver Stone con Tom Cruise. La vera storia di Ron Kovic: rimasto paralizzato nell'inferno del Vietnam, torna in patria e diventa un leader pacifista."
     },
     {
-      "show_name": "I falchi della notte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Collection/tomorrow/i-falchi-della-notte.webp",
-      "start_time": "2026-02-12 01:45:00",
-      "end_time": "2026-02-12 03:25:00",
+      "show_name": "The Untouchables - Gli intoccabili",
+      "show_logo": "https://guidatv.sky.it/uuid/a628825b-767f-44fe-b699-d0c546899fd4/cover?territory=IT&md5ChecksumParam=d78f319dc6608a4a269241c85cb43280",
+      "start_time": "2026-02-13 13:35:00",
+      "end_time": "2026-02-13 15:40:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Rutger Hauer sfida Sylvester Stallone in un action metropolitano da antologia. Un agente di New York bracca un terrorista tedesco che vuole compiere un attentato nella sede dell'Onu."
+      "show_description": "Oscar e Golden Globe a Sean Connery, nel capolavoro di Brian De Palma con Kevin Costner e Robert De Niro. Chicago, 1930: una squadra speciale viene incaricata di incastrare Al Capone."
     },
     {
-      "show_name": "Ufficiale e gentiluomo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Collection/tomorrow/ufficiale-e-gentiluomo.webp",
-      "start_time": "2026-02-12 03:25:00",
-      "end_time": "2026-02-12 05:30:00",
+      "show_name": "Ghostbusters - Acchiappafantasmi",
+      "show_logo": "https://guidatv.sky.it/uuid/27943a1b-8e65-4202-bbca-8dcd405fc8f9/cover?territory=IT&md5ChecksumParam=3cc8c69cead4275b865acb749ff25fcb",
+      "start_time": "2026-02-13 15:40:00",
+      "end_time": "2026-02-13 17:30:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Due Oscar e Due Golden Globe al cult anni 80 che ha lanciato Richard Gere. Il ribelle Zack si iscrive all'accademia per piloti di jet, ma sul suo cammino trova un sadico istruttore."
+      "show_description": "Cult assoluto della commedia anni 80 con Bill Murray, Dan Aykroyd e Harold Ramis. New York: tre scienziati fondano un'agenzia che si occupa di catturare fantasmi e sfidano il demone Zuul."
     },
     {
       "show_name": "Ghostbusters II",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Collection/tomorrow/ghostbusters-ii.webp",
-      "start_time": "2026-02-12 05:30:00",
-      "end_time": "2026-02-12 07:20:00",
+      "show_logo": "https://guidatv.sky.it/uuid/a0689cdd-2dc6-4142-9c5d-16acd5edee24/cover?territory=IT&md5ChecksumParam=849bc2e0ff3dc54f81ebce5710808a88",
+      "start_time": "2026-02-13 17:30:00",
+      "end_time": "2026-02-13 19:25:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Bill Murray, Dan Aykroyd e Sigourney Weaver nel sequel della commedia cult anni 80. Gli Acchiappafantasmi affrontano una forza maligna che ha invaso i sotterranei di New York."
     },
     {
-      "show_name": "I predatori dell'arca perduta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Collection/tomorrow/i-predatori-dell-arca-perduta.webp",
-      "start_time": "2026-02-12 07:20:00",
-      "end_time": "2026-02-12 09:20:00",
+      "show_name": "I falchi della notte",
+      "show_logo": "https://guidatv.sky.it/uuid/cf26cfd5-f352-47d7-9769-f0cc78e19f3a/cover?territory=IT&md5ChecksumParam=dd22e567b8f48f99b6d1b8b531017d14",
+      "start_time": "2026-02-13 19:25:00",
+      "end_time": "2026-02-13 21:15:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Primo capitolo della saga con Harrison Ford, ideata da George Lucas e diretta da Steven Spielberg. Anni 30: l'archeologo Indiana Jones parte alla ricerca dell'Arca dell'Alleanza."
+      "show_description": "Rutger Hauer sfida Sylvester Stallone in un action metropolitano da antologia. Un agente di New York bracca un terrorista tedesco che vuole compiere un attentato nella sede dell'Onu."
     },
     {
-      "show_name": "Indiana Jones e l'ultima crociata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Collection/tomorrow/indiana-jones-e-l-ultima-crociata.webp",
-      "start_time": "2026-02-12 09:20:00",
-      "end_time": "2026-02-12 11:30:00",
+      "show_name": "C'era una volta in America",
+      "show_logo": "https://guidatv.sky.it/uuid/6b6cec9a-b4a1-49f1-88c1-70aa8635d977/cover?territory=IT&md5ChecksumParam=5e71537bf4fb0cbae751cfd62de001c2",
+      "start_time": "2026-02-13 21:15:00",
+      "end_time": "2026-02-14 01:25:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Steven Spielberg dirige Harrison Ford e Sean Connery nel terzo capitolo, premiato con un Oscar. Jones padre e figlio incontrano i nazisti sulla strada per la conquista del Santo Graal."
-    },
-    {
-      "show_name": "Indiana Jones e il tempio maledetto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Collection/tomorrow/indiana-jones-e-il-tempio-maledetto.webp",
-      "start_time": "2026-02-12 11:30:00",
-      "end_time": "2026-02-12 13:35:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Oscar agli effetti speciali per la seconda avventura con Harrison Ford, diretta da Steven Spielberg. In India, l'archeologo scopre l’esistenza di un tempio dove si compiono sacrifici umani."
-    },
-    {
-      "show_name": "Always - Per sempre",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Collection/tomorrow/always-per-sempre.webp",
-      "start_time": "2026-02-12 13:35:00",
-      "end_time": "2026-02-12 15:40:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Steven Spielberg firma una romantica commedia soprannaturale con Richard Dreyfuss e Holly Hunter. Morto in un incidente aereo, un pilota accetta di fare da angelo custode alla fidanzata."
-    },
-    {
-      "show_name": "Da grande",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Collection/tomorrow/da-grande.webp",
-      "start_time": "2026-02-12 15:40:00",
-      "end_time": "2026-02-12 17:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Renato Pozzetto in una delle sue commedia di maggior successo. Un bambino di otto anni esprime il desiderio di diventare adulto. Il miracolo si avvera e lui diventa un uomo di 40 anni."
-    },
-    {
-      "show_name": "American Gigolo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Collection/tomorrow/american-gigolo.webp",
-      "start_time": "2026-02-12 17:15:00",
-      "end_time": "2026-02-12 19:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Il film cult degli anni '80 che ha consacrato il mito sexy di Richard Gere. Un affascinante gigolo' finisce nei guai quando una delle sue clienti viene ritrovata barbaramente uccisa."
-    },
-    {
-      "show_name": "Full Metal Jacket (Edizione Deluxe)",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Collection/tomorrow/full-metal-jacket-edizione-deluxe.webp",
-      "start_time": "2026-02-12 19:15:00",
-      "end_time": "2026-02-12 21:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "La 'sporca guerra' secondo Stanley Kubrick in un film epocale con Matthew Modine. Al campo di addestramento di Parris Island il severissimo sergente di ferro Hartman addestra diciassette reclute a diventare spietati marines: i suoi metodi, durissimi e mortificanti, sono in grado di trasformare i soldati in vere e proprie macchine da guerra, pronte per affrontare l'orrore del conflitto in Vietnam. Come il soldato Joker e il soldato Cowboy che si ritroveranno al fronte, nel cuore del paese di Ho Chi Minh, nel mirino di un misterioso cecchino viet cong."
-    },
-    {
-      "show_name": "I predatori dell'arca perduta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Collection/tomorrow/i-predatori-dell-arca-perduta.webp",
-      "start_time": "2026-02-12 21:15:00",
-      "end_time": "2026-02-12 23:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Primo capitolo della saga con Harrison Ford, ideata da George Lucas e diretta da Steven Spielberg. Anni 30: l'archeologo Indiana Jones parte alla ricerca dell'Arca dell'Alleanza."
-    },
-    {
-      "show_name": "I pompieri",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Collection/tomorrow/i-pompieri.webp",
-      "start_time": "2026-02-12 23:15:00",
-      "end_time": "2026-02-13 00:50:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Lino Banfi e Massimo Boldi fra incendi e allagamenti, in un mare di risate. Due vigili del fuoco in pensione ritornano in servizio unendosi ai colleghi più giovani della disastrosa squadra 17, il cui caposquadra è affetto da sonnambulismo. Oltre ai guai in cui finiscono ogni volta che affrontano una missione, questi goffi pompieri dovranno vedersela con lo zelante comandante della caserma e con un fastidioso giornalista alla ricerca continua di scoop. Cast arricchito da Christian De Sica, Gigi Sammarchi, Andrea Roncato e da un cameo di Moana Pozzi."
+      "show_description": "Versione estesa e restaurata del capolavoro di Sergio Leone con Robert De Niro sulle note di Ennio Morricone. L'ascesa e il declino di due gangster divisi dall'amore per la stessa donna."
     }
   ]
 }
