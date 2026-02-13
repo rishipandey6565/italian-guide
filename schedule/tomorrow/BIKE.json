@@ -1,330 +1,402 @@
 {
   "channel_name": "BIKE",
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "programs": [
     {
-      "show_name": "Gravel Club",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:00:00",
-      "end_time": "2026-02-13 00:00:00",
+      "show_name": "Marathon des Sables Marocco 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 00:00:00",
+      "end_time": "2026-02-14 00:00:00",
       "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep1 - Parco Nazionale dello Stelvio."
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Benvenuti nel deserto del Sahara come probabilmente non lo avete mai visto. 11 giorni in Marocco, di cui 9 nel deserto, un percorso di circa 250 km suddiviso in 6 tappe, da percorrere correndo o camminando."
     },
     {
       "show_name": "Pedalando per l'Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:00:00",
-      "end_time": "2026-02-13 00:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 00:00:00",
+      "end_time": "2026-02-14 00:30:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "In sella con Luca Gregorio alla scoperta degli angoli piu' nascosti ed evocativi del Belpaese, facendo vedere posti meravigliosi in un perfetto mix fra sport, natura e arte."
     },
     {
       "show_name": "Cyclo Ergo Sum 2025",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:30:00",
-      "end_time": "2026-02-13 01:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 00:30:00",
+      "end_time": "2026-02-14 01:00:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Ep11 - Sardegna Bikepacking - seconda parte."
     },
     {
       "show_name": "Life in Travel. No Plans Journey",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:00:00",
-      "end_time": "2026-02-13 01:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep2 - Viaggio in bici senza meta e senza tempo."
-    },
-    {
-      "show_name": "Colombo's Archive",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:30:00",
-      "end_time": "2026-02-13 02:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Uno speciale Bike Channel dedicato a L'Archivio Vivo di Antonio Colombo: arte, ciclismo e design."
-    },
-    {
-      "show_name": "Mondo Triathlon",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:00:00",
-      "end_time": "2026-02-13 02:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep104 - Un programma di Dario Daddo Nardone. Ospite Fabio Panciarola."
-    },
-    {
-      "show_name": "MTB Granfondo Extra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:30:00",
-      "end_time": "2026-02-13 03:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "BIKEnews."
-    },
-    {
-      "show_name": "Scratch",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:00:00",
-      "end_time": "2026-02-13 04:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Un programma di Nicola Argesi."
-    },
-    {
-      "show_name": "Gravel Club",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:30:00",
-      "end_time": "2026-02-13 05:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep1 - Parco Nazionale dello Stelvio."
-    },
-    {
-      "show_name": "Gravel Club",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 05:00:00",
-      "end_time": "2026-02-13 06:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep1 - Parco Nazionale dello Stelvio."
-    },
-    {
-      "show_name": "Ciclostile-Le parole del ciclismo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 06:00:00",
-      "end_time": "2026-02-13 06:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep 19 - Ciclisti nella storia - Seconda parte. Il mondo della bicicletta raccontato attraverso le pagine dei libri. Storie, avventure, imprese, ritratti di grandi campioni tutti scritti in punta di penna. Conduce Pietro Pisaneschi."
-    },
-    {
-      "show_name": "Cyclo Ergo Sum 2025",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 06:30:00",
-      "end_time": "2026-02-13 07:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep11 - Sardegna Bikepacking - seconda parte."
-    },
-    {
-      "show_name": "Life in Travel. No Plans Journey",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 07:00:00",
-      "end_time": "2026-02-13 07:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep2 - Viaggio in bici senza meta e senza tempo."
-    },
-    {
-      "show_name": "MTB Granfondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 07:30:00",
-      "end_time": "2026-02-13 08:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "La trasmissione di riferimento per tutti gli appassionati di mountainbike."
-    },
-    {
-      "show_name": "I documentari di Michele Sanna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 08:00:00",
-      "end_time": "2026-02-13 09:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Inside the Borders - prima parte."
-    },
-    {
-      "show_name": "Due Ruote a Sud",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 09:00:00",
-      "end_time": "2026-02-13 10:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep20 - Un programma dedicato alla bicicletta e alla promozione del territorio, per raccontare fatti ed eventi con il pubblico e gli ospiti. Conduce Fabio Bologna."
-    },
-    {
-      "show_name": "MTB Channel",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 10:30:00",
-      "end_time": "2026-02-13 11:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "MTB Channel."
-    },
-    {
-      "show_name": "Giro delle Regioni Ciclocross 2025",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 11:00:00",
-      "end_time": "2026-02-13 12:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "ASD Romano Scotti - Seconda tappa: Tarvisio - Master e giovanili."
-    },
-    {
-      "show_name": "Pedalando per l'Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 12:00:00",
-      "end_time": "2026-02-13 12:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "In sella con Luca Gregorio alla scoperta degli angoli piu' nascosti ed evocativi del Belpaese, facendo vedere posti meravigliosi in un perfetto mix fra sport, natura e arte."
-    },
-    {
-      "show_name": "Cyclo Ergo Sum 2025",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 12:30:00",
-      "end_time": "2026-02-13 13:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep11 - Sardegna Bikepacking - seconda parte."
-    },
-    {
-      "show_name": "Life in Travel. No Plans Journey",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 13:00:00",
-      "end_time": "2026-02-13 13:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep2 - Viaggio in bici senza meta e senza tempo."
-    },
-    {
-      "show_name": "Colombo's Archive",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 13:30:00",
-      "end_time": "2026-02-13 14:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Uno speciale Bike Channel dedicato a L'Archivio Vivo di Antonio Colombo: arte, ciclismo e design."
-    },
-    {
-      "show_name": "Mondo Triathlon",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 14:00:00",
-      "end_time": "2026-02-13 14:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep104 - Un programma di Dario Daddo Nardone. Ospite Fabio Panciarola."
-    },
-    {
-      "show_name": "MTB Granfondo Extra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 14:30:00",
-      "end_time": "2026-02-13 15:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "BIKEnews."
-    },
-    {
-      "show_name": "Scratch",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 15:00:00",
-      "end_time": "2026-02-13 16:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Un programma di Nicola Argesi."
-    },
-    {
-      "show_name": "Gravel Club",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 16:30:00",
-      "end_time": "2026-02-13 17:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep1 - Parco Nazionale dello Stelvio."
-    },
-    {
-      "show_name": "Gravel Club",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 17:00:00",
-      "end_time": "2026-02-13 18:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep1 - Parco Nazionale dello Stelvio."
-    },
-    {
-      "show_name": "Pedalando per l'Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 18:00:00",
-      "end_time": "2026-02-13 18:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "In sella con Luca Gregorio alla scoperta degli angoli piu' nascosti ed evocativi del Belpaese, facendo vedere posti meravigliosi in un perfetto mix fra sport, natura e arte."
-    },
-    {
-      "show_name": "Cyclo Ergo Sum 2025",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 18:30:00",
-      "end_time": "2026-02-13 19:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ep11 - Sardegna Bikepacking - seconda parte."
-    },
-    {
-      "show_name": "Life in Travel. No Plans Journey",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 19:00:00",
-      "end_time": "2026-02-13 19:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 01:00:00",
+      "end_time": "2026-02-14 01:30:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Ep2 - Viaggio in bici senza meta e senza tempo."
     },
     {
       "show_name": "HOKA Kodiak Ultra Marathons",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 19:30:00",
-      "end_time": "2026-02-13 20:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 01:30:00",
+      "end_time": "2026-02-14 02:30:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Due distanze. Un'avventura. La grinta della 50K, la follia della 100K e la passione condivisa che spinge ogni runner ad andare avanti. 45 minuti di pura energia da trail."
     },
     {
+      "show_name": "Bici Fai da te",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 02:30:00",
+      "end_time": "2026-02-14 02:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Un programma di Lory Bart."
+    },
+    {
       "show_name": "Lory Bart",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 20:30:00",
-      "end_time": "2026-02-13 21:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 02:30:00",
+      "end_time": "2026-02-14 03:00:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Tutorial dedicati alla riparazione e alla manutenzione della bici in generale: i consigli per riparare la bici di qualsiasi tipo e modello come mtb e bici da corsa."
     },
     {
       "show_name": "Guido Aloi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 21:00:00",
-      "end_time": "2026-02-13 21:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 03:00:00",
+      "end_time": "2026-02-14 03:00:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Il ciclismo a 360 gradi."
     },
     {
-      "show_name": "I viaggi di Omero",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 21:30:00",
-      "end_time": "2026-02-13 22:00:00",
+      "show_name": "Aloi - Cicloturismo da zero",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 03:00:00",
+      "end_time": "2026-02-14 03:30:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Ep56 - I viaggi di Omar Martinello. Silk Road Mountain Race - Una delle gare Mtb piu' dure al mondo: 1.939km e 30mila metri di dislivello nei luoghi piu' remoti e belli del Kyrgyzstan."
+      "show_description": "Aloi - Cicloturismo da zero."
     },
     {
-      "show_name": "Bike Show",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 22:00:00",
-      "end_time": "2026-02-13 23:00:00",
+      "show_name": "Girovaganzo",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 03:30:00",
+      "end_time": "2026-02-14 04:00:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Il grande ciclismo a 360 gradi a cura di Danilo Gioia."
+      "show_description": "Un programma di Giovanni Ganzerli."
     },
     {
-      "show_name": "Marathon des Sables Marocco 2025",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 23:00:00",
-      "end_time": "2026-02-14 00:00:00",
+      "show_name": "DIE MTB",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 04:00:00",
+      "end_time": "2026-02-14 04:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Un programma di Diego Caverzasi."
+    },
+    {
+      "show_name": "Bike Tv",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 04:30:00",
+      "end_time": "2026-02-14 05:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Bike Tv."
+    },
+    {
+      "show_name": "BIKEnews",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 05:00:00",
+      "end_time": "2026-02-14 05:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "BIKEnews."
+    },
+    {
+      "show_name": "Granfondo Stories",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 05:30:00",
+      "end_time": "2026-02-14 06:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Le piu' appassionanti Granfondo italiane."
+    },
+    {
+      "show_name": "BIKEnews",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 06:00:00",
+      "end_time": "2026-02-14 06:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "BIKEnews."
+    },
+    {
+      "show_name": "Bike Test",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 06:30:00",
+      "end_time": "2026-02-14 07:00:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Benvenuti nel deserto del Sahara come probabilmente non lo avete mai visto. 11 giorni in Marocco, di cui 9 nel deserto, un percorso di circa 250 km suddiviso in 6 tappe, da percorrere correndo o camminando."
+      "show_description": "Proviamo per voi alcuni dei modelli piu' interessanti sul mercato, dandovi specifiche tecniche ed evidenziando punti di forza e di debolezza di ogni singola bici."
+    },
+    {
+      "show_name": "BIKEnews",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 07:00:00",
+      "end_time": "2026-02-14 07:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "BIKEnews."
+    },
+    {
+      "show_name": "Wild Racers",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 07:30:00",
+      "end_time": "2026-02-14 08:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Un'infinita pedalata nella natura piu' selvaggia. MTB, trekking, kayak e speleologia in una lotta a 360 gradi contro il tempo, contro il sonno, contro la fatica e contro ogni tipo di imprevisto."
+    },
+    {
+      "show_name": "BIKEnews",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 08:00:00",
+      "end_time": "2026-02-14 08:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "BIKEnews."
+    },
+    {
+      "show_name": "BIKE Focus",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 08:30:00",
+      "end_time": "2026-02-14 09:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Gli approfondimenti di BIKE."
+    },
+    {
+      "show_name": "Scratch",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 09:00:00",
+      "end_time": "2026-02-14 11:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Un programma di Nicola Argesi."
+    },
+    {
+      "show_name": "BIKEnews",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 11:00:00",
+      "end_time": "2026-02-14 11:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "BIKEnews."
+    },
+    {
+      "show_name": "Granfondo Stories",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 11:30:00",
+      "end_time": "2026-02-14 12:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Le piu' appassionanti Granfondo italiane."
+    },
+    {
+      "show_name": "BIKEnews",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 12:00:00",
+      "end_time": "2026-02-14 12:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "BIKEnews."
+    },
+    {
+      "show_name": "Bike Test",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 12:30:00",
+      "end_time": "2026-02-14 13:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Proviamo per voi alcuni dei modelli piu' interessanti sul mercato, dandovi specifiche tecniche ed evidenziando punti di forza e di debolezza di ogni singola bici."
+    },
+    {
+      "show_name": "BIKEnews",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 13:00:00",
+      "end_time": "2026-02-14 13:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "BIKEnews."
+    },
+    {
+      "show_name": "Bike Doc",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 13:30:00",
+      "end_time": "2026-02-14 14:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Bike Doc."
+    },
+    {
+      "show_name": "BIKEnews",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 14:00:00",
+      "end_time": "2026-02-14 14:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "BIKEnews."
+    },
+    {
+      "show_name": "Bici Fai da te",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 14:30:00",
+      "end_time": "2026-02-14 15:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Un programma di Lory Bart."
+    },
+    {
+      "show_name": "Aloi - Cicloturismo da zero",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 15:00:00",
+      "end_time": "2026-02-14 15:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Aloi - Cicloturismo da zero."
+    },
+    {
+      "show_name": "Girovaganzo",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 15:30:00",
+      "end_time": "2026-02-14 16:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Un programma di Giovanni Ganzerli."
+    },
+    {
+      "show_name": "DIE MTB",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 16:00:00",
+      "end_time": "2026-02-14 16:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Un programma di Diego Caverzasi."
+    },
+    {
+      "show_name": "Bike Tv",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 16:30:00",
+      "end_time": "2026-02-14 17:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Bike Tv."
+    },
+    {
+      "show_name": "BIKEnews",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 17:00:00",
+      "end_time": "2026-02-14 17:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "BIKEnews."
+    },
+    {
+      "show_name": "Granfondo Stories",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 17:30:00",
+      "end_time": "2026-02-14 18:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Le piu' appassionanti Granfondo italiane."
+    },
+    {
+      "show_name": "BIKEnews Weekly 1^TV",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 18:00:00",
+      "end_time": "2026-02-14 18:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Il settimanale di BIKEnews."
+    },
+    {
+      "show_name": "Biciclissima",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 18:30:00",
+      "end_time": "2026-02-14 19:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Biciclissima."
+    },
+    {
+      "show_name": "Scratch",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 19:00:00",
+      "end_time": "2026-02-14 21:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Un programma di Nicola Argesi."
+    },
+    {
+      "show_name": "Eroica",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 21:00:00",
+      "end_time": "2026-02-14 21:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Un programma di Giancarlo Brocci, ideatore di Eroica."
+    },
+    {
+      "show_name": "A tutta bici extra",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 21:30:00",
+      "end_time": "2026-02-14 22:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il settimanale sul mondo della bici di Roberto Feroli."
+    },
+    {
+      "show_name": "Bike Incontra",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 22:00:00",
+      "end_time": "2026-02-14 22:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Bike incontra i protagonisti."
+    },
+    {
+      "show_name": "Biciclette d'epoca",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 22:30:00",
+      "end_time": "2026-02-14 23:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un programma di Alessandro Galli, direttore Biciclette d'Epoca."
+    },
+    {
+      "show_name": "BIKEnews Weekly",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 23:00:00",
+      "end_time": "2026-02-14 23:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Il settimanale di BIKEnews."
+    },
+    {
+      "show_name": "Bici fai da te",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 23:30:00",
+      "end_time": "2026-02-15 00:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Un programma di Lory Bart."
     }
   ]
 }

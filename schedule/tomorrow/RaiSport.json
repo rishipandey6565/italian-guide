@@ -1,168 +1,213 @@
 {
   "channel_name": "RaiSport",
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "programs": [
     {
+      "show_name": "Memory - Rai Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-14 00:00:00",
+      "end_time": "2026-02-14 00:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Memory: Fratelli Hubner."
+    },
+    {
       "show_name": "Serie C",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/serie-c.webp",
-      "start_time": "2026-02-13 00:00:00",
-      "end_time": "2026-02-13 00:45:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2024/09/19/1726735620828_SerieC2024-assets2048x1152.jpg",
+      "start_time": "2026-02-14 00:00:00",
+      "end_time": "2026-02-14 02:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Calcio Serie C Sky Wifi: Carpi-Arezzo - 26a g.ta."
     },
     {
-      "show_name": "Calcio a 5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/calcio-a-5.webp",
-      "start_time": "2026-02-13 00:45:00",
-      "end_time": "2026-02-13 02:40:00",
+      "show_name": "Ciclismo su pista",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/10/24/1761288298596_Mondiali-di-Ciclismo-su-Pista-2025-assets2048x1152.jpg",
+      "start_time": "2026-02-14 02:00:00",
+      "end_time": "2026-02-14 04:55:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Calcio a 5. Europeo maschile: Finale."
+      "show_description": "Ciclismo su Pista. Europei Konya - 5a g.ta."
     },
     {
-      "show_name": "Serie C",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/serie-c.webp",
-      "start_time": "2026-02-13 02:40:00",
-      "end_time": "2026-02-13 04:40:00",
+      "show_name": "Ciclocross",
+      "show_logo": "https://www.raiplay.it/dl/img/2020/10/26/1603724481069_CicloCross-assets2048x1152.jpg",
+      "start_time": "2026-02-14 04:55:00",
+      "end_time": "2026-02-14 06:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Calcio Serie C Sky Wifi: Carpi-Arezzo - 26a g.ta."
-    },
-    {
-      "show_name": "Pallanuoto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/pallanuoto.webp",
-      "start_time": "2026-02-13 04:40:00",
-      "end_time": "2026-02-13 06:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
+      "show_description": "Ciclocross. Mondiali Hulst: Uomini Elite."
     },
     {
       "show_name": "Tour de France",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/tour-de-france.webp",
-      "start_time": "2026-02-13 06:00:00",
-      "end_time": "2026-02-13 07:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/07/02/1751452417200_Tour-de-France-2025-assets2048x1152.jpg",
+      "start_time": "2026-02-14 06:00:00",
+      "end_time": "2026-02-14 07:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Ciclismo. Tour di notte - 6a tappa."
+      "show_description": "Ciclismo. Tour di notte - 7a tappa."
     },
     {
       "show_name": "Tg Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/tg-sport.webp",
-      "start_time": "2026-02-13 07:00:00",
-      "end_time": "2026-02-13 07:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg",
+      "start_time": "2026-02-14 07:00:00",
+      "end_time": "2026-02-14 07:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TG Sport Mattina."
     },
     {
-      "show_name": "Biliardo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/biliardo.webp",
-      "start_time": "2026-02-13 07:30:00",
-      "end_time": "2026-02-13 09:40:00",
+      "show_name": "Atletica",
+      "show_logo": "https://www.raiplay.it/dl/img/2019/11/04/1572864986522_ATLETICA_2048x1152.jpg",
+      "start_time": "2026-02-14 07:30:00",
+      "end_time": "2026-02-14 09:25:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Biliardo. Stecca NBC 3a prova Caltanissetta."
+      "show_description": "Atletica. Udin Jump."
     },
     {
-      "show_name": "Pallavolo: Serie A Femminile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/pallavolo-serie-a-femminile.webp",
-      "start_time": "2026-02-13 09:40:00",
-      "end_time": "2026-02-13 12:10:00",
+      "show_name": "Memory - Rai Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-14 09:25:00",
+      "end_time": "2026-02-14 09:40:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Pallavolo. Serie A1 Tigotà: Monviso-Chieri - 24a g."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 12:10:00",
-      "end_time": "2026-02-13 13:15:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 13:15:00",
-      "end_time": "2026-02-13 14:15:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 14:15:00",
-      "end_time": "2026-02-13 15:30:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
-    },
-    {
-      "show_name": "Radiocorsa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/radiocorsa.webp",
-      "start_time": "2026-02-13 15:30:00",
-      "end_time": "2026-02-13 16:35:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti."
+      "show_description": "Memory: Giorgio Vanzetta."
     },
     {
       "show_name": "Gli imperdibili",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/gli-imperdibili.webp",
-      "start_time": "2026-02-13 16:35:00",
-      "end_time": "2026-02-13 16:40:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2016/12/06/1481048262903_imperdibili-h.jpg",
+      "start_time": "2026-02-14 09:40:00",
+      "end_time": "2026-02-14 09:45:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 16:40:00",
-      "end_time": "2026-02-13 19:15:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 09:45:00",
+      "end_time": "2026-02-14 10:30:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 19:15:00",
-      "end_time": "2026-02-13 20:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 10:30:00",
+      "end_time": "2026-02-14 11:15:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 20:30:00",
-      "end_time": "2026-02-13 21:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 11:15:00",
+      "end_time": "2026-02-14 12:00:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 21:00:00",
-      "end_time": "2026-02-13 23:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 12:00:00",
+      "end_time": "2026-02-14 13:00:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
     },
     {
-      "show_name": "Memory - Rai Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/tomorrow/memory-rai-sport.webp",
-      "start_time": "2026-02-13 23:30:00",
-      "end_time": "2026-02-14 00:00:00",
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 13:00:00",
+      "end_time": "2026-02-14 13:30:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 13:30:00",
+      "end_time": "2026-02-14 14:40:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Serie A Women Athora",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/10/10/1760082582842_Serie%20A%20femminile%202025-26-assets2048x1152.jpg",
+      "start_time": "2026-02-14 14:40:00",
+      "end_time": "2026-02-14 16:45:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Memory: Fratelli Hubner."
+      "show_description": "Calcio Serie A Women Athora: Milan-Fiorentina - 14a g.ta."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 16:45:00",
+      "end_time": "2026-02-14 19:00:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 19:00:00",
+      "end_time": "2026-02-14 20:30:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 20:30:00",
+      "end_time": "2026-02-14 20:45:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 20:45:00",
+      "end_time": "2026-02-14 21:00:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 21:00:00",
+      "end_time": "2026-02-14 21:10:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 21:10:00",
+      "end_time": "2026-02-14 23:40:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Pallavolo: Serie A Femminile",
+      "show_logo": "https://www.raiplay.it/dl/img/2024/09/19/1726736431730_Pallavolo-Lega-Volley-Femminile-serie-A-assets2048x1152.jpg",
+      "start_time": "2026-02-14 23:40:00",
+      "end_time": "2026-02-15 02:10:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Pallavolo. Serie A1 Tigotà: Busto Arsizio-Milano - 25a g.ta."
     }
   ]
 }

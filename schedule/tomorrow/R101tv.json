@@ -1,1335 +1,1326 @@
 {
   "channel_name": "R101tv",
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "programs": [
     {
-      "show_name": "R101 Stories",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:00:00",
-      "end_time": "2026-02-13 00:03:00",
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:00:00",
+      "end_time": "2026-02-14 00:01:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "R101 Stories."
+      "show_description": "R101 Enjoy The WeekEnd."
     },
     {
-      "show_name": "Biagio Antonacci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:03:00",
-      "end_time": "2026-02-13 00:07:00",
-      "episode_number": "",
-      "show_category": "Iris",
-      "show_description": "BIAGIO ANTONACCI."
+      "show_name": "Robin",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:01:00",
+      "end_time": "2026-02-14 00:06:00",
+      "episode_number": "SS",
+      "show_category": "Show Me Love",
+      "show_description": "ROBIN S."
     },
     {
-      "show_name": "Meduza Feat. Goodboys",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:07:00",
-      "end_time": "2026-02-13 00:09:00",
+      "show_name": "Black Eyed Peas",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:06:00",
+      "end_time": "2026-02-14 00:09:00",
       "episode_number": "",
-      "show_category": "Musicale",
-      "show_description": "MEDUZA FEAT. GOODBOYS."
+      "show_category": "Shut Up",
+      "show_description": "BLACK EYED PEAS."
     },
     {
-      "show_name": "Camila Cabello Feat. Ed Sheeran",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:09:00",
-      "end_time": "2026-02-13 00:13:00",
+      "show_name": "Lmfao",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:09:00",
+      "end_time": "2026-02-14 00:14:00",
       "episode_number": "",
-      "show_category": "Bam Bam",
-      "show_description": "CAMILA CABELLO FEAT. ED SHEERAN."
-    },
-    {
-      "show_name": "Noemi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:13:00",
-      "end_time": "2026-02-13 00:16:00",
-      "episode_number": "",
-      "show_category": "Bianca",
-      "show_description": "NOEMI."
-    },
-    {
-      "show_name": "Beyonce'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:16:00",
-      "end_time": "2026-02-13 00:22:00",
-      "episode_number": "",
-      "show_category": "Musicale",
-      "show_description": "Beyonce' Giselle Knowles-Carter, conosciuta come Beyonce' (4 Settembre 1981), e' una cantante statunitense."
-    },
-    {
-      "show_name": "James Blunt",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:22:00",
-      "end_time": "2026-02-13 00:26:00",
-      "episode_number": "",
-      "show_category": "You're Beautiful",
-      "show_description": "James Hillier Blount, conosciuto come James Blunt (22 Febbraio 1974), e' un cantautore britannico."
-    },
-    {
-      "show_name": "Calvin Harris Feat. Dua Lipa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:26:00",
-      "end_time": "2026-02-13 00:29:00",
-      "episode_number": "",
-      "show_category": "One Kiss",
-      "show_description": "Calvin Harris, pseudonimo di Adam Richard Wiles (17 Gennaio 1984), e' un disc jockey, musicista, cantante e produttore discografico britannico. Dua Lipa (Londra, 22 Agosto 1995) e' una cantante e modella britannica di origine albanese."
-    },
-    {
-      "show_name": "Achille Lauro",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:29:00",
-      "end_time": "2026-02-13 00:32:00",
-      "episode_number": "",
-      "show_category": "Senza Una Stupida Storia",
-      "show_description": "ACHILLE LAURO."
-    },
-    {
-      "show_name": "Irama",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:32:00",
-      "end_time": "2026-02-13 00:35:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Irama."
-    },
-    {
-      "show_name": "Lady Antebellum",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:35:00",
-      "end_time": "2026-02-13 00:41:00",
-      "episode_number": "",
-      "show_category": "Need You Now",
-      "show_description": "LADY ANTEBELLUM."
-    },
-    {
-      "show_name": "All Saints",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:41:00",
-      "end_time": "2026-02-13 00:45:00",
-      "episode_number": "",
-      "show_category": "Pure Shores",
-      "show_description": "ALL SAINTS."
-    },
-    {
-      "show_name": "Coez",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:45:00",
-      "end_time": "2026-02-13 00:49:00",
-      "episode_number": "",
-      "show_category": "La Musica Non C'e'",
-      "show_description": "COEZ."
-    },
-    {
-      "show_name": "Purple Disco Machine Feat. Asdis",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:49:00",
-      "end_time": "2026-02-13 00:53:00",
-      "episode_number": "",
-      "show_category": "Beat Of Your Heart",
-      "show_description": "PURPLE DISCO MACHINE FEAT. ASDIS."
-    },
-    {
-      "show_name": "Olivia Dean",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:53:00",
-      "end_time": "2026-02-13 00:56:00",
-      "episode_number": "",
-      "show_category": "Man I Need",
-      "show_description": "OLIVIA DEAN."
-    },
-    {
-      "show_name": "Cesare Cremonini",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:56:00",
-      "end_time": "2026-02-13 01:01:00",
-      "episode_number": "",
-      "show_category": "La Nuova Stella Di Broadway",
-      "show_description": "CESARE CREMONINI."
-    },
-    {
-      "show_name": "Fool's Garden",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:01:00",
-      "end_time": "2026-02-13 01:04:00",
-      "episode_number": "",
-      "show_category": "Lemon Tree",
-      "show_description": "FOOL'S GARDEN."
-    },
-    {
-      "show_name": "Bob Sinclar Feat. Sugarhill Gang",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:04:00",
-      "end_time": "2026-02-13 01:07:00",
-      "episode_number": "",
-      "show_category": "Lala Song",
-      "show_description": "BOB SINCLAR FEAT. SUGARHILL GANG."
-    },
-    {
-      "show_name": "Coldplay Feat. Little Simz, Burna Boy, Elyanna & Tini",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:07:00",
-      "end_time": "2026-02-13 01:11:00",
-      "episode_number": "",
-      "show_category": "We Pray",
-      "show_description": "COLDPLAY FEAT. LITTLE SIMZ, BURNA BOY, ELYANNA & TINI."
+      "show_category": "Party Rock Anthem",
+      "show_description": "LMFAO."
     },
     {
       "show_name": "Annalisa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:11:00",
-      "end_time": "2026-02-13 01:15:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:14:00",
+      "end_time": "2026-02-14 00:17:00",
       "episode_number": "",
       "show_category": "Esibizionista",
       "show_description": "ANNALISA."
     },
     {
-      "show_name": "Macklemore Feat. Wanz",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:15:00",
-      "end_time": "2026-02-13 01:21:00",
+      "show_name": "Yes Boone",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:17:00",
+      "end_time": "2026-02-14 00:24:00",
       "episode_number": "",
-      "show_category": "Thrift Shop",
-      "show_description": "MACKLEMORE FEAT. WANZ."
+      "show_category": "All I Really Want",
+      "show_description": "YES BOONE."
     },
     {
-      "show_name": "Anastacia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:21:00",
-      "end_time": "2026-02-13 01:24:00",
+      "show_name": "Enrique Iglesias",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:24:00",
+      "end_time": "2026-02-14 00:28:00",
       "episode_number": "",
-      "show_category": "Outta Love",
-      "show_description": "Anastacia Lyn Newkirk, nota professionalmente come Anastacia (Chicago, 17 Settembre 1968), e' una cantautrice, compositrice, produttrice discografica, filantropa e stilista statunitense."
-    },
-    {
-      "show_name": "Thegiornalisti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:24:00",
-      "end_time": "2026-02-13 01:28:00",
-      "episode_number": "",
-      "show_category": "New York",
-      "show_description": "Thegiornalisti sono un gruppo musicale pop rock formatosi a Roma nel 2009 e composto da Tommaso Paradiso, Marco Antonio Musella e Marco Primavera."
-    },
-    {
-      "show_name": "The Kid Laroi Feat. Justin Bieber",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:28:00",
-      "end_time": "2026-02-13 01:30:00",
-      "episode_number": "",
-      "show_category": "Stay",
-      "show_description": "THE KID LAROI FEAT. JUSTIN BIEBER."
-    },
-    {
-      "show_name": "Sienna Spiro",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:30:00",
-      "end_time": "2026-02-13 01:34:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Sienna spiro."
-    },
-    {
-      "show_name": "Ace Of Base",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:34:00",
-      "end_time": "2026-02-13 01:38:00",
-      "episode_number": "",
-      "show_category": "Musicale",
-      "show_description": "ACE OF BASE."
-    },
-    {
-      "show_name": "The Kooks",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:38:00",
-      "end_time": "2026-02-13 01:41:00",
-      "episode_number": "",
-      "show_category": "Junk Of The Heart (happy)",
-      "show_description": "THE KOOKS."
-    },
-    {
-      "show_name": "Myles Smith",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:41:00",
-      "end_time": "2026-02-13 01:46:00",
-      "episode_number": "",
-      "show_category": "Gold",
-      "show_description": "MYLES SMITH."
-    },
-    {
-      "show_name": "Amy Macdonald",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:46:00",
-      "end_time": "2026-02-13 01:49:00",
-      "episode_number": "",
-      "show_category": "This Is The Life",
-      "show_description": "AMY MACDONALD."
-    },
-    {
-      "show_name": "Jason Derulo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:49:00",
-      "end_time": "2026-02-13 01:53:00",
-      "episode_number": "",
-      "show_category": "Want To Want Me",
-      "show_description": "Jason Derulo, nome d'arte di Jason Joel Desrouleaux (Miramar, 21 Settembre 1989), e' un cantante e ballerino statunitense."
-    },
-    {
-      "show_name": "Emma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:53:00",
-      "end_time": "2026-02-13 01:56:00",
-      "episode_number": "",
-      "show_category": "Femme Fatale",
-      "show_description": "EMMA."
-    },
-    {
-      "show_name": "Raye",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:56:00",
-      "end_time": "2026-02-13 01:59:00",
-      "episode_number": "",
-      "show_category": "Where Is My Husband!",
-      "show_description": "RAYE."
-    },
-    {
-      "show_name": "John Newman",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 01:59:00",
-      "end_time": "2026-02-13 02:03:00",
-      "episode_number": "",
-      "show_category": "Love Me Again",
-      "show_description": "John Newman (16 Giugno 1990) e' un cantautore britannico."
-    },
-    {
-      "show_name": "Avril Lavigne",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:03:00",
-      "end_time": "2026-02-13 02:07:00",
-      "episode_number": "",
-      "show_category": "Complicated",
-      "show_description": "AVRIL LAVIGNE."
-    },
-    {
-      "show_name": "Elisa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:07:00",
-      "end_time": "2026-02-13 02:11:00",
-      "episode_number": "",
-      "show_category": "Se Piovesse Il Tuo Nome",
-      "show_description": "Elisa Toffoli, conosciuta semplicemente come Elisa (Trieste, 19 Dicembre 1977), e' una cantautrice, compositrice, polistrumentista e produttrice discografica italiana."
-    },
-    {
-      "show_name": "Tate McRae",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:11:00",
-      "end_time": "2026-02-13 02:13:00",
-      "episode_number": "",
-      "show_category": "Greedy",
-      "show_description": "TATE MCRAE."
-    },
-    {
-      "show_name": "David Guetta, Teddy Swims, Tons And",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:13:00",
-      "end_time": "2026-02-13 02:16:00",
-      "episode_number": "S1",
-      "show_category": "Gone Gone Gone",
-      "show_description": "DAVID GUETTA, TEDDY SWIMS, TONS AND I."
-    },
-    {
-      "show_name": "Tiziano Ferro",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:16:00",
-      "end_time": "2026-02-13 02:21:00",
-      "episode_number": "",
-      "show_category": "La Differenza Tra Me E Te",
-      "show_description": "Tiziano Ferro (Latina, 21 Febbraio 1980) e' un cantautore e produttore discografico italiano."
+      "show_category": "Bailamos",
+      "show_description": "ENRIQUE IGLESIAS."
     },
     {
       "show_name": "Madonna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:21:00",
-      "end_time": "2026-02-13 02:24:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:28:00",
+      "end_time": "2026-02-14 00:31:00",
       "episode_number": "",
-      "show_category": "Me",
+      "show_category": "Hung Up",
       "show_description": "Madonna, nome completo Madonna Louise Veronica Ciccone (Bay City, 16 Agosto 1958), e' una cantautrice, ballerina, attrice, regista, sceneggiatrice, stilista, produttrice discografica e cinematografica statunitense."
     },
     {
-      "show_name": "Sia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:24:00",
-      "end_time": "2026-02-13 02:28:00",
+      "show_name": "Jess Glynne",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:31:00",
+      "end_time": "2026-02-14 00:35:00",
       "episode_number": "",
-      "show_category": "Cheap Thrills",
-      "show_description": "Sia Kate Isobelle Furler (Adelaide, 18 dicembre 1975), e' una cantautrice, attrice e compositrice australiana."
+      "show_category": "Don't Be So Hard On Yourself",
+      "show_description": "Jessica Hannah Glynne, meglio conosciuta come Jess Glynne (20 Ottobre 1989), e' una cantante britannica."
     },
     {
-      "show_name": "Tananai",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:28:00",
-      "end_time": "2026-02-13 02:31:00",
+      "show_name": "Harry Styles",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:35:00",
+      "end_time": "2026-02-14 00:40:00",
       "episode_number": "",
-      "show_category": "Tango",
-      "show_description": "TANANAI."
+      "show_category": "Aperture",
+      "show_description": "HARRY STYLES."
     },
     {
-      "show_name": "Benson Boone",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:31:00",
-      "end_time": "2026-02-13 02:35:00",
-      "episode_number": "",
-      "show_category": "Man In Me",
-      "show_description": "BENSON BOONE."
-    },
-    {
-      "show_name": "Ke'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:35:00",
-      "end_time": "2026-02-13 02:40:00",
-      "episode_number": "",
-      "show_category": "Strange World",
-      "show_description": "KE."
-    },
-    {
-      "show_name": "Meghan Trainor",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:40:00",
-      "end_time": "2026-02-13 02:43:00",
+      "show_name": "Joel Corry Feat. Mnek",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:40:00",
+      "end_time": "2026-02-14 00:43:00",
       "episode_number": "",
       "show_category": "Musicale",
-      "show_description": "Meghan Elizabeth Trainor (Nantucket, 22 Dicembre 1993) e' una cantautrice statunitense."
+      "show_description": "JOEL CORRY FEAT. MNEK."
     },
     {
-      "show_name": "Alfa Feat. Manu Chao",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:43:00",
-      "end_time": "2026-02-13 02:46:00",
+      "show_name": "Jason Derulo",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:43:00",
+      "end_time": "2026-02-14 00:50:00",
       "episode_number": "",
-      "show_category": "Me Mi Piace",
-      "show_description": "ALFA FEAT. MANU CHAO."
+      "show_category": "Take You Dancing",
+      "show_description": "Jason Derulo, nome d'arte di Jason Joel Desrouleaux (Miramar, 21 Settembre 1989), e' un cantante e ballerino statunitense."
     },
     {
-      "show_name": "Outkast",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:46:00",
-      "end_time": "2026-02-13 02:50:00",
+      "show_name": "Culture Beat",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:50:00",
+      "end_time": "2026-02-14 00:53:00",
       "episode_number": "",
-      "show_category": "Hey Ya!",
-      "show_description": "OUTKAST."
+      "show_category": "Vain",
+      "show_description": "CULTURE BEAT."
     },
     {
-      "show_name": "Charlie Puth Feat. Selena Gomez",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:50:00",
-      "end_time": "2026-02-13 02:53:00",
+      "show_name": "Beyonce' Feat. Jay Z",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:53:00",
+      "end_time": "2026-02-14 00:57:00",
       "episode_number": "",
-      "show_category": "We Don't Talk Anymore",
-      "show_description": "Charlie Puth, pseudonimo di Charles Otto Puth jr (2 Dicembre 1991), e' un cantante, compositore e produttore discografico statunitense. Selena Marie Gomez (22 Luglio 1992) e' una cantante e attrice statunitense."
+      "show_category": "Crazy In Love",
+      "show_description": "BEYONCE' FEAT. JAY-Z."
     },
     {
-      "show_name": "Topic Feat. A7s",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:53:00",
-      "end_time": "2026-02-13 02:56:00",
+      "show_name": "Ofenbach & Nick Waterhouse",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:57:00",
+      "end_time": "2026-02-14 01:00:00",
       "episode_number": "",
-      "show_category": "Breaking Me",
-      "show_description": "TOPIC FEAT. A7S."
+      "show_category": "Katchi",
+      "show_description": "Gli Ofenbach sono un duo di DJ deep house e dance pop francese, composto da Dorian Lo e Ce'sar de Rummel; hanno ottenuto il successo con la hit Be Mine, pubblicata come singolo nel Novembre 2016. Nicholas Ryan \"Nick\" Waterhouse (8 Febbraio 1986) e' un cantante e produttore discografico americano."
     },
     {
-      "show_name": "Djo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:56:00",
-      "end_time": "2026-02-13 02:59:00",
-      "episode_number": "",
-      "show_category": "End Of Beginning",
-      "show_description": "DJO."
-    },
-    {
-      "show_name": "Max Pezzali",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:59:00",
-      "end_time": "2026-02-13 03:04:00",
-      "episode_number": "",
-      "show_category": "Universo Tranne Noi",
-      "show_description": "MAX PEZZALI."
-    },
-    {
-      "show_name": "Daniel Powter",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:04:00",
-      "end_time": "2026-02-13 03:07:00",
+      "show_name": "Giorgia",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:00:00",
+      "end_time": "2026-02-14 01:03:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Daniel Richard Powter (25 Febbraio 1971) e' un cantante canadese."
+      "show_description": "Giorgia."
     },
     {
-      "show_name": "Robbie Williams",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:07:00",
-      "end_time": "2026-02-13 03:11:00",
+      "show_name": "Kato Feat. Jon",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:03:00",
+      "end_time": "2026-02-14 01:07:00",
       "episode_number": "",
-      "show_category": "Love My Life",
-      "show_description": "Robert Peter Williams, noto come Robbie Williams (13 febbraio 1974), e' un cantautore e musicista britannico. La sua carriera musicale ebbe inizio nel 1990 nella boy band chiamata Take That."
+      "show_category": "",
+      "show_description": "Kato feat. jon."
     },
     {
-      "show_name": "Rkomi Feat. Elodie",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:11:00",
-      "end_time": "2026-02-13 03:14:00",
+      "show_name": "Technotronic",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:07:00",
+      "end_time": "2026-02-14 01:10:00",
       "episode_number": "",
-      "show_category": "La Coda Del Diavolo",
-      "show_description": "RKOMI FEAT. ELODIE."
+      "show_category": "Pump Up The Jam",
+      "show_description": "TECHNOTRONIC."
+    },
+    {
+      "show_name": "Katy Perry",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:10:00",
+      "end_time": "2026-02-14 01:14:00",
+      "episode_number": "",
+      "show_category": "Hot N Cold",
+      "show_description": "Katy perry."
+    },
+    {
+      "show_name": "Alvaro Soler",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:14:00",
+      "end_time": "2026-02-14 01:18:00",
+      "episode_number": "",
+      "show_category": "Sofia",
+      "show_description": "Alvaro Tauchert Soler (Barcellona, 9 gennaio 1991) e' un cantautore spagnolo."
     },
     {
       "show_name": "Miley Cyrus Feat. Lindsey Buckingham & Mick Fleetwood",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:14:00",
-      "end_time": "2026-02-13 03:18:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:18:00",
+      "end_time": "2026-02-14 01:22:00",
       "episode_number": "",
       "show_category": "Secrets",
       "show_description": "MILEY CYRUS FEAT. LINDSEY BUCKINGHAM & MICK FLEETWOOD."
     },
     {
-      "show_name": "Katy Perry",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:18:00",
-      "end_time": "2026-02-13 03:22:00",
+      "show_name": "Kungs Feat. Theophilus London",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:22:00",
+      "end_time": "2026-02-14 01:28:00",
       "episode_number": "",
-      "show_category": "Dark Horse",
-      "show_description": "KATY PERRY."
+      "show_category": "Galaxy",
+      "show_description": "KUNGS FEAT. THEOPHILUS LONDON."
     },
     {
-      "show_name": "Zucchero",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:22:00",
-      "end_time": "2026-02-13 03:25:00",
+      "show_name": "Deee Lite",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:28:00",
+      "end_time": "2026-02-14 01:32:00",
       "episode_number": "",
-      "show_category": "Per Colpa Di Chi?",
-      "show_description": "ZUCCHERO."
+      "show_category": "Groove Is In The Heart",
+      "show_description": "DEEE-LITE."
     },
     {
-      "show_name": "Maroon 5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:25:00",
-      "end_time": "2026-02-13 03:29:00",
+      "show_name": "883",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:32:00",
+      "end_time": "2026-02-14 01:36:00",
+      "episode_number": "",
+      "show_category": "Rmx)",
+      "show_description": "883."
+    },
+    {
+      "show_name": "Mr Probz",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:36:00",
+      "end_time": "2026-02-14 01:40:00",
+      "episode_number": "",
+      "show_category": "Waves (robin Schulz Remix)",
+      "show_description": "MR PROBZ."
+    },
+    {
+      "show_name": "Sombr",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:40:00",
+      "end_time": "2026-02-14 01:44:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "I Maroon 5 sono un gruppo musicale pop rock statunitense, formatosi a Los Angeles nel 1994 e composto da Adam Levine, James Valentine, Matt Flynn e Jesse Carmichael."
+      "show_description": "Sombr."
     },
     {
-      "show_name": "Black Eyed Peas Feat. Anitta & El Alfa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:29:00",
-      "end_time": "2026-02-13 03:33:00",
+      "show_name": "Purple Disco Machine Feat. Moss Kena & The Knocks",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:44:00",
+      "end_time": "2026-02-14 01:50:00",
       "episode_number": "",
-      "show_category": "Simply The Best",
-      "show_description": "BLACK EYED PEAS FEAT. ANITTA & EL ALFA."
+      "show_category": "Fireworks",
+      "show_description": "PURPLE DISCO MACHINE FEAT. MOSS KENA & THE KNOCKS."
     },
     {
-      "show_name": "Sheryl Crow",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:33:00",
-      "end_time": "2026-02-13 03:37:00",
+      "show_name": "Black Box.",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:50:00",
+      "end_time": "2026-02-14 01:55:00",
       "episode_number": "",
-      "show_category": "Run Baby Run",
-      "show_description": "SHERYL CROW."
+      "show_category": "Ride On Time",
+      "show_description": "BLACK BOX."
     },
     {
-      "show_name": "Gary Go",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:37:00",
-      "end_time": "2026-02-13 03:41:00",
+      "show_name": "Inna",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:55:00",
+      "end_time": "2026-02-14 01:58:00",
+      "episode_number": "",
+      "show_category": "Hot",
+      "show_description": "INNA."
+    },
+    {
+      "show_name": "Tiesto & Dzeko Ft. Preme & Post Malone",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:58:00",
+      "end_time": "2026-02-14 02:01:00",
       "episode_number": "",
       "show_category": "Musicale",
-      "show_description": "GARY GO."
-    },
-    {
-      "show_name": "Ed Sheeran",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:41:00",
-      "end_time": "2026-02-13 03:44:00",
-      "episode_number": "",
-      "show_category": "Sapphire",
-      "show_description": "ED SHEERAN."
-    },
-    {
-      "show_name": "Corona",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:44:00",
-      "end_time": "2026-02-13 03:47:00",
-      "episode_number": "",
-      "show_category": "The Rhythm Of The Night",
-      "show_description": "CORONA."
-    },
-    {
-      "show_name": "Bastille",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:47:00",
-      "end_time": "2026-02-13 03:51:00",
-      "episode_number": "",
-      "show_category": "Musicale",
-      "show_description": "I Bastille sono un gruppo musicale britannico formatosi nel 2010 a Londra."
-    },
-    {
-      "show_name": "The Weeknd",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:51:00",
-      "end_time": "2026-02-13 03:55:00",
-      "episode_number": "",
-      "show_category": "Save Your Tears",
-      "show_description": "THE WEEKND."
-    },
-    {
-      "show_name": "Dj Khaled Ft. Rihanna & Bryson Tiller",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:55:00",
-      "end_time": "2026-02-13 03:58:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "DJ Khaled, pseudonimo di Khaled ibn Abdul Khaled (New Orleans, 26 Novembre 1975), e' un disc jockey, produttore discografico statunitense. Robyn Rihanna Fenty, meglio nota come Rihanna (Saint Michael, 20 Febbraio 1988), e' una cantante, attrice e modella delle Barbados. Bryson Djuan Tiller (Louisville, 2 Gennaio 1993) e' un cantante e rapper statunitense."
-    },
-    {
-      "show_name": "Ark",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:58:00",
-      "end_time": "2026-02-13 04:02:00",
-      "episode_number": "",
-      "show_category": "It Takes A Fool To Remain Sane",
-      "show_description": "ARK."
-    },
-    {
-      "show_name": "Jovanotti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:02:00",
-      "end_time": "2026-02-13 04:07:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Jovanotti."
-    },
-    {
-      "show_name": "Kungs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:07:00",
-      "end_time": "2026-02-13 04:10:00",
-      "episode_number": "",
-      "show_category": "Never Going Home",
-      "show_description": "KUNGS."
-    },
-    {
-      "show_name": "Taylor Swift",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:10:00",
-      "end_time": "2026-02-13 04:14:00",
-      "episode_number": "",
-      "show_category": "The Fate Of Ophelia",
-      "show_description": "TAYLOR SWIFT."
-    },
-    {
-      "show_name": "Adele",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:14:00",
-      "end_time": "2026-02-13 04:18:00",
-      "episode_number": "",
-      "show_category": "Hello",
-      "show_description": "Adele Laurie Blue Adkins, conosciuta semplicemente come Adele (Londra, 5 Maggio 1988), e' una cantautrice britannica."
-    },
-    {
-      "show_name": "Alex Britti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:18:00",
-      "end_time": "2026-02-13 04:22:00",
-      "episode_number": "",
-      "show_category": "Solo Una Volta (o Tutta La Vita)",
-      "show_description": "ALEX BRITTI."
-    },
-    {
-      "show_name": "Of Monsters And Men",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:22:00",
-      "end_time": "2026-02-13 04:27:00",
-      "episode_number": "",
-      "show_category": "Little Talks",
-      "show_description": "OF MONSTERS AND MEN."
-    },
-    {
-      "show_name": "Clean Bandit And Mabel Feat. 24kgoldn",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:27:00",
-      "end_time": "2026-02-13 04:30:00",
-      "episode_number": "",
-      "show_category": "Tick Tock",
-      "show_description": "CLEAN BANDIT AND MABEL FEAT. 24KGOLDN."
-    },
-    {
-      "show_name": "Blanco",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:30:00",
-      "end_time": "2026-02-13 04:33:00",
-      "episode_number": "",
-      "show_category": "Anche A Vent'anni Si Muore",
-      "show_description": "BLANCO."
-    },
-    {
-      "show_name": "Lady Gaga",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:33:00",
-      "end_time": "2026-02-13 04:37:00",
-      "episode_number": "",
-      "show_category": "The Dead Dance",
-      "show_description": "LADY GAGA."
-    },
-    {
-      "show_name": "Coldplay",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:37:00",
-      "end_time": "2026-02-13 04:41:00",
-      "episode_number": "",
-      "show_category": "Humankind",
-      "show_description": "COLDPLAY."
-    },
-    {
-      "show_name": "Gorillaz",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:41:00",
-      "end_time": "2026-02-13 04:45:00",
-      "episode_number": "",
-      "show_category": "Clint Eastwood",
-      "show_description": "GORILLAZ."
-    },
-    {
-      "show_name": "Cesare Cremonini",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:45:00",
-      "end_time": "2026-02-13 04:50:00",
-      "episode_number": "",
-      "show_category": "Una Come Te",
-      "show_description": "Cesare Cremonini (Bologna, 27 Marzo 1980) e' un cantautore italiano. E' stato il frontman del gruppo italiano Lunapop e nel 2002 il cantante ha annunciato ufficialmente lo scioglimento del gruppo proseguendo nella sua carriera solista."
-    },
-    {
-      "show_name": "David Guetta & Onerepublic",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:50:00",
-      "end_time": "2026-02-13 04:52:00",
-      "episode_number": "",
-      "show_category": "Don't Wanna Wait",
-      "show_description": "DAVID GUETTA & ONEREPUBLIC."
+      "show_description": "TIESTO & DZEKO FT. PREME & POST MALONE."
     },
     {
       "show_name": "Bruno Mars",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:52:00",
-      "end_time": "2026-02-13 04:56:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:01:00",
+      "end_time": "2026-02-14 02:05:00",
       "episode_number": "",
       "show_category": "Just Might",
       "show_description": "BRUNO MARS."
     },
     {
+      "show_name": "Nico Santos",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:05:00",
+      "end_time": "2026-02-14 02:08:00",
+      "episode_number": "",
+      "show_category": "All Time High",
+      "show_description": "NICO SANTOS."
+    },
+    {
+      "show_name": "Le Vibrazioni",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:08:00",
+      "end_time": "2026-02-14 02:13:00",
+      "episode_number": "",
+      "show_category": "Vieni Da Me",
+      "show_description": "LE VIBRAZIONI."
+    },
+    {
+      "show_name": "Hozier",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:13:00",
+      "end_time": "2026-02-14 02:17:00",
+      "episode_number": "",
+      "show_category": "Take Me To Church",
+      "show_description": "HOZIER."
+    },
+    {
+      "show_name": "Dua Lipa",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:17:00",
+      "end_time": "2026-02-14 02:20:00",
+      "episode_number": "",
+      "show_category": "Physical",
+      "show_description": "Dua Lipa (Londra, 22 Agosto 1995) e' una cantante britannica di origine kosovara."
+    },
+    {
+      "show_name": "Cesare Cremonini",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:20:00",
+      "end_time": "2026-02-14 02:24:00",
+      "episode_number": "",
+      "show_category": "Ragazze Facili",
+      "show_description": "CESARE CREMONINI."
+    },
+    {
+      "show_name": "Merk & Kremont Feat. Dnce",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:24:00",
+      "end_time": "2026-02-14 02:27:00",
+      "episode_number": "",
+      "show_category": "Hands Up",
+      "show_description": "MERK & KREMONT FEAT. DNCE."
+    },
+    {
+      "show_name": "Justin Timberlake",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:27:00",
+      "end_time": "2026-02-14 02:32:00",
+      "episode_number": "",
+      "show_category": "What Goes Around...comes Around",
+      "show_description": "Justin Randall Timberlake (Memphis, 31 Gennaio 1981) e' un cantautore, ballerino, attore e produttore discografico statunitense."
+    },
+    {
+      "show_name": "Taylor Swift",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:32:00",
+      "end_time": "2026-02-14 02:36:00",
+      "episode_number": "",
+      "show_category": "Blank Space",
+      "show_description": "Taylor Alison Swift (13 Dicembre 1989) e' una cantautrice e attrice statunitense."
+    },
+    {
+      "show_name": "Jovanotti Felipe Hostins Gil Oliveira Ronaldo Andrade",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:36:00",
+      "end_time": "2026-02-14 02:39:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Jovanotti felipe hostins gil oliveira ronaldo andrade."
+    },
+    {
+      "show_name": "Sheppard",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:39:00",
+      "end_time": "2026-02-14 02:43:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "SHEPPARD."
+    },
+    {
+      "show_name": "Olly, Juli",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:43:00",
+      "end_time": "2026-02-14 02:47:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Olly, juli."
+    },
+    {
+      "show_name": "Keane",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:47:00",
+      "end_time": "2026-02-14 02:51:00",
+      "episode_number": "",
+      "show_category": "Everybody's Changing",
+      "show_description": "I Keane sono un gruppo musicale alternative rock britannico formatosi nel 1997."
+    },
+    {
+      "show_name": "J Balvin",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:51:00",
+      "end_time": "2026-02-14 02:53:00",
+      "episode_number": "",
+      "show_category": "Ginza",
+      "show_description": "J BALVIN."
+    },
+    {
+      "show_name": "Tommaso Paradiso",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:53:00",
+      "end_time": "2026-02-14 02:57:00",
+      "episode_number": "",
+      "show_category": "Forse",
+      "show_description": "TOMMASO PARADISO."
+    },
+    {
+      "show_name": "The Fray",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:57:00",
+      "end_time": "2026-02-14 03:01:00",
+      "episode_number": "",
+      "show_category": "You Found Me",
+      "show_description": "THE FRAY."
+    },
+    {
+      "show_name": "Cardigans",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:01:00",
+      "end_time": "2026-02-14 03:05:00",
+      "episode_number": "",
+      "show_category": "Erase/rewind",
+      "show_description": "CARDIGANS."
+    },
+    {
+      "show_name": "Ed Sheeran",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:05:00",
+      "end_time": "2026-02-14 03:09:00",
+      "episode_number": "",
+      "show_category": "Photograph",
+      "show_description": "ED SHEERAN."
+    },
+    {
+      "show_name": "Mecna & Coco",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:09:00",
+      "end_time": "2026-02-14 03:12:00",
+      "episode_number": "",
+      "show_category": "La Piu' Bella",
+      "show_description": "MECNA & COCO."
+    },
+    {
+      "show_name": "Myles Smith",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:12:00",
+      "end_time": "2026-02-14 03:15:00",
+      "episode_number": "",
+      "show_category": "Stay (if You Wanna Dance)",
+      "show_description": "MYLES SMITH."
+    },
+    {
+      "show_name": "Stromae",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:15:00",
+      "end_time": "2026-02-14 03:19:00",
+      "episode_number": "",
+      "show_category": "Tous Les Memes",
+      "show_description": "STROMAE."
+    },
+    {
+      "show_name": "Eros Ramazzotti",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:19:00",
+      "end_time": "2026-02-14 03:23:00",
+      "episode_number": "",
+      "show_category": "Fuoco Nel Fuoco",
+      "show_description": "Eros Ramazzotti (Roma, 28 Ottobre 1963), e' un cantautore italiano."
+    },
+    {
+      "show_name": "Zayn Feat. Sia",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:23:00",
+      "end_time": "2026-02-14 03:28:00",
+      "episode_number": "",
+      "show_category": "Dusk Till Dawn",
+      "show_description": "ZAYN FEAT. SIA."
+    },
+    {
+      "show_name": "Onerepublic",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:28:00",
+      "end_time": "2026-02-14 03:30:00",
+      "episode_number": "",
+      "show_category": "Ain't Worried",
+      "show_description": "ONEREPUBLIC."
+    },
+    {
       "show_name": "Irama",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:56:00",
-      "end_time": "2026-02-13 05:00:00",
-      "episode_number": "",
-      "show_category": "Arrogante",
-      "show_description": "Irama, pseudonimo di Filippo Maria Fanti (Carrara, 20 Dicembre 1995), e' un cantautore italiano vincitore della diciassettesima edizione del talent show \"Amici\" di Maria De Filippi."
-    },
-    {
-      "show_name": "R101 Buongiornissimo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 05:00:00",
-      "end_time": "2026-02-13 05:15:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:30:00",
+      "end_time": "2026-02-14 03:33:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "R101 Buongiornissimo."
+      "show_description": "Irama."
     },
     {
-      "show_name": "R101 Buongiornissimo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 05:15:00",
-      "end_time": "2026-02-13 05:31:00",
+      "show_name": "Good Charlotte",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:33:00",
+      "end_time": "2026-02-14 03:36:00",
       "episode_number": "",
-      "show_category": "",
-      "show_description": "R101 Buongiornissimo."
+      "show_category": "Just Wanna Live",
+      "show_description": "GOOD CHARLOTTE."
     },
     {
-      "show_name": "R101 Buongiornissimo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 05:31:00",
-      "end_time": "2026-02-13 06:00:00",
+      "show_name": "Imagine Dragons",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:36:00",
+      "end_time": "2026-02-14 03:39:00",
+      "episode_number": "",
+      "show_category": "Imagine Dragons,",
+      "show_description": "IMAGINE DRAGONS."
+    },
+    {
+      "show_name": "Annalisa Feat. Marco Mengoni",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:39:00",
+      "end_time": "2026-02-14 03:43:00",
+      "episode_number": "",
+      "show_category": "Piazza San Marco",
+      "show_description": "ANNALISA FEAT. MARCO MENGONI."
+    },
+    {
+      "show_name": "Neja",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:43:00",
+      "end_time": "2026-02-14 03:47:00",
+      "episode_number": "",
+      "show_category": "Restless",
+      "show_description": "NEJA."
+    },
+    {
+      "show_name": "Maroon 5",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:47:00",
+      "end_time": "2026-02-14 03:51:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "R101 Buongiornissimo."
+      "show_description": "I Maroon 5 sono un gruppo musicale pop rock statunitense, formatosi a Los Angeles nel 1994 e composto da Adam Levine, James Valentine, Matt Flynn e Jesse Carmichael."
+    },
+    {
+      "show_name": "Lewis Capaldi",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:51:00",
+      "end_time": "2026-02-14 03:55:00",
+      "episode_number": "",
+      "show_category": "Forget Me",
+      "show_description": "LEWIS CAPALDI."
+    },
+    {
+      "show_name": "Noemi",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:55:00",
+      "end_time": "2026-02-14 03:58:00",
+      "episode_number": "",
+      "show_category": "Bianca",
+      "show_description": "NOEMI."
+    },
+    {
+      "show_name": "Nelly Furtado",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:58:00",
+      "end_time": "2026-02-14 04:02:00",
+      "episode_number": "",
+      "show_category": "Like A Bird",
+      "show_description": "NELLY FURTADO."
+    },
+    {
+      "show_name": "The Kolors & Elodie",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:02:00",
+      "end_time": "2026-02-14 04:06:00",
+      "episode_number": "",
+      "show_category": "Pensare Male",
+      "show_description": "The Kolors sono un gruppo musicale italiano formatosi a Napoli nel 2010. Elodie Di Patrizi, conosciuta solo come Elodie (Roma, 3 Maggio 1990), e' una cantante italiana."
+    },
+    {
+      "show_name": "Teddy Swims",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:06:00",
+      "end_time": "2026-02-14 04:09:00",
+      "episode_number": "",
+      "show_category": "Lose Control",
+      "show_description": "TEDDY SWIMS."
+    },
+    {
+      "show_name": "Olivia Dean",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:09:00",
+      "end_time": "2026-02-14 04:12:00",
+      "episode_number": "",
+      "show_category": "Man I Need",
+      "show_description": "OLIVIA DEAN."
+    },
+    {
+      "show_name": "Giorgia",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:12:00",
+      "end_time": "2026-02-14 04:16:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Giorgia."
+    },
+    {
+      "show_name": "Shakira Feat. Wyclef Jean",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:16:00",
+      "end_time": "2026-02-14 04:20:00",
+      "episode_number": "",
+      "show_category": "Hips Don't Lie",
+      "show_description": "SHAKIRA FEAT. WYCLEF JEAN."
+    },
+    {
+      "show_name": "Panic! At The Disco",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:20:00",
+      "end_time": "2026-02-14 04:23:00",
+      "episode_number": "",
+      "show_category": "High Hopes",
+      "show_description": "I Panic! At The Disco sono un gruppo musicale statunitense formatosi a Las Vegas nel 2004."
+    },
+    {
+      "show_name": "The Weeknd",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:23:00",
+      "end_time": "2026-02-14 04:26:00",
+      "episode_number": "",
+      "show_category": "Dancing In The Flames",
+      "show_description": "THE WEEKND."
+    },
+    {
+      "show_name": "Tiziano Ferro",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:26:00",
+      "end_time": "2026-02-14 04:30:00",
+      "episode_number": "",
+      "show_category": "Sono Un Grande",
+      "show_description": "TIZIANO FERRO."
+    },
+    {
+      "show_name": "James Blunt",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:30:00",
+      "end_time": "2026-02-14 04:33:00",
+      "episode_number": "",
+      "show_category": "Heart To Heart",
+      "show_description": "James Hillier Blount, conosciuto come James Blunt (22 Febbraio 1974), e' un cantautore britannico."
+    },
+    {
+      "show_name": "Pinguini Tattici Nucleari",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:33:00",
+      "end_time": "2026-02-14 04:37:00",
+      "episode_number": "",
+      "show_category": "Amaro",
+      "show_description": "PINGUINI TATTICI NUCLEARI."
+    },
+    {
+      "show_name": "Lady Gaga",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:37:00",
+      "end_time": "2026-02-14 04:41:00",
+      "episode_number": "",
+      "show_category": "Abracadabra",
+      "show_description": "LADY GAGA."
+    },
+    {
+      "show_name": "Blue",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:41:00",
+      "end_time": "2026-02-14 04:45:00",
+      "episode_number": "",
+      "show_category": "One Love",
+      "show_description": "BLUE."
+    },
+    {
+      "show_name": "Pink",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:45:00",
+      "end_time": "2026-02-14 04:48:00",
+      "episode_number": "",
+      "show_category": "Blow Me (one Last Kiss)",
+      "show_description": "Pink, nome d'arte di Alecia Beth Moore (8 Settembre 1979) e' una cantautrice e attrice statunitense."
+    },
+    {
+      "show_name": "Alfa",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:48:00",
+      "end_time": "2026-02-14 04:52:00",
+      "episode_number": "",
+      "show_category": "Il Filo Rosso",
+      "show_description": "ALFA."
+    },
+    {
+      "show_name": "Raye",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:52:00",
+      "end_time": "2026-02-14 04:55:00",
+      "episode_number": "",
+      "show_category": "Where Is My Husband!",
+      "show_description": "RAYE."
+    },
+    {
+      "show_name": "Pitbull",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:55:00",
+      "end_time": "2026-02-14 05:00:00",
+      "episode_number": "",
+      "show_category": "Know You Want Me (calle Ocho)",
+      "show_description": "PITBULL."
+    },
+    {
+      "show_name": "R101 Enjoy The Music!",
+      "show_logo": "",
+      "start_time": "2026-02-14 05:00:00",
+      "end_time": "2026-02-14 05:15:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The Music."
+    },
+    {
+      "show_name": "R101 Enjoy The Music!",
+      "show_logo": "",
+      "start_time": "2026-02-14 05:15:00",
+      "end_time": "2026-02-14 05:31:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The Music."
+    },
+    {
+      "show_name": "R101 Enjoy The Music!",
+      "show_logo": "",
+      "start_time": "2026-02-14 05:31:00",
+      "end_time": "2026-02-14 06:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The Music."
+    },
+    {
+      "show_name": "R101 La Canzone Che Ti Fa Stare Bene",
+      "show_logo": "",
+      "start_time": "2026-02-14 06:00:00",
+      "end_time": "2026-02-14 06:15:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 La Canzone Che Ti Fa Stare Bene."
+    },
+    {
+      "show_name": "R101 La Canzone Che Ti Fa Stare Bene",
+      "show_logo": "",
+      "start_time": "2026-02-14 06:15:00",
+      "end_time": "2026-02-14 06:31:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 La Canzone Che Ti Fa Stare Bene."
+    },
+    {
+      "show_name": "R101 La Canzone Che Ti Fa Stare Bene",
+      "show_logo": "",
+      "start_time": "2026-02-14 06:31:00",
+      "end_time": "2026-02-14 07:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 La Canzone Che Ti Fa Stare Bene."
     },
     {
       "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 06:00:00",
-      "end_time": "2026-02-13 06:01:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 07:00:00",
+      "end_time": "2026-02-14 07:01:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TGCOM24 BREAKING NEWS."
     },
     {
-      "show_name": "R101 Buongiornissimo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 06:01:00",
-      "end_time": "2026-02-13 06:17:00",
+      "show_name": "Fantastico Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 07:01:00",
+      "end_time": "2026-02-14 07:17:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "R101 Buongiornissimo."
+      "show_description": "Fantastico Weekend."
     },
     {
-      "show_name": "R101 Buongiornissimo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 06:17:00",
-      "end_time": "2026-02-13 06:33:00",
+      "show_name": "Fantastico Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 07:17:00",
+      "end_time": "2026-02-14 07:33:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "R101 Buongiornissimo."
+      "show_description": "Fantastico Weekend."
     },
     {
-      "show_name": "R101 Buongiornissimo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 06:33:00",
-      "end_time": "2026-02-13 07:00:00",
+      "show_name": "Fantastico Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 07:33:00",
+      "end_time": "2026-02-14 08:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "R101 Buongiornissimo."
+      "show_description": "Fantastico Weekend."
     },
     {
       "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 07:00:00",
-      "end_time": "2026-02-13 07:01:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 08:00:00",
+      "end_time": "2026-02-14 08:01:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TGCOM24 BREAKING NEWS."
     },
     {
-      "show_name": "La Banda Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 07:01:00",
-      "end_time": "2026-02-13 07:17:00",
+      "show_name": "Fantastico Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 08:01:00",
+      "end_time": "2026-02-14 08:20:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "La Banda Di R101."
+      "show_description": "Fantastico Weekend."
     },
     {
-      "show_name": "La Banda Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 07:17:00",
-      "end_time": "2026-02-13 07:33:00",
+      "show_name": "Fantastico Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 08:20:00",
+      "end_time": "2026-02-14 08:38:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "La Banda Di R101."
+      "show_description": "Fantastico Weekend."
     },
     {
-      "show_name": "La Banda Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 07:33:00",
-      "end_time": "2026-02-13 08:00:00",
+      "show_name": "Fantastico Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 08:38:00",
+      "end_time": "2026-02-14 09:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "La Banda Di R101."
+      "show_description": "Fantastico Weekend."
     },
     {
       "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 08:00:00",
-      "end_time": "2026-02-13 08:01:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 09:00:00",
+      "end_time": "2026-02-14 09:01:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TGCOM24 BREAKING NEWS."
     },
     {
-      "show_name": "La Banda Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 08:01:00",
-      "end_time": "2026-02-13 08:19:00",
+      "show_name": "Fantastico Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 09:01:00",
+      "end_time": "2026-02-14 09:19:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "La Banda Di R101."
+      "show_description": "Fantastico Weekend."
     },
     {
-      "show_name": "La Banda Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 08:19:00",
-      "end_time": "2026-02-13 08:37:00",
+      "show_name": "Fantastico Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 09:19:00",
+      "end_time": "2026-02-14 09:37:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "La Banda Di R101."
+      "show_description": "Fantastico Weekend."
     },
     {
-      "show_name": "La Banda Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 08:37:00",
-      "end_time": "2026-02-13 09:00:00",
+      "show_name": "Fantastico Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 09:37:00",
+      "end_time": "2026-02-14 10:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "La Banda Di R101."
+      "show_description": "Fantastico Weekend."
     },
     {
       "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 09:00:00",
-      "end_time": "2026-02-13 09:01:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 10:00:00",
+      "end_time": "2026-02-14 10:01:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TGCOM24 BREAKING NEWS."
     },
     {
-      "show_name": "Procediamo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 09:01:00",
-      "end_time": "2026-02-13 09:19:00",
+      "show_name": "Quelli Del Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 10:01:00",
+      "end_time": "2026-02-14 10:19:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Procediamo."
+      "show_description": "Quelli del Weekend."
     },
     {
-      "show_name": "Procediamo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 09:19:00",
-      "end_time": "2026-02-13 09:37:00",
+      "show_name": "Quelli Del Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 10:19:00",
+      "end_time": "2026-02-14 10:37:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Procediamo."
+      "show_description": "Quelli del Weekend."
     },
     {
-      "show_name": "Procediamo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 09:37:00",
-      "end_time": "2026-02-13 10:16:00",
+      "show_name": "Quelli Del Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 10:37:00",
+      "end_time": "2026-02-14 11:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Procediamo."
-    },
-    {
-      "show_name": "Procediamo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 10:16:00",
-      "end_time": "2026-02-13 10:35:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Procediamo."
-    },
-    {
-      "show_name": "Procediamo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 10:35:00",
-      "end_time": "2026-02-13 11:16:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Procediamo."
-    },
-    {
-      "show_name": "Procediamo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 11:16:00",
-      "end_time": "2026-02-13 11:34:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Procediamo."
-    },
-    {
-      "show_name": "Procediamo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 11:34:00",
-      "end_time": "2026-02-13 12:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Procediamo."
+      "show_description": "Quelli del Weekend."
     },
     {
       "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 12:00:00",
-      "end_time": "2026-02-13 12:01:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 11:00:00",
+      "end_time": "2026-02-14 11:01:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TGCOM24 BREAKING NEWS."
     },
     {
-      "show_name": "I Bonazzi Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 12:01:00",
-      "end_time": "2026-02-13 12:19:00",
+      "show_name": "Quelli Del Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 11:01:00",
+      "end_time": "2026-02-14 11:20:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "I Bonazzi di R101."
+      "show_description": "Quelli del Weekend."
     },
     {
-      "show_name": "I Bonazzi Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 12:19:00",
-      "end_time": "2026-02-13 12:37:00",
+      "show_name": "Quelli Del Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 11:20:00",
+      "end_time": "2026-02-14 11:37:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "I Bonazzi di R101."
+      "show_description": "Quelli del Weekend."
     },
     {
-      "show_name": "I Bonazzi Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 12:37:00",
-      "end_time": "2026-02-13 13:16:00",
+      "show_name": "Quelli Del Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 11:37:00",
+      "end_time": "2026-02-14 12:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "I Bonazzi di R101."
-    },
-    {
-      "show_name": "I Bonazzi Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 13:16:00",
-      "end_time": "2026-02-13 13:34:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "I Bonazzi di R101."
-    },
-    {
-      "show_name": "I Bonazzi Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 13:34:00",
-      "end_time": "2026-02-13 14:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "I Bonazzi di R101."
+      "show_description": "Quelli del Weekend."
     },
     {
       "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 14:00:00",
-      "end_time": "2026-02-13 14:01:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 12:00:00",
+      "end_time": "2026-02-14 12:01:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TGCOM24 BREAKING NEWS."
     },
     {
-      "show_name": "Good Times",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 14:01:00",
-      "end_time": "2026-02-13 14:20:00",
+      "show_name": "Quelli Del Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 12:01:00",
+      "end_time": "2026-02-14 12:20:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Good Times."
+      "show_description": "Quelli del Weekend."
     },
     {
-      "show_name": "Good Times",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 14:20:00",
-      "end_time": "2026-02-13 14:38:00",
+      "show_name": "Quelli Del Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 12:20:00",
+      "end_time": "2026-02-14 12:38:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Good Times."
+      "show_description": "Quelli del Weekend."
     },
     {
-      "show_name": "Good Times",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 14:38:00",
-      "end_time": "2026-02-13 15:17:00",
+      "show_name": "Quelli Del Weekend",
+      "show_logo": "",
+      "start_time": "2026-02-14 12:38:00",
+      "end_time": "2026-02-14 13:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Good Times."
+      "show_description": "Quelli del Weekend."
     },
     {
-      "show_name": "Good Times",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 15:17:00",
-      "end_time": "2026-02-13 15:35:00",
+      "show_name": "R101 Drive Up",
+      "show_logo": "",
+      "start_time": "2026-02-14 13:00:00",
+      "end_time": "2026-02-14 13:02:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Good Times."
+      "show_description": "Magazine di motori che ci guida tra supercar e auto da sogno, approfondimenti sui modelli piu' recenti e anticipazioni sulle novita' piu' interessanti."
     },
     {
-      "show_name": "Good Times",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 15:35:00",
-      "end_time": "2026-02-13 16:00:00",
+      "show_name": "Belli Felici",
+      "show_logo": "",
+      "start_time": "2026-02-14 13:02:00",
+      "end_time": "2026-02-14 13:20:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Good Times."
+      "show_description": "Belli Felici."
+    },
+    {
+      "show_name": "Belli Felici",
+      "show_logo": "",
+      "start_time": "2026-02-14 13:20:00",
+      "end_time": "2026-02-14 13:38:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Belli Felici."
+    },
+    {
+      "show_name": "Belli Felici",
+      "show_logo": "",
+      "start_time": "2026-02-14 13:38:00",
+      "end_time": "2026-02-14 14:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Belli Felici."
     },
     {
       "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 16:00:00",
-      "end_time": "2026-02-13 16:01:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 14:00:00",
+      "end_time": "2026-02-14 14:01:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TGCOM24 BREAKING NEWS."
     },
     {
-      "show_name": "Cari Amici Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 16:01:00",
-      "end_time": "2026-02-13 16:20:00",
+      "show_name": "Belli Felici",
+      "show_logo": "",
+      "start_time": "2026-02-14 14:01:00",
+      "end_time": "2026-02-14 14:19:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Cari Amici Di R101."
+      "show_description": "Belli Felici."
     },
     {
-      "show_name": "Cari Amici Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 16:20:00",
-      "end_time": "2026-02-13 16:37:00",
+      "show_name": "Belli Felici",
+      "show_logo": "",
+      "start_time": "2026-02-14 14:19:00",
+      "end_time": "2026-02-14 14:37:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Cari Amici Di R101."
+      "show_description": "Belli Felici."
     },
     {
-      "show_name": "Cari Amici Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 16:37:00",
-      "end_time": "2026-02-13 17:00:00",
+      "show_name": "Belli Felici",
+      "show_logo": "",
+      "start_time": "2026-02-14 14:37:00",
+      "end_time": "2026-02-14 15:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Cari Amici Di R101."
+      "show_description": "Belli Felici."
     },
     {
       "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 17:00:00",
-      "end_time": "2026-02-13 17:01:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 15:00:00",
+      "end_time": "2026-02-14 15:01:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TGCOM24 BREAKING NEWS."
     },
     {
-      "show_name": "Cari Amici Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 17:01:00",
-      "end_time": "2026-02-13 17:19:00",
+      "show_name": "Belli Felici",
+      "show_logo": "",
+      "start_time": "2026-02-14 15:01:00",
+      "end_time": "2026-02-14 15:18:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Cari Amici Di R101."
+      "show_description": "Belli Felici."
     },
     {
-      "show_name": "Cari Amici Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 17:19:00",
-      "end_time": "2026-02-13 17:37:00",
+      "show_name": "Belli Felici",
+      "show_logo": "",
+      "start_time": "2026-02-14 15:18:00",
+      "end_time": "2026-02-14 15:36:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Cari Amici Di R101."
+      "show_description": "Belli Felici."
     },
     {
-      "show_name": "Cari Amici Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 17:37:00",
-      "end_time": "2026-02-13 18:00:00",
+      "show_name": "Belli Felici",
+      "show_logo": "",
+      "start_time": "2026-02-14 15:36:00",
+      "end_time": "2026-02-14 16:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Cari Amici Di R101."
-    },
-    {
-      "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 18:00:00",
-      "end_time": "2026-02-13 18:01:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "TGCOM24 BREAKING NEWS."
-    },
-    {
-      "show_name": "I Trafficanti Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 18:01:00",
-      "end_time": "2026-02-13 18:19:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "I Trafficanti Di R101."
-    },
-    {
-      "show_name": "I Trafficanti Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 18:19:00",
-      "end_time": "2026-02-13 18:37:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "I Trafficanti Di R101."
-    },
-    {
-      "show_name": "I Trafficanti Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 18:37:00",
-      "end_time": "2026-02-13 19:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "I Trafficanti Di R101."
+      "show_description": "Belli Felici."
     },
     {
       "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 19:00:00",
-      "end_time": "2026-02-13 19:01:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "TGCOM24 BREAKING NEWS."
-    },
-    {
-      "show_name": "I Trafficanti Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 19:01:00",
-      "end_time": "2026-02-13 19:19:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "I Trafficanti Di R101."
-    },
-    {
-      "show_name": "I Trafficanti Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 19:19:00",
-      "end_time": "2026-02-13 19:36:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "I Trafficanti Di R101."
-    },
-    {
-      "show_name": "I Trafficanti Di R101",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 19:36:00",
-      "end_time": "2026-02-13 20:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "I Trafficanti Di R101."
-    },
-    {
-      "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 20:00:00",
-      "end_time": "2026-02-13 20:01:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "TGCOM24 BREAKING NEWS."
-    },
-    {
-      "show_name": "R101 Made In Italy",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 20:01:00",
-      "end_time": "2026-02-13 20:18:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "R101 MADE IN ITALY."
-    },
-    {
-      "show_name": "R101 Made In Italy",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 20:18:00",
-      "end_time": "2026-02-13 20:36:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "R101 MADE IN ITALY."
-    },
-    {
-      "show_name": "R101 Made In Italy",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 20:36:00",
-      "end_time": "2026-02-13 21:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "R101 MADE IN ITALY."
-    },
-    {
-      "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 21:00:00",
-      "end_time": "2026-02-13 21:01:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 16:00:00",
+      "end_time": "2026-02-14 16:01:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TGCOM24 BREAKING NEWS."
     },
     {
       "show_name": "R101 Enjoy The Weekend!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 21:01:00",
-      "end_time": "2026-02-13 21:19:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 16:01:00",
+      "end_time": "2026-02-14 16:19:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "R101 Enjoy The WeekEnd."
     },
     {
       "show_name": "R101 Enjoy The Weekend!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 21:19:00",
-      "end_time": "2026-02-13 21:36:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 16:19:00",
+      "end_time": "2026-02-14 16:37:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "R101 Enjoy The WeekEnd."
     },
     {
       "show_name": "R101 Enjoy The Weekend!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 21:36:00",
-      "end_time": "2026-02-13 22:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "R101 Enjoy The WeekEnd."
-    },
-    {
-      "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 22:00:00",
-      "end_time": "2026-02-13 22:01:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "TGCOM24 BREAKING NEWS."
-    },
-    {
-      "show_name": "R101 Enjoy The Weekend!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 22:01:00",
-      "end_time": "2026-02-13 22:19:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "R101 Enjoy The WeekEnd."
-    },
-    {
-      "show_name": "R101 Enjoy The Weekend!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 22:19:00",
-      "end_time": "2026-02-13 22:36:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "R101 Enjoy The WeekEnd."
-    },
-    {
-      "show_name": "R101 Enjoy The Weekend!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 22:36:00",
-      "end_time": "2026-02-13 23:00:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 16:37:00",
+      "end_time": "2026-02-14 17:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "R101 Enjoy The WeekEnd."
     },
     {
       "show_name": "Tgcom24 Breaking News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 23:00:00",
-      "end_time": "2026-02-13 23:01:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 17:00:00",
+      "end_time": "2026-02-14 17:01:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TGCOM24 BREAKING NEWS."
     },
     {
       "show_name": "R101 Enjoy The Weekend!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 23:01:00",
-      "end_time": "2026-02-13 23:18:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 17:01:00",
+      "end_time": "2026-02-14 17:19:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "R101 Enjoy The WeekEnd."
     },
     {
       "show_name": "R101 Enjoy The Weekend!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 23:18:00",
-      "end_time": "2026-02-13 23:36:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 17:19:00",
+      "end_time": "2026-02-14 17:37:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "R101 Enjoy The WeekEnd."
     },
     {
       "show_name": "R101 Enjoy The Weekend!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 23:36:00",
-      "end_time": "2026-02-14 00:01:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 17:37:00",
+      "end_time": "2026-02-14 18:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "Tgcom24 Breaking News",
+      "show_logo": "",
+      "start_time": "2026-02-14 18:00:00",
+      "end_time": "2026-02-14 18:01:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "TGCOM24 BREAKING NEWS."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 18:01:00",
+      "end_time": "2026-02-14 18:19:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 18:19:00",
+      "end_time": "2026-02-14 18:37:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 18:37:00",
+      "end_time": "2026-02-14 19:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "Tgcom24 Breaking News",
+      "show_logo": "",
+      "start_time": "2026-02-14 19:00:00",
+      "end_time": "2026-02-14 19:01:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "TGCOM24 BREAKING NEWS."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 19:01:00",
+      "end_time": "2026-02-14 19:20:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 19:20:00",
+      "end_time": "2026-02-14 19:38:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 19:38:00",
+      "end_time": "2026-02-14 20:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "Tgcom24 Breaking News",
+      "show_logo": "",
+      "start_time": "2026-02-14 20:00:00",
+      "end_time": "2026-02-14 20:01:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "TGCOM24 BREAKING NEWS."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 20:01:00",
+      "end_time": "2026-02-14 20:18:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 20:18:00",
+      "end_time": "2026-02-14 20:35:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 20:35:00",
+      "end_time": "2026-02-14 21:16:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 21:16:00",
+      "end_time": "2026-02-14 21:33:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 21:33:00",
+      "end_time": "2026-02-14 22:16:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 22:16:00",
+      "end_time": "2026-02-14 22:33:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 22:33:00",
+      "end_time": "2026-02-14 23:16:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 23:16:00",
+      "end_time": "2026-02-14 23:33:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "R101 Enjoy The WeekEnd."
+    },
+    {
+      "show_name": "R101 Enjoy The Weekend!",
+      "show_logo": "",
+      "start_time": "2026-02-14 23:33:00",
+      "end_time": "2026-02-15 00:01:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "R101 Enjoy The WeekEnd."
