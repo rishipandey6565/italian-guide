@@ -1,114 +1,159 @@
 {
   "channel_name": "SuperTennis HD",
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "programs": [
     {
-      "show_name": "ATP 1000 Roma 2025 - Ep. 6 - Lorenzo Musetti vs Alexander Zverev ATP 1000 Roma # 1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:00:00",
-      "end_time": "2026-02-13 05:50:00",
+      "show_name": "WTA 1000 Doha 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 00:00:00",
+      "end_time": "2026-02-14 01:50:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Lorenzo Musetti vs Alexander Zverev ATP 1000 Roma."
+      "show_description": "Sotto il cielo del Qatar, dove il deserto incontra il futuro, si disputa il primo WTA 1000 della stagione."
+    },
+    {
+      "show_name": "ATP 1000 Roma 2025 - Ep. 5 - Jannik Sinner vs Francisco Cerundolo ATP 1000 Roma 2025 # 1",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 01:50:00",
+      "end_time": "2026-02-14 04:05:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Jannik Sinner vs Francisco Cerundolo ATP 1000 Roma 2025."
     },
     {
       "show_name": "WTA 1000 Doha 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 05:50:00",
-      "end_time": "2026-02-13 07:35:00",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 04:05:00",
+      "end_time": "2026-02-14 05:30:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Sotto il cielo del Qatar, dove il deserto incontra il futuro, si disputa il primo WTA 1000 della stagione."
     },
     {
-      "show_name": "WTA 1000 Doha 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 07:35:00",
-      "end_time": "2026-02-13 12:35:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Sotto il cielo del Qatar, dove il deserto incontra il futuro, si disputa il primo WTA 1000 della stagione."
-    },
-    {
-      "show_name": "ATP 500 Doha 2025 - Ep. 3 - Carlos Alcaraz vs Luca Nardi ATP 500 Doha 2025 # 1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 12:35:00",
-      "end_time": "2026-02-13 15:55:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Carlos Alcaraz vs Luca Nardi ATP 500 Doha 2025."
-    },
-    {
-      "show_name": "Supertennis Today",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 15:55:00",
-      "end_time": "2026-02-13 16:10:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Supertennis Today - Il salotto del Tennis, Studi per e post partita."
-    },
-    {
-      "show_name": "LIVE WTA 1000 DOHA",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 16:10:00",
-      "end_time": "2026-02-13 17:55:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Sotto il cielo del Qatar, dove il deserto incontra il futuro, si disputa il primo WTA 1000 della stagione."
-    },
-    {
-      "show_name": "Supertennis Today",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 17:55:00",
-      "end_time": "2026-02-13 18:05:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Supertennis Today - Il salotto del Tennis, Studi per e post partita."
-    },
-    {
-      "show_name": "LIVE WTA 1000 DOHA",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 18:05:00",
-      "end_time": "2026-02-13 19:50:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Sotto il cielo del Qatar, dove il deserto incontra il futuro, si disputa il primo WTA 1000 della stagione."
-    },
-    {
-      "show_name": "Supertennis Today",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 19:50:00",
-      "end_time": "2026-02-13 20:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Supertennis Today - Il salotto del Tennis, Studi per e post partita."
-    },
-    {
-      "show_name": "ATP 500 Doha 2025 - Ep. 4 - Matteo Berrettini vs Tallon Griekspoor Atp 500 Doha 2025 # 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 20:00:00",
-      "end_time": "2026-02-13 22:20:00",
+      "show_name": "ATP 500 Doha 2025 - Ep. 4 - Matteo Berrettini vs Tallon Griekspoor Atp 500 Doha 2025 # 4",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 05:30:00",
+      "end_time": "2026-02-14 07:25:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Matteo Berrettini vs Tallon Griekspoor Atp 500 Doha 2025."
     },
     {
+      "show_name": "WTA 1000 Doha 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 07:25:00",
+      "end_time": "2026-02-14 11:35:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Sotto il cielo del Qatar, dove il deserto incontra il futuro, si disputa il primo WTA 1000 della stagione."
+    },
+    {
+      "show_name": "WTA 1000 Doha 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 11:35:00",
+      "end_time": "2026-02-14 13:05:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Sotto il cielo del Qatar, dove il deserto incontra il futuro, si disputa il primo WTA 1000 della stagione."
+    },
+    {
       "show_name": "Colpo da campione - Stagione 2026 - Ep. 1 - Colpo da campione - BJK CUP 2025, la cavalcata trionfante",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 22:20:00",
-      "end_time": "2026-02-13 22:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 13:05:00",
+      "end_time": "2026-02-14 13:30:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "I docenti dell'ISF Roberto Lombardi analizzano la tattica e la tecnica dei migliori giocatori e delle migliori giocatrici con l'aiuto della lavagna di videoanalisi."
     },
     {
-      "show_name": "WTA 1000 Doha 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 22:45:00",
-      "end_time": "2026-02-14 01:50:00",
+      "show_name": "ATP 500 Doha 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 13:30:00",
+      "end_time": "2026-02-14 15:50:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Matteo Berrettini vs Novak Djokovic Atp 500 Doha 2025."
+    },
+    {
+      "show_name": "Supertennis Today",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 15:50:00",
+      "end_time": "2026-02-14 16:05:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Supertennis Today - Il salotto del Tennis, Studi per e post partita."
+    },
+    {
+      "show_name": "LIVE WTA 1000 DOHA",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 16:05:00",
+      "end_time": "2026-02-14 18:00:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Sotto il cielo del Qatar, dove il deserto incontra il futuro, si disputa il primo WTA 1000 della stagione."
+    },
+    {
+      "show_name": "Supertennis Today",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 18:00:00",
+      "end_time": "2026-02-14 18:10:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Supertennis Today - Il salotto del Tennis, Studi per e post partita."
+    },
+    {
+      "show_name": "Nitto ATP Finals Torino 2025 - Stag. 2022 Ep. 2 - Jannik Sinner vs Carlos Alcaraz Atp Finals 2025 Finale # 4",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 18:10:00",
+      "end_time": "2026-02-14 19:55:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Jannik Sinner vs Carlos Alcaraz Atp Finals 2025 Finale."
+    },
+    {
+      "show_name": "Supertennis TG",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 19:55:00",
+      "end_time": "2026-02-14 20:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Supertennis TG - L'informazione dall'Italia e dal mondo."
+    },
+    {
+      "show_name": "WTA 1000 Doha 2026",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 20:05:00",
+      "end_time": "2026-02-14 21:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Sotto il cielo del Qatar, dove il deserto incontra il futuro, si disputa il primo WTA 1000 della stagione."
+    },
+    {
+      "show_name": "Tie Movie 2026 - Tie Movie - Nicola vs Pietrangeli",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 21:45:00",
+      "end_time": "2026-02-14 22:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "TieMovie. Il cinema incontra il tennis."
+    },
+    {
+      "show_name": "ATP 1000 Roma 2025 - Ep. 2 - Jannik Sinner vs Tommy Paul Atp 1000 Roma 2025 # 1",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 22:00:00",
+      "end_time": "2026-02-14 23:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Jannik Sinner vs Tommy Paul Atp 1000 Roma 2025."
+    },
+    {
+      "show_name": "Colpo da campione - Stagione 2026 - Ep. 1 - Colpo da campione - BJK CUP 2025, la cavalcata trionfante",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-14 23:45:00",
+      "end_time": "2026-02-15 00:10:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "I docenti dell'ISF Roberto Lombardi analizzano la tattica e la tecnica dei migliori giocatori e delle migliori giocatrici con l'aiuto della lavagna di videoanalisi."
     }
   ]
 }

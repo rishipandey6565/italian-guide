@@ -1,195 +1,222 @@
 {
   "channel_name": "Motor Trend",
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "programs": [
     {
-      "show_name": "Crash Course con I Carmagheddon",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:00:00",
-      "end_time": "2026-02-13 00:00:00",
-      "episode_number": "S1 E2",
-      "show_category": "",
-      "show_description": "Il diavolo su due ruote - I Carmagheddon commentano gli incidenti piu' spettacolari con le motociclette."
-    },
-    {
-      "show_name": "Crash Course con I Carmagheddon",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:00:00",
-      "end_time": "2026-02-13 00:30:00",
-      "episode_number": "S1 E2",
-      "show_category": "",
-      "show_description": "Il diavolo su due ruote - I Carmagheddon commentano gli incidenti piu' spettacolari con le motociclette."
-    },
-    {
-      "show_name": "Affari a quattro ruote",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 00:30:00",
-      "end_time": "2026-02-13 02:25:00",
-      "episode_number": "S13 E3",
-      "show_category": "",
-      "show_description": "St.13 Ep.3 - Mike va alla ricerca di rottami da trasformare con Edd in auto da sogno."
-    },
-    {
-      "show_name": "Reperti d'assalto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:25:00",
-      "end_time": "2026-02-13 04:15:00",
-      "episode_number": "S1 E5",
-      "show_category": "",
-      "show_description": "St.1 Ep.5 - Michael e il suo team vanno alla ricerca di veicoli militari da sistemare."
-    },
-    {
-      "show_name": "Reperti d'assalto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 04:15:00",
-      "end_time": "2026-02-13 06:00:00",
-      "episode_number": "S5 E1",
-      "show_category": "",
-      "show_description": "Un carro armato in giardino - Un cliente britannico ha ordinato il carro armato Centurion di Michael. Tuttavia, arrivare in Gran Bretagna non sara' facile."
-    },
-    {
-      "show_name": "Come e' fatto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 06:00:00",
-      "end_time": "2026-02-13 06:30:00",
-      "episode_number": "S6 E8",
-      "show_category": "",
-      "show_description": "St.6 Ep.8 - Isolamento con lana di vetro, distributori di gomma da masticare, sistemi di scarico: vari oggetti quotidiani vengono minuziosamente esaminati per spiegare come funzionano."
-    },
-    {
-      "show_name": "Marchio di fabbrica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 06:30:00",
-      "end_time": "2026-02-13 06:55:00",
-      "episode_number": "S10 E14",
-      "show_category": "",
-      "show_description": "St.10 Ep.14 - Esaminiamo altri oggetti e scopriamo come vengono prodotti i pezzi del mah-jong e il marmo. E come vengono realizzati gli scivoli di emergenza?"
-    },
-    {
-      "show_name": "Come e' fatto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 06:55:00",
-      "end_time": "2026-02-13 07:25:00",
-      "episode_number": "S6 E9",
-      "show_category": "",
-      "show_description": "St.6 Ep.9 - Dischi di vinile, panini, canoe di cedro: i piu' svariati oggetti quotidiani vengono minuziosamente esaminati per spiegare come funzionano."
-    },
-    {
-      "show_name": "Reperti d'assalto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 07:25:00",
-      "end_time": "2026-02-13 09:05:00",
-      "episode_number": "S6 E5",
-      "show_category": "",
-      "show_description": "St.6 Ep.5 - Michael Manousakis, insieme al suo straordinario team, va alla ricerca di vecchi veicoli militari dismessi da restaurare accuratamente."
-    },
-    {
-      "show_name": "Reperti d'assalto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 09:05:00",
-      "end_time": "2026-02-13 10:55:00",
-      "episode_number": "S6 E7",
-      "show_category": "",
-      "show_description": "St.6 Ep.7 - Michael Manousakis va alla ricerca di vecchi veicoli militari."
-    },
-    {
-      "show_name": "Vintage Garage",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 10:55:00",
-      "end_time": "2026-02-13 12:05:00",
-      "episode_number": "S3 E11",
-      "show_category": "",
-      "show_description": "Citroen 2 - FranCois Allain seleziona la migliore officina per restaurare, in soli 15 giorni, prestigiose auto vintage da rimettere subito sul mercato."
-    },
-    {
-      "show_name": "Vintage Garage",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 12:05:00",
-      "end_time": "2026-02-13 13:15:00",
-      "episode_number": "S3 E12",
-      "show_category": "",
-      "show_description": "New Axa - FranCois Allain seleziona la migliore officina per restaurare, in soli 15 giorni, prestigiose auto vintage da rimettere subito sul mercato."
-    },
-    {
-      "show_name": "Vintage Garage",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 13:15:00",
-      "end_time": "2026-02-13 14:25:00",
-      "episode_number": "S3 E13",
-      "show_category": "",
-      "show_description": "Corvette Stingray - FranCois Allain seleziona la migliore officina per restaurare, in soli 15 giorni, prestigiose auto vintage da rimettere subito sul mercato."
-    },
-    {
-      "show_name": "Chi cerca trova: auto da sogno",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 14:25:00",
-      "end_time": "2026-02-13 15:25:00",
-      "episode_number": "S5 E5",
-      "show_category": "",
-      "show_description": "Lancia Montecarlo e Citroen 2CV - Paul e Drew hanno puntato una Lancia Montecarlo. Questo straordinario classico necessita di un grande lavoro; quanto sono disposti a spendere?"
-    },
-    {
-      "show_name": "Chi cerca trova: auto da sogno",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 15:25:00",
-      "end_time": "2026-02-13 16:25:00",
-      "episode_number": "S6 E1",
-      "show_category": "",
-      "show_description": "St.6 Ep.1 - Drew e Paul rimangono affascinati da una Lotus Esprit, resa famosa da James Bond. Per loro questo progetto diventa il restauro piu' grande e piu' costoso di sempre."
-    },
-    {
-      "show_name": "Chi cerca trova: auto da sogno",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 16:25:00",
-      "end_time": "2026-02-13 17:30:00",
-      "episode_number": "S6 E2",
-      "show_category": "",
-      "show_description": "St.6 Ep.2 - Paul convince Drew ad acquistare una Triumph TR4 e rende omaggio a uno dei suoi miti automobilistici. I ragazzi propongono un elemento che non e' mai stato prodotto prima."
-    },
-    {
-      "show_name": "Chi cerca trova: auto da sogno",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 17:30:00",
-      "end_time": "2026-02-13 18:30:00",
-      "episode_number": "S6 E3",
-      "show_category": "",
-      "show_description": "St.6 Ep.3 - Drew e Paul salvano un classico: una Vauxhall Viva. L'auto e' stata ampiamente modificata negli anni '60 ma dopo anni in garage non e' piu' al suo massimo splendore."
-    },
-    {
-      "show_name": "Affari a quattro ruote",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 18:30:00",
-      "end_time": "2026-02-13 20:25:00",
-      "episode_number": "S12 E1",
-      "show_category": "",
-      "show_description": "St.12 Ep.1 - Mike va alla ricerca di rottami da trasformare con Edd in auto da sogno."
-    },
-    {
-      "show_name": "Affari a quattro ruote",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 20:25:00",
-      "end_time": "2026-02-13 22:15:00",
-      "episode_number": "S13 E8",
-      "show_category": "",
-      "show_description": "St.13 Ep.8 - Mike va alla ricerca di rottami da trasformare con Edd in auto da sogno."
-    },
-    {
-      "show_name": "Reperti d'assalto: missione carro armato - 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 22:15:00",
-      "end_time": "2026-02-13 23:10:00",
-      "episode_number": "S1 E5",
-      "show_category": "",
-      "show_description": "St.1 Ep.5 - Michael Manousakis e sua moglie scovano un raro veicolo corazzato."
-    },
-    {
       "show_name": "Reperti d'assalto: missione carro armato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 23:10:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:00:00",
       "end_time": "2026-02-14 00:00:00",
       "episode_number": "S1 E4",
       "show_category": "",
       "show_description": "St.1 Ep.4 - Michael Manousakis e sua moglie scovano un raro veicolo corazzato."
+    },
+    {
+      "show_name": "Reperti d'assalto: missione carro armato",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:00:00",
+      "end_time": "2026-02-14 00:10:00",
+      "episode_number": "S1 E4",
+      "show_category": "",
+      "show_description": "St.1 Ep.4 - Michael Manousakis e sua moglie scovano un raro veicolo corazzato."
+    },
+    {
+      "show_name": "Affari a quattro ruote",
+      "show_logo": "",
+      "start_time": "2026-02-14 00:10:00",
+      "end_time": "2026-02-14 02:05:00",
+      "episode_number": "S13 E4",
+      "show_category": "",
+      "show_description": "St.13 Ep.4 - Mike va alla ricerca di rottami da trasformare con Edd in auto da sogno."
+    },
+    {
+      "show_name": "Reperti d'assalto",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:05:00",
+      "end_time": "2026-02-14 03:55:00",
+      "episode_number": "S5 E2",
+      "show_category": "",
+      "show_description": "Completamente scomposto - Michael ha ottenuto un Jackal 2 dall'esercito britannico. L'unico problema e' che il veicolo risulta diviso in due. Riuscira' il team a sistemarlo?"
+    },
+    {
+      "show_name": "Reperti d'assalto",
+      "show_logo": "",
+      "start_time": "2026-02-14 03:55:00",
+      "end_time": "2026-02-14 05:30:00",
+      "episode_number": "S5 E3",
+      "show_category": "",
+      "show_description": "St.5 Ep.3 - Michael Manousakis e il suo team riescono a scovare qualsiasi veicolo militare. Il genio di Westerwald ha una lunga lista di straordinari progetti in tutto il mondo."
+    },
+    {
+      "show_name": "Come e' fatto",
+      "show_logo": "",
+      "start_time": "2026-02-14 05:30:00",
+      "end_time": "2026-02-14 06:00:00",
+      "episode_number": "S8 E2",
+      "show_category": "",
+      "show_description": "St.8 Ep.2 - Esaminiamo alcuni oggetti d'uso quotidiano e scopriamo come sono fatte le bottiglie di vetro, le seghe per metalli e le maschere di protezione per portieri."
+    },
+    {
+      "show_name": "Come e' fatto",
+      "show_logo": "",
+      "start_time": "2026-02-14 06:00:00",
+      "end_time": "2026-02-14 06:35:00",
+      "episode_number": "S16 E11",
+      "show_category": "",
+      "show_description": "St.16 Ep.11 - Esaminiamo numerosi oggetti di uso quotidiano per scoprire come sono fatti e come vengono prodotti. In questo episodio hummus e sombreri di paglia."
+    },
+    {
+      "show_name": "Come e' fatto",
+      "show_logo": "",
+      "start_time": "2026-02-14 06:35:00",
+      "end_time": "2026-02-14 07:10:00",
+      "episode_number": "S21 E8",
+      "show_category": "",
+      "show_description": "St.21 Ep.8 - Analizziamo diversi oggetti di uso quotidiano e scopriamo come vengono realizzati il vetro pressato, le cabine dei pick-up, la lana di alpaca e i coltellini."
+    },
+    {
+      "show_name": "Marchio di fabbrica",
+      "show_logo": "",
+      "start_time": "2026-02-14 07:10:00",
+      "end_time": "2026-02-14 07:45:00",
+      "episode_number": "S16 E20",
+      "show_category": "",
+      "show_description": "St.16 Ep.20 - Come vengono realizzati i robot subacquei, controllati da remoto, che fanno lavori impossibili per gli esseri umani? Inoltre, come vengono prodotti gli orsetti di peluche?"
+    },
+    {
+      "show_name": "Come e' fatto",
+      "show_logo": "",
+      "start_time": "2026-02-14 07:45:00",
+      "end_time": "2026-02-14 08:20:00",
+      "episode_number": "S16 E12",
+      "show_category": "",
+      "show_description": "St.16 Ep.12 - Esaminiamo numerosi oggetti di uso quotidiano per scoprire come sono fatti e come vengono prodotti. In questo episodio tequila, infradito e letti ad acqua."
+    },
+    {
+      "show_name": "Reperti d'assalto",
+      "show_logo": "",
+      "start_time": "2026-02-14 08:20:00",
+      "end_time": "2026-02-14 09:20:00",
+      "episode_number": "S3 E5",
+      "show_category": "",
+      "show_description": "St.3 Ep.5 - Michael Manousakis, pilota per hobby, vola in America a bordo del suo ultimo 'giocattolino: un Antonov AN2 russo, il piu' grande biplano con motore singolo al mondo."
+    },
+    {
+      "show_name": "Reperti d'assalto",
+      "show_logo": "",
+      "start_time": "2026-02-14 09:20:00",
+      "end_time": "2026-02-14 10:20:00",
+      "episode_number": "S3 E6",
+      "show_category": "",
+      "show_description": "St.3 Ep.6 - Michael Manousakis, pilota per hobby, vola in America a bordo del suo ultimo 'giocattolino: un Antonov AN2 russo, il piu' grande biplano con motore singolo al mondo."
+    },
+    {
+      "show_name": "Reperti d'assalto",
+      "show_logo": "",
+      "start_time": "2026-02-14 10:20:00",
+      "end_time": "2026-02-14 11:20:00",
+      "episode_number": "S4 E1",
+      "show_category": "",
+      "show_description": "St.4 Ep.1 - Michael Manousakis vive un momento di forte pressione. Una delegazione dell'ufficio di vigilanza commerciale si e' preso gioco del suo cantiere. Riuscira' a salvare i suoi affari?"
+    },
+    {
+      "show_name": "Reperti d'assalto",
+      "show_logo": "",
+      "start_time": "2026-02-14 11:20:00",
+      "end_time": "2026-02-14 12:20:00",
+      "episode_number": "S4 E2",
+      "show_category": "",
+      "show_description": "St.4 Ep.2 - Michael Manousakis mette le mani su un GMC Vandura 2500, un furgone reso famoso dalla serie TV \\."
+    },
+    {
+      "show_name": "Reperti d'assalto",
+      "show_logo": "",
+      "start_time": "2026-02-14 12:20:00",
+      "end_time": "2026-02-14 13:25:00",
+      "episode_number": "S4 E3",
+      "show_category": "",
+      "show_description": "St.4 Ep.3 - Michael Manousakis e' in Florida per completare la sua formazione su un velivolo bimotore e ottenere cosi' il brevetto da pilota. Questa volta, riuscira' nel suo intento?"
+    },
+    {
+      "show_name": "Reperti d'assalto",
+      "show_logo": "",
+      "start_time": "2026-02-14 13:25:00",
+      "end_time": "2026-02-14 15:10:00",
+      "episode_number": "S6 E1",
+      "show_category": "",
+      "show_description": "St.6 Ep.1 - Michael Manousakis va alla ricerca di vecchi veicoli militari."
+    },
+    {
+      "show_name": "Reperti d'assalto",
+      "show_logo": "",
+      "start_time": "2026-02-14 15:10:00",
+      "end_time": "2026-02-14 16:55:00",
+      "episode_number": "S6 E2",
+      "show_category": "",
+      "show_description": "St.6 Ep.2 - Michael Manousakis va alla ricerca di vecchi veicoli militari."
+    },
+    {
+      "show_name": "Reperti d'assalto",
+      "show_logo": "",
+      "start_time": "2026-02-14 16:55:00",
+      "end_time": "2026-02-14 18:35:00",
+      "episode_number": "S6 E3",
+      "show_category": "",
+      "show_description": "St.6 Ep.3 - Michael Manousakis va alla ricerca di vecchi veicoli militari."
+    },
+    {
+      "show_name": "Affari a quattro ruote",
+      "show_logo": "",
+      "start_time": "2026-02-14 18:35:00",
+      "end_time": "2026-02-14 19:30:00",
+      "episode_number": "S12 E3",
+      "show_category": "",
+      "show_description": "MGA California - Tutti sanno che la MGB e' un'auto che si e' sempre venduta molto bene. Ma il modello precedente, la MGA, e' l'unica che Mike desidera veramente per la sua officina americana."
+    },
+    {
+      "show_name": "Affari a quattro ruote",
+      "show_logo": "",
+      "start_time": "2026-02-14 19:30:00",
+      "end_time": "2026-02-14 20:25:00",
+      "episode_number": "S12 E4",
+      "show_category": "",
+      "show_description": "BMW 2002TII - Le leggende delle auto Mike Brewer ed Edd China stanno correndo uno dei rischi piu' grandi della loro carriera: stanno per aprire un'attivita' nella competitiva West Coast americana."
+    },
+    {
+      "show_name": "Affari a quattro ruote",
+      "show_logo": "",
+      "start_time": "2026-02-14 20:25:00",
+      "end_time": "2026-02-14 21:20:00",
+      "episode_number": "S12 E5",
+      "show_category": "",
+      "show_description": "AMC Pacer - California - Mike chiede l'aiuto di Edd per sistemare una hatchback degli anni '70. Ma con un budget limitato e strane idee, i due sono sulla buona strada per ottenere qualche profitto?"
+    },
+    {
+      "show_name": "Affari a quattro ruote",
+      "show_logo": "",
+      "start_time": "2026-02-14 21:20:00",
+      "end_time": "2026-02-14 22:15:00",
+      "episode_number": "S12 E6",
+      "show_category": "",
+      "show_description": "Datsun 240Z California - Mike scova un raro modello di un'auto giapponese simile alla MGB GT britannica. Edd deve modificare l'automobile inserendo il cambio manuale. I due otterranno qualche profitto?"
+    },
+    {
+      "show_name": "Affari a quattro ruote Francia - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-14 22:15:00",
+      "end_time": "2026-02-14 23:25:00",
+      "episode_number": "S8 E16",
+      "show_category": "",
+      "show_description": "St.8 Ep.16 - Gerry e Aurelien tornano per acquistare e sistemare auto iconiche."
+    },
+    {
+      "show_name": "Affari a quattro ruote Francia",
+      "show_logo": "",
+      "start_time": "2026-02-14 23:25:00",
+      "end_time": "2026-02-15 00:00:00",
+      "episode_number": "S8 E15",
+      "show_category": "",
+      "show_description": "St.8 Ep.15 - Gerry e Aurelien tornano per acquistare e sistemare auto iconiche."
     }
   ]
 }

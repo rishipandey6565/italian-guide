@@ -1,24 +1,42 @@
 {
   "channel_name": "Sky Sport  252",
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "programs": [
     {
-      "show_name": "Carpi - Arezzo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/today/carpi-arezzo.webp",
-      "start_time": "2026-02-13 00:00:00",
-      "end_time": "2026-02-13 20:00:00",
-      "episode_number": "S2025 E257",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Cabassi di Carpi, Italia."
-    },
-    {
       "show_name": "Genzano - Catania",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/today/genzano-catania.webp",
-      "start_time": "2026-02-13 20:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/50679e81-b1e1-4e3e-95c2-261c9966b049/cover?territory=IT&md5ChecksumParam=e69189d8768b1c985da73d84e39eee80",
+      "start_time": "2026-02-14 00:00:00",
       "end_time": "2026-02-14 14:00:00",
       "episode_number": "S2025 E20",
       "show_category": "Sport",
       "show_description": "Segui la partita di calcio a 5 in programma."
+    },
+    {
+      "show_name": "Benevento - Latina",
+      "show_logo": "https://guidatv.sky.it/uuid/1b5dd4c8-9758-4059-ba07-699e000c791d/cover?territory=IT&md5ChecksumParam=b3751e22e3fe43c0193df86812373bee",
+      "start_time": "2026-02-14 14:00:00",
+      "end_time": "2026-02-14 17:25:00",
+      "episode_number": "S2025 E272",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Ciro Vigorito di Benevento, Italia."
+    },
+    {
+      "show_name": "Calcio Campionato Italiano Serie C - Ep. 276 - Calcio Serie C 27ga Girone C Foggia/ Atalanta U23 14/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/1f74fede-606d-42b5-8688-6b82ed3c1418/cover?territory=IT&md5ChecksumParam=362a123888cf388c25e9c5f496afca70",
+      "start_time": "2026-02-14 17:25:00",
+      "end_time": "2026-02-14 20:30:00",
+      "episode_number": "S2025 E276",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Pino Zaccheria di Foggia, Italia."
+    },
+    {
+      "show_name": "Paris FC - Lens",
+      "show_logo": "https://guidatv.sky.it/uuid/60c56920-38c1-4071-80a4-9914f1a0c26d/cover?territory=IT&md5ChecksumParam=81d64989e96badb73d2b9f4176b92f93",
+      "start_time": "2026-02-14 20:30:00",
+      "end_time": "2026-02-15 14:00:00",
+      "episode_number": "S2025 E71",
+      "show_category": "Sport",
+      "show_description": "Dallo stadio Jean-Bouin di Parigi, Francia."
     }
   ]
 }

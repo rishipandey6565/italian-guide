@@ -1,285 +1,258 @@
 {
   "channel_name": "San Marino RTV",
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "programs": [
     {
-      "show_name": "TG SAN MARINO",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 00:00:00",
-      "end_time": "2026-02-14 00:01:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Notizie sammarinesi e dal mondo."
-    },
-    {
       "show_name": "Meteo Rtv",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 00:01:00",
-      "end_time": "2026-02-14 00:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 00:00:00",
+      "end_time": "2026-02-15 00:02:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "3BMeteo."
     },
     {
-      "show_name": "True Italian Experience",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 00:05:00",
-      "end_time": "2026-02-14 00:32:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Esperienze autentiche in Italia, viaggi originali, storie uniche e luoghi incantati."
-    },
-    {
-      "show_name": "Un posto al sole",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 00:32:00",
-      "end_time": "2026-02-14 00:57:00",
+      "show_name": "Qualcosa di personale",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 00:02:00",
+      "end_time": "2026-02-15 01:01:00",
       "episode_number": "",
       "show_category": "Intrattenimento",
-      "show_description": "Un posto al sole DECIMA serie."
+      "show_description": "Un programma a cura di Monica Fabbri."
     },
     {
-      "show_name": "La donna del mistero",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 00:57:00",
-      "end_time": "2026-02-14 01:42:00",
+      "show_name": "Cailungo - La Fiorita",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 01:01:00",
+      "end_time": "2026-02-15 02:48:00",
       "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Telenovela."
+      "show_category": "Sport",
+      "show_description": "Calcio Campionato Sammarinese 2025-26."
     },
     {
       "show_name": "SMRTV Notte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 01:42:00",
-      "end_time": "2026-02-14 07:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 02:48:00",
+      "end_time": "2026-02-15 07:15:00",
       "episode_number": "",
       "show_category": "Altri Programmi",
       "show_description": "Il meglio dei programmi della giornata."
     },
     {
       "show_name": "Tom and Friends",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 07:15:00",
-      "end_time": "2026-02-14 07:24:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 07:15:00",
+      "end_time": "2026-02-15 08:28:00",
       "episode_number": "",
       "show_category": "Ragazzi e Musica",
       "show_description": "Cartoni Animati."
     },
     {
-      "show_name": "Roxy Bar 2025",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 07:24:00",
-      "end_time": "2026-02-14 10:20:00",
+      "show_name": "Viaggio in musica 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 08:28:00",
+      "end_time": "2026-02-15 09:00:00",
       "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "a cura di Red Ronnie."
-    },
-    {
-      "show_name": "Il Grande Gioco",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 10:20:00",
-      "end_time": "2026-02-14 10:55:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Con Dario Fabbri e Gianmarco Morosini."
-    },
-    {
-      "show_name": "La casa della Salute",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 10:55:00",
-      "end_time": "2026-02-14 12:00:00",
-      "episode_number": "",
-      "show_category": "Altri Programmi",
-      "show_description": "Salute, benessere di Luciano Onder."
-    },
-    {
-      "show_name": "TG Flash",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 12:00:00",
-      "end_time": "2026-02-14 12:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "TG Flash."
-    },
-    {
-      "show_name": "Kitchen Montersino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 12:05:00",
-      "end_time": "2026-02-14 12:25:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Rubrica dello Chef Luca Montersino."
-    },
-    {
-      "show_name": "A tutto Gas",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 12:25:00",
-      "end_time": "2026-02-14 13:15:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Settimanale automobilistico dedicato ai Campionati Italiani. Rally, gare in salita, pista e fuoristrada."
-    },
-    {
-      "show_name": "Dreaming San Marino Song Contest",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 13:15:00",
-      "end_time": "2026-02-14 13:30:00",
-      "episode_number": "",
-      "show_category": "Altri Programmi",
-      "show_description": "Dreaming San Marino Song Contest 2026."
-    },
-    {
-      "show_name": "Cambiare energia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 13:30:00",
-      "end_time": "2026-02-14 14:00:00",
-      "episode_number": "",
-      "show_category": "Altri Programmi",
-      "show_description": "Cambiare energia."
-    },
-    {
-      "show_name": "TG SAN MARINO",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 14:00:00",
-      "end_time": "2026-02-14 14:15:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Notizie sammarinesi e dal mondo."
-    },
-    {
-      "show_name": "TG SPORT",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 14:15:00",
-      "end_time": "2026-02-14 14:23:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Notizie sportive."
-    },
-    {
-      "show_name": "Stadium",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 14:23:00",
-      "end_time": "2026-02-14 14:55:00",
-      "episode_number": "",
-      "show_category": "Altri Programmi",
-      "show_description": "Stadium."
-    },
-    {
-      "show_name": "Cailungo - La Fiorita",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 14:55:00",
-      "end_time": "2026-02-14 15:50:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Calcio Campionato Sammarinese 2025-26."
-    },
-    {
-      "show_name": "PassioneCalcio Giovanile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 15:50:00",
-      "end_time": "2026-02-14 15:59:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Rubrica sul mondo del calcio dei giovani. A cura di Elia Gorini e Paolo Crescentini."
-    },
-    {
-      "show_name": "Cailungo - La Fiorita",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 15:59:00",
-      "end_time": "2026-02-14 16:55:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Calcio Campionato Sammarinese 2025-26."
-    },
-    {
-      "show_name": "A tutto Gas Historic",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 16:55:00",
-      "end_time": "2026-02-14 17:12:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Magazine automobilistico dedicato ai Campionati Italiani Rally Storico, regolarita'."
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Viaggio in musica 2025."
     },
     {
       "show_name": "Il colore nascosto delle cose",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 17:12:00",
-      "end_time": "2026-02-14 19:11:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 09:00:00",
+      "end_time": "2026-02-15 11:00:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Regia di Silvio Soldini con V. Golino, A.Giannini, A. Scommegna."
     },
     {
+      "show_name": "Santa Messa",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 11:00:00",
+      "end_time": "2026-02-15 11:57:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "Diretta Santa Messa."
+    },
+    {
+      "show_name": "Kitchen Montersino",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 11:57:00",
+      "end_time": "2026-02-15 12:14:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Rubrica dello Chef Luca Montersino."
+    },
+    {
+      "show_name": "Rubrica",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 12:14:00",
+      "end_time": "2026-02-15 12:36:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "Rubrica."
+    },
+    {
       "show_name": "Dreaming San Marino Song Contest",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 19:11:00",
-      "end_time": "2026-02-14 19:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 12:36:00",
+      "end_time": "2026-02-15 12:54:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "Dreaming San Marino Song Contest 2026."
+    },
+    {
+      "show_name": "La Casa della Salute Anthology",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 12:54:00",
+      "end_time": "2026-02-15 14:00:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "Salute, benessere di Luciano Onder."
+    },
+    {
+      "show_name": "TG SAN MARINO",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 14:00:00",
+      "end_time": "2026-02-15 14:07:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Notizie sammarinesi e dal mondo."
+    },
+    {
+      "show_name": "A tutto Gas Historic",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 14:07:00",
+      "end_time": "2026-02-15 14:55:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Magazine automobilistico dedicato ai Campionati Italiani Rally Storico, regolarita'."
+    },
+    {
+      "show_name": "Libertas - Faetano",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 14:55:00",
+      "end_time": "2026-02-15 15:52:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "1T Calcio Campionato Sammarinese 2025-26."
+    },
+    {
+      "show_name": "PassioneCalcio Giovanile",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 15:52:00",
+      "end_time": "2026-02-15 15:59:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Rubrica sul mondo del calcio dei giovani. A cura di Elia Gorini e Paolo Crescentini."
+    },
+    {
+      "show_name": "Libertas - Faetano",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 15:59:00",
+      "end_time": "2026-02-15 16:54:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "1T Calcio Campionato Sammarinese 2025-26."
+    },
+    {
+      "show_name": "Stadium",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 16:54:00",
+      "end_time": "2026-02-15 17:23:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "Stadium."
+    },
+    {
+      "show_name": "Lolita Lobosco - 2^Stagione",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 17:23:00",
+      "end_time": "2026-02-15 19:12:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Puntata 1. Regia di Renato De Maria, Luca Miniero con Luisa Ranieri, Daniele Pecci, Giovanni Ludeno, Jacopo Cullin, Bianca Nappi, Giulia Fiume, Camilla Diana, Claudia Lerro, Daniela Virgilio."
+    },
+    {
+      "show_name": "Dreaming San Marino Song Contest",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 19:12:00",
+      "end_time": "2026-02-15 19:30:00",
       "episode_number": "",
       "show_category": "Altri Programmi",
       "show_description": "Dreaming San Marino Song Contest 2026."
     },
     {
       "show_name": "TG SAN MARINO",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 19:30:00",
-      "end_time": "2026-02-14 20:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 19:30:00",
+      "end_time": "2026-02-15 19:42:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Notizie sammarinesi e dal mondo."
     },
     {
-      "show_name": "TG SPORT",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 20:00:00",
-      "end_time": "2026-02-14 20:12:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Notizie sportive."
-    },
-    {
       "show_name": "Meteo Rtv",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 20:12:00",
-      "end_time": "2026-02-14 20:17:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 19:42:00",
+      "end_time": "2026-02-15 19:45:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "3BMeteo."
     },
     {
-      "show_name": "La casa della Salute",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 20:17:00",
-      "end_time": "2026-02-14 21:21:00",
+      "show_name": "Domenica sport",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 19:45:00",
+      "end_time": "2026-02-15 21:00:00",
       "episode_number": "",
-      "show_category": "Altri Programmi",
-      "show_description": "Salute, benessere di Luciano Onder."
+      "show_category": "Informazione",
+      "show_description": "Approfondimento sport."
     },
     {
-      "show_name": "Lolita Lobosco - 2^Stagione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 21:21:00",
-      "end_time": "2026-02-14 23:30:00",
+      "show_name": "Restiamo amici",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 21:00:00",
+      "end_time": "2026-02-15 22:57:00",
       "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Puntata 1. Regia di Renato De Maria, Luca Miniero con Luisa Ranieri, Daniele Pecci, Giovanni Ludeno, Jacopo Cullin, Bianca Nappi, Giulia Fiume, Camilla Diana, Claudia Lerro, Daniela Virgilio."
+      "show_category": "Film",
+      "show_description": "Regia di Antonello Grimaldi con Michele Riondino, Alessandro Roja, Violante Placido, Sveva Alviti, Mirko Trovato, Libero De Rienzo."
+    },
+    {
+      "show_name": "Il Grande Gioco",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 22:57:00",
+      "end_time": "2026-02-15 23:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Con Dario Fabbri e Gianmarco Morosini."
     },
     {
       "show_name": "TG SAN MARINO",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 23:30:00",
-      "end_time": "2026-02-14 23:58:00",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 23:30:00",
+      "end_time": "2026-02-15 23:43:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Notizie sammarinesi e dal mondo."
     },
     {
-      "show_name": "Meteo Rtv",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 23:58:00",
-      "end_time": "2026-02-15 00:02:00",
+      "show_name": "12 Minuti Con",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 23:43:00",
+      "end_time": "2026-02-15 23:56:00",
       "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "3BMeteo."
+      "show_category": "Altri Programmi",
+      "show_description": "12 Minuti Con."
+    },
+    {
+      "show_name": "Roxy Bar 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 23:56:00",
+      "end_time": "2026-02-16 02:55:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "a cura di Red Ronnie."
     }
   ]
 }

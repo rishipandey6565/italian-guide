@@ -1,24 +1,33 @@
 {
   "channel_name": "Sky Sport  253",
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "programs": [
     {
-      "show_name": "Campobasso - Livorno",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-253/today/campobasso-livorno.webp",
-      "start_time": "2026-02-13 00:00:00",
-      "end_time": "2026-02-13 15:30:00",
-      "episode_number": "S2025 E256",
-      "show_category": "Sport",
-      "show_description": "Tutte le partite del campionato di Serie C italiano."
-    },
-    {
       "show_name": "Riyadh P1: Semifinali Sess. Serale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-253/today/riyadh-p1-semifinali-sess-serale.webp",
-      "start_time": "2026-02-13 15:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/4a099837-f3ab-4a68-9f02-173f539df66b/cover?territory=IT&md5ChecksumParam=ef83cd86587693595b475f927cdb0c30",
+      "start_time": "2026-02-14 00:00:00",
       "end_time": "2026-02-14 14:00:00",
       "episode_number": "S2026 E4",
       "show_category": "Sport",
       "show_description": "Seguiamo le gare del Premier Padel Major."
+    },
+    {
+      "show_name": "Cosenza - Audace Cerignola",
+      "show_logo": "https://guidatv.sky.it/uuid/4a00087e-52a7-4b3c-82e4-14591f6438ec/cover?territory=IT&md5ChecksumParam=6a788eb9dbc0dd0b1442dd302888c2f2",
+      "start_time": "2026-02-14 14:00:00",
+      "end_time": "2026-02-14 17:25:00",
+      "episode_number": "S2025 E275",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio San Vito-Gigi Marulla di Cosenza, Italia."
+    },
+    {
+      "show_name": "Picerno - Crotone",
+      "show_logo": "https://guidatv.sky.it/uuid/089e4c25-b05b-4052-a12d-32625deba0cf/cover?territory=IT&md5ChecksumParam=7a37d69cc17643b01bbdfe2502839970",
+      "start_time": "2026-02-14 17:25:00",
+      "end_time": "2026-02-15 14:00:00",
+      "episode_number": "S2025 E271",
+      "show_category": "Sport",
+      "show_description": "Tutte le partite del campionato di Serie C italiano."
     }
   ]
 }

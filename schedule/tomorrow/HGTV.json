@@ -1,249 +1,267 @@
 {
   "channel_name": "HGTV",
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "programs": [
     {
+      "show_name": "Come nuova con Jennifer",
+      "show_logo": "",
+      "start_time": "2026-02-15 00:00:00",
+      "end_time": "2026-02-15 00:00:00",
+      "episode_number": "S3 E2",
+      "show_category": "",
+      "show_description": "Controsoffitti - Jenn aiuta una coppia a ristrutturare casa, ma si scontra con Victor sui controsoffitti."
+    },
+    {
+      "show_name": "Come nuova con Jennifer",
+      "show_logo": "",
+      "start_time": "2026-02-15 00:00:00",
+      "end_time": "2026-02-15 00:05:00",
+      "episode_number": "S3 E2",
+      "show_category": "",
+      "show_description": "Controsoffitti - Jenn aiuta una coppia a ristrutturare casa, ma si scontra con Victor sui controsoffitti."
+    },
+    {
+      "show_name": "Come nuova con Jennifer",
+      "show_logo": "",
+      "start_time": "2026-02-15 00:05:00",
+      "end_time": "2026-02-15 01:10:00",
+      "episode_number": "S3 E3",
+      "show_category": "",
+      "show_description": "Passato e futuro - Jenn progetta uno spazio che ricordi il passato e sia anche proiettato verso il futuro."
+    },
+    {
+      "show_name": "Come nuova con Jennifer",
+      "show_logo": "",
+      "start_time": "2026-02-15 01:10:00",
+      "end_time": "2026-02-15 02:15:00",
+      "episode_number": "S3 E4",
+      "show_category": "",
+      "show_description": "Stile Tudor - Jenn aiuta una coppia a sistemare la loro casa ispirandosi allo stile Tudor."
+    },
+    {
+      "show_name": "Donne in affari",
+      "show_logo": "",
+      "start_time": "2026-02-15 02:15:00",
+      "end_time": "2026-02-15 03:20:00",
+      "episode_number": "S4 E14",
+      "show_category": "",
+      "show_description": "Famiglia riunita - Mina e Karen sistemano un appartamento per la sorella di Mina e le sue figlie."
+    },
+    {
+      "show_name": "Donne in affari",
+      "show_logo": "",
+      "start_time": "2026-02-15 03:20:00",
+      "end_time": "2026-02-15 04:20:00",
+      "episode_number": "S5 E1",
+      "show_category": "",
+      "show_description": "Restauro fai-da-te - Mina e Karen devono trasformare una tradizionale abitazione a due piani."
+    },
+    {
+      "show_name": "Donne in affari",
+      "show_logo": "",
+      "start_time": "2026-02-15 04:20:00",
+      "end_time": "2026-02-15 05:10:00",
+      "episode_number": "S5 E2",
+      "show_category": "",
+      "show_description": "Flashback - Karen e Mina si occupano di un affascinante bungalow dandogli un tocco moderno."
+    },
+    {
+      "show_name": "A caccia di occasioni",
+      "show_logo": "",
+      "start_time": "2026-02-15 05:10:00",
+      "end_time": "2026-02-15 05:30:00",
+      "episode_number": "S1 E3",
+      "show_category": "",
+      "show_description": "Stormville - Due coppie di coniugi si sfidano. Dopo aver fatto degli affari al mercatino delle pulci, entrambe le squadre tentano di trasformare cio' che hanno scovato."
+    },
+    {
+      "show_name": "A caccia di occasioni",
+      "show_logo": "",
+      "start_time": "2026-02-15 05:30:00",
+      "end_time": "2026-02-15 06:00:00",
+      "episode_number": "S1 E4",
+      "show_category": "",
+      "show_description": "Numero fortunato - Due stilisti affrontano una squadra di sorelle nella trasformazione di oggetti di seconda mano. Dopo aver scoperto alcune cose preziose, tentano di sistemarle."
+    },
+    {
+      "show_name": "A caccia di occasioni",
+      "show_logo": "",
+      "start_time": "2026-02-15 06:00:00",
+      "end_time": "2026-02-15 06:25:00",
+      "episode_number": "S1 E3",
+      "show_category": "",
+      "show_description": "Stormville - Due coppie di coniugi si sfidano. Dopo aver fatto degli affari al mercatino delle pulci, entrambe le squadre tentano di trasformare cio' che hanno scovato."
+    },
+    {
       "show_name": "Chi cerca trova",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 00:00:00",
-      "end_time": "2026-02-14 00:00:00",
+      "show_logo": "",
+      "start_time": "2026-02-15 06:25:00",
+      "end_time": "2026-02-15 07:20:00",
+      "episode_number": "S11 E1",
+      "show_category": "",
+      "show_description": "Questione di qualita' - A Tunbridge, Drew rovista tra alcuni pezzi d'antiquariato alla ricerca di qualcosa di qualita'. A Dumfries, analizza una collezione di mobili per trovare qualche tesoro nascosto."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 07:20:00",
+      "end_time": "2026-02-15 08:15:00",
+      "episode_number": "S11 E2",
+      "show_category": "",
+      "show_description": "Francia - Drew e Tee iniziano il loro primo viaggio in Francia per visitare un castello del XVI secolo, nella regione della Loira. Inoltre, si fermano anche ai mercatini di Montsoreau e Viarme."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 08:15:00",
+      "end_time": "2026-02-15 09:15:00",
+      "episode_number": "S11 E3",
+      "show_category": "",
+      "show_description": "Oggetti insoliti - Drew e' a caccia di oggetti rari presso un rivenditore locale di Devizes. Poi, a Leigh-On-Sea scova alcuni oggetti insoliti recuperati dai cantieri."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 09:15:00",
+      "end_time": "2026-02-15 10:10:00",
+      "episode_number": "S11 E4",
+      "show_category": "",
+      "show_description": "Ok il prezzo e' giusto - A Margate, Drew fa un buon affare presso un emporio di cianfrusaglie gestito dai suoi migliori referenti. Poi, presso una villa georgiana del Fife, trova qualcosa di sorprendente."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 10:10:00",
+      "end_time": "2026-02-15 11:05:00",
+      "episode_number": "S11 E5",
+      "show_category": "",
+      "show_description": "Nuovo business - Drew incontra la futura generazione di antiquari. A Macclesfield, conosce una madre e suo figlio, e a Leeds un giovane commerciante particolarmente attratto da pezzi moderni."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 11:05:00",
+      "end_time": "2026-02-15 12:00:00",
+      "episode_number": "S11 E6",
+      "show_category": "",
+      "show_description": "Best Sellers - Drew va a Edimburgo. Qui, in un negozio di antiquariato, scopre una bici americana deluxe degli anni '40. Piu' tardi, trova una scrivania di meta' secolo."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 12:00:00",
+      "end_time": "2026-02-15 13:00:00",
+      "episode_number": "S11 E7",
+      "show_category": "",
+      "show_description": "Nulla di intentato - A Seaton, Drew valuta un paio di proiettori. Nello Yorkshire, usa un coltellino tascabile per vedere se una sedia recentemente imbottita nasconde qualcosa di prezioso."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 13:00:00",
+      "end_time": "2026-02-15 14:00:00",
       "episode_number": "S11 E8",
       "show_category": "",
       "show_description": "Famiglia - Drew avvia una difficile trattativa nel Somerset. E nel Dumfriesshire perlustra una tenuta di famiglia, appartenuta a diverse generazioni e piena di meravigliosi oggetti d'antiquariato."
     },
     {
       "show_name": "Chi cerca trova",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 00:00:00",
-      "end_time": "2026-02-14 00:40:00",
-      "episode_number": "S11 E8",
-      "show_category": "",
-      "show_description": "Famiglia - Drew avvia una difficile trattativa nel Somerset. E nel Dumfriesshire perlustra una tenuta di famiglia, appartenuta a diverse generazioni e piena di meravigliosi oggetti d'antiquariato."
-    },
-    {
-      "show_name": "Chi cerca trova",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 00:40:00",
-      "end_time": "2026-02-14 01:40:00",
+      "show_logo": "",
+      "start_time": "2026-02-15 14:00:00",
+      "end_time": "2026-02-15 15:00:00",
       "episode_number": "S11 E9",
       "show_category": "",
       "show_description": "Storia e origine - In una casa padronale del XIII secolo nello Yorkshire, Drew scopre la storia legata a una bandiera dei tempi della guerra. Inoltre, a Edimburgo visita una cattedrale neo-gotica."
     },
     {
+      "show_name": "Chi cerca trova - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-15 15:00:00",
+      "end_time": "2026-02-15 16:00:00",
+      "episode_number": "S19 E3",
+      "show_category": "",
+      "show_description": "Collezioni - Drew e Al analizzano collezioni curate da esperti e scoprono un pezzo raro."
+    },
+    {
       "show_name": "Chi cerca trova",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 01:40:00",
-      "end_time": "2026-02-14 02:40:00",
+      "show_logo": "",
+      "start_time": "2026-02-15 16:00:00",
+      "end_time": "2026-02-15 17:00:00",
+      "episode_number": "S19 E2",
+      "show_category": "",
+      "show_description": "Tavoli industriali - Drew e Viki fanno nuovi acquisti, tra cui alcuni tavoli in stile industriale."
+    },
+    {
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 17:00:00",
+      "end_time": "2026-02-15 18:00:00",
       "episode_number": "S11 E10",
       "show_category": "",
       "show_description": "Sgombero - Drew fa visita a uno specialista in sgomberi e a Sheffield individua mobili industriali all'interno di una fabbrica del XIX secolo. Inoltre, trova vecchi cimeli da collezione."
     },
     {
-      "show_name": "Chi cerca trova: super restauri",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 02:40:00",
-      "end_time": "2026-02-14 03:40:00",
-      "episode_number": "S3 E7",
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 18:00:00",
+      "end_time": "2026-02-15 19:00:00",
+      "episode_number": "S11 E11",
       "show_category": "",
-      "show_description": "St.3 Ep.7 - Nev si emoziona mentre tenta di sistemare un oggetto antico e molto particolare. Intanto, Alex e Craig lavorano insieme per restaurare una panchina estremamente lunga."
+      "show_description": "Caccia al tesoro - In un centro di antiquariato nel Gloucestershire, Drew trova un oggetto prezioso, finora completamente ignorato. Inoltre, scova tesori perduti in una tenuta nel Kent."
     },
     {
-      "show_name": "Chi cerca trova: super restauri",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 03:40:00",
-      "end_time": "2026-02-14 04:35:00",
-      "episode_number": "S3 E8",
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 19:00:00",
+      "end_time": "2026-02-15 20:00:00",
+      "episode_number": "S11 E12",
       "show_category": "",
-      "show_description": "St.3 Ep.8 - Drew sfida Martin ad attaccare una vecchia borsa da cricket ad un'automobile pre-guerra. Intanto, l'artista Nick e il falegname Chris hanno a che fare con un Buddha intagliato."
+      "show_description": "Persone eccentriche - Nel Lake District, Drew incontra un custode di alpaca e un collezionista attratto da cose particolari. In un castello dello Staffordshire, incontra la sosia di Elisabetta I."
     },
     {
-      "show_name": "Chi cerca trova: super restauri",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 04:35:00",
-      "end_time": "2026-02-14 05:30:00",
-      "episode_number": "S3 E9",
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 20:00:00",
+      "end_time": "2026-02-15 21:00:00",
+      "episode_number": "S13 E7",
       "show_category": "",
-      "show_description": "St.3 Ep.9 - Craig deve stare estremamente attento quando lavora su una rara sedia francese. Intanto, l'esperta di luci Jolene si occupa di una lanterna di 200 anni prima."
+      "show_description": "St.13 Ep.7 - Drew e' nel Devon, dove scopre diversi oggetti strani in un pub country. Inoltre, andra' ad Hastings per occuparsi di alcuni antichi cimeli."
     },
     {
-      "show_name": "A caccia di occasioni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 05:30:00",
-      "end_time": "2026-02-14 06:00:00",
-      "episode_number": "S3 E12",
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 21:00:00",
+      "end_time": "2026-02-15 22:00:00",
+      "episode_number": "S13 E8",
       "show_category": "",
-      "show_description": "Le blogger - Le fashion blogger Helen ed Amy sperano che il loro talento possa aiutarle a battere Nicole e Luke che hanno una grande esperienza nel campo della trasformazione."
+      "show_description": "St.13 Ep.8 - Drew e' in Catalogna, luogo ricco di oggetti antichi spagnoli molto rari. A Peralada, l'esperto visita una casa piena di diversi tesori del XVII secolo."
     },
     {
-      "show_name": "La mia casa da sogno in 100 giorni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 06:00:00",
-      "end_time": "2026-02-14 06:55:00",
-      "episode_number": "S2 E1",
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 22:00:00",
+      "end_time": "2026-02-15 23:00:00",
+      "episode_number": "S13 E9",
       "show_category": "",
-      "show_description": "Posto da sogno - Una coppia e' pronta a costruire la propria casa, ma Brian e Mika devono trovare un compromesso tra gli stili diversi della coppia per creare un posto amato da entrambi."
+      "show_description": "St.13 Ep.9 - Drew arriva in Cornovaglia per acquistare altri oggetti. A Penzance contratta con un uomo che gestisce un deposito. Inoltre, si reca nella casa d'aste piu' attiva della contea."
     },
     {
-      "show_name": "La mia casa da sogno in 100 giorni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 06:55:00",
-      "end_time": "2026-02-14 07:50:00",
-      "episode_number": "S2 E2",
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 23:00:00",
+      "end_time": "2026-02-15 23:55:00",
+      "episode_number": "S13 E10",
       "show_category": "",
-      "show_description": "Una nuova vita insieme - Due agenti di polizia hanno vissuto in una roulotte molto stretta. Brian e Mika tentano di costruire una casa da sogno per i futuri sposi."
+      "show_description": "St.13 Ep.10 - Nel Sussex, Drew e' incredibilmente fortunato quando gli viene offerto di acquistare diversi oggetti di origine francese. Nel Kent, l'esperto esplora una storica ferrovia."
     },
     {
-      "show_name": "La mia casa da sogno in 100 giorni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 07:50:00",
-      "end_time": "2026-02-14 08:45:00",
-      "episode_number": "S2 E3",
+      "show_name": "Chi cerca trova",
+      "show_logo": "",
+      "start_time": "2026-02-15 23:55:00",
+      "end_time": "2026-02-16 00:00:00",
+      "episode_number": "S13 E11",
       "show_category": "",
-      "show_description": "Spazio per i nipoti - Una famiglia allargata vive in una casa molto piccola. La loro lista dei desideri include: quattro camere da letto e un'enorme area in cui potersi divertire."
-    },
-    {
-      "show_name": "Sogni in costruzione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 08:45:00",
-      "end_time": "2026-02-14 09:40:00",
-      "episode_number": "S2 E11",
-      "show_category": "",
-      "show_description": "Modernita' - Una coppia si e' trasferita 28 volte negli ultimi 20 anni. Jenny e Dave trasformano un'abitazione in stile vittoriano in un'abitazione moderna."
-    },
-    {
-      "show_name": "Sogni in costruzione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 09:40:00",
-      "end_time": "2026-02-14 10:40:00",
-      "episode_number": "S2 E12",
-      "show_category": "",
-      "show_description": "Troppo stretti - Una famiglia ama la propria casa a Bentonville ma sta diventando troppo stretta. Dave e Jenny creano uno spazio accogliente e invitante."
-    },
-    {
-      "show_name": "Sogni in costruzione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 10:40:00",
-      "end_time": "2026-02-14 11:40:00",
-      "episode_number": "S2 E13",
-      "show_category": "",
-      "show_description": "Casa rosa - Un'insegnante e' tornata a Bentonville per acquistare la sua prima casa. Dave e Jenny trasformano la struttura fatiscente in una casa dei sogni tutta colorata."
-    },
-    {
-      "show_name": "Sogni in costruzione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 11:40:00",
-      "end_time": "2026-02-14 12:40:00",
-      "episode_number": "S1 E10",
-      "show_category": "",
-      "show_description": "Stile creolo - Una coppia chiede a Dave e Jenny di trasformare una struttura classica in un cottage in stile creolo. La ristrutturazione include porte antiche e lanterne artigianali."
-    },
-    {
-      "show_name": "C'era una volta casa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 12:40:00",
-      "end_time": "2026-02-14 13:40:00",
-      "episode_number": "S7 E15",
-      "show_category": "",
-      "show_description": "Il cottage - Una madre single desidera una casa accogliente come quella in cui e' cresciuta."
-    },
-    {
-      "show_name": "C'era una volta casa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 13:40:00",
-      "end_time": "2026-02-14 14:40:00",
-      "episode_number": "S7 E16",
-      "show_category": "",
-      "show_description": "Benvenuti a Laurel - Ben ed Erin aiutano a trasformare un edificio storico e un alloggio popolare."
-    },
-    {
-      "show_name": "C'era una volta casa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 14:40:00",
-      "end_time": "2026-02-14 15:35:00",
-      "episode_number": "S7 E1",
-      "show_category": "",
-      "show_description": "Grande progetto - Ben ed Erin aiutano una famiglia la cui casa e' stata distrutta da un tornado."
-    },
-    {
-      "show_name": "C'era una volta casa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 15:35:00",
-      "end_time": "2026-02-14 16:30:00",
-      "episode_number": "S7 E2",
-      "show_category": "",
-      "show_description": "Due opzioni - Una giovane designer cerca di comprare la sua prima casa."
-    },
-    {
-      "show_name": "C'era una volta casa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 16:30:00",
-      "end_time": "2026-02-14 17:25:00",
-      "episode_number": "S7 E3",
-      "show_category": "",
-      "show_description": "Posto per tutti - Tre fratelli vogliono una casa abbastanza grande che accolga tutte le loro famiglie."
-    },
-    {
-      "show_name": "Casa su misura",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 17:25:00",
-      "end_time": "2026-02-14 18:20:00",
-      "episode_number": "S4 E12",
-      "show_category": "",
-      "show_description": "Un figlio fa una sorpresa ai genitori - Kelvin e Culetta Beachum cercano una nuova casa. Il loro figlio, Kelvin Beachum Jr, aiutera' in segreto Chip e Joanna Gaines a trovare la dimora perfetta per loro."
-    },
-    {
-      "show_name": "Casa su misura",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 18:20:00",
-      "end_time": "2026-02-14 19:15:00",
-      "episode_number": "S4 E13",
-      "show_category": "",
-      "show_description": "Trasformazione colossale a Crawford - Una coppia trova una casa, ma non e' esattamente quella dei sogni. Tuttavia, sperano che Chip e Joanna riescano a fare le loro solite magie. Ma stavolta sara' veramente dura!"
-    },
-    {
-      "show_name": "Casa su misura: casa di montagna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 19:15:00",
-      "end_time": "2026-02-14 20:10:00",
-      "episode_number": "S1 E1",
-      "show_category": "",
-      "show_description": "In Colorado - Chip e Jo devono trasformare un rifugio di montagna in Colorado."
-    },
-    {
-      "show_name": "Casa su misura: casa di montagna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 20:10:00",
-      "end_time": "2026-02-14 21:05:00",
-      "episode_number": "S1 E2",
-      "show_category": "",
-      "show_description": "Sfide uniche - Chip e Jo affrontano sfide uniche in una ristrutturazione in Colorado."
-    },
-    {
-      "show_name": "Casa su misura: casa di montagna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 21:05:00",
-      "end_time": "2026-02-14 22:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "",
-      "show_description": "Sogni - Chip e Jo continuano a ristrutturare la casa in Colorado."
-    },
-    {
-      "show_name": "Come nuova con Jennifer",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 22:00:00",
-      "end_time": "2026-02-14 23:00:00",
-      "episode_number": "S3 E1",
-      "show_category": "",
-      "show_description": "Design moderno - Jenn aiuta una famiglia, che vive in una casa degli anni '60, ad avere piu' spazio."
-    },
-    {
-      "show_name": "Come nuova con Jennifer",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 23:00:00",
-      "end_time": "2026-02-15 00:00:00",
-      "episode_number": "S3 E2",
-      "show_category": "",
-      "show_description": "Controsoffitti - Jenn aiuta una coppia a ristrutturare casa, ma si scontra con Victor sui controsoffitti."
+      "show_description": "St.13 Ep.11 - In un enorme granaio nel Sussex, Drew scopre una vasta collezione di curiosita' e oggetti legati agli animali. A Cardiff, scopriamo la vera passione di Drew."
     }
   ]
 }

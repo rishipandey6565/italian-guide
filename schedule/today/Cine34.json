@@ -1,150 +1,132 @@
 {
   "channel_name": "Cine34",
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "programs": [
     {
-      "show_name": "L'ultimo Padrino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Cine34/today/l-ultimo-padrino.webp",
-      "start_time": "2026-02-13 00:00:00",
-      "end_time": "2026-02-13 00:54:00",
-      "episode_number": "S1 E2",
+      "show_name": "Ricky & Barabba",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F005656601000102/images/Mediaset_Italia_Production_-_Main/497/892/F005656601000102-2-header-poster-320x260.jpg",
+      "start_time": "2026-02-14 00:00:00",
+      "end_time": "2026-02-14 01:06:00",
+      "episode_number": "",
+      "show_category": "Commedia",
+      "show_description": "La coppia Pozzetto-De Sica in un film diretto ed interpretato da Christian De Sica. Ricky, un imprenditore sull'orlo della bancarotta, tenta il suicidio e viene involontariamente salvato da Barabba, un barbone che si trovava lì per caso. Ricky è disperato: la sua annoiata consorte, responsabile di tutti i suoi guai finanziari, è anche fedifraga, e lo ha piantato per fuggire proprio col suo nemico e concorrente, portando con sé alcuni documenti importanti. Ricky si vede costretto, così, ad inseguirla, in compagnia dell'unica persona che può aiutarlo nell'impresa: il maleodorante Barabba."
+    },
+    {
+      "show_name": "L' Amica Di Mia Madre",
+      "show_logo": "",
+      "start_time": "2026-02-14 01:06:00",
+      "end_time": "2026-02-14 02:45:00",
+      "episode_number": "",
+      "show_category": "Commedia",
+      "show_description": "Billy ospita Barbara, amica della madre, ora all'estero. Visto che la sua fidanzata non si concede, Billy ci prova con Barbara. Con B. Bouchet, C. Villani. Regia di M. Ivaldi; ITA 1975."
+    },
+    {
+      "show_name": "Blue Nude",
+      "show_logo": "",
+      "start_time": "2026-02-14 02:45:00",
+      "end_time": "2026-02-14 04:15:00",
+      "episode_number": "",
       "show_category": "Drammatico",
-      "show_description": "Sfuggito all'ennesimo tentativo di cattura, Provenzano torna a Corleone per dirigere l'attività imprenditoriale di Cosa Nostra. Dopo la scoperta della presenza di una talpa della mafia tra le forze dell'ordine, il vice questore Sanna intuisce che l'unica strategia adatta per catturare \"l'ultimo padrino\" è la stessa da lui adottata: l'assoluta segretezza e invisibilità delle operazioni."
+      "show_description": "Le amare e drammatiche esperienze del giovane italo-americano Rocco Spinone in un'indagine nel crudo ambiente del pornofilm americano. Regia di L. Scattini, con G. Amato, G. Rossi Stuart; ITA 1977."
     },
     {
-      "show_name": "Una Notte Da Dottore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Cine34/today/una-notte-da-dottore.webp",
-      "start_time": "2026-02-13 00:54:00",
-      "end_time": "2026-02-13 02:27:00",
-      "episode_number": "",
-      "show_category": "Commedia",
-      "show_description": "Un medico a domicilio, cinico, alcolista e con una forte sciatalgia, chiede ad un giovane e ingenuo rider di sostituirlo nelle visite notturne per non perdere il posto di lavoro. Il medico guida a distanza il rider con un auricolare tra incomprensioni e gaffe di ogni genere. Di visita in visita, alla fine, i due impareranno ad apprezzarsi. Remake della commedia francese \"Chiamate un dottore!\"."
-    },
-    {
-      "show_name": "Il Corpo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 02:27:00",
-      "end_time": "2026-02-13 03:51:00",
+      "show_name": "Top Sensation",
+      "show_logo": "",
+      "start_time": "2026-02-14 04:15:00",
+      "end_time": "2026-02-14 05:37:00",
       "episode_number": "",
       "show_category": "Drammatico",
-      "show_description": "Thriller erotico con Enrico Maria Salerno e Zeudi Araya. Princesse scatena violente passioni in due uomini, causando loro, pero', anche fatali sventure. Regia di L. Scattini; ITA 1974."
-    },
-    {
-      "show_name": "Suor Emanuelle",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 03:51:00",
-      "end_time": "2026-02-13 05:11:00",
-      "episode_number": "",
-      "show_category": "Sexy",
-      "show_description": "Monica e' la figlia d'un ricco commendatore. Un giorno viene sorpresa mentre sta amoreggiando con la matrigna Kris e viene mandata in un collegio di suore. Regia di J. Warren, con G. Tinti, L. Gemser; ITA 1977."
-    },
-    {
-      "show_name": "Vi Racconto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Cine34/today/vi-racconto.webp",
-      "start_time": "2026-02-13 05:11:00",
-      "end_time": "2026-02-13 05:19:00",
-      "episode_number": "S1 E16",
-      "show_category": "Magazine",
-      "show_description": "Rubrica di approfondimento settimanale sul cinema italiano a cura di Enrico Vanzina."
-    },
-    {
-      "show_name": "Vi Racconto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Cine34/today/vi-racconto.webp",
-      "start_time": "2026-02-13 05:19:00",
-      "end_time": "2026-02-13 05:30:00",
-      "episode_number": "S1 E19",
-      "show_category": "Magazine",
-      "show_description": "Rubrica di approfondimento settimanale sul cinema italiano a cura di Enrico Vanzina."
-    },
-    {
-      "show_name": "Cari Fottutissimi Amici",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Cine34/today/cari-fottutissimi-amici.webp",
-      "start_time": "2026-02-13 05:30:00",
-      "end_time": "2026-02-13 07:16:00",
-      "episode_number": "",
-      "show_category": "Commedia",
-      "show_description": "Toscana, agosto 1944. Dopo la liberazione di Firenze il signor Dieci, un ex manager di boxe, mette assieme una squadra di improbabili boxeur per spettacoli pugilistici itineranti, in modo da racimolare soldi per poter sopravvivere. Le cose tra mille difficoltà sembrano procedere abbastanza bene fino a quando non deve accettare la sfida con alcuni soldati americani. Con Paolo Villaggio."
-    },
-    {
-      "show_name": "Sottozero",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 07:16:00",
-      "end_time": "2026-02-13 08:58:00",
-      "episode_number": "",
-      "show_category": "Commedia",
-      "show_description": "Un operaio di Treviso va a lavorare in una piattaforma petrolifera nel mare del Nord, per poter acquistare un bar come sogna da anni. con J. Cala', A. Infanti Regia di G. Polidoro; ITA 1987."
+      "show_description": "La madre di un ragazzo paranoico organizza una crociera, invitando due giovani sposi ed una ragazza che dovrebbe cercare di sedurlo. Con E. Fenech. Regia di O. Alessi; ITA 1969."
     },
     {
       "show_name": "Banzai",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Cine34/today/banzai.webp",
-      "start_time": "2026-02-13 08:58:00",
-      "end_time": "2026-02-13 10:46:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F007897301000101/media/3/3/d670400e-8524-4d2a-82c5-f70c4762d1a7/0cac16da-b334-4655-8317-d79fff7cf78d.jpg",
+      "start_time": "2026-02-14 05:37:00",
+      "end_time": "2026-02-14 06:54:00",
       "episode_number": "",
       "show_category": "Commedia",
       "show_description": "Sergio Colombo, uomo d'affari, va in Canada per concludere un business miliardario. Ma all'aeroporto sbaglia uscita e finisce prima a Bangkok poi a Tokyo. Iniziano per lui una serie di esilaranti avventure."
     },
     {
-      "show_name": "Superfantozzi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Cine34/today/superfantozzi.webp",
-      "start_time": "2026-02-13 10:46:00",
-      "end_time": "2026-02-13 12:44:00",
-      "episode_number": "",
-      "show_category": "Commedia",
-      "show_description": "Un viaggio nella storia per raccontare la sfortuna dell'uomo: dalla Creazione alla Giudea del tempo di Gesù Cristo, dai tornei medievali alle crociate, dal secolo di Robin Hood alla Rivoluzione Francese, e poi ancora la breccia di Porta Pia e la Prima Guerra Mondiale. Ugo Fantozzi è un indomito eterno perdente."
-    },
-    {
       "show_name": "Fantozzi Va In Pensione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Cine34/today/fantozzi-va-in-pensione.webp",
-      "start_time": "2026-02-13 12:44:00",
-      "end_time": "2026-02-13 14:49:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F001626701000101/media/1/1/d2eeb5cb-9c32-45da-9202-e3c62820a7c8/f2551b30-e592-4107-b348-e0dfa8b0f4ae.jpg",
+      "start_time": "2026-02-14 06:54:00",
+      "end_time": "2026-02-14 08:42:00",
       "episode_number": "",
       "show_category": "Comico",
       "show_description": "Cosa c'è di più disperato di uno schiavo che rimpiange le proprie catene? Si ride amaro nel sesto capitolo delle avventure di Fantozzi diretto da Neri Parenti. Il ragionier Ugo ormai in pensione, non sa come occupare il tempo libero e finisce per cercare, e trovare, il modo di tornare in ufficio. Clamorosa tra le umiliazioni e beffe subite, quella dello scippo sistematico al ritiro della pensione."
     },
     {
-      "show_name": "Una Notte Da Dottore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Cine34/today/una-notte-da-dottore.webp",
-      "start_time": "2026-02-13 14:49:00",
-      "end_time": "2026-02-13 16:44:00",
+      "show_name": "Ricky & Barabba",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F005656601000102/images/Mediaset_Italia_Production_-_Main/497/892/F005656601000102-2-header-poster-320x260.jpg",
+      "start_time": "2026-02-14 08:42:00",
+      "end_time": "2026-02-14 10:37:00",
       "episode_number": "",
       "show_category": "Commedia",
-      "show_description": "Un medico a domicilio, cinico, alcolista e con una forte sciatalgia, chiede ad un giovane e ingenuo rider di sostituirlo nelle visite notturne per non perdere il posto di lavoro. Il medico guida a distanza il rider con un auricolare tra incomprensioni e gaffe di ogni genere. Di visita in visita, alla fine, i due impareranno ad apprezzarsi. Remake della commedia francese \"Chiamate un dottore!\"."
+      "show_description": "La coppia Pozzetto-De Sica in un film diretto ed interpretato da Christian De Sica. Ricky, un imprenditore sull'orlo della bancarotta, tenta il suicidio e viene involontariamente salvato da Barabba, un barbone che si trovava lì per caso. Ricky è disperato: la sua annoiata consorte, responsabile di tutti i suoi guai finanziari, è anche fedifraga, e lo ha piantato per fuggire proprio col suo nemico e concorrente, portando con sé alcuni documenti importanti. Ricky si vede costretto, così, ad inseguirla, in compagnia dell'unica persona che può aiutarlo nell'impresa: il maleodorante Barabba."
     },
     {
       "show_name": "I Cassamortari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-13 16:44:00",
-      "end_time": "2026-02-13 18:44:00",
+      "show_logo": "",
+      "start_time": "2026-02-14 10:37:00",
+      "end_time": "2026-02-14 12:41:00",
       "episode_number": "",
       "show_category": "Commedia",
       "show_description": "\"Tutti devono mori', ma solo in pochi ce guadagnano\" e l'agenzia di pompe funebri dei Pasti, in crisi dopo la morte del capofamiglia, aspetta la sua occasione. Regia di C. Amendola; ITA 2020."
     },
     {
-      "show_name": "Sapore Di Mare 2 Un Anno Dopo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Cine34/today/sapore-di-mare-2-un-anno-dopo.webp",
-      "start_time": "2026-02-13 18:44:00",
-      "end_time": "2026-02-13 21:00:00",
-      "episode_number": "",
-      "show_category": "Commedia",
-      "show_description": "Sulle spiagge della Versilia s'intrecciano amori, si allacciano amicizie, si vivono gli ultimi giorni di una stagione felice."
-    },
-    {
       "show_name": "Grand Hotel Excelsior",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Cine34/today/grand-hotel-excelsior.webp",
-      "start_time": "2026-02-13 21:00:00",
-      "end_time": "2026-02-13 23:25:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000522701000101/media/3/3/0ec53cc1-4015-4673-9d70-b7ef23a3d11c/afeaca80-4219-4236-a9d4-85eb1ea103b1.jpg",
+      "start_time": "2026-02-14 12:41:00",
+      "end_time": "2026-02-14 15:06:00",
       "episode_number": "",
       "show_category": "Commedia",
       "show_description": "Quattro episodi compongono questa commedia corale con Carlo Verdone, Adriano Celentano, Enrico Montesano e Diego Abatantuono, tutti ambientati all'interno del Grand Hotel Excelsior, con i suoi ospiti e il suo staff. Le vicende amorose del burbero direttore Taddeus, A. Celentano, con la sua cliente, E. Giorgi; il cameriere che rinnega il suo ruolo davanti alla figlia che frequenta un esclusivo college in Svizzera; il pugile che, per una notte d'amore, rinuncia alla sua promettente carriera; e infine lo sfortunato mago di Segrate. Memorabile la scena finale del concerto con i 4 protagonisti."
     },
     {
-      "show_name": "Ricky & Barabba",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Cine34/today/ricky-barabba.webp",
-      "start_time": "2026-02-13 23:25:00",
-      "end_time": "2026-02-14 01:06:00",
+      "show_name": "Sapore Di Mare 2 Un Anno Dopo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000967101000101/media/29/93/c56fa7ac-8ca7-4932-a8fe-a69e68065762/47f7e2f7-eab3-4a46-b541-f4eb813a9e9f.jpg",
+      "start_time": "2026-02-14 15:06:00",
+      "end_time": "2026-02-14 17:14:00",
       "episode_number": "",
       "show_category": "Commedia",
-      "show_description": "La coppia Pozzetto-De Sica in un film diretto ed interpretato da Christian De Sica. Ricky, un imprenditore sull'orlo della bancarotta, tenta il suicidio e viene involontariamente salvato da Barabba, un barbone che si trovava lì per caso. Ricky è disperato: la sua annoiata consorte, responsabile di tutti i suoi guai finanziari, è anche fedifraga, e lo ha piantato per fuggire proprio col suo nemico e concorrente, portando con sé alcuni documenti importanti. Ricky si vede costretto, così, ad inseguirla, in compagnia dell'unica persona che può aiutarlo nell'impresa: il maleodorante Barabba."
+      "show_description": "Sulle spiagge della Versilia s'intrecciano amori, si allacciano amicizie, si vivono gli ultimi giorni di una stagione felice."
+    },
+    {
+      "show_name": "Piccolo Grande Amore",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F005924906000101/media/19/83/2555f9e2-b9b3-4654-aecd-e880d03ed973/58bb0145-b789-4008-b989-766d708ea38f.jpg",
+      "start_time": "2026-02-14 17:14:00",
+      "end_time": "2026-02-14 19:18:00",
+      "episode_number": "",
+      "show_category": "Commedia",
+      "show_description": "Favola romantica in cui la principessa Sofia, Barbara Snellenburg, si innamora di un maestro di windsurf, Raoul Bova, e rifiuta un matrimonio combinato."
+    },
+    {
+      "show_name": "Matrimonio A Parigi",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F304187401000101/media/0/0/6003a5eb-7b3e-4ba7-9abc-8ed1a946b2f9/d4c361de-7023-4554-a1b9-69e9a5c4c83d.jpg",
+      "start_time": "2026-02-14 19:18:00",
+      "end_time": "2026-02-14 21:15:00",
+      "episode_number": "",
+      "show_category": "Commedia",
+      "show_description": "Durante una vacanza in Francia, per far visita al figlio Mirko, un industriale milanese abituato ad evadere il fisco con ogni mezzo, Massimo Boldi, incontra Gennaro, un finanziere rispettoso della legge, un onestissimo uomo del Sud. Il destino vuole che le due famiglie si ritrovino nella stessa camera d'albergo e che Mirko s'innamori di Natalina, figlia di Gennaro."
+    },
+    {
+      "show_name": "La Moglie In Vacanza... L'amante In Citta'",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000809201000101/media/14/14/c69c09e1-31e9-49fc-9244-90cd3a9664c9/98836e60-41e0-4cc1-8573-af2437639a17.jpg",
+      "start_time": "2026-02-14 21:15:00",
+      "end_time": "2026-02-14 23:25:00",
+      "episode_number": "",
+      "show_category": "Comico",
+      "show_description": "Commedia sexy di Sergio Martino con Edwige Fenech, Barbara Bouchet, Renzo Montagnani, Lino Banfi e Tullio Solenghi. Un ricco industriale, Andrea, tradisce la moglie con Giulia, decisa a prendere il posto di sua moglie. A sua volta la moglie di Andrea, Valeria, è attratta da Giovanni, che si spaccia per un conte. Per una serie di circostanze, i quattro di ritroveranno insieme a Courmayeur."
+    },
+    {
+      "show_name": "Occhio Malocchio Prezzemolo E Finocchio",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000921201000101/media/27/91/5c528129-96bf-42ed-a75c-408e2c3eace3/50cf27e0-dd9c-4d2b-af4f-d338fddf9387.jpg",
+      "start_time": "2026-02-14 23:25:00",
+      "end_time": "2026-02-15 01:47:00",
+      "episode_number": "",
+      "show_category": "Commedia",
+      "show_description": "Film diviso in due episodi.Nel primo un commerciante di elettrodomestici pensa che il suo vicino di casa porti sfortuna ; nel secondo un prestigiatore da strapazzo acquisisce veri poteri magici per merito di una strega."
     }
   ]
 }

@@ -1,267 +1,249 @@
 {
   "channel_name": "Rai2",
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "programs": [
     {
       "show_name": "Notti Olimpiche",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/notti-olimpiche.webp",
-      "start_time": "2026-02-13 00:00:00",
-      "end_time": "2026-02-13 00:55:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/31/1769884837879_Notti%20Olimpiche%202026%202048x1152_logo.jpg",
+      "start_time": "2026-02-14 00:00:00",
+      "end_time": "2026-02-14 00:20:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "Il racconto delle Olimpiadi invernali con gli highlights della giornata e approfondimenti sul medagliere dell'Italia tra commenti, interviste, immagini e anteprime degli impegni del giorno dopo."
     },
     {
+      "show_name": "Snow Show",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/12/1770927020718_1.png",
+      "start_time": "2026-02-14 00:20:00",
+      "end_time": "2026-02-14 00:25:00",
+      "episode_number": "S2026 E1",
+      "show_category": "",
+      "show_description": "Uno studio televisivo sospeso nel vuoto a quota 3000 metri sul livello del mare? Con Snow Show è possibile. Il primo ospite ad accompagnare Gabriele Corsi fino alla vetta è la grande schermitrice e campionessa olimpica Elisa Di Francisca."
+    },
+    {
       "show_name": "Tg Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/tg-sport.webp",
-      "start_time": "2026-02-13 00:55:00",
-      "end_time": "2026-02-13 01:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg",
+      "start_time": "2026-02-14 00:25:00",
+      "end_time": "2026-02-14 00:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Tg Sport Notte."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 01:00:00",
-      "end_time": "2026-02-13 01:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 00:30:00",
+      "end_time": "2026-02-14 01:30:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "A cura di Rai Sport."
     },
     {
-      "show_name": "Meteo 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/meteo-2.webp",
-      "start_time": "2026-02-13 01:30:00",
-      "end_time": "2026-02-13 01:34:00",
+      "show_name": "Appuntamento al cinema",
+      "show_logo": "https://www.raiplay.it/dl/img/2016/07/01/1467382228407_cinema_oo.jpg",
+      "start_time": "2026-02-14 01:30:00",
+      "end_time": "2026-02-14 01:37:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": ""
+      "show_description": "Rubrica per la promozione della cultura cinematografica in Italia."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 01:34:00",
-      "end_time": "2026-02-13 08:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-14 01:37:00",
+      "end_time": "2026-02-14 08:30:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "A cura di Rai Sport."
     },
     {
-      "show_name": "Tg2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/tg2.webp",
-      "start_time": "2026-02-13 08:30:00",
-      "end_time": "2026-02-13 08:45:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
       "show_name": "Mattina Olimpica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/mattina-olimpica.webp",
-      "start_time": "2026-02-13 08:45:00",
-      "end_time": "2026-02-13 09:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769520529813_Mattina%20Olimpica-assets2048x1152.jpg",
+      "start_time": "2026-02-14 08:30:00",
+      "end_time": "2026-02-14 09:00:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "Tommaso Mecarozzi accompagna il pubblico nel risveglio olimpico, con il racconto delle Olimpiadi invernali, analisi e commenti per iniziare la giornata. In studio l'ex campione olimpico di sci di fondo Pietro Piller Cottrer e Barbara Pedrotti."
     },
     {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 09:30:00",
-      "end_time": "2026-02-13 10:00:00",
-      "episode_number": "S2026",
+      "show_name": "Snow Show",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/12/1770927020718_1.png",
+      "start_time": "2026-02-14 09:00:00",
+      "end_time": "2026-02-14 09:05:00",
+      "episode_number": "S2026 E1",
       "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
+      "show_description": "Uno studio televisivo sospeso nel vuoto a quota 3000 metri sul livello del mare? Con Snow Show è possibile. Il primo ospite ad accompagnare Gabriele Corsi fino alla vetta è la grande schermitrice e campionessa olimpica Elisa Di Francisca."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 10:00:00",
-      "end_time": "2026-02-13 11:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/13/1771003406916_Italia-vs-Korea-del-sud-di-curling-alle-Olimpiadi-Milano-Cortina-2026-24128397_large.jpg",
+      "start_time": "2026-02-14 09:05:00",
+      "end_time": "2026-02-14 09:45:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
-    },
-    {
-      "show_name": "Meteo 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/meteo-2.webp",
-      "start_time": "2026-02-13 11:00:00",
-      "end_time": "2026-02-13 11:02:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Tg2 Flash",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/tg2-flash.webp",
-      "start_time": "2026-02-13 11:02:00",
-      "end_time": "2026-02-13 11:10:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
+      "show_description": "Le azzurre tentano di muovere la classifica contro la Cina nel quarto match del round robin di curling ai Giochi Olimpici Invernali di Milano Cortina 2026."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 11:10:00",
-      "end_time": "2026-02-13 11:45:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/02/04/1738684246067_sci-alpino-maschile-Alex-Vinatzer-GettyImages-2197613987.jpg",
+      "start_time": "2026-02-14 09:45:00",
+      "end_time": "2026-02-14 11:30:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
+      "show_description": "Alex Vinatzer, Luca De Aliprandini, Tobias Kastlunger e Giovanni Franzoni al via del Gigante maschile olimpico delle Olimpiadi Invernali di Milano Cortina 2026."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 11:45:00",
-      "end_time": "2026-02-13 13:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/13/1771004300949_Manuela-Passaretta-freestyle-moguls-23067916_large.jpg",
+      "start_time": "2026-02-14 11:30:00",
+      "end_time": "2026-02-14 12:00:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
+      "show_description": "Si svolgono a Livigno le fasi finali del dual moguls femminile, specialità del freestyle, alle Olimpiadi Invernali di Milano Cortina 2026."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/01/1612178298246_sci%20di%20fondo%20tecnica%20classica%20femminile%20FOTO%20ANSA.jpg",
+      "start_time": "2026-02-14 12:00:00",
+      "end_time": "2026-02-14 13:00:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Staffetta femminile a tecnica classica a Tesero, in Val di Fiemme, con Svezia e Norvegia grandi favorite e l'Italia a caccia di un difficile piazzamento."
     },
     {
       "show_name": "Tg2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/tg2.webp",
-      "start_time": "2026-02-13 13:00:00",
-      "end_time": "2026-02-13 13:35:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg",
+      "start_time": "2026-02-14 13:00:00",
+      "end_time": "2026-02-14 13:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 13:35:00",
-      "end_time": "2026-02-13 15:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2022/02/13/1644737608143_Luca-De-Aliprandini.jpg",
+      "start_time": "2026-02-14 13:30:00",
+      "end_time": "2026-02-14 14:45:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
+      "show_description": "Alex Vinatzer, Luca De Aliprandini, Tobias Kastlunger e Giovanni Franzoni al via del Gigante maschile olimpico delle Olimpiadi Invernali di Milano Cortina 2026."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 15:00:00",
-      "end_time": "2026-02-13 15:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/02/10/1676037828653_biathlon-femminile-Dorothea-Wierer-FOTO-ANSA.jpg",
+      "start_time": "2026-02-14 14:45:00",
+      "end_time": "2026-02-14 16:00:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
+      "show_description": "Dorothea Wierer, Lisa Vittozzi, Michela Carrara e Hannah Auchentaller cercano il riscatto nella sprint di biathlon dopo i podi mancati nelle prove individuali alle Olimpiadi Invernali di Milano Cortina 2026."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 15:30:00",
-      "end_time": "2026-02-13 16:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/13/1771006206053_pattinaggio-velocit-inseguimento-squadre-femminile-24089354_large.jpg",
+      "start_time": "2026-02-14 16:00:00",
+      "end_time": "2026-02-14 17:00:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
+      "show_description": "Primo turno dell'Inseguimento a squadre femminile nel pattinaggio di velocità alle Olimpiadi Invernali di Milano Cortina 2026."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 16:00:00",
-      "end_time": "2026-02-13 17:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/13/1771006470113_Thomas-Krol-of-the-Netherlands-competes-against-Jeffrey-Rosanelli-of-Italy-in-the-mens-speedskating-500-meter-15209402_large.jpg",
+      "start_time": "2026-02-14 17:00:00",
+      "end_time": "2026-02-14 17:50:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
+      "show_description": "Jeffrey Rosanelli è l'unico rappresentante azzurro nella gara dei 500 metri di pattinaggio di velocità."
     },
     {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 17:00:00",
-      "end_time": "2026-02-13 18:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
-    },
-    {
-      "show_name": "Tg Parlamento",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/tg-parlamento.webp",
-      "start_time": "2026-02-13 18:00:00",
-      "end_time": "2026-02-13 18:03:00",
+      "show_name": "Gli imperdibili",
+      "show_logo": "https://www.raiplay.it/dl/img/2016/12/06/1481048262903_imperdibili-h.jpg",
+      "start_time": "2026-02-14 17:50:00",
+      "end_time": "2026-02-14 17:55:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
+      "show_description": "Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai. Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai."
     },
     {
       "show_name": "TG2 LIS",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/tg2-lis.webp",
-      "start_time": "2026-02-13 18:03:00",
-      "end_time": "2026-02-13 18:08:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/03/21/1616314226970_2048x1152.jpg",
+      "start_time": "2026-02-14 17:55:00",
+      "end_time": "2026-02-14 17:58:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Meteo 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/meteo-2.webp",
-      "start_time": "2026-02-13 18:08:00",
-      "end_time": "2026-02-13 18:10:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/11/20/1763645323036_RaiMeteo2048x1152.png",
+      "start_time": "2026-02-14 17:58:00",
+      "end_time": "2026-02-14 18:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 18:10:00",
-      "end_time": "2026-02-13 19:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/13/1771008631548_Valentina-Margaglio-slides-down-the-track-during-a-womens-skeleton-24117949_large.jpg",
+      "start_time": "2026-02-14 18:00:00",
+      "end_time": "2026-02-14 19:00:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
+      "show_description": "Alessandra Fumagalli a Valentina Margaglio nelle ultime due manche del singolo femminile di skeleton."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 19:00:00",
-      "end_time": "2026-02-13 19:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2022/02/12/1644651780349_pechino%202022%20salto%20con%20gli%20sci%20Giovanni%20Bresadola%20FOTO%20ANSA.jpg",
+      "start_time": "2026-02-14 19:00:00",
+      "end_time": "2026-02-14 20:30:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 19:30:00",
-      "end_time": "2026-02-13 20:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 20:00:00",
-      "end_time": "2026-02-13 20:30:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "A cura di Rai Sport. Nel corso: Tg Sport Olimpico."
+      "show_description": "Salto con gli Sci: LH maschile."
     },
     {
       "show_name": "Tg2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/tg2.webp",
-      "start_time": "2026-02-13 20:30:00",
-      "end_time": "2026-02-13 21:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg",
+      "start_time": "2026-02-14 20:30:00",
+      "end_time": "2026-02-14 21:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-13 21:00:00",
-      "end_time": "2026-02-13 23:10:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/10/1770717951039_Arianna-Fontana-durante-la-gara-di-Short-track-femminile-500-metri-24111232_large.jpg",
+      "start_time": "2026-02-14 21:00:00",
+      "end_time": "2026-02-14 23:00:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "A cura di Rai Sport."
+      "show_description": "I fuoriclasse della squadra azzurra Arianna Fontana e Pietro Sighel tornano in pista nelle gare individuali dei 1000 femminili e 1500 maschili di short track."
     },
     {
       "show_name": "Notti Olimpiche",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/today/notti-olimpiche.webp",
-      "start_time": "2026-02-13 23:10:00",
-      "end_time": "2026-02-14 00:25:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769520653118_Notti%20Olimpiche-assets2048x1152.jpg",
+      "start_time": "2026-02-14 23:00:00",
+      "end_time": "2026-02-14 23:50:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "Il racconto delle Olimpiadi invernali con gli highlights della giornata e approfondimenti sul medagliere dell'Italia tra commenti, interviste, immagini e anteprime degli impegni del giorno dopo."
+    },
+    {
+      "show_name": "Snow Show",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/12/1770927069964_2.png",
+      "start_time": "2026-02-14 23:50:00",
+      "end_time": "2026-02-14 23:55:00",
+      "episode_number": "S2026 E2",
+      "show_category": "",
+      "show_description": "In occasione delle Olimpiadi Invernali di Milano Cortina, Gabriele Corsi è a Livigno per incontrare uno dei nomi più celebri del calcio italiano. Nella cabinovia di Snow Show arriva l'alfiere della garra charrua: Lele Adani."
+    },
+    {
+      "show_name": "Tg Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg",
+      "start_time": "2026-02-14 23:55:00",
+      "end_time": "2026-02-15 00:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tg Sport Notte."
     }
   ]
 }

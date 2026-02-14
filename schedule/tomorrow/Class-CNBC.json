@@ -1,51 +1,429 @@
 {
   "channel_name": "Class CNBC",
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "programs": [
     {
-      "show_name": "La giornata di Class Cnbc",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 00:00:00",
-      "end_time": "2026-02-14 07:00:00",
+      "show_name": "Marketing media&money",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 00:00:00",
+      "end_time": "2026-02-15 00:26:00",
       "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Il meglio della giornata di Class Cnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di Class Cnbc."
+      "show_description": "Talk show di Class Cnbc - L'importanza della comunicazione ai consumatori attraverso il marketing e i media."
     },
     {
-      "show_name": "Gli speciali settimanali di Class Cnbc",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 07:00:00",
-      "end_time": "2026-02-14 12:00:00",
+      "show_name": "Esclusiva Class CNBC Marco Minniti",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 00:26:00",
+      "end_time": "2026-02-15 00:44:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "Speciale Consiglio europeo",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 00:44:00",
+      "end_time": "2026-02-15 00:56:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "Speciale Jensen Huang",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 00:56:00",
+      "end_time": "2026-02-15 01:19:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc."
+    },
+    {
+      "show_name": "Cargo, le nuove rotte dell'economia",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 01:19:00",
+      "end_time": "2026-02-15 01:45:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
     },
     {
-      "show_name": "Gli speciali settimanali di Class Cnbc",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 12:00:00",
-      "end_time": "2026-02-14 17:00:00",
+      "show_name": "Missione Risparmio",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 01:45:00",
+      "end_time": "2026-02-15 02:35:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Talk show di ClassCnbc - Programma condotto da Jole Saggese dedicato al tema degli investimenti e del risparmio."
+    },
+    {
+      "show_name": "La settimana di Class Cnbc",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 02:35:00",
+      "end_time": "2026-02-15 07:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Gli speciali della settimana di Class Cnbc."
+    },
+    {
+      "show_name": "Speciale Quantum Space",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 07:00:00",
+      "end_time": "2026-02-15 07:14:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "WLeadership",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 07:14:00",
+      "end_time": "2026-02-15 07:37:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Talk show di ClassCnbc - Il tema dell'inclusione nelle imprese per trasformare le discriminazioni in azioni concrete, alla ricerca del giusto equilibrio per le donne nel mondo del lavoro."
+    },
+    {
+      "show_name": "CEO Talks",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 07:37:00",
+      "end_time": "2026-02-15 07:54:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le interviste di Class Cnbc - I risultati societari, le strategie di sviluppo, le novita' del mercato di riferimento. Su Class Cnbc le interviste esclusive ai CEO delle principali aziende italiane ed estere."
+    },
+    {
+      "show_name": "Speciale mercato americano",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 07:54:00",
+      "end_time": "2026-02-15 08:06:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
     },
     {
-      "show_name": "Gli speciali settimanali di Class Cnbc",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 17:00:00",
-      "end_time": "2026-02-14 22:00:00",
+      "show_name": "5 Giorni Sui Mercati",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 08:06:00",
+      "end_time": "2026-02-15 08:59:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "La settimana finanziaria - Questa settimana: USA, Cina, Europa. Scenari e strategie."
+    },
+    {
+      "show_name": "The Floor",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 08:59:00",
+      "end_time": "2026-02-15 09:29:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita' della finanza americana."
+    },
+    {
+      "show_name": "CEO Talks",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 09:29:00",
+      "end_time": "2026-02-15 09:47:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le interviste di Class Cnbc - I risultati societari, le strategie di sviluppo, le novita' del mercato di riferimento. Su Class Cnbc le interviste esclusive ai CEO delle principali aziende italiane ed estere."
+    },
+    {
+      "show_name": "Speciale Report",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 09:47:00",
+      "end_time": "2026-02-15 10:02:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
     },
     {
-      "show_name": "Gli speciali settimanali di Class Cnbc",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 22:00:00",
-      "end_time": "2026-02-15 01:00:00",
+      "show_name": "Marketing media&money",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 10:02:00",
+      "end_time": "2026-02-15 10:36:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Talk show di Class Cnbc - L'importanza della comunicazione ai consumatori attraverso il marketing e i media."
+    },
+    {
+      "show_name": "Speciale Jensen Huang",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 10:36:00",
+      "end_time": "2026-02-15 11:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc."
+    },
+    {
+      "show_name": "5 Giorni Sui Mercati",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 11:00:00",
+      "end_time": "2026-02-15 11:54:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "La settimana finanziaria - Questa settimana: USA, Cina, Europa. Scenari e strategie."
+    },
+    {
+      "show_name": "Speciale Generali",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 11:54:00",
+      "end_time": "2026-02-15 12:03:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
+    },
+    {
+      "show_name": "Missione Risparmio",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 12:03:00",
+      "end_time": "2026-02-15 12:54:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Talk show di ClassCnbc - Programma condotto da Jole Saggese dedicato al tema degli investimenti e del risparmio."
+    },
+    {
+      "show_name": "Cargo, le nuove rotte dell'economia",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 12:54:00",
+      "end_time": "2026-02-15 13:20:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
+    },
+    {
+      "show_name": "Speciale rotazione settoriale",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 13:20:00",
+      "end_time": "2026-02-15 13:32:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "Speciale banche",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 13:32:00",
+      "end_time": "2026-02-15 13:44:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
+    },
+    {
+      "show_name": "Speciale economia delle Olimpiadi",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 13:44:00",
+      "end_time": "2026-02-15 14:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "Fabi risponde",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 14:00:00",
+      "end_time": "2026-02-15 14:06:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
+    },
+    {
+      "show_name": "Analisi fondamentale",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 14:06:00",
+      "end_time": "2026-02-15 14:45:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
+    },
+    {
+      "show_name": "CEO Talks",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 14:45:00",
+      "end_time": "2026-02-15 15:02:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le interviste di Class Cnbc - I risultati societari, le strategie di sviluppo, le novita' del mercato di riferimento. Su Class Cnbc le interviste esclusive ai CEO delle principali aziende italiane ed estere."
+    },
+    {
+      "show_name": "WLeadership",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 15:02:00",
+      "end_time": "2026-02-15 15:26:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Talk show di ClassCnbc - Il tema dell'inclusione nelle imprese per trasformare le discriminazioni in azioni concrete, alla ricerca del giusto equilibrio per le donne nel mondo del lavoro."
+    },
+    {
+      "show_name": "Marketing media&money",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 15:26:00",
+      "end_time": "2026-02-15 16:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Talk show di Class Cnbc - L'importanza della comunicazione ai consumatori attraverso il marketing e i media."
+    },
+    {
+      "show_name": "5 Giorni Sui Mercati",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 16:00:00",
+      "end_time": "2026-02-15 16:55:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "La settimana finanziaria - Questa settimana: USA, Cina, Europa. Scenari e strategie."
+    },
+    {
+      "show_name": "Growth Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 16:55:00",
+      "end_time": "2026-02-15 17:07:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di ClassCnbc - Il mercato delle piccole e medie imprese italiane ad alto potenziale di crescita."
+    },
+    {
+      "show_name": "Speciale Report",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 17:07:00",
+      "end_time": "2026-02-15 17:21:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
+    },
+    {
+      "show_name": "The Floor",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 17:21:00",
+      "end_time": "2026-02-15 17:52:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita' della finanza americana."
+    },
+    {
+      "show_name": "CEO talks",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 17:52:00",
+      "end_time": "2026-02-15 18:10:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le interviste di Class Cnbc - I risultati societari, le strategie di sviluppo, le novita' del mercato di riferimento. Su Class Cnbc le interviste esclusive ai CEO delle principali aziende italiane ed estere."
+    },
+    {
+      "show_name": "Speciale Consiglio europeo",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 18:10:00",
+      "end_time": "2026-02-15 18:22:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "Esclusiva Class CNBC Marco Minniti",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 18:22:00",
+      "end_time": "2026-02-15 18:38:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "Cargo, le nuove rotte dell'economia",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 18:38:00",
+      "end_time": "2026-02-15 19:05:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
+    },
+    {
+      "show_name": "5 Giorni Sui Mercati",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 19:05:00",
+      "end_time": "2026-02-15 20:01:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "La settimana finanziaria - Questa settimana: USA, Cina, Europa. Scenari e strategie."
+    },
+    {
+      "show_name": "Missione Risparmio",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 20:01:00",
+      "end_time": "2026-02-15 20:52:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Talk show di ClassCnbc - Programma condotto da Jole Saggese dedicato al tema degli investimenti e del risparmio."
+    },
+    {
+      "show_name": "Analisi fondamentale",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 20:52:00",
+      "end_time": "2026-02-15 21:32:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
+    },
+    {
+      "show_name": "Speciale mercato americano",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 21:32:00",
+      "end_time": "2026-02-15 21:44:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
+    },
+    {
+      "show_name": "Speciale Quantum Space",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 21:44:00",
+      "end_time": "2026-02-15 22:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "The Floor",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 22:00:00",
+      "end_time": "2026-02-15 22:31:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita' della finanza americana."
+    },
+    {
+      "show_name": "CEO talks",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 22:31:00",
+      "end_time": "2026-02-15 22:49:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Le interviste di Class Cnbc - I risultati societari, le strategie di sviluppo, le novita' del mercato di riferimento. Su Class Cnbc le interviste esclusive ai CEO delle principali aziende italiane ed estere."
+    },
+    {
+      "show_name": "Speciale rotazione settoriale",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 22:49:00",
+      "end_time": "2026-02-15 23:02:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class CNBC - Gli approfondimenti di Class CNBC."
+    },
+    {
+      "show_name": "Speciale banche",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 23:02:00",
+      "end_time": "2026-02-15 23:14:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Gli approfondimenti di Class Cnbc - Gli approfondimenti di Class Cnbc."
+    },
+    {
+      "show_name": "5 Giorni Sui Mercati",
+      "show_logo": "https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png",
+      "start_time": "2026-02-15 23:14:00",
+      "end_time": "2026-02-16 00:10:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "La settimana finanziaria - Questa settimana: USA, Cina, Europa. Scenari e strategie."
     }
   ]
 }
