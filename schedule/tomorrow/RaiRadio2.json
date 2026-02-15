@@ -1,177 +1,195 @@
 {
   "channel_name": "RaiRadio2",
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "programs": [
     {
       "show_name": "Musical Box",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/musical-box.webp",
-      "start_time": "2026-02-15 00:00:00",
-      "end_time": "2026-02-15 01:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con Raffaele Costantino. Regia di Luca Cucchetti. A cura di Andrea Angeli Bufalini e Pietro Luchetti."
-    },
-    {
-      "show_name": "Radio2 Hits",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/radio2-hits.webp",
-      "start_time": "2026-02-15 01:00:00",
-      "end_time": "2026-02-15 06:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Regia di Gaia Bottaro. A cura di Davide Verticelli."
-    },
-    {
-      "show_name": "Good Morning Radio2 Weekend",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/good-morning-radio2-weekend.webp",
-      "start_time": "2026-02-15 06:00:00",
-      "end_time": "2026-02-15 07:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con Natascha Lusenti e Matteo Osso. Regia di Enrico Magli. A cura di Roberta Galimberti."
-    },
-    {
-      "show_name": "GR 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/gr-2.webp",
-      "start_time": "2026-02-15 07:30:00",
-      "end_time": "2026-02-15 07:45:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Soggetti Smarriti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/soggetti-smarriti.webp",
-      "start_time": "2026-02-15 07:45:00",
-      "end_time": "2026-02-15 09:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con Marco Marzocca e Francesco Maria Vercillo. Regia di Paoletto Castro. A cura di Alex Alongi e Massimo Riti."
-    },
-    {
-      "show_name": "A qualcuno piace Radio2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/a-qualcuno-piace-radio2.webp",
-      "start_time": "2026-02-15 09:00:00",
-      "end_time": "2026-02-15 10:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con Diletta Parlangeli e Andrea Perroni. Regia di Alessandro Provenzano. A cura di Daria Ragazzini e Caterina D'Aleo."
-    },
-    {
-      "show_name": "GR 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/gr-2.webp",
-      "start_time": "2026-02-15 10:30:00",
-      "end_time": "2026-02-15 10:35:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Safari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/safari.webp",
-      "start_time": "2026-02-15 10:35:00",
-      "end_time": "2026-02-15 12:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con Martina Martorano e Pierluca Mariti. Regia di Alessandro Provenzano. A cura di Luca Bona."
-    },
-    {
-      "show_name": "Generazione Radio2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/generazione-radio2.webp",
-      "start_time": "2026-02-15 12:00:00",
-      "end_time": "2026-02-15 13:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con Flaminia Bolzan e Mario Benedetto. Regia audio di Corrado Santini. A cura di Roberto Deidda."
-    },
-    {
-      "show_name": "GR 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/gr-2.webp",
-      "start_time": "2026-02-15 13:30:00",
-      "end_time": "2026-02-15 13:45:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Radio2 nel pallone",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/radio2-nel-pallone.webp",
-      "start_time": "2026-02-15 13:45:00",
-      "end_time": "2026-02-15 15:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con Laura Barth e Federico Vespa. Regia di Luca Bona. A cura di Fabio Casalinuovo."
-    },
-    {
-      "show_name": "Radio2 music room weekend",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/radio2-music-room-weekend.webp",
-      "start_time": "2026-02-15 15:00:00",
-      "end_time": "2026-02-15 17:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con Silvia Boschero e Fabrizio D'Alessio. Regia di Paoletto Castro. A cura di Massimo Riti e Alex Alongi."
-    },
-    {
-      "show_name": "Tutti Nudi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/tutti-nudi.webp",
-      "start_time": "2026-02-15 17:00:00",
-      "end_time": "2026-02-15 19:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con Pippo Lorusso, Elena Di Cioccio e Francesco Migliazza. Regia di Alessandro Provenzano. A cura di Fabio Casalinuovo."
-    },
-    {
-      "show_name": "Decanter",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/decanter.webp",
-      "start_time": "2026-02-15 19:00:00",
-      "end_time": "2026-02-15 19:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con Fede&Tinto e Andrea Amadei con la collaborazione di Daniela Sardella e Ivan Cardia. Regia di Alessandro Provenzano. A cura di Lucia Mosca e Valentina Totta."
-    },
-    {
-      "show_name": "GR 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/gr-2.webp",
-      "start_time": "2026-02-15 19:30:00",
-      "end_time": "2026-02-15 19:44:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Decanter",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/decanter.webp",
-      "start_time": "2026-02-15 19:44:00",
-      "end_time": "2026-02-15 21:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con Fede&Tinto e Andrea Amadei con la collaborazione di Daniela Sardella e Ivan Cardia. Regia di Alessandro Provenzano. A cura di Lucia Mosca e Valentina Totta."
-    },
-    {
-      "show_name": "Maschio selvaggio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/maschio-selvaggio.webp",
-      "start_time": "2026-02-15 21:00:00",
-      "end_time": "2026-02-15 22:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Con Nunzia De Girolamo e Gianluca Semprini. Regia di Luca Bona. A cura di Fabio Casalinuovo e Pietro Luchetti."
-    },
-    {
-      "show_name": "Radio2 Hits",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/radio2-hits.webp",
-      "start_time": "2026-02-15 22:00:00",
-      "end_time": "2026-02-15 23:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Regia di Gaia Bottaro. A cura di Davide Verticelli."
-    },
-    {
-      "show_name": "Musical Box",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiRadio2/tomorrow/musical-box.webp",
-      "start_time": "2026-02-15 23:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2023/10/04/1696422179541_Musical%20Box-2-2048x1152.jpg",
+      "start_time": "2026-02-16 00:00:00",
       "end_time": "2026-02-16 01:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Con Raffaele Costantino. Regia di Luca Cucchetti. A cura di Valentina Totta e Andrea Angeli Bufalini."
+    },
+    {
+      "show_name": "Radio2 Hits",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/12/20/1639994686590_Radio2%20Hits_2048x1152%201.jpg",
+      "start_time": "2026-02-16 01:00:00",
+      "end_time": "2026-02-16 06:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Regia di Gaia Bottaro. A cura di Davide Verticelli."
+    },
+    {
+      "show_name": "Good Morning Radio2",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/19/1766131568543_5-Good%20Morning%20Radio2-2048x1152.jpg",
+      "start_time": "2026-02-16 06:00:00",
+      "end_time": "2026-02-16 07:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Con Max Zoara, Sarah Jane Ranieri, Luca Abbrescia de \"Il Milanese Imbuttito\" e Giuseppe Ninno Mandrake. Regia di Guido Bertolotti. A cura di Giulia Laura Ferrari e Fabrizia Brunati."
+    },
+    {
+      "show_name": "La Pennicanza",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/10/20/1760961928863_La_Pennicanza_2048x1152.jpg",
+      "start_time": "2026-02-16 07:00:00",
+      "end_time": "2026-02-16 07:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Con Rosario Fiorello e Fabrizio Biggio. Regia audio di Marco Lolli. Regia video di Piergiorgio Camilli. A cura di Elena Maria Russo e Roberto Buttinelli."
+    },
+    {
+      "show_name": "GR 2",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/10/28/1635408123299_Gr2%202048x1152.jpg",
+      "start_time": "2026-02-16 07:30:00",
+      "end_time": "2026-02-16 07:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Il Ruggito del Coniglio",
+      "show_logo": "https://www.raiplay.it/dl/img/2024/11/26/1732604747791_IL_RUGGITO_DEL_CONIGLIO-2048x1152.jpg",
+      "start_time": "2026-02-16 07:45:00",
+      "end_time": "2026-02-16 10:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Con Marco Presta e Antonello Dose. Regia di Paolo Restuccia. A cura di Angelica De Rossi, Ludovica Rossetti e Maria Lucia Schito."
+    },
+    {
+      "show_name": "GR 2",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/10/28/1635408123299_Gr2%202048x1152.jpg",
+      "start_time": "2026-02-16 10:30:00",
+      "end_time": "2026-02-16 10:35:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Radio2 Social Club",
+      "show_logo": "https://www.raiplay.it/dl/img/2024/11/19/1732000804312_Radio2%20Social%20Club-2048x1152.jpg",
+      "start_time": "2026-02-16 10:35:00",
+      "end_time": "2026-02-16 12:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Con Luca Barbarossa e Ema Stokholma. Regia di Leonardo Carioti. A cura di Elena Maria Russo e Roberta Bellei."
+    },
+    {
+      "show_name": "Radio2 stai Serena",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/09/15/1757964898453_Radio2%20stai%20Serena-2048x1152.jpg",
+      "start_time": "2026-02-16 12:00:00",
+      "end_time": "2026-02-16 13:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Con Serena Bortone e Massimo Cervelli. Regia di Savino Bonito. A cura di Daria Ragazzini."
+    },
+    {
+      "show_name": "GR 2",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/10/28/1635408123299_Gr2%202048x1152.jpg",
+      "start_time": "2026-02-16 13:30:00",
+      "end_time": "2026-02-16 13:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "La Pennicanza",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/10/20/1760961928863_La_Pennicanza_2048x1152.jpg",
+      "start_time": "2026-02-16 13:45:00",
+      "end_time": "2026-02-16 14:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Con Rosario Fiorello e Fabrizio Biggio. Regia audio di Marco Lolli. Regia video di Piergiorgio Camilli. A cura di Elena Maria Russo e Roberto Buttinelli."
+    },
+    {
+      "show_name": "Radio2 music room",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/10/28/1761634960654_Radio2%20music%20room_Nazzaro-Borghesan-2048x1152.jpg",
+      "start_time": "2026-02-16 14:30:00",
+      "end_time": "2026-02-16 16:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Con Manila Nazzaro e Julian Borghesan. Regia di Leonardo Carioti. A cura di Cecilia De Robertis e Marta Pezzino."
+    },
+    {
+      "show_name": "Lillo e Greg 610",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/12/15/1639606199484_LilloeGreg610_2048x1152.jpg",
+      "start_time": "2026-02-16 16:00:00",
+      "end_time": "2026-02-16 16:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Lillo & Greg 610 di Lillo e Greg con Carolina Di Domenico. Regia di Danilo Paoni e Alessandro Provenzano. A cura di Roberto Deidda."
+    },
+    {
+      "show_name": "Il pomeriggio di Radio2",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/23/1766488267651_Il%20pomeriggio%20di%20Radio2-2048x1152.jpg",
+      "start_time": "2026-02-16 16:30:00",
+      "end_time": "2026-02-16 18:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Con Diletta Parlangeli e Savino Zaba. Regia di Edi Brundo. A cura di Valentina Totta ed Elena Ferrara Granai."
+    },
+    {
+      "show_name": "Caterpillar",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/01/23/1737638677346_Caterpillar%20-2048x1152.jpg",
+      "start_time": "2026-02-16 18:00:00",
+      "end_time": "2026-02-16 19:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "GR 2",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/10/28/1635408123299_Gr2%202048x1152.jpg",
+      "start_time": "2026-02-16 19:30:00",
+      "end_time": "2026-02-16 19:38:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Caterpillar",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/01/23/1737638677346_Caterpillar%20-2048x1152.jpg",
+      "start_time": "2026-02-16 19:38:00",
+      "end_time": "2026-02-16 20:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Ottovolante Radio2",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/11/18/1763464441770_Radio2%208volante-2048x1152.jpg",
+      "start_time": "2026-02-16 20:00:00",
+      "end_time": "2026-02-16 21:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Con Savino Zaba e Micol Ronchi. Regia audio di Corrado Santini. Regia video di Mauro Sebastianelli e Stefano Aimola. A cura di Valentina Totta e Roberto Deidda."
+    },
+    {
+      "show_name": "Chiamami Radio2",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/11/03/1762184984640_Chiamami%20Radio2-2048x1152.jpg",
+      "start_time": "2026-02-16 21:00:00",
+      "end_time": "2026-02-16 22:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Con Federica Elmi, Agostino Penna e la partecipazione di Antonella Boralevi. Regia di Leonardo Sinibaldi. A cura di Emma Caggiano."
+    },
+    {
+      "show_name": "Radio2 alle dieci della sera - Sport & musica",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/11/18/1763464151474_Radio2%20alle%20dieci%20della%20sera%20-%20Sport-2048x1152.jpg",
+      "start_time": "2026-02-16 22:00:00",
+      "end_time": "2026-02-16 23:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Noemi Serracini e Federico Vespa. Regia di Leonardo Sinibaldi. A cura di Lucia Mosca e Linda Critelli."
+    },
+    {
+      "show_name": "I Lunatici",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/17/1765980716139_i%20lunatici-2048x1152.jpg",
+      "start_time": "2026-02-16 23:00:00",
+      "end_time": "2026-02-17 02:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Con Roberto Arduini e Andrea di Ciancio. A cura di Emma Caggiano e Giovanna Romano."
     }
   ]
 }

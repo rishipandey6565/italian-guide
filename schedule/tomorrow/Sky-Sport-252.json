@@ -1,42 +1,24 @@
 {
   "channel_name": "Sky Sport  252",
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "programs": [
     {
-      "show_name": "Paris FC - Lens",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/tomorrow/paris-fc-lens.webp",
-      "start_time": "2026-02-15 00:00:00",
-      "end_time": "2026-02-15 14:00:00",
-      "episode_number": "S2025 E71",
-      "show_category": "Sport",
-      "show_description": "Dallo stadio Jean-Bouin di Parigi, Francia."
-    },
-    {
-      "show_name": "Bra - Ascoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/tomorrow/bra-ascoli.webp",
-      "start_time": "2026-02-15 14:00:00",
-      "end_time": "2026-02-15 17:25:00",
-      "episode_number": "S2025 E264",
-      "show_category": "Sport",
-      "show_description": "Tutte le partite del campionato di Serie C italiano."
-    },
-    {
-      "show_name": "Perugia - Carpi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/tomorrow/perugia-carpi.webp",
-      "start_time": "2026-02-15 17:25:00",
-      "end_time": "2026-02-15 20:25:00",
-      "episode_number": "S2025 E267",
-      "show_category": "Sport",
-      "show_description": "Tutte le partite del campionato di Serie C italiano."
-    },
-    {
       "show_name": "Calcio Campionato Italiano Serie C - Ep. 275 - Calcio Serie C 27ga Girone A Lecco/ Virtus Verona 15/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/tomorrow/calcio-campionato-italiano-serie-c-ep-275-calcio-serie-c-27ga-girone-a-lecco-virtus-verona-15-02-2026.webp",
-      "start_time": "2026-02-15 20:25:00",
+      "show_logo": "https://guidatv.sky.it/uuid/d85c2b07-44be-41cf-a37b-782868421262/cover?territory=IT&md5ChecksumParam=6cd837b36bcfd42ee418d1c241bb59de",
+      "start_time": "2026-02-16 00:00:00",
       "end_time": "2026-02-16 20:00:00",
       "episode_number": "S2025 E275",
       "show_category": "Sport",
       "show_description": "Dallo stadio Mario Rigamonti-Mario Ceppi di Lecco, Italia."
+    },
+    {
+      "show_name": "Pergolettese - Union Brescia",
+      "show_logo": "https://guidatv.sky.it/uuid/5dc8278b-e754-4e37-a45f-3f9066baec15/cover?territory=IT&md5ChecksumParam=822a630f3fca071f6d6f7685a64c5fc0",
+      "start_time": "2026-02-16 20:00:00",
+      "end_time": "2026-02-17 20:00:00",
+      "episode_number": "S2025 E278",
+      "show_category": "Sport",
+      "show_description": "Dallo stadio Giuseppe Voltini di Crema, Lombardia, Italia."
     }
   ]
 }

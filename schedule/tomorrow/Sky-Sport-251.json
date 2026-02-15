@@ -1,33 +1,24 @@
 {
   "channel_name": "Sky Sport  251",
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "programs": [
     {
-      "show_name": "Inter - Juventus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/tomorrow/inter-juventus.webp",
-      "start_time": "2026-02-15 00:00:00",
-      "end_time": "2026-02-15 14:00:00",
-      "episode_number": "S2025 E244",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Giuseppe Meazza di Milano, Italia."
-    },
-    {
-      "show_name": "Ravenna - Juventus Next Gen",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/tomorrow/ravenna-juventus-next-gen.webp",
-      "start_time": "2026-02-15 14:00:00",
-      "end_time": "2026-02-15 17:00:00",
-      "episode_number": "S2025 E270",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Bruno Benelli di Ravenna, Italia."
-    },
-    {
       "show_name": "Torino - Bologna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/tomorrow/torino-bologna.webp",
-      "start_time": "2026-02-15 17:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/1a67c002-3350-4c2c-8a08-7a2e4f0c0d40/cover?territory=IT&md5ChecksumParam=6cb64fd8613595bf3ad11dcbd487c029",
+      "start_time": "2026-02-16 00:00:00",
       "end_time": "2026-02-16 20:00:00",
       "episode_number": "S2025 E74",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Olimpico di Torino, Italia."
+    },
+    {
+      "show_name": "Cagliari - Lecce",
+      "show_logo": "https://guidatv.sky.it/uuid/9c17f928-78d4-430f-8398-b1089b65fb79/cover?territory=IT&md5ChecksumParam=53dc68d837e8a90cc271da3cd0cdc535",
+      "start_time": "2026-02-16 20:00:00",
+      "end_time": "2026-02-17 18:00:00",
+      "episode_number": "S2025 E75",
+      "show_category": "Sport",
+      "show_description": "From Unipol Domus in Cagliari, Cagliari, Italy."
     }
   ]
 }

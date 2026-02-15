@@ -1,186 +1,231 @@
 {
   "channel_name": "RaiSport",
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "programs": [
     {
-      "show_name": "Memory - Rai Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/memory-rai-sport.webp",
-      "start_time": "2026-02-14 00:00:00",
-      "end_time": "2026-02-14 00:00:00",
+      "show_name": "Pallavolo: Serie A Femminile",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/13/1771000947091_pallavolo%20femminile%202026%20vero%20volley%20milano.jpg",
+      "start_time": "2026-02-15 00:00:00",
+      "end_time": "2026-02-15 02:10:00",
       "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Memory: Stefania Belmondo. Memory: Stefania Belmondo."
+      "show_category": "Pallavolo",
+      "show_description": "La penultima giornata della regular season della Serie A1 si apre con il derby lombardo tra Busto Arsizio e Milano. La penultima giornata della regular season della Serie A1 si apre con il derby lombardo tra Busto Arsizio e Milano."
     },
     {
-      "show_name": "Serie C",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/serie-c.webp",
-      "start_time": "2026-02-14 00:00:00",
-      "end_time": "2026-02-14 02:00:00",
+      "show_name": "Pallavolo: Serie A Maschile",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/10/14/1760456426256_Pallavolo%20-%20Serie%20A%20maschile2048x1152.jpg",
+      "start_time": "2026-02-15 02:10:00",
+      "end_time": "2026-02-15 04:45:00",
       "episode_number": "",
-      "show_category": "",
-      "show_description": "Il Carpi ospita l'Arezzo in una sfida di campionato decisiva per la classifica, tra equilibrio, intensità e obiettivi stagionali."
+      "show_category": "Pallavolo",
+      "show_description": "Civitanova affronta Modena in un importante scontro diretto per la classifica. Due protagoniste del campionato pronte a dare battaglia sotto rete in una sfida di grande intensità e spettacolo. Civitanova affronta Modena in un importante scontro diretto per la classifica. Due protagoniste del campionato pronte a dare battaglia sotto rete in una sfida di grande intensità e spettacolo."
     },
     {
-      "show_name": "Ciclismo su pista",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/ciclismo-su-pista.webp",
-      "start_time": "2026-02-14 02:00:00",
-      "end_time": "2026-02-14 04:45:00",
-      "episode_number": "",
-      "show_category": "Ciclismo",
-      "show_description": "Ciclismo su Pista: Europei 2026 - 5a giornata. Ciclismo su Pista: Europei 2026 - 5a giornata."
-    },
-    {
-      "show_name": "Ciclocross",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/ciclocross.webp",
-      "start_time": "2026-02-14 04:45:00",
-      "end_time": "2026-02-14 06:00:00",
+      "show_name": "Europei femminili di Pallanuoto",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/04/1770233303654_Nuovo%20progetto%208.jpg",
+      "start_time": "2026-02-15 04:45:00",
+      "end_time": "2026-02-15 06:00:00",
       "episode_number": "S2026",
-      "show_category": "Ciclismo",
-      "show_description": "Va in scena la gara Uomini Elite dei Mondiali di Ciclocross 2026: il massimo appuntamento della disciplina, dove i migliori specialisti del mondo si sfidano su un percorso tecnico e impegnativo per conquistare la maglia iridata. Va in scena la gara Uomini Elite dei Mondiali di Ciclocross 2026: il massimo appuntamento della disciplina, dove i migliori specialisti del mondo si sfidano su un percorso tecnico e impegnativo per conquistare la maglia iridata."
+      "show_category": "Nuoto",
+      "show_description": "Va in scena la finale degli Europei femminili di pallanuoto 2026: Ungheria e Paesi Bassi si affrontano per il titolo continentale in una sfida di altissimo livello, tra tecnica, intensità e spettacolo in vasca. Va in scena la finale degli Europei femminili di pallanuoto 2026: Ungheria e Paesi Bassi si affrontano per il titolo continentale in una sfida di altissimo livello, tra tecnica, intensità e spettacolo in vasca."
     },
     {
       "show_name": "Memory - Rai Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/memory-rai-sport.webp",
-      "start_time": "2026-02-14 06:00:00",
-      "end_time": "2026-02-14 07:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-15 06:00:00",
+      "end_time": "2026-02-15 06:30:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Memory."
+      "show_description": "Memory: Fusar Poli - Margaglio."
+    },
+    {
+      "show_name": "Memory - Rai Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-15 06:30:00",
+      "end_time": "2026-02-15 07:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Memory: Piero Gross."
     },
     {
       "show_name": "Tg Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/tg-sport.webp",
-      "start_time": "2026-02-14 07:00:00",
-      "end_time": "2026-02-14 07:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg",
+      "start_time": "2026-02-15 07:00:00",
+      "end_time": "2026-02-15 07:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TG Sport Mattina."
     },
     {
-      "show_name": "Atletica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/atletica.webp",
-      "start_time": "2026-02-14 07:30:00",
-      "end_time": "2026-02-14 09:40:00",
-      "episode_number": "S2026",
-      "show_category": "Atletica Leggera",
-      "show_description": "Udin Jump. Udin Jump."
-    },
-    {
-      "show_name": "Gli imperdibili",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/gli-imperdibili.webp",
-      "start_time": "2026-02-14 09:40:00",
-      "end_time": "2026-02-14 09:45:00",
+      "show_name": "Pallavolo: Serie A Maschile",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/10/14/1760456426256_Pallavolo%20-%20Serie%20A%20maschile2048x1152.jpg",
+      "start_time": "2026-02-15 07:30:00",
+      "end_time": "2026-02-15 09:45:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai. Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai."
+      "show_description": "Pallavolo. SuperLega Credem Banca: Civitanova-Modena - 20a g.ta."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-14 09:45:00",
-      "end_time": "2026-02-14 12:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Le azzurre tentano di muovere la classifica contro la Cina nel quarto match del round robin di curling ai Giochi Olimpici Invernali di Milano Cortina 2026."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-14 12:00:00",
-      "end_time": "2026-02-14 13:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 09:45:00",
+      "end_time": "2026-02-15 10:30:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-14 13:00:00",
-      "end_time": "2026-02-14 13:30:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Staffetta femminile a tecnica classica a Tesero, in Val di Fiemme, con Svezia e Norvegia grandi favorite e l'Italia a caccia di un difficile piazzamento."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-14 13:30:00",
-      "end_time": "2026-02-14 14:40:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 10:30:00",
+      "end_time": "2026-02-15 11:00:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
     },
     {
-      "show_name": "Serie A Women Athora",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/serie-a-women-athora.webp",
-      "start_time": "2026-02-14 14:40:00",
-      "end_time": "2026-02-14 16:45:00",
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 11:00:00",
+      "end_time": "2026-02-15 12:00:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Memory - Rai Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-15 12:00:00",
+      "end_time": "2026-02-15 12:15:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Il Milan ospita la Fiorentina, reduce da tre sconfitte consecutive. Entrambe le squadre attualmente navigano nella metà della classifica."
+      "show_description": "Memory: Dominik Paris."
     },
     {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-14 16:45:00",
-      "end_time": "2026-02-14 19:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Dopo la buona prova contro la Slovacchia, l'Italia dell'hockey su ghiaccio affronta un'altra formazione di primo piano come la Finlandia, che nel turno precedente ha battuto nettamente la Svezia."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-14 19:00:00",
-      "end_time": "2026-02-14 20:30:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Dopo un avvio di torneo difficile, le azzurre del curling affrontano la forte Svezia per riavvicinare la zona alta della classifica."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-14 20:30:00",
-      "end_time": "2026-02-14 20:45:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Salto con gli Sci: LH maschile."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-14 20:45:00",
-      "end_time": "2026-02-14 21:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "I fuoriclasse della squadra azzurra Arianna Fontana e Pietro Sighel tornano in pista nelle gare individuali dei 1000 femminili e 1500 maschili di short track."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-14 21:00:00",
-      "end_time": "2026-02-14 21:10:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Dopo un avvio di torneo difficile, le azzurre del curling affrontano la forte Svezia per riavvicinare la zona alta della classifica."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-14 21:10:00",
-      "end_time": "2026-02-14 23:40:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Il Dream Team americano di Hockey su Ghiaccio torna in campo per affrontare la nazionale danese."
-    },
-    {
-      "show_name": "Pallavolo: Serie A Femminile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/pallavolo-serie-a-femminile.webp",
-      "start_time": "2026-02-14 23:40:00",
-      "end_time": "2026-02-15 02:10:00",
+      "show_name": "Memory - Rai Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-15 12:15:00",
+      "end_time": "2026-02-15 12:25:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "La penultima giornata della regular season della Serie A1 si apre con il derby lombardo tra Busto Arsizio e Milano."
+      "show_description": "Memory: Ronald Fischnaller."
+    },
+    {
+      "show_name": "Memory - Rai Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-15 12:25:00",
+      "end_time": "2026-02-15 13:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Memory: Enrico Fabris. Memory: Enrico Fabris."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 13:00:00",
+      "end_time": "2026-02-15 13:40:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 13:40:00",
+      "end_time": "2026-02-15 14:15:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 14:15:00",
+      "end_time": "2026-02-15 15:00:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Diretta gare. Nel corso: Tg Sport Olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 15:00:00",
+      "end_time": "2026-02-15 16:45:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 16:45:00",
+      "end_time": "2026-02-15 19:00:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 19:00:00",
+      "end_time": "2026-02-15 20:30:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 20:30:00",
+      "end_time": "2026-02-15 20:45:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 20:45:00",
+      "end_time": "2026-02-15 21:00:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 21:00:00",
+      "end_time": "2026-02-15 21:15:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 21:15:00",
+      "end_time": "2026-02-15 21:45:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-15 21:45:00",
+      "end_time": "2026-02-15 23:30:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
+    },
+    {
+      "show_name": "Serie C",
+      "show_logo": "https://www.raiplay.it/dl/img/2024/09/19/1726735620828_SerieC2024-assets2048x1152.jpg",
+      "start_time": "2026-02-15 23:30:00",
+      "end_time": "2026-02-16 01:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Calcio Serie C Sky Wifi: Ravenna-Juventus Next Gen - 27a g.ta."
     }
   ]
 }

@@ -1,42 +1,33 @@
 {
   "channel_name": "Sky Sport  251",
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "programs": [
     {
-      "show_name": "Calcio Bundesliga - Ep. 117 - Calcio Bundesliga 22ga Borussia Dortmund/ Mainz 13/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/today/calcio-bundesliga-ep-117-calcio-bundesliga-22ga-borussia-dortmund-mainz-13-02-2026.webp",
-      "start_time": "2026-02-14 00:00:00",
-      "end_time": "2026-02-14 14:00:00",
-      "episode_number": "S2025 E117",
-      "show_category": "Sport",
-      "show_description": "Dal Signal Iduna Park di Dortmund, Germania."
-    },
-    {
-      "show_name": "Cavese - Salernitana",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/today/cavese-salernitana.webp",
-      "start_time": "2026-02-14 14:00:00",
-      "end_time": "2026-02-14 17:25:00",
-      "episode_number": "S2025 E274",
-      "show_category": "Sport",
-      "show_description": "Tutte le partite del campionato di Serie C italiano."
-    },
-    {
-      "show_name": "Siracusa - Catania",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/today/siracusa-catania.webp",
-      "start_time": "2026-02-14 17:25:00",
-      "end_time": "2026-02-14 19:30:00",
-      "episode_number": "S2025 E280",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Nicola de Simone di Siracusa, Italia."
-    },
-    {
       "show_name": "Inter - Juventus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-251/today/inter-juventus.webp",
-      "start_time": "2026-02-14 19:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/dea12aa2-eaaf-4cef-bd3d-6683a2bdb8be/cover?territory=IT&md5ChecksumParam=27a2832dcde71aba16cbb54688b1de6e",
+      "start_time": "2026-02-15 00:00:00",
       "end_time": "2026-02-15 14:00:00",
       "episode_number": "S2025 E244",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Giuseppe Meazza di Milano, Italia."
+    },
+    {
+      "show_name": "Ravenna - Juventus Next Gen",
+      "show_logo": "https://guidatv.sky.it/uuid/d29f74ef-a283-4be5-9f6d-fba8ab356dab/cover?territory=IT&md5ChecksumParam=be46e377cf5fc47ce626f409a925d1aa",
+      "start_time": "2026-02-15 14:00:00",
+      "end_time": "2026-02-15 17:00:00",
+      "episode_number": "S2025 E270",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Bruno Benelli di Ravenna, Italia."
+    },
+    {
+      "show_name": "Torino - Bologna",
+      "show_logo": "https://guidatv.sky.it/uuid/1a67c002-3350-4c2c-8a08-7a2e4f0c0d40/cover?territory=IT&md5ChecksumParam=6cb64fd8613595bf3ad11dcbd487c029",
+      "start_time": "2026-02-15 17:00:00",
+      "end_time": "2026-02-16 20:00:00",
+      "episode_number": "S2025 E74",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Olimpico di Torino, Italia."
     }
   ]
 }

@@ -1,168 +1,177 @@
 {
   "channel_name": "Sky Sport Max",
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "programs": [
     {
-      "show_name": "Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/gara.webp",
-      "start_time": "2026-02-15 00:00:00",
-      "end_time": "2026-02-15 06:00:00",
+      "show_name": "Rugby Six Nations - Ep. 6 - Rugby Six Nations 2026 2ga Galles/ Francia 15/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/ad581548-1ca8-4f0e-9669-2ba5f31cc591/cover?territory=IT&md5ChecksumParam=fa2a942f1bf77fa8f3d2ef304090371b",
+      "start_time": "2026-02-16 00:00:00",
+      "end_time": "2026-02-16 01:55:00",
+      "episode_number": "S2026 E6",
+      "show_category": "Sport",
+      "show_description": "Dal Principality Stadium di Cardiff, Galles."
+    },
+    {
+      "show_name": "Werder Brema - Bayern Monaco",
+      "show_logo": "https://guidatv.sky.it/uuid/c944ff67-c16d-40e0-b7aa-6cdd57fc56f8/cover?territory=IT&md5ChecksumParam=d3e5d4fb3f3f8697ccbbafbef072fd1d",
+      "start_time": "2026-02-16 01:55:00",
+      "end_time": "2026-02-16 04:00:00",
+      "episode_number": "S2025 E118",
+      "show_category": "Sport",
+      "show_description": "Dal Weserstadion di Brema, Germania."
+    },
+    {
+      "show_name": "Michel Platini: Le Roi",
+      "show_logo": "https://guidatv.sky.it/uuid/bd2bee7f-f123-4132-b146-b740818bd001/cover?territory=IT&md5ChecksumParam=6fe8dc3aa3a562126953f8988c42ca67",
+      "start_time": "2026-02-16 04:00:00",
+      "end_time": "2026-02-16 05:00:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Il circuito di Mount Panorama ospita la gara di resistenza delle 12 ore di Bathurst."
-    },
-    {
-      "show_name": "Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/gara.webp",
-      "start_time": "2026-02-15 06:00:00",
-      "end_time": "2026-02-15 08:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Il circuito di Mount Panorama ospita la gara di resistenza delle 12 ore di Bathurst."
-    },
-    {
-      "show_name": "Messina 1a Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/messina-1a-parte.webp",
-      "start_time": "2026-02-15 08:00:00",
-      "end_time": "2026-02-15 09:00:00",
-      "episode_number": "S1 E32",
-      "show_category": "Sport",
-      "show_description": "Dal silenzio alla scelta: Ettore Messina torna a parlare dopo le sue dimissioni. Tra vittorie e piazze che dividono, autoesigenza, pressioni e responsabilità di un allenatore."
-    },
-    {
-      "show_name": "Ep.1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/ep-1.webp",
-      "start_time": "2026-02-15 09:00:00",
-      "end_time": "2026-02-15 09:30:00",
-      "episode_number": "S2026 E1",
-      "show_category": "Sport",
-      "show_description": "Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico."
-    },
-    {
-      "show_name": "Rally Wrc - Ep. 11 - Rally Wrc 2026 Svezia Live Stage 3 14/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/rally-wrc-ep-11-rally-wrc-2026-svezia-live-stage-3-14-02-2026.webp",
-      "start_time": "2026-02-15 09:30:00",
-      "end_time": "2026-02-15 10:30:00",
-      "episode_number": "S2026 E11",
-      "show_category": "Sport",
-      "show_description": "Segui le gare del World Rally Championship."
-    },
-    {
-      "show_name": "rlanda - Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/rlanda-italia.webp",
-      "start_time": "2026-02-15 10:30:00",
-      "end_time": "2026-02-15 12:30:00",
-      "episode_number": "S2026 E4",
-      "show_category": "Sport",
-      "show_description": "Dall'Aviva Stadium di Dublino, Irlanda."
-    },
-    {
-      "show_name": "Messina 1a Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/messina-1a-parte.webp",
-      "start_time": "2026-02-15 12:30:00",
-      "end_time": "2026-02-15 13:25:00",
-      "episode_number": "S1 E32",
-      "show_category": "Sport",
-      "show_description": "Dal silenzio alla scelta: Ettore Messina torna a parlare dopo le sue dimissioni. Tra vittorie e piazze che dividono, autoesigenza, pressioni e responsabilità di un allenatore."
-    },
-    {
-      "show_name": "Holstein Kiel - Schalke 04",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/holstein-kiel-schalke-04.webp",
-      "start_time": "2026-02-15 13:25:00",
-      "end_time": "2026-02-15 15:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Le partite della Bundesliga 2, la seconda divisione tedesca di calcio."
+      "show_description": "Michel Platini: Le Roi - Michel Platini: Le Roi."
     },
     {
       "show_name": "Ibrahimovic: Io Zlatan",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/ibrahimovic-io-zlatan.webp",
-      "start_time": "2026-02-15 15:30:00",
-      "end_time": "2026-02-15 16:25:00",
+      "show_logo": "https://guidatv.sky.it/uuid/7730ef18-6f7e-42ef-8861-577173559afc/cover?territory=IT&md5ChecksumParam=11c2ba7a088a53fd012a448a1e51f3bf",
+      "start_time": "2026-02-16 05:00:00",
+      "end_time": "2026-02-16 06:00:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Zlatan Ibrahimovic, ospite al Festival dello Sport di Trento, organizzato da Gazzetta dello Sport e Trentino, racconta la sua carriera con aneddoti e emozione."
     },
     {
-      "show_name": "Ep.2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/ep-2.webp",
-      "start_time": "2026-02-15 16:25:00",
-      "end_time": "2026-02-15 17:10:00",
-      "episode_number": "S2026 E2",
+      "show_name": "Kimi e Toto",
+      "show_logo": "https://guidatv.sky.it/uuid/fab92147-6250-4fcc-9420-c3de247e8ad9/cover?territory=IT&md5ChecksumParam=aa14f888588d14a2a449933886a11a5b",
+      "start_time": "2026-02-16 06:00:00",
+      "end_time": "2026-02-16 06:30:00",
+      "episode_number": "S2024 E7",
       "show_category": "Sport",
-      "show_description": "Racconta l'Italia intrecciando la storia delle Olimpiadi e delle infrastrutture ferroviarie, mostrando come i grandi eventi abbiano accelerato il cambiamento del Paese."
+      "show_description": "Il legame tra Andrea Kimi Antonelli e Toto Wolff va oltre il semplice rapporto tra pilota e team principal: è una scommessa che guarda lontano."
     },
     {
-      "show_name": "Programmazione non disponibile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/programmazione-non-disponibile.webp",
-      "start_time": "2026-02-15 17:10:00",
-      "end_time": "2026-02-15 17:25:00",
+      "show_name": "L'uomo Contro La Macchina",
+      "show_logo": "https://guidatv.sky.it/uuid/4edd351f-b9cd-41b9-8d4f-4f465a5e8e72/cover?territory=IT&md5ChecksumParam=04da735fa3b770755c00a60ad0525c02",
+      "start_time": "2026-02-16 06:30:00",
+      "end_time": "2026-02-16 07:00:00",
       "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Programmazione non disponibile."
+      "show_category": "Sport",
+      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
     },
     {
-      "show_name": "Lipsia - Wolfsburg",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/lipsia-wolfsburg.webp",
-      "start_time": "2026-02-15 17:25:00",
-      "end_time": "2026-02-15 19:30:00",
-      "episode_number": "S2025 E121",
+      "show_name": "Vanoli Cremona - Olimpia Milano",
+      "show_logo": "https://guidatv.sky.it/uuid/3e0d9eb6-959a-4854-8fc6-c3a7addab128/cover?territory=IT&md5ChecksumParam=e24d718a56abbf7170c41082cabf0f38",
+      "start_time": "2026-02-16 07:00:00",
+      "end_time": "2026-02-16 09:00:00",
+      "episode_number": "S2025 E40",
       "show_category": "Sport",
-      "show_description": "Dalla Red Bull Arena di Lipsia, Germania."
+      "show_description": "Dal PalaRadi di Cremona, Italia."
+    },
+    {
+      "show_name": "Federico Buffa A Teatro: Otto Infinito",
+      "show_logo": "https://guidatv.sky.it/uuid/54e3b97b-9953-4f96-84eb-e697c4cfb838/cover?territory=IT&md5ChecksumParam=dce09c12757dc7526b974be518f5cc37",
+      "start_time": "2026-02-16 09:00:00",
+      "end_time": "2026-02-16 09:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Federico Buffa, la regista Marelli e il maestro Nidi aprono il backstage a Sky Sport: genesi, trama e legacy dello spettacolo su Kobe Bryant. Dal 7 febbraio a teatro."
+    },
+    {
+      "show_name": "Inter - Juventus",
+      "show_logo": "https://guidatv.sky.it/uuid/dea12aa2-eaaf-4cef-bd3d-6683a2bdb8be/cover?territory=IT&md5ChecksumParam=27a2832dcde71aba16cbb54688b1de6e",
+      "start_time": "2026-02-16 09:30:00",
+      "end_time": "2026-02-16 11:30:00",
+      "episode_number": "S2025 E244",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Giuseppe Meazza di Milano, Italia."
+    },
+    {
+      "show_name": "Rugby Six Nations - Ep. 6 - Rugby Six Nations 2026 2ga Galles/ Francia 15/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/ad581548-1ca8-4f0e-9669-2ba5f31cc591/cover?territory=IT&md5ChecksumParam=fa2a942f1bf77fa8f3d2ef304090371b",
+      "start_time": "2026-02-16 11:30:00",
+      "end_time": "2026-02-16 13:30:00",
+      "episode_number": "S2026 E6",
+      "show_category": "Sport",
+      "show_description": "Dal Principality Stadium di Cardiff, Galles."
+    },
+    {
+      "show_name": "Rally Wrc - Ep. 12 - Rally Wrc 2026 Svezia Live Stage 4 15/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/e11e2cfb-8a4c-4c01-85d4-c731bfca6a6a/cover?territory=IT&md5ChecksumParam=7fa534650951a46bcec6a5413a80abaf",
+      "start_time": "2026-02-16 13:30:00",
+      "end_time": "2026-02-16 15:00:00",
+      "episode_number": "S2026 E12",
+      "show_category": "Sport",
+      "show_description": "Segui le gare del World Rally Championship."
     },
     {
       "show_name": "Ep.41",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/ep-41.webp",
-      "start_time": "2026-02-15 19:30:00",
-      "end_time": "2026-02-15 20:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/0ff6859e-85fc-43fb-a90b-189e4a64cc7e/cover?territory=IT&md5ChecksumParam=40d3d23ed4cdb3a75df14bd642197540",
+      "start_time": "2026-02-16 15:00:00",
+      "end_time": "2026-02-16 15:30:00",
       "episode_number": "S1 E41",
       "show_category": "Sport",
       "show_description": "I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia."
     },
     {
-      "show_name": "Finale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/finale.webp",
-      "start_time": "2026-02-15 20:00:00",
-      "end_time": "2026-02-15 22:00:00",
+      "show_name": "Ibrahimovic: Io Zlatan",
+      "show_logo": "https://guidatv.sky.it/uuid/7730ef18-6f7e-42ef-8861-577173559afc/cover?territory=IT&md5ChecksumParam=11c2ba7a088a53fd012a448a1e51f3bf",
+      "start_time": "2026-02-16 15:30:00",
+      "end_time": "2026-02-16 16:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Zlatan Ibrahimovic, ospite al Festival dello Sport di Trento, organizzato da Gazzetta dello Sport e Trentino, racconta la sua carriera con aneddoti e emozione."
+    },
+    {
+      "show_name": "Inter - Juventus",
+      "show_logo": "https://guidatv.sky.it/uuid/dea12aa2-eaaf-4cef-bd3d-6683a2bdb8be/cover?territory=IT&md5ChecksumParam=27a2832dcde71aba16cbb54688b1de6e",
+      "start_time": "2026-02-16 16:30:00",
+      "end_time": "2026-02-16 18:25:00",
+      "episode_number": "S2025 E244",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Giuseppe Meazza di Milano, Italia."
+    },
+    {
+      "show_name": "La Valanga Azzurra",
+      "show_logo": "https://guidatv.sky.it/uuid/016365ad-8f7b-45c8-8c82-c0e8255163f0/cover?territory=IT&md5ChecksumParam=d07b2dbdc94e19d3bfc046f32a77a60e",
+      "start_time": "2026-02-16 18:25:00",
+      "end_time": "2026-02-16 20:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un documentario che ci racconta lo sci alpino negli anni Settanta ma, soprattutto, la mitica nazionale italiana di sci in quegli anni e i suoi successi straordinari."
+    },
+    {
+      "show_name": "Icarus Ultra - Ep. 20 - Icarus Ultra 2025 Ep.20 16/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/c86eb876-0e54-47c2-9c94-c082d721650a/cover?territory=IT&md5ChecksumParam=22acf3826eeede441962f8259b66aaf3",
+      "start_time": "2026-02-16 20:00:00",
+      "end_time": "2026-02-16 20:30:00",
+      "episode_number": "S2025 E20",
+      "show_category": "Sport",
+      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
+    },
+    {
+      "show_name": "Inghilterra - Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/6cd8e366-4425-4b3e-9a08-a2ad8ec4a68d/cover?territory=IT&md5ChecksumParam=1dbf822467bac5fbf0b9f2945976a8f5",
+      "start_time": "2026-02-16 20:30:00",
+      "end_time": "2026-02-16 23:30:00",
       "episode_number": "S2026 E3",
       "show_category": "Sport",
-      "show_description": "ATP 500 Dallas."
+      "show_description": "Dall'Eden Gardens di Calcutta, India."
     },
     {
-      "show_name": "Ep.2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/ep-2.webp",
-      "start_time": "2026-02-15 22:00:00",
-      "end_time": "2026-02-15 22:45:00",
+      "show_name": "Round 2",
+      "show_logo": "https://guidatv.sky.it/uuid/e2451eb7-9b38-40d9-8825-d82de65906b3/cover?territory=IT&md5ChecksumParam=c2ce72235506a2500d69bcc6f5b079bd",
+      "start_time": "2026-02-16 23:30:00",
+      "end_time": "2026-02-16 23:45:00",
       "episode_number": "S2026 E2",
       "show_category": "Sport",
-      "show_description": "Racconta l'Italia intrecciando la storia delle Olimpiadi e delle infrastrutture ferroviarie, mostrando come i grandi eventi abbiano accelerato il cambiamento del Paese."
+      "show_description": "Rugby Six Nations Highlights 2026 Round 2 16/02/2026 - Scopriamo i momenti migliori del primo turno del \"Rugby Six Nations\" dell'anno 2026."
     },
     {
-      "show_name": "Ep.17",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/ep-17.webp",
-      "start_time": "2026-02-15 22:45:00",
-      "end_time": "2026-02-15 23:00:00",
-      "episode_number": "S2025 E17",
+      "show_name": "Rugby Six Nations Highlights - Ep. 2 - Rugby Six Nations U20 Highlights 2026 Round 2 16/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/d606213d-07fc-4b4b-bed3-281aea4fab48/cover?territory=IT&md5ChecksumParam=a2d71a0d69ee11953e7abc41f6ffe41b",
+      "start_time": "2026-02-16 23:45:00",
+      "end_time": "2026-02-17 00:00:00",
+      "episode_number": "S2026 E2",
       "show_category": "Sport",
-      "show_description": "Motonautica On Board."
-    },
-    {
-      "show_name": "Messina 1a Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/messina-1a-parte.webp",
-      "start_time": "2026-02-15 23:00:00",
-      "end_time": "2026-02-15 23:55:00",
-      "episode_number": "S1 E32",
-      "show_category": "Sport",
-      "show_description": "Dal silenzio alla scelta: Ettore Messina torna a parlare dopo le sue dimissioni. Tra vittorie e piazze che dividono, autoesigenza, pressioni e responsabilità di un allenatore."
-    },
-    {
-      "show_name": "Rugby Six Nations - Ep. 6 - Rugby Six Nations 2026 2ga Galles/ Francia 15/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/rugby-six-nations-ep-6-rugby-six-nations-2026-2ga-galles-francia-15-02-2026.webp",
-      "start_time": "2026-02-15 23:55:00",
-      "end_time": "2026-02-16 01:55:00",
-      "episode_number": "S2026 E6",
-      "show_category": "Sport",
-      "show_description": "Dal Principality Stadium di Cardiff, Galles."
+      "show_description": "Ritorniamo sulle partite del torneo internazionale di rugby under 20."
     }
   ]
 }

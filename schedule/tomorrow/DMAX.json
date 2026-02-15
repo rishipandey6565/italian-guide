@@ -1,240 +1,195 @@
 {
   "channel_name": "DMAX",
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "programs": [
     {
-      "show_name": "Real TV: crimini di strada",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 00:00:00",
-      "end_time": "2026-02-15 00:00:00",
-      "episode_number": "S1 E14",
-      "show_category": "",
-      "show_description": "Campanello d'allarme - Andrea Agresti analizza i crimini ripresi dalle telecamere e diventati virali. Manuel Spadaccini ci consiglia come comportarci in situazioni ad alto rischio."
-    },
-    {
-      "show_name": "Real TV: crimini di strada",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 00:00:00",
-      "end_time": "2026-02-15 00:35:00",
-      "episode_number": "S1 E14",
-      "show_category": "",
-      "show_description": "Campanello d'allarme - Andrea Agresti analizza i crimini ripresi dalle telecamere e diventati virali. Manuel Spadaccini ci consiglia come comportarci in situazioni ad alto rischio."
-    },
-    {
-      "show_name": "Real TV: crimini di strada",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 00:35:00",
-      "end_time": "2026-02-15 01:40:00",
-      "episode_number": "S1 E13",
-      "show_category": "",
-      "show_description": "Buoni samaritani - Andrea Agresti analizza i crimini ripresi dalle telecamere e diventati virali. Manuel Spadaccini ci consiglia come comportarci in situazioni ad alto rischio."
-    },
-    {
-      "show_name": "Blindati: viaggio nelle carceri",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 01:40:00",
-      "end_time": "2026-02-15 02:45:00",
-      "episode_number": "S2 E1",
-      "show_category": "",
-      "show_description": "Filippine - Luigi Pelazza ci porta nella nuova prigione di Bilibid nelle Filippine."
-    },
-    {
-      "show_name": "Blindati: viaggio nelle carceri",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 02:45:00",
-      "end_time": "2026-02-15 03:50:00",
-      "episode_number": "S2 E2",
-      "show_category": "",
-      "show_description": "Croazia - Luigi Pelazza racconta la prigione di Lepoglava in Croazia, la piu' sorvegliata del paese."
-    },
-    {
-      "show_name": "Blindati: viaggio nelle carceri",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 03:50:00",
-      "end_time": "2026-02-15 04:55:00",
-      "episode_number": "S2 E3",
-      "show_category": "",
-      "show_description": "Taiwan - Luigi Pelazza ci porta nella prigione in cui e' impossibile fuggire."
-    },
-    {
-      "show_name": "Blindati: viaggio nelle carceri",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 04:55:00",
-      "end_time": "2026-02-15 06:00:00",
-      "episode_number": "S2 E4",
-      "show_category": "",
-      "show_description": "Romania - Luigi Pelazza ci porta nel carcere ad alta sicurezza di Rahova a Bucharest."
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 06:00:00",
-      "end_time": "2026-02-15 06:25:00",
-      "episode_number": "S3 E3",
-      "show_category": "",
-      "show_description": "Auto da corsa - Allen e Ton sono entusiasti di trovare a Burbank, California, un vecchio tavolo da shuffleboard e un'auto da corsa. Ma quanto potranno valere nelle condizioni in cui si trovano?"
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 06:25:00",
-      "end_time": "2026-02-15 06:50:00",
-      "episode_number": "S3 E4",
-      "show_category": "",
-      "show_description": "St.3 Ep.4 - Allen e Ton devono fare i conti con una concorrenza spietata per riuscire ad aggiudicarsi un fuoristrada, una canoa di legno e delle percussioni. Ma riusciranno a guadagnarci?"
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 06:50:00",
-      "end_time": "2026-02-15 07:20:00",
-      "episode_number": "S3 E5",
-      "show_category": "",
-      "show_description": "St.3 Ep.5 - Ad una svendita di container ad Anchorage arriva un momento difficile per Allen e Ton: quale sara' il valore del contenuto di questi enormi lotti?"
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 07:20:00",
-      "end_time": "2026-02-15 07:45:00",
-      "episode_number": "S3 E6",
-      "show_category": "",
-      "show_description": "St.3 Ep.6 - Ton e Allen hanno una seconda chance ad un'asta in Alaska, dove scovano un veicolo per la manutenzione delle ferrovie e una pistola giapponese. Quale sara' il loro valore?"
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 07:45:00",
-      "end_time": "2026-02-15 08:15:00",
-      "episode_number": "S3 E7",
-      "show_category": "",
-      "show_description": "St.3 Ep.7 - A Glendale, California, Ton e Allen devono guardarsi le spalle da uno spietato concorrente. Riescono, comunque, ad accaparrasi una batteria d'epoca, ma fara' la loro fortuna?"
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 08:15:00",
-      "end_time": "2026-02-15 08:40:00",
-      "episode_number": "S3 E8",
-      "show_category": "",
-      "show_description": "St.3 Ep.8 - I ragazzi sono obbligati ad alzare la posta durante un'asta a New Orleans, poi trovano due pistole e un aliscafo. Riusciranno a rivenderli guadagnandoci?"
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 08:40:00",
-      "end_time": "2026-02-15 09:05:00",
-      "episode_number": "S3 E9",
-      "show_category": "",
-      "show_description": "St.3 Ep.9 - Ad un'asta in Louisiana, Ton e Allen scovano una vecchia poltrona da barbiere, due tagliaerba e alcuni oggetti per praticare il voodoo. Ma riusciranno a guadagnarci?"
-    },
-    {
-      "show_name": "Affare fatto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 09:05:00",
-      "end_time": "2026-02-15 09:35:00",
-      "episode_number": "S3 E10",
-      "show_category": "",
-      "show_description": "St.3 Ep.10 - Ad un'asta a Washington DC, Ton e Allen trovano un revolver della Guerra Civile e antiche monete d'oro provenienti dal Sud Africa: per aggiudicarsele sono pronti a tutto."
-    },
-    {
-      "show_name": "Affari d'occasione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 09:35:00",
-      "end_time": "2026-02-15 10:30:00",
-      "episode_number": "S1 E6",
-      "show_category": "",
-      "show_description": "Una nuova speranza - Un cliente attira Thomas lontano dal negozio con la promessa di un grande affare."
-    },
-    {
-      "show_name": "WWE Smackdown",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 10:30:00",
-      "end_time": "2026-02-15 13:25:00",
-      "episode_number": "E136",
-      "show_category": "",
-      "show_description": "St. Ep.136 - Le Superstar della WWE sbarcano su Dmax con i nuovi episodi di WWE Smackdown."
-    },
-    {
-      "show_name": "Quei cattivi vicini",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 13:25:00",
-      "end_time": "2026-02-15 14:35:00",
-      "episode_number": "S2 E9",
-      "show_category": "",
-      "show_description": "St.2 Ep.9 - I rapporti tra i vicini di casa non sono mai stati cosi' animati: liti, risse ed episodi ai limiti della realta'!"
-    },
-    {
-      "show_name": "Customer Wars",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 14:35:00",
-      "end_time": "2026-02-15 15:25:00",
-      "episode_number": "S1 E1",
-      "show_category": "",
-      "show_description": "St.1 Ep.1 - Litigi, risse e urla: e' vero che i clienti hanno sempre ragione?"
-    },
-    {
-      "show_name": "72 animali pericolosi con Barbascura X",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 15:25:00",
-      "end_time": "2026-02-15 16:35:00",
-      "episode_number": "S3 E8",
-      "show_category": "",
-      "show_description": "St.3 Ep.8 - Barbascura X ci mostra gli animali piu' pericolosi del Sud America."
-    },
-    {
-      "show_name": "Vado a vivere nel bosco XL",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 16:35:00",
-      "end_time": "2026-02-15 18:30:00",
-      "episode_number": "S1 E2",
-      "show_category": "",
-      "show_description": "St.1 Ep.2 - Ogni anno, molte famiglie fanno una scelta radicale: decidono di andare a vivere off the grid in alcuni dei Paesi piu' remoti degli Stati Uniti. Per loro, tuttavia, la strada e' tutta in salita."
-    },
-    {
-      "show_name": "Vado a vivere nel bosco XL",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 18:30:00",
-      "end_time": "2026-02-15 20:20:00",
-      "episode_number": "S1 E3",
-      "show_category": "",
-      "show_description": "St.1 Ep.3 - Ogni anno, molte famiglie fanno una scelta radicale: decidono di andare a vivere off the grid in alcuni dei Paesi piu' remoti degli Stati Uniti. Per loro, tuttavia, la strada e' tutta in salita."
-    },
-    {
-      "show_name": "Avamposti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 20:20:00",
-      "end_time": "2026-02-15 21:40:00",
-      "episode_number": "S1 E4",
-      "show_category": "",
-      "show_description": "Rogoredo - Il bosco della droga - A pochi chilometri dal Duomo di Milano sorge la piu' grande piazza di spaccio a cielo aperto del nord Italia: il bosco di Rogoredo."
-    },
-    {
-      "show_name": "L'Eldorado della droga: viaggio in USA - 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 21:40:00",
-      "end_time": "2026-02-15 22:35:00",
-      "episode_number": "S5 E1",
-      "show_category": "",
-      "show_description": "St.5 Ep.1 - Gli agenti devono fermare i contrabbandieri e i trafficanti di droga."
-    },
-    {
-      "show_name": "L'Eldorado della droga: viaggio in USA - 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 22:35:00",
-      "end_time": "2026-02-15 23:30:00",
-      "episode_number": "S5 E2",
-      "show_category": "",
-      "show_description": "St.5 Ep.2 - Gli agenti devono fermare i contrabbandieri e i trafficanti di droga."
-    },
-    {
       "show_name": "Stop! Border Control: Roma Fiumicino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 23:30:00",
+      "show_logo": "",
+      "start_time": "2026-02-16 00:00:00",
       "end_time": "2026-02-16 00:00:00",
       "episode_number": "S4 E4",
       "show_category": "",
       "show_description": "St.4 Ep.4 - Scopriamo il lavoro degli agenti a Fiumicino."
+    },
+    {
+      "show_name": "Stop! Border Control: Roma Fiumicino",
+      "show_logo": "",
+      "start_time": "2026-02-16 00:00:00",
+      "end_time": "2026-02-16 00:35:00",
+      "episode_number": "S4 E4",
+      "show_category": "",
+      "show_description": "St.4 Ep.4 - Scopriamo il lavoro degli agenti a Fiumicino."
+    },
+    {
+      "show_name": "Stop! Border Control: Roma Fiumicino",
+      "show_logo": "",
+      "start_time": "2026-02-16 00:35:00",
+      "end_time": "2026-02-16 01:50:00",
+      "episode_number": "S4 E3",
+      "show_category": "",
+      "show_description": "St.4 Ep.3 - Scopriamo il lavoro degli agenti a Fiumicino."
+    },
+    {
+      "show_name": "Real TV: crimini di strada",
+      "show_logo": "",
+      "start_time": "2026-02-16 01:50:00",
+      "end_time": "2026-02-16 03:05:00",
+      "episode_number": "S1 E8",
+      "show_category": "",
+      "show_description": "Ospiti indesiderati - Andrea Agresti analizza i crimini ripresi dalle telecamere e diventati virali. Manuel Spadaccini ci consiglia come comportarci in situazioni ad alto rischio."
+    },
+    {
+      "show_name": "Real TV: crimini di strada",
+      "show_logo": "",
+      "start_time": "2026-02-16 03:05:00",
+      "end_time": "2026-02-16 04:20:00",
+      "episode_number": "S1 E9",
+      "show_category": "",
+      "show_description": "Eroi e cattivi - Andrea Agresti analizza i crimini ripresi dalle telecamere e diventati virali. Manuel Spadaccini ci consiglia come comportarci in situazioni ad alto rischio."
+    },
+    {
+      "show_name": "Real TV: crimini di strada",
+      "show_logo": "",
+      "start_time": "2026-02-16 04:20:00",
+      "end_time": "2026-02-16 05:30:00",
+      "episode_number": "S1 E10",
+      "show_category": "",
+      "show_description": "Crimini selvaggi - Andrea Agresti analizza i crimini ripresi dalle telecamere e diventati virali. Manuel Spadaccini ci consiglia come comportarci in situazioni ad alto rischio."
+    },
+    {
+      "show_name": "Affari in valigia",
+      "show_logo": "",
+      "start_time": "2026-02-16 05:30:00",
+      "end_time": "2026-02-16 06:00:00",
+      "episode_number": "S5 E8",
+      "show_category": "",
+      "show_description": "Acquisti - C'e' solo un boss all'asta di Concord: Jim Saturley. Gli acquirenti partecipano alle sue aste da oltre 20 anni. Billy, Valerie e Mark si ambienteranno subito!"
+    },
+    {
+      "show_name": "Real Crash TV",
+      "show_logo": "",
+      "start_time": "2026-02-16 06:00:00",
+      "end_time": "2026-02-16 07:00:00",
+      "episode_number": "S5 E11",
+      "show_category": "",
+      "show_description": "St.5 Ep.11 - Osserviamo scene assurde alla guida grazie alle immagini delle telecamere."
+    },
+    {
+      "show_name": "Real Crash TV",
+      "show_logo": "",
+      "start_time": "2026-02-16 07:00:00",
+      "end_time": "2026-02-16 08:00:00",
+      "episode_number": "S5 E12",
+      "show_category": "",
+      "show_description": "St.5 Ep.12 - Osserviamo scene assurde alla guida grazie alle immagini delle telecamere."
+    },
+    {
+      "show_name": "A caccia di tesori",
+      "show_logo": "",
+      "start_time": "2026-02-16 08:00:00",
+      "end_time": "2026-02-16 09:00:00",
+      "episode_number": "S17 E1",
+      "show_category": "",
+      "show_description": "Tra le ceneri - In Oregon, Mike e Frank incontrano un collezionista. Parte della sua collezione e' stata distrutta da un incendio nel 2015, ma alcuni oggetti sono rimasti."
+    },
+    {
+      "show_name": "A caccia di tesori",
+      "show_logo": "",
+      "start_time": "2026-02-16 09:00:00",
+      "end_time": "2026-02-16 10:05:00",
+      "episode_number": "S16 E17",
+      "show_category": "",
+      "show_description": "Georgia - Mike e Frank si occupano di una Nash-Healey Roadster del 1952, di alcune giacche da motocicletta, degli oggetti legati ad alcuni film e bellissime automobili classiche."
+    },
+    {
+      "show_name": "Per un pugno di Giada",
+      "show_logo": "",
+      "start_time": "2026-02-16 10:05:00",
+      "end_time": "2026-02-16 11:45:00",
+      "episode_number": "S4 E1",
+      "show_category": "",
+      "show_description": "St.4 Ep.1 - Una squadra va alla ricerca della preziosa giada."
+    },
+    {
+      "show_name": "Border Security: acque di confine",
+      "show_logo": "",
+      "start_time": "2026-02-16 11:45:00",
+      "end_time": "2026-02-16 13:35:00",
+      "episode_number": "S1 E4",
+      "show_category": "",
+      "show_description": "In silenzio - Gli agenti ispezionano una nave per verificare che non vi siano carichi nascosti."
+    },
+    {
+      "show_name": "Storage Wars Canada - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-16 13:35:00",
+      "end_time": "2026-02-16 14:30:00",
+      "episode_number": "S2 E3",
+      "show_category": "",
+      "show_description": "Tesori industriali - Don e i ragazzi sono nell'area industriale di Toronto per un'asta. Roy spera che ci siano dei tesori nascosti nei depositi industriali."
+    },
+    {
+      "show_name": "Storage Wars Canada - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-16 14:30:00",
+      "end_time": "2026-02-16 15:25:00",
+      "episode_number": "S2 E4",
+      "show_category": "",
+      "show_description": "Custodi - Il team composto da Paul e Bogart discute sulla tendenza di Paul a spendere piu' del dovuto. Intanto, i custodi Mike e Armando si presentano ad un'asta."
+    },
+    {
+      "show_name": "Affari a tutti i costi",
+      "show_logo": "",
+      "start_time": "2026-02-16 15:25:00",
+      "end_time": "2026-02-16 16:20:00",
+      "episode_number": "S5 E5",
+      "show_category": "",
+      "show_description": "St.5 Ep.5 - Durante l'asta piu' calda dell'anno, anche gli animi degli acquirenti si infiammano. I compratori si occupano di alcuni oggetti in metallo e una scatola di vetro affascina le squadre."
+    },
+    {
+      "show_name": "Affari a tutti i costi",
+      "show_logo": "",
+      "start_time": "2026-02-16 16:20:00",
+      "end_time": "2026-02-16 17:40:00",
+      "episode_number": "S5 E6",
+      "show_category": "",
+      "show_description": "St.5 Ep.6 - Un misterioso caravan dal potenziale esplosivo manda in delirio i compratori e le loro offerte. Brandon si occupa di alcuni oggetti per la boxe, ma Lori potrebbe arrabbiarsi molto per questa trattativa."
+    },
+    {
+      "show_name": "Per un pugno di Giada",
+      "show_logo": "",
+      "start_time": "2026-02-16 17:40:00",
+      "end_time": "2026-02-16 19:25:00",
+      "episode_number": "S4 E2",
+      "show_category": "",
+      "show_description": "St.4 Ep.2 - Una squadra va alla ricerca della preziosa giada."
+    },
+    {
+      "show_name": "Stop! Border Control: Roma Fiumicino",
+      "show_logo": "",
+      "start_time": "2026-02-16 19:25:00",
+      "end_time": "2026-02-16 21:40:00",
+      "episode_number": "S2 E3",
+      "show_category": "",
+      "show_description": "St.2 Ep.3 - Scopriamo il lavoro degli agenti a Fiumicino."
+    },
+    {
+      "show_name": "I pionieri dell'oro - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-16 21:40:00",
+      "end_time": "2026-02-16 23:25:00",
+      "episode_number": "S10 E3",
+      "show_category": "",
+      "show_description": "St.10 Ep.3 - Un gruppo di cercatori d'oro si avventura nell'outback australiano."
+    },
+    {
+      "show_name": "WWE Raw - 1^TV",
+      "show_logo": "",
+      "start_time": "2026-02-16 23:25:00",
+      "end_time": "2026-02-17 00:00:00",
+      "episode_number": "E137",
+      "show_category": "",
+      "show_description": "St. Ep.137 - Le Superstar della WWE sbarcano su Dmax con i nuovi episodi di WWE Raw."
     }
   ]
 }

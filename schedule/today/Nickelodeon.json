@@ -1,672 +1,753 @@
 {
   "channel_name": "Nickelodeon",
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "programs": [
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 00:00:00",
-      "end_time": "2026-02-14 00:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 00:00:00",
+      "end_time": "2026-02-15 00:05:00",
+      "episode_number": "E17",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Inizia l'operazione Tiro al Vampiro e Edith progetta una serie di scherzi per Dracula."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 00:05:00",
+      "end_time": "2026-02-15 00:15:00",
+      "episode_number": "S1 E18",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Arthur porta Edith, Bo e Ernest alla caccia di una Fenice Elettrica. Bo riesce a catturarla ma pensa di averla uccisa."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 00:15:00",
+      "end_time": "2026-02-15 00:30:00",
+      "episode_number": "S1 E19",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Ernest, Edith e Bo indagano su dei presunti furti che stanno avvenendo nel parco. Scopriranno che i responsabili sono tre elfi che hanno perso casa."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 00:30:00",
+      "end_time": "2026-02-15 00:40:00",
+      "episode_number": "S1 E20",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Bo incontra Muuna, un mostro del letto che sta tentando di lasciare casa Van Alten e decide di darle una mano."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 00:40:00",
+      "end_time": "2026-02-15 00:55:00",
+      "episode_number": "S1 E21",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Dopo una missione Ernest e Bo suonano per sbaglio il Gong dei Gremlins. Appaiono tre Gremlins che vogliono distruggere l'aereo dei cacciatori di mostri."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 00:55:00",
+      "end_time": "2026-02-15 01:05:00",
+      "episode_number": "S1 E22",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Una Mare infesta casa Van Alten e tutti tranne Bo rischiano di impazzire per i suoi incubi."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 01:05:00",
+      "end_time": "2026-02-15 01:20:00",
+      "episode_number": "S1 E23",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Una Manticora minaccia Grusselbrook, ma nello scontro Ernest ha un attacco di panico."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 01:20:00",
+      "end_time": "2026-02-15 01:30:00",
+      "episode_number": "S1 E24",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "La madre di Ishaani crede che Arthur abbia scoperto il loro segreto. Per dimostrarle che non è così Ernest organizza una cena con le due famiglie."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 01:30:00",
+      "end_time": "2026-02-15 01:45:00",
+      "episode_number": "S1 E25",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Per capire come spezzare la maledizione di un lupo mannaro, Arthur scongela Tamsyn, la nonna dei tre ragazzi."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 01:45:00",
+      "end_time": "2026-02-15 01:55:00",
+      "episode_number": "S1 E26",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Tamsyn inizia a conoscere i suoi nipoti e mette le sue abilità magiche per aiutare il lupo mannaro."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 01:55:00",
+      "end_time": "2026-02-15 02:10:00",
+      "episode_number": "S1 E27",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 02:10:00",
+      "end_time": "2026-02-15 02:20:00",
+      "episode_number": "S1 E28",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 02:20:00",
+      "end_time": "2026-02-15 02:35:00",
+      "episode_number": "S1 E29",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 02:35:00",
+      "end_time": "2026-02-15 02:50:00",
+      "episode_number": "S1 E30",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 02:50:00",
+      "end_time": "2026-02-15 03:05:00",
       "episode_number": "S1 E31",
       "show_category": "Ragazzi e Musica",
       "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 00:05:00",
-      "end_time": "2026-02-14 00:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 03:05:00",
+      "end_time": "2026-02-15 03:15:00",
       "episode_number": "S1 E32",
       "show_category": "Ragazzi e Musica",
       "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 00:15:00",
-      "end_time": "2026-02-14 00:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 03:15:00",
+      "end_time": "2026-02-15 03:30:00",
       "episode_number": "S1 E33",
       "show_category": "Ragazzi e Musica",
       "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 00:30:00",
-      "end_time": "2026-02-14 00:40:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 03:30:00",
+      "end_time": "2026-02-15 03:40:00",
       "episode_number": "S1 E34",
       "show_category": "Ragazzi e Musica",
       "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 00:40:00",
-      "end_time": "2026-02-14 00:55:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 03:40:00",
+      "end_time": "2026-02-15 03:50:00",
       "episode_number": "S1 E35",
       "show_category": "Ragazzi e Musica",
       "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 00:55:00",
-      "end_time": "2026-02-14 01:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 03:50:00",
+      "end_time": "2026-02-15 04:05:00",
       "episode_number": "S1 E36",
       "show_category": "Ragazzi e Musica",
       "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 01:05:00",
-      "end_time": "2026-02-14 01:20:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 04:05:00",
+      "end_time": "2026-02-15 04:15:00",
       "episode_number": "S1 E37",
       "show_category": "Ragazzi e Musica",
       "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 01:20:00",
-      "end_time": "2026-02-14 01:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 04:15:00",
+      "end_time": "2026-02-15 04:30:00",
       "episode_number": "S1 E38",
       "show_category": "Ragazzi e Musica",
       "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
     },
     {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 01:30:00",
-      "end_time": "2026-02-14 01:45:00",
-      "episode_number": "S1 E39",
-      "show_category": "Intrattenimento",
-      "show_description": "Un antico samurai fantasma insegna ai bambini l'autodifesa."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 01:45:00",
-      "end_time": "2026-02-14 01:55:00",
-      "episode_number": "S1 E40",
-      "show_category": "Intrattenimento",
-      "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 01:55:00",
-      "end_time": "2026-02-14 02:10:00",
-      "episode_number": "S1 E41",
-      "show_category": "Intrattenimento",
-      "show_description": "Parte 1 - Dracula è tornato con una missione speciale per i bambini."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 02:10:00",
-      "end_time": "2026-02-14 02:20:00",
-      "episode_number": "S1 E42",
-      "show_category": "Intrattenimento",
-      "show_description": "Parte 2 - Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mos."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 02:20:00",
-      "end_time": "2026-02-14 02:35:00",
-      "episode_number": "S1 E43",
-      "show_category": "Intrattenimento",
-      "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 02:35:00",
-      "end_time": "2026-02-14 02:50:00",
-      "episode_number": "S1 E44",
-      "show_category": "Intrattenimento",
-      "show_description": "Il mostro più spaventoso del mondo vuole diventare un comico. Ma c'è un problema: non è divertente."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 02:50:00",
-      "end_time": "2026-02-14 03:05:00",
-      "episode_number": "S1 E45",
-      "show_category": "Intrattenimento",
-      "show_description": "Arthur sfida i suoi studenti a riparare la bambola più malvagia che sia mai esistita."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 03:05:00",
-      "end_time": "2026-02-14 03:15:00",
-      "episode_number": "S1 E46",
-      "show_category": "Intrattenimento",
-      "show_description": "Per evitare di fare i compiti, i ragazzi devono ingaggiare una battaglia disperata con la signora Jorgensen-."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 03:15:00",
-      "end_time": "2026-02-14 03:30:00",
-      "episode_number": "S1 E47",
-      "show_category": "Intrattenimento",
-      "show_description": "Una ciurma di pirati zombie emerge dall'oceano per per sfidare i protettori della città."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 03:30:00",
-      "end_time": "2026-02-14 03:40:00",
-      "episode_number": "S1 E48",
-      "show_category": "Intrattenimento",
-      "show_description": "Continua la guerra degli scherzi tra Edith e Dracula. Ma la macchina di un inventore locale complica la faida. Dracula e Edith si sono scambiati i corpi."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 03:40:00",
-      "end_time": "2026-02-14 03:50:00",
-      "episode_number": "S1 E49",
-      "show_category": "Intrattenimento",
-      "show_description": "Per un giorno all'anno, tutti i cacciatori di mostri devono ospitare e coccolare il terrificante gatto Yule islandese, ossessionato dalla moda. Ma dove finisce l'ospitali."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 03:50:00",
-      "end_time": "2026-02-14 04:05:00",
-      "episode_number": "S1 E50",
-      "show_category": "Intrattenimento",
-      "show_description": "Ernest e Ishaani passano attraverso lo specchio per sperimentare una terrificante visione futura."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 04:05:00",
-      "end_time": "2026-02-14 04:15:00",
-      "episode_number": "S1 E51",
-      "show_category": "Intrattenimento",
-      "show_description": "Dracula decide di attaccare la famiglia Van Alten. Arthur si prepara alla battaglia, ma Dracula ha molti assi nella manica. Lo scontro finale ha inizio."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 04:15:00",
-      "end_time": "2026-02-14 04:30:00",
-      "episode_number": "S1 E52",
-      "show_category": "Intrattenimento",
-      "show_description": "I nostri eroi cercano disperatamente di evitare lo scontro con l'invincibile Dracula."
-    },
-    {
       "show_name": "Vetrina Nick Junior",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/vetrina-nick-junior.webp",
-      "start_time": "2026-02-14 04:30:00",
-      "end_time": "2026-02-14 04:40:00",
+      "show_logo": "https://guidatv.sky.it/uuid/de649db9-3275-4c18-a4bb-b81822d46cb5/cover?territory=IT&md5ChecksumParam=ba096070d817fdc2fddd7e1a048e9d49",
+      "start_time": "2026-02-15 04:30:00",
+      "end_time": "2026-02-15 04:40:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Promozione delle novita' di Nick Jr."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 04:40:00",
-      "end_time": "2026-02-14 04:55:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 04:40:00",
+      "end_time": "2026-02-15 04:55:00",
+      "episode_number": "S1 E39",
+      "show_category": "Intrattenimento",
+      "show_description": "Un antico samurai fantasma insegna ai bambini l'autodifesa."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 04:55:00",
+      "end_time": "2026-02-15 05:05:00",
+      "episode_number": "S1 E40",
+      "show_category": "Intrattenimento",
+      "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 05:05:00",
+      "end_time": "2026-02-15 05:20:00",
+      "episode_number": "S1 E41",
+      "show_category": "Intrattenimento",
+      "show_description": "Parte 1 - Dracula è tornato con una missione speciale per i bambini."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 05:20:00",
+      "end_time": "2026-02-15 05:30:00",
+      "episode_number": "S1 E42",
+      "show_category": "Intrattenimento",
+      "show_description": "Parte 2 - Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mos."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 05:30:00",
+      "end_time": "2026-02-15 05:45:00",
+      "episode_number": "S1 E43",
+      "show_category": "Intrattenimento",
+      "show_description": "Tre fratelli vengono addestrati come cacciatori di mostri dal loro vecchio e severo nonno. C'è solo un problema. Questi ragazzi amano tutti i tipi di mostri."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 05:45:00",
+      "end_time": "2026-02-15 06:00:00",
+      "episode_number": "S1 E44",
+      "show_category": "Intrattenimento",
+      "show_description": "Il mostro più spaventoso del mondo vuole diventare un comico. Ma c'è un problema: non è divertente."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 06:00:00",
+      "end_time": "2026-02-15 06:10:00",
       "episode_number": "S1 E3",
       "show_category": "Ragazzi e Musica",
       "show_description": "Ernest viene congelato con lo slime del tempo e Arthur, Edith e Bo devono cercare di salvarlo da tutti gli imprevisti che gli capitano."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 04:55:00",
-      "end_time": "2026-02-14 05:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 06:10:00",
+      "end_time": "2026-02-15 06:20:00",
       "episode_number": "S1 E4",
       "show_category": "Ragazzi e Musica",
       "show_description": "Durante una sessione di addestramento, un Glarbergastling minaccia la città."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 05:05:00",
-      "end_time": "2026-02-14 05:20:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 06:20:00",
+      "end_time": "2026-02-15 06:30:00",
       "episode_number": "S1 E5",
       "show_category": "Ragazzi e Musica",
       "show_description": "Ernest, Edith e Bo devono cercare di salvare un criceto posseduto da un demone."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 05:20:00",
-      "end_time": "2026-02-14 05:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 06:30:00",
+      "end_time": "2026-02-15 06:45:00",
       "episode_number": "S1 E6",
       "show_category": "Ragazzi e Musica",
       "show_description": "Nella battaglia per il controllo del televisore, Arthur e i bambini fanno una scommessa. Bo, Edith ed Ernest hanno 24 ore per spaventare il nonno."
     },
     {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 05:30:00",
-      "end_time": "2026-02-14 05:45:00",
-      "episode_number": "S1 E7",
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 06:45:00",
+      "end_time": "2026-02-15 07:05:00",
+      "episode_number": "S1 E1",
       "show_category": "Ragazzi e Musica",
-      "show_description": "Edith libera Dracula che, dopo aver parlato con i tre ragazzi, riesce a fuggire."
+      "show_description": "I fratellastri Lily e Jack affrontano la \"migliore estate della loro vita\"."
     },
     {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 05:45:00",
-      "end_time": "2026-02-14 06:00:00",
-      "episode_number": "S1 E8",
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 07:05:00",
+      "end_time": "2026-02-15 07:30:00",
+      "episode_number": "S1 E2",
       "show_category": "Ragazzi e Musica",
-      "show_description": "Arthur punisce Ernest, Bo ed Edith per aver fatto scappare Dracula facendo lavare loro la sua macchina."
+      "show_description": "Lily nasconde un suo errore./ Lily e Jack esplorano Canyon Valley."
     },
     {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 06:00:00",
-      "end_time": "2026-02-14 06:10:00",
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 07:30:00",
+      "end_time": "2026-02-15 07:50:00",
+      "episode_number": "S1 E3",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Tutti vanno al supermercato./ Lily scopre l'autore della recensione."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 07:50:00",
+      "end_time": "2026-02-15 08:10:00",
+      "episode_number": "S1 E4",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "I ragazzi salvano il Boba Get./ Lily vuole essere diversa da sua madre."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 08:10:00",
+      "end_time": "2026-02-15 08:35:00",
       "episode_number": "S1 E5",
       "show_category": "Ragazzi e Musica",
-      "show_description": "Ernest, Edith e Bo devono cercare di salvare un criceto posseduto da un demone."
+      "show_description": "Jack partecipa a un pigiama party./ Si vive un'avventura al ristorante."
     },
     {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 06:10:00",
-      "end_time": "2026-02-14 06:30:00",
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 08:35:00",
+      "end_time": "2026-02-15 08:55:00",
+      "episode_number": "S1 E1",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "I fratellastri Lily e Jack affrontano la \"migliore estate della loro vita\"."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 08:55:00",
+      "end_time": "2026-02-15 09:20:00",
       "episode_number": "S1 E6",
       "show_category": "Ragazzi e Musica",
-      "show_description": "Nella battaglia per il controllo del televisore, Arthur e i bambini fanno una scommessa. Bo, Edith ed Ernest hanno 24 ore per spaventare il nonno."
+      "show_description": "Ellie coinvolge i ragazzi in un intrigo./ I bambini diventano criminali?"
     },
     {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 06:30:00",
-      "end_time": "2026-02-14 06:40:00",
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 09:20:00",
+      "end_time": "2026-02-15 09:40:00",
       "episode_number": "S1 E7",
       "show_category": "Ragazzi e Musica",
-      "show_description": "Edith libera Dracula che, dopo aver parlato con i tre ragazzi, riesce a fuggire."
+      "show_description": "Lily e Jack si perdono./ Jack e Will esplorano un strano negozio."
     },
     {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 06:40:00",
-      "end_time": "2026-02-14 07:00:00",
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 09:40:00",
+      "end_time": "2026-02-15 10:05:00",
       "episode_number": "S1 E8",
       "show_category": "Ragazzi e Musica",
-      "show_description": "Arthur punisce Ernest, Bo ed Edith per aver fatto scappare Dracula facendo lavare loro la sua macchina."
+      "show_description": "Lily e le sue amiche vengono inseguite./ Jack ha una vita segreta."
     },
     {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 07:00:00",
-      "end_time": "2026-02-14 07:40:00",
-      "episode_number": "S15 E13",
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 10:05:00",
+      "end_time": "2026-02-15 10:25:00",
+      "episode_number": "S1 E9",
       "show_category": "Ragazzi e Musica",
-      "show_description": "Krab e Plankton prenotano per sbaglio la stessa cabina sulla stessa crociera. / SpongeBob e Bubble Bass sono in disaccordo su quale versione del Capitano Quasar sia la migliore."
+      "show_description": "Jack non riesce a smettere di giocare./ Scene di vita familiare."
     },
     {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 07:40:00",
-      "end_time": "2026-02-14 08:05:00",
-      "episode_number": "S16 E1",
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 10:25:00",
+      "end_time": "2026-02-15 10:50:00",
+      "episode_number": "S1 E10",
       "show_category": "Ragazzi e Musica",
-      "show_description": "SpongeBob nella città dei sosia. / Squiddy diventa un duro."
+      "show_description": "Halmoni insegna ai ragazzi il ballo./Jack sbaglia una commissione per Min."
     },
     {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 08:05:00",
-      "end_time": "2026-02-14 08:35:00",
-      "episode_number": "S16 E3",
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 10:50:00",
+      "end_time": "2026-02-15 11:15:00",
+      "episode_number": "S1 E11",
       "show_category": "Ragazzi e Musica",
-      "show_description": "Scarabocchio morde SpongeBob trasformandolo in Scarabocchio Mannaro. Il giorno del Costume da Gorilla SpongeBob si traveste e viene scambiato per un vero gorilla."
+      "show_description": "Will ripara l'aria condizionata./ Ellie teme una cospirazione."
     },
     {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 08:35:00",
-      "end_time": "2026-02-14 08:55:00",
-      "episode_number": "S16 E22",
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 11:15:00",
+      "end_time": "2026-02-15 11:35:00",
+      "episode_number": "S1 E12",
       "show_category": "Ragazzi e Musica",
-      "show_description": "SpongeBob impara a guidare a Klopnod. / Slappy lavora al Krusty Krab."
+      "show_description": "Jack e Lily scoprono un intrigo./ Min difende Dirk in un caso giudiziario."
     },
     {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 08:55:00",
-      "end_time": "2026-02-14 09:20:00",
-      "episode_number": "S16 E4",
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 11:35:00",
+      "end_time": "2026-02-15 11:55:00",
+      "episode_number": "S1 E1",
       "show_category": "Ragazzi e Musica",
-      "show_description": "La storia di SpongeBob viene riscritta da intrusi viaggiatori nel tempo."
+      "show_description": "I fratellastri Lily e Jack affrontano la \"migliore estate della loro vita\"."
     },
     {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 09:20:00",
-      "end_time": "2026-02-14 09:45:00",
-      "episode_number": "S16 E5",
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 11:55:00",
+      "end_time": "2026-02-15 12:15:00",
+      "episode_number": "S1 E6",
       "show_category": "Ragazzi e Musica",
-      "show_description": "La storia di SpongeBob viene riscritta da intrusi viaggiatori nel tempo."
+      "show_description": "Ellie coinvolge i ragazzi in un intrigo./ I bambini diventano criminali?"
     },
     {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 09:45:00",
-      "end_time": "2026-02-14 10:10:00",
-      "episode_number": "S16 E6",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Giornata impegnativa in lavanderia. / Alla ricerca del verme-maiale."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 10:10:00",
-      "end_time": "2026-02-14 10:35:00",
-      "episode_number": "S13 E14",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Mr Krab ha trovato a Spongebob un lavoro temporaneo./Plankton deve assentarsi per un viaggio di lavoro."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 10:35:00",
-      "end_time": "2026-02-14 10:55:00",
-      "episode_number": "S13 E15",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Sandy regala agli abitanti di Bikini Bottom delle ghiande./Spongebob e Patrick scambiano un ladro di appartamenti per la Fatina dei Dentini."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 10:55:00",
-      "end_time": "2026-02-14 11:20:00",
-      "episode_number": "S13 E16",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "I genitori di Spongebob chiedono ospitalità al figlio./La signora Puff mostra agli studenti della scuola guida un filmino didattico."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 11:20:00",
-      "end_time": "2026-02-14 11:50:00",
-      "episode_number": "S13 E17",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Un negozio di fiori prende il posto del Chum Bucket./Mr Krab ordina a Spongebob e Squiddy di costruire un carro per partecipare alla sfilata."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 11:50:00",
-      "end_time": "2026-02-14 12:15:00",
-      "episode_number": "S13 E18",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Spongebob e Plankton si ritrovano su un'isola sperduta./Spongebob invita Patrick a fare una biciclettata con lui."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 12:15:00",
-      "end_time": "2026-02-14 12:40:00",
-      "episode_number": "S13 E19",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Mr Krab scopre che Sandy sa cucinare delle ottime ghiande piccanti./Sir Riccio e Lumaca Tonta, un duo di comici, litigano."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 12:40:00",
-      "end_time": "2026-02-14 13:05:00",
-      "episode_number": "S13 E20",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Squiddy cancella i ricordi che Spongebob ha di lui./Squiddy suona talmente male nel parco di Bikini Bottom che riceve una multa."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 13:05:00",
-      "end_time": "2026-02-14 13:30:00",
-      "episode_number": "S13 E21",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Squiddy dà la caccia alla grande medusa bianca Dopey Dick. /Plankton trova un fagiolo magico che lo porta in una terra di giganti."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 13:30:00",
-      "end_time": "2026-02-14 13:50:00",
-      "episode_number": "S13 E22",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "SpongeBob fa amicizia con un Krabby Patty senziente./Rube presenta un programma sugli aspetti più sorprendenti di Bikini Bottom."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 13:50:00",
-      "end_time": "2026-02-14 14:15:00",
-      "episode_number": "S13 E23",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Spongebob riesce a cucinare i Krabby Patty solo con la sua fida spatola/Gary riceve in dono una cuccia."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 14:15:00",
-      "end_time": "2026-02-14 14:40:00",
-      "episode_number": "S13 E24",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Spongebob ha costruito una piscina dotata di tutti i comfort./Mr Krab riceve la visita del direttore della gelateria Goofy Goober."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 14:40:00",
-      "end_time": "2026-02-14 15:05:00",
-      "episode_number": "S13 E25",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "SpongeBob e Patrick usano le vongole per scambiarsi dei messaggi./ SpongeBob sembra sviluppare un'allergia ai Krabby Patty."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 15:05:00",
-      "end_time": "2026-02-14 15:30:00",
-      "episode_number": "S13 E26",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Mr Krab cerca di sabotare il circo appena arrivato in città./Sandy trascorre la giornata cercando di risolvere i problemi di tutti."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 15:30:00",
-      "end_time": "2026-02-14 15:55:00",
-      "episode_number": "S14 E1",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Plankton impara l'autodifesa. / Mr Krab cerca di fare colpo sulla Signora Puff."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 15:55:00",
-      "end_time": "2026-02-14 16:20:00",
-      "episode_number": "S14 E2",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "SpongeBob e Patrick fanno amicizia con un loro idolo. / Le finte acciughe invadono Bikini Bottom."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 16:20:00",
-      "end_time": "2026-02-14 16:45:00",
-      "episode_number": "S14 E3",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Squiddy e Bubble Bass condividono un viaggio. / Squiddy trova la scatola dell'immaginazione."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 16:45:00",
-      "end_time": "2026-02-14 17:10:00",
-      "episode_number": "S14 E4",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "I genitori di Plankton aprono un ristorante. / SpongeBob non riesce a smettere di ridere."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 17:10:00",
-      "end_time": "2026-02-14 17:35:00",
-      "episode_number": "S14 E5",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Tre madri comandano il Krusty Krab. / Patrick sceglie una pietra come animale domestico."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 17:35:00",
-      "end_time": "2026-02-14 17:55:00",
-      "episode_number": "S14 E6",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Plankton e Karen prendono lezioni di ballo./ Con un libro magico SpongeBob crea caos al Krusty Krab."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 17:55:00",
-      "end_time": "2026-02-14 18:20:00",
-      "episode_number": "S14 E7",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Plankton viaggia nel futuro. / Scoppia una faida tra narvali e la famiglia di Plankton."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 18:20:00",
-      "end_time": "2026-02-14 18:45:00",
-      "episode_number": "S14 E8",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "SpongeBob vuole catturare la Medusa Lunare. / SpongeBob, Patrick e Sandy vanno al Museo di Storia."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 18:45:00",
-      "end_time": "2026-02-14 19:10:00",
-      "episode_number": "S14 E9",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Una figura misteriosa organizza una rimpatriata al vecchio campo estivo Kamp Koral."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 19:10:00",
-      "end_time": "2026-02-14 19:35:00",
-      "episode_number": "S14 E10",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Una figura misteriosa organizza una rimpatriata al vecchio campo estivo Kamp Koral."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 19:35:00",
-      "end_time": "2026-02-14 19:55:00",
-      "episode_number": "S14 E11",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Un principe quadrato fa amicizia con sette meduse."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 19:55:00",
-      "end_time": "2026-02-14 21:05:00",
-      "episode_number": "S14 E12",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Bubble Bass e Dirty Bubble si alleano. / I genitori di SpongeBob adottano Plankton."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 21:05:00",
-      "end_time": "2026-02-14 21:30:00",
-      "episode_number": "S15 E2",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Miss Upturn apprezza la musica di Squiddy. / Squiddy incontra gli alieni."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 21:30:00",
-      "end_time": "2026-02-14 21:55:00",
-      "episode_number": "S15 E3",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "SpongeBob perde il suo fermacravatta portafortuna. / Patrick non riesce ad addormentarsi."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 21:55:00",
-      "end_time": "2026-02-14 22:15:00",
-      "episode_number": "S15 E4",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Gli Scout della Scienza raccolgono soldi per un viaggio. / In città apre una nuova scuola guida."
-    },
-    {
-      "show_name": "SpongeBob",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/spongebob.webp",
-      "start_time": "2026-02-14 22:15:00",
-      "end_time": "2026-02-14 22:40:00",
-      "episode_number": "S15 E5",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Squiddy diventa direttore di un ristorante. / Squiddy resta bloccato in ascensore."
-    },
-    {
-      "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 22:40:00",
-      "end_time": "2026-02-14 22:55:00",
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 12:15:00",
+      "end_time": "2026-02-15 12:40:00",
       "episode_number": "S1 E13",
       "show_category": "Ragazzi e Musica",
-      "show_description": "Arthur racconta ai ragazzi la storia di come Van Helsing liberò Dracula e di quando lui lo catturò per sbaglio."
+      "show_description": "La famiglia porta Jack al parco prima della fine dell'estate."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 12:40:00",
+      "end_time": "2026-02-15 13:05:00",
+      "episode_number": "S1 E1",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "I fratellastri Lily e Jack affrontano la \"migliore estate della loro vita\"."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 13:05:00",
+      "end_time": "2026-02-15 13:25:00",
+      "episode_number": "S1 E2",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Lily nasconde un suo errore./ Lily e Jack esplorano Canyon Valley."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 13:25:00",
+      "end_time": "2026-02-15 13:45:00",
+      "episode_number": "S1 E3",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Tutti vanno al supermercato./ Lily scopre l'autore della recensione."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 13:45:00",
+      "end_time": "2026-02-15 14:00:00",
+      "episode_number": "S1 E8",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Lily e le sue amiche vengono inseguite./ Jack ha una vita segreta."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 14:00:00",
+      "end_time": "2026-02-15 14:20:00",
+      "episode_number": "S1 E4",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "I ragazzi salvano il Boba Get./ Lily vuole essere diversa da sua madre."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 14:20:00",
+      "end_time": "2026-02-15 14:45:00",
+      "episode_number": "S1 E5",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Jack partecipa a un pigiama party./ Si vive un'avventura al ristorante."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 14:45:00",
+      "end_time": "2026-02-15 15:05:00",
+      "episode_number": "S1 E6",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Ellie coinvolge i ragazzi in un intrigo./ I bambini diventano criminali?"
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 15:05:00",
+      "end_time": "2026-02-15 15:30:00",
+      "episode_number": "S1 E7",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Lily e Jack si perdono./ Jack e Will esplorano un strano negozio."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 15:30:00",
+      "end_time": "2026-02-15 15:50:00",
+      "episode_number": "S1 E8",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Lily e le sue amiche vengono inseguite./ Jack ha una vita segreta."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 15:50:00",
+      "end_time": "2026-02-15 16:15:00",
+      "episode_number": "S1 E9",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Jack non riesce a smettere di giocare./ Scene di vita familiare."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 16:15:00",
+      "end_time": "2026-02-15 16:35:00",
+      "episode_number": "S1 E10",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Halmoni insegna ai ragazzi il ballo./Jack sbaglia una commissione per Min."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 16:35:00",
+      "end_time": "2026-02-15 17:00:00",
+      "episode_number": "S1 E11",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Will ripara l'aria condizionata./ Ellie teme una cospirazione."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 17:00:00",
+      "end_time": "2026-02-15 17:20:00",
+      "episode_number": "S1 E12",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Jack e Lily scoprono un intrigo./ Min difende Dirk in un caso giudiziario."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 17:20:00",
+      "end_time": "2026-02-15 17:45:00",
+      "episode_number": "S1 E13",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "La famiglia porta Jack al parco prima della fine dell'estate."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 17:45:00",
+      "end_time": "2026-02-15 18:05:00",
+      "episode_number": "S1 E2",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Lily nasconde un suo errore./ Lily e Jack esplorano Canyon Valley."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 18:05:00",
+      "end_time": "2026-02-15 18:30:00",
+      "episode_number": "S1 E1",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "I fratellastri Lily e Jack affrontano la \"migliore estate della loro vita\"."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 18:30:00",
+      "end_time": "2026-02-15 18:50:00",
+      "episode_number": "S1 E2",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Lily nasconde un suo errore./ Lily e Jack esplorano Canyon Valley."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 18:50:00",
+      "end_time": "2026-02-15 19:15:00",
+      "episode_number": "S1 E3",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Tutti vanno al supermercato./ Lily scopre l'autore della recensione."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 19:15:00",
+      "end_time": "2026-02-15 19:40:00",
+      "episode_number": "S1 E4",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "I ragazzi salvano il Boba Get./ Lily vuole essere diversa da sua madre."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 19:40:00",
+      "end_time": "2026-02-15 20:00:00",
+      "episode_number": "S1 E5",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Jack partecipa a un pigiama party./ Si vive un'avventura al ristorante."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 20:00:00",
+      "end_time": "2026-02-15 20:25:00",
+      "episode_number": "S1 E6",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Ellie coinvolge i ragazzi in un intrigo./ I bambini diventano criminali?"
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 20:25:00",
+      "end_time": "2026-02-15 20:45:00",
+      "episode_number": "S1 E7",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Lily e Jack si perdono./ Jack e Will esplorano un strano negozio."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 20:45:00",
+      "end_time": "2026-02-15 21:10:00",
+      "episode_number": "S1 E8",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Lily e le sue amiche vengono inseguite./ Jack ha una vita segreta."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 21:10:00",
+      "end_time": "2026-02-15 21:30:00",
+      "episode_number": "S1 E9",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Jack non riesce a smettere di giocare./ Scene di vita familiare."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 21:30:00",
+      "end_time": "2026-02-15 21:55:00",
+      "episode_number": "S1 E10",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Halmoni insegna ai ragazzi il ballo./Jack sbaglia una commissione per Min."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 21:55:00",
+      "end_time": "2026-02-15 22:15:00",
+      "episode_number": "S1 E11",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Will ripara l'aria condizionata./ Ellie teme una cospirazione."
+    },
+    {
+      "show_name": "Wylde Pak",
+      "show_logo": "https://guidatv.sky.it/uuid/e3b2272c-e077-469d-ab9c-c0356590fede/cover?cgid=264&territory=IT&md5ChecksumParam=61c14347886f384e1d71adc68924ac73.it",
+      "start_time": "2026-02-15 22:15:00",
+      "end_time": "2026-02-15 22:40:00",
+      "episode_number": "S1 E12",
+      "show_category": "Ragazzi e Musica",
+      "show_description": "Jack e Lily scoprono un intrigo./ Min difende Dirk in un caso giudiziario."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 22:55:00",
-      "end_time": "2026-02-14 23:15:00",
-      "episode_number": "S1 E14",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "La sera di Halloween Ernest viene incastrato da Arthur in una missione di caccia."
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 22:40:00",
+      "end_time": "2026-02-15 22:50:00",
+      "episode_number": "S1 E45",
+      "show_category": "Intrattenimento",
+      "show_description": "Arthur sfida i suoi studenti a riparare la bambola più malvagia che sia mai esistita."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 23:15:00",
-      "end_time": "2026-02-14 23:40:00",
-      "episode_number": "S1 E15",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Ishaani mostra a Ernest cosa si trova dall'altra parte dello specchio e libera la sua altra metà, di nome Shirley."
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 22:50:00",
+      "end_time": "2026-02-15 23:00:00",
+      "episode_number": "S1 E46",
+      "show_category": "Intrattenimento",
+      "show_description": "Per evitare di fare i compiti, i ragazzi devono ingaggiare una battaglia disperata con la signora Jorgensen-."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 23:40:00",
-      "end_time": "2026-02-14 23:50:00",
-      "episode_number": "S1 E16",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Ishaani ed Ernest riescono a chiedere aiuto a Edith. Lei e Bo si impegnano e salvano i ragazzi dal mondo al di là dello specchio."
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 23:00:00",
+      "end_time": "2026-02-15 23:15:00",
+      "episode_number": "S1 E47",
+      "show_category": "Intrattenimento",
+      "show_description": "Una ciurma di pirati zombie emerge dall'oceano per per sfidare i protettori della città."
     },
     {
       "show_name": "Monster Loving Maniacs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Nickelodeon/today/monster-loving-maniacs.webp",
-      "start_time": "2026-02-14 23:50:00",
-      "end_time": "2026-02-15 00:05:00",
-      "episode_number": "E17",
-      "show_category": "Ragazzi e Musica",
-      "show_description": "Inizia l'operazione Tiro al Vampiro e Edith progetta una serie di scherzi per Dracula."
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 23:15:00",
+      "end_time": "2026-02-15 23:25:00",
+      "episode_number": "S1 E48",
+      "show_category": "Intrattenimento",
+      "show_description": "Continua la guerra degli scherzi tra Edith e Dracula. Ma la macchina di un inventore locale complica la faida. Dracula e Edith si sono scambiati i corpi."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 23:25:00",
+      "end_time": "2026-02-15 23:40:00",
+      "episode_number": "S1 E49",
+      "show_category": "Intrattenimento",
+      "show_description": "Per un giorno all'anno, tutti i cacciatori di mostri devono ospitare e coccolare il terrificante gatto Yule islandese, ossessionato dalla moda. Ma dove finisce l'ospitali."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 23:40:00",
+      "end_time": "2026-02-15 23:50:00",
+      "episode_number": "S1 E50",
+      "show_category": "Intrattenimento",
+      "show_description": "Ernest e Ishaani passano attraverso lo specchio per sperimentare una terrificante visione futura."
+    },
+    {
+      "show_name": "Monster Loving Maniacs",
+      "show_logo": "https://guidatv.sky.it/uuid/5164c237-3013-4ccd-8283-12bf06dedb22/cover?territory=IT&md5ChecksumParam=01ec5f2b224f689454f003e8af605313",
+      "start_time": "2026-02-15 23:50:00",
+      "end_time": "2026-02-16 00:00:00",
+      "episode_number": "S1 E51",
+      "show_category": "Intrattenimento",
+      "show_description": "Dracula decide di attaccare la famiglia Van Alten. Arthur si prepara alla battaglia, ma Dracula ha molti assi nella manica. Lo scontro finale ha inizio."
     }
   ]
 }

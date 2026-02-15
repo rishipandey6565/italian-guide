@@ -1,348 +1,285 @@
 {
   "channel_name": "Fox Business",
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "programs": [
     {
+      "show_name": "Sleeper S-10",
+      "show_logo": "https://guidatv.sky.it/uuid/a0469ecc-9337-4acb-b13e-ebbab7f8b4d1/cover?territory=IT&md5ChecksumParam=3e0f0b9212bc17a819a05fdd464dc27e",
+      "start_time": "2026-02-16 00:00:00",
+      "end_time": "2026-02-16 00:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "Sleeper S-10 - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
+    },
+    {
+      "show_name": "The Fighting Kind",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 00:00:00",
+      "end_time": "2026-02-16 00:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "The Fighting Kind - Follow inspiring stories."
+    },
+    {
+      "show_name": "Cell Phone Secrets",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 00:30:00",
+      "end_time": "2026-02-16 01:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Cell Phone Secrets - Follow inspiring stories."
+    },
+    {
+      "show_name": "Guns, Hash, and Fire Hydrants",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 01:00:00",
+      "end_time": "2026-02-16 01:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Guns, Hash, and Fire Hydrants - Follow inspiring stories."
+    },
+    {
+      "show_name": "Get Off My Roof",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 01:30:00",
+      "end_time": "2026-02-16 02:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Get Off My Roof - Follow inspiring stories."
+    },
+    {
+      "show_name": "This Man Stabbed Me",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 02:00:00",
+      "end_time": "2026-02-16 02:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "This Man Stabbed Me - Follow inspiring stories."
+    },
+    {
+      "show_name": "Blood and Scars, Bro!",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 02:30:00",
+      "end_time": "2026-02-16 03:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Blood and Scars, Bro! - Follow inspiring stories."
+    },
+    {
+      "show_name": "The Fighting Kind",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 03:00:00",
+      "end_time": "2026-02-16 03:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "The Fighting Kind - Follow inspiring stories."
+    },
+    {
+      "show_name": "Cell Phone Secrets",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 03:30:00",
+      "end_time": "2026-02-16 04:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Cell Phone Secrets - Follow inspiring stories."
+    },
+    {
+      "show_name": "Guns, Hash, and Fire Hydrants",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 04:00:00",
+      "end_time": "2026-02-16 04:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Guns, Hash, and Fire Hydrants - Follow inspiring stories."
+    },
+    {
+      "show_name": "Get Off My Roof",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 04:30:00",
+      "end_time": "2026-02-16 05:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Get Off My Roof - Follow inspiring stories."
+    },
+    {
+      "show_name": "This Man Stabbed Me",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 05:00:00",
+      "end_time": "2026-02-16 05:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "This Man Stabbed Me - Follow inspiring stories."
+    },
+    {
+      "show_name": "Blood and Scars, Bro!",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 05:30:00",
+      "end_time": "2026-02-16 06:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Blood and Scars, Bro! - Follow inspiring stories."
+    },
+    {
+      "show_name": "It Takes Two",
+      "show_logo": "https://guidatv.sky.it/uuid/d65b10ab-fd6a-4e6c-b1a2-73cfcd792b8e/cover?territory=IT&md5ChecksumParam=3e0f0b9212bc17a819a05fdd464dc27e",
+      "start_time": "2026-02-16 06:00:00",
+      "end_time": "2026-02-16 07:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "It Takes Two - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
+    },
+    {
       "show_name": "My Dream Car",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/my-dream-car.webp",
-      "start_time": "2026-02-15 00:00:00",
-      "end_time": "2026-02-15 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/8091d6f9-b477-4cbc-bf98-b376a069021c/cover?territory=IT&md5ChecksumParam=3e0f0b9212bc17a819a05fdd464dc27e",
+      "start_time": "2026-02-16 07:00:00",
+      "end_time": "2026-02-16 08:00:00",
+      "episode_number": "S1 E8",
+      "show_category": "Informazione",
+      "show_description": "Father Son F1 - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
+    },
+    {
+      "show_name": "Girl Scout",
+      "show_logo": "https://guidatv.sky.it/uuid/b18928d1-c3db-45e5-af06-51090d359587/cover?territory=IT&md5ChecksumParam=3e0f0b9212bc17a819a05fdd464dc27e",
+      "start_time": "2026-02-16 08:00:00",
+      "end_time": "2026-02-16 09:00:00",
+      "episode_number": "S1 E0",
+      "show_category": "Informazione",
+      "show_description": "Girl Scout - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
+    },
+    {
+      "show_name": "My Dream Car",
+      "show_logo": "https://guidatv.sky.it/uuid/9c0fec4f-425f-425f-8d4b-45937fe04fd8/cover?territory=IT&md5ChecksumParam=3e0f0b9212bc17a819a05fdd464dc27e",
+      "start_time": "2026-02-16 09:00:00",
+      "end_time": "2026-02-16 10:00:00",
       "episode_number": "S1 E4",
       "show_category": "Informazione",
       "show_description": "Dad-sun 208Z - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
     },
     {
-      "show_name": "Hidden Gems: Miami Suburbs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/hidden-gems-miami-suburbs.webp",
-      "start_time": "2026-02-15 00:00:00",
-      "end_time": "2026-02-15 00:30:00",
-      "episode_number": "S1 E0",
+      "show_name": "The Fighting Kind",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 10:00:00",
+      "end_time": "2026-02-16 10:30:00",
+      "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Hidden Gems: Miami Suburbs - With Kacie McDonnell, we explore the most luxurious properties in the United States."
+      "show_description": "The Fighting Kind - Follow inspiring stories."
     },
     {
-      "show_name": "Miami Masterpieces",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/miami-masterpieces.webp",
-      "start_time": "2026-02-15 00:30:00",
-      "end_time": "2026-02-15 01:00:00",
-      "episode_number": "S1 E0",
+      "show_name": "Cell Phone Secrets",
+      "show_logo": "https://guidatv.sky.it/uuid/4e04b158-3acf-45a7-8ef7-8a3484d47d66/cover?territory=IT&md5ChecksumParam=5595330bbcbaf13f2596eb397f1a04d3",
+      "start_time": "2026-02-16 10:30:00",
+      "end_time": "2026-02-16 11:00:00",
+      "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Miami Masterpieces - With Kacie McDonnell, we explore the most luxurious properties in the United States."
+      "show_description": "Cell Phone Secrets - Follow inspiring stories."
     },
     {
-      "show_name": "Tide Doesn't Turn in Miami Beach",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/tide-doesn-t-turn-in-miami-beach.webp",
-      "start_time": "2026-02-15 01:00:00",
-      "end_time": "2026-02-15 01:30:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Tide Doesn't Turn in Miami Beach - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Fabulous Santa Fe Listings",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/fabulous-santa-fe-listings.webp",
-      "start_time": "2026-02-15 01:30:00",
-      "end_time": "2026-02-15 02:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Fabulous Santa Fe Listings - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Serene Estates of Sedona",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/serene-estates-of-sedona.webp",
-      "start_time": "2026-02-15 02:00:00",
-      "end_time": "2026-02-15 02:30:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Serene Estates of Sedona - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Coastal Treasures of Tampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/coastal-treasures-of-tampa.webp",
-      "start_time": "2026-02-15 02:30:00",
-      "end_time": "2026-02-15 03:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Coastal Treasures of Tampa - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Private Island in Palm Beach",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/private-island-in-palm-beach.webp",
-      "start_time": "2026-02-15 03:00:00",
-      "end_time": "2026-02-15 03:30:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Private Island in Palm Beach - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Palatial Palm Beach Listings",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/palatial-palm-beach-listings.webp",
-      "start_time": "2026-02-15 03:30:00",
-      "end_time": "2026-02-15 04:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Palatial Palm Beach Listings - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Luxury Gulf Island Life",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/luxury-gulf-island-life.webp",
-      "start_time": "2026-02-15 04:00:00",
-      "end_time": "2026-02-15 04:30:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Luxury Gulf Island Life - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Spectacular Estates in Sarasota",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/spectacular-estates-in-sarasota.webp",
-      "start_time": "2026-02-15 04:30:00",
-      "end_time": "2026-02-15 05:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Spectacular Estates in Sarasota - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Music City Mansions",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/music-city-mansions.webp",
-      "start_time": "2026-02-15 05:00:00",
-      "end_time": "2026-02-15 05:30:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Music City Mansions - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Star Listings of Dallas",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/star-listings-of-dallas.webp",
-      "start_time": "2026-02-15 05:30:00",
-      "end_time": "2026-02-15 06:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Star Listings of Dallas - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Timeless Manors: Savannah, Georgia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/timeless-manors-savannah-georgia.webp",
-      "start_time": "2026-02-15 06:00:00",
-      "end_time": "2026-02-15 06:30:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Timeless Manors: Savannah, Georgia - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Sea Island's Most Treasured Listing",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/sea-island-s-most-treasured-listing.webp",
-      "start_time": "2026-02-15 06:30:00",
-      "end_time": "2026-02-15 07:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Sea Island's Most Treasured Listing - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Aprés Real Estate in Aspen",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/apr-s-real-estate-in-aspen.webp",
-      "start_time": "2026-02-15 07:00:00",
-      "end_time": "2026-02-15 07:30:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Apres Real Estate in Aspen - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Salt Lake City Splendor",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/salt-lake-city-splendor.webp",
-      "start_time": "2026-02-15 07:30:00",
-      "end_time": "2026-02-15 08:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Salt Lake City Splendor - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Endless Powder in Breckenridge",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/endless-powder-in-breckenridge.webp",
-      "start_time": "2026-02-15 08:00:00",
-      "end_time": "2026-02-15 08:30:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Endless Powder in Breckenridge - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Park City's Most Coveted Chalets",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/park-city-s-most-coveted-chalets.webp",
-      "start_time": "2026-02-15 08:30:00",
-      "end_time": "2026-02-15 09:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Park City's Most Coveted Chalets - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Hidden Gems: Miami Suburbs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/hidden-gems-miami-suburbs.webp",
-      "start_time": "2026-02-15 09:00:00",
-      "end_time": "2026-02-15 09:30:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Hidden Gems: Miami Suburbs - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Miami Masterpieces",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/miami-masterpieces.webp",
-      "start_time": "2026-02-15 09:30:00",
-      "end_time": "2026-02-15 10:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Miami Masterpieces - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Tide Doesn't Turn in Miami Beach",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/tide-doesn-t-turn-in-miami-beach.webp",
-      "start_time": "2026-02-15 10:00:00",
-      "end_time": "2026-02-15 10:30:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Tide Doesn't Turn in Miami Beach - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Fabulous Santa Fe Listings",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/fabulous-santa-fe-listings.webp",
-      "start_time": "2026-02-15 10:30:00",
-      "end_time": "2026-02-15 11:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Fabulous Santa Fe Listings - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Serene Estates of Sedona",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/serene-estates-of-sedona.webp",
-      "start_time": "2026-02-15 11:00:00",
-      "end_time": "2026-02-15 11:30:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Serene Estates of Sedona - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Coastal Treasures of Tampa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/coastal-treasures-of-tampa.webp",
-      "start_time": "2026-02-15 11:30:00",
-      "end_time": "2026-02-15 12:00:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Coastal Treasures of Tampa - With Kacie McDonnell, we explore the most luxurious properties in the United States."
-    },
-    {
-      "show_name": "Weather Command Weekend",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/weather-command-weekend.webp",
-      "start_time": "2026-02-15 12:00:00",
-      "end_time": "2026-02-15 13:00:00",
+      "show_name": "Fox Weather First",
+      "show_logo": "https://guidatv.sky.it/uuid/3c9a9a5f-b5f3-450d-8193-a238e3180324/cover?territory=IT&md5ChecksumParam=519fedbe21da29962f23198137f1aa93",
+      "start_time": "2026-02-16 11:00:00",
+      "end_time": "2026-02-16 12:00:00",
       "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "The weather forecast."
+      "show_description": "The weather forecast with an analysis of the impact of major weather events."
     },
     {
-      "show_name": "Weather Command Weekend",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/weather-command-weekend.webp",
-      "start_time": "2026-02-15 13:00:00",
-      "end_time": "2026-02-15 14:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The weather forecast."
-    },
-    {
-      "show_name": "Weather Command Weekend",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/weather-command-weekend.webp",
-      "start_time": "2026-02-15 14:00:00",
-      "end_time": "2026-02-15 15:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "The weather forecast."
-    },
-    {
-      "show_name": "Maria Bartiromo's Wall Street",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/maria-bartiromo-s-wall-street.webp",
-      "start_time": "2026-02-15 15:00:00",
-      "end_time": "2026-02-15 15:30:00",
+      "show_name": "Mornings with Maria Bartiromo",
+      "show_logo": "https://guidatv.sky.it/uuid/32aff08b-2601-4ca8-9d31-4130171cd1cc/cover?territory=IT&md5ChecksumParam=66ec63240b62048d527bda13b9fd6f89",
+      "start_time": "2026-02-16 12:00:00",
+      "end_time": "2026-02-16 13:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Maria Bartiromo offers the stock markets latest headlines and business events."
     },
     {
-      "show_name": "Barron's Round Table",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/barron-s-round-table.webp",
-      "start_time": "2026-02-15 15:30:00",
-      "end_time": "2026-02-15 16:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Jack Otter hosts Barron's Roundtable."
-    },
-    {
-      "show_name": "Maria Bartiromo's Wall Street",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/maria-bartiromo-s-wall-street.webp",
-      "start_time": "2026-02-15 16:00:00",
-      "end_time": "2026-02-15 16:30:00",
+      "show_name": "Mornings with Maria Bartiromo",
+      "show_logo": "https://guidatv.sky.it/uuid/32aff08b-2601-4ca8-9d31-4130171cd1cc/cover?territory=IT&md5ChecksumParam=66ec63240b62048d527bda13b9fd6f89",
+      "start_time": "2026-02-16 13:00:00",
+      "end_time": "2026-02-16 14:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Maria Bartiromo offers the stock markets latest headlines and business events."
     },
     {
-      "show_name": "Barron's Round Table",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/barron-s-round-table.webp",
-      "start_time": "2026-02-15 16:30:00",
-      "end_time": "2026-02-15 17:00:00",
+      "show_name": "Mornings with Maria Bartiromo",
+      "show_logo": "https://guidatv.sky.it/uuid/32aff08b-2601-4ca8-9d31-4130171cd1cc/cover?territory=IT&md5ChecksumParam=66ec63240b62048d527bda13b9fd6f89",
+      "start_time": "2026-02-16 14:00:00",
+      "end_time": "2026-02-16 15:00:00",
       "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Jack Otter hosts Barron's Roundtable."
+      "show_description": "Maria Bartiromo offers the stock markets latest headlines and business events."
     },
     {
-      "show_name": "Sunday Morning Futures",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/sunday-morning-futures.webp",
-      "start_time": "2026-02-15 17:00:00",
-      "end_time": "2026-02-15 18:00:00",
+      "show_name": "Varney & Company",
+      "show_logo": "https://guidatv.sky.it/uuid/181d9b55-59b4-48f4-8b4b-6b4b0f0c2e6d/cover?territory=IT&md5ChecksumParam=a51faf5290e3ca839e34d4c1d07f838c",
+      "start_time": "2026-02-16 15:00:00",
+      "end_time": "2026-02-16 16:00:00",
       "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Takes a hard look at job creation, investment opportunities and more."
+      "show_description": "Stuart Varney offers the stock markets latest headlines and business events."
     },
     {
-      "show_name": "My Dream Car",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/my-dream-car.webp",
-      "start_time": "2026-02-15 18:00:00",
-      "end_time": "2026-02-15 19:00:00",
-      "episode_number": "S1 E9",
+      "show_name": "Varney & Company",
+      "show_logo": "https://guidatv.sky.it/uuid/181d9b55-59b4-48f4-8b4b-6b4b0f0c2e6d/cover?territory=IT&md5ChecksumParam=a51faf5290e3ca839e34d4c1d07f838c",
+      "start_time": "2026-02-16 16:00:00",
+      "end_time": "2026-02-16 17:00:00",
+      "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Soldier's Camaro - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
+      "show_description": "Stuart Varney offers the stock markets latest headlines and business events."
     },
     {
-      "show_name": "Carlo Goes Full Monte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/carlo-goes-full-monte.webp",
-      "start_time": "2026-02-15 19:00:00",
-      "end_time": "2026-02-15 21:00:00",
-      "episode_number": "S1 E0",
+      "show_name": "Varney & Company",
+      "show_logo": "https://guidatv.sky.it/uuid/181d9b55-59b4-48f4-8b4b-6b4b0f0c2e6d/cover?territory=IT&md5ChecksumParam=a51faf5290e3ca839e34d4c1d07f838c",
+      "start_time": "2026-02-16 17:00:00",
+      "end_time": "2026-02-16 18:00:00",
+      "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Carlo Goes Full Monte - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
+      "show_description": "Stuart Varney offers the stock markets latest headlines and business events."
     },
     {
-      "show_name": "Small Car Big Dreams",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/small-car-big-dreams.webp",
-      "start_time": "2026-02-15 21:00:00",
-      "end_time": "2026-02-15 22:00:00",
-      "episode_number": "S1 E0",
+      "show_name": "The Big Money Show",
+      "show_logo": "https://guidatv.sky.it/uuid/20ac9618-c0f6-4951-8a62-0768e2bef3d9/cover?territory=IT&md5ChecksumParam=99a5cd0b5cbc27e2ecfb2dba58fa9015",
+      "start_time": "2026-02-16 18:00:00",
+      "end_time": "2026-02-16 19:00:00",
+      "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Small Car Big Dreams - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
+      "show_description": "Breaking financial news and analysis with experts giving a unique knowledge on markets, economics and policy."
     },
     {
-      "show_name": "Coupe de Minnesota",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/coupe-de-minnesota.webp",
-      "start_time": "2026-02-15 22:00:00",
-      "end_time": "2026-02-15 23:00:00",
-      "episode_number": "S1 E0",
+      "show_name": "The Big Money Show",
+      "show_logo": "https://guidatv.sky.it/uuid/20ac9618-c0f6-4951-8a62-0768e2bef3d9/cover?territory=IT&md5ChecksumParam=99a5cd0b5cbc27e2ecfb2dba58fa9015",
+      "start_time": "2026-02-16 19:00:00",
+      "end_time": "2026-02-16 21:00:00",
+      "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Coupe de Minnesota - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
+      "show_description": "Breaking financial news and analysis with experts giving a unique knowledge on markets, economics and policy."
     },
     {
-      "show_name": "Sleeper S-10",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Fox-Business/tomorrow/sleeper-s-10.webp",
-      "start_time": "2026-02-15 23:00:00",
-      "end_time": "2026-02-16 00:00:00",
-      "episode_number": "S1 E0",
+      "show_name": "The Claman Countdown",
+      "show_logo": "https://guidatv.sky.it/uuid/2c8642d3-2949-4af8-94cc-39071e639f67/cover?territory=IT&md5ChecksumParam=b905e76aa2b0e74adb2060f0492be9e3",
+      "start_time": "2026-02-16 21:00:00",
+      "end_time": "2026-02-16 22:00:00",
+      "episode_number": "",
       "show_category": "Informazione",
-      "show_description": "Sleeper S-10 - Follow the emotional operation of finding and resurrecting someone's dream car, creating a loving memory for a loved one or family member."
+      "show_description": "Liz Claman captures the chaos of the last hour on Wall Street."
+    },
+    {
+      "show_name": "Kudlow",
+      "show_logo": "https://guidatv.sky.it/uuid/b1c18a3e-8959-42f1-b27f-656b52fbb9a2/cover?territory=IT&md5ChecksumParam=4eb3d2ed8b6e40b6322b123a2b5e64c2",
+      "start_time": "2026-02-16 22:00:00",
+      "end_time": "2026-02-16 23:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Former National Economic Council Director gives market analysis and interviews."
+    },
+    {
+      "show_name": "The Evening Edit",
+      "show_logo": "https://guidatv.sky.it/uuid/cfc26129-0a07-44bd-ba6f-e8b9f2e0e4af/cover?territory=IT&md5ChecksumParam=7b5de4d48bb00c75f1f899235e33ed79",
+      "start_time": "2026-02-16 23:00:00",
+      "end_time": "2026-02-17 00:00:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Liz McDonald interviews the Industries experts."
     }
   ]
 }

@@ -1,258 +1,240 @@
 {
   "channel_name": "Rai2",
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "programs": [
     {
-      "show_name": "Tg Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/tg-sport.webp",
-      "start_time": "2026-02-15 00:00:00",
-      "end_time": "2026-02-15 00:00:00",
+      "show_name": "La Nuova DS",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/09/19/1758292532544_nuova%20DS%20sport.png",
+      "start_time": "2026-02-16 00:00:00",
+      "end_time": "2026-02-16 01:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Tg Sport Notte."
-    },
-    {
-      "show_name": "Il Sabato al 90°",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/il-sabato-al-90.webp",
-      "start_time": "2026-02-15 00:00:00",
-      "end_time": "2026-02-15 01:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Un racconto della domenica di campionato a partire dagli anticipi del sabato: tutte le immagini della Serie A, collegamenti con i campi di gara con i commenti degli ospiti in studio e gli episodi arbitrali esaminati alla moviola."
-    },
-    {
-      "show_name": "Serie B",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/serie-b.webp",
-      "start_time": "2026-02-15 01:00:00",
-      "end_time": "2026-02-15 01:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Tutti i gol, gli highlights e i commenti dell'ultima giornata del campionato di calcio di Serie B."
+      "show_description": "Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste ed opinioni. In studio, i protagonisti raccontano i loro successi sportivi e personali."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 01:30:00",
-      "end_time": "2026-02-15 02:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-16 01:00:00",
+      "end_time": "2026-02-16 01:30:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "A cura di Rai Sport."
     },
     {
       "show_name": "Appuntamento al cinema",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/appuntamento-al-cinema.webp",
-      "start_time": "2026-02-15 02:00:00",
-      "end_time": "2026-02-15 02:07:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2016/07/01/1467382228407_cinema_oo.jpg",
+      "start_time": "2026-02-16 01:30:00",
+      "end_time": "2026-02-16 01:37:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Rubrica per la promozione della cultura cinematografica in Italia."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 02:07:00",
-      "end_time": "2026-02-15 08:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-16 01:37:00",
+      "end_time": "2026-02-16 08:30:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "A cura di Rai Sport."
     },
     {
+      "show_name": "Tg2",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg",
+      "start_time": "2026-02-16 08:30:00",
+      "end_time": "2026-02-16 08:45:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
       "show_name": "Mattina Olimpica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/mattina-olimpica.webp",
-      "start_time": "2026-02-15 08:30:00",
-      "end_time": "2026-02-15 09:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769520529813_Mattina%20Olimpica-assets2048x1152.jpg",
+      "start_time": "2026-02-16 08:45:00",
+      "end_time": "2026-02-16 09:55:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "Tommaso Mecarozzi accompagna il pubblico nel risveglio olimpico, con il racconto delle Olimpiadi invernali, analisi e commenti per iniziare la giornata. In studio l'ex campione olimpico di sci di fondo Pietro Piller Cottrer e Barbara Pedrotti."
     },
     {
       "show_name": "Snow Show",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/snow-show.webp",
-      "start_time": "2026-02-15 09:00:00",
-      "end_time": "2026-02-15 09:05:00",
-      "episode_number": "S2026 E2",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/12/1770927147476_3.png",
+      "start_time": "2026-02-16 09:55:00",
+      "end_time": "2026-02-16 10:00:00",
+      "episode_number": "S2026 E3",
       "show_category": "",
-      "show_description": "In occasione delle Olimpiadi Invernali di Milano Cortina, Gabriele Corsi è a Livigno per incontrare uno dei nomi più celebri del calcio italiano. Nella cabinovia di Snow Show arriva l'alfiere della garra charrua: Lele Adani."
+      "show_description": "La neve di Milano Cortina è lo scenario ideale per il nuovo viaggio sospeso nel cielo di Snow Show. Per raggiungere il tetto della Valtellina, Gabriele Corsi è in compagnia dell'ex pallavolista e commentatrice sportiva Giulia Pisani."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 09:05:00",
-      "end_time": "2026-02-15 09:45:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-16 10:00:00",
+      "end_time": "2026-02-16 10:50:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Diretta gare. Nel corso: Tg Sport Olimpico."
+    },
+    {
+      "show_name": "Meteo 2",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/11/20/1763645323036_RaiMeteo2048x1152.png",
+      "start_time": "2026-02-16 10:50:00",
+      "end_time": "2026-02-16 10:52:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Tg2 Flash",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612263226607_1552933465773_Tg2_2048X1152_1.jpg",
+      "start_time": "2026-02-16 10:52:00",
+      "end_time": "2026-02-16 11:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-16 11:00:00",
+      "end_time": "2026-02-16 11:30:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "Diretta gare. Nel corso: Tg Sport Olimpico."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 09:45:00",
-      "end_time": "2026-02-15 11:15:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-16 11:30:00",
+      "end_time": "2026-02-16 12:00:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "Diretta gare. Nel corso: Tg Sport Olimpico."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 11:15:00",
-      "end_time": "2026-02-15 12:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Diretta gare. Nel corso: Tg Sport Olimpico."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 12:00:00",
-      "end_time": "2026-02-15 13:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-16 12:00:00",
+      "end_time": "2026-02-16 13:00:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "Diretta gare. Nel corso: Tg Sport Olimpico."
     },
     {
       "show_name": "Tg2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/tg2.webp",
-      "start_time": "2026-02-15 13:00:00",
-      "end_time": "2026-02-15 13:25:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg",
+      "start_time": "2026-02-16 13:00:00",
+      "end_time": "2026-02-16 13:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-16 13:30:00",
+      "end_time": "2026-02-16 14:30:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Diretta gare. Nel corso: Tg Sport Olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-16 14:30:00",
+      "end_time": "2026-02-16 16:45:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Diretta gare. Nel corso: Tg Sport Olimpico."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-16 16:45:00",
+      "end_time": "2026-02-16 18:00:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Diretta gare. Nel corso: Tg Sport Olimpico."
+    },
+    {
+      "show_name": "Tg Parlamento",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/07/20/1626761017898_TG_Parlamento_2048x1152.jpg",
+      "start_time": "2026-02-16 18:00:00",
+      "end_time": "2026-02-16 18:03:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Direttore Giuseppe Carboni."
+    },
+    {
+      "show_name": "TG2 LIS",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/03/21/1616314226970_2048x1152.jpg",
+      "start_time": "2026-02-16 18:03:00",
+      "end_time": "2026-02-16 18:08:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Meteo 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/meteo-2.webp",
-      "start_time": "2026-02-15 13:25:00",
-      "end_time": "2026-02-15 13:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/11/20/1763645323036_RaiMeteo2048x1152.png",
+      "start_time": "2026-02-16 18:08:00",
+      "end_time": "2026-02-16 18:10:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 13:30:00",
-      "end_time": "2026-02-15 14:45:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-16 18:10:00",
+      "end_time": "2026-02-16 19:00:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "Diretta gare. Nel corso: TG Sport Olimpico."
+      "show_description": "Diretta gare. Nel corso: Tg Sport Olimpico."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 14:45:00",
-      "end_time": "2026-02-15 16:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-16 19:00:00",
+      "end_time": "2026-02-16 19:30:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "Diretta gare. Nel corso: TG Sport Olimpico."
+      "show_description": "Diretta gare. Nel corso: Tg Sport Olimpico."
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 16:00:00",
-      "end_time": "2026-02-15 17:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-16 19:30:00",
+      "end_time": "2026-02-16 20:30:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "Diretta gare. Nel corso: TG Sport Olimpico."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 17:00:00",
-      "end_time": "2026-02-15 18:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Diretta gare. Nel corso: TG Sport Olimpico."
-    },
-    {
-      "show_name": "TG2 LIS",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/tg2-lis.webp",
-      "start_time": "2026-02-15 18:00:00",
-      "end_time": "2026-02-15 18:03:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": ""
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 18:03:00",
-      "end_time": "2026-02-15 20:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Diretta gare. Nel corso: TG Sport Olimpico."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 20:00:00",
-      "end_time": "2026-02-15 20:15:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Diretta gare. Nel corso: TG Sport Olimpico."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 20:15:00",
-      "end_time": "2026-02-15 20:30:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Diretta gare. Nel corso: TG Sport Olimpico."
+      "show_description": "Diretta gare. Nel corso: Tg Sport Olimpico."
     },
     {
       "show_name": "Tg2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/tg2.webp",
-      "start_time": "2026-02-15 20:30:00",
-      "end_time": "2026-02-15 21:00:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg",
+      "start_time": "2026-02-16 20:30:00",
+      "end_time": "2026-02-16 21:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": ""
     },
     {
       "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-15 21:00:00",
-      "end_time": "2026-02-15 22:55:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769524436516_Olimpiadi%20Invernali%20Milano-Cortina%202026-assets2048x1152.jpg",
+      "start_time": "2026-02-16 21:00:00",
+      "end_time": "2026-02-16 23:15:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "Diretta gare. Nel corso: TG Sport Olimpico."
+      "show_description": "Diretta gare. Nel corso: Tg Sport Olimpico."
     },
     {
       "show_name": "Notti Olimpiche",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/notti-olimpiche.webp",
-      "start_time": "2026-02-15 22:55:00",
-      "end_time": "2026-02-15 23:45:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/01/27/1769520653118_Notti%20Olimpiche-assets2048x1152.jpg",
+      "start_time": "2026-02-16 23:15:00",
+      "end_time": "2026-02-17 00:05:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "Il racconto delle Olimpiadi invernali con gli highlights della giornata e approfondimenti sul medagliere dell'Italia tra commenti, interviste, immagini e anteprime degli impegni del giorno dopo."
-    },
-    {
-      "show_name": "Snow Show",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/snow-show.webp",
-      "start_time": "2026-02-15 23:45:00",
-      "end_time": "2026-02-15 23:50:00",
-      "episode_number": "S2026 E3",
-      "show_category": "",
-      "show_description": "La neve di Milano Cortina è lo scenario ideale per il nuovo viaggio sospeso nel cielo di Snow Show. Per raggiungere il tetto della Valtellina, Gabriele Corsi è in compagnia dell'ex pallavolista e commentatrice sportiva Giulia Pisani."
-    },
-    {
-      "show_name": "Tg Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/tg-sport.webp",
-      "start_time": "2026-02-15 23:50:00",
-      "end_time": "2026-02-15 23:55:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Tg Sport Notte."
-    },
-    {
-      "show_name": "La Nuova DS",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Rai2/tomorrow/la-nuova-ds.webp",
-      "start_time": "2026-02-15 23:55:00",
-      "end_time": "2026-02-16 01:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste ed opinioni. In studio, i protagonisti raccontano i loro successi sportivi e personali."
     }
   ]
 }

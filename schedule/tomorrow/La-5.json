@@ -1,177 +1,267 @@
 {
   "channel_name": "La 5",
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "programs": [
     {
+      "show_name": "Amici Di Maria",
+      "show_logo": "",
+      "start_time": "2026-02-16 00:00:00",
+      "end_time": "2026-02-16 00:31:00",
+      "episode_number": "",
+      "show_category": "Talent show",
+      "show_description": "Il serale e' vicino e le emozioni si amplificano. I giudici di oggi sono Drusilla Foer, Raimondo Todaro, Oriella Dorella e Anbeta. Ospite: Giusy Ferreri."
+    },
+    {
+      "show_name": "X Style",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314203401000301/media/4/4/a8c7530e-35c3-453e-a751-d61ab41175a2/7932581f-d09c-4adb-a2d6-a89ecef20ca3.jpg",
+      "start_time": "2026-02-16 00:31:00",
+      "end_time": "2026-02-16 01:05:00",
+      "episode_number": "",
+      "show_category": "Lifestyle",
+      "show_description": "Il rotocalco dedicato alla moda, bellezza, lifestyle e tendenze."
+    },
+    {
       "show_name": "Inga Lindstrom Cuore Rubato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/inga-lindstrom-cuore-rubato.webp",
-      "start_time": "2026-02-15 00:00:00",
-      "end_time": "2026-02-15 00:59:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310993801000104/media/25/89/c57a2b23-4225-4901-a57e-3f3f32355361/36edb738-1f9a-4298-86ce-026c157de86c.jpg",
+      "start_time": "2026-02-16 01:05:00",
+      "end_time": "2026-02-16 02:41:00",
       "episode_number": "",
       "show_category": "Sentimentale",
       "show_description": "La trentenne Kristie si sente rinata dopo un trapianto di cuore. Suo marito Bjorn, la madre Ebba e la migliore amica Lilli devono accettare che Kristie voglia riprendere il controllo della sua vita. Mentre mette alla prova i suoi limiti con una nuotata, incontra Sixten, il suo amico del cuore della scuola materna, e lo aiuta a mettere ordine nel caos della sua vita. Kristie poi scopre che suo marito e la sua migliore amica avevano una relazione segreta, ma non si lascia abbattere: è il momento di riempire di vita il suo nuovo cuore. Con M. Haddad e M. Koch."
     },
     {
-      "show_name": "Don Gnocchi L'angelo Dei Bimbi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 00:59:00",
-      "end_time": "2026-02-15 03:34:00",
-      "episode_number": "",
-      "show_category": "Religione",
-      "show_description": "DON GNOCCHI-L'ANGELO DEI BIMBI1Don Carlo Gnocchi, un prete straordinario, che fece integralmente l'esperienza di Dio, attraverso la concreta vita dell'uomo. 1941. Tra i discepoli di Don Gnocchi (Daniele Liotti) all'Istituto Gonzaga di Milano spiccano Francesco (Francesco Martino) e Matteo (Giulio Pampiglione), dal carattere opposto ma legati da una profonda amicizia: introverso e disciplinato il primo, piu' ribelle, cupo e talvolta in aperto conflitto verbale con Don Carlo il secondo. Dopo aver discusso con il gerarca Baldacci (Mattia Sbragia), simbolo ambiguo del fragile potere fascista di quell'epoca, e dopo aver convinto il Cardinale Shuster (Ugo Pagliai), Don Gnocchi parte volontario come cappellano militare durante la guerra d'Albania nel 1941. I suoi allievi all'Istituto Gonzaga, seguono appassionati le sue gesta da lontano. Durante il conflitto, Don Gnocchi, continua a svolgere il suo ruolo spirituale, confortando per quanto e' nelle sue possibilita' i soldati e dimostrand... ITA 2004."
+      "show_name": "Centovetrine",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101007601/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-16 02:41:00",
+      "end_time": "2026-02-16 03:02:00",
+      "episode_number": "S1 E76",
+      "show_category": "Soap opera",
+      "show_description": "La piccola Benedetta viene cacciata via da Ivan, che dopo aver messo a segno il suo piano chiama Rosa e simula un furto nell'appartamento della donna. Paolo, nel frattempo, contatta Rosa e le dice che la bambina è sparita."
     },
     {
       "show_name": "Centovetrine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/centovetrine.webp",
-      "start_time": "2026-02-15 03:34:00",
-      "end_time": "2026-02-15 03:56:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101007701/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-16 03:02:00",
+      "end_time": "2026-02-16 03:24:00",
+      "episode_number": "S1 E77",
+      "show_category": "Soap opera",
+      "show_description": "Rosa forse ha un'idea su dove potrebbe essere la bambina e cerca di rassicurare Paolo: troveranno Benedetta. Ettore è furioso per come Ivan sta gestendo \"CentoVetrine\". Elena e Giuliano finalmente si rappacificano e la giovane donna gli propone un week-end fuori."
+    },
+    {
+      "show_name": "Centovetrine",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101007801/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-16 03:24:00",
+      "end_time": "2026-02-16 03:45:00",
+      "episode_number": "S1 E78",
+      "show_category": "Soap opera",
+      "show_description": "Rosa convince Benedetta a scendere dall'autobus e, una volta a casa, la bimba si chiude in un mutismo esasperato. Elena, dopo aver ricevuto un mazzo di fiori da Ettore, chiama l'uomo per ringraziarlo e gli comunica la sua intenzione di partire con Giuliano."
+    },
+    {
+      "show_name": "Centovetrine",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101007901/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-16 03:45:00",
+      "end_time": "2026-02-16 04:07:00",
       "episode_number": "S1 E79",
       "show_category": "Soap opera",
       "show_description": "Ivan continua imperterrito a giocare fin quando il proprietario della bisca lo blocca: o Bettini paga tutti i suoi debiti o farà una brutta fine. Paolo, dopo aver cacciato via Beatrice in malo modo, ringrazia Rosa per l'aiuto con Benedetta, ma la donna vuole sapere che cosa è successo la notte precedente tra lui e Beatrice."
     },
     {
       "show_name": "Centovetrine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/centovetrine.webp",
-      "start_time": "2026-02-15 03:56:00",
-      "end_time": "2026-02-15 04:20:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101008001/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-16 04:07:00",
+      "end_time": "2026-02-16 04:29:00",
       "episode_number": "S1 E80",
       "show_category": "Soap opera",
       "show_description": "Rosa crede alle parole di Paolo, che le dice che tra lui e Beatrice non è successo nulla, ma la donna non crede che sia giusto tenere Beatrice lontana da sua figlia. Fatima decide di riprendere gli studi ed un suo vecchio compagno di università la aiuta nell'impresa."
     },
     {
       "show_name": "Centovetrine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/centovetrine.webp",
-      "start_time": "2026-02-15 04:20:00",
-      "end_time": "2026-02-15 04:42:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101008101/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-16 04:29:00",
+      "end_time": "2026-02-16 04:50:00",
       "episode_number": "S1 E81",
       "show_category": "Soap opera",
       "show_description": "Ettore rimprovera Ivan per la sua inefficienza e lo costringe a prendersi qualche giorno di ferie per risolvere i suoi problemi. Rosa consiglia Paolo e Beatrice di parlare per chiarirsi, ma involontariamente ascolta il loro discorso e scopre quello che è successo. Nel frattempo la piccola Benedetta ha un forte attacco d'asma."
     },
     {
       "show_name": "Centovetrine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/centovetrine.webp",
-      "start_time": "2026-02-15 04:42:00",
-      "end_time": "2026-02-15 05:09:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101008201/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-16 04:50:00",
+      "end_time": "2026-02-16 05:11:00",
       "episode_number": "S1 E82",
       "show_category": "Soap opera",
       "show_description": "La piccola Benedetta viene portata in ospedale e Rosa cerca di tranquillizzare Paolo. Fatima, rientrata in casa, trova Gabriele ad attenderla: tra i due si riaccende la passione, ma il giovane Andreasi non è tornato per restare. Il proprietario della bisca concede ad Ivan solo un altro giorno, se non pagherà sarà peggio per lui."
     },
     {
       "show_name": "Tempesta D'amore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 05:09:00",
-      "end_time": "2026-02-15 06:00:00",
-      "episode_number": "S17 E189",
-      "show_category": "",
-      "show_description": "Gli psicofarmaci che Ariane ha messo nella bevanda di Cornelia iniziano a fare effetto. Florian rinuncia all'offerta oltreoceano ma nel frattempo Maja ha dato le dimissioni in hotel."
-    },
-    {
-      "show_name": "Tempesta D'amore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 06:00:00",
-      "end_time": "2026-02-15 06:49:00",
+      "show_logo": "",
+      "start_time": "2026-02-16 05:11:00",
+      "end_time": "2026-02-16 06:00:00",
       "episode_number": "S17 E190",
       "show_category": "",
       "show_description": "Cornelia non intende farsi visitare da uno psichiatra e chiede di informare la polizia. Michael chiede a Rosalie di provare a convincere l'amica a farsi curare."
     },
     {
-      "show_name": "Dalla Parte Degli Animali",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/dalla-parte-degli-animali.webp",
-      "start_time": "2026-02-15 06:49:00",
-      "end_time": "2026-02-15 08:23:00",
-      "episode_number": "",
-      "show_category": "Lifestyle",
-      "show_description": "Tante storie con protagonisti i nostri amici a quattro zampe. Conduce Vittoria Brambilla."
-    },
-    {
-      "show_name": "La Promessa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 08:23:00",
-      "end_time": "2026-02-15 09:35:00",
-      "episode_number": "S4 E83",
+      "show_name": "Tempesta D'amore",
+      "show_logo": "",
+      "start_time": "2026-02-16 06:00:00",
+      "end_time": "2026-02-16 06:52:00",
+      "episode_number": "S17 E191",
       "show_category": "",
-      "show_description": "Manuel chiarisce a suo padre che non andra' in Italia. Proseguira' con l'attivita' aeronautica, ma dalla Spagna, e aiutera' a risollevare economicamente La Promessa."
+      "show_description": "Cornelia chiede l'aiuto di Rosalie per restare nascosta ed evitare il ricovero; l'amica accetta di aiutarla e mentre recupera dei viveri per l'amica viene vista da Ariane."
     },
     {
-      "show_name": "La Promessa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 09:35:00",
-      "end_time": "2026-02-15 10:54:00",
-      "episode_number": "S4 E84",
-      "show_category": "",
-      "show_description": "Pia torna profondamente scossa dal cimitero, ma rivela a Curro di aver visto la pelle di Jana, la sua lingua e le sue unghie, di colore blu, confermando i sospetti del valletto."
-    },
-    {
-      "show_name": "La Promessa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 10:54:00",
-      "end_time": "2026-02-15 12:07:00",
-      "episode_number": "S4 E85",
-      "show_category": "",
-      "show_description": "Catalina partorisce una bambina, Angela corre a palazzo con la neonata per chiedere aiuto, nel frattempo Catalina e Curro vengono raggiunti da Adriano, che la porta via."
-    },
-    {
-      "show_name": "Verissimo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 12:07:00",
-      "end_time": "2026-02-15 14:26:00",
-      "episode_number": "",
-      "show_category": "Talk Show",
-      "show_description": "Tra gli ospiti di Silvia Toffanin, la showgirl Melissa Satta. In studio anche il giovane talento che sta conquistando il piccolo e il grande schermo con le sue doti attoriali: Saul Nanni."
-    },
-    {
-      "show_name": "Le Ali Della Vita",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 14:26:00",
-      "end_time": "2026-02-15 18:11:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Fine anni '50. Rosanna Ranzi,Sabrina Ferilli, e' una giovane donna che insegna in un rigido collegio fra le montagne del Tirolo."
-    },
-    {
-      "show_name": "Io Sono Farah",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/io-sono-farah.webp",
-      "start_time": "2026-02-15 18:11:00",
-      "end_time": "2026-02-15 19:11:00",
-      "episode_number": "S2 E15",
+      "show_name": "Vivere",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009378601022901/media/10/10/af4d144f-9f89-404a-9cab-390c5dfa8dd9/4b98354e-0a18-4a48-ba0a-b8ccd2877290.jpg",
+      "start_time": "2026-02-16 06:52:00",
+      "end_time": "2026-02-16 07:16:00",
+      "episode_number": "S2 E229",
       "show_category": "Soap opera",
-      "show_description": "Behnam sorprende Tahir in casa, ma non è lì per visitare Kerim: il vero obiettivo è confrontarsi con Farah. Nel frattempo, Mehmet viene sospeso dal servizio, scatenando nuove tensioni. Come reagiranno di fronte a queste rivelazioni e cambiamenti improvvisi."
+      "show_description": "Bruno si sente ancora incerto e confuso sull'opportunita' di diventare Dirigente. La sua 'fuga' dal pranzo dei 'luminari' e' stata notata con disappunto da Giannini e da Vittorio. Intanto, mentre la storia d'amore con Sharis va avanti, Bruno organizza una festa di addio per la ragazza. Giovanni informa Vincenzo della strana scomparsa di Eva. Il commissario inizia ad indagare. Intanto Chiara vede giungere una ragazza in fin di vita in ospedale e teme si tratti di Eva."
     },
     {
-      "show_name": "Io Sono Farah",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/io-sono-farah.webp",
-      "start_time": "2026-02-15 19:11:00",
-      "end_time": "2026-02-15 20:13:00",
-      "episode_number": "S2 E16",
+      "show_name": "Vivere",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009378601023001/media/10/10/af4d144f-9f89-404a-9cab-390c5dfa8dd9/4b98354e-0a18-4a48-ba0a-b8ccd2877290.jpg",
+      "start_time": "2026-02-16 07:16:00",
+      "end_time": "2026-02-16 07:40:00",
+      "episode_number": "S2 E230",
       "show_category": "Soap opera",
-      "show_description": "Farah viene caricata a forza sull'autobus che la porterà all'aeroporto per essere rimpatriata. Nel frattempo, Vera avverte Orhan di ciò che sta succedendo. Da questo momento, ci sarà una corsa contro il tempo per impedire che l'autobus raggiunga l'aeroporto e che Farah venga espulsa dal Paese."
+      "show_description": "Alla festa, Bruno annuncia a familiari e amici che sta per partire per il Sudan insieme a Sharis e ai MSF. La notizia crea stupore e sbigottimento: De Carolis sta dando l'addio a tutti loro. Vincenzo informa i Bonelli che le indagini non hanno rivelato nulla di preoccupante circa la misteriosa scomparsa di Eva. Poi pero' il commissario viene informato che e' stata avvistata un'auto nel lago: sembra proprio quella di Eva."
     },
     {
-      "show_name": "Io Sono Farah",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/io-sono-farah.webp",
-      "start_time": "2026-02-15 20:13:00",
-      "end_time": "2026-02-15 21:10:00",
-      "episode_number": "S2 E17",
+      "show_name": "Centovetrine",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101008301/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-16 07:40:00",
+      "end_time": "2026-02-16 08:09:00",
+      "episode_number": "S1 E83",
       "show_category": "Soap opera",
-      "show_description": "Bekir ha registrato la combinazione della cassaforte di Behnam e, con l'aiuto di un hacker, cerca di violarla. Intanto, Mahmud arriva in Turchia e Behnam pianifica il matrimonio con Farah. Nel frattempo, è arrivato in Turchia Mahmud, lo zio di Behnam e, quest'ultimo, per assecondarne le volontà, gli chiede di celebrare l'indomani il suo matrimonio con Farah."
+      "show_description": "Paolo chiede a Beatrice di stare lontano da lui e dalla bambina, ma la ragazza è decisa più che mai a restare. Ivan, credendo di essere solo nel Centro, sta per appropriarsi illecitamente di una somma di denaro, ma Anita lo scopre e lo mette con le spalle al muro. Fatima, pur distrutta dal dolore, chiede a Gabriele di sparire per sempre dalla sua vita."
     },
     {
-      "show_name": "Milionario In Incognito",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/La-5/tomorrow/milionario-in-incognito.webp",
-      "start_time": "2026-02-15 21:10:00",
-      "end_time": "2026-02-15 22:51:00",
+      "show_name": "Centovetrine",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009418101008401/media/3/3/5bc55bc1-f2a9-4fe6-8291-78ab704833be/59cd626b-5972-483e-8880-a10306838645.jpg",
+      "start_time": "2026-02-16 08:09:00",
+      "end_time": "2026-02-16 08:45:00",
+      "episode_number": "S1 E84",
+      "show_category": "Soap opera",
+      "show_description": "Anita presterà ad Ivan i soldi per saldare i suoi debiti di gioco, ma pretende qualcosa in cambio. Gabriele, rimasto a dormire a casa di Giuliano ed Elena, l'indomani mattina scopre, attraverso il telegiornale, che suo padre sarà l'avvocato di Ettore."
+    },
+    {
+      "show_name": "Furore",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F307776701000501/media/4/4/e64e6635-39ad-454d-957e-70ebd4e3b227/71a9b962-ad86-475f-a1ec-89fce576d8b5.jpg",
+      "start_time": "2026-02-16 08:45:00",
+      "end_time": "2026-02-16 10:44:00",
+      "episode_number": "S2 E5",
+      "show_category": "Drammatico",
+      "show_description": "Giovanna continua a cercare informazioni su sua madre, aiutata e sostenuta da Franco."
+    },
+    {
+      "show_name": "La Forza Di Una Donna",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313930601007904/media/25/89/7bf4b909-d2dc-40e1-b4e5-7ef07b071eb0/3fde9355-53e2-4898-90dc-b8a48a182ba1.jpg",
+      "start_time": "2026-02-16 10:44:00",
+      "end_time": "2026-02-16 11:43:00",
+      "episode_number": "S2 E79",
+      "show_category": "Soap opera",
+      "show_description": "Piril entra in possesso delle foto che rovinerebbero la vita di Sarp e Bahar, ma nonostante la rabbia che prova, non trova il coraggio di inviarle. A casa di Hatice ed Enver, il risveglio dei nipoti è gioioso, la presenza del padre sotto lo stesso tetto dà ai bambini una sensazione di normalità domestica che invece Bahar si trova costretta a tollerare."
+    },
+    {
+      "show_name": "Beautiful",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312753401020804/media/0/0/bf2fb8e0-d8ab-4751-93da-590c9c59ff15/642336fc-0093-4f84-8783-520686a8485d.jpg",
+      "start_time": "2026-02-16 11:43:00",
+      "end_time": "2026-02-16 12:18:00",
+      "episode_number": "S34 E208",
+      "show_category": "Soap opera",
+      "show_description": "Deacon ha riportato a casa Sheila e si godono i primi momenti insieme. Fanno progetti per il matrimonio, ma Sheila a un certo punto comincia ad avere le vertigini e Deacon insiste perché si faccia visitare in ospedale. Infatti Sheila è rimasta per settimane chiusa in un magazzino senza quasi mangiare, né bere."
+    },
+    {
+      "show_name": "Uomini E Donne",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314092401009201/media/11/11/f21ea52d-1e31-49e7-8d68-e227cdb624e0/8885b7cc-6615-475b-a906-64cbebbebdbe.jpg",
+      "start_time": "2026-02-16 12:18:00",
+      "end_time": "2026-02-16 13:50:00",
       "episode_number": "",
-      "show_category": "Sentimentale",
-      "show_description": "Sean, unico erede di un'importante società di sviluppo immobiliare appartenente a suo padre, si rifiuta di seguire le orme paterne e lavorare duramente, ma suo padre gli dà un ultimatum: dovrà trovarsi un lavoro entro una settimana o dovrà rinunciare alla vita agiata che ha condotto fino a quel momento. La situazione cambierà quando conoscerà Allison, studentessa di legge di giorno e volontaria di notte, attualmente impegnata in una protesta nei confronti di un nuovo progetto edilizio: proprio il centro commerciale di cui si sta occupando l'azienda di suo padre."
+      "show_category": "Reality show",
+      "show_description": "Gabriele al centro delle discussioni. La conoscenza tra Gloria e Paolo. Il primo bacio di Ciro."
     },
     {
       "show_name": "Amici Di Maria",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-15 22:51:00",
-      "end_time": "2026-02-16 00:31:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314092501008701/media/0/0/505449c3-b007-47fe-8c6e-44dc417e7726/a5c19870-83ae-4766-98bd-f2bd73b42bca.jpg",
+      "start_time": "2026-02-16 13:50:00",
+      "end_time": "2026-02-16 14:27:00",
       "episode_number": "",
       "show_category": "Talent show",
-      "show_description": "Il serale e' vicino e le emozioni si amplificano. I giudici di oggi sono Drusilla Foer, Raimondo Todaro, Oriella Dorella e Anbeta. Ospite: Giusy Ferreri."
+      "show_description": "Una masterclass per Lorenzo e una per Giulia."
+    },
+    {
+      "show_name": "Una Mamma Per Amica",
+      "show_logo": "",
+      "start_time": "2026-02-16 14:27:00",
+      "end_time": "2026-02-16 15:27:00",
+      "episode_number": "S1 E1",
+      "show_category": "",
+      "show_description": "Lorelai e' il manager esecutivo dell' \"Independence Inn\", un importante albergo, e vive con la figlia Rory di 16 anni, in una piccola citta' della provincia americana."
+    },
+    {
+      "show_name": "Una Mamma Per Amica",
+      "show_logo": "",
+      "start_time": "2026-02-16 15:27:00",
+      "end_time": "2026-02-16 16:26:00",
+      "episode_number": "S1 E2",
+      "show_category": "",
+      "show_description": "Il primo giorno di scuola non e' stato facile per Rory. L'incontro-scontro con Paris l'ha messa nella condizione di tirare subito fuori tutta la sua grinta."
+    },
+    {
+      "show_name": "Bitter Sweet Ingredienti D'amore",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F308759301007804/images/Mediaset_Italia_Production_-_Main/210/524/ST000000001339-3-header-poster-320x260.jpg",
+      "start_time": "2026-02-16 16:26:00",
+      "end_time": "2026-02-16 17:19:00",
+      "episode_number": "S1 E78",
+      "show_category": "Soap opera",
+      "show_description": "Ferit Deniz e tutti gli altri scoprono che Hakan e' il responsabile della morte di Demir e Zeynep. Hakan una volta con le spalle al muro, va fuori di testa e decide di andare ad uccidere Nazli per vendicarsi di Ferit al quale rivelera' tutta la verita' sui loro padri. Dopo una colluttazione, Ferit ha la meglio e Hakan viene arrestato. Successivamente viene arrestata anche Demet."
+    },
+    {
+      "show_name": "Le Stagioni Del Cuore",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009561901001201/media/31/95/7b444140-bd88-4c43-bc29-3a08b04f5123/2649c331-40ed-4cfb-ab1e-32322001a5c5.jpg",
+      "start_time": "2026-02-16 17:19:00",
+      "end_time": "2026-02-16 19:33:00",
+      "episode_number": "S1 E12",
+      "show_category": "Sentimentale",
+      "show_description": "Per salvare l'azienda di famiglia, la Caslam, Claudia Castelli (Anna Valle) e' costretta dal padre Edoardo Castelli (Arnaldo Ninchi) a sposare Sergio Valenti (Alessandro Gassman), di famiglia benestante, di cui non e' innamorata: Claudia infatti ha una simpatia per Gianni Casiraghi (Paolo Seganti), giovane spiantato che non soddisfa le esigenze del padre della ragazza (che riuscira' con le sue amicizie altolocate a farlo partire militare, sperando che la figlia lo dimentichi). A poco a poco, pero', tra i due coniugi nascera' un sentimento che permettera' loro di affrontare alcune difficolta', come la morte del padre di Claudia e le vicissitudini legate alla guerra: nel luglio 1943, come le altre fabbriche torinesi, anche la Caslam viene occupata dagli operai, e Sergio si dimostra abile nel gestire le trattative con i lavoratori anche nel dopoguerra..."
+    },
+    {
+      "show_name": "Amici Di Maria",
+      "show_logo": "",
+      "start_time": "2026-02-16 19:33:00",
+      "end_time": "2026-02-16 20:03:00",
+      "episode_number": "",
+      "show_category": "Talent show",
+      "show_description": "L'appuntamento quotidiano con i ragazzi di Amici."
+    },
+    {
+      "show_name": "Uomini E Donne",
+      "show_logo": "",
+      "start_time": "2026-02-16 20:03:00",
+      "end_time": "2026-02-16 21:26:00",
+      "episode_number": "",
+      "show_category": "Reality show",
+      "show_description": "Il dating show che racconta l'amore in chiave contemporanea, tra tronisti giovani e partecipanti over che cercano la loro anima gemella."
+    },
+    {
+      "show_name": "Quando Tutto Cambia",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F013050701000105/media/9/9/80d921bf-a7dd-42ba-9277-cbbef42582e3/ffc9a935-d007-4938-9259-5ffbf6dcc9e1.jpg",
+      "start_time": "2026-02-16 21:26:00",
+      "end_time": "2026-02-16 23:30:00",
+      "episode_number": "",
+      "show_category": "Commedia",
+      "show_description": "Film diretto e interpretato da Helen Hunt al suo esordio alla regia. La tranquilla vita di April Epner viene sconvolta dalla morte della madre adottiva, dall'abbandono del marito Ben e dalla comparsa improvvisa, dopo anni di assenza, della madre naturale, una nota conduttrice di talk show."
+    },
+    {
+      "show_name": "Milionario In Incognito",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309713001000102/media/9/9/2c8c51fb-9a96-4123-82f2-de8baf9b6639/6306ec06-e945-427d-8cad-1e2feba6691d.jpg",
+      "start_time": "2026-02-16 23:30:00",
+      "end_time": "2026-02-17 01:07:00",
+      "episode_number": "",
+      "show_category": "Sentimentale",
+      "show_description": "Sean, unico erede di un'importante società di sviluppo immobiliare appartenente a suo padre, si rifiuta di seguire le orme paterne e lavorare duramente, ma suo padre gli dà un ultimatum: dovrà trovarsi un lavoro entro una settimana o dovrà rinunciare alla vita agiata che ha condotto fino a quel momento. La situazione cambierà quando conoscerà Allison, studentessa di legge di giorno e volontaria di notte, attualmente impegnata in una protesta nei confronti di un nuovo progetto edilizio: proprio il centro commerciale di cui si sta occupando l'azienda di suo padre."
     }
   ]
 }

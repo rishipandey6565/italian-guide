@@ -1,42 +1,42 @@
 {
   "channel_name": "Sky Sport  252",
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "programs": [
     {
-      "show_name": "Genzano - Catania",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/today/genzano-catania.webp",
-      "start_time": "2026-02-14 00:00:00",
-      "end_time": "2026-02-14 14:00:00",
-      "episode_number": "S2025 E20",
-      "show_category": "Sport",
-      "show_description": "Segui la partita di calcio a 5 in programma."
-    },
-    {
-      "show_name": "Benevento - Latina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/today/benevento-latina.webp",
-      "start_time": "2026-02-14 14:00:00",
-      "end_time": "2026-02-14 17:25:00",
-      "episode_number": "S2025 E272",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Ciro Vigorito di Benevento, Italia."
-    },
-    {
-      "show_name": "Calcio Campionato Italiano Serie C - Ep. 276 - Calcio Serie C 27ga Girone C Foggia/ Atalanta U23 14/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/today/calcio-campionato-italiano-serie-c-ep-276-calcio-serie-c-27ga-girone-c-foggia-atalanta-u23-14-02-2026.webp",
-      "start_time": "2026-02-14 17:25:00",
-      "end_time": "2026-02-14 20:30:00",
-      "episode_number": "S2025 E276",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Pino Zaccheria di Foggia, Italia."
-    },
-    {
       "show_name": "Paris FC - Lens",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/today/paris-fc-lens.webp",
-      "start_time": "2026-02-14 20:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/60c56920-38c1-4071-80a4-9914f1a0c26d/cover?territory=IT&md5ChecksumParam=81d64989e96badb73d2b9f4176b92f93",
+      "start_time": "2026-02-15 00:00:00",
       "end_time": "2026-02-15 14:00:00",
       "episode_number": "S2025 E71",
       "show_category": "Sport",
       "show_description": "Dallo stadio Jean-Bouin di Parigi, Francia."
+    },
+    {
+      "show_name": "Bra - Ascoli",
+      "show_logo": "https://guidatv.sky.it/uuid/971f1685-a91f-47a4-bcab-4382eef4ca20/cover?territory=IT&md5ChecksumParam=74d1648b5665204ce833fc3edc73b1ca",
+      "start_time": "2026-02-15 14:00:00",
+      "end_time": "2026-02-15 17:25:00",
+      "episode_number": "S2025 E264",
+      "show_category": "Sport",
+      "show_description": "Tutte le partite del campionato di Serie C italiano."
+    },
+    {
+      "show_name": "Perugia - Carpi",
+      "show_logo": "https://guidatv.sky.it/uuid/92941eae-5c13-4fb7-98f3-8d632e410970/cover?territory=IT&md5ChecksumParam=35272841bf5762b828473fc2857fa42f",
+      "start_time": "2026-02-15 17:25:00",
+      "end_time": "2026-02-15 20:25:00",
+      "episode_number": "S2025 E267",
+      "show_category": "Sport",
+      "show_description": "Tutte le partite del campionato di Serie C italiano."
+    },
+    {
+      "show_name": "Calcio Campionato Italiano Serie C - Ep. 275 - Calcio Serie C 27ga Girone A Lecco/ Virtus Verona 15/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/d85c2b07-44be-41cf-a37b-782868421262/cover?territory=IT&md5ChecksumParam=6cd837b36bcfd42ee418d1c241bb59de",
+      "start_time": "2026-02-15 20:25:00",
+      "end_time": "2026-02-16 20:00:00",
+      "episode_number": "S2025 E275",
+      "show_category": "Sport",
+      "show_description": "Dallo stadio Mario Rigamonti-Mario Ceppi di Lecco, Italia."
     }
   ]
 }

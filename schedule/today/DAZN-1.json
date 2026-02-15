@@ -1,132 +1,114 @@
 {
   "channel_name": "DAZN 1",
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "programs": [
     {
-      "show_name": "Pisa - Milan",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/DAZN-1/today/pisa-milan.webp",
-      "start_time": "2026-02-14 00:00:00",
-      "end_time": "2026-02-14 00:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Stag. 2019 - DAZN 1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 00:30:00",
-      "end_time": "2026-02-14 06:00:00",
-      "episode_number": "",
-      "show_category": "Altri Programmi",
-      "show_description": "DAZN 1."
-    },
-    {
-      "show_name": "Stag. 2019 - DAZN 1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 06:00:00",
-      "end_time": "2026-02-14 08:00:00",
-      "episode_number": "",
-      "show_category": "Altri Programmi",
-      "show_description": "DAZN 1."
-    },
-    {
-      "show_name": "Genoa - Napoli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/DAZN-1/today/genoa-napoli.webp",
-      "start_time": "2026-02-14 08:00:00",
-      "end_time": "2026-02-14 09:48:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Christian Pulisic: The Italian Dream",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 09:48:00",
-      "end_time": "2026-02-14 10:23:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Christian Pulisic e il leggendario coach Dan Peterson in una chiacchierata, 1 to 1, parlano del momento del calciatore statunitense e di tutta la sua esperienza italiana e rossonera."
-    },
-    {
-      "show_name": "Roma: Svilar",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 10:23:00",
-      "end_time": "2026-02-14 10:37:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Mile Svilar, nominato dalla Lega Serie A come il miglior portiere della scorsa stagione, in estate ha rinnovato il suo contratto con la Roma fino al 2030. Non perdere \"Roma, casa mia\" su DAZN!"
-    },
-    {
-      "show_name": "Juventus - Lazio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/DAZN-1/today/juventus-lazio.webp",
-      "start_time": "2026-02-14 10:37:00",
-      "end_time": "2026-02-14 12:25:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Como - Sassuolo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 12:25:00",
-      "end_time": "2026-02-14 14:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Serie A F - 14a g. Solo su DAZN potrai seguire tutta la Serie A Women Athora. Tutte le partite, incluse Poule Scudetto e Poule Salvezza, tutte le emozioni."
-    },
-    {
-      "show_name": "Como - Fiorentina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/DAZN-1/today/como-fiorentina.webp",
-      "start_time": "2026-02-14 14:30:00",
-      "end_time": "2026-02-14 17:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Lazio - Atalanta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/DAZN-1/today/lazio-atalanta.webp",
-      "start_time": "2026-02-14 17:00:00",
-      "end_time": "2026-02-14 20:55:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Real Madrid - Real Sociedad",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 20:55:00",
-      "end_time": "2026-02-14 22:55:00",
-      "episode_number": "S2025 E78",
-      "show_category": "Sport",
-      "show_description": "Liga: Real Madrid - Real Sociedad. 24a g. - Brillano le stelle: Mbappe', Yamal, Griezmann e altri talenti infiammano una corsa al titolo che si preannuncia spettacolare."
-    },
-    {
-      "show_name": "Mandela Keita",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 22:55:00",
-      "end_time": "2026-02-14 23:14:00",
-      "episode_number": "S2026 E1",
-      "show_category": "Sport",
-      "show_description": "Un format che parla dell'identita', del peso specifico, della memoria e del futuro: ospite Mandela Keita, centrocampista del Parma."
-    },
-    {
-      "show_name": "DDR: Ambrosini intervista De Rossi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/DAZN-1/today/ddr-ambrosini-intervista-de-rossi.webp",
-      "start_time": "2026-02-14 23:14:00",
-      "end_time": "2026-02-14 23:54:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
       "show_name": "Lazio: Pedro",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-14 23:54:00",
+      "show_logo": "https://guidatv.sky.it/uuid/ee65edde-e07f-483f-a162-bfb70c02cdfd/cover?cgid=90&territory=IT&md5ChecksumParam=a55521494136b4dec77f4a2358ffd9ef&sid=566.it",
+      "start_time": "2026-02-15 00:00:00",
       "end_time": "2026-02-15 01:00:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "A 38 anni Pedro con la Lazio ha segnato 10 gol in Serie A e 4 in Europa League nell'ultima stagione, oltre ad aver trovato il gol con entrambe le maglie nel Derby della Capitale."
+    },
+    {
+      "show_name": "Stag. 2019 - DAZN 1",
+      "show_logo": "https://guidatv.sky.it/uuid/ef416285-a102-40e0-80a6-d4be94f81e66/cover?cgid=90&territory=IT&md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&sid=566.it",
+      "start_time": "2026-02-15 01:00:00",
+      "end_time": "2026-02-15 06:00:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "DAZN 1."
+    },
+    {
+      "show_name": "Stag. 2019 - DAZN 1",
+      "show_logo": "https://guidatv.sky.it/uuid/ef416285-a102-40e0-80a6-d4be94f81e66/cover?cgid=90&territory=IT&md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&sid=566.it",
+      "start_time": "2026-02-15 06:00:00",
+      "end_time": "2026-02-15 08:00:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "DAZN 1."
+    },
+    {
+      "show_name": "Verona - Pisa",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-15 08:00:00",
+      "end_time": "2026-02-15 09:44:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": ""
+    },
+    {
+      "show_name": "Campioni: Road to victory",
+      "show_logo": "https://guidatv.sky.it/uuid/48ba4db3-d2ba-49f3-ad33-5d57ed46bb48/cover?cgid=90&territory=IT&md5ChecksumParam=9714c1e2001bfee9cc012bc4a3a3fa41&sid=566.it",
+      "start_time": "2026-02-15 09:44:00",
+      "end_time": "2026-02-15 10:13:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "E' il docufilm ufficiale che racconta dall'interno il cammino del Bologna verso la conquista della Coppa Italia, un trofeo che mancava da ben 51 anni. Non perderlo su DAZN!"
+    },
+    {
+      "show_name": "Genoa - Napoli",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-15 10:13:00",
+      "end_time": "2026-02-15 12:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": ""
+    },
+    {
+      "show_name": "Udinese - Sassuolo",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-15 12:00:00",
+      "end_time": "2026-02-15 14:27:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": ""
+    },
+    {
+      "show_name": "Stag. 2025 - Top 30 Gol Inter - Milan",
+      "show_logo": "https://guidatv.sky.it/uuid/db968da3-43b2-4555-902e-78ccc9fd2b54/cover?cgid=90&territory=IT&md5ChecksumParam=6feb49d553620ffea24de8191c3af854&sid=566.it",
+      "start_time": "2026-02-15 14:27:00",
+      "end_time": "2026-02-15 14:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Guarda la Top Gol di Inter-Milan. Segui la Serie A Enilive su DAZN!"
+    },
+    {
+      "show_name": "Parma - Verona",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-15 14:45:00",
+      "end_time": "2026-02-15 16:56:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": ""
+    },
+    {
+      "show_name": "Cisterna - Cuneo",
+      "show_logo": "https://guidatv.sky.it/uuid/c9005c6e-8ab8-46e9-9fe9-361aa3d5f3a7/cover?cgid=90&territory=IT&md5ChecksumParam=61de9bcbe4d4e985379b72e1b50790e3&sid=566.it",
+      "start_time": "2026-02-15 16:56:00",
+      "end_time": "2026-02-15 19:10:00",
+      "episode_number": "S2025 E9",
+      "show_category": "Sport",
+      "show_description": "Superlega: Cisterna - Cuneo. 20a g. - Il volley italiano e internazionale e' su DAZN. Ogni weekend il meglio della pallavolo con la SuperLega, l'A2 e la Serie A1 femminile. Durante la settimana lo spettacolo della CEV."
+    },
+    {
+      "show_name": "ABB Stadi - Stag. 2025 Ep. 4 - Roma",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-15 19:10:00",
+      "end_time": "2026-02-15 19:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Roma - 'Stadi 5.0' e' la nuova serie - con ABB Electrification e Calcio e Finanza - sul futuro dei templi del calcio italiano ed europeo. Il quarto dei sei episodi e' dedicato allo Stadio Olimpico di Roma."
+    },
+    {
+      "show_name": "Napoli - Roma",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-15 19:30:00",
+      "end_time": "2026-02-16 01:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": ""
     }
   ]
 }
