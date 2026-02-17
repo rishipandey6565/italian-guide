@@ -1,249 +1,258 @@
 {
   "channel_name": "Focus",
-  "date": "2026-02-16",
+  "date": "2026-02-17",
   "programs": [
     {
+      "show_name": "Freedom Oltre Il Confine",
+      "show_logo": "",
+      "start_time": "2026-02-17 00:00:00",
+      "end_time": "2026-02-17 02:24:00",
+      "episode_number": "S1 E13",
+      "show_category": "Viaggi",
+      "show_description": "In questa puntata: visiteremo il Museo del Grande Torino, scopriremo i segreti della Sfinge, conosceremo la storia della Villa di Corliano, ammireremo da vicino l'arte di Giotto nella Cappella degli Scrovegni e racconteremo la vita dell'architetto Andrea Palladio."
+    },
+    {
+      "show_name": "La Storia Dell'universo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313182101000104/media/20/84/0820dd9c-f12a-459e-ab70-c47f49ff734f/17028f30-b6fc-4f76-a4fb-b00db9ba9e08.jpg",
+      "start_time": "2026-02-17 02:24:00",
+      "end_time": "2026-02-17 03:08:00",
+      "episode_number": "S4 E1",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "In principio era il buio, poi una grande esplosione, il Big Bang, dà origine all'infinità dello spazio, del tempo e della materia."
+    },
+    {
+      "show_name": "I Grandi Enigmi Della Storia",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312656501000202/media/26/90/f0efda42-4373-4919-ac0b-a9667883b1ca/3e877503-11f6-4636-aace-1fc1dd2528b4.jpg",
+      "start_time": "2026-02-17 03:08:00",
+      "end_time": "2026-02-17 04:00:00",
+      "episode_number": "S1 E2",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Da secoli, re, studiosi, sultani e cacciatori di tesori, setacciano il globo alla ricerca del santo Graal. Esiste ancora la coppa usata da Gesù nell'ultima cena."
+    },
+    {
+      "show_name": "Verso L'aldila' Riti, Misteri E Credenze Degli Antichi",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312457801000504/media/27/91/84bece0f-519f-4ab1-bfeb-5fd41e727508/942c8288-3716-4f95-94bb-8be5ff165cf4.jpg",
+      "start_time": "2026-02-17 04:00:00",
+      "end_time": "2026-02-17 04:45:00",
+      "episode_number": "S1 E5",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Cosa succede dopo la morte? Indaghiamo sui segreti delle antiche civiltà usando il loro approccio alla morte e all'aldilà."
+    },
+    {
+      "show_name": "Viaggiatori Uno Sguardo Sul Mondo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305857401004901/media/22/86/6ce1216a-49df-4b95-a893-61bdfab593c2/6c2e69a2-f71c-4ad5-b405-7773cbcbf5bc.jpg",
+      "start_time": "2026-02-17 04:45:00",
+      "end_time": "2026-02-17 05:07:00",
+      "episode_number": "S1 E49",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Colori brillanti e vivi, brezza marina intensa, architettura semplice ed armoniosa ed il mar Egeo che avvolge tutto con austerità: siamo alle isole Cicladi, gioielli greci dal passato antico."
+    },
+    {
+      "show_name": "Libellule & Damigelle La Danza Nei Cieli",
+      "show_logo": "",
+      "start_time": "2026-02-17 05:07:00",
+      "end_time": "2026-02-17 05:57:00",
+      "episode_number": "",
+      "show_category": "Il regno Animale",
+      "show_description": "David Attenborough ci presenta la vita delle libellule e delle damigelle, creature iridescenti con sorprendenti capacità e misteri."
+    },
+    {
+      "show_name": "Lo Sapevi Che?",
+      "show_logo": "",
+      "start_time": "2026-02-17 05:57:00",
+      "end_time": "2026-02-17 06:03:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Passare alle energie rinnovabili per ridurre il riscaldamento globale e' una necessita' ma potrebbe incorrere in problematiche non indifferenti."
+    },
+    {
+      "show_name": "Lo Sapevi Che?",
+      "show_logo": "",
+      "start_time": "2026-02-17 06:03:00",
+      "end_time": "2026-02-17 06:09:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "C'e' un pianeta che ruota attorno ad una stella distante da noi circa 635 anni luce e che lascia dietro di se' una nube di sodio."
+    },
+    {
+      "show_name": "New Kids In The Wild",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311599201000102/media/6/6/4951693e-b160-4d47-981d-23b6848f6bfb/b110105d-2c97-4ed0-b26b-8ec5d5244f85.jpg",
+      "start_time": "2026-02-17 06:09:00",
+      "end_time": "2026-02-17 07:00:00",
+      "episode_number": "S1 E1",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Nell'arido deserto dell'Africa, in Namibia i cuccioli di licaone devono imparare sin da subito come sopravvivere. Chi sono gli amici e chi sono i nemici? Imparare a correre con il branco della comunità nomade sarà la prova più grande."
+    },
+    {
+      "show_name": "Luoghi Di Magnifica Italia",
+      "show_logo": "",
+      "start_time": "2026-02-17 07:00:00",
+      "end_time": "2026-02-17 07:05:00",
+      "episode_number": "S1 E37",
+      "show_category": "Viaggi",
+      "show_description": "Alla scoperta delle meraviglie del nostro Paese."
+    },
+    {
+      "show_name": "Lo Sapevi Che?",
+      "show_logo": "",
+      "start_time": "2026-02-17 07:05:00",
+      "end_time": "2026-02-17 07:11:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Per produrre gli scontrini fiscali in Italia ogni anno vengono utilizzati 38 miliardi di litri d'acqua e abbattuti 11 milioni di alberi."
+    },
+    {
+      "show_name": "Viaggiatori Uno Sguardo Sul Mondo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305857401005001/media/22/86/6ce1216a-49df-4b95-a893-61bdfab593c2/6c2e69a2-f71c-4ad5-b405-7773cbcbf5bc.jpg",
+      "start_time": "2026-02-17 07:11:00",
+      "end_time": "2026-02-17 07:34:00",
+      "episode_number": "S1 E50",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Yucatan: la terra dell'eterno intreccio tra passato e futuro, fatta di mille colori, natura e tradizioni. 40 mila metri quadri di bellezza e di cultura Maya tra resti antichi ed edifici coloniali."
+    },
+    {
+      "show_name": "Fuori Le Prove! Indagini Ai Confini Della Realta'",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313181901000203/media/5/5/0261354d-27d9-4453-af39-208a02c34616/49c2ca42-018d-4e49-9965-8e651ca98dcd.jpg",
+      "start_time": "2026-02-17 07:34:00",
+      "end_time": "2026-02-17 08:18:00",
+      "episode_number": "S3 E2",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "L'UFO Paperina di gomma, la scultura di ghiaccio del Tristo Mietitore e io ho ucciso il Bigfoot."
+    },
+    {
+      "show_name": "I Grandi Enigmi Della Storia",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312656501000202/media/26/90/f0efda42-4373-4919-ac0b-a9667883b1ca/3e877503-11f6-4636-aace-1fc1dd2528b4.jpg",
+      "start_time": "2026-02-17 08:18:00",
+      "end_time": "2026-02-17 09:22:00",
+      "episode_number": "S1 E2",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Da secoli, re, studiosi, sultani e cacciatori di tesori, setacciano il globo alla ricerca del santo Graal. Esiste ancora la coppa usata da Gesù nell'ultima cena."
+    },
+    {
+      "show_name": "Verso L'aldila' Riti, Misteri E Credenze Degli Antichi",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312457801000504/media/27/91/84bece0f-519f-4ab1-bfeb-5fd41e727508/942c8288-3716-4f95-94bb-8be5ff165cf4.jpg",
+      "start_time": "2026-02-17 09:22:00",
+      "end_time": "2026-02-17 10:23:00",
+      "episode_number": "S1 E5",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Cosa succede dopo la morte? Indaghiamo sui segreti delle antiche civiltà usando il loro approccio alla morte e all'aldilà."
+    },
+    {
+      "show_name": "La Storia Dell'universo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313182101000204/media/20/84/0820dd9c-f12a-459e-ab70-c47f49ff734f/17028f30-b6fc-4f76-a4fb-b00db9ba9e08.jpg",
+      "start_time": "2026-02-17 10:23:00",
+      "end_time": "2026-02-17 11:30:00",
+      "episode_number": "S4 E2",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "Un'enorme pioggia di asteroidi si schianta sulla terra, i pianeti riducono in polvere interi mondi. L'universo è pieno di esplosioni, scopriamo le 10 più grandi."
+    },
+    {
+      "show_name": "Cose Di Questo Mondo",
+      "show_logo": "",
+      "start_time": "2026-02-17 11:30:00",
+      "end_time": "2026-02-17 12:32:00",
+      "episode_number": "S3 E6",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "Nuove prove su uno dei piu' grandi misteri della Bibbia, un'ombra minacciosa attorno all'Oceano Pacifico e uno strano lago con la forma di un cerchio perfetto."
+    },
+    {
+      "show_name": "Le Piu' Grandi Meraviglie Naturali Del Mondo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312025001000204/media/11/11/d8e97681-a05b-4608-905d-fbdeb08dc44b/e4f11eb3-b52c-4b11-acb8-d02646ff6cb2.jpg",
+      "start_time": "2026-02-17 12:32:00",
+      "end_time": "2026-02-17 13:38:00",
+      "episode_number": "S1 E2",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Ci sono pochi panorami sulla terra avvincenti quanto un'eruzione vulcanica. I vulcani hanno il potenziale per cambiare il nostro mondo in un batter d'occhio causando morte e distruzione ma hanno anche il potere di creare. La superficie del nostro straordinario pianeta è ricca di meraviglie naturali forgiate dal fuoco."
+    },
+    {
+      "show_name": "Libellule & Damigelle La Danza Nei Cieli",
+      "show_logo": "",
+      "start_time": "2026-02-17 13:38:00",
+      "end_time": "2026-02-17 14:51:00",
+      "episode_number": "",
+      "show_category": "Il regno Animale",
+      "show_description": "David Attenborough ci presenta la vita delle libellule e delle damigelle, creature iridescenti con sorprendenti capacità e misteri."
+    },
+    {
       "show_name": "Meraviglie Della Terra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/meraviglie-della-terra.webp",
-      "start_time": "2026-02-16 00:00:00",
-      "end_time": "2026-02-16 00:34:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311525001000304/media/25/89/5059ab24-55d5-4059-a922-d7ec1acae96a/af006f84-7946-4df5-a784-a5c1cfa6e823.jpg",
+      "start_time": "2026-02-17 14:51:00",
+      "end_time": "2026-02-17 15:55:00",
       "episode_number": "S3 E3",
       "show_category": "Meraviglie della Natura",
       "show_description": "Nel cuore delle terre selvagge del Centro America si distende una terra forgiata da una intensa attività vulcanica."
     },
     {
       "show_name": "Natura Meraviglie Senza Tempo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/natura-meraviglie-senza-tempo.webp",
-      "start_time": "2026-02-16 00:34:00",
-      "end_time": "2026-02-16 01:35:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312747001000102/media/20/84/d7edf0ad-b2e6-4176-aead-609d0469a497/62b0aa8a-a95c-4792-98f5-5818efa037eb.jpg",
+      "start_time": "2026-02-17 15:55:00",
+      "end_time": "2026-02-17 17:08:00",
       "episode_number": "S1 E1",
       "show_category": "Meraviglie della Natura",
       "show_description": "Scopriamo le varie e meravigliose sfaccettature della natura islandese, sempre in movimento e in continuo cambiamento."
     },
     {
-      "show_name": "Le Meraviglie Del Parco Di Yellowstone",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-16 01:35:00",
-      "end_time": "2026-02-16 02:26:00",
-      "episode_number": "S1 E2",
-      "show_category": "",
-      "show_description": "In questo episodio, Bill Pullman ci parla del ritorno dei grandi predatori dello Yellowstone: lupi e grizzly."
-    },
-    {
-      "show_name": "I Grandi Enigmi Della Storia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/i-grandi-enigmi-della-storia.webp",
-      "start_time": "2026-02-16 02:26:00",
-      "end_time": "2026-02-16 03:17:00",
-      "episode_number": "S1 E1",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "La missione dei nostri cercatori di verità è scoprire quelle sulla Grande Piramide in Egitto: chi la eresse? Come fu costruita e perchè."
-    },
-    {
-      "show_name": "Verso L'aldila' Riti, Misteri E Credenze Degli Antichi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/verso-l-aldila-riti-misteri-e-credenze-degli-antichi.webp",
-      "start_time": "2026-02-16 03:17:00",
-      "end_time": "2026-02-16 04:02:00",
-      "episode_number": "S1 E4",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Uno spostamento causato dal terremoto scopre una fila di statue alte 7 piedi che racchiudevano mummie; curiosi arrangiamenti ossei a Winterborne si collegano in qualche modo alle ceneri mescolate da scavi in Slovenia... Gli scavi del Tophet di Cartagine portano alla luce qualche interrogativo."
-    },
-    {
-      "show_name": "Viaggiatori Uno Sguardo Sul Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/viaggiatori-uno-sguardo-sul-mondo.webp",
-      "start_time": "2026-02-16 04:02:00",
-      "end_time": "2026-02-16 04:26:00",
-      "episode_number": "S1 E48",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Albe che dipingono la terra di riflessi d'argento, tramonti che illuminano il cielo di rosso fuoco e poi l'oscurità che avvolge tutto lasciando solo brillare le stelle: benvenuti in Kenya."
-    },
-    {
-      "show_name": "Le Piu' Grandi Meraviglie Naturali Del Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/le-piu-grandi-meraviglie-naturali-del-mondo.webp",
-      "start_time": "2026-02-16 04:26:00",
-      "end_time": "2026-02-16 05:15:00",
-      "episode_number": "S1 E1",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "La maggior parte dei cambiamenti della superficie terrestre sono stati provocati dal clima e dal movimento delle placche tettoniche - grandi lastre di crosta terrestre che galleggiano sul suo nucleo fuso. Le montagne sono il promemoria di quanto sia dinamico il nostro pianeta."
-    },
-    {
-      "show_name": "David Attenborough Luci Sul Pianeta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-16 05:15:00",
-      "end_time": "2026-02-16 06:06:00",
-      "episode_number": "",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Esploriamo il mondo della bioluminescenza. Apposite telecamere ci rivelano le luci naturale spettacolari prodotte da alcune creature."
-    },
-    {
-      "show_name": "Luoghi Di Magnifica Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-16 06:06:00",
-      "end_time": "2026-02-16 06:11:00",
-      "episode_number": "S1 E36",
-      "show_category": "Viaggi",
-      "show_description": "Alla scoperta delle meraviglie del nostro Paese."
-    },
-    {
-      "show_name": "L' Anno Selvaggio Dell'africa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/l-anno-selvaggio-dell-africa.webp",
-      "start_time": "2026-02-16 06:11:00",
-      "end_time": "2026-02-16 07:00:00",
-      "episode_number": "S1 E2",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "L'estate in Africa è la stagione degli estremi. Per molti è il momento di banchettare mentre la vita fiorisce, per altri è la stagione della sopravvivenza."
-    },
-    {
-      "show_name": "Viaggiatori Uno Sguardo Sul Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/viaggiatori-uno-sguardo-sul-mondo.webp",
-      "start_time": "2026-02-16 07:00:00",
-      "end_time": "2026-02-16 07:21:00",
-      "episode_number": "S1 E49",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Colori brillanti e vivi, brezza marina intensa, architettura semplice ed armoniosa ed il mar Egeo che avvolge tutto con austerità: siamo alle isole Cicladi, gioielli greci dal passato antico."
-    },
-    {
-      "show_name": "Secrets In The Jungle Strane Scoperte Nel Profondo Della Giungla",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/secrets-in-the-jungle-strane-scoperte-nel-profondo-della-giungla.webp",
-      "start_time": "2026-02-16 07:21:00",
-      "end_time": "2026-02-16 08:01:00",
-      "episode_number": "S1 E7",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "In Belize, centinaia di ossa e denti umani frantumati sono stati trovati in una grotta. Più di mille tubi cilindrici vengono scoperti in un pozzo in India. Un piccolo animale luminoso si trova in Australia. Alcune teste di pietra dell'Isola di Pasqua presentano un mistero."
-    },
-    {
-      "show_name": "I Grandi Enigmi Della Storia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/i-grandi-enigmi-della-storia.webp",
-      "start_time": "2026-02-16 08:01:00",
-      "end_time": "2026-02-16 09:11:00",
-      "episode_number": "S1 E1",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "La missione dei nostri cercatori di verità è scoprire quelle sulla Grande Piramide in Egitto: chi la eresse? Come fu costruita e perchè."
-    },
-    {
-      "show_name": "Verso L'aldila' Riti, Misteri E Credenze Degli Antichi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/verso-l-aldila-riti-misteri-e-credenze-degli-antichi.webp",
-      "start_time": "2026-02-16 09:11:00",
-      "end_time": "2026-02-16 10:12:00",
-      "episode_number": "S1 E4",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Uno spostamento causato dal terremoto scopre una fila di statue alte 7 piedi che racchiudevano mummie; curiosi arrangiamenti ossei a Winterborne si collegano in qualche modo alle ceneri mescolate da scavi in Slovenia... Gli scavi del Tophet di Cartagine portano alla luce qualche interrogativo."
-    },
-    {
-      "show_name": "La Storia Dell'universo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/la-storia-dell-universo.webp",
-      "start_time": "2026-02-16 10:12:00",
-      "end_time": "2026-02-16 11:14:00",
-      "episode_number": "S4 E1",
-      "show_category": "Scienza e Tecnologia",
-      "show_description": "In principio era il buio, poi una grande esplosione, il Big Bang, dà origine all'infinità dello spazio, del tempo e della materia."
-    },
-    {
-      "show_name": "Cose Di Questo Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-16 11:14:00",
-      "end_time": "2026-02-16 12:14:00",
-      "episode_number": "S3 E5",
-      "show_category": "Scienza e Tecnologia",
-      "show_description": "La figura di un gigantesco umanoide nell'Outback australiano, un'immensa luce verde che illumina il mare della Thailandia e gli sviluppi degli studi nucleari in Iran."
-    },
-    {
-      "show_name": "Le Piu' Grandi Meraviglie Naturali Del Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/le-piu-grandi-meraviglie-naturali-del-mondo.webp",
-      "start_time": "2026-02-16 12:14:00",
-      "end_time": "2026-02-16 13:19:00",
-      "episode_number": "S1 E1",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "La maggior parte dei cambiamenti della superficie terrestre sono stati provocati dal clima e dal movimento delle placche tettoniche - grandi lastre di crosta terrestre che galleggiano sul suo nucleo fuso. Le montagne sono il promemoria di quanto sia dinamico il nostro pianeta."
-    },
-    {
-      "show_name": "David Attenborough Luci Sul Pianeta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-16 13:19:00",
-      "end_time": "2026-02-16 14:34:00",
-      "episode_number": "",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Esploriamo il mondo della bioluminescenza. Apposite telecamere ci rivelano le luci naturale spettacolari prodotte da alcune creature."
-    },
-    {
-      "show_name": "Same Same But Different",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/same-same-but-different.webp",
-      "start_time": "2026-02-16 14:34:00",
-      "end_time": "2026-02-16 15:42:00",
-      "episode_number": "",
-      "show_category": "Il regno Animale",
-      "show_description": "La Terra ospita milioni di specie, dai microbi alla balenottera azzurra. Alcune sono strettamente imparentate, altre si somigliano senza esserlo: l'irace è parente dell'elefante, noi dei colugos, struzzi dei coccodrilli. Ma balene e squali balena? No! Perché l'evoluzione crea somiglianze senza parentela."
-    },
-    {
-      "show_name": "La Vita Segreta Delle Rane",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/la-vita-segreta-delle-rane.webp",
-      "start_time": "2026-02-16 15:42:00",
-      "end_time": "2026-02-16 17:01:00",
-      "episode_number": "",
-      "show_category": "Il regno Animale",
-      "show_description": "Tigri ed elefanti nel profondo della giungla dell'India; intrepidi esploratori che lavorano per salvare gli anfibi dell'India dalla tragedia di un'estinzione; i segreti della \"Rana Danzante\", una rana che si riproduce senza alcun contatto fisico."
-    },
-    {
       "show_name": "Fuori Le Prove! Indagini Ai Confini Della Realta'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/fuori-le-prove-indagini-ai-confini-della-realta.webp",
-      "start_time": "2026-02-16 17:01:00",
-      "end_time": "2026-02-16 17:57:00",
-      "episode_number": "S3 E2",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313181901000303/media/5/5/0261354d-27d9-4453-af39-208a02c34616/49c2ca42-018d-4e49-9965-8e651ca98dcd.jpg",
+      "start_time": "2026-02-17 17:08:00",
+      "end_time": "2026-02-17 18:01:00",
+      "episode_number": "S3 E3",
       "show_category": "Scienza e Tecnologia",
-      "show_description": "L'UFO Paperina di gomma, la scultura di ghiaccio del Tristo Mietitore e io ho ucciso il Bigfoot."
-    },
-    {
-      "show_name": "Vita E Natura D'acqua Dolce",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/vita-e-natura-d-acqua-dolce.webp",
-      "start_time": "2026-02-16 17:57:00",
-      "end_time": "2026-02-16 19:10:00",
-      "episode_number": "S1 E3",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "l'Africa è un continente selvaggio con foreste pluviali impenetrabili e deserti che nella stagione delle piogge si trasformano. L'acqua dolce cambia tutto."
-    },
-    {
-      "show_name": "Vita E Natura D'acqua Dolce",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/vita-e-natura-d-acqua-dolce.webp",
-      "start_time": "2026-02-16 19:10:00",
-      "end_time": "2026-02-16 20:29:00",
-      "episode_number": "S1 E4",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "In nessun altro luogo come in Europa la natura ha sùbito una trasformazione così radicale. Nei suoi paradisi sorprendenti, l'acqua dolce è protagonista assoluta."
-    },
-    {
-      "show_name": "Enigmi Alieni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/enigmi-alieni.webp",
-      "start_time": "2026-02-16 20:29:00",
-      "end_time": "2026-02-16 21:20:00",
-      "episode_number": "S12 E34",
-      "show_category": "Spazio",
-      "show_description": "Nel deserto del Mojave c'è una struttura in grado di donare la vita eterna. Chiunque ne varchi la soglia ne esce guarito da ogni male. E' stata costruita dagli extraterrestri."
+      "show_description": "Possibili avvistamenti di una temuta creatura filippina conosciuta come Aswang; un lupo potrebbe aggirarsi nei boschi del Saskatchewan; la notte in cui è stato avvistato un UFO a Montreal."
     },
     {
       "show_name": "Hot Roads Strade Di Fuoco",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/hot-roads-strade-di-fuoco.webp",
-      "start_time": "2026-02-16 21:20:00",
-      "end_time": "2026-02-16 22:18:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314103101000402/media/7/7/ee852695-fd7d-405e-a65a-7472d2ba20ae/b99c47c2-86e7-454a-acde-ccc433784e09.jpg",
+      "start_time": "2026-02-17 18:01:00",
+      "end_time": "2026-02-17 19:18:00",
       "episode_number": "S4 E4",
       "show_category": "Inchiesta",
       "show_description": "Madeira è famosa per i suoi aspri paesaggi montani con le loro strade tortuose, ripide e tornanti che fanno battere forte il cuore degli automobilisti."
     },
     {
       "show_name": "Hot Roads Strade Di Fuoco",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/today/hot-roads-strade-di-fuoco.webp",
-      "start_time": "2026-02-16 22:18:00",
-      "end_time": "2026-02-16 23:26:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313793001000502/media/22/86/2b374eb1-5540-4df8-bd32-6df5285edb05/653c6d8d-4121-4db0-ab6e-6ad4d6f55fa4.jpg",
+      "start_time": "2026-02-17 19:18:00",
+      "end_time": "2026-02-17 20:28:00",
       "episode_number": "S1 E5",
       "show_category": "Inchiesta",
       "show_description": "Le strade del Circolo Polare Artico sono coperte di ghiaccio e neve per quasi otto mesi all'anno, condizioni che porterebbero a un crollo totale soprattutto a sud."
     },
     {
-      "show_name": "Freedom Oltre Il Confine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-16 23:26:00",
-      "end_time": "2026-02-17 02:24:00",
-      "episode_number": "S1 E13",
-      "show_category": "Viaggi",
-      "show_description": "In questa puntata: visiteremo il Museo del Grande Torino, scopriremo i segreti della Sfinge, conosceremo la storia della Villa di Corliano, ammireremo da vicino l'arte di Giotto nella Cappella degli Scrovegni e racconteremo la vita dell'architetto Andrea Palladio."
+      "show_name": "Enigmi Alieni",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313797201000302/media/12/12/34d9aa63-c951-43c7-b6d4-2a1a65447dcf/f6d9f815-b714-4288-b9f0-f568e61fa538.jpg",
+      "start_time": "2026-02-17 20:28:00",
+      "end_time": "2026-02-17 21:20:00",
+      "episode_number": "S1 E3",
+      "show_category": "Spazio",
+      "show_description": "Siti megalitici riportati alla luce dopo migliaia di anni e misteriosi insediamenti sotterranei che si estendoni per chilometri."
+    },
+    {
+      "show_name": "Chinijo Le Isole Degli Uccelli",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313780901000104/media/4/4/fd7e3c44-75e2-40bd-90c6-c8384990441c/60be34ca-3b08-445f-9e93-83fb44a287ae.jpg",
+      "start_time": "2026-02-17 21:20:00",
+      "end_time": "2026-02-17 22:15:00",
+      "episode_number": "",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Sulle orme del resto delle isole Canarie, l'arcipelago Chinijo deve le sue origini alle forze vulcaniche. A prima vista, potrebbe sembrare che nessuna forma di vita possa prosperare in un paesaggio così austero. Eppure, la vita ha trovato la sua strada qui, trasportata dal vento."
+    },
+    {
+      "show_name": "I Signori Della Notte",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312022101000104/media/17/81/421f3ab5-066d-4466-9f50-2059514a5963/150e62a9-7387-4e01-b18e-43bde9d52ee1.jpg",
+      "start_time": "2026-02-17 22:15:00",
+      "end_time": "2026-02-17 23:26:00",
+      "episode_number": "",
+      "show_category": "Il regno Animale",
+      "show_description": "Rapaci notturni con la capacità di sentire, vedere e volare nell'oscurità dimostrandosi predatori eccezionali di importanza ecologica cruciale poiché uccidono grandi quantità di roditori e insetti. Ogni gufo caccia in diversi ecosistemi tenendo a bada le popolazioni di topi, conigli e insetti."
+    },
+    {
+      "show_name": "Presenze Aliene",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313890001000704/media/7/7/8145753e-56f5-41e2-956b-6c314d8e26a8/91cd38f8-f08a-456e-9ee5-f86ffc5a5ae0.jpg",
+      "start_time": "2026-02-17 23:26:00",
+      "end_time": "2026-02-18 00:30:00",
+      "episode_number": "S1 E7",
+      "show_category": "Spazio",
+      "show_description": "Nel deserto del Nuovo Messico si intrecciano avvistamenti di UFO, inspiegabili mutilazioni di bestiame e occulte attività militari. Il veterano Paul Bennewitz rileva segnali radio dal sottosuolo e ipotizza l'esistenza di una base aliena segreta. Ancora oggi, il Nuovo Messico resta un punto caldo per chi indaga sul confine tra scienza, cospirazione ed entità extraterrestri."
     }
   ]
 }
