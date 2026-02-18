@@ -1,294 +1,267 @@
 {
   "channel_name": "Sky Adventure",
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "programs": [
     {
-      "show_name": "MythBusters",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/mythbusters.webp",
-      "start_time": "2026-02-18 00:00:00",
-      "end_time": "2026-02-18 00:55:00",
-      "episode_number": "S10 E12",
-      "show_category": "Intrattenimento",
-      "show_description": "Mythbusters - Miti Da Sfatare."
-    },
-    {
-      "show_name": "Full Custom Garage: Macchine da urlo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/full-custom-garage-macchine-da-urlo.webp",
-      "start_time": "2026-02-18 00:55:00",
-      "end_time": "2026-02-18 01:40:00",
-      "episode_number": "S9 E6",
-      "show_category": "Intrattenimento",
-      "show_description": "Ispirandosi ai pionieri dell'hot rodding, Ian sceglie uno stile vecchia scuola con un Model A e aggiunge il suo tocco personale a una costruzione in stile tradizionale."
-    },
-    {
-      "show_name": "Ice Road Rescue",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/ice-road-rescue.webp",
-      "start_time": "2026-02-18 01:40:00",
-      "end_time": "2026-02-18 02:30:00",
-      "episode_number": "S6 E7",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Thord deve salvare un camion carico di tubi di ferro durante una tempesta di neve. Un pesante escavatore è rotolato da una diga. Il freddo può causare la rottura del metallo, che può essere pericoloso."
-    },
-    {
-      "show_name": "Stupidi al quadrato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/stupidi-al-quadrato.webp",
-      "start_time": "2026-02-18 02:30:00",
-      "end_time": "2026-02-18 02:55:00",
-      "episode_number": "S7 E15",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il conduttore Dallas Campbell mostra video provenienti da tutto il mondo, spiegando cosa puo' accadere quando guidiamo uno scooter elettrico o costruiamo una zipline."
-    },
-    {
-      "show_name": "Stupidi al quadrato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/stupidi-al-quadrato.webp",
-      "start_time": "2026-02-18 02:55:00",
-      "end_time": "2026-02-18 03:20:00",
-      "episode_number": "S7 E16",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il conduttore Dallas Campbell mostra video provenienti da tutto il mondo, spiegando cosa accade quando si guidano veicoli fuori pista o si fanno mosse azzardate su un'altalena."
-    },
-    {
-      "show_name": "Stupidi al quadrato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/stupidi-al-quadrato.webp",
-      "start_time": "2026-02-18 03:20:00",
-      "end_time": "2026-02-18 03:45:00",
-      "episode_number": "S7 E17",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il conduttore Dallas Campbell mostra video provenienti da tutto il mondo, spiegando cosa accade quando si usa il parapendio, si salta dalle scale o si guida una barca a motore."
-    },
-    {
-      "show_name": "Australia: A caccia di serpenti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/australia-a-caccia-di-serpenti.webp",
-      "start_time": "2026-02-18 03:45:00",
-      "end_time": "2026-02-18 04:10:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Jess e Stuart rispondono a una chiamata che riguarda la rimozione di un serpente bruno orientale che ha invaso il pollaio di un nonno."
-    },
-    {
-      "show_name": "Borneo da salvare",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/borneo-da-salvare.webp",
-      "start_time": "2026-02-18 04:10:00",
-      "end_time": "2026-02-18 04:15:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un quarto delle giungle del Borneo e' stato distrutto negli ultimi 4 decenni. Questo ha messo gli esseri umani e gli elefanti in rotta di collisione, con molti elefantini abbandonati."
-    },
-    {
-      "show_name": "Borneo da salvare",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/borneo-da-salvare.webp",
-      "start_time": "2026-02-18 04:15:00",
-      "end_time": "2026-02-18 04:25:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La perdita di habitat crea tensione tra le popolazioni di elefanti e gli umani nell'isola indonesiana del Borneo."
-    },
-    {
-      "show_name": "Shark with Steve Backshall",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/shark-with-steve-backshall.webp",
-      "start_time": "2026-02-18 04:25:00",
-      "end_time": "2026-02-18 05:10:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Ep1 di 3 Gli squali dell'Oceano Atlantico -Il naturalista ed esperto di squali Steve Backshall celebra la diversita' degli squali, scoprendo le loro vite segrete e le minacce che devono affrontare."
-    },
-    {
-      "show_name": "Shark with Steve Backshall",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/shark-with-steve-backshall.webp",
-      "start_time": "2026-02-18 05:10:00",
-      "end_time": "2026-02-18 06:00:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Steve scopre gli squali dell'Oceano Indiano, che affrontano le minacce del cambiamento climatico, dell'inquinamento e della pesca eccessiva."
-    },
-    {
-      "show_name": "Scandinavia: Frontiera Artica 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/scandinavia-frontiera-artica-1-tv.webp",
-      "start_time": "2026-02-18 06:00:00",
-      "end_time": "2026-02-18 07:05:00",
+      "show_name": "Scandinavia: Frontiera Artica",
+      "show_logo": "https://guidatv.sky.it/uuid/f73bb7ef-d9b5-4392-bbab-83e2aeb324b0/COVER_TITLE_TALL?territory=IT&version=89db025b-73b1-3db9-b43a-64fe2736a008&w=600&h=800&md5ChecksumParam=f89da97efcb7be4d35807dc9e8b7e5d6",
+      "start_time": "2026-02-19 00:00:00",
+      "end_time": "2026-02-19 00:45:00",
       "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
       "show_description": "L'avventuriero Simon Reeve attraversa paesaggi mozzafiato, dalle gelide regioni artiche alla costa baltica. In questo modo, viaggia attraverso Danimarca, Svezia, Norvegia, Finlandia e Islanda e scopre un mondo pieno di contrasti."
     },
     {
-      "show_name": "Scandinavia: Frontiera Artica 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/scandinavia-frontiera-artica-1-tv.webp",
-      "start_time": "2026-02-18 07:05:00",
-      "end_time": "2026-02-18 08:10:00",
+      "show_name": "Scandinavia: Frontiera Artica",
+      "show_logo": "https://guidatv.sky.it/uuid/09992b04-d5a3-4d55-bdce-d780402c5226/COVER_TITLE_TALL?territory=IT&version=89db025b-73b1-3db9-b43a-64fe2736a008&w=600&h=800&md5ChecksumParam=f89da97efcb7be4d35807dc9e8b7e5d6",
+      "start_time": "2026-02-19 00:45:00",
+      "end_time": "2026-02-19 02:45:00",
       "episode_number": "S1 E2",
       "show_category": "Mondo e Tendenze",
       "show_description": "L'avventuriero Simon Reeve attraversa paesaggi mozzafiato, dalle gelide regioni artiche alla costa baltica. In questo modo, viaggia attraverso Danimarca, Svezia, Norvegia, Finlandia e Islanda e scopre un mondo pieno di contrasti."
     },
     {
-      "show_name": "Borneo da salvare",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/borneo-da-salvare.webp",
-      "start_time": "2026-02-18 08:10:00",
-      "end_time": "2026-02-18 08:20:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nella cittadina di Beaufort, nel Borneo, un branco di macachi che puo' provocare un sacco di scompiglio, sta causando problemi agli abitanti del villaggio."
-    },
-    {
-      "show_name": "Australia: A caccia di serpenti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/australia-a-caccia-di-serpenti.webp",
-      "start_time": "2026-02-18 08:20:00",
-      "end_time": "2026-02-18 08:50:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "I bagnini chiamano la squadra quando trovano un serpente nero dal ventre rosso nella loro sala riunioni. Stuart e Olivia cercano di rimuovere tre pitoni da un cantiere edile."
-    },
-    {
-      "show_name": "MythBusters",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/mythbusters.webp",
-      "start_time": "2026-02-18 08:50:00",
-      "end_time": "2026-02-18 09:45:00",
-      "episode_number": "S10 E6",
-      "show_category": "Intrattenimento",
-      "show_description": "Adam e Jamie studiano gli effetti sonori protagonisti di alcuni dei più famosi film di Hollywood. Kari, Grant e Tory cercano di capire se è possibile usare un ventilatore per navigare con una barca a vela."
-    },
-    {
       "show_name": "Ice Road Rescue",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/ice-road-rescue.webp",
-      "start_time": "2026-02-18 09:45:00",
-      "end_time": "2026-02-18 10:40:00",
-      "episode_number": "S6 E7",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Thord deve salvare un camion carico di tubi di ferro durante una tempesta di neve. Un pesante escavatore è rotolato da una diga. Il freddo può causare la rottura del metallo, che può essere pericoloso."
-    },
-    {
-      "show_name": "Chasing Monsters: A caccia di mostri",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/chasing-monsters-a-caccia-di-mostri.webp",
-      "start_time": "2026-02-18 10:40:00",
-      "end_time": "2026-02-18 11:35:00",
-      "episode_number": "S3 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gli oceani sono ricchi di infallibili predatori. Tra di essi, i barracuda e gli squali. Cyril Chaquet fa conoscere al pubblico su queste creature illustrando cosa le renda tanto micidiali."
-    },
-    {
-      "show_name": "Full Custom Garage: Macchine da urlo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/full-custom-garage-macchine-da-urlo.webp",
-      "start_time": "2026-02-18 11:35:00",
-      "end_time": "2026-02-18 12:30:00",
-      "episode_number": "S9 E6",
-      "show_category": "Intrattenimento",
-      "show_description": "Ispirandosi ai pionieri dell'hot rodding, Ian sceglie uno stile vecchia scuola con un Model A e aggiunge il suo tocco personale a una costruzione in stile tradizionale."
-    },
-    {
-      "show_name": "Ingegneria degli Epic Fail",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/ingegneria-degli-epic-fail.webp",
-      "start_time": "2026-02-18 12:30:00",
-      "end_time": "2026-02-18 13:25:00",
-      "episode_number": "S1 E4",
-      "show_category": "Altri Programmi",
-      "show_description": "Ingegneria degli Epic Fail."
-    },
-    {
-      "show_name": "Stupidi al quadrato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/stupidi-al-quadrato.webp",
-      "start_time": "2026-02-18 13:25:00",
-      "end_time": "2026-02-18 13:55:00",
-      "episode_number": "S7 E17",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il conduttore Dallas Campbell mostra video provenienti da tutto il mondo, spiegando cosa accade quando si usa il parapendio, si salta dalle scale o si guida una barca a motore."
-    },
-    {
-      "show_name": "Stupidi al quadrato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/stupidi-al-quadrato.webp",
-      "start_time": "2026-02-18 13:55:00",
-      "end_time": "2026-02-18 14:25:00",
-      "episode_number": "S7 E18",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il conduttore Dallas Campbell mostra video provenienti da tutto il mondo, spiegando cosa accade quando si partecipa a una gara di motocross o si salta sui tavoli."
-    },
-    {
-      "show_name": "Supercar: i grandi miti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/supercar-i-grandi-miti.webp",
-      "start_time": "2026-02-18 14:25:00",
-      "end_time": "2026-02-18 15:15:00",
-      "episode_number": "S2 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La Maserati decide di costruire la sua prima nuova supercar in vent'anni. Resta da capire se sarà sufficiente a riportare il marchio ai vertici dell'industria automobilistica italiana."
-    },
-    {
-      "show_name": "Supercar: i grandi miti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/supercar-i-grandi-miti.webp",
-      "start_time": "2026-02-18 15:15:00",
-      "end_time": "2026-02-18 16:05:00",
-      "episode_number": "S2 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La Ferrari sta sviluppando un nuovo ibrido e il suo primo motore a sei cilindri di serie, nel tentativo di ridefinire il famoso marchio di supercar in un'era più ecologica."
-    },
-    {
-      "show_name": "Ice Road Rescue",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/ice-road-rescue.webp",
-      "start_time": "2026-02-18 16:05:00",
-      "end_time": "2026-02-18 16:55:00",
+      "show_logo": "https://guidatv.sky.it/uuid/b7cba55d-2cc1-4187-a328-8e3a773d27c0/COVER_TITLE_TALL?territory=IT&version=2fc7a746-f9c9-320f-b263-45031218aa8b&w=600&h=800&md5ChecksumParam=9f1a8ae148210201a1b559a2b45f90cb",
+      "start_time": "2026-02-19 02:45:00",
+      "end_time": "2026-02-19 03:00:00",
       "episode_number": "S6 E8",
       "show_category": "Mondo e Tendenze",
       "show_description": "Ice Road Rescue."
     },
     {
-      "show_name": "Chasing Monsters: A caccia di mostri",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/chasing-monsters-a-caccia-di-mostri.webp",
-      "start_time": "2026-02-18 16:55:00",
-      "end_time": "2026-02-18 17:45:00",
-      "episode_number": "S3 E6",
+      "show_name": "Stupidi al quadrato",
+      "show_logo": "https://guidatv.sky.it/uuid/f8072546-16b2-4da5-990e-51286085f252/cover?territory=IT&md5ChecksumParam=2992952aa904312b7bf13562e6bba4bb",
+      "start_time": "2026-02-19 03:00:00",
+      "end_time": "2026-02-19 03:30:00",
+      "episode_number": "S7 E18",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Nelle giungle della Guyana, Cyril è alla ricerca di un enorme pesce dalla coda rossa. Per trovarlo, deve avventurarsi in zone particolarmente selvagge e poco sicure."
+      "show_description": "Il conduttore Dallas Campbell mostra video provenienti da tutto il mondo, spiegando cosa accade quando si partecipa a una gara di motocross o si salta sui tavoli."
     },
     {
       "show_name": "Stupidi al quadrato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/stupidi-al-quadrato.webp",
-      "start_time": "2026-02-18 17:45:00",
-      "end_time": "2026-02-18 18:10:00",
+      "show_logo": "https://guidatv.sky.it/uuid/29d578b6-3229-4f17-924b-e4b20eff6bea/cover?territory=IT&md5ChecksumParam=2992952aa904312b7bf13562e6bba4bb",
+      "start_time": "2026-02-19 03:30:00",
+      "end_time": "2026-02-19 04:00:00",
       "episode_number": "S7 E19",
       "show_category": "Mondo e Tendenze",
       "show_description": "Il conduttore Dallas Campbell mostra video provenienti da tutto il mondo per analizzare forze legate al cosmo, come ad esempio la forza di gravita'. Quali sono i rischi?"
     },
     {
       "show_name": "Stupidi al quadrato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/stupidi-al-quadrato.webp",
-      "start_time": "2026-02-18 18:10:00",
-      "end_time": "2026-02-18 18:35:00",
+      "show_logo": "https://guidatv.sky.it/uuid/fa21e852-a9e4-4608-9278-94173afa09dc/cover?territory=IT&md5ChecksumParam=2992952aa904312b7bf13562e6bba4bb",
+      "start_time": "2026-02-19 04:00:00",
+      "end_time": "2026-02-19 04:30:00",
       "episode_number": "S7 E20",
       "show_category": "Mondo e Tendenze",
       "show_description": "Il conduttore Dallas Campbell mostra video provenienti da tutto il mondo per spiegare il cosmo ed esplorare alcuni concetti come le orbite e la velocita' della luce."
     },
     {
+      "show_name": "Australia: A caccia di serpenti",
+      "show_logo": "https://guidatv.sky.it/uuid/20541375-34e2-43e0-84b3-fe0dd22f8c8e/COVER_TITLE_TALL?territory=IT&version=d5d91819-9c48-37b3-8cd0-b4f12fd3a1dd&w=600&h=800&md5ChecksumParam=81b61395b4479a3bfac96f4a79c6229b",
+      "start_time": "2026-02-19 04:30:00",
+      "end_time": "2026-02-19 05:00:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un pollaio viene saccheggiato da un pitone. La squadra deve rimuovere un serpente bruno orientale dal cortile di una famiglia."
+    },
+    {
+      "show_name": "Shark with Steve Backshall",
+      "show_logo": "https://guidatv.sky.it/uuid/1e56cf23-bd54-42de-91cf-9a9ec229179c/cover?territory=IT&md5ChecksumParam=55b0ab3b457a45af3d15037920357e31",
+      "start_time": "2026-02-19 05:00:00",
+      "end_time": "2026-02-19 06:00:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Steve scopre gli squali dell'Oceano Indiano, che affrontano le minacce del cambiamento climatico, dell'inquinamento e della pesca eccessiva."
+    },
+    {
+      "show_name": "Ingegneria del futuro 1^TV",
+      "show_logo": "https://guidatv.sky.it/uuid/51116ad6-a076-4d8f-b579-ef55900e7892/COVER_TITLE_TALL?territory=IT&version=8fee140d-4ea8-383f-a843-caa33b5b5567&w=600&h=800&md5ChecksumParam=8c4607e16d5bb6bb018bd2ef5d2a2e5c",
+      "start_time": "2026-02-19 06:00:00",
+      "end_time": "2026-02-19 06:55:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Gli ingegneri stanno lavorando per sfruttare l'enorme potenziale dell'energia eolica offshore al fine di sostituire i combustibili fossili."
+    },
+    {
+      "show_name": "Markets of the world",
+      "show_logo": "https://guidatv.sky.it/uuid/99d8e216-6de7-485e-a975-fe3b75b8b368/cover?territory=IT&md5ChecksumParam=6cc867dd327cfca761a479ba2a0d94a0",
+      "start_time": "2026-02-19 06:55:00",
+      "end_time": "2026-02-19 07:25:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "A Cotonou, nel mercato di Dantokpa, si trova un eccezionale salone dei tessuti, la cui sopravvivenza è in pericolo."
+    },
+    {
       "show_name": "MythBusters",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/mythbusters.webp",
-      "start_time": "2026-02-18 18:35:00",
-      "end_time": "2026-02-18 21:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/4f4248c0-aba5-465b-8db7-5bfc45686905/COVER_TITLE_TALL?territory=IT&version=5410b4f3-6ec6-3c97-879b-1fc96737195d&w=600&h=800&md5ChecksumParam=b5990fb37325c285dfc96cdc1769ce66",
+      "start_time": "2026-02-19 07:25:00",
+      "end_time": "2026-02-19 08:25:00",
+      "episode_number": "S10 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Adam e Jamie studiano gli effetti sonori protagonisti di alcuni dei più famosi film di Hollywood. Kari, Grant e Tory cercano di capire se è possibile usare un ventilatore per navigare con una barca a vela."
+    },
+    {
+      "show_name": "MythBusters",
+      "show_logo": "https://guidatv.sky.it/uuid/c145a5b8-8fa2-4154-b534-55be8dc1bd28/COVER_TITLE_TALL?territory=IT&version=5410b4f3-6ec6-3c97-879b-1fc96737195d&w=600&h=800&md5ChecksumParam=b5990fb37325c285dfc96cdc1769ce66",
+      "start_time": "2026-02-19 08:25:00",
+      "end_time": "2026-02-19 09:20:00",
       "episode_number": "S10 E7",
       "show_category": "Intrattenimento",
       "show_description": "Osserviamo Jamie ed Adam lottare l'uno contro l'altro mentre Kari, Tory e Grant affrontano una sfida molto particolare."
     },
     {
-      "show_name": "Scandinavia: Frontiera Artica 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/scandinavia-frontiera-artica-1-tv.webp",
-      "start_time": "2026-02-18 21:15:00",
-      "end_time": "2026-02-18 22:15:00",
-      "episode_number": "S1 E1",
+      "show_name": "Ice Road Rescue",
+      "show_logo": "https://guidatv.sky.it/uuid/b7cba55d-2cc1-4187-a328-8e3a773d27c0/COVER_TITLE_TALL?territory=IT&version=2fc7a746-f9c9-320f-b263-45031218aa8b&w=600&h=800&md5ChecksumParam=9f1a8ae148210201a1b559a2b45f90cb",
+      "start_time": "2026-02-19 09:20:00",
+      "end_time": "2026-02-19 10:10:00",
+      "episode_number": "S6 E8",
       "show_category": "Mondo e Tendenze",
-      "show_description": "L'avventuriero Simon Reeve attraversa paesaggi mozzafiato, dalle gelide regioni artiche alla costa baltica. In questo modo, viaggia attraverso Danimarca, Svezia, Norvegia, Finlandia e Islanda e scopre un mondo pieno di contrasti."
+      "show_description": "Ice Road Rescue."
     },
     {
-      "show_name": "Scandinavia: Frontiera Artica 1^TV",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/scandinavia-frontiera-artica-1-tv.webp",
-      "start_time": "2026-02-18 22:15:00",
-      "end_time": "2026-02-18 23:20:00",
-      "episode_number": "S1 E2",
+      "show_name": "Chasing Monsters: A caccia di mostri",
+      "show_logo": "https://guidatv.sky.it/uuid/1047a164-54ce-4873-81cb-526c4513c174/cover?territory=IT&md5ChecksumParam=00976eaf5566ec4af7059e3de5a7b576",
+      "start_time": "2026-02-19 10:10:00",
+      "end_time": "2026-02-19 11:55:00",
+      "episode_number": "S3 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nelle giungle della Guyana, Cyril è alla ricerca di un enorme pesce dalla coda rossa. Per trovarlo, deve avventurarsi in zone particolarmente selvagge e poco sicure."
+    },
+    {
+      "show_name": "Ingegneria degli Epic Fail",
+      "show_logo": "https://guidatv.sky.it/uuid/6e9ad60c-26a5-44bb-b118-beb09cac65e0/cover?territory=IT&md5ChecksumParam=a2c4ff0450e7b41c45353c54db691f0e",
+      "start_time": "2026-02-19 11:55:00",
+      "end_time": "2026-02-19 12:45:00",
+      "episode_number": "S1 E5",
+      "show_category": "Altri Programmi",
+      "show_description": "Ingegneria degli Epic Fail."
+    },
+    {
+      "show_name": "Stupidi al quadrato",
+      "show_logo": "https://guidatv.sky.it/uuid/29d578b6-3229-4f17-924b-e4b20eff6bea/cover?territory=IT&md5ChecksumParam=2992952aa904312b7bf13562e6bba4bb",
+      "start_time": "2026-02-19 12:45:00",
+      "end_time": "2026-02-19 13:15:00",
+      "episode_number": "S7 E19",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il conduttore Dallas Campbell mostra video provenienti da tutto il mondo per analizzare forze legate al cosmo, come ad esempio la forza di gravita'. Quali sono i rischi?"
+    },
+    {
+      "show_name": "Stupidi al quadrato",
+      "show_logo": "https://guidatv.sky.it/uuid/fa21e852-a9e4-4608-9278-94173afa09dc/cover?territory=IT&md5ChecksumParam=2992952aa904312b7bf13562e6bba4bb",
+      "start_time": "2026-02-19 13:15:00",
+      "end_time": "2026-02-19 13:45:00",
+      "episode_number": "S7 E20",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il conduttore Dallas Campbell mostra video provenienti da tutto il mondo per spiegare il cosmo ed esplorare alcuni concetti come le orbite e la velocita' della luce."
+    },
+    {
+      "show_name": "Scandinavia: Frontiera Artica",
+      "show_logo": "https://guidatv.sky.it/uuid/f73bb7ef-d9b5-4392-bbab-83e2aeb324b0/COVER_TITLE_TALL?territory=IT&version=89db025b-73b1-3db9-b43a-64fe2736a008&w=600&h=800&md5ChecksumParam=f89da97efcb7be4d35807dc9e8b7e5d6",
+      "start_time": "2026-02-19 13:45:00",
+      "end_time": "2026-02-19 14:50:00",
+      "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
       "show_description": "L'avventuriero Simon Reeve attraversa paesaggi mozzafiato, dalle gelide regioni artiche alla costa baltica. In questo modo, viaggia attraverso Danimarca, Svezia, Norvegia, Finlandia e Islanda e scopre un mondo pieno di contrasti."
     },
     {
       "show_name": "Scandinavia: Frontiera Artica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Adventure/tomorrow/scandinavia-frontiera-artica.webp",
-      "start_time": "2026-02-18 23:20:00",
-      "end_time": "2026-02-19 00:20:00",
-      "episode_number": "S1 E1",
+      "show_logo": "https://guidatv.sky.it/uuid/09992b04-d5a3-4d55-bdce-d780402c5226/COVER_TITLE_TALL?territory=IT&version=89db025b-73b1-3db9-b43a-64fe2736a008&w=600&h=800&md5ChecksumParam=f89da97efcb7be4d35807dc9e8b7e5d6",
+      "start_time": "2026-02-19 14:50:00",
+      "end_time": "2026-02-19 15:55:00",
+      "episode_number": "S1 E2",
       "show_category": "Mondo e Tendenze",
       "show_description": "L'avventuriero Simon Reeve attraversa paesaggi mozzafiato, dalle gelide regioni artiche alla costa baltica. In questo modo, viaggia attraverso Danimarca, Svezia, Norvegia, Finlandia e Islanda e scopre un mondo pieno di contrasti."
+    },
+    {
+      "show_name": "Ice Vikings",
+      "show_logo": "https://guidatv.sky.it/uuid/50c90c83-48f2-4305-b513-792219078b1c/COVER_TITLE_TALL?territory=IT&version=cbb7d52c-3a9f-3760-88f1-a1616b6557a9&w=600&h=800&md5ChecksumParam=33a4e127149ae3f8c855c31f9979fcff",
+      "start_time": "2026-02-19 15:55:00",
+      "end_time": "2026-02-19 16:50:00",
+      "episode_number": "S2 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La stagione di pesca prende una brutta piega a causa del tempo instabile e delle condizioni difficili, mettendo Trever in una situazione precaria."
+    },
+    {
+      "show_name": "Chasing Monsters: A caccia di mostri",
+      "show_logo": "https://guidatv.sky.it/uuid/4ff562f7-bfe7-4fca-ae61-57a9f6035216/COVER_TITLE_TALL?territory=IT&version=a8539134-abd4-3d11-9c9e-a88da0496a9a&w=600&h=800&md5ChecksumParam=b60ecb0ef902d5c54013c2237f6942f3",
+      "start_time": "2026-02-19 16:50:00",
+      "end_time": "2026-02-19 17:45:00",
+      "episode_number": "S4 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "L'appassionato di pesca e avventuriero Cyril Chauquet esplora la costa infestata dagli squali del Sudafrica, alla ricerca del tonno pinna gialla, uno dei torpedo sottomarini più potenti in natura."
+    },
+    {
+      "show_name": "Stupidi al quadrato",
+      "show_logo": "https://guidatv.sky.it/uuid/ad0fe38d-16d9-4e37-8b2c-79327f512ee0/cover?territory=IT&md5ChecksumParam=4115f5fc4d69c7e1a1c222dfe4e0ea61",
+      "start_time": "2026-02-19 17:45:00",
+      "end_time": "2026-02-19 18:10:00",
+      "episode_number": "S8 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "L'attore e presentatore Dallas Campbell fornisce una spiegazione scientifica ai disastri piu' divertenti di sempre! Cosa accade quando si salta da un aereo senza paracadute?"
+    },
+    {
+      "show_name": "Stupidi al quadrato",
+      "show_logo": "https://guidatv.sky.it/uuid/92b51593-e1c2-49ed-b3bb-78fa9be2fbad/cover?territory=IT&md5ChecksumParam=4115f5fc4d69c7e1a1c222dfe4e0ea61",
+      "start_time": "2026-02-19 18:10:00",
+      "end_time": "2026-02-19 18:35:00",
+      "episode_number": "S8 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "L'attore e presentatore Dallas Campbell spiega cosa accade quando lanciamo una rete da pesca in maniera sbagliata o quando ci immergiamo in acque troppo basse."
+    },
+    {
+      "show_name": "MythBusters",
+      "show_logo": "https://guidatv.sky.it/uuid/b10d7228-1c20-4439-adc5-f060e0dba30f/COVER_TITLE_TALL?territory=IT&version=5410b4f3-6ec6-3c97-879b-1fc96737195d&w=600&h=800&md5ChecksumParam=b5990fb37325c285dfc96cdc1769ce66",
+      "start_time": "2026-02-19 18:35:00",
+      "end_time": "2026-02-19 20:20:00",
+      "episode_number": "S10 E8",
+      "show_category": "Intrattenimento",
+      "show_description": "Adam e Jamie sperimentano i modi possibili per evitare proiettili e atterrare sull'acqua da grandi altezze senza farsi male."
+    },
+    {
+      "show_name": "Ingegneria degli Epic Fail",
+      "show_logo": "https://guidatv.sky.it/uuid/b94b9e7c-5b8f-46b7-ac51-b7c83e42c4cd/cover?territory=IT&md5ChecksumParam=a2c4ff0450e7b41c45353c54db691f0e",
+      "start_time": "2026-02-19 20:20:00",
+      "end_time": "2026-02-19 21:15:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ingegneria degli Epic Fail."
+    },
+    {
+      "show_name": "Ingegneria del futuro 1^TV",
+      "show_logo": "https://guidatv.sky.it/uuid/51116ad6-a076-4d8f-b579-ef55900e7892/COVER_TITLE_TALL?territory=IT&version=8fee140d-4ea8-383f-a843-caa33b5b5567&w=600&h=800&md5ChecksumParam=8c4607e16d5bb6bb018bd2ef5d2a2e5c",
+      "start_time": "2026-02-19 21:15:00",
+      "end_time": "2026-02-19 22:10:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Gli ingegneri stanno lavorando per sfruttare l'enorme potenziale dell'energia eolica offshore al fine di sostituire i combustibili fossili."
+    },
+    {
+      "show_name": "Ingegneria del futuro",
+      "show_logo": "https://guidatv.sky.it/uuid/acb20698-d22c-4506-bec2-ed54489f780f/COVER_TITLE_TALL?territory=IT&version=8fee140d-4ea8-383f-a843-caa33b5b5567&w=600&h=800&md5ChecksumParam=8c4607e16d5bb6bb018bd2ef5d2a2e5c",
+      "start_time": "2026-02-19 22:10:00",
+      "end_time": "2026-02-19 23:05:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Prima sono stati quelli a elica, poi quelli a reazione, e ora stiamo entrando in una terza era dell'aviazione con l'arrivo degli aerei elettrici."
+    },
+    {
+      "show_name": "Ingegneria del futuro",
+      "show_logo": "https://guidatv.sky.it/uuid/51116ad6-a076-4d8f-b579-ef55900e7892/COVER_TITLE_TALL?territory=IT&version=8fee140d-4ea8-383f-a843-caa33b5b5567&w=600&h=800&md5ChecksumParam=8c4607e16d5bb6bb018bd2ef5d2a2e5c",
+      "start_time": "2026-02-19 23:05:00",
+      "end_time": "2026-02-19 23:55:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Gli ingegneri stanno lavorando per sfruttare l'enorme potenziale dell'energia eolica offshore al fine di sostituire i combustibili fossili."
+    },
+    {
+      "show_name": "Supercar: i grandi miti",
+      "show_logo": "https://guidatv.sky.it/uuid/675866d1-50d5-4992-b3d2-6402a29588ed/COVER_TITLE_TALL?territory=IT&version=320fce90-fd30-3e60-93aa-fba022b481dc&w=600&h=800&md5ChecksumParam=86bed7bb627a2d46b31a19a6785a95c8",
+      "start_time": "2026-02-19 23:55:00",
+      "end_time": "2026-02-20 00:45:00",
+      "episode_number": "S2 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La Maserati decide di costruire la sua prima nuova supercar in vent'anni. Resta da capire se sarà sufficiente a riportare il marchio ai vertici dell'industria automobilistica italiana."
     }
   ]
 }

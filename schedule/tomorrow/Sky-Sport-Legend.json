@@ -1,168 +1,177 @@
 {
   "channel_name": "Sky Sport Legend",
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "programs": [
     {
-      "show_name": "Bayern M. - Chelsea 2012",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/bayern-m-chelsea-2012.webp",
-      "start_time": "2026-02-18 00:00:00",
-      "end_time": "2026-02-18 01:35:00",
-      "episode_number": "S1 E45",
-      "show_category": "Sport",
-      "show_description": "UEFA Champions League Story: Bayern Monaco - Chelsea 2012. Finale - Il Bayern ha perso solo una delle partite giocate in casa. Il Chelsea con Di Matteo ha cambiato marcia vincendo la FA Cup ed ora sogna la prima Champions della sua storia. TC: Zancan-Marchegiani."
-    },
-    {
-      "show_name": "3tre, Il Numero Magico Dello Sci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 01:35:00",
-      "end_time": "2026-02-18 02:30:00",
+      "show_name": "La Valanga Azzurra",
+      "show_logo": "https://guidatv.sky.it/uuid/016365ad-8f7b-45c8-8c82-c0e8255163f0/cover?territory=IT&md5ChecksumParam=d07b2dbdc94e19d3bfc046f32a77a60e",
+      "start_time": "2026-02-19 00:00:00",
+      "end_time": "2026-02-19 00:40:00",
       "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "3tre, Il Numero Magico Dello Sci."
-    },
-    {
-      "show_name": "Basket: Virtus Bologna - AEK Atene",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/basket-virtus-bologna-aek-atene.webp",
-      "start_time": "2026-02-18 02:30:00",
-      "end_time": "2026-02-18 04:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Eurolega 1998, Finale - Virtus Bologna - AEK Atene."
-    },
-    {
-      "show_name": "Ibrahimovic: Io Zlatan",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/ibrahimovic-io-zlatan.webp",
-      "start_time": "2026-02-18 04:30:00",
-      "end_time": "2026-02-18 05:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Zlatan Ibrahimovic, ospite al Festival dello Sport di Trento, organizzato da Gazzetta dello Sport e Trentino, racconta la sua carriera con aneddoti e emozione."
-    },
-    {
-      "show_name": "Roberto Baggio: Pallone d'oro 1993",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/roberto-baggio-pallone-d-oro-1993.webp",
-      "start_time": "2026-02-18 05:30:00",
-      "end_time": "2026-02-18 07:45:00",
-      "episode_number": "S1 E1",
-      "show_category": "Sport",
-      "show_description": "90/10."
-    },
-    {
-      "show_name": "Atalanta - Bayer Leverkusen",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/atalanta-bayer-leverkusen.webp",
-      "start_time": "2026-02-18 07:45:00",
-      "end_time": "2026-02-18 09:45:00",
-      "episode_number": "S2023 E65",
-      "show_category": "Sport",
-      "show_description": "UEFA Europa League: Atalanta - Bayer Leverkusen. Nerazzurri in cerca del primo storico trofeo europeo. Hanno vinto i 2 precedenti. Terza finale europea dei tedeschi, una vinta (coppa UEFA) e una persa (UCL). TC: Marinozzi-Bergomi."
-    },
-    {
-      "show_name": "Flavia a New York, 10 anni dopo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/flavia-a-new-york-10-anni-dopo.webp",
-      "start_time": "2026-02-18 09:45:00",
-      "end_time": "2026-02-18 10:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Dieci anni dopo il trionfo allo US Open 2015, Flavia Pennetta rivive il sogno, l’impresa e l’addio che hanno segnato per sempre il tennis italiano."
-    },
-    {
-      "show_name": "Ribot, l'imbattibile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/ribot-l-imbattibile.webp",
-      "start_time": "2026-02-18 10:45:00",
-      "end_time": "2026-02-18 11:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Sky Sport celebra Ribot, uno dei cavalli da corsa piu' famosi della storia italiana e internazionale, imbattuto con 16 vittorie e mai una sconfitta in tutte le corse dal 1954 al 1956."
-    },
-    {
-      "show_name": "Ep1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/ep1.webp",
-      "start_time": "2026-02-18 11:30:00",
-      "end_time": "2026-02-18 12:15:00",
-      "episode_number": "S2026 E1",
-      "show_category": "Sport",
-      "show_description": "Guarda le interviste e ottieni l'analisi degli esperti del mondo del tennis."
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un documentario che ci racconta lo sci alpino negli anni Settanta ma, soprattutto, la mitica nazionale italiana di sci in quegli anni e i suoi successi straordinari."
     },
     {
       "show_name": "Messico 1970",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/messico-1970.webp",
-      "start_time": "2026-02-18 12:15:00",
-      "end_time": "2026-02-18 13:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5aa69e5e-ae95-4d61-b06e-c7dcc2cfa97d/cover?territory=IT&md5ChecksumParam=98aa0b372cc6a6fda48ed4a8f32a361d",
+      "start_time": "2026-02-19 00:40:00",
+      "end_time": "2026-02-19 02:15:00",
       "episode_number": "S1 E1",
       "show_category": "Sport",
       "show_description": "Fifa World Cup Official Films - Messico 1970."
     },
     {
-      "show_name": "Federico Buffa A Teatro: Otto Infinito",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/federico-buffa-a-teatro-otto-infinito.webp",
-      "start_time": "2026-02-18 13:45:00",
-      "end_time": "2026-02-18 16:15:00",
-      "episode_number": "",
+      "show_name": "Ep2 - Campione del mondo",
+      "show_logo": "https://guidatv.sky.it/uuid/43025dd0-0e4c-49b7-9ea4-66d8a27cbfed/cover?territory=IT&md5ChecksumParam=a35d3a4f6febb681f3451eebf8e4ef45",
+      "start_time": "2026-02-19 02:15:00",
+      "end_time": "2026-02-19 02:30:00",
+      "episode_number": "S1 E2",
       "show_category": "Sport",
-      "show_description": "Federico Buffa, la regista Marelli e il maestro Nidi aprono il backstage a Sky Sport: genesi, trama e legacy dello spettacolo su Kobe Bryant. Dal 7 febbraio a teatro."
+      "show_description": "Il Dovi è un adolescente molto promettente, ma serve una crescita progressiva per dimostrare il suo talento. Nel 2002 debutta nella classe 125 del Motomondiale e nel 2004 si laurea Campione del Mondo."
     },
     {
-      "show_name": "È stato tutto bello - Storia di Paolino e Pablito",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/stato-tutto-bello-storia-di-paolino-e-pablito.webp",
-      "start_time": "2026-02-18 16:15:00",
-      "end_time": "2026-02-18 18:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Walter Veltroni racconta in un documentario la vita e la carriera di Paolo Rossi, uno degli eroi della nazionale italiana che trionfo' ai Mondiali di calcio del 1982."
+      "show_name": "1996, L'anno Di Del Piero Parte 1",
+      "show_logo": "https://guidatv.sky.it/uuid/9809761c-e20f-4916-9da7-79f136528e3f/COVER_TITLE_TALL?territory=IT&version=67edcb97-48bb-31c7-b445-79245e3bb782&w=600&h=800&md5ChecksumParam=b45f3a37914dd9a7ad4fad547aa8ca83",
+      "start_time": "2026-02-19 02:30:00",
+      "end_time": "2026-02-19 03:15:00",
+      "episode_number": "S2025 E1",
+      "show_category": "Sport",
+      "show_description": "Prima parte del viaggio nel passato di Alessandro Del Piero, che ripercorre uno degli anni più iconici della sua carriera: il 1996."
     },
     {
-      "show_name": "Messina 1a Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/messina-1a-parte.webp",
-      "start_time": "2026-02-18 18:15:00",
-      "end_time": "2026-02-18 19:15:00",
-      "episode_number": "S1 E32",
+      "show_name": "Parte 2",
+      "show_logo": "https://guidatv.sky.it/uuid/003f07f5-eab3-4703-805c-e2c0853c930a/cover?territory=IT&md5ChecksumParam=c802a5b8056b1f1a03a19a7296014209",
+      "start_time": "2026-02-19 03:15:00",
+      "end_time": "2026-02-19 04:00:00",
+      "episode_number": "S2025 E2",
       "show_category": "Sport",
-      "show_description": "Dal silenzio alla scelta: Ettore Messina torna a parlare dopo le sue dimissioni. Tra vittorie e piazze che dividono, autoesigenza, pressioni e responsabilità di un allenatore."
+      "show_description": "Seconda parte del viaggio nel passato di Alessandro Del Piero, che ripercorre uno degli anni più iconici della sua carriera: il 1996."
     },
     {
       "show_name": "Tutti i gol di Del Piero in Champions",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/tutti-i-gol-di-del-piero-in-champions.webp",
-      "start_time": "2026-02-18 19:15:00",
-      "end_time": "2026-02-18 19:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/38927475-112a-401d-adfb-513b8d5c32a4/cover?territory=IT&md5ChecksumParam=f393afa07fa0871440d30eb3c0ba8306",
+      "start_time": "2026-02-19 04:00:00",
+      "end_time": "2026-02-19 04:15:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Una compilation di gol indimenticabili: riviviamo insieme le 42 reti che la bandiera della Juventus Alessandro Del Piero ha segnato in Champions League nel corso della sua carriera."
     },
     {
-      "show_name": "The Lost Dreamteam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 19:30:00",
-      "end_time": "2026-02-18 21:00:00",
-      "episode_number": "",
+      "show_name": "Federica Pellegrini",
+      "show_logo": "https://guidatv.sky.it/uuid/cb53496b-2689-4f48-8ef6-9ad17a496e8d/cover?territory=IT&md5ChecksumParam=23baff345b1d763a43212d5e42b726d7",
+      "start_time": "2026-02-19 04:15:00",
+      "end_time": "2026-02-19 05:10:00",
+      "episode_number": "S1 E27",
       "show_category": "Sport",
-      "show_description": "The Lost Dreamteam."
+      "show_description": "Prima olimpionica azzurra nella Hall of Fame del nuoto, Federica Pellegrini ha rappresentato record e ori, ma la sua eredità va oltre i titoli. Un dono per lo sport italiano."
     },
     {
-      "show_name": "Italia '90 - Quattro settimane che...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/italia-90-quattro-settimane-che.webp",
-      "start_time": "2026-02-18 21:00:00",
-      "end_time": "2026-02-18 22:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Maradona frena l'Italia di Schillaci, mentre il sogno di Gascoigne si infrange contro la Germania Ovest. Il Mondiale si avvia alla conclusione."
-    },
-    {
-      "show_name": "3a parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/3a-parte.webp",
-      "start_time": "2026-02-18 22:00:00",
-      "end_time": "2026-02-18 23:00:00",
-      "episode_number": "S1 E3",
+      "show_name": "Bjorn Borg",
+      "show_logo": "https://guidatv.sky.it/uuid/149b7dd8-c506-4d55-9d61-5cd3cd09f71d/cover?territory=IT&md5ChecksumParam=66bd068e97f1726a94de5d326231d74b",
+      "start_time": "2026-02-19 05:10:00",
+      "end_time": "2026-02-19 08:00:00",
+      "episode_number": "S1 E1",
       "show_category": "Sport",
-      "show_description": "LA MALEDIZIONE. Dopo l’addio di Chinaglia, la malattia di Maestrelli mina le fondamenta di quella squadra miracolo, che si sfalda, sconvolta della tragedia Re Cecconi."
+      "show_description": "Panatta & Bertolucci Tennis Heroes."
     },
     {
       "show_name": "La Valanga Azzurra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/la-valanga-azzurra.webp",
-      "start_time": "2026-02-18 23:00:00",
-      "end_time": "2026-02-19 00:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/016365ad-8f7b-45c8-8c82-c0e8255163f0/cover?territory=IT&md5ChecksumParam=d07b2dbdc94e19d3bfc046f32a77a60e",
+      "start_time": "2026-02-19 08:00:00",
+      "end_time": "2026-02-19 09:45:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Un documentario che ci racconta lo sci alpino negli anni Settanta ma, soprattutto, la mitica nazionale italiana di sci in quegli anni e i suoi successi straordinari."
+    },
+    {
+      "show_name": "George Weah: quel gol del 1996",
+      "show_logo": "https://guidatv.sky.it/uuid/0b2638c0-d745-4b4c-b60b-477c93c7b1d4/cover?territory=IT&md5ChecksumParam=4ab093f018b2a3b2e9d4b47443c46f67",
+      "start_time": "2026-02-19 09:45:00",
+      "end_time": "2026-02-19 10:15:00",
+      "episode_number": "S1 E5",
+      "show_category": "Sport",
+      "show_description": "90/10."
+    },
+    {
+      "show_name": "Ricky Hatton - Una Furia sul ring",
+      "show_logo": "https://guidatv.sky.it/uuid/c4a5e266-373f-436f-b5d0-10671c5ea13f/cover?territory=IT&md5ChecksumParam=5285bf22eef31bb4ce76572f83937044",
+      "start_time": "2026-02-19 10:15:00",
+      "end_time": "2026-02-19 12:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ricky Hatton - Una Furia sul ring - Un documentario su uno dei pugili più amati in Gran Bretagna."
+    },
+    {
+      "show_name": "Messina 1a Parte",
+      "show_logo": "https://guidatv.sky.it/uuid/84535815-8aa1-4c36-9dcc-f104cd023721/cover?territory=IT&md5ChecksumParam=2411629202fb47561dc998f69cc1a38a",
+      "start_time": "2026-02-19 12:00:00",
+      "end_time": "2026-02-19 13:00:00",
+      "episode_number": "S1 E32",
+      "show_category": "Sport",
+      "show_description": "Dal silenzio alla scelta: Ettore Messina torna a parlare dopo le sue dimissioni. Tra vittorie e piazze che dividono, autoesigenza, pressioni e responsabilità di un allenatore."
+    },
+    {
+      "show_name": "3tre, Il Numero Magico Dello Sci",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-19 13:00:00",
+      "end_time": "2026-02-19 14:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "3tre, Il Numero Magico Dello Sci."
+    },
+    {
+      "show_name": "Eurolega 2001: Bologna - Tau",
+      "show_logo": "https://guidatv.sky.it/uuid/1f3fcbff-45e0-4936-9d81-d532dfe189d0/cover?territory=IT&md5ChecksumParam=bb3e50fd9f92374fa1043871747a63ae",
+      "start_time": "2026-02-19 14:00:00",
+      "end_time": "2026-02-19 16:15:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Eurolega 2001: Bologna - Tau."
+    },
+    {
+      "show_name": "Kaka': tutti i gol in Champions League",
+      "show_logo": "https://guidatv.sky.it/uuid/96a109c2-5c38-45d4-bcb0-9d00b6e3d433/cover?territory=IT&md5ChecksumParam=c249fa9f01ce9130fb6903300ecfef14",
+      "start_time": "2026-02-19 16:15:00",
+      "end_time": "2026-02-19 16:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "La magia col Celtic, la storica doppietta di Old Trafford fino all'ultima perla contro l'Atletico: riviviamo tutti i gol di Kaka' in Champions League con le maglie di Milan e Real Madrid."
+    },
+    {
+      "show_name": "Michel Platini: Le Roi",
+      "show_logo": "https://guidatv.sky.it/uuid/bd2bee7f-f123-4132-b146-b740818bd001/cover?territory=IT&md5ChecksumParam=6fe8dc3aa3a562126953f8988c42ca67",
+      "start_time": "2026-02-19 16:30:00",
+      "end_time": "2026-02-19 19:15:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Michel Platini: Le Roi - Michel Platini: Le Roi."
+    },
+    {
+      "show_name": "Inghilterra 1966",
+      "show_logo": "https://guidatv.sky.it/uuid/8a7c5696-9345-45ca-8e17-65987477aa75/cover?territory=IT&md5ChecksumParam=486a54c02effcf36ce12d3cced457751",
+      "start_time": "2026-02-19 19:15:00",
+      "end_time": "2026-02-19 21:00:00",
+      "episode_number": "S1 E8",
+      "show_category": "Sport",
+      "show_description": "Fifa World Cup Official Films Collections."
+    },
+    {
+      "show_name": "Zidane: Il Calcio Ai Miei Piedi",
+      "show_logo": "https://guidatv.sky.it/uuid/8db9405b-08c3-48fe-bf66-0e4b72e1ca23/cover?territory=IT&md5ChecksumParam=1071c4bf5f8881c20492996947e8a3bb",
+      "start_time": "2026-02-19 21:00:00",
+      "end_time": "2026-02-19 22:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Zidane: Il Calcio Ai Miei Piedi."
+    },
+    {
+      "show_name": "Ibrahimovic: Io Zlatan",
+      "show_logo": "https://guidatv.sky.it/uuid/7730ef18-6f7e-42ef-8861-577173559afc/cover?territory=IT&md5ChecksumParam=11c2ba7a088a53fd012a448a1e51f3bf",
+      "start_time": "2026-02-19 22:00:00",
+      "end_time": "2026-02-20 01:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Zlatan Ibrahimovic, ospite al Festival dello Sport di Trento, organizzato da Gazzetta dello Sport e Trentino, racconta la sua carriera con aneddoti e emozione."
     }
   ]
 }

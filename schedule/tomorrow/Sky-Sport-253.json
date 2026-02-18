@@ -1,24 +1,33 @@
 {
   "channel_name": "Sky Sport  253",
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "programs": [
     {
-      "show_name": "Benfica - Real Madrid",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-253/tomorrow/benfica-real-madrid.webp",
-      "start_time": "2026-02-18 00:00:00",
-      "end_time": "2026-02-18 20:00:00",
-      "episode_number": "S2025 E145",
-      "show_category": "Sport",
-      "show_description": "Dall'Estadio da Luz di Lisbona, Portogallo."
-    },
-    {
       "show_name": "Olympiakos - Bayer Leverkusen",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-253/tomorrow/olympiakos-bayer-leverkusen.webp",
-      "start_time": "2026-02-18 20:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/28fe3416-bcf2-4225-9f7a-0886b3bdc91b/COVER_TITLE_TALL?territory=IT&version=83a24c8c-b905-3e15-9921-3e26e8fad1a4&w=600&h=800&md5ChecksumParam=db71aa806837191846a37eff5066fb8d",
+      "start_time": "2026-02-19 00:00:00",
       "end_time": "2026-02-19 18:00:00",
       "episode_number": "S2025 E149",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Karaiskakis del Pireo, Grecia."
+    },
+    {
+      "show_name": "Calcio Uefa Europa League - Ep. 72 - Calcio Uel Playoff (Andata) Fenerbahce/ Nottingham F. 19/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/833db73e-9637-4db5-84a4-3fd98e491fdc/cover?territory=IT&md5ChecksumParam=9c22f87f57e2dbf80193ac8248123e2a",
+      "start_time": "2026-02-19 18:00:00",
+      "end_time": "2026-02-19 20:55:00",
+      "episode_number": "S2025 E72",
+      "show_category": "Sport",
+      "show_description": "Segui la partita di UEFA Europa League in programma."
+    },
+    {
+      "show_name": "Calcio Uefa Europa League - Stag. Calcio Uefa Europa League 2025/2026 - Calcio Uel Playoff (Andata) Celtic/ Stoccarda 19/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/0f365afc-dd74-41c6-b8b6-97d5d6bf0093/cover?territory=IT&md5ChecksumParam=b04272e8991ee6518913e616afbb59c9",
+      "start_time": "2026-02-19 20:55:00",
+      "end_time": "2026-02-20 20:00:00",
+      "episode_number": "S2025 E75",
+      "show_category": "Sport",
+      "show_description": "Dal Celtic Park di Glasgow, Scozia."
     }
   ]
 }

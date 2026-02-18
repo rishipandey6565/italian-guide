@@ -1,249 +1,240 @@
 {
   "channel_name": "Focus",
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "programs": [
     {
+      "show_name": "Enigmi Alieni",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314091501003101/media/4/4/f016de16-8654-4181-b5da-6a8a8e8bb96f/72172386-dbe0-484f-be07-29a4f76d9d14.jpg",
+      "start_time": "2026-02-19 00:00:00",
+      "end_time": "2026-02-19 00:19:00",
+      "episode_number": "S12 E31",
+      "show_category": "Spazio",
+      "show_description": "Il Cile ospita il deserto più antico e misterioso della Terra, con figure giganti incise, enormi lastre di pietra e antiche tradizioni di visitatori \"celesti\"."
+    },
+    {
+      "show_name": "Enigmi Alieni",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314091501003501/media/4/4/f016de16-8654-4181-b5da-6a8a8e8bb96f/72172386-dbe0-484f-be07-29a4f76d9d14.jpg",
+      "start_time": "2026-02-19 00:19:00",
+      "end_time": "2026-02-19 01:09:00",
+      "episode_number": "S12 E35",
+      "show_category": "Spazio",
+      "show_description": "Mutano il loro aspetto proprio sotto i nostri occhi: creature che da un aspetto umano diventano bestie pericolose, in pipistrelli o in un'improvvisa nebbia."
+    },
+    {
+      "show_name": "La Storia Dell'universo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313182101000304/media/20/84/0820dd9c-f12a-459e-ab70-c47f49ff734f/17028f30-b6fc-4f76-a4fb-b00db9ba9e08.jpg",
+      "start_time": "2026-02-19 01:09:00",
+      "end_time": "2026-02-19 01:56:00",
+      "episode_number": "S4 E3",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "Cosa accadrebbe se la nostra luna improvvisamente sparisse? I tsunami cancellerebbero le coste."
+    },
+    {
+      "show_name": "I Grandi Enigmi Della Storia",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312656501000402/media/26/90/f0efda42-4373-4919-ac0b-a9667883b1ca/3e877503-11f6-4636-aace-1fc1dd2528b4.jpg",
+      "start_time": "2026-02-19 01:56:00",
+      "end_time": "2026-02-19 02:48:00",
+      "episode_number": "S1 E4",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Nel paesaggio peruviano c'è qualcosa di innaturale, di ultraterreno: monumentali geroglifici tracciati nel cuore del deserto."
+    },
+    {
+      "show_name": "Antico Egitto: Cronache Di Un Impero",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312519601000104/media/7/7/336739f4-cae0-4a1c-9b6e-3112a0326949/84947000-e514-4ad0-84ce-7e4abb21f265.jpg",
+      "start_time": "2026-02-19 02:48:00",
+      "end_time": "2026-02-19 03:39:00",
+      "episode_number": "S1 E1",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Il Nilo è l'ancora di salvezza dell'Egitto. La sua acqua trasforma i terreni aridi in terreni agricoli produttivi. Le prime case e insediamenti sono costruiti dal suo fango. Eppure, come è iniziato tutto? Dal 5000 a.C., i nomadi del deserto iniziarono a stabilirsi nella Valle del Nilo. il Nilo, divenuta la rotta commerciale più importante del paese. Senza questo fiume non sarebbe mai esistita una delle più affascinanti civiltà avanzate della storia."
+    },
+    {
+      "show_name": "A Tavola Con L'uomo Di Neanderthal",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312742101000101/media/20/84/99b95baa-4f9b-4510-b410-1bee25daead1/80b20141-5910-44e3-be6d-db1ca77dc3b9.jpg",
+      "start_time": "2026-02-19 03:39:00",
+      "end_time": "2026-02-19 04:31:00",
+      "episode_number": "",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Sin dalla notte dei tempi, il cibo è stato una delle preoccupazioni primarie dell'umanità. Oggi, nuove tecniche permettono di scoprire e comprendere sfaccettature dei nostri antenati fino ad allora totalmente sconosciute. Quindi cosa mangiavano i nostri antenati preistorici."
+    },
+    {
+      "show_name": "Le Piu' Grandi Meraviglie Naturali Del Mondo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312025001000404/media/11/11/d8e97681-a05b-4608-905d-fbdeb08dc44b/e4f11eb3-b52c-4b11-acb8-d02646ff6cb2.jpg",
+      "start_time": "2026-02-19 04:31:00",
+      "end_time": "2026-02-19 05:20:00",
+      "episode_number": "S1 E4",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "L'intera rete di vita che resiste sulla terra , deve la sua esistenza all'acqua. La maggior parte dell'acqua sul nostro pianeta è salata o trattenuta nel ghiaccio glaciale mentre il resto scorre liberamente sotto forma di fiumi e corsi d'acqua."
+    },
+    {
+      "show_name": "Wondrous & Wild",
+      "show_logo": "",
+      "start_time": "2026-02-19 05:20:00",
+      "end_time": "2026-02-19 06:09:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Animali in condizioni di pericolo, o di divertimento, o di apprendimento, comunque in particolari momenti della loro vita."
+    },
+    {
+      "show_name": "New Kids In The Wild",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311599201000302/media/6/6/4951693e-b160-4d47-981d-23b6848f6bfb/b110105d-2c97-4ed0-b26b-8ec5d5244f85.jpg",
+      "start_time": "2026-02-19 06:09:00",
+      "end_time": "2026-02-19 07:00:00",
+      "episode_number": "S1 E3",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Pochi cuccioli di ghepardo superano il primo anno di vita. Usana riuscirà a sopravvivere."
+    },
+    {
+      "show_name": "Viaggiatori Uno Sguardo Sul Mondo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305857401005201/media/22/86/6ce1216a-49df-4b95-a893-61bdfab593c2/6c2e69a2-f71c-4ad5-b405-7773cbcbf5bc.jpg",
+      "start_time": "2026-02-19 07:00:00",
+      "end_time": "2026-02-19 07:22:00",
+      "episode_number": "S1 E52",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "Un appuntamento nel bel mezzo del Mediterraneo dove brillano due bellezze delle Baleari: Ibiza e Formentera."
+    },
+    {
+      "show_name": "Unearthed La Storia Dalle Fondamenta",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309299101000804/media/29/93/8b0c6785-5531-4877-bd10-f04e06bcea46/1b8bb042-28ea-4d96-b0c5-5740a3514f91.jpg",
+      "start_time": "2026-02-19 07:22:00",
+      "end_time": "2026-02-19 08:04:00",
+      "episode_number": "S2 E8",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "La grande leggenda dell'amore perduto dietro la costruzione del Taj Mahal: cosa rappresenta la simbologia, che allude a un credo religioso diverso dall'induismo, nascosta nel mausoleo costruito da Shah Jahan? Quale messaggio voleva mandare il sovrano che ha fatto erigere questo enorme monumento in onore di sua moglie."
+    },
+    {
+      "show_name": "Fuori Le Prove! Indagini Ai Confini Della Realta'",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313181901000403/media/5/5/0261354d-27d9-4453-af39-208a02c34616/49c2ca42-018d-4e49-9965-8e651ca98dcd.jpg",
+      "start_time": "2026-02-19 08:04:00",
+      "end_time": "2026-02-19 08:59:00",
+      "episode_number": "S3 E4",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "Una telecamera da trail nel Michigan cattura immagini dell'inafferrabile sasquatch; un grande stormo di merli precipita verso la morte in Messico; un fantasma spettrale e una leggenda fantasma filippina."
+    },
+    {
+      "show_name": "I Grandi Enigmi Della Storia",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312656501000402/media/26/90/f0efda42-4373-4919-ac0b-a9667883b1ca/3e877503-11f6-4636-aace-1fc1dd2528b4.jpg",
+      "start_time": "2026-02-19 08:59:00",
+      "end_time": "2026-02-19 10:09:00",
+      "episode_number": "S1 E4",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Nel paesaggio peruviano c'è qualcosa di innaturale, di ultraterreno: monumentali geroglifici tracciati nel cuore del deserto."
+    },
+    {
+      "show_name": "Antico Egitto: Cronache Di Un Impero",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312519601000104/media/7/7/336739f4-cae0-4a1c-9b6e-3112a0326949/84947000-e514-4ad0-84ce-7e4abb21f265.jpg",
+      "start_time": "2026-02-19 10:09:00",
+      "end_time": "2026-02-19 11:16:00",
+      "episode_number": "S1 E1",
+      "show_category": "Storia Miti e Religioni",
+      "show_description": "Il Nilo è l'ancora di salvezza dell'Egitto. La sua acqua trasforma i terreni aridi in terreni agricoli produttivi. Le prime case e insediamenti sono costruiti dal suo fango. Eppure, come è iniziato tutto? Dal 5000 a.C., i nomadi del deserto iniziarono a stabilirsi nella Valle del Nilo. il Nilo, divenuta la rotta commerciale più importante del paese. Senza questo fiume non sarebbe mai esistita una delle più affascinanti civiltà avanzate della storia."
+    },
+    {
+      "show_name": "La Storia Dell'universo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313182101000404/media/20/84/0820dd9c-f12a-459e-ab70-c47f49ff734f/17028f30-b6fc-4f76-a4fb-b00db9ba9e08.jpg",
+      "start_time": "2026-02-19 11:16:00",
+      "end_time": "2026-02-19 12:14:00",
+      "episode_number": "S4 E4",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "Nell'universo di guerre stellari, la stella della morte è l'arma di distruzione di massa definitiva capace di annientare interi pianeti."
+    },
+    {
+      "show_name": "Cose Di Questo Mondo",
+      "show_logo": "",
+      "start_time": "2026-02-19 12:14:00",
+      "end_time": "2026-02-19 13:13:00",
+      "episode_number": "S3 E8",
+      "show_category": "Scienza e Tecnologia",
+      "show_description": "La grande fuga di El Chapo dalla prigione di Altiplano fuori Citta' del Messico; un cerchio di colori nel deserto del Sahara."
+    },
+    {
+      "show_name": "Le Piu' Grandi Meraviglie Naturali Del Mondo",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312025001000404/media/11/11/d8e97681-a05b-4608-905d-fbdeb08dc44b/e4f11eb3-b52c-4b11-acb8-d02646ff6cb2.jpg",
+      "start_time": "2026-02-19 13:13:00",
+      "end_time": "2026-02-19 14:17:00",
+      "episode_number": "S1 E4",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "L'intera rete di vita che resiste sulla terra , deve la sua esistenza all'acqua. La maggior parte dell'acqua sul nostro pianeta è salata o trattenuta nel ghiaccio glaciale mentre il resto scorre liberamente sotto forma di fiumi e corsi d'acqua."
+    },
+    {
+      "show_name": "Wondrous & Wild",
+      "show_logo": "",
+      "start_time": "2026-02-19 14:17:00",
+      "end_time": "2026-02-19 15:22:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Animali in condizioni di pericolo, o di divertimento, o di apprendimento, comunque in particolari momenti della loro vita."
+    },
+    {
       "show_name": "Presenze Aliene",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/presenze-aliene.webp",
-      "start_time": "2026-02-18 00:00:00",
-      "end_time": "2026-02-18 00:30:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313890001000704/media/7/7/8145753e-56f5-41e2-956b-6c314d8e26a8/91cd38f8-f08a-456e-9ee5-f86ffc5a5ae0.jpg",
+      "start_time": "2026-02-19 15:22:00",
+      "end_time": "2026-02-19 16:20:00",
       "episode_number": "S1 E7",
       "show_category": "Spazio",
       "show_description": "Nel deserto del Nuovo Messico si intrecciano avvistamenti di UFO, inspiegabili mutilazioni di bestiame e occulte attività militari. Il veterano Paul Bennewitz rileva segnali radio dal sottosuolo e ipotizza l'esistenza di una base aliena segreta. Ancora oggi, il Nuovo Messico resta un punto caldo per chi indaga sul confine tra scienza, cospirazione ed entità extraterrestri."
     },
     {
       "show_name": "Presenze Aliene",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/presenze-aliene.webp",
-      "start_time": "2026-02-18 00:30:00",
-      "end_time": "2026-02-18 01:24:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313890001000804/media/7/7/8145753e-56f5-41e2-956b-6c314d8e26a8/91cd38f8-f08a-456e-9ee5-f86ffc5a5ae0.jpg",
+      "start_time": "2026-02-19 16:20:00",
+      "end_time": "2026-02-19 17:19:00",
       "episode_number": "S1 E8",
       "show_category": "Spazio",
       "show_description": "Lo Stato della California sembra essere una delle mete predilette dai visitatori alieni. Tra i misteriosi oggetti che fluttuano al largo delle sue coste e le antiche civiltà perdute che abitano le profondità del Monte Shasta, i ricercatori puntano i radiotelescopi verso lo spazio, nella speranza di captare segnali che dimostrino l'esistenza di forme di vita extraterrestri."
     },
     {
-      "show_name": "La Storia Dell'universo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/la-storia-dell-universo.webp",
-      "start_time": "2026-02-18 01:24:00",
-      "end_time": "2026-02-18 02:07:00",
-      "episode_number": "S4 E2",
-      "show_category": "Scienza e Tecnologia",
-      "show_description": "Un'enorme pioggia di asteroidi si schianta sulla terra, i pianeti riducono in polvere interi mondi. L'universo è pieno di esplosioni, scopriamo le 10 più grandi."
-    },
-    {
-      "show_name": "I Grandi Enigmi Della Storia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/i-grandi-enigmi-della-storia.webp",
-      "start_time": "2026-02-18 02:07:00",
-      "end_time": "2026-02-18 03:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Per secoli l'umanità ha dato la caccia alle più sacre reliquie della Bibbia ma nessun manufatto è stato mai considerato più potente e misterioso dell'Arca dell'alleanza. Molti l'hanno cercata invano.. è mai esistita."
-    },
-    {
-      "show_name": "Verso L'aldila' Riti, Misteri E Credenze Degli Antichi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/verso-l-aldila-riti-misteri-e-credenze-degli-antichi.webp",
-      "start_time": "2026-02-18 03:00:00",
-      "end_time": "2026-02-18 03:45:00",
-      "episode_number": "S1 E6",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Cosa succede dopo la morte? Indaghiamo sui segreti delle antiche civiltà usando il loro approccio alla morte e all'aldilà."
-    },
-    {
-      "show_name": "Viaggiatori Uno Sguardo Sul Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/viaggiatori-uno-sguardo-sul-mondo.webp",
-      "start_time": "2026-02-18 03:45:00",
-      "end_time": "2026-02-18 04:08:00",
-      "episode_number": "S1 E50",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Yucatan: la terra dell'eterno intreccio tra passato e futuro, fatta di mille colori, natura e tradizioni. 40 mila metri quadri di bellezza e di cultura Maya tra resti antichi ed edifici coloniali."
-    },
-    {
-      "show_name": "Le Piu' Grandi Meraviglie Naturali Del Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/le-piu-grandi-meraviglie-naturali-del-mondo.webp",
-      "start_time": "2026-02-18 04:08:00",
-      "end_time": "2026-02-18 04:57:00",
-      "episode_number": "S1 E3",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Il lento e costante movimento del ghiaccio nelle regioni più fredde del mondo. Il dieci per cento della terra è coperto di ghiaccio glaciale."
-    },
-    {
-      "show_name": "Collemboli L'armata Sotterranea",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/collemboli-l-armata-sotterranea.webp",
-      "start_time": "2026-02-18 04:57:00",
-      "end_time": "2026-02-18 05:48:00",
-      "episode_number": "",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Piccoli animali simili a insetti vivono alla superficie del suolo. La loro vita nelle quattro stagioni, la sopravvivenza, la ricerca di cibo, la muta, la stagione degli amori e il ruolo come indicatori dell'inquinamento ambientale."
-    },
-    {
-      "show_name": "Green Storytellers",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/green-storytellers.webp",
-      "start_time": "2026-02-18 05:48:00",
-      "end_time": "2026-02-18 06:09:00",
-      "episode_number": "S1 E7",
-      "show_category": "Documentario",
-      "show_description": "È possibile proteggere i mari dallo sfruttamento? Sea Shepherd lotta nelle acque di tutto il mondo a favore degli ecosistemi marini. Saliremo a bordo della Conrad per un'indimenticabile missione di contrasto alla pesca illegale."
-    },
-    {
-      "show_name": "New Kids In The Wild",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/new-kids-in-the-wild.webp",
-      "start_time": "2026-02-18 06:09:00",
-      "end_time": "2026-02-18 07:00:00",
-      "episode_number": "S1 E2",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Per un cucciolo di leone crescere è un'avventura enorme. Soltanto la metà dei cuccioli superano il primo anno di età nello spietato deserto africano."
-    },
-    {
-      "show_name": "Unearthed La Storia Dalle Fondamenta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/unearthed-la-storia-dalle-fondamenta.webp",
-      "start_time": "2026-02-18 07:00:00",
-      "end_time": "2026-02-18 07:46:00",
-      "episode_number": "S2 E7",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Stonehenge, oggi importante sito archeologico, era il principale centro culturale e commerciale della Gran Bretagna preistorica. Nell'arco di cinque millenni, Stonehenge ebbe molti usi: fu un tempio celeste per una cerchia ristretta di persone, nonché un centro per il commercio, poi divenne un luogo in cui si commemoravano i defunti e, durante il tardo periodo anglosassone, una fossa comune per i criminali, esclusi dai cimiteri cristiani presenti negli insediamenti anglosassoni."
-    },
-    {
       "show_name": "Fuori Le Prove! Indagini Ai Confini Della Realta'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/fuori-le-prove-indagini-ai-confini-della-realta.webp",
-      "start_time": "2026-02-18 07:46:00",
-      "end_time": "2026-02-18 08:41:00",
-      "episode_number": "S3 E3",
-      "show_category": "Scienza e Tecnologia",
-      "show_description": "Possibili avvistamenti di una temuta creatura filippina conosciuta come Aswang; un lupo potrebbe aggirarsi nei boschi del Saskatchewan; la notte in cui è stato avvistato un UFO a Montreal."
-    },
-    {
-      "show_name": "I Grandi Enigmi Della Storia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/i-grandi-enigmi-della-storia.webp",
-      "start_time": "2026-02-18 08:41:00",
-      "end_time": "2026-02-18 09:53:00",
-      "episode_number": "S1 E3",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Per secoli l'umanità ha dato la caccia alle più sacre reliquie della Bibbia ma nessun manufatto è stato mai considerato più potente e misterioso dell'Arca dell'alleanza. Molti l'hanno cercata invano.. è mai esistita."
-    },
-    {
-      "show_name": "Verso L'aldila' Riti, Misteri E Credenze Degli Antichi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/verso-l-aldila-riti-misteri-e-credenze-degli-antichi.webp",
-      "start_time": "2026-02-18 09:53:00",
-      "end_time": "2026-02-18 10:54:00",
-      "episode_number": "S1 E6",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Cosa succede dopo la morte? Indaghiamo sui segreti delle antiche civiltà usando il loro approccio alla morte e all'aldilà."
-    },
-    {
-      "show_name": "La Storia Dell'universo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/la-storia-dell-universo.webp",
-      "start_time": "2026-02-18 10:54:00",
-      "end_time": "2026-02-18 11:52:00",
-      "episode_number": "S4 E3",
-      "show_category": "Scienza e Tecnologia",
-      "show_description": "Cosa accadrebbe se la nostra luna improvvisamente sparisse? I tsunami cancellerebbero le coste."
-    },
-    {
-      "show_name": "Cose Di Questo Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 11:52:00",
-      "end_time": "2026-02-18 12:51:00",
-      "episode_number": "S3 E7",
-      "show_category": "Scienza e Tecnologia",
-      "show_description": "Una svastica gigante sinistra appare in una foresta in Germania. Marcature misteriose sono individuate in un angolo isolato dell'Antartide."
-    },
-    {
-      "show_name": "Le Piu' Grandi Meraviglie Naturali Del Mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/le-piu-grandi-meraviglie-naturali-del-mondo.webp",
-      "start_time": "2026-02-18 12:51:00",
-      "end_time": "2026-02-18 13:55:00",
-      "episode_number": "S1 E3",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Il lento e costante movimento del ghiaccio nelle regioni più fredde del mondo. Il dieci per cento della terra è coperto di ghiaccio glaciale."
-    },
-    {
-      "show_name": "Collemboli L'armata Sotterranea",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/collemboli-l-armata-sotterranea.webp",
-      "start_time": "2026-02-18 13:55:00",
-      "end_time": "2026-02-18 15:02:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313181901000503/media/5/5/0261354d-27d9-4453-af39-208a02c34616/49c2ca42-018d-4e49-9965-8e651ca98dcd.jpg",
+      "start_time": "2026-02-19 17:19:00",
+      "end_time": "2026-02-19 18:14:00",
       "episode_number": "",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Piccoli animali simili a insetti vivono alla superficie del suolo. La loro vita nelle quattro stagioni, la sopravvivenza, la ricerca di cibo, la muta, la stagione degli amori e il ruolo come indicatori dell'inquinamento ambientale."
-    },
-    {
-      "show_name": "Imhotep: Il Grande Architetto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/imhotep-il-grande-architetto.webp",
-      "start_time": "2026-02-18 15:02:00",
-      "end_time": "2026-02-18 16:10:00",
-      "episode_number": "S1 E1",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "L'architetto, medico, astronomo, poeta e filosofo Imhotep resta un personaggio avvolto nel mistero. Durante la ricerca della sua tomba, il geniale dottor Hawass porterà alla luce una mummia antica ricoperta di gioielli d'oro."
-    },
-    {
-      "show_name": "Imhotep: Il Grande Architetto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/imhotep-il-grande-architetto.webp",
-      "start_time": "2026-02-18 16:10:00",
-      "end_time": "2026-02-18 17:17:00",
-      "episode_number": "S1 E2",
-      "show_category": "Storia Miti e Religioni",
-      "show_description": "Nuovi sepolcri nella necropoli di Saqqara. Dall'analisi delle mummie e degli oggetti presenti nelle tombe si cerca di identificare i defunti e ricostruire la loro storia e capire se ci stiamo avvicinando al sito della sepoltura di Imhotep. Se invece Imhotep avesse progettato il suo sepolcro in modo da riposare in pace per l'eternità senza essere disturbato dagli studiosi."
-    },
-    {
-      "show_name": "Fuori Le Prove! Indagini Ai Confini Della Realta'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/fuori-le-prove-indagini-ai-confini-della-realta.webp",
-      "start_time": "2026-02-18 17:17:00",
-      "end_time": "2026-02-18 18:12:00",
-      "episode_number": "S3 E4",
       "show_category": "Scienza e Tecnologia",
-      "show_description": "Una telecamera da trail nel Michigan cattura immagini dell'inafferrabile sasquatch; un grande stormo di merli precipita verso la morte in Messico; un fantasma spettrale e una leggenda fantasma filippina."
-    },
-    {
-      "show_name": "I Signori Della Notte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/i-signori-della-notte.webp",
-      "start_time": "2026-02-18 18:12:00",
-      "end_time": "2026-02-18 19:18:00",
-      "episode_number": "",
-      "show_category": "Il regno Animale",
-      "show_description": "Rapaci notturni con la capacità di sentire, vedere e volare nell'oscurità dimostrandosi predatori eccezionali di importanza ecologica cruciale poiché uccidono grandi quantità di roditori e insetti. Ogni gufo caccia in diversi ecosistemi tenendo a bada le popolazioni di topi, conigli e insetti."
-    },
-    {
-      "show_name": "Chinijo Le Isole Degli Uccelli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/chinijo-le-isole-degli-uccelli.webp",
-      "start_time": "2026-02-18 19:18:00",
-      "end_time": "2026-02-18 20:23:00",
-      "episode_number": "",
-      "show_category": "Meraviglie della Natura",
-      "show_description": "Sulle orme del resto delle isole Canarie, l'arcipelago Chinijo deve le sue origini alle forze vulcaniche. A prima vista, potrebbe sembrare che nessuna forma di vita possa prosperare in un paesaggio così austero. Eppure, la vita ha trovato la sua strada qui, trasportata dal vento."
-    },
-    {
-      "show_name": "Enigmi Alieni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/enigmi-alieni.webp",
-      "start_time": "2026-02-18 20:23:00",
-      "end_time": "2026-02-18 21:20:00",
-      "episode_number": "S14 E7",
-      "show_category": "Spazio",
-      "show_description": "In un libro di 3000 anni fa è contenuta la minuziosa descrizione di un velivolo estremamente avanzato in grado di viaggiare sia in cielo che in terra."
+      "show_description": "Un avvistamento UFO nei cieli del Kansas; il filmato di quello che sembrerebbe essere un Bigfoot, avvistato sui Monti Marble, in California; il filmato di uno speleologo che ha registrato strani rumori all'interno di una miniera in Australia."
     },
     {
       "show_name": "Meraviglie Della Terra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/meraviglie-della-terra.webp",
-      "start_time": "2026-02-18 21:20:00",
-      "end_time": "2026-02-18 22:21:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311525001000204/media/25/89/5059ab24-55d5-4059-a922-d7ec1acae96a/af006f84-7946-4df5-a784-a5c1cfa6e823.jpg",
+      "start_time": "2026-02-19 18:14:00",
+      "end_time": "2026-02-19 19:16:00",
       "episode_number": "S3 E2",
       "show_category": "Meraviglie della Natura",
       "show_description": "Nel cuore selvaggio del Messico centrale si estende uno straordinario ambiente montano, con la maggiore varietà di ecosistemi delle Americhe."
     },
     {
       "show_name": "Paradisi Selvaggi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/paradisi-selvaggi.webp",
-      "start_time": "2026-02-18 22:21:00",
-      "end_time": "2026-02-18 23:29:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313140901000202/media/18/82/23eb143e-15f5-4391-a2d9-ce16153854d2/175811d4-4fe9-4119-a281-b65ceca7277a.jpg",
+      "start_time": "2026-02-19 19:16:00",
+      "end_time": "2026-02-19 20:23:00",
       "episode_number": "S1 E2",
       "show_category": "Meraviglie della Natura",
       "show_description": "Habitat incontaminati e variegati, una terra ricca di meraviglie e contrasti: benvenuti in Turchia."
     },
     {
       "show_name": "Enigmi Alieni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Focus/tomorrow/enigmi-alieni.webp",
-      "start_time": "2026-02-18 23:29:00",
-      "end_time": "2026-02-19 00:24:00",
-      "episode_number": "S12 E31",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313797201000402/media/12/12/34d9aa63-c951-43c7-b6d4-2a1a65447dcf/f6d9f815-b714-4288-b9f0-f568e61fa538.jpg",
+      "start_time": "2026-02-19 20:23:00",
+      "end_time": "2026-02-19 21:20:00",
+      "episode_number": "S1 E4",
       "show_category": "Spazio",
-      "show_description": "Il Cile ospita il deserto più antico e misterioso della Terra, con figure giganti incise, enormi lastre di pietra e antiche tradizioni di visitatori \"celesti\"."
+      "show_description": "Incredibili monumenti di pietra eretti migliaia di anni fa; l'ingegneria di precisione dietro agli obelischi è davvero straordinaria."
+    },
+    {
+      "show_name": "Freedom Oltre Il Confine",
+      "show_logo": "",
+      "start_time": "2026-02-19 21:20:00",
+      "end_time": "2026-02-19 23:32:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Avventura, scoperta e indagine: un viaggio alla ricerca della conoscenza per scoprire l'ignoto e farsi stupire dalle meraviglie della natura e della storia."
+    },
+    {
+      "show_name": "Vita E Natura D'acqua Dolce",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314071801000304/media/20/84/a2d17ce2-eb56-4b46-81d7-719b14eaa622/be75712c-454d-4f28-bf30-219b557f7c3d.jpg",
+      "start_time": "2026-02-19 23:32:00",
+      "end_time": "2026-02-20 00:38:00",
+      "episode_number": "S1 E3",
+      "show_category": "Meraviglie della Natura",
+      "show_description": "l'Africa è un continente selvaggio con foreste pluviali impenetrabili e deserti che nella stagione delle piogge si trasformano. L'acqua dolce cambia tutto."
     }
   ]
 }

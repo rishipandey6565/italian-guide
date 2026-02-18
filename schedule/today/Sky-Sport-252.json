@@ -1,24 +1,24 @@
 {
   "channel_name": "Sky Sport  252",
-  "date": "2026-02-17",
+  "date": "2026-02-18",
   "programs": [
     {
-      "show_name": "Pergolettese - Union Brescia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/today/pergolettese-union-brescia.webp",
-      "start_time": "2026-02-17 00:00:00",
-      "end_time": "2026-02-17 20:00:00",
-      "episode_number": "S2025 E278",
-      "show_category": "Sport",
-      "show_description": "Dallo stadio Giuseppe Voltini di Crema, Lombardia, Italia."
-    },
-    {
       "show_name": "Borussia Dortmund - Atalanta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/today/borussia-dortmund-atalanta.webp",
-      "start_time": "2026-02-17 20:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/eb189a71-94b2-45e0-bed9-8d1ca50dc293/cover?territory=IT&md5ChecksumParam=a4d0ee8fcad308070c4aa42b13f615d9",
+      "start_time": "2026-02-18 00:00:00",
       "end_time": "2026-02-18 20:00:00",
       "episode_number": "S2025 E144",
       "show_category": "Sport",
       "show_description": "Dal Signal Iduna Park di Dortmund, Germania."
+    },
+    {
+      "show_name": "Club Bruges - Atletico Madrid",
+      "show_logo": "https://guidatv.sky.it/uuid/395857f4-968c-4e86-b4ff-2388dc3b13a6/cover?territory=IT&md5ChecksumParam=3a97fcbff7197810556b7b107b16adf9",
+      "start_time": "2026-02-18 20:00:00",
+      "end_time": "2026-02-19 18:00:00",
+      "episode_number": "S2025 E148",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Jan Breydel di Bruges, Belgio."
     }
   ]
 }
