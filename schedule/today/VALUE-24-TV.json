@@ -1,717 +1,618 @@
 {
   "channel_name": "VALUE 24 TV",
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "programs": [
     {
-      "show_name": "Aggiudicato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 00:00:00",
-      "end_time": "2026-02-18 00:00:04",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "I segreti delle aste giudiziarie immobiliari illustrate da esperti del settore."
-    },
-    {
-      "show_name": "Business Show",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 00:00:04",
-      "end_time": "2026-02-18 00:26:27",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Tutto quello che bisogna conoscere sullla gestione del proprio business."
-    },
-    {
-      "show_name": "Caffe Startup",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 00:26:27",
-      "end_time": "2026-02-18 00:53:32",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "In un lussuoso attico nel centro di Firenze, le migliori startup saranno intervistate divulgando la loro storia di successo."
-    },
-    {
-      "show_name": "Il Salone del Franchsing",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 00:53:32",
-      "end_time": "2026-02-18 01:48:49",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il racconto dei protagonisti."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 01:48:49",
-      "end_time": "2026-02-18 01:55:03",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "Expo Ferroviaria",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 01:55:03",
-      "end_time": "2026-02-18 02:33:21",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "I protagonisti del trasporto."
-    },
-    {
-      "show_name": "Il Festival dell economia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 02:33:21",
-      "end_time": "2026-02-18 03:20:31",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "I protagonisti riuniti a Trento."
-    },
-    {
-      "show_name": "Zeus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 03:20:31",
-      "end_time": "2026-02-18 03:44:39",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Appuntamento quotidiano con il Business Economia Finanza e Imprenditorialita."
-    },
-    {
-      "show_name": "Il Salone del Franchsing",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 03:44:39",
-      "end_time": "2026-02-18 04:39:56",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il racconto dei protagonisti."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 04:39:56",
-      "end_time": "2026-02-18 04:50:54",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 04:50:54",
-      "end_time": "2026-02-18 04:54:22",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 04:54:22",
-      "end_time": "2026-02-18 04:58:18",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 04:58:18",
-      "end_time": "2026-02-18 05:01:40",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 05:01:40",
-      "end_time": "2026-02-18 05:02:40",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 05:02:40",
-      "end_time": "2026-02-18 05:03:29",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 05:03:29",
-      "end_time": "2026-02-18 05:16:49",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "Aggiudicato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 05:16:49",
-      "end_time": "2026-02-18 05:38:17",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "I segreti delle aste giudiziarie immobiliari illustrate da esperti del settore."
-    },
-    {
-      "show_name": "Il Bivio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 05:38:17",
-      "end_time": "2026-02-18 05:50:26",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Il costo della scelta sbagliata."
-    },
-    {
-      "show_name": "Speciale Salone del Risparmio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 05:50:26",
-      "end_time": "2026-02-18 06:17:46",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Speciale Salone del Risparmio."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 06:17:46",
-      "end_time": "2026-02-18 06:47:04",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 06:47:04",
-      "end_time": "2026-02-18 06:47:30",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 06:47:30",
-      "end_time": "2026-02-18 06:47:56",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 06:47:56",
-      "end_time": "2026-02-18 06:51:22",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 06:51:22",
-      "end_time": "2026-02-18 06:53:07",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "Aggiudicato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 06:53:07",
-      "end_time": "2026-02-18 07:14:25",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "I segreti delle aste giudiziarie immobiliari illustrate da esperti del settore."
-    },
-    {
-      "show_name": "B2B Digital Insight",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 07:14:25",
-      "end_time": "2026-02-18 07:27:29",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "La trasmissione che esplora gli aspetti fondamentali del Marketing B2B."
-    },
-    {
-      "show_name": "B2B Digital Insight",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 07:27:29",
-      "end_time": "2026-02-18 07:41:54",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "La trasmissione che esplora gli aspetti fondamentali del Marketing B2B."
-    },
-    {
       "show_name": "Business Leader Summit",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 07:41:54",
-      "end_time": "2026-02-18 08:32:41",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 00:00:00",
+      "end_time": "2026-02-19 00:36:31",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Le evoluzioni del futuro -  CXO a confronto."
     },
     {
-      "show_name": "Business Show",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 08:32:41",
-      "end_time": "2026-02-18 08:59:54",
+      "show_name": "Expo Ferroviaria",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 00:36:31",
+      "end_time": "2026-02-19 01:14:50",
       "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Tutto quello che bisogna conoscere sullla gestione del proprio business."
-    },
-    {
-      "show_name": "Business Show",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 08:59:54",
-      "end_time": "2026-02-18 09:26:49",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Tutto quello che bisogna conoscere sullla gestione del proprio business."
+      "show_category": "Mondo e Tendenze",
+      "show_description": "I protagonisti del trasporto."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 09:26:49",
-      "end_time": "2026-02-18 09:37:47",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 01:14:50",
+      "end_time": "2026-02-19 01:44:33",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Informazione a cura di Adnkronos."
     },
     {
-      "show_name": "Caffe Startup",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 09:37:47",
-      "end_time": "2026-02-18 10:04:52",
+      "show_name": "Aggiudicato",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 01:44:33",
+      "end_time": "2026-02-19 02:10:52",
       "episode_number": "",
       "show_category": "Intrattenimento",
-      "show_description": "In un lussuoso attico nel centro di Firenze, le migliori startup saranno intervistate divulgando la loro storia di successo."
+      "show_description": "I segreti delle aste giudiziarie immobiliari illustrate da esperti del settore."
     },
     {
-      "show_name": "Il Salone del Franchsing",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 10:04:52",
-      "end_time": "2026-02-18 11:00:09",
+      "show_name": "B2B Digital Insight",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 02:10:52",
+      "end_time": "2026-02-19 02:25:17",
       "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il racconto dei protagonisti."
+      "show_category": "Intrattenimento",
+      "show_description": "La trasmissione che esplora gli aspetti fondamentali del Marketing B2B."
     },
     {
       "show_name": "Dietro Le Quinte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 11:00:09",
-      "end_time": "2026-02-18 11:28:22",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 02:25:17",
+      "end_time": "2026-02-19 02:53:30",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "L'evoluzione di una idea."
     },
     {
-      "show_name": "Rinascimento Digitale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 11:28:22",
-      "end_time": "2026-02-18 11:50:06",
+      "show_name": "Il Salone del Franchsing",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 02:53:30",
+      "end_time": "2026-02-19 03:48:47",
       "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Esplorare il mondo del business, della new economy e delle nuove tecnologie che stanno cambiando il modo in cui le imprese possono operare."
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il racconto dei protagonisti."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 03:48:47",
+      "end_time": "2026-02-19 03:55:36",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 03:55:36",
+      "end_time": "2026-02-19 03:59:05",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 03:59:05",
+      "end_time": "2026-02-19 04:03:01",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 04:03:01",
+      "end_time": "2026-02-19 04:06:23",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 04:06:23",
+      "end_time": "2026-02-19 04:07:23",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 04:07:23",
+      "end_time": "2026-02-19 04:08:12",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 04:08:12",
+      "end_time": "2026-02-19 04:08:38",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 04:08:38",
+      "end_time": "2026-02-19 04:09:04",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 04:09:04",
+      "end_time": "2026-02-19 04:12:30",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 04:12:30",
+      "end_time": "2026-02-19 04:14:14",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "Zeus",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 04:14:14",
+      "end_time": "2026-02-19 04:37:56",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Appuntamento quotidiano con il Business Economia Finanza e Imprenditorialita."
     },
     {
       "show_name": "METS",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 11:50:06",
-      "end_time": "2026-02-18 12:49:59",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 04:37:56",
+      "end_time": "2026-02-19 05:37:50",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Le tecnologie emergenti."
     },
     {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 12:49:59",
-      "end_time": "2026-02-18 13:03:20",
+      "show_name": "Caffe Startup",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 05:37:50",
+      "end_time": "2026-02-19 06:04:55",
       "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
+      "show_category": "Intrattenimento",
+      "show_description": "In un lussuoso attico nel centro di Firenze, le migliori startup saranno intervistate divulgando la loro storia di successo."
     },
     {
       "show_name": "Speciale Salone del Risparmio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 13:03:20",
-      "end_time": "2026-02-18 13:30:39",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 06:04:55",
+      "end_time": "2026-02-19 06:32:14",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Speciale Salone del Risparmio."
+    },
+    {
+      "show_name": "Business Show",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 06:32:14",
+      "end_time": "2026-02-19 06:59:27",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Tutto quello che bisogna conoscere sullla gestione del proprio business."
+    },
+    {
+      "show_name": "B2B Digital Insight",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 06:59:27",
+      "end_time": "2026-02-19 07:12:32",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "La trasmissione che esplora gli aspetti fondamentali del Marketing B2B."
+    },
+    {
+      "show_name": "Business Leader Summit",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 07:12:32",
+      "end_time": "2026-02-19 08:20:50",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Le evoluzioni del futuro -  CXO a confronto."
+    },
+    {
+      "show_name": "Dietro Le Quinte",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 08:20:50",
+      "end_time": "2026-02-19 08:49:03",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "L'evoluzione di una idea."
+    },
+    {
+      "show_name": "B2B Digital Insight",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 08:49:03",
+      "end_time": "2026-02-19 09:01:04",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "La trasmissione che esplora gli aspetti fondamentali del Marketing B2B."
+    },
+    {
+      "show_name": "Aggiudicato",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 09:01:04",
+      "end_time": "2026-02-19 09:26:35",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "I segreti delle aste giudiziarie immobiliari illustrate da esperti del settore."
+    },
+    {
+      "show_name": "Speciale Salone del Risparmio",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 09:26:35",
+      "end_time": "2026-02-19 09:53:54",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Speciale Salone del Risparmio."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 13:30:39",
-      "end_time": "2026-02-18 13:34:07",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 13:34:07",
-      "end_time": "2026-02-18 13:38:04",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 09:53:54",
+      "end_time": "2026-02-19 10:07:14",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Informazione a cura di Adnkronos."
     },
     {
       "show_name": "Zeus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 13:38:04",
-      "end_time": "2026-02-18 14:02:08",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 10:07:14",
+      "end_time": "2026-02-19 10:31:22",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Appuntamento quotidiano con il Business Economia Finanza e Imprenditorialita."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 14:02:08",
-      "end_time": "2026-02-18 14:05:30",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 10:31:22",
+      "end_time": "2026-02-19 10:37:37",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Informazione a cura di Adnkronos."
     },
     {
+      "show_name": "Dietro Le Quinte",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 10:37:37",
+      "end_time": "2026-02-19 11:05:50",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "L'evoluzione di una idea."
+    },
+    {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 14:05:30",
-      "end_time": "2026-02-18 14:06:29",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 11:05:50",
+      "end_time": "2026-02-19 11:16:48",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Informazione a cura di Adnkronos."
     },
     {
+      "show_name": "B2B Digital Insight",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 11:16:48",
+      "end_time": "2026-02-19 11:31:13",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "La trasmissione che esplora gli aspetti fondamentali del Marketing B2B."
+    },
+    {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 14:06:29",
-      "end_time": "2026-02-18 14:07:18",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 11:31:13",
+      "end_time": "2026-02-19 12:00:31",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Informazione a cura di Adnkronos."
     },
     {
+      "show_name": "Aggiudicato",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 12:00:31",
+      "end_time": "2026-02-19 12:22:48",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "I segreti delle aste giudiziarie immobiliari illustrate da esperti del settore."
+    },
+    {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 14:07:18",
-      "end_time": "2026-02-18 14:07:45",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 12:22:48",
+      "end_time": "2026-02-19 12:29:02",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Informazione a cura di Adnkronos."
     },
     {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 14:07:45",
-      "end_time": "2026-02-18 14:08:11",
+      "show_name": "Business Show",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 12:29:02",
+      "end_time": "2026-02-19 12:55:25",
       "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
+      "show_category": "Intrattenimento",
+      "show_description": "Tutto quello che bisogna conoscere sullla gestione del proprio business."
+    },
+    {
+      "show_name": "Caffe Startup",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 12:55:25",
+      "end_time": "2026-02-19 13:22:39",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "In un lussuoso attico nel centro di Firenze, le migliori startup saranno intervistate divulgando la loro storia di successo."
+    },
+    {
+      "show_name": "Il Bivio",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 13:22:39",
+      "end_time": "2026-02-19 13:34:49",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Il costo della scelta sbagliata."
     },
     {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 14:08:11",
-      "end_time": "2026-02-18 14:11:36",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 14:11:36",
-      "end_time": "2026-02-18 14:13:21",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 13:34:49",
+      "end_time": "2026-02-19 13:48:09",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Informazione a cura di Adnkronos."
     },
     {
       "show_name": "Il Salone del Franchsing",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 14:13:21",
-      "end_time": "2026-02-18 15:08:38",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 13:48:09",
+      "end_time": "2026-02-19 14:43:26",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Il racconto dei protagonisti."
     },
     {
-      "show_name": "Rinascimento Digitale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 15:08:38",
-      "end_time": "2026-02-18 15:38:10",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Esplorare il mondo del business, della new economy e delle nuove tecnologie che stanno cambiando il modo in cui le imprese possono operare."
-    },
-    {
-      "show_name": "Speciale Salone del Risparmio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 15:38:10",
-      "end_time": "2026-02-18 16:05:29",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Speciale Salone del Risparmio."
-    },
-    {
       "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 16:05:29",
-      "end_time": "2026-02-18 16:34:47",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 14:43:26",
+      "end_time": "2026-02-19 14:49:40",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "Speciale Salone del Risparmio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 16:34:47",
-      "end_time": "2026-02-18 17:02:07",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Speciale Salone del Risparmio."
-    },
-    {
-      "show_name": "Zeus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 17:02:07",
-      "end_time": "2026-02-18 17:26:07",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Appuntamento quotidiano con il Business Economia Finanza e Imprenditorialita."
-    },
-    {
-      "show_name": "Dietro Le Quinte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 17:26:07",
-      "end_time": "2026-02-18 17:54:55",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "L'evoluzione di una idea."
-    },
-    {
-      "show_name": "Il Bivio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 17:54:55",
-      "end_time": "2026-02-18 18:07:04",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Il costo della scelta sbagliata."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 18:07:04",
-      "end_time": "2026-02-18 18:10:33",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 18:10:33",
-      "end_time": "2026-02-18 18:14:29",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 18:14:29",
-      "end_time": "2026-02-18 18:17:51",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "Zeus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 18:17:51",
-      "end_time": "2026-02-18 18:41:55",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Appuntamento quotidiano con il Business Economia Finanza e Imprenditorialita."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 18:41:55",
-      "end_time": "2026-02-18 18:42:55",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 18:42:55",
-      "end_time": "2026-02-18 18:43:44",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 18:43:44",
-      "end_time": "2026-02-18 18:44:10",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 18:44:10",
-      "end_time": "2026-02-18 18:44:36",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "PMI Stories",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 18:44:36",
-      "end_time": "2026-02-18 18:57:18",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Storie vere di imprese scelte numeri e innovazione."
     },
     {
       "show_name": "Expo Ferroviaria",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 18:57:18",
-      "end_time": "2026-02-18 19:35:37",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "I protagonisti del trasporto."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 19:35:37",
-      "end_time": "2026-02-18 19:39:02",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 19:39:02",
-      "end_time": "2026-02-18 19:40:47",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "B2B Digital Insight",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 19:40:47",
-      "end_time": "2026-02-18 19:55:37",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "La trasmissione che esplora gli aspetti fondamentali del Marketing B2B."
-    },
-    {
-      "show_name": "Business Show",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 19:55:37",
-      "end_time": "2026-02-18 20:22:09",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Tutto quello che bisogna conoscere sullla gestione del proprio business."
-    },
-    {
-      "show_name": "Il Bivio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 20:22:09",
-      "end_time": "2026-02-18 20:34:18",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Il costo della scelta sbagliata."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 20:34:18",
-      "end_time": "2026-02-18 20:47:39",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "Speciale Salone del Risparmio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 20:47:39",
-      "end_time": "2026-02-18 21:14:58",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Speciale Salone del Risparmio."
-    },
-    {
-      "show_name": "News",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 21:14:58",
-      "end_time": "2026-02-18 21:21:12",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Informazione a cura di Adnkronos."
-    },
-    {
-      "show_name": "Rinascimento Digitale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 21:21:12",
-      "end_time": "2026-02-18 21:50:44",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Esplorare il mondo del business, della new economy e delle nuove tecnologie che stanno cambiando il modo in cui le imprese possono operare."
-    },
-    {
-      "show_name": "B2B Digital Insight",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 21:50:44",
-      "end_time": "2026-02-18 22:02:45",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "La trasmissione che esplora gli aspetti fondamentali del Marketing B2B."
-    },
-    {
-      "show_name": "Expo Ferroviaria",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 22:02:45",
-      "end_time": "2026-02-18 22:41:04",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 14:49:40",
+      "end_time": "2026-02-19 15:27:58",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "I protagonisti del trasporto."
     },
     {
       "show_name": "Il Festival dell economia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 22:41:04",
-      "end_time": "2026-02-18 23:28:13",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 15:27:58",
+      "end_time": "2026-02-19 16:15:08",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "I protagonisti riuniti a Trento."
     },
     {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 16:15:08",
+      "end_time": "2026-02-19 16:26:06",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "Zeus",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 16:26:06",
+      "end_time": "2026-02-19 16:50:14",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Appuntamento quotidiano con il Business Economia Finanza e Imprenditorialita."
+    },
+    {
+      "show_name": "Il Salone del Franchsing",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 16:50:14",
+      "end_time": "2026-02-19 17:45:31",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il racconto dei protagonisti."
+    },
+    {
+      "show_name": "PMI Stories",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 17:45:31",
+      "end_time": "2026-02-19 17:54:34",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Storie vere di imprese scelte numeri e innovazione."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 17:54:34",
+      "end_time": "2026-02-19 18:05:31",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 18:05:31",
+      "end_time": "2026-02-19 18:08:59",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "Aggiudicato",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 18:08:59",
+      "end_time": "2026-02-19 18:28:27",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "I segreti delle aste giudiziarie immobiliari illustrate da esperti del settore."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 18:28:27",
+      "end_time": "2026-02-19 18:32:24",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "Rinascimento Digitale",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 18:32:24",
+      "end_time": "2026-02-19 19:01:55",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Esplorare il mondo del business, della new economy e delle nuove tecnologie che stanno cambiando il modo in cui le imprese possono operare."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 19:01:55",
+      "end_time": "2026-02-19 19:05:18",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 19:05:18",
+      "end_time": "2026-02-19 19:06:17",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 19:06:17",
+      "end_time": "2026-02-19 19:07:06",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "Business Show",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 19:07:06",
+      "end_time": "2026-02-19 19:33:03",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Tutto quello che bisogna conoscere sullla gestione del proprio business."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 19:33:03",
+      "end_time": "2026-02-19 19:46:23",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "Rinascimento Digitale",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 19:46:23",
+      "end_time": "2026-02-19 21:08:40",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Esplorare il mondo del business, della new economy e delle nuove tecnologie che stanno cambiando il modo in cui le imprese possono operare."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 21:08:40",
+      "end_time": "2026-02-19 21:14:54",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "B2B Digital Insight",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 21:14:54",
+      "end_time": "2026-02-19 21:29:19",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "La trasmissione che esplora gli aspetti fondamentali del Marketing B2B."
+    },
+    {
+      "show_name": "Speciale Salone del Risparmio",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 21:29:19",
+      "end_time": "2026-02-19 21:56:38",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Speciale Salone del Risparmio."
+    },
+    {
       "show_name": "Business Leader Summit",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 23:28:13",
-      "end_time": "2026-02-19 00:36:31",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 21:56:38",
+      "end_time": "2026-02-19 22:47:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "Le evoluzioni del futuro -  CXO a confronto."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 22:47:00",
+      "end_time": "2026-02-19 23:00:20",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "Business Show",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 23:00:20",
+      "end_time": "2026-02-19 23:27:33",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Tutto quello che bisogna conoscere sullla gestione del proprio business."
+    },
+    {
+      "show_name": "News",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 23:27:33",
+      "end_time": "2026-02-19 23:38:31",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Informazione a cura di Adnkronos."
+    },
+    {
+      "show_name": "Caffe Startup",
+      "show_logo": "https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png",
+      "start_time": "2026-02-19 23:38:31",
+      "end_time": "2026-02-20 00:05:36",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "In un lussuoso attico nel centro di Firenze, le migliori startup saranno intervistate divulgando la loro storia di successo."
     }
   ]
 }

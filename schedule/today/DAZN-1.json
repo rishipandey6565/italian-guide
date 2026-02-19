@@ -1,141 +1,168 @@
 {
   "channel_name": "DAZN 1",
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "programs": [
     {
-      "show_name": "Udine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 00:00:00",
-      "end_time": "2026-02-18 01:00:00",
-      "episode_number": "S2025 E5",
-      "show_category": "Sport",
-      "show_description": "\"Stadi 5.0\" e' la nuova serie on demand - con la collaborazione di ABB Electrification e Calcio e Finanza - sui templi del calcio. Il quinto dei sei episodi e' dedicato al Bluenergy Stadium di Udine."
-    },
-    {
-      "show_name": "Stag. 2019 - DAZN 1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 01:00:00",
-      "end_time": "2026-02-18 06:00:00",
-      "episode_number": "",
-      "show_category": "Altri Programmi",
-      "show_description": "DAZN 1."
-    },
-    {
-      "show_name": "Stag. 2019 - DAZN 1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 06:00:00",
-      "end_time": "2026-02-18 08:00:00",
-      "episode_number": "",
-      "show_category": "Altri Programmi",
-      "show_description": "DAZN 1."
-    },
-    {
-      "show_name": "Udinese - Sassuolo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/DAZN-1/today/udinese-sassuolo.webp",
-      "start_time": "2026-02-18 08:00:00",
-      "end_time": "2026-02-18 10:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Mai Molar - Stag. 2026 Ep. 3",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 10:00:00",
-      "end_time": "2026-02-18 10:30:00",
-      "episode_number": "S2026 E3",
-      "show_category": "Sport",
-      "show_description": "Ep3 - \"Mai Molar\" porta gli spettatori dentro la stagione 2024-25 del Rana Verona Volley, nel cuore di una citta' che sta ricostruendo la propria identita' sportiva per tornare ai massimi livelli."
-    },
-    {
-      "show_name": "Como - Fiorentina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/DAZN-1/today/como-fiorentina.webp",
-      "start_time": "2026-02-18 10:30:00",
-      "end_time": "2026-02-18 12:20:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Mai Molar - Stag. 2026 Ep. 4",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 12:20:00",
-      "end_time": "2026-02-18 13:00:00",
-      "episode_number": "S2026 E4",
-      "show_category": "Sport",
-      "show_description": "Ep4 - \"Mai Molar\" porta gli spettatori dentro la stagione 2024-25 del Rana Verona Volley, nel cuore di una citta' che sta ricostruendo la propria identita' sportiva per tornare ai massimi livelli."
-    },
-    {
-      "show_name": "Parma - Verona",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/DAZN-1/today/parma-verona.webp",
-      "start_time": "2026-02-18 13:00:00",
-      "end_time": "2026-02-18 14:50:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Mai Molar - Stag. 2026 Ep. 5",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 14:50:00",
-      "end_time": "2026-02-18 15:15:00",
-      "episode_number": "S2026 E5",
-      "show_category": "Sport",
-      "show_description": "Ep5 - \"Mai Molar\" porta gli spettatori dentro la stagione 2024-25 del Rana Verona Volley, nel cuore di una citta' che sta ricostruendo la propria identita' sportiva per tornare ai massimi livelli."
-    },
-    {
-      "show_name": "Napoli - Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/DAZN-1/today/napoli-roma.webp",
-      "start_time": "2026-02-18 15:15:00",
-      "end_time": "2026-02-18 17:05:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "16a g.",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 17:05:00",
-      "end_time": "2026-02-18 17:35:00",
-      "episode_number": "S2025 E16",
-      "show_category": "Sport",
-      "show_description": "Serie A 2025/26 Matchday Highlights: 16a g. - Guarda tutte le azioni salienti della giornata di Serie A. Segui la Serie A Enilive su DAZN!"
-    },
-    {
-      "show_name": "Christian Pulisic: The Italian Dream",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 17:35:00",
-      "end_time": "2026-02-18 18:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Christian Pulisic e il leggendario coach Dan Peterson in una chiacchierata, 1 to 1, parlano del momento del calciatore statunitense e di tutta la sua esperienza italiana e rossonera."
-    },
-    {
-      "show_name": "Pisa - Milan",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/DAZN-1/today/pisa-milan.webp",
-      "start_time": "2026-02-18 18:00:00",
-      "end_time": "2026-02-18 19:50:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": ""
-    },
-    {
-      "show_name": "Serie A 2025/26 Matchday Highlights 2025 17a g. - Stag. 2025 - 17a g.",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-18 19:50:00",
-      "end_time": "2026-02-18 20:00:00",
-      "episode_number": "S2025 E17",
-      "show_category": "Sport",
-      "show_description": "Serie A 2025/26 Matchday Highlights: 17a g. - Guarda tutte le azioni salienti della giornata di Serie A. Segui la Serie A Enilive su DAZN!"
-    },
-    {
       "show_name": "Milan - Como - Stag. 2025 Ep. 24a g. - Milan - Como",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/DAZN-1/today/milan-como-stag-2025-ep-24a-g-milan-como.webp",
-      "start_time": "2026-02-18 20:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-19 00:00:00",
       "end_time": "2026-02-19 01:00:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": ""
+    },
+    {
+      "show_name": "Stag. 2019 - DAZN 1",
+      "show_logo": "https://guidatv.sky.it/uuid/ef416285-a102-40e0-80a6-d4be94f81e66/cover?cgid=90&territory=IT&md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&sid=566.it",
+      "start_time": "2026-02-19 01:00:00",
+      "end_time": "2026-02-19 06:00:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "DAZN 1."
+    },
+    {
+      "show_name": "Stag. 2019 - DAZN 1",
+      "show_logo": "https://guidatv.sky.it/uuid/ef416285-a102-40e0-80a6-d4be94f81e66/cover?cgid=90&territory=IT&md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&sid=566.it",
+      "start_time": "2026-02-19 06:00:00",
+      "end_time": "2026-02-19 08:00:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "DAZN 1."
+    },
+    {
+      "show_name": "Girona - Barcellona",
+      "show_logo": "https://guidatv.sky.it/uuid/357ace4a-cce5-4be3-a4e5-5c90831ebd1f/cover?cgid=90&territory=IT&md5ChecksumParam=3a0499f2d27aa4701cfc5fb053bc5b4a&sid=566.it",
+      "start_time": "2026-02-19 08:00:00",
+      "end_time": "2026-02-19 09:50:00",
+      "episode_number": "S2025 E79",
+      "show_category": "Sport",
+      "show_description": "Liga: Girona - Barcellona. 24a g. - Brillano le stelle: Mbappe', Yamal, Griezmann e altri talenti infiammano una corsa al titolo che si preannuncia spettacolare."
+    },
+    {
+      "show_name": "Stag. 2025 - Top 30 Gol Inter - Milan",
+      "show_logo": "https://guidatv.sky.it/uuid/db968da3-43b2-4555-902e-78ccc9fd2b54/cover?cgid=90&territory=IT&md5ChecksumParam=6feb49d553620ffea24de8191c3af854&sid=566.it",
+      "start_time": "2026-02-19 09:50:00",
+      "end_time": "2026-02-19 10:05:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Guarda la Top Gol di Inter-Milan. Segui la Serie A Enilive su DAZN!"
+    },
+    {
+      "show_name": "Nicolò Zaniolo: Rivincita",
+      "show_logo": "https://guidatv.sky.it/uuid/1afbefb3-18e5-43f8-8f53-454cb2849b67/cover?cgid=90&territory=IT&md5ChecksumParam=fd8c922fc49f6583f859d345d3fe7da7&sid=566.it",
+      "start_time": "2026-02-19 10:05:00",
+      "end_time": "2026-02-19 10:35:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Nicolo' Zaniolo ripercorre gli alti e bassi della sua carriera e la nuova occasione all'Udinese. Non perdere \"Nicolo' Zaniolo: Rivincita\" su DAZN!"
+    },
+    {
+      "show_name": "Real Madrid - Real Sociedad",
+      "show_logo": "https://guidatv.sky.it/uuid/3369e64e-b584-4eea-91a5-10ddcec23584/cover?cgid=90&territory=IT&md5ChecksumParam=3a0499f2d27aa4701cfc5fb053bc5b4a&sid=566.it",
+      "start_time": "2026-02-19 10:35:00",
+      "end_time": "2026-02-19 12:25:00",
+      "episode_number": "S2025 E78",
+      "show_category": "Sport",
+      "show_description": "Liga: Real Madrid - Real Sociedad. 24a g. - Brillano le stelle: Mbappe', Yamal, Griezmann e altri talenti infiammano una corsa al titolo che si preannuncia spettacolare."
+    },
+    {
+      "show_name": "18a g.",
+      "show_logo": "https://guidatv.sky.it/uuid/2d8d9ead-58ad-4931-92bf-2bea1ba44975/cover?cgid=90&territory=IT&md5ChecksumParam=9ea2dd19d001484b631742ea04341d12&sid=566.it",
+      "start_time": "2026-02-19 12:25:00",
+      "end_time": "2026-02-19 12:55:00",
+      "episode_number": "S2025 E18",
+      "show_category": "Sport",
+      "show_description": "Serie A 2025/26 Matchday Highlights: 18a g. - Guarda tutte le azioni salienti della giornata di Serie A. Segui la Serie A Enilive su DAZN!"
+    },
+    {
+      "show_name": "Rayo Vallecano - Atletico Madrid",
+      "show_logo": "https://guidatv.sky.it/uuid/6fc8defe-4afb-4498-9f35-bf8daa6b0fe2/cover?cgid=90&territory=IT&md5ChecksumParam=3a0499f2d27aa4701cfc5fb053bc5b4a&sid=566.it",
+      "start_time": "2026-02-19 12:55:00",
+      "end_time": "2026-02-19 14:50:00",
+      "episode_number": "S2025 E80",
+      "show_category": "Sport",
+      "show_description": "Liga: Rayo Vallecano - Atletico Madrid. 24a g. - Brillano le stelle: Mbappe', Yamal, Griezmann e altri talenti infiammano una corsa al titolo che si preannuncia spettacolare."
+    },
+    {
+      "show_name": "Adrian Bernabe: la mia Parma",
+      "show_logo": "https://guidatv.sky.it/uuid/d8632b99-ea8b-4187-a71f-bca99426fc0a/cover?cgid=90&territory=IT&md5ChecksumParam=a54d904f914c5443a5c04ff598b8f034&sid=566.it",
+      "start_time": "2026-02-19 14:50:00",
+      "end_time": "2026-02-19 15:15:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "In questo episodio di \"Storie di Serie A\" Adrian Bernabe' racconta il suo rapporto con Parma e l'Italia, dove e' arrivato nel 2021 dopo l'esperienza nelle giovanili del Manchester City."
+    },
+    {
+      "show_name": "Parma - Verona",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-19 15:15:00",
+      "end_time": "2026-02-19 17:05:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": ""
+    },
+    {
+      "show_name": "Maurizio Sarri: mi diverto ancora",
+      "show_logo": "https://guidatv.sky.it/uuid/f1c97bb1-44a1-40cc-bcb9-ea7665493684/cover?cgid=90&territory=IT&md5ChecksumParam=76c88d407c04006d9dcf1f37c13ebc50&sid=566.it",
+      "start_time": "2026-02-19 17:05:00",
+      "end_time": "2026-02-19 17:35:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "I grandi personaggi della Serie A. In questo episodio Maurizio Sarri racconta il ritorno alla Lazio, le sue passioni, il rapporto con il calcio e il sogno di chiudere la carriera al Flaminio."
+    },
+    {
+      "show_name": "Bordocam Inter - Milan 2025/26",
+      "show_logo": "https://guidatv.sky.it/uuid/8c262229-2615-4afb-833e-5761d59d7a78/cover?cgid=90&territory=IT&md5ChecksumParam=5b9449c360b3b283df03604a3c754c28&sid=566.it",
+      "start_time": "2026-02-19 17:35:00",
+      "end_time": "2026-02-19 18:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Le emozioni di Inter-Milan. Dall'ingresso nel tunnel al triplice fischio finale: rivivi le immagini piu' belle del derby di Milano da una posizione privilegiata con il \"Bordocam\" di Davide Bernardi."
+    },
+    {
+      "show_name": "Napoli - Roma",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-19 18:00:00",
+      "end_time": "2026-02-19 19:55:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": ""
+    },
+    {
+      "show_name": "19a g.",
+      "show_logo": "https://guidatv.sky.it/uuid/178d7721-7b07-411d-9639-3d0ba7d19366/cover?cgid=90&territory=IT&md5ChecksumParam=9ea2dd19d001484b631742ea04341d12&sid=566.it",
+      "start_time": "2026-02-19 19:55:00",
+      "end_time": "2026-02-19 21:00:00",
+      "episode_number": "S2025 E19",
+      "show_category": "Sport",
+      "show_description": "Serie A 2025/26 Matchday Highlights: 19a g. - Guarda tutte le azioni salienti della giornata di Serie A. Segui la Serie A Enilive su DAZN!"
+    },
+    {
+      "show_name": "Pisa - Milan",
+      "show_logo": "https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&md5ChecksumParam=581777c172316b8be9846cc9b998d716&sid=566.it",
+      "start_time": "2026-02-19 21:00:00",
+      "end_time": "2026-02-19 22:55:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": ""
+    },
+    {
+      "show_name": "20a g.",
+      "show_logo": "https://guidatv.sky.it/uuid/e46a7740-4f03-476e-ab6a-d5f78f6fc282/cover?cgid=90&territory=IT&md5ChecksumParam=9ea2dd19d001484b631742ea04341d12&sid=566.it",
+      "start_time": "2026-02-19 22:55:00",
+      "end_time": "2026-02-19 23:45:00",
+      "episode_number": "S2025 E20",
+      "show_category": "Sport",
+      "show_description": "Serie A 2025/26 Matchday Highlights: 20a g. - Guarda tutte le azioni salienti della giornata di Serie A. Segui la Serie A Enilive su DAZN!"
+    },
+    {
+      "show_name": "Legends Road - Stag. 2025 Ep. 1 - Francesco Totti",
+      "show_logo": "https://guidatv.sky.it/uuid/5065f0e1-afdf-4d3f-a016-fef7cbc6e7e0/cover?cgid=90&territory=IT&md5ChecksumParam=dbd602117c2974df9cb1a8688b19d6a9&sid=566.it",
+      "start_time": "2026-02-19 23:45:00",
+      "end_time": "2026-02-20 01:00:00",
+      "episode_number": "S2025 E1",
+      "show_category": "Sport",
+      "show_description": "In viaggio con Pierluigi Pardo scopriamo i segreti delle icone della Serie A in collaborazione con Enilive. Protagonista della prima puntata, Francesco Totti."
     }
   ]
 }

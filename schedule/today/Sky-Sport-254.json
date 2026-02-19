@@ -1,24 +1,33 @@
 {
   "channel_name": "Sky Sport  254",
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "programs": [
     {
-      "show_name": "Monaco - Paris Saint-Germain",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-254/today/monaco-paris-saint-germain.webp",
-      "start_time": "2026-02-18 00:00:00",
-      "end_time": "2026-02-18 20:00:00",
-      "episode_number": "S2025 E146",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Louis II di Fontvieille, Principato di Monaco."
-    },
-    {
       "show_name": "Catania - Trapani",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-254/today/catania-trapani.webp",
-      "start_time": "2026-02-18 20:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/c7061ebf-fb14-4094-bf61-10cad9a0ebf5/cover?territory=IT&md5ChecksumParam=97bd22cb913319b6a45f23a1f3da7318",
+      "start_time": "2026-02-19 00:00:00",
       "end_time": "2026-02-19 18:00:00",
       "episode_number": "S2025 E321",
       "show_category": "Sport",
       "show_description": "Dallo Stadio Massimino di Catania, Italia."
+    },
+    {
+      "show_name": "Calcio Uefa Europa League - Stag. Calcio Uefa Europa League 2025/2026 - Calcio Uel Playoff (Andata) Paok/ Celta Vigo 19/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/1929ee0d-b4f4-4ec9-a2e5-d013c7096a25/cover?territory=IT&md5ChecksumParam=4a9d13230d44a67d93cd34d98030d53c",
+      "start_time": "2026-02-19 18:00:00",
+      "end_time": "2026-02-19 20:55:00",
+      "episode_number": "S2025 E73",
+      "show_category": "Sport",
+      "show_description": "3-1 nell’unico precedente dello scorso 2 ottobre in Spagna: per il Celta Vigo 63% di possesso palla contro il 37%, 15 tiri contro 5 e 9 tiri in porta contro 2. TC: Andrea Menon."
+    },
+    {
+      "show_name": "Calcio Uefa Europa League - Stag. Calcio Uefa Europa League 2025/2026 - Calcio Uel Playoff (Andata) Lille/ Stella Rossa 19/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/23b0660c-92f4-48a1-b3a4-e4e65ab6cbd7/cover?territory=IT&md5ChecksumParam=ae5e254029e0e865b2a2335ba0e732a6",
+      "start_time": "2026-02-19 20:55:00",
+      "end_time": "2026-02-20 20:00:00",
+      "episode_number": "S2025 E76",
+      "show_category": "Sport",
+      "show_description": "1-0 nell’unico precedente dello scorso novembre in Serbia: per il Lille 60% di possesso palla contro il 40%. Per entrambe 11 tiri totali e 3 tiri in porta. TC: Fabrizio Redaelli."
     }
   ]
 }
