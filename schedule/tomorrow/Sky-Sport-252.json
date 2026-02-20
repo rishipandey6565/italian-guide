@@ -1,24 +1,42 @@
 {
   "channel_name": "Sky Sport  252",
-  "date": "2026-02-20",
+  "date": "2026-02-21",
   "programs": [
     {
-      "show_name": "Jagiellonia Bialystok - Fiorentina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/tomorrow/jagiellonia-bialystok-fiorentina.webp",
-      "start_time": "2026-02-20 00:00:00",
-      "end_time": "2026-02-20 20:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Tutte le azioni della UEFA Conference League."
-    },
-    {
       "show_name": "Pianese - Guidonia Montecelio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-252/tomorrow/pianese-guidonia-montecelio.webp",
-      "start_time": "2026-02-20 20:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/12774a5c-5ae3-46e9-bac9-0ff3e915b2e6/cover?territory=IT&md5ChecksumParam=104302a36249b7ab7bfefb890df5db13",
+      "start_time": "2026-02-21 00:00:00",
       "end_time": "2026-02-21 14:00:00",
       "episode_number": "S2025 E277",
       "show_category": "Sport",
       "show_description": "Tutte le partite del campionato di Serie C italiano."
+    },
+    {
+      "show_name": "Livorno - Pineto",
+      "show_logo": "https://guidatv.sky.it/uuid/06850c5c-fbaa-46c5-821d-9ae3665afaba/cover?territory=IT&md5ChecksumParam=9d8ddd1c8cf4f85a1715c4d68c58f065",
+      "start_time": "2026-02-21 14:00:00",
+      "end_time": "2026-02-21 17:25:00",
+      "episode_number": "S2025 E276",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Armando Picchi di Livorno, Italia."
+    },
+    {
+      "show_name": "Renate - Inter U23",
+      "show_logo": "https://guidatv.sky.it/uuid/dc7232ca-fadb-4bc0-b983-2c22ec4ad91e/cover?territory=IT&md5ChecksumParam=6e05f466e3ff78c34ef0dfed30b40d41",
+      "start_time": "2026-02-21 17:25:00",
+      "end_time": "2026-02-21 20:30:00",
+      "episode_number": "S2025 E287",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Città di Meda a Meda, Monza e Brianza, Italia."
+    },
+    {
+      "show_name": "Paris Saint-Germain - FC Metz",
+      "show_logo": "https://guidatv.sky.it/uuid/0f1bfc4d-9453-4ae6-bbe0-fa6babeb8da4/cover?territory=IT&md5ChecksumParam=d8e58d248a66315827aa93e523949e20",
+      "start_time": "2026-02-21 20:30:00",
+      "end_time": "2026-02-22 14:00:00",
+      "episode_number": "S2025 E75",
+      "show_category": "Sport",
+      "show_description": "Dal Parco dei Principi di Parigi, Francia."
     }
   ]
 }

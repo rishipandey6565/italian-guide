@@ -1,150 +1,141 @@
 {
   "channel_name": "Sky Cinema Family",
-  "date": "2026-02-19",
+  "date": "2026-02-20",
   "programs": [
     {
-      "show_name": "Biancaneve e il cacciatore",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/biancaneve-e-il-cacciatore.webp",
-      "start_time": "2026-02-19 00:00:00",
-      "end_time": "2026-02-19 00:40:00",
+      "show_name": "Il cacciatore e la regina di ghiaccio",
+      "show_logo": "https://guidatv.sky.it/uuid/a5b3edd8-4dfb-4ad9-91eb-fbe221ac4ab9/cover?territory=IT&md5ChecksumParam=9fe49689c29061e92b8ca6efd2082841",
+      "start_time": "2026-02-20 00:00:00",
+      "end_time": "2026-02-20 00:40:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Kristen Stewart, Chris Hemsworth e Charlize Theron nella rilettura della famosa fiaba. La crudele regina incarica un cacciatore di uccidere la figliastra Biancaneve, in fuga verso il bosco."
-    },
-    {
-      "show_name": "Qua la zampa 2 - Un amico è per sempre",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/qua-la-zampa-2-un-amico-per-sempre.webp",
-      "start_time": "2026-02-19 00:40:00",
-      "end_time": "2026-02-19 02:30:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Commovente sequel con Dennis Quaid e Kathryn Prescott. Costretto a separarsi dalla sua piccola amica umana, il cane Bailey decide che nelle sue prossime vite la trovera' e la proteggera'."
-    },
-    {
-      "show_name": "Lassie torna a casa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/lassie-torna-a-casa.webp",
-      "start_time": "2026-02-19 02:30:00",
-      "end_time": "2026-02-19 04:05:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Avventuroso reboot del film datato 1943, che riporta sullo schermo il cane più famoso del cinema. Finito in una famiglia che non esita a maltrattarlo, Lassie riesce a scappare e affronta molti pericoli pur di ricongiungersi con il suo affezionato padrone Florian."
-    },
-    {
-      "show_name": "Lego Batman - Il film",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/lego-batman-il-film.webp",
-      "start_time": "2026-02-19 04:05:00",
-      "end_time": "2026-02-19 05:50:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Animazione digitale e mattoncini Lego si combinano di nuovo per un’avventura targata DC. Batman si allea con la Justice League per sconfiggere i supercattivi capitanati da Joker."
-    },
-    {
-      "show_name": "Speciale - Avvocato Ligas",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/speciale-avvocato-ligas.webp",
-      "start_time": "2026-02-19 05:50:00",
-      "end_time": "2026-02-19 06:10:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Luca Argentero e il cast presentano l’Avvocato Ligas, penalista anticonvenzionale sempre pronto a rischiare pur di vincere una causa."
-    },
-    {
-      "show_name": "Come far litigare mamma e papà",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/come-far-litigare-mamma-e-pap.webp",
-      "start_time": "2026-02-19 06:10:00",
-      "end_time": "2026-02-19 07:45:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Brillante commedia per tutta la famiglia con Giampaolo Morelli e Carolina Crescentini. Invidioso dei compagni di classe, Gabriele elabora un piano per far separare i suoi genitori."
-    },
-    {
-      "show_name": "Il mistero della casa del tempo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/il-mistero-della-casa-del-tempo.webp",
-      "start_time": "2026-02-19 07:45:00",
-      "end_time": "2026-02-19 09:35:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Jack Black, Cate Blanchett e Kyle MacLachlan in un intrigante fantasy di Eli Roth. L'orfanello Lewis si trasferisce a casa dell'eccentrico zio, scoprendo un mondo di incantesimi e streghe."
-    },
-    {
-      "show_name": "Tappo - Cucciolo in un mare di guai",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/tappo-cucciolo-in-un-mare-di-guai.webp",
-      "start_time": "2026-02-19 09:35:00",
-      "end_time": "2026-02-19 11:05:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Divertente film d’animazione di Kevin Johnson. Alla morte della padrona, il viziato cagnolino Tappo si ritrova da solo come un randagio, ma la nuova amica Zoe è pronta ad aiutarlo."
-    },
-    {
-      "show_name": "Kung Fu Panda 3",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/kung-fu-panda-3.webp",
-      "start_time": "2026-02-19 11:05:00",
-      "end_time": "2026-02-19 12:40:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Terzo capitolo della spassosa saga animata con l'inarrestabile panda Po. Per affrontare il perfido Kai, Po insegna i segreti del kung fu ai miti abitanti del suo villaggio natale."
-    },
-    {
-      "show_name": "Madagascar 3: Ricercati in Europa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/madagascar-3-ricercati-in-europa.webp",
-      "start_time": "2026-02-19 12:40:00",
-      "end_time": "2026-02-19 14:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Terza avventura e nuovo continente per il leone Alex, la zebra Marty, la giraffa Melman e l'ippopotamo Gloria, che si troveranno in Europa braccati dalla spietata agente DuBois."
-    },
-    {
-      "show_name": "Trash",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/trash.webp",
-      "start_time": "2026-02-19 14:15:00",
-      "end_time": "2026-02-19 15:45:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Tenera avventura animata, opera prima di Francesco Dafano e Luca Della Grotta. Slim, una scatola logora, e la bottiglia ammaccata Bubbles accompagnano il piccolo Spark, una batteria usata, alla ricerca della Piramide magica: il luogo dove tutti i rifiuti possono avere una seconda chance."
+      "show_description": "Prequel di 'Biancaneve e il cacciatore' con Charlize Theron, Chris Hemsworth e Jessica Chastain. Un cacciatore e una guerriera difendono la Terra incantata da due streghe maligne."
     },
     {
       "show_name": "Una notte al museo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/una-notte-al-museo.webp",
-      "start_time": "2026-02-19 15:45:00",
-      "end_time": "2026-02-19 17:40:00",
+      "show_logo": "https://guidatv.sky.it/uuid/6bf4a75c-4f47-4add-903f-17bcecdfbb08/cover?territory=IT&md5ChecksumParam=b24dbadc1b35696b1867e825d7fe8899",
+      "start_time": "2026-02-20 00:40:00",
+      "end_time": "2026-02-20 02:30:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Successo planetario per Ben Stiller, Robin Williams e tante altre star nel primo capitolo della celebre saga. Larry Daley e' disoccupato e ha divorziato da poco. Se non trova un lavoro in fretta, rischia di perdere la custodia congiunta del figlio, cosi' accetta di fare il guardiano notturno al Museo di Storia Naturale di New York. Un lavoro tranquillo, pensa Larry, ma gli basta il primo giro di ricognizione per scoprire che al calar del sole le statue dei personaggi famosi e gli animali impagliati prendono vita, creando un discreto caos e dando vita a una serie di incredibili avventure."
     },
     {
+      "show_name": "Transformers One",
+      "show_logo": "https://guidatv.sky.it/uuid/3df7b60b-a85d-410c-83a5-d7ff66f56b7b/cover?territory=IT&md5ChecksumParam=2785009eb89d1b5a93b58f08ba53e5e6",
+      "start_time": "2026-02-20 02:30:00",
+      "end_time": "2026-02-20 04:10:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Il prequel totalmente animato della saga sci-fi e' un'origin story che narra l'amicizia dei futuri nemici giurati Optimus Prime e Megatron, in fuga dalla Cyberton sotterranea, e il momento in cui acquisiscono i loro poteri."
+    },
+    {
       "show_name": "Megamind",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/megamind.webp",
-      "start_time": "2026-02-19 17:40:00",
-      "end_time": "2026-02-19 19:20:00",
+      "show_logo": "https://guidatv.sky.it/uuid/7146b168-3f76-4108-9a2c-edd07a3f4560/cover?territory=IT&md5ChecksumParam=e5cc34fae93ae9e36101c2fc18dc05ae",
+      "start_time": "2026-02-20 04:10:00",
+      "end_time": "2026-02-20 05:45:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Allegra parodia del mondo dei supereroi in un gioiello d'animazione DreamWorks. Annoiato dalla mancanza di un rivale, Megamind ne crea uno grazie al dna del nemico sconfitto, Metroman."
     },
     {
+      "show_name": "Trash",
+      "show_logo": "https://guidatv.sky.it/uuid/fda0a109-10fe-4451-b9e6-1f3c287b1453/cover?territory=IT&md5ChecksumParam=af5d34cb520af637c6550ef6f33db26a",
+      "start_time": "2026-02-20 05:45:00",
+      "end_time": "2026-02-20 07:35:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Tenera avventura animata, opera prima di Francesco Dafano e Luca Della Grotta. Slim, una scatola logora, e la bottiglia ammaccata Bubbles accompagnano il piccolo Spark, una batteria usata, alla ricerca della Piramide magica: il luogo dove tutti i rifiuti possono avere una seconda chance."
+    },
+    {
+      "show_name": "Bambi - Una vita nei boschi",
+      "show_logo": "https://guidatv.sky.it/uuid/27cf8cae-cd3c-4daa-8d3e-d13612e0ed4b/COVER_TITLE_TALL?territory=IT&version=0d50a7e9-3bc9-339e-8ef2-d7d242d05178&w=600&h=800&md5ChecksumParam=ed3c36a6a391e63fb5e80b660ebe2145",
+      "start_time": "2026-02-20 07:35:00",
+      "end_time": "2026-02-20 08:55:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Un piccolo cerbiatto di nome Bambi è appena venuto al mondo. Con l'aiuto dei suoi amici, Bambi vivrà ogni tipo di avventura che lo preparerà ad assumere il suo ruolo di principe della foresta."
+    },
+    {
+      "show_name": "Il cacciatore e la regina di ghiaccio",
+      "show_logo": "https://guidatv.sky.it/uuid/a5b3edd8-4dfb-4ad9-91eb-fbe221ac4ab9/cover?territory=IT&md5ChecksumParam=9fe49689c29061e92b8ca6efd2082841",
+      "start_time": "2026-02-20 08:55:00",
+      "end_time": "2026-02-20 10:55:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Prequel di 'Biancaneve e il cacciatore' con Charlize Theron, Chris Hemsworth e Jessica Chastain. Un cacciatore e una guerriera difendono la Terra incantata da due streghe maligne."
+    },
+    {
+      "show_name": "Transformers One",
+      "show_logo": "https://guidatv.sky.it/uuid/3df7b60b-a85d-410c-83a5-d7ff66f56b7b/cover?territory=IT&md5ChecksumParam=2785009eb89d1b5a93b58f08ba53e5e6",
+      "start_time": "2026-02-20 10:55:00",
+      "end_time": "2026-02-20 12:35:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Il prequel totalmente animato della saga sci-fi e' un'origin story che narra l'amicizia dei futuri nemici giurati Optimus Prime e Megatron, in fuga dalla Cyberton sotterranea, e il momento in cui acquisiscono i loro poteri."
+    },
+    {
       "show_name": "Hotel Transylvania",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/hotel-transylvania.webp",
-      "start_time": "2026-02-19 19:20:00",
-      "end_time": "2026-02-19 21:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/a7791491-160d-469a-9303-a7953e7e088c/cover?territory=IT&md5ChecksumParam=e789866dbef2f1bcb8d0c19978800828",
+      "start_time": "2026-02-20 12:35:00",
+      "end_time": "2026-02-20 14:10:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Blockbuster di Halloween per tutta la famiglia. Il Conte Dracula organizza una festa per il compleanno della figlia Mavis, ma tra gli ospiti c'e' un intruso..."
     },
     {
       "show_name": "Dragon Trainer - Il mondo nascosto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/dragon-trainer-il-mondo-nascosto.webp",
-      "start_time": "2026-02-19 21:00:00",
-      "end_time": "2026-02-19 22:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5212323d-9b24-464f-85ad-2e2da0c9bf64/cover?territory=IT&md5ChecksumParam=7817c92944565d2c43d4d2b4790a439f",
+      "start_time": "2026-02-20 14:10:00",
+      "end_time": "2026-02-20 15:55:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "Terzo toccante capitolo della trilogia di successo targata DreamWorks. La minaccia di Grimmel il Grifagno costringe Hiccup e Sdentato a partire verso un luogo leggendario."
     },
     {
-      "show_name": "Il cacciatore e la regina di ghiaccio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Family/today/il-cacciatore-e-la-regina-di-ghiaccio.webp",
-      "start_time": "2026-02-19 22:45:00",
-      "end_time": "2026-02-20 00:40:00",
+      "show_name": "Moon il panda",
+      "show_logo": "https://guidatv.sky.it/uuid/147269a6-0706-4a46-9108-6a633be6e668/cover?territory=IT&md5ChecksumParam=44f7c5f287de42b92162e77962db2948",
+      "start_time": "2026-02-20 15:55:00",
+      "end_time": "2026-02-20 17:40:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Prequel di 'Biancaneve e il cacciatore' con Charlize Theron, Chris Hemsworth e Jessica Chastain. Un cacciatore e una guerriera difendono la Terra incantata da due streghe maligne."
+      "show_description": "Gilles de Maistre firma un inno alla bellezza della natura e all'amicizia tra uomo e animale. Cina: lo svogliato dodicenne Tian, sempre distratto dai videogame, viene mandato dalla nonna sulle montagne del Sichuan dove stringe un legame profondo con un cucciolo di panda."
+    },
+    {
+      "show_name": "Il giro del mondo in 80 giorni",
+      "show_logo": "https://guidatv.sky.it/uuid/352759db-ea47-47e9-a9cc-ab400bffa74d/cover?territory=IT&md5ChecksumParam=b10a0b1bc4202270b9feb80e06e1b143",
+      "start_time": "2026-02-20 17:40:00",
+      "end_time": "2026-02-20 19:05:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Colorato adattamento animato del capolavoro di Jules Verne. La scimmietta Passepartout e il ranocchio Phileas partono per un folle viaggio per battere il record di un famoso esploratore."
+    },
+    {
+      "show_name": "I viaggiatori",
+      "show_logo": "https://guidatv.sky.it/uuid/6ce69da5-f4e3-41f0-8b3c-5cad02e69b78/cover?territory=IT&md5ChecksumParam=f1ac41049e99d63a0d0999f24e53c755",
+      "start_time": "2026-02-20 19:05:00",
+      "end_time": "2026-02-20 21:00:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Avventuroso viaggio nel tempo targato Sky Original. Un gruppo di adolescenti alla ricerca di un fratello scomparso, viene catapultato nella Roma del 1939 sull'orlo del conflitto mondiale."
+    },
+    {
+      "show_name": "Wonder",
+      "show_logo": "https://guidatv.sky.it/uuid/3bb106d0-f764-4020-9451-f4cad0ef704a/cover?territory=IT&md5ChecksumParam=196c5bd92fe134724c751abeef6e8c55",
+      "start_time": "2026-02-20 21:00:00",
+      "end_time": "2026-02-20 22:55:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Dall’omonimo bestseller, Julia Roberts e Owen Wilson nella toccante pellicola che ha conquistato il pubblico. Un bambino affetto da una rara malformazione combatte per essere accettato."
+    },
+    {
+      "show_name": "The Amazing Mr. Blunden",
+      "show_logo": "https://guidatv.sky.it/uuid/d1017966-9d79-409c-af56-cbc9fa515c23/cover?territory=IT&md5ChecksumParam=a281dfafc63462aa8098a35d41a162c2",
+      "start_time": "2026-02-20 22:55:00",
+      "end_time": "2026-02-21 00:25:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Adattamento Sky Original di un classico racconto gotico di Natale. Una donna riceve dal misterioso Mr. Blunden l'offerta di lavorare come custode di una casa che potrebbe essere infestata."
     }
   ]
 }

@@ -1,114 +1,105 @@
 {
   "channel_name": "Sky Cinema Due",
-  "date": "2026-02-20",
+  "date": "2026-02-21",
   "programs": [
     {
-      "show_name": "Il quadro rubato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/tomorrow/il-quadro-rubato.webp",
-      "start_time": "2026-02-20 00:00:00",
-      "end_time": "2026-02-20 00:55:00",
+      "show_name": "La battaglia di Hacksaw Ridge",
+      "show_logo": "https://guidatv.sky.it/uuid/84eecad2-0683-46c1-97f7-95c8796a195c/cover?territory=IT&md5ChecksumParam=224da5787720eb10211dbc09010fe92e",
+      "start_time": "2026-02-21 00:00:00",
+      "end_time": "2026-02-21 01:25:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "André Masson, esperto di arte moderna, riceve una lettera in cui si dice che un dipinto di Egon Schiele è stato trovato a Mulhouse. Dell'opera era scomparsa ogni traccia ormai dal 1939."
-    },
-    {
-      "show_name": "Povere creature!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/tomorrow/povere-creature.webp",
-      "start_time": "2026-02-20 00:55:00",
-      "end_time": "2026-02-20 03:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Londra XIX secolo: una donna morta suicida nel Tamigi viene riportata in vita da uno scienziato. Bramosa di conoscere e totalmente libera, la rediviva creatura inizia un instancabile percorso di formazione e di emancipazione."
-    },
-    {
-      "show_name": "Joker: Folie à Deux",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/tomorrow/joker-folie-deux.webp",
-      "start_time": "2026-02-20 03:15:00",
-      "end_time": "2026-02-20 05:45:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Joaquin Phoenix riveste i panni del folle personaggio della DC Comics in uno sbalorditivo sequel con Lady Gaga. Internato nel manicomio di Arkham in attesa del processo per i crimini commessi, Arthur Fleck si innamora di Lee Quinzel, una paziente affascinata dalla figura del Joker."
-    },
-    {
-      "show_name": "Iddu - L'ultimo Padrino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/tomorrow/iddu-l-ultimo-padrino.webp",
-      "start_time": "2026-02-20 05:45:00",
-      "end_time": "2026-02-20 08:00:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Toni Servillo ed Elio Germano nel film liberamente ispirato ad un periodo della vita di Matteo Messina Denaro. Sicilia: in cambio della libertà, un politico condannato per associazione mafiosa collabora con la giustizia per catturare il boss latitante."
-    },
-    {
-      "show_name": "La luce sugli oceani",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/tomorrow/la-luce-sugli-oceani.webp",
-      "start_time": "2026-02-20 08:00:00",
-      "end_time": "2026-02-20 10:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Michael Fassbender e Alicia Vikander in un dramma sulla pericolosa scelta di una coppia. Un guardiano del faro e sua moglie salvano una neonata alla deriva e la crescono in segreto."
-    },
-    {
-      "show_name": "Il mio nome e' Nessuno",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/tomorrow/il-mio-nome-e-nessuno.webp",
-      "start_time": "2026-02-20 10:15:00",
-      "end_time": "2026-02-20 12:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Terence Hill e Henry Fonda nello 'spaghetti western' restaurato di Tonino Valerii, prodotto da Sergio Leone. Un anziano pistolero affronta l'ultima impresa prima di lasciare il Far West."
-    },
-    {
-      "show_name": "November - I cinque giorni dopo il Bataclan",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/tomorrow/november-i-cinque-giorni-dopo-il-bataclan.webp",
-      "start_time": "2026-02-20 12:15:00",
-      "end_time": "2026-02-20 14:05:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Jean Dujardin nella pellicola che ricostruisce le indagini sugli attentati del 2015. Fred, un poliziotto dell'antiterrorismo, deve trovare i fuggitivi più ricercati di Francia."
-    },
-    {
-      "show_name": "Il capo perfetto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/tomorrow/il-capo-perfetto.webp",
-      "start_time": "2026-02-20 14:05:00",
-      "end_time": "2026-02-20 16:10:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Javier Bardem in una dark comedy sul mondo del lavoro premiatissima in Spagna. Il padrone di un'azienda e' disposto a tutto pur di vincere un importante premio."
-    },
-    {
-      "show_name": "Conclave",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/tomorrow/conclave.webp",
-      "start_time": "2026-02-20 16:10:00",
-      "end_time": "2026-02-20 18:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Un Oscar e un Golden Globe all'acclamato film di Edward Berger ambientato nel mondo della Chiesa con Ralph Fiennes, Stanley Tucci, Sergio Castellitto e Isabella Rossellini."
+      "show_description": "2 Oscar al War movie di Mel Gibson con Andrew Garfield, da una storia vera. Seconda guerra mondiale: un soldato ottiene la medaglia al valore malgrado il rifiuto di impugnare le armi."
     },
     {
       "show_name": "Il Signore degli Anelli - Le due Torri",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/tomorrow/il-signore-degli-anelli-le-due-torri.webp",
-      "start_time": "2026-02-20 18:15:00",
-      "end_time": "2026-02-20 21:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/670917f9-3ede-4e32-9b6b-c57a8966169d/cover?territory=IT&md5ChecksumParam=5791f19188693ba8377ab27302eee9f8",
+      "start_time": "2026-02-21 01:25:00",
+      "end_time": "2026-02-21 04:25:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "2 Oscar al secondo capitolo della saga di Peter Jackson, dal romanzo di J.R.R. Tolkien. Dopo la scissione della Compagnia dell'Anello, Gollum insegue Frodo e Sam, diretti a Mordor."
     },
     {
+      "show_name": "L'esercito delle 12 scimmie",
+      "show_logo": "https://guidatv.sky.it/uuid/d8a1372b-8f46-4910-b0b2-098ea7afc6dd/cover?territory=IT&md5ChecksumParam=9da13541ed1f83fcadb681c888862e7e",
+      "start_time": "2026-02-21 04:25:00",
+      "end_time": "2026-02-21 06:35:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Visionario fanta-action di Terry Gilliam con Bruce Willis e Brad Pitt. Anno 2035: un ergastolano viene mandato nel passato per scoprire le cause dell'epidemia che ha decimato l'umanita'."
+    },
+    {
+      "show_name": "Hometown - La strada dei ricordi",
+      "show_logo": "https://guidatv.sky.it/uuid/e0ce9c62-c8b0-40c2-8d3f-bf1a80b55756/cover?territory=IT&md5ChecksumParam=0b2ab980108031c046286f9f33fecae4",
+      "start_time": "2026-02-21 06:35:00",
+      "end_time": "2026-02-21 08:15:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Un documentario biografico basato sui ricordi di due artisti famosi. Il regista Roman Polanski e il fotografo Ryszard Horowitz tornano insieme in Polonia dopo 60 anni, e tra le strade di Cracovia ripercorrono l'infanzia e la giovinezza segnate dalla Shoah."
+    },
+    {
+      "show_name": "Malcolm X",
+      "show_logo": "https://guidatv.sky.it/uuid/0daabcd7-00ac-4fe1-9142-5d7b01640191/cover?territory=IT&md5ChecksumParam=6bd539dbe3bf573adf335f3a113c21dc",
+      "start_time": "2026-02-21 08:15:00",
+      "end_time": "2026-02-21 11:40:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Denzel Washington, vincitore a Berlino, interpreta l’attivista per i diritti degli afroamericani nel biopic di Spike Lee che ne racconta la storia dall’infanzia fino all’assassinio."
+    },
+    {
+      "show_name": "Dream Horse",
+      "show_logo": "https://guidatv.sky.it/uuid/30010079-fbd2-4d7f-9785-16eba4e45abd/cover?territory=IT&md5ChecksumParam=430bdfdf71cacff17f29ac12b1880471",
+      "start_time": "2026-02-21 11:40:00",
+      "end_time": "2026-02-21 13:40:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Toni Collette e Damian Lewis in un’emozionante storia vera. Galles: una cassiera convince i suoi concittadini a investire su un purosangue per partecipare a un prestigioso concorso ippico."
+    },
+    {
       "show_name": "Mon Crime - La colpevole sono io",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/tomorrow/mon-crime-la-colpevole-sono-io.webp",
-      "start_time": "2026-02-20 21:15:00",
-      "end_time": "2026-02-20 23:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/526d90f4-e96b-43f8-a852-a2fae524e6fb/cover?territory=IT&md5ChecksumParam=8106525d1f0e7636988fdb0f89e88d36",
+      "start_time": "2026-02-21 13:40:00",
+      "end_time": "2026-02-21 15:25:00",
       "episode_number": "",
       "show_category": "Film",
       "show_description": "François Ozon dirige una commedia a tinte gialle nella Parigi degli anni 30. Una giovane aspirante attrice viene accusata dell'omicidio di un famoso produttore. Nel cast Isabelle Huppert."
     },
     {
-      "show_name": "La battaglia di Hacksaw Ridge",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Cinema-Due/tomorrow/la-battaglia-di-hacksaw-ridge.webp",
-      "start_time": "2026-02-20 23:05:00",
-      "end_time": "2026-02-21 01:30:00",
+      "show_name": "Giurato numero 2",
+      "show_logo": "https://guidatv.sky.it/uuid/22666855-d637-4a2b-834a-9d6fffc0f7e5/cover?territory=IT&md5ChecksumParam=d8b3917aa052771b96de717a30b9cc2f",
+      "start_time": "2026-02-21 15:25:00",
+      "end_time": "2026-02-21 17:20:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "2 Oscar al War movie di Mel Gibson con Andrew Garfield, da una storia vera. Seconda guerra mondiale: un soldato ottiene la medaglia al valore malgrado il rifiuto di impugnare le armi."
+      "show_description": "Nicholas Hoult e Toni Collette in un legal-thriller di Clint Eastwood. Durante un processo per omicidio, uno dei giurati scopre di essere l'involontario colpevole del delitto. Sconvolto dal senso di colpa, cerca di scagionare l'imputato senza rivelare la propria responsabilità."
+    },
+    {
+      "show_name": "Mediterraneo",
+      "show_logo": "https://guidatv.sky.it/uuid/3b7aa534-d3f8-4ba7-bbf7-073583559674/cover?territory=IT&md5ChecksumParam=e2f29afca3a83d793243709980e30f0c",
+      "start_time": "2026-02-21 17:20:00",
+      "end_time": "2026-02-21 19:00:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Gabriele Salvatores firma una storia sulla fuga e la ribellione premiata con l'Oscar per il miglior film straniero, con Diego Abatantuono e Claudio Bisio. Durante la Seconda Guerra Mondiale una pattuglia di soldati italiani riceve l'ordine di presidiare Syrna, isola greca sul Mar Egeo. Con la radio fuori uso e la nave a fondo, gli otto militari, provenienti da varie regioni di Italia, finiscono isolati dal mondo. Ignari che la guerra sta volgendo al termine, familiarizzano con gli abitanti del posto e qualcuno trova l'amore della sua vita. Fino all'arrivo di un aereo da ricognizione..."
+    },
+    {
+      "show_name": "Il quinto potere",
+      "show_logo": "https://guidatv.sky.it/uuid/adfd20d4-b167-44cd-8721-b0cbc1b96df3/cover?territory=IT&md5ChecksumParam=99163322e3ea2e6ae575275612486c90",
+      "start_time": "2026-02-21 19:00:00",
+      "end_time": "2026-02-21 21:15:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Il fenomeno WikiLeaks nel thriller biografico con Benedict Cumberbatch. La storia della piattaforma online e del suo fondatore Julian Assange che ha fatto tremare i governi del mondo."
+    },
+    {
+      "show_name": "Il miglio verde",
+      "show_logo": "https://guidatv.sky.it/uuid/49a9ab24-efa3-4e99-866a-75dee31cac08/cover?territory=IT&md5ChecksumParam=3c22663e705431346b3d11842af1bd81",
+      "start_time": "2026-02-21 21:15:00",
+      "end_time": "2026-02-22 00:25:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Tom Hanks nel dramma carcerario tratto dal romanzo di Stephen King. 1935: un gigantesco uomo di colore, dotato di poteri curativi, viene condannato a morte per omicidio."
     }
   ]
 }

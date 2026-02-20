@@ -1,24 +1,42 @@
 {
   "channel_name": "Sky Sport  253",
-  "date": "2026-02-20",
+  "date": "2026-02-21",
   "programs": [
     {
-      "show_name": "Calcio Uefa Europa League - Stag. Calcio Uefa Europa League 2025/2026 - Calcio Uel Playoff (Andata) Celtic/ Stoccarda 19/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-253/tomorrow/calcio-uefa-europa-league-stag-calcio-uefa-europa-league-2025-2026-calcio-uel-playoff-andata-celtic-stoccarda-19-02-2026.webp",
-      "start_time": "2026-02-20 00:00:00",
-      "end_time": "2026-02-20 20:00:00",
-      "episode_number": "S2025 E75",
-      "show_category": "Sport",
-      "show_description": "Dal Celtic Park di Glasgow, Scozia."
-    },
-    {
       "show_name": "Mainz - Amburgo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-253/tomorrow/mainz-amburgo.webp",
-      "start_time": "2026-02-20 20:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/db6ed1e1-f047-4885-bc68-34e95d667116/cover?territory=IT&md5ChecksumParam=f09b379d88a7e5d10c9d7041ef8a2622",
+      "start_time": "2026-02-21 00:00:00",
       "end_time": "2026-02-21 14:00:00",
       "episode_number": "S2025 E122",
       "show_category": "Sport",
       "show_description": "Dalla Mewa Arena di Magonza, Germania."
+    },
+    {
+      "show_name": "Latina - Potenza - Stag. 2026 Ep. 286 - Latina - Potenza",
+      "show_logo": "https://guidatv.sky.it/uuid/f9bf8075-c953-4dfa-bd2d-47b1d1174da6/cover?territory=IT&md5ChecksumParam=432ca12656acb810121ac9bb4beec068",
+      "start_time": "2026-02-21 14:00:00",
+      "end_time": "2026-02-21 17:25:00",
+      "episode_number": "S2025 E286",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Domenico Francioni di Latina, Italia."
+    },
+    {
+      "show_name": "Triestina - Cittadella - Stag. 2026 Ep. 288 - Triestina - Cittadella",
+      "show_logo": "https://guidatv.sky.it/uuid/59ff6ffd-fda0-426f-b1c4-6a15cdea6b06/cover?territory=IT&md5ChecksumParam=18da7aeed7d10b5ad65a4dcb0400a9b9",
+      "start_time": "2026-02-21 17:25:00",
+      "end_time": "2026-02-21 20:30:00",
+      "episode_number": "S2025 E288",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Nereo Rocco di Trieste, Italia."
+    },
+    {
+      "show_name": "FC Schalke 04 - 1. FC Magdeburg",
+      "show_logo": "https://guidatv.sky.it/uuid/0f9f7c66-00e2-48cb-a0cb-48c9ec4c4616/cover?territory=IT&md5ChecksumParam=540beb64c36e87162ab79e3263637bb0",
+      "start_time": "2026-02-21 20:30:00",
+      "end_time": "2026-02-22 14:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Dalla Veltins-Arena di Gelsenkirchen, Germania."
     }
   ]
 }

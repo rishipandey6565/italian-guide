@@ -1,168 +1,204 @@
 {
   "channel_name": "RaiSport",
-  "date": "2026-02-19",
+  "date": "2026-02-20",
   "programs": [
     {
+      "show_name": "UAE Tour",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/18/1771430439804_Uae-Tour-2026-tappa-4.jpg",
+      "start_time": "2026-02-20 00:00:00",
+      "end_time": "2026-02-20 01:40:00",
+      "episode_number": "S2026",
+      "show_category": "Ciclismo",
+      "show_description": "La quarta tappa, con partenza e arrivo a Fujairah, si sviluppa su un tracciato scorrevole che può favorire le alte velocità, ma dove vento e strategia di squadra restano fattori decisivi. La quarta tappa, con partenza e arrivo a Fujairah, si sviluppa su un tracciato scorrevole che può favorire le alte velocità, ma dove vento e strategia di squadra restano fattori decisivi."
+    },
+    {
       "show_name": "Basket: Eurolega femminile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/basket-eurolega-femminile.webp",
-      "start_time": "2026-02-19 00:00:00",
-      "end_time": "2026-02-19 00:10:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/18/1771414632571_basket%20femminile%202026%20reyer%20venezia.jpg",
+      "start_time": "2026-02-20 01:40:00",
+      "end_time": "2026-02-20 03:35:00",
       "episode_number": "",
       "show_category": "Basket",
       "show_description": "Eurolega femminile - Quarti Play-In: Venezia - Schio (gara 1). Eurolega femminile - Quarti Play-In: Venezia - Schio (gara 1)."
     },
     {
-      "show_name": "UAE Tour",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/uae-tour.webp",
-      "start_time": "2026-02-19 00:10:00",
-      "end_time": "2026-02-19 01:20:00",
-      "episode_number": "S2026",
-      "show_category": "Ciclismo",
-      "show_description": "La terza tappa, da Umm al Quwain a Jebel Mobrah, propone un finale in salita che metterà alla prova gli uomini di classifica: un'ascesa selettiva dove ritmo e resistenza possono fare la differenza. La terza tappa, da Umm al Quwain a Jebel Mobrah, propone un finale in salita che metterà alla prova gli uomini di classifica: un'ascesa selettiva dove ritmo e resistenza possono fare la differenza."
+      "show_name": "Pallanuoto",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/04/29/1745923605193_Giacomo-Cannella-of-Pro-Recco-pallanuoto-maschile-GettyImages-2184059841.jpg",
+      "start_time": "2026-02-20 03:35:00",
+      "end_time": "2026-02-20 05:00:00",
+      "episode_number": "",
+      "show_category": "Nuoto",
+      "show_description": "Coppa Italia maschile - Finale: Recco - Savona. Coppa Italia maschile - Finale: Recco - Savona."
     },
     {
-      "show_name": "Biliardo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/biliardo.webp",
-      "start_time": "2026-02-19 01:20:00",
-      "end_time": "2026-02-19 02:40:00",
+      "show_name": "Memory - Rai Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-20 05:00:00",
+      "end_time": "2026-02-20 05:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Memory: Claudia Giordani. Memory: Claudia Giordani."
+    },
+    {
+      "show_name": "Memory - Rai Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-20 05:45:00",
+      "end_time": "2026-02-20 06:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "National Billiard Challenge - Caltanissetta: 3a prova. National Billiard Challenge - Caltanissetta: 3a prova."
+      "show_description": "Memory: Roberto Zandonella."
     },
     {
-      "show_name": "Ciclismo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/ciclismo.webp",
-      "start_time": "2026-02-19 02:40:00",
-      "end_time": "2026-02-19 04:10:00",
+      "show_name": "Ciclocross",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/02/1769988669898_Nuovo%20progetto%201.jpg",
+      "start_time": "2026-02-20 06:00:00",
+      "end_time": "2026-02-20 07:00:00",
       "episode_number": "S2026",
       "show_category": "Ciclismo",
-      "show_description": "La Clásica de Almería, la corsa in linea di ciclismo su strada che si svolge nella provincia di Almería, in Spagna. La Clásica de Almería, la corsa in linea di ciclismo su strada che si svolge nella provincia di Almería, in Spagna."
-    },
-    {
-      "show_name": "Basket: Eurolega femminile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/basket-eurolega-femminile.webp",
-      "start_time": "2026-02-19 04:10:00",
-      "end_time": "2026-02-19 07:00:00",
-      "episode_number": "",
-      "show_category": "Basket",
-      "show_description": "Eurolega femminile - Quarti Play-In: Venezia - Schio (gara 1). Eurolega femminile - Quarti Play-In: Venezia - Schio (gara 1)."
+      "show_description": "Va in scena la gara Uomini Elite dei Mondiali di Ciclocross 2026: il massimo appuntamento della disciplina, dove i migliori specialisti del mondo si sfidano su un percorso tecnico e impegnativo per conquistare la maglia iridata. Va in scena la gara Uomini Elite dei Mondiali di Ciclocross 2026: il massimo appuntamento della disciplina, dove i migliori specialisti del mondo si sfidano su un percorso tecnico e impegnativo per conquistare la maglia iridata."
     },
     {
       "show_name": "Tg Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/tg-sport.webp",
-      "start_time": "2026-02-19 07:00:00",
-      "end_time": "2026-02-19 07:30:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg",
+      "start_time": "2026-02-20 07:00:00",
+      "end_time": "2026-02-20 07:30:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "TG Sport Mattina."
     },
     {
-      "show_name": "Pallanuoto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/pallanuoto.webp",
-      "start_time": "2026-02-19 07:30:00",
-      "end_time": "2026-02-19 09:05:00",
-      "episode_number": "",
-      "show_category": "Nuoto",
-      "show_description": "Pallanuoto: Coppa Italia maschile - Finale: Recco - Savona. Coppa Italia maschile - Finale: Recco - Savona."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-19 09:05:00",
-      "end_time": "2026-02-19 12:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Per il torneo maschile di curling dei Giochi Olimpici Invernali di Milano Cortina 2026, l'Italia affronta la Svizzera in un match della fase preliminare. La sfida si disputa presso il Cortina Curling Olympic Stadium di Cortina d'Ampezzo, storico impianto rinnovato per l'evento olimpico. In palio punti importanti per la classifica e per l'accesso alla fase a eliminazione diretta."
-    },
-    {
-      "show_name": "Memory - Rai Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/memory-rai-sport.webp",
-      "start_time": "2026-02-19 12:00:00",
-      "end_time": "2026-02-19 12:55:00",
+      "show_name": "Serie C",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/17/1771290362472_nj7iofuizeeheeg8sbvp.jpg",
+      "start_time": "2026-02-20 07:30:00",
+      "end_time": "2026-02-20 09:30:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Memory: Giuliano Razzoli."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-19 12:55:00",
-      "end_time": "2026-02-19 13:30:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Assegnazione delle medaglie nella prova Sprint di sci alpinismo ai Giochi Olimpici Invernali di Milano Cortina 2026. La competizione, tra salite, tratti a piedi con sci in spalla e discese tecniche, si svolge sulle nevi della Valtellina, nell'area di Bormio, teatro delle gare olimpiche della disciplina."
-    },
-    {
-      "show_name": "Memory - Rai Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/memory-rai-sport.webp",
-      "start_time": "2026-02-19 13:30:00",
-      "end_time": "2026-02-19 14:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Memory: Fratelli Hubner."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-19 14:00:00",
-      "end_time": "2026-02-19 16:45:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "Nel torneo femminile di curling dei Giochi Olimpici Invernali di Milano Cortina 2026, l'Italia affronta la Gran Bretagna in un incontro valido per la fase a gironi. La partita si disputa al Cortina Curling Olympic Stadium di Cortina d'Ampezzo, impianto simbolo della tradizione olimpica ampezzana."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-19 16:45:00",
-      "end_time": "2026-02-19 17:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
-    },
-    {
-      "show_name": "UAE Tour",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/uae-tour.webp",
-      "start_time": "2026-02-19 17:00:00",
-      "end_time": "2026-02-19 19:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "La quarta tappa, con partenza e arrivo a Fujairah, si sviluppa su un tracciato scorrevole che può favorire le alte velocità, ma dove vento e strategia di squadra restano fattori decisivi."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-19 19:00:00",
-      "end_time": "2026-02-19 21:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "L'evento sportivo invernale più importante al mondo. Le Olimpiadi Invernali Milano-Cortina 2026 si svolgono tra la modernità di Milano e le Dolomiti patrimonio UNESCO. Un intero territorio si unisce per celebrare il sogno olimpico."
-    },
-    {
-      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/olimpiadi-invernali-milano-cortina-2026.webp",
-      "start_time": "2026-02-19 21:00:00",
-      "end_time": "2026-02-19 23:00:00",
-      "episode_number": "S2026",
-      "show_category": "",
-      "show_description": "La finale del torneo femminile di hockey su ghiaccio ai Giochi Olimpici Invernali di Milano Cortina 2026 mette di fronte Stati Uniti e Canada. La sfida per la medaglia d'oro si disputa all'Unipol Arena di Milano, sede delle gare olimpiche di hockey."
+      "show_description": "Il Ravenna ospita la Juventus Next Gen in una sfida di campionato importante per la classifica, tra ambizioni, giovani talenti e obiettivi stagionali."
     },
     {
       "show_name": "Nuoto Artistico",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/nuoto-artistico.webp",
-      "start_time": "2026-02-19 23:00:00",
-      "end_time": "2026-02-19 23:45:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/19/1771517133645_nuoto%20artistico%202025.jpg",
+      "start_time": "2026-02-20 09:30:00",
+      "end_time": "2026-02-20 11:00:00",
       "episode_number": "S2026",
       "show_category": "",
       "show_description": "Coppa del Mondo - 1a tappa: Medellin."
     },
     {
       "show_name": "UAE Tour",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/RaiSport/today/uae-tour.webp",
-      "start_time": "2026-02-19 23:45:00",
-      "end_time": "2026-02-20 01:45:00",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/18/1771430439804_Uae-Tour-2026-tappa-4.jpg",
+      "start_time": "2026-02-20 11:00:00",
+      "end_time": "2026-02-20 13:00:00",
+      "episode_number": "S2026",
+      "show_category": "Ciclismo",
+      "show_description": "La quarta tappa, con partenza e arrivo a Fujairah, si sviluppa su un tracciato scorrevole che può favorire le alte velocità, ma dove vento e strategia di squadra restano fattori decisivi. La quarta tappa, con partenza e arrivo a Fujairah, si sviluppa su un tracciato scorrevole che può favorire le alte velocità, ma dove vento e strategia di squadra restano fattori decisivi."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/19/1771530581315_RAINETPORTALE_20260219205232581_1b4cf084d6ed072b04597f9d2e756344%201.jpg",
+      "start_time": "2026-02-20 13:00:00",
+      "end_time": "2026-02-20 13:30:00",
       "episode_number": "S2026",
       "show_category": "",
-      "show_description": "La quarta tappa, con partenza e arrivo a Fujairah, si sviluppa su un tracciato scorrevole che può favorire le alte velocità, ma dove vento e strategia di squadra restano fattori decisivi."
+      "show_description": "La finale dello Ski Cross femminile di freestyle ai Giochi Olimpici Invernali di Milano Cortina 2026 assegna le medaglie della disciplina. Le atlete si sfidano in batterie a eliminazione diretta su un tracciato caratterizzato da salti, curve paraboliche e dossi, dove velocità e gestione dei contatti risultano decisive. La gara si disputa nel polo freestyle di Livigno, sede olimpica delle competizioni di ski cross."
+    },
+    {
+      "show_name": "Ciclocross",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/03/1770130064502_1770129769289.png",
+      "start_time": "2026-02-20 13:30:00",
+      "end_time": "2026-02-20 14:05:00",
+      "episode_number": "S2026",
+      "show_category": "Ciclismo",
+      "show_description": "Mondiali - Uomini Junior. Mondiali - Uomini Junior."
+    },
+    {
+      "show_name": "UAE Tour",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/18/1771434383090_ciclismo%202026%20uae%20tour%20isaac%20del%20toro.jpg",
+      "start_time": "2026-02-20 14:05:00",
+      "end_time": "2026-02-20 16:05:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "La quinta tappa prevede un percorso di 166 kilometri che si snoda prevalentemente a Dubai. Una frazione pianeggiante ideale per velocisti."
+    },
+    {
+      "show_name": "Memory - Rai Sport",
+      "show_logo": "https://www.raiplay.it/dl/img/2021/02/02/1612260837974_1492015245604_Logo_Rai_Sport-h-b.jpg",
+      "start_time": "2026-02-20 16:05:00",
+      "end_time": "2026-02-20 16:35:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Memory: Stefania Belmondo. Memory: Stefania Belmondo."
+    },
+    {
+      "show_name": "Gli imperdibili",
+      "show_logo": "https://www.raiplay.it/dl/img/2016/12/06/1481048262903_imperdibili-h.jpg",
+      "start_time": "2026-02-20 16:35:00",
+      "end_time": "2026-02-20 16:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/19/1771530995274_Nuovo%20progetto.jpg",
+      "start_time": "2026-02-20 16:40:00",
+      "end_time": "2026-02-20 18:00:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Canada e Finlandia si affrontano in semifinale nel torneo maschile di hockey su ghiaccio dei Giochi Olimpici Invernali di Milano Cortina 2026. In palio l'accesso alla finale per la medaglia d'oro al termine di una sfida che oppone due delle nazionali più competitive del panorama mondiale. La gara è in programma all'Unipol Arena di Milano, sede delle fasi finali del torneo."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/19/1771531356702_Nuovo%20progetto%201.jpg",
+      "start_time": "2026-02-20 18:00:00",
+      "end_time": "2026-02-20 19:30:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Prime due manche del bob a 2 femminile ai Giochi Olimpici Invernali di Milano Cortina 2026. Gli equipaggi affrontano il tracciato cronometrato con l'obiettivo di ottenere i migliori tempi in vista della classifica combinata che determinerà la lotta per le medaglie. La gara si svolge sulla pista olimpica di Cortina d'Ampezzo."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/19/1771531561114_Nuovo%20progetto%202.jpg",
+      "start_time": "2026-02-20 19:30:00",
+      "end_time": "2026-02-20 20:30:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Il programma olimpico del freestyle propone la finale dell'Halfpipe maschile, segmento decisivo per l'assegnazione delle medaglie. Le run vengono giudicate in base a difficoltà, varietà degli elementi e precisione, su una struttura che esalta elevazione e controllo. La competizione si disputa nel polo freestyle di Livigno."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/19/1771532015969_Nuovo%20progetto%203.jpg",
+      "start_time": "2026-02-20 20:30:00",
+      "end_time": "2026-02-20 21:00:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "La finale per la medaglia di bronzo del torneo maschile di curling ai Giochi Olimpici Invernali di Milano Cortina 2026 mette di fronte le due formazioni sconfitte in semifinale."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/19/1771532272506_Nuovo%20progetto%204.jpg",
+      "start_time": "2026-02-20 21:00:00",
+      "end_time": "2026-02-20 21:45:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Sessione di finali per lo short track ai Giochi Olimpici Invernali di Milano Cortina 2026 con l'assegnazione delle medaglie nella staffetta maschile 5000 metri e nei 1500 metri femminili individuali. Le prove si disputano al Forum di Milano, sede delle competizioni olimpiche di short track."
+    },
+    {
+      "show_name": "Olimpiadi Invernali Milano Cortina 2026",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/19/1771532403708_Nuovo%20progetto%205.jpg",
+      "start_time": "2026-02-20 21:45:00",
+      "end_time": "2026-02-20 22:50:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "Usa e Slovacchia si affrontano in semifinale nel torneo maschile di hockey su ghiaccio dei Giochi Olimpici Invernali di Milano Cortina 2026. In palio l'accesso alla finale per la medaglia d'oro olimpica."
+    },
+    {
+      "show_name": "UAE Tour",
+      "show_logo": "https://www.raiplay.it/dl/img/2026/02/18/1771434383090_ciclismo%202026%20uae%20tour%20isaac%20del%20toro.jpg",
+      "start_time": "2026-02-20 22:50:00",
+      "end_time": "2026-02-21 00:50:00",
+      "episode_number": "S2026",
+      "show_category": "",
+      "show_description": "La quinta tappa prevede un percorso di 166 kilometri che si snoda prevalentemente a Dubai. Una frazione pianeggiante ideale per velocisti."
     }
   ]
 }

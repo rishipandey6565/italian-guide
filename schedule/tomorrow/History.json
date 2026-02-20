@@ -1,240 +1,258 @@
 {
   "channel_name": "History",
-  "date": "2026-02-20",
+  "date": "2026-02-21",
   "programs": [
     {
-      "show_name": "Affari al buio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/affari-al-buio.webp",
-      "start_time": "2026-02-20 00:00:00",
-      "end_time": "2026-02-20 00:20:00",
-      "episode_number": "S15 E19",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Ivy rapisce Pops e lo porta a Rosamond, dove i due trovano un deposito da urlo. Kenny cerca di migliorare la giornata a tutti, con buoni risultati."
-    },
-    {
-      "show_name": "Affari di famiglia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/affari-di-famiglia.webp",
-      "start_time": "2026-02-20 00:20:00",
-      "end_time": "2026-02-20 01:10:00",
-      "episode_number": "S19 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Rick sembra interessato a una moneta con un costo eccessivo. Chum si occupa una cintura della NWA."
-    },
-    {
-      "show_name": "Enigmi Alieni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/enigmi-alieni.webp",
-      "start_time": "2026-02-20 01:10:00",
-      "end_time": "2026-02-20 01:55:00",
-      "episode_number": "S17 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Da una citta' perduta nelle Ande a sfere di metallo non terrestri, fino a una citta' sommersa degli de'i. Queste scoperte proverebbero un contatto extraterrestre?"
-    },
-    {
-      "show_name": "La Guerra Degli Italiani",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/la-guerra-degli-italiani.webp",
-      "start_time": "2026-02-20 01:55:00",
-      "end_time": "2026-02-20 02:55:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La Seconda Guerra Mondiale narrata attraverso i cinegiornali Luce. Il ritratto di un paese sfigurato dalle macerie e ferito nell'anima."
-    },
-    {
-      "show_name": "Seconda Guerra a colori: la...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/seconda-guerra-a-colori-la.webp",
-      "start_time": "2026-02-20 02:55:00",
-      "end_time": "2026-02-20 03:45:00",
-      "episode_number": "S1 E8",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Mentre iniziano a incrinarsi i rapporti tra le nazioni alleate, Berlino si trasforma nell'ambi'to premio per la supremazia."
-    },
-    {
-      "show_name": "Il viaggio del Führer in Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/il-viaggio-del-f-hrer-in-italia.webp",
-      "start_time": "2026-02-20 03:45:00",
-      "end_time": "2026-02-20 04:45:00",
+      "show_name": "La caduta: Cronache della fine del fascismo",
+      "show_logo": "https://guidatv.sky.it/uuid/9e936650-22ed-4466-9b89-b527935505de/cover?territory=IT&md5ChecksumParam=5c59d82c340e22387b4b1dc47d27fb45",
+      "start_time": "2026-02-21 00:00:00",
+      "end_time": "2026-02-21 00:05:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Uno straordinario documentario prodotto dall'Istituto Luce che racconta in dettaglio i sette giorni della visita ufficiale di Hitler in Italia nel maggio del 1938."
+      "show_description": "La caduta: Cronache della fine del fascismo - Portato alla destituzione di Mussolini e la caduta del fascismo il 25 luglio 1943."
     },
     {
-      "show_name": "Nazisti a Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/nazisti-a-roma.webp",
-      "start_time": "2026-02-20 04:45:00",
-      "end_time": "2026-02-20 05:40:00",
-      "episode_number": "S1 E0",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La sera dell'8 settembre 1943 la radio da' notizia dell'armistizio con gli alleati. Due giorni dopo Roma e' occupata dalle truppe naziste."
-    },
-    {
-      "show_name": "Pillole di Storia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/pillole-di-storia.webp",
-      "start_time": "2026-02-20 05:40:00",
-      "end_time": "2026-02-20 06:00:00",
-      "episode_number": "S2 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "I parchi divertimento sono un fenomeno globale. Il primo affonda le sue radici nel lontano 1133."
-    },
-    {
-      "show_name": "Breve Storia Del Fascismo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/breve-storia-del-fascismo.webp",
-      "start_time": "2026-02-20 06:00:00",
-      "end_time": "2026-02-20 06:35:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una parte importante delle storia italiana, narrata attraverso filmati e documenti d'epoca da Renzo De Felice con stile rigoroso e al tempo stesso cordiale e magistralmente diretta da Folco Quilici."
-    },
-    {
-      "show_name": "Gli otto giorni che fecero Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/gli-otto-giorni-che-fecero-roma.webp",
-      "start_time": "2026-02-20 06:35:00",
-      "end_time": "2026-02-20 07:30:00",
-      "episode_number": "S1 E8",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Bettany Hughes racconta Roma in 8 momenti cruciali della sua storia. Nell'episodio: la diffusione del Cristianesimo nell'Impero romano."
-    },
-    {
-      "show_name": "La Guerra Degli Italiani",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/la-guerra-degli-italiani.webp",
-      "start_time": "2026-02-20 07:30:00",
-      "end_time": "2026-02-20 08:30:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La Seconda Guerra Mondiale narrata attraverso i cinegiornali Luce. Il ritratto di un paese sfigurato dalle macerie e ferito nell'anima."
-    },
-    {
-      "show_name": "Il viaggio del Führer in Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/il-viaggio-del-f-hrer-in-italia.webp",
-      "start_time": "2026-02-20 08:30:00",
-      "end_time": "2026-02-20 09:35:00",
+      "show_name": "Il regime di Mussolini",
+      "show_logo": "https://guidatv.sky.it/uuid/1e010c2e-0632-464b-aa74-c3e597409d76/cover?territory=IT&md5ChecksumParam=15a97173a601553e13f24d0f7e84ad7b",
+      "start_time": "2026-02-21 00:05:00",
+      "end_time": "2026-02-21 01:15:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Uno straordinario documentario prodotto dall'Istituto Luce che racconta in dettaglio i sette giorni della visita ufficiale di Hitler in Italia nel maggio del 1938."
-    },
-    {
-      "show_name": "Seconda Guerra a colori: la...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/seconda-guerra-a-colori-la.webp",
-      "start_time": "2026-02-20 09:35:00",
-      "end_time": "2026-02-20 10:35:00",
-      "episode_number": "S1 E8",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Mentre iniziano a incrinarsi i rapporti tra le nazioni alleate, Berlino si trasforma nell'ambi'to premio per la supremazia."
-    },
-    {
-      "show_name": "Enigmi Alieni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/enigmi-alieni.webp",
-      "start_time": "2026-02-20 10:35:00",
-      "end_time": "2026-02-20 11:25:00",
-      "episode_number": "S17 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Da una citta' perduta nelle Ande a sfere di metallo non terrestri, fino a una citta' sommersa degli de'i. Queste scoperte proverebbero un contatto extraterrestre?"
+      "show_description": "Benito Amilcare Andrea Mussolini è stato un dittatore e giornalista italiano che ha fondato e guidato il Partito Nazionale Fascista. Scopri come è passato dall'essere un ragazzo timido a quello che è probabilmente il più grande male d'Italia."
     },
     {
       "show_name": "Affari al buio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/affari-al-buio.webp",
-      "start_time": "2026-02-20 11:25:00",
-      "end_time": "2026-02-20 11:50:00",
-      "episode_number": "S15 E19",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Ivy rapisce Pops e lo porta a Rosamond, dove i due trovano un deposito da urlo. Kenny cerca di migliorare la giornata a tutti, con buoni risultati."
-    },
-    {
-      "show_name": "Affari al buio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/affari-al-buio.webp",
-      "start_time": "2026-02-20 11:50:00",
-      "end_time": "2026-02-20 12:20:00",
-      "episode_number": "S15 E20",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Kenny si imbatte in un veicolo familiare e lo segue fino a Lancaster per un'asta, dove fa di tutto per racimolare qualche soldo. Dopo Las Vegas, René si mette alla ricerca di maggior fortuna."
-    },
-    {
-      "show_name": "Affari di famiglia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/affari-di-famiglia.webp",
-      "start_time": "2026-02-20 12:20:00",
-      "end_time": "2026-02-20 13:10:00",
-      "episode_number": "S19 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Rick sembra interessato a una moneta con un costo eccessivo. Chum si occupa una cintura della NWA."
-    },
-    {
-      "show_name": "Le citta' segrete",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/le-citta-segrete.webp",
-      "start_time": "2026-02-20 13:10:00",
-      "end_time": "2026-02-20 14:00:00",
-      "episode_number": "S4 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Le nostre citta' sono costellate di grattacieli che torreggiano su grovigli di strade, ognuna con la sua storia ricca di fascino e di mistero."
-    },
-    {
-      "show_name": "La Guerra Degli Italiani",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/la-guerra-degli-italiani.webp",
-      "start_time": "2026-02-20 14:00:00",
-      "end_time": "2026-02-20 15:15:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La Seconda Guerra Mondiale narrata attraverso i cinegiornali Luce. Il ritratto di un paese sfigurato dalle macerie e ferito nell'anima."
-    },
-    {
-      "show_name": "Sacrificate Cassino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/sacrificate-cassino.webp",
-      "start_time": "2026-02-20 15:15:00",
-      "end_time": "2026-02-20 17:45:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Immagini inedite, interviste e ricostruzioni 3D raccontano la battaglia per la conquista dell'abbazia di Montecassino, una delle grandi stragi della Seconda guerra mondiale."
-    },
-    {
-      "show_name": "Seconda Guerra a colori: la...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/seconda-guerra-a-colori-la.webp",
-      "start_time": "2026-02-20 17:45:00",
-      "end_time": "2026-02-20 18:45:00",
-      "episode_number": "S1 E9",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Mentre il Giappone sotto i bombardamenti non accenna ad arrendersi, gli Stati Uniti si preparano all'invasione."
-    },
-    {
-      "show_name": "Affari al buio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/affari-al-buio.webp",
-      "start_time": "2026-02-20 18:45:00",
-      "end_time": "2026-02-20 19:10:00",
+      "show_logo": "https://guidatv.sky.it/uuid/a7d3848a-b547-46f1-80b4-d3944c7f7860/COVER_TITLE_TALL?territory=IT&version=28ac748d-a811-381f-8f57-5c5c8ed146fd&w=600&h=800&md5ChecksumParam=c220c83625322a6f732453e9b0de8ae0",
+      "start_time": "2026-02-21 01:15:00",
+      "end_time": "2026-02-21 01:35:00",
       "episode_number": "S15 E21",
       "show_category": "Mondo e Tendenze",
       "show_description": "Ivy coinvolge i suoi figli in una giornata in spiaggia a Victorville e loro si divertono. Brandi cerca di cancellare i brutti ricordi del campeggio con un buon armadietto."
     },
     {
       "show_name": "Affari al buio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/affari-al-buio.webp",
-      "start_time": "2026-02-20 19:10:00",
-      "end_time": "2026-02-20 19:35:00",
+      "show_logo": "https://guidatv.sky.it/uuid/cb4a84c6-98ed-4635-a879-a809092781eb/COVER_TITLE_TALL?territory=IT&version=28ac748d-a811-381f-8f57-5c5c8ed146fd&w=600&h=800&md5ChecksumParam=c220c83625322a6f732453e9b0de8ae0",
+      "start_time": "2026-02-21 01:35:00",
+      "end_time": "2026-02-21 02:00:00",
       "episode_number": "S15 E22",
       "show_category": "Mondo e Tendenze",
       "show_description": "Laura è sola a Moreno Valley, ed è tutt'altro che discreta sui motivi. Brandi ottiene un bel profitto. L'armadietto delle bambole di Rene riserva un paio di sorprese."
     },
     {
+      "show_name": "Affari di famiglia",
+      "show_logo": "https://guidatv.sky.it/uuid/566e993d-34f3-496c-bb20-239708bb86b8/cover?territory=IT&md5ChecksumParam=942a256f3cd4f1c03e754a380327179d",
+      "start_time": "2026-02-21 02:00:00",
+      "end_time": "2026-02-21 02:45:00",
+      "episode_number": "S19 E7",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Corey e' alle prese con una vecchia confezione di caramelle di \"Guerre Stellari\". Rick, invece, valuta una preziosa macchina fotografica."
+    },
+    {
       "show_name": "Enigmi Alieni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/enigmi-alieni.webp",
-      "start_time": "2026-02-20 19:35:00",
-      "end_time": "2026-02-20 21:20:00",
+      "show_logo": "https://guidatv.sky.it/uuid/4deec905-6f1c-41b7-a581-62e68b532744/cover?territory=IT&md5ChecksumParam=ca3607b56081e6056d8513d548866a50",
+      "start_time": "2026-02-21 02:45:00",
+      "end_time": "2026-02-21 03:30:00",
       "episode_number": "S19 E2",
       "show_category": "Mondo e Tendenze",
       "show_description": "Da una pietra di 500 tonnellate, forse un antico UFO, a statue che sembrano create con tecnologia avanzata."
     },
     {
-      "show_name": "Grandi battaglie della 2a...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/grandi-battaglie-della-2a.webp",
-      "start_time": "2026-02-20 21:20:00",
-      "end_time": "2026-02-20 22:15:00",
-      "episode_number": "S1 E3",
+      "show_name": "Breve Storia Del Fascismo",
+      "show_logo": "https://guidatv.sky.it/uuid/e792bc5f-bb4d-456e-904a-3e7b15b40f7c/cover?territory=IT&md5ChecksumParam=6112b4fca6890ef3c8386e3c97c75901",
+      "start_time": "2026-02-21 03:30:00",
+      "end_time": "2026-02-21 04:00:00",
+      "episode_number": "S1 E4",
       "show_category": "Mondo e Tendenze",
-      "show_description": "1942. La guerra lampo nazista sbarca in Egitto. Il feldmaresciallo Erwin Rommel, detto ''la volpe del deserto'' punta al Cairo."
+      "show_description": "Il fascismo narrato attraverso filmati e documenti d'epoca da Renzo De Felice, con stile rigoroso e al tempo stesso cordiale e magistralmente diretta da Folco Quilici."
     },
     {
-      "show_name": "La caduta: Cronache della fine del fascismo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/History/tomorrow/la-caduta-cronache-della-fine-del-fascismo.webp",
-      "start_time": "2026-02-20 22:15:00",
-      "end_time": "2026-02-21 00:05:00",
+      "show_name": "Seconda Guerra a colori: la...",
+      "show_logo": "https://guidatv.sky.it/uuid/af0a3db2-b01a-41cd-90c4-b55a3ade31ef/cover?territory=IT&md5ChecksumParam=27b8c86477ff89bcee5a3837ba846bf6",
+      "start_time": "2026-02-21 04:00:00",
+      "end_time": "2026-02-21 04:55:00",
+      "episode_number": "S1 E9",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Mentre il Giappone sotto i bombardamenti non accenna ad arrendersi, gli Stati Uniti si preparano all'invasione."
+    },
+    {
+      "show_name": "La Guerra Degli Italiani",
+      "show_logo": "https://guidatv.sky.it/uuid/7c1bb2d0-0799-44aa-9ef2-ee0142b91923/cover?territory=IT&md5ChecksumParam=6f43a5aca343f1addd5d3c0682f17935",
+      "start_time": "2026-02-21 04:55:00",
+      "end_time": "2026-02-21 06:00:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La Seconda Guerra Mondiale narrata attraverso i cinegiornali Luce. Il ritratto di un paese sfigurato dalle macerie e ferito nell'anima."
+    },
+    {
+      "show_name": "Ti presento Caligola",
+      "show_logo": "https://guidatv.sky.it/uuid/7b88d11e-b14e-4dde-b58a-8172df12ff79/cover?territory=IT&md5ChecksumParam=efdfe3d6cc10c469ba35c2235e86e718",
+      "start_time": "2026-02-21 06:00:00",
+      "end_time": "2026-02-21 07:10:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "La caduta: Cronache della fine del fascismo - Portato alla destituzione di Mussolini e la caduta del fascismo il 25 luglio 1943."
+      "show_description": "La professoressa Mary Beard cerca di ripulire l'immagine di Caligola dai molti miti che circondano la sua figura."
+    },
+    {
+      "show_name": "Ti presento l'imperatore romano",
+      "show_logo": "https://guidatv.sky.it/uuid/3ff74b87-a9e6-47a6-b9b5-53642b6169d5/cover?territory=IT&md5ChecksumParam=08352a0816b5f1a48dcd5e0e0cf03d90",
+      "start_time": "2026-02-21 07:10:00",
+      "end_time": "2026-02-21 08:25:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ti presento l'imperatore romano - La storica Mary Beard ci conduce in un affascinante viaggio nell'antica Roma, analizzando gli eventi che hanno cambiato la storia."
+    },
+    {
+      "show_name": "My Generation",
+      "show_logo": "https://guidatv.sky.it/uuid/319751ba-48cd-43c3-9e9c-17dc139ba354/cover?cgid=282&territory=IT&md5ChecksumParam=6674317f313a25544ee8b9cce11c2afe.it",
+      "start_time": "2026-02-21 08:25:00",
+      "end_time": "2026-02-21 10:10:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Continua il viaggio attraverso fatti ed eventi che hanno fatto la storia e le icone che hanno segnato una generazione. E' il turno dei Millennials."
+    },
+    {
+      "show_name": "Grandi furti della Storia con...",
+      "show_logo": "https://guidatv.sky.it/uuid/64d1d082-2187-4234-8431-606f58484cc9/cover?territory=IT&md5ChecksumParam=8a2ddce1c561d6aeb6a26684e9f3054b",
+      "start_time": "2026-02-21 10:10:00",
+      "end_time": "2026-02-21 11:00:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Pierce esamina le modalita' di fuga di un gruppo di rapinatori da una banca californiana nel 1972: nelle tasche, milioni di dollari in contanti."
+    },
+    {
+      "show_name": "Enigmi Alieni",
+      "show_logo": "https://guidatv.sky.it/uuid/4deec905-6f1c-41b7-a581-62e68b532744/cover?territory=IT&md5ChecksumParam=ca3607b56081e6056d8513d548866a50",
+      "start_time": "2026-02-21 11:00:00",
+      "end_time": "2026-02-21 11:55:00",
+      "episode_number": "S19 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Da una pietra di 500 tonnellate, forse un antico UFO, a statue che sembrano create con tecnologia avanzata."
+    },
+    {
+      "show_name": "Affari al buio",
+      "show_logo": "https://guidatv.sky.it/uuid/a7d3848a-b547-46f1-80b4-d3944c7f7860/COVER_TITLE_TALL?territory=IT&version=28ac748d-a811-381f-8f57-5c5c8ed146fd&w=600&h=800&md5ChecksumParam=c220c83625322a6f732453e9b0de8ae0",
+      "start_time": "2026-02-21 11:55:00",
+      "end_time": "2026-02-21 12:20:00",
+      "episode_number": "S15 E21",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ivy coinvolge i suoi figli in una giornata in spiaggia a Victorville e loro si divertono. Brandi cerca di cancellare i brutti ricordi del campeggio con un buon armadietto."
+    },
+    {
+      "show_name": "Affari al buio",
+      "show_logo": "https://guidatv.sky.it/uuid/cb4a84c6-98ed-4635-a879-a809092781eb/COVER_TITLE_TALL?territory=IT&version=28ac748d-a811-381f-8f57-5c5c8ed146fd&w=600&h=800&md5ChecksumParam=c220c83625322a6f732453e9b0de8ae0",
+      "start_time": "2026-02-21 12:20:00",
+      "end_time": "2026-02-21 12:45:00",
+      "episode_number": "S15 E22",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Laura è sola a Moreno Valley, ed è tutt'altro che discreta sui motivi. Brandi ottiene un bel profitto. L'armadietto delle bambole di Rene riserva un paio di sorprese."
+    },
+    {
+      "show_name": "Affari di famiglia",
+      "show_logo": "https://guidatv.sky.it/uuid/566e993d-34f3-496c-bb20-239708bb86b8/cover?territory=IT&md5ChecksumParam=942a256f3cd4f1c03e754a380327179d",
+      "start_time": "2026-02-21 12:45:00",
+      "end_time": "2026-02-21 13:35:00",
+      "episode_number": "S19 E7",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Corey e' alle prese con una vecchia confezione di caramelle di \"Guerre Stellari\". Rick, invece, valuta una preziosa macchina fotografica."
+    },
+    {
+      "show_name": "Pillole di Storia",
+      "show_logo": "https://guidatv.sky.it/uuid/4fa58ab0-dc37-4597-b131-fe4a01100e2c/cover?territory=IT&md5ChecksumParam=8e5f1f75517d82ccb4291c9c989ec417",
+      "start_time": "2026-02-21 13:35:00",
+      "end_time": "2026-02-21 14:00:00",
+      "episode_number": "S2 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Forse non tutti sanno che il celebre slogan ''Just Do It'' si ispira alle ultime parole di un serial killer. L'incredibile storia di Nike, dalle origini fino ad oggi."
+    },
+    {
+      "show_name": "Ross Kemp: Caccia ai tesori sommersi",
+      "show_logo": "https://guidatv.sky.it/uuid/10e0b046-4c29-3a68-beca-426c267743ce/cover?territory=IT&md5ChecksumParam=2dee4a42b3a6bbe82b7fa60233b7d549",
+      "start_time": "2026-02-21 14:00:00",
+      "end_time": "2026-02-21 14:55:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Conclusa l'avventura al sito della Mary Rose, Ross e' ancora a caccia di artefatti sommersi: la sua ricerca lo condurra' a Plymouth, e di li' alla volta del golfo di Suez."
+    },
+    {
+      "show_name": "U-Boot: Caccia ai tesori di guerra",
+      "show_logo": "https://guidatv.sky.it/uuid/91201e66-a434-402f-8e22-374efbecc237/cover?territory=IT&md5ChecksumParam=8653b564b345e3f8b001cff52e515583",
+      "start_time": "2026-02-21 14:55:00",
+      "end_time": "2026-02-21 15:45:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Con un uragano in avvicinamento, Darrell e la sua squadra devono prendere decisioni difficili."
+    },
+    {
+      "show_name": "Auschwitz: Countdown To Liberation",
+      "show_logo": "https://guidatv.sky.it/uuid/a08c360b-0362-4bee-92e8-4b9e528ccb6c/cover?territory=IT&md5ChecksumParam=4c06b224222e2d2b4a563945ae065615",
+      "start_time": "2026-02-21 15:45:00",
+      "end_time": "2026-02-21 17:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Auschwitz: Countdown To Liberation - Ripercorriamo le storie, i ricordi e le testimonianze dei prigionieri del campo di concentramento di Auschwitz."
+    },
+    {
+      "show_name": "Nazisti: I complici del Fuhrer",
+      "show_logo": "https://guidatv.sky.it/uuid/552a5d9b-abd5-4863-a714-8edd9a3903f0/cover?cgid=282&territory=IT&md5ChecksumParam=9d4a1e33adaad2e3cfed8c082554f1f1.it",
+      "start_time": "2026-02-21 17:30:00",
+      "end_time": "2026-02-21 18:35:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Analizziamo la figura del ministro della propaganda Joseph Goebbels e del suo ruolo centrale nella diffusione dell'ideologia nazista."
+    },
+    {
+      "show_name": "Affari al buio",
+      "show_logo": "https://guidatv.sky.it/uuid/4d3e54e1-78eb-4620-af2f-dd874bf9b29f/COVER_TITLE_TALL?territory=IT&version=28ac748d-a811-381f-8f57-5c5c8ed146fd&w=600&h=800&md5ChecksumParam=c220c83625322a6f732453e9b0de8ae0",
+      "start_time": "2026-02-21 18:35:00",
+      "end_time": "2026-02-21 19:00:00",
+      "episode_number": "S15 E24",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "René si fa prendere dalla nostalgia mentre Kenny si concentra su un triciclo. Inoltre, i Calvin cercano di passare una giornata divertente, mentre Barry non riesce a capire la generale mancanza di professionalità dei suoi colleghi."
+    },
+    {
+      "show_name": "Affari al buio",
+      "show_logo": "https://guidatv.sky.it/uuid/c16d04a9-67cf-4cd9-868c-73207f176810/COVER_TITLE_TALL?territory=IT&version=28ac748d-a811-381f-8f57-5c5c8ed146fd&w=600&h=800&md5ChecksumParam=c220c83625322a6f732453e9b0de8ae0",
+      "start_time": "2026-02-21 19:00:00",
+      "end_time": "2026-02-21 19:25:00",
+      "episode_number": "S15 E23",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ivy e Pops acquistano borse a Fullerton, ma finiscono con i contenitori. Darrell e Kimber puntano tutto su un armadietto dei giocattoli, mentre Brandi copre le sue spese in un'unità familiare."
+    },
+    {
+      "show_name": "Enigmi Alieni",
+      "show_logo": "https://guidatv.sky.it/uuid/4deec905-6f1c-41b7-a581-62e68b532744/cover?territory=IT&md5ChecksumParam=ca3607b56081e6056d8513d548866a50",
+      "start_time": "2026-02-21 19:25:00",
+      "end_time": "2026-02-21 21:10:00",
+      "episode_number": "S19 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Enigmi Alieni racconta dieci sorprendenti incidenti UFO, da un oggetto a forma di ghianda schiantatosi nei boschi della Pennsylvania a un velivolo arenato in Giappone."
+    },
+    {
+      "show_name": "Roma sotterranea - Ep. 1",
+      "show_logo": "https://guidatv.sky.it/uuid/6c389603-b744-4425-b149-98e20a165096/cover?cgid=282&territory=IT&md5ChecksumParam=792ea530ca36ef1ee90672372ec3c022.it",
+      "start_time": "2026-02-21 21:10:00",
+      "end_time": "2026-02-21 22:15:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Roma sotterranea - Con l'apertura delle stazioni - museo di Colosseo e Porta Metronia, iniziamo un fantastico viaggio immersivo tra storia e ingegneria nel sottosuolo della citta' eterna."
+    },
+    {
+      "show_name": "Parigi sotterranea - Ep. 1",
+      "show_logo": "https://guidatv.sky.it/uuid/a04736b1-926a-44bf-9665-813ca75cf1b5/cover?cgid=282&territory=IT&md5ChecksumParam=ce74306f8d525792f3342fc879673291.it",
+      "start_time": "2026-02-21 22:15:00",
+      "end_time": "2026-02-21 23:20:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Parigi sotterranea - Tra antiche catacombe e ingegneristici progetti moderni, come le nuove linee metropolitane, andiamo alla scoperta dei segreti e misteri sotterranei di Parigi''."
+    },
+    {
+      "show_name": "Le citta' segrete",
+      "show_logo": "https://guidatv.sky.it/uuid/ae269aed-d1e1-4ea7-8c21-675dd3003b7e/cover?territory=IT&md5ChecksumParam=93210fb6e4dd5547e9878184f600645e",
+      "start_time": "2026-02-21 23:20:00",
+      "end_time": "2026-02-22 00:10:00",
+      "episode_number": "S4 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Le nostre citta' sono costellate di grattacieli che torreggiano su grovigli di strade, ognuna con la sua storia ricca di fascino e di mistero."
     }
   ]
 }

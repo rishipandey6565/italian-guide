@@ -1,256 +1,220 @@
 {
   "channel_name": "Sky Uno",
-  "date": "2026-02-20",
+  "date": "2026-02-21",
   "programs": [
     {
       "show_name": "MasterChef Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-italia.webp",
-      "start_time": "2026-02-20 00:00:00",
-      "end_time": "2026-02-20 01:05:00",
-      "episode_number": "S15 E21",
-      "show_category": "Intrattenimento",
-      "show_description": "Il più acclamato programma televisivo dedicato alla cucina, nella patria della grande cucina. I concorrenti gareggiano per realizzare il loro sogno e diventare MasterChef d'Italia."
-    },
-    {
-      "show_name": "MasterChef Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-italia.webp",
-      "start_time": "2026-02-20 01:05:00",
-      "end_time": "2026-02-20 02:20:00",
-      "episode_number": "S15 E22",
-      "show_category": "Intrattenimento",
-      "show_description": "Il più acclamato programma televisivo dedicato alla cucina, nella patria della grande cucina. I concorrenti gareggiano per realizzare il loro sogno e diventare MasterChef d'Italia."
-    },
-    {
-      "show_name": "MasterChef Magazine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-magazine.webp",
-      "start_time": "2026-02-20 02:20:00",
-      "end_time": "2026-02-20 02:40:00",
-      "episode_number": "S15 E20",
-      "show_category": "Intrattenimento",
-      "show_description": "L'appuntamento quotidiano in cui giudici, chef ospiti e aspiranti chef si alternano proponendo ricette e raccontando la loro idea di cucina."
-    },
-    {
-      "show_name": "MasterChef Magazine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-magazine.webp",
-      "start_time": "2026-02-20 02:40:00",
-      "end_time": "2026-02-20 03:00:00",
-      "episode_number": "S15 E22",
-      "show_category": "Intrattenimento",
-      "show_description": "L'appuntamento quotidiano in cui giudici, chef ospiti e aspiranti chef si alternano proponendo ricette e raccontando la loro idea di cucina."
-    },
-    {
-      "show_name": "Cucine da incubo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/cucine-da-incubo.webp",
-      "start_time": "2026-02-20 03:00:00",
-      "end_time": "2026-02-20 03:55:00",
-      "episode_number": "S3 E1",
-      "show_category": "Intrattenimento",
-      "show_description": "Lo Chef Antonino Cannavacciuolo visita il ristorante Sabatino ad Anguillara Sabazia, in provincia di Roma, dove un titolare dispotico tiranneggia uno staff di sole donne e cucina abusando di panna da cucina."
-    },
-    {
-      "show_name": "Cucine da incubo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/cucine-da-incubo.webp",
-      "start_time": "2026-02-20 03:55:00",
-      "end_time": "2026-02-20 04:40:00",
-      "episode_number": "S3 E2",
-      "show_category": "Intrattenimento",
-      "show_description": "'A Lanterna' di Genova e' il ristorante gestito dalla Comunita' di San Benedetto al Porto di Genova, fondata da Don Andrea Gallo. Lo Chef Antonino Cannavacciuolo deve reindirizzarli sulla retta via."
-    },
-    {
-      "show_name": "MasterChef USA",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-usa.webp",
-      "start_time": "2026-02-20 04:40:00",
-      "end_time": "2026-02-20 05:20:00",
-      "episode_number": "S23 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "È l'ultima puntata di audizioni con la Gen X che dovrà combattere per avere i cinque grembiuli."
-    },
-    {
-      "show_name": "MasterChef USA",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-usa.webp",
-      "start_time": "2026-02-20 05:20:00",
-      "end_time": "2026-02-20 06:00:00",
-      "episode_number": "S23 E5",
-      "show_category": "Intrattenimento",
-      "show_description": "I concorrenti affrontano la loro prima Mystery Box, dovranno prendere il loro nostalgico comfort food e trasformarlo in un piatto moderno, degno di un ristorante."
-    },
-    {
-      "show_name": "Alessandro Borghese Kitchen Sound",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/alessandro-borghese-kitchen-sound.webp",
-      "start_time": "2026-02-20 06:00:00",
-      "end_time": "2026-02-20 06:10:00",
-      "episode_number": "S10 E30",
-      "show_category": "Intrattenimento",
-      "show_description": "Alessandro Borghese torna a vestire i panni dello chef rock che mescola i suoi sound musicali preferiti agli ingredienti di ricette tradizionali e sperimentazioni innovative."
-    },
-    {
-      "show_name": "MasterChef Magazine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-magazine.webp",
-      "start_time": "2026-02-20 06:10:00",
-      "end_time": "2026-02-20 06:30:00",
-      "episode_number": "S15 E25",
-      "show_category": "Intrattenimento",
-      "show_description": "L'appuntamento quotidiano in cui giudici, ospiti e aspiranti chef ci mostrano le loro preparazioni culinarie. Un'occasione per il pubblico di scoprire nuovi segreti gastronomici e filosofie diverse legate al cibo."
-    },
-    {
-      "show_name": "MasterChef Italia Magazine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-italia-magazine.webp",
-      "start_time": "2026-02-20 06:30:00",
-      "end_time": "2026-02-20 06:55:00",
-      "episode_number": "S15 E27",
-      "show_category": "Intrattenimento",
-      "show_description": "L'appuntamento quotidiano in cui giudici, ospiti e aspiranti chef ci mostrano le loro preparazioni culinarie. Un'occasione per il pubblico di scoprire nuovi segreti gastronomici e filosofie diverse legate al cibo."
-    },
-    {
-      "show_name": "MasterChef Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-italia.webp",
-      "start_time": "2026-02-20 06:55:00",
-      "end_time": "2026-02-20 08:15:00",
-      "episode_number": "S15 E21",
-      "show_category": "Intrattenimento",
-      "show_description": "Il più acclamato programma televisivo dedicato alla cucina, nella patria della grande cucina. I concorrenti gareggiano per realizzare il loro sogno e diventare MasterChef d'Italia."
-    },
-    {
-      "show_name": "MasterChef Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-italia.webp",
-      "start_time": "2026-02-20 08:15:00",
-      "end_time": "2026-02-20 09:35:00",
-      "episode_number": "S15 E22",
-      "show_category": "Intrattenimento",
-      "show_description": "Il più acclamato programma televisivo dedicato alla cucina, nella patria della grande cucina. I concorrenti gareggiano per realizzare il loro sogno e diventare MasterChef d'Italia."
-    },
-    {
-      "show_name": "Alessandro Borghese - Celebrity Chef",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/alessandro-borghese-celebrity-chef.webp",
-      "start_time": "2026-02-20 09:35:00",
-      "end_time": "2026-02-20 10:30:00",
-      "episode_number": "S3 E8",
-      "show_category": "Intrattenimento",
-      "show_description": "Ep.8 - Alessandro Borghese oggi apre le porte del suo ristorante milanese a Costanza Caracciolo e Juliana Moreira che con l'aiuto della brigata si sfideranno ai fornelli."
-    },
-    {
-      "show_name": "MasterChef Italia Magazine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-italia-magazine.webp",
-      "start_time": "2026-02-20 10:30:00",
-      "end_time": "2026-02-20 10:55:00",
-      "episode_number": "S15 E25",
-      "show_category": "Intrattenimento",
-      "show_description": "L'appuntamento quotidiano in cui giudici, ospiti e aspiranti chef ci mostrano le loro preparazioni culinarie. Un'occasione per il pubblico di scoprire nuovi segreti gastronomici e filosofie diverse legate al cibo."
-    },
-    {
-      "show_name": "MasterChef Italia Magazine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-italia-magazine.webp",
-      "start_time": "2026-02-20 10:55:00",
-      "end_time": "2026-02-20 11:20:00",
-      "episode_number": "S15 E27",
-      "show_category": "Intrattenimento",
-      "show_description": "L'appuntamento quotidiano in cui giudici, ospiti e aspiranti chef ci mostrano le loro preparazioni culinarie. Un'occasione per il pubblico di scoprire nuovi segreti gastronomici e filosofie diverse legate al cibo."
-    },
-    {
-      "show_name": "Alessandro Borghese - 4 Ristoranti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/alessandro-borghese-4-ristoranti.webp",
-      "start_time": "2026-02-20 11:20:00",
-      "end_time": "2026-02-20 12:40:00",
-      "episode_number": "S11 E9",
-      "show_category": "Intrattenimento",
-      "show_description": "Una sfida tra locali che esaltano il pescato locale, tra il centro e la città vecchia."
-    },
-    {
-      "show_name": "MasterChef Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-italia.webp",
-      "start_time": "2026-02-20 12:40:00",
-      "end_time": "2026-02-20 14:00:00",
-      "episode_number": "S15 E21",
-      "show_category": "Intrattenimento",
-      "show_description": "Il più acclamato programma televisivo dedicato alla cucina, nella patria della grande cucina. I concorrenti gareggiano per realizzare il loro sogno e diventare MasterChef d'Italia."
-    },
-    {
-      "show_name": "MasterChef Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-italia.webp",
-      "start_time": "2026-02-20 14:00:00",
-      "end_time": "2026-02-20 15:25:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5bb9eeb8-9003-40f7-8064-7de89a5a3757/COVER_TITLE_TALL?territory=IT&version=a6ea0b72-233a-3442-b81a-e73b45f10276&w=600&h=800&md5ChecksumParam=248d514ce31aa788dcbdf80b28db8205",
+      "start_time": "2026-02-21 00:00:00",
+      "end_time": "2026-02-21 01:15:00",
       "episode_number": "S15 E22",
       "show_category": "Intrattenimento",
       "show_description": "Il più acclamato programma televisivo dedicato alla cucina, nella patria della grande cucina. I concorrenti gareggiano per realizzare il loro sogno e diventare MasterChef d'Italia."
     },
     {
       "show_name": "Quattro matrimoni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/quattro-matrimoni.webp",
-      "start_time": "2026-02-20 15:25:00",
-      "end_time": "2026-02-20 16:35:00",
+      "show_logo": "https://guidatv.sky.it/uuid/32e2e609-29dd-40c7-a337-d195ecba86b5/cover?territory=IT&md5ChecksumParam=8eb973ba3b798403ed1bd4b239b63521",
+      "start_time": "2026-02-21 01:15:00",
+      "end_time": "2026-02-21 02:20:00",
       "episode_number": "S7 E1",
       "show_category": "Intrattenimento",
       "show_description": "Costantino della Gherardesca torna a condurre Quattro Matrimoni. In questo episodio lo vediamo mettere in sfida quattro spose che hanno scelto per le loro nozze un abito a sirena."
     },
     {
-      "show_name": "Alessandro Borghese - Celebrity Chef",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/alessandro-borghese-celebrity-chef.webp",
-      "start_time": "2026-02-20 16:35:00",
-      "end_time": "2026-02-20 17:45:00",
-      "episode_number": "S3 E9",
-      "show_category": "Altro",
-      "show_description": "Ep.9 - Alessandro Borghese oggi apre le porte del suo ristorante milanese a Omar Fantini e Vera Spadini che con l’aiuto della brigata si sfideranno ai fornelli."
-    },
-    {
-      "show_name": "Alessandro Borghese - 4 Ristoranti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/alessandro-borghese-4-ristoranti.webp",
-      "start_time": "2026-02-20 17:45:00",
-      "end_time": "2026-02-20 19:00:00",
-      "episode_number": "S11 E9",
+      "show_name": "Cucine da incubo",
+      "show_logo": "https://guidatv.sky.it/uuid/1e94fcab-e841-44e0-9055-790fb20885ef/cover?territory=IT&md5ChecksumParam=3f127826961b2decac5d6f4dcd26f3e1",
+      "start_time": "2026-02-21 02:20:00",
+      "end_time": "2026-02-21 03:05:00",
+      "episode_number": "S3 E3",
       "show_category": "Intrattenimento",
-      "show_description": "Una sfida tra locali che esaltano il pescato locale, tra il centro e la città vecchia."
+      "show_description": "Due giovani fratelli alla guida di un ristorante nel quartiere Centocelle di Roma. Lo Chef Antonino Cannavacciuolo deve correggere una strategia di marketing che riempie il locale, ma svuota la cassa."
     },
     {
-      "show_name": "MasterChef Italia Magazine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-italia-magazine.webp",
-      "start_time": "2026-02-20 19:00:00",
-      "end_time": "2026-02-20 19:25:00",
+      "show_name": "MasterChef Magazine",
+      "show_logo": "https://guidatv.sky.it/uuid/73b3c446-2ad9-4b6a-a99a-18a0762e0d3b/COVER_TITLE_TALL?territory=IT&version=72e26504-5afe-3ebc-887f-ccc918f80c5b&w=600&h=800&md5ChecksumParam=5f4094bd563a6d6dc954a018771c1e77",
+      "start_time": "2026-02-21 03:05:00",
+      "end_time": "2026-02-21 03:25:00",
+      "episode_number": "S15 E20",
+      "show_category": "Intrattenimento",
+      "show_description": "L'appuntamento quotidiano in cui giudici, chef ospiti e aspiranti chef si alternano proponendo ricette e raccontando la loro idea di cucina."
+    },
+    {
+      "show_name": "MasterChef Magazine",
+      "show_logo": "https://guidatv.sky.it/uuid/178dc7b1-ef49-4e07-b53c-18a30a89e7e9/COVER_TITLE_TALL?territory=IT&version=72e26504-5afe-3ebc-887f-ccc918f80c5b&w=600&h=800&md5ChecksumParam=5f4094bd563a6d6dc954a018771c1e77",
+      "start_time": "2026-02-21 03:25:00",
+      "end_time": "2026-02-21 03:40:00",
       "episode_number": "S15 E25",
       "show_category": "Intrattenimento",
       "show_description": "L'appuntamento quotidiano in cui giudici, ospiti e aspiranti chef ci mostrano le loro preparazioni culinarie. Un'occasione per il pubblico di scoprire nuovi segreti gastronomici e filosofie diverse legate al cibo."
     },
     {
-      "show_name": "MasterChef Italia Magazine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-italia-magazine.webp",
-      "start_time": "2026-02-20 19:25:00",
-      "end_time": "2026-02-20 20:00:00",
+      "show_name": "La seconda casa non si scorda mai",
+      "show_logo": "https://guidatv.sky.it/uuid/b5e1aecb-e499-45ee-bfe6-7af1c45ade1a/cover?territory=IT&md5ChecksumParam=3982697d60073904d26505511fcb6c71",
+      "start_time": "2026-02-21 03:40:00",
+      "end_time": "2026-02-21 04:35:00",
+      "episode_number": "S4 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Gianni e Pierangela cercano la loro seconda casa nella campagna marchigiana. Le esigenze dei Giorgi sono molteplici: chi, tra Giulia e Nicola, sapra' soddisfare le loro richieste?"
+    },
+    {
+      "show_name": "MasterChef USA",
+      "show_logo": "https://guidatv.sky.it/uuid/567bd9c1-2a04-4cb9-8040-b1aa2d454af6/cover?territory=IT&md5ChecksumParam=f9b059201b4b56b88f1a5cb290a99f5b",
+      "start_time": "2026-02-21 04:35:00",
+      "end_time": "2026-02-21 05:20:00",
+      "episode_number": "S23 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "I concorrenti affrontano la loro prima Mystery Box, dovranno prendere il loro nostalgico comfort food e trasformarlo in un piatto moderno, degno di un ristorante."
+    },
+    {
+      "show_name": "MasterChef USA",
+      "show_logo": "https://guidatv.sky.it/uuid/6a736f74-281e-43cf-bfd3-311f831a4c9c/cover?territory=IT&md5ChecksumParam=f9b059201b4b56b88f1a5cb290a99f5b",
+      "start_time": "2026-02-21 05:20:00",
+      "end_time": "2026-02-21 06:00:00",
+      "episode_number": "S23 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "In una stagione che è tutta una questione di età, la sfida di stasera è testare se i concorrenti hanno l’abilità culinaria per gestire la cottura di cibi stagionati."
+    },
+    {
+      "show_name": "Quattro matrimoni",
+      "show_logo": "https://guidatv.sky.it/uuid/32e2e609-29dd-40c7-a337-d195ecba86b5/cover?territory=IT&md5ChecksumParam=8eb973ba3b798403ed1bd4b239b63521",
+      "start_time": "2026-02-21 06:00:00",
+      "end_time": "2026-02-21 07:15:00",
+      "episode_number": "S7 E1",
+      "show_category": "Intrattenimento",
+      "show_description": "Costantino della Gherardesca torna a condurre Quattro Matrimoni. In questo episodio lo vediamo mettere in sfida quattro spose che hanno scelto per le loro nozze un abito a sirena."
+    },
+    {
+      "show_name": "Bruno Barbieri - 4 Hotel",
+      "show_logo": "https://guidatv.sky.it/uuid/743b2ada-88f5-4862-898a-82282cf77adc/COVER_TITLE_TALL?territory=IT&version=6f6fd0af-c7c2-3f49-b215-b025d4963af8&w=600&h=800&md5ChecksumParam=95e59c62d982070400952eb6f519d707",
+      "start_time": "2026-02-21 07:15:00",
+      "end_time": "2026-02-21 08:30:00",
+      "episode_number": "S8 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "In questa puntata scopriremo Parma e la sua provincia, il cuore pulsante della Food Valley, il territorio con il maggior numero di prodotti tipici tutelati da marchi di qualità."
+    },
+    {
+      "show_name": "MasterChef Magazine",
+      "show_logo": "https://guidatv.sky.it/uuid/178dc7b1-ef49-4e07-b53c-18a30a89e7e9/COVER_TITLE_TALL?territory=IT&version=72e26504-5afe-3ebc-887f-ccc918f80c5b&w=600&h=800&md5ChecksumParam=5f4094bd563a6d6dc954a018771c1e77",
+      "start_time": "2026-02-21 08:30:00",
+      "end_time": "2026-02-21 08:50:00",
+      "episode_number": "S15 E25",
+      "show_category": "Intrattenimento",
+      "show_description": "L'appuntamento quotidiano in cui giudici, ospiti e aspiranti chef ci mostrano le loro preparazioni culinarie. Un'occasione per il pubblico di scoprire nuovi segreti gastronomici e filosofie diverse legate al cibo."
+    },
+    {
+      "show_name": "MasterChef Magazine",
+      "show_logo": "https://guidatv.sky.it/uuid/2cb3870b-dc76-446d-8ba6-0871fb94bd6b/COVER_TITLE_TALL?territory=IT&version=72e26504-5afe-3ebc-887f-ccc918f80c5b&w=600&h=800&md5ChecksumParam=5f4094bd563a6d6dc954a018771c1e77",
+      "start_time": "2026-02-21 08:50:00",
+      "end_time": "2026-02-21 09:15:00",
       "episode_number": "S15 E27",
       "show_category": "Intrattenimento",
       "show_description": "L'appuntamento quotidiano in cui giudici, ospiti e aspiranti chef ci mostrano le loro preparazioni culinarie. Un'occasione per il pubblico di scoprire nuovi segreti gastronomici e filosofie diverse legate al cibo."
     },
     {
-      "show_name": "Bruno Barbieri - 4 Hotel",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/bruno-barbieri-4-hotel.webp",
-      "start_time": "2026-02-20 20:00:00",
-      "end_time": "2026-02-20 21:15:00",
-      "episode_number": "S8 E5",
-      "show_category": "Intrattenimento",
-      "show_description": "Bruno è pronto per accompagnarvi nei B&B di Bari, un percorso che svelerà le origini di questa città portuale, crocevia di culture e tradizioni."
-    },
-    {
       "show_name": "Alessandro Borghese - 4 Ristoranti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/alessandro-borghese-4-ristoranti.webp",
-      "start_time": "2026-02-20 21:15:00",
-      "end_time": "2026-02-20 22:35:00",
+      "show_logo": "https://guidatv.sky.it/uuid/01ce923c-27f5-4c23-b8b0-8e6c3ccbf9bf/COVER_TITLE_TALL?territory=IT&version=b6991fc7-2c1b-304e-857f-42d02a9b2799&w=600&h=800&md5ChecksumParam=6b8ba0c9ecc6b33ab99863b9f618f6b3",
+      "start_time": "2026-02-21 09:15:00",
+      "end_time": "2026-02-21 10:35:00",
       "episode_number": "S11 E9",
       "show_category": "Intrattenimento",
       "show_description": "Una sfida tra locali che esaltano il pescato locale, tra il centro e la città vecchia."
     },
     {
       "show_name": "MasterChef Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-italia.webp",
-      "start_time": "2026-02-20 22:35:00",
-      "end_time": "2026-02-20 23:50:00",
+      "show_logo": "https://guidatv.sky.it/uuid/fcb016cf-3015-46b4-9cbf-1c24e1189bc5/COVER_TITLE_TALL?territory=IT&version=a6ea0b72-233a-3442-b81a-e73b45f10276&w=600&h=800&md5ChecksumParam=248d514ce31aa788dcbdf80b28db8205",
+      "start_time": "2026-02-21 10:35:00",
+      "end_time": "2026-02-21 11:55:00",
       "episode_number": "S15 E21",
       "show_category": "Intrattenimento",
       "show_description": "Il più acclamato programma televisivo dedicato alla cucina, nella patria della grande cucina. I concorrenti gareggiano per realizzare il loro sogno e diventare MasterChef d'Italia."
     },
     {
       "show_name": "MasterChef Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Uno/tomorrow/masterchef-italia.webp",
-      "start_time": "2026-02-20 23:50:00",
-      "end_time": "2026-02-21 01:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5bb9eeb8-9003-40f7-8064-7de89a5a3757/COVER_TITLE_TALL?territory=IT&version=a6ea0b72-233a-3442-b81a-e73b45f10276&w=600&h=800&md5ChecksumParam=248d514ce31aa788dcbdf80b28db8205",
+      "start_time": "2026-02-21 11:55:00",
+      "end_time": "2026-02-21 13:15:00",
       "episode_number": "S15 E22",
+      "show_category": "Intrattenimento",
+      "show_description": "Il più acclamato programma televisivo dedicato alla cucina, nella patria della grande cucina. I concorrenti gareggiano per realizzare il loro sogno e diventare MasterChef d'Italia."
+    },
+    {
+      "show_name": "Alessandro Borghese - 4 Ristoranti",
+      "show_logo": "https://guidatv.sky.it/uuid/8a741e7e-7aff-4ebc-b6e8-0805b294c8bf/COVER_TITLE_TALL?territory=IT&version=b6991fc7-2c1b-304e-857f-42d02a9b2799&w=600&h=800&md5ChecksumParam=6b8ba0c9ecc6b33ab99863b9f618f6b3",
+      "start_time": "2026-02-21 13:15:00",
+      "end_time": "2026-02-21 14:35:00",
+      "episode_number": "S11 E8",
+      "show_category": "Intrattenimento",
+      "show_description": "Un'avventura guidata da uno degli chef più riconoscibili della TV. Una serie di quattro locali diversi, che si trovano nella stessa zona, devono competere tra loro per stabilire quale sia il migliore."
+    },
+    {
+      "show_name": "Alessandro Borghese - 4 Ristoranti",
+      "show_logo": "https://guidatv.sky.it/uuid/01ce923c-27f5-4c23-b8b0-8e6c3ccbf9bf/COVER_TITLE_TALL?territory=IT&version=b6991fc7-2c1b-304e-857f-42d02a9b2799&w=600&h=800&md5ChecksumParam=6b8ba0c9ecc6b33ab99863b9f618f6b3",
+      "start_time": "2026-02-21 14:35:00",
+      "end_time": "2026-02-21 15:55:00",
+      "episode_number": "S11 E9",
+      "show_category": "Intrattenimento",
+      "show_description": "Una sfida tra locali che esaltano il pescato locale, tra il centro e la città vecchia."
+    },
+    {
+      "show_name": "MasterChef Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/fcb016cf-3015-46b4-9cbf-1c24e1189bc5/COVER_TITLE_TALL?territory=IT&version=a6ea0b72-233a-3442-b81a-e73b45f10276&w=600&h=800&md5ChecksumParam=248d514ce31aa788dcbdf80b28db8205",
+      "start_time": "2026-02-21 15:55:00",
+      "end_time": "2026-02-21 17:15:00",
+      "episode_number": "S15 E21",
+      "show_category": "Intrattenimento",
+      "show_description": "Il più acclamato programma televisivo dedicato alla cucina, nella patria della grande cucina. I concorrenti gareggiano per realizzare il loro sogno e diventare MasterChef d'Italia."
+    },
+    {
+      "show_name": "MasterChef Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/5bb9eeb8-9003-40f7-8064-7de89a5a3757/COVER_TITLE_TALL?territory=IT&version=a6ea0b72-233a-3442-b81a-e73b45f10276&w=600&h=800&md5ChecksumParam=248d514ce31aa788dcbdf80b28db8205",
+      "start_time": "2026-02-21 17:15:00",
+      "end_time": "2026-02-21 18:35:00",
+      "episode_number": "S15 E22",
+      "show_category": "Intrattenimento",
+      "show_description": "Il più acclamato programma televisivo dedicato alla cucina, nella patria della grande cucina. I concorrenti gareggiano per realizzare il loro sogno e diventare MasterChef d'Italia."
+    },
+    {
+      "show_name": "Alessandro Borghese - 4 Ristoranti",
+      "show_logo": "https://guidatv.sky.it/uuid/8a741e7e-7aff-4ebc-b6e8-0805b294c8bf/COVER_TITLE_TALL?territory=IT&version=b6991fc7-2c1b-304e-857f-42d02a9b2799&w=600&h=800&md5ChecksumParam=6b8ba0c9ecc6b33ab99863b9f618f6b3",
+      "start_time": "2026-02-21 18:35:00",
+      "end_time": "2026-02-21 19:55:00",
+      "episode_number": "S11 E8",
+      "show_category": "Intrattenimento",
+      "show_description": "Un'avventura guidata da uno degli chef più riconoscibili della TV. Una serie di quattro locali diversi, che si trovano nella stessa zona, devono competere tra loro per stabilire quale sia il migliore."
+    },
+    {
+      "show_name": "Alessandro Borghese - 4 Ristoranti",
+      "show_logo": "https://guidatv.sky.it/uuid/01ce923c-27f5-4c23-b8b0-8e6c3ccbf9bf/COVER_TITLE_TALL?territory=IT&version=b6991fc7-2c1b-304e-857f-42d02a9b2799&w=600&h=800&md5ChecksumParam=6b8ba0c9ecc6b33ab99863b9f618f6b3",
+      "start_time": "2026-02-21 19:55:00",
+      "end_time": "2026-02-21 21:15:00",
+      "episode_number": "S11 E9",
+      "show_category": "Intrattenimento",
+      "show_description": "Una sfida tra locali che esaltano il pescato locale, tra il centro e la città vecchia."
+    },
+    {
+      "show_name": "MasterChef Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/fcb016cf-3015-46b4-9cbf-1c24e1189bc5/COVER_TITLE_TALL?territory=IT&version=a6ea0b72-233a-3442-b81a-e73b45f10276&w=600&h=800&md5ChecksumParam=248d514ce31aa788dcbdf80b28db8205",
+      "start_time": "2026-02-21 21:15:00",
+      "end_time": "2026-02-21 22:35:00",
+      "episode_number": "S15 E21",
+      "show_category": "Intrattenimento",
+      "show_description": "Il più acclamato programma televisivo dedicato alla cucina, nella patria della grande cucina. I concorrenti gareggiano per realizzare il loro sogno e diventare MasterChef d'Italia."
+    },
+    {
+      "show_name": "MasterChef Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/5bb9eeb8-9003-40f7-8064-7de89a5a3757/COVER_TITLE_TALL?territory=IT&version=a6ea0b72-233a-3442-b81a-e73b45f10276&w=600&h=800&md5ChecksumParam=248d514ce31aa788dcbdf80b28db8205",
+      "start_time": "2026-02-21 22:35:00",
+      "end_time": "2026-02-21 23:55:00",
+      "episode_number": "S15 E22",
+      "show_category": "Intrattenimento",
+      "show_description": "Il più acclamato programma televisivo dedicato alla cucina, nella patria della grande cucina. I concorrenti gareggiano per realizzare il loro sogno e diventare MasterChef d'Italia."
+    },
+    {
+      "show_name": "MasterChef Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/fcb016cf-3015-46b4-9cbf-1c24e1189bc5/COVER_TITLE_TALL?territory=IT&version=a6ea0b72-233a-3442-b81a-e73b45f10276&w=600&h=800&md5ChecksumParam=248d514ce31aa788dcbdf80b28db8205",
+      "start_time": "2026-02-21 23:55:00",
+      "end_time": "2026-02-22 01:10:00",
+      "episode_number": "S15 E21",
       "show_category": "Intrattenimento",
       "show_description": "Il più acclamato programma televisivo dedicato alla cucina, nella patria della grande cucina. I concorrenti gareggiano per realizzare il loro sogno e diventare MasterChef d'Italia."
     }

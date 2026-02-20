@@ -1,258 +1,222 @@
 {
   "channel_name": "Sky Serie",
-  "date": "2026-02-20",
+  "date": "2026-02-21",
   "programs": [
     {
-      "show_name": "Ordinary Joe",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/ordinary-joe.webp",
-      "start_time": "2026-02-20 00:00:00",
-      "end_time": "2026-02-20 00:00:00",
-      "episode_number": "S1 E5",
-      "show_category": "Intrattenimento",
-      "show_description": "La festa di Halloween influisce su ognuno dei tre universi paralleli, fra chi si maschera per evitare la realta' e chi e' pronto a confrontarsi con il vero se stesso."
-    },
-    {
-      "show_name": "Ordinary Joe",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/ordinary-joe.webp",
-      "start_time": "2026-02-20 00:00:00",
-      "end_time": "2026-02-20 00:45:00",
-      "episode_number": "S1 E6",
-      "show_category": "Intrattenimento",
-      "show_description": "Con Jenny fuori citta', il Joe infermiere deve badare a Christopher da solo. Il Joe poliziotto ed Amy affrontano una decisione cruciale."
-    },
-    {
-      "show_name": "The Paper",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/the-paper.webp",
-      "start_time": "2026-02-20 00:45:00",
-      "end_time": "2026-02-20 01:20:00",
-      "episode_number": "S1 E7",
-      "show_category": "Intrattenimento",
-      "show_description": "Con Marv accampato nella redazione, Ned e lo staff devono affrontare i loro problemi irrisolti nei confronti dell'autorità."
-    },
-    {
-      "show_name": "The Paper",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/the-paper.webp",
-      "start_time": "2026-02-20 01:20:00",
-      "end_time": "2026-02-20 03:00:00",
-      "episode_number": "S1 E8",
-      "show_category": "Intrattenimento",
-      "show_description": "Mare scopre una storia che oppone il Truth Teller al suo proprietario. Il passato di Ned come venditore di carta igienica lo perseguita."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/new-amsterdam.webp",
-      "start_time": "2026-02-20 03:00:00",
-      "end_time": "2026-02-20 03:45:00",
-      "episode_number": "S5 E1",
-      "show_category": "Intrattenimento",
-      "show_description": "Mentre Max gestisce con dolore e con fatica l'abbandono di Sharpe, il pronto doccorso viene invaso da persone aggredite e ferite durante un corteo."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/new-amsterdam.webp",
-      "start_time": "2026-02-20 03:45:00",
-      "end_time": "2026-02-20 04:30:00",
-      "episode_number": "S5 E2",
-      "show_category": "Intrattenimento",
-      "show_description": "Max presenta un nuovo piano di riduzione dei costi: una sorta di bancomat a cui i pazienti bisognosi possono attingere previa prescrizione da parte dell'ospedale."
-    },
-    {
-      "show_name": "Suits",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/suits.webp",
-      "start_time": "2026-02-20 04:30:00",
-      "end_time": "2026-02-20 05:15:00",
-      "episode_number": "S9 E8",
-      "show_category": "Intrattenimento",
-      "show_description": "Un vecchio nemico costringe Harvey a rendere conto delle sue azioni passate. Esther ha un problema che solo Louis può risolvere."
-    },
-    {
-      "show_name": "Suits",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/suits.webp",
-      "start_time": "2026-02-20 05:15:00",
-      "end_time": "2026-02-20 06:00:00",
-      "episode_number": "S9 E9",
-      "show_category": "Intrattenimento",
-      "show_description": "Mike aiuta Harvey a superare una perdita personale. Il tentativo di eliminare Faye si complica."
-    },
-    {
-      "show_name": "Ordinary Joe",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/ordinary-joe.webp",
-      "start_time": "2026-02-20 06:00:00",
-      "end_time": "2026-02-20 07:10:00",
-      "episode_number": "S1 E7",
-      "show_category": "Intrattenimento",
-      "show_description": "In un lungo flashback che parte dal 2011 si scoprono nel dettaglio le origini dei tre diversi sentieri paralleli di Joe."
-    },
-    {
-      "show_name": "Ordinary Joe",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/ordinary-joe.webp",
-      "start_time": "2026-02-20 07:10:00",
-      "end_time": "2026-02-20 08:45:00",
-      "episode_number": "S1 E8",
-      "show_category": "Intrattenimento",
-      "show_description": "Il Joe rockstar aiuta Amy a superare un grande dolore. Il Joe infermiere aiuta qualcuno del suo passato. Nella versione da poliziotto, Joe affronta gli effetti di quanto fatto a Bobby."
-    },
-    {
-      "show_name": "The Paper",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/the-paper.webp",
-      "start_time": "2026-02-20 08:45:00",
-      "end_time": "2026-02-20 09:20:00",
-      "episode_number": "S1 E10",
-      "show_category": "Intrattenimento",
-      "show_description": "Ned reprime il suo desiderio di vincere agli Ohio Journalism Awards. Nicole scopre la monogamia di Detrick."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/new-amsterdam.webp",
-      "start_time": "2026-02-20 09:20:00",
-      "end_time": "2026-02-20 10:10:00",
-      "episode_number": "S5 E3",
-      "show_category": "Intrattenimento",
-      "show_description": "Un'esplosione durante una festa di nozze causa molti feriti. Lo sposo è tra questi, e necessita una trasfusione urgente, ma il suo sangue è estremamente raro."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/new-amsterdam.webp",
-      "start_time": "2026-02-20 10:10:00",
-      "end_time": "2026-02-20 11:00:00",
-      "episode_number": "S5 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "Max convoca tutti i medici e ordina loro di cancellare ogni impegno e prendersi la giornata libera per dedicarsi alla loro salute personale. Reynold è incuriosito da un nuovo membro del personale, mentre Iggy va al suo primo appuntamento."
-    },
-    {
-      "show_name": "Suits",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/suits.webp",
-      "start_time": "2026-02-20 11:00:00",
-      "end_time": "2026-02-20 11:50:00",
-      "episode_number": "S9 E9",
-      "show_category": "Intrattenimento",
-      "show_description": "Mike aiuta Harvey a superare una perdita personale. Il tentativo di eliminare Faye si complica."
-    },
-    {
-      "show_name": "Suits",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/suits.webp",
-      "start_time": "2026-02-20 11:50:00",
-      "end_time": "2026-02-20 12:40:00",
-      "episode_number": "S9 E10",
-      "show_category": "Intrattenimento",
-      "show_description": "Di fronte alla sua potenziale distruzione, i soci devono impegnarsi a fondo per salvare l'azienda."
-    },
-    {
-      "show_name": "The Pitt",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/the-pitt.webp",
-      "start_time": "2026-02-20 12:40:00",
-      "end_time": "2026-02-20 13:30:00",
-      "episode_number": "S1 E9",
-      "show_category": "Intrattenimento",
-      "show_description": "Dopo il resoconto di Robby su un caso difficile, Dana interrompe una rissa nella sala d'attesa tra due mamme. Whitaker trova un terreno comune con il 'Kraken', mentre un incidente stradale mette sotto pressione McKay."
-    },
-    {
-      "show_name": "The Pitt",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/the-pitt.webp",
-      "start_time": "2026-02-20 13:30:00",
-      "end_time": "2026-02-20 14:45:00",
-      "episode_number": "S1 E10",
-      "show_category": "Intrattenimento",
-      "show_description": "Con il pronto soccorso a corto di personale, Robby si affida alla sua squadra per colmare l'assenza di un medico. Nel frattempo, Santos esprime i suoi sospetti e Dana torna al pronto soccorso con il naso sanguinante."
-    },
-    {
-      "show_name": "Friends",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/friends.webp",
-      "start_time": "2026-02-20 14:45:00",
-      "end_time": "2026-02-20 15:35:00",
-      "episode_number": "S10 E17",
-      "show_category": "Intrattenimento",
-      "show_description": "Dopo aver passato la notte insieme, Ross vorrebbe chiedere a Rachel di restare e provare a ricominciare, ma non ne trova il coraggio."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/new-amsterdam.webp",
-      "start_time": "2026-02-20 15:35:00",
-      "end_time": "2026-02-20 16:25:00",
-      "episode_number": "S5 E3",
-      "show_category": "Intrattenimento",
-      "show_description": "Un'esplosione durante una festa di nozze causa molti feriti. Lo sposo è tra questi, e necessita una trasfusione urgente, ma il suo sangue è estremamente raro."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/new-amsterdam.webp",
-      "start_time": "2026-02-20 16:25:00",
-      "end_time": "2026-02-20 17:15:00",
-      "episode_number": "S5 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "Max convoca tutti i medici e ordina loro di cancellare ogni impegno e prendersi la giornata libera per dedicarsi alla loro salute personale. Reynold è incuriosito da un nuovo membro del personale, mentre Iggy va al suo primo appuntamento."
-    },
-    {
-      "show_name": "Suits",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/suits.webp",
-      "start_time": "2026-02-20 17:15:00",
-      "end_time": "2026-02-20 18:05:00",
-      "episode_number": "S9 E9",
-      "show_category": "Intrattenimento",
-      "show_description": "Mike aiuta Harvey a superare una perdita personale. Il tentativo di eliminare Faye si complica."
-    },
-    {
-      "show_name": "Suits",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/suits.webp",
-      "start_time": "2026-02-20 18:05:00",
-      "end_time": "2026-02-20 18:55:00",
-      "episode_number": "S9 E10",
-      "show_category": "Intrattenimento",
-      "show_description": "Di fronte alla sua potenziale distruzione, i soci devono impegnarsi a fondo per salvare l'azienda."
-    },
-    {
-      "show_name": "The Paper",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/the-paper.webp",
-      "start_time": "2026-02-20 18:55:00",
-      "end_time": "2026-02-20 19:30:00",
-      "episode_number": "S1 E9",
-      "show_category": "Intrattenimento",
-      "show_description": "Ned e Mare intraprendono un lungo viaggio per intervistare un presunto leader di una setta dopo che Detrick si è tirato indietro."
-    },
-    {
-      "show_name": "The Paper",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/the-paper.webp",
-      "start_time": "2026-02-20 19:30:00",
-      "end_time": "2026-02-20 21:15:00",
-      "episode_number": "S1 E10",
-      "show_category": "Intrattenimento",
-      "show_description": "Ned reprime il suo desiderio di vincere agli Ohio Journalism Awards. Nicole scopre la monogamia di Detrick."
-    },
-    {
-      "show_name": "Ordinary Joe",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/ordinary-joe.webp",
-      "start_time": "2026-02-20 21:15:00",
-      "end_time": "2026-02-20 22:00:00",
-      "episode_number": "S1 E7",
-      "show_category": "Intrattenimento",
-      "show_description": "In un lungo flashback che parte dal 2011 si scoprono nel dettaglio le origini dei tre diversi sentieri paralleli di Joe."
-    },
-    {
-      "show_name": "Ordinary Joe",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/ordinary-joe.webp",
-      "start_time": "2026-02-20 22:00:00",
-      "end_time": "2026-02-20 22:45:00",
-      "episode_number": "S1 E8",
-      "show_category": "Intrattenimento",
-      "show_description": "Il Joe rockstar aiuta Amy a superare un grande dolore. Il Joe infermiere aiuta qualcuno del suo passato. Nella versione da poliziotto, Joe affronta gli effetti di quanto fatto a Bobby."
-    },
-    {
       "show_name": "The Spanish Princess",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/the-spanish-princess.webp",
-      "start_time": "2026-02-20 22:45:00",
-      "end_time": "2026-02-20 23:55:00",
+      "show_logo": "https://guidatv.sky.it/uuid/bd48bdb2-40ef-4692-ae4e-e3acee3a90de/COVER_TITLE_TALL?territory=IT&version=ebc93b74-4e6c-3e77-ac85-40c3f2fb3be6&w=600&h=800&md5ChecksumParam=35fe7b22880f45f10e18162167fc8b16",
+      "start_time": "2026-02-21 00:00:00",
+      "end_time": "2026-02-21 00:05:00",
       "episode_number": "S2 E5",
       "show_category": "Intrattenimento",
       "show_description": "Quando la peste colpisce Londra, la corte fugge a Hampton Court il più velocemente possibile."
     },
     {
       "show_name": "The Spanish Princess",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Serie/tomorrow/the-spanish-princess.webp",
-      "start_time": "2026-02-20 23:55:00",
+      "show_logo": "https://guidatv.sky.it/uuid/b1f39232-4187-412a-bb38-b52923ef3d8a/COVER_TITLE_TALL?territory=IT&version=ebc93b74-4e6c-3e77-ac85-40c3f2fb3be6&w=600&h=800&md5ChecksumParam=35fe7b22880f45f10e18162167fc8b16",
+      "start_time": "2026-02-21 00:05:00",
       "end_time": "2026-02-21 01:05:00",
       "episode_number": "S2 E6",
       "show_category": "Intrattenimento",
       "show_description": "Un grande evento in Francia fa da sfondo a uno scontro politico di ingegno tra Caterina e Wolsey."
+    },
+    {
+      "show_name": "The Paper",
+      "show_logo": "https://guidatv.sky.it/uuid/334f56bd-71e3-4caa-8de7-2afbc611c847/COVER_TITLE_TALL?territory=IT&version=108de5bc-9a53-3470-a6be-308be468ce71&w=600&h=800&md5ChecksumParam=318c5443016a99479971ca1c354fdcb3",
+      "start_time": "2026-02-21 01:05:00",
+      "end_time": "2026-02-21 02:00:00",
+      "episode_number": "S1 E9",
+      "show_category": "Intrattenimento",
+      "show_description": "Ned e Mare intraprendono un lungo viaggio per intervistare un presunto leader di una setta dopo che Detrick si è tirato indietro."
+    },
+    {
+      "show_name": "Friends",
+      "show_logo": "https://guidatv.sky.it/uuid/7cec4ed3-33ed-4dc3-aad4-e356fd8fe1fe/cover?territory=IT&md5ChecksumParam=c477b13dfa7032a9311c54bec5ba3bc6",
+      "start_time": "2026-02-21 02:00:00",
+      "end_time": "2026-02-21 02:50:00",
+      "episode_number": "S10 E17",
+      "show_category": "Intrattenimento",
+      "show_description": "Dopo aver passato la notte insieme, Ross vorrebbe chiedere a Rachel di restare e provare a ricominciare, ma non ne trova il coraggio."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "https://guidatv.sky.it/uuid/da10c669-dc77-4b71-9533-bb7dd2d61270/cover?territory=IT&md5ChecksumParam=9f93a7c0ccc555c855d2a2c3250fd4cc",
+      "start_time": "2026-02-21 02:50:00",
+      "end_time": "2026-02-21 03:35:00",
+      "episode_number": "S5 E3",
+      "show_category": "Intrattenimento",
+      "show_description": "Un'esplosione durante una festa di nozze causa molti feriti. Lo sposo è tra questi, e necessita una trasfusione urgente, ma il suo sangue è estremamente raro."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "https://guidatv.sky.it/uuid/a1311444-7c36-45b7-9ec7-d3c42d34f8af/cover?territory=IT&md5ChecksumParam=9f93a7c0ccc555c855d2a2c3250fd4cc",
+      "start_time": "2026-02-21 03:35:00",
+      "end_time": "2026-02-21 04:25:00",
+      "episode_number": "S5 E4",
+      "show_category": "Intrattenimento",
+      "show_description": "Max convoca tutti i medici e ordina loro di cancellare ogni impegno e prendersi la giornata libera per dedicarsi alla loro salute personale. Reynold è incuriosito da un nuovo membro del personale, mentre Iggy va al suo primo appuntamento."
+    },
+    {
+      "show_name": "Suits",
+      "show_logo": "https://guidatv.sky.it/uuid/f2d2f272-2c0c-455a-806a-cfd39c5908ff/cover?territory=IT&md5ChecksumParam=34bf7c743830361d715d0ca508e38544",
+      "start_time": "2026-02-21 04:25:00",
+      "end_time": "2026-02-21 05:10:00",
+      "episode_number": "S9 E9",
+      "show_category": "Intrattenimento",
+      "show_description": "Mike aiuta Harvey a superare una perdita personale. Il tentativo di eliminare Faye si complica."
+    },
+    {
+      "show_name": "Suits",
+      "show_logo": "https://guidatv.sky.it/uuid/d897df2b-60ea-4ac1-95eb-fbd833a3f9cf/cover?territory=IT&md5ChecksumParam=34bf7c743830361d715d0ca508e38544",
+      "start_time": "2026-02-21 05:10:00",
+      "end_time": "2026-02-21 06:05:00",
+      "episode_number": "S9 E10",
+      "show_category": "Intrattenimento",
+      "show_description": "Di fronte alla sua potenziale distruzione, i soci devono impegnarsi a fondo per salvare l'azienda."
+    },
+    {
+      "show_name": "The Spanish Princess",
+      "show_logo": "https://guidatv.sky.it/uuid/ace67c34-ce67-43c8-a9d7-e757cff3417a/COVER_TITLE_TALL?territory=IT&version=ebc93b74-4e6c-3e77-ac85-40c3f2fb3be6&w=600&h=800&md5ChecksumParam=35fe7b22880f45f10e18162167fc8b16",
+      "start_time": "2026-02-21 06:05:00",
+      "end_time": "2026-02-21 07:10:00",
+      "episode_number": "S2 E7",
+      "show_category": "Intrattenimento",
+      "show_description": "Una nuova religione emerge inaspettatamente. Inoltre, nuove tensioni sorgono a corte e Caterina deve fare tutto il possibile per dissuadere Enrico dalla sua paranoia, che trasforma gli amici in nemici."
+    },
+    {
+      "show_name": "The Spanish Princess",
+      "show_logo": "https://guidatv.sky.it/uuid/4df2c9cd-da0b-4b69-aaee-6601833b224a/COVER_TITLE_TALL?territory=IT&version=ebc93b74-4e6c-3e77-ac85-40c3f2fb3be6&w=600&h=800&md5ChecksumParam=35fe7b22880f45f10e18162167fc8b16",
+      "start_time": "2026-02-21 07:10:00",
+      "end_time": "2026-02-21 08:15:00",
+      "episode_number": "S2 E8",
+      "show_category": "Intrattenimento",
+      "show_description": "Henry sprofonda gradualmente nella follia e la posta in gioco per Catherine è più alta che mai."
+    },
+    {
+      "show_name": "Speciale: Avvocato Ligas",
+      "show_logo": "https://guidatv.sky.it/uuid/26e14dac-ad9e-4ab8-ab36-000ff1f01348/cover?territory=IT&md5ChecksumParam=5b0fd0e611d2ccbb134add1af098bf9a",
+      "start_time": "2026-02-21 08:15:00",
+      "end_time": "2026-02-21 12:15:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Luca Argentero e i suoi compagni di lavoro presentano un'opera che vede come protagonista un penalista anticonvenzionale. Una delle sue caratteristiche distintive è essere sempre pronto a rischiare pur di vincere una causa."
+    },
+    {
+      "show_name": "Fire Country",
+      "show_logo": "https://guidatv.sky.it/uuid/d909539a-56cd-4a1b-bedf-9d062212f389/COVER_TITLE_TALL?territory=IT&version=5f4106d9-ad43-3ab4-8095-8ad496201255&w=600&h=800&md5ChecksumParam=608e681bfbadfea1a8967ac56dbe14b8",
+      "start_time": "2026-02-21 12:15:00",
+      "end_time": "2026-02-21 13:00:00",
+      "episode_number": "S2 E3",
+      "show_category": "Intrattenimento",
+      "show_description": "Quando una famiglia si rifiuta di evacuare la propria proprietà durante un enorme incendio, Jake si trova di fronte a una decisione straziante."
+    },
+    {
+      "show_name": "Fire Country",
+      "show_logo": "https://guidatv.sky.it/uuid/443f2745-1d26-4ef6-b0e9-95d66d362b18/COVER_TITLE_TALL?territory=IT&version=5f4106d9-ad43-3ab4-8095-8ad496201255&w=600&h=800&md5ChecksumParam=608e681bfbadfea1a8967ac56dbe14b8",
+      "start_time": "2026-02-21 13:00:00",
+      "end_time": "2026-02-21 13:55:00",
+      "episode_number": "S2 E4",
+      "show_category": "Intrattenimento",
+      "show_description": "Le squadre della Stazione 42 e di Three Rock intervengono in un impianto chimico dopo una pericolosa fuoriuscita di sostanze tossiche."
+    },
+    {
+      "show_name": "Fire Country",
+      "show_logo": "https://guidatv.sky.it/uuid/9ebbc784-4e95-4f40-80ca-0c181f8ce6de/COVER_TITLE_TALL?territory=IT&version=5f4106d9-ad43-3ab4-8095-8ad496201255&w=600&h=800&md5ChecksumParam=608e681bfbadfea1a8967ac56dbe14b8",
+      "start_time": "2026-02-21 13:55:00",
+      "end_time": "2026-02-21 14:45:00",
+      "episode_number": "S2 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "Il personale della stazione 42 deve proteggere Edgewater e mettersi al riparo quando un tornado di fuoco estremamente pericoloso minaccia un disastro. Scopriamo insieme i dettagli dell'operazione."
+    },
+    {
+      "show_name": "Fire Country",
+      "show_logo": "https://guidatv.sky.it/uuid/60457cec-44b8-41c8-904f-e9949cfb2dc5/COVER_TITLE_TALL?territory=IT&version=5f4106d9-ad43-3ab4-8095-8ad496201255&w=600&h=800&md5ChecksumParam=608e681bfbadfea1a8967ac56dbe14b8",
+      "start_time": "2026-02-21 14:45:00",
+      "end_time": "2026-02-21 15:35:00",
+      "episode_number": "S2 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Dopo che un detenuto è fuggito dal del campo di pompieri di Three Rock, il vice sceriffo Mickey viene chiamato a indagare."
+    },
+    {
+      "show_name": "Call My Agent - Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/5f915838-7bbf-427f-9191-c7fcccd3e2f6/cover?territory=IT&md5ChecksumParam=beaae67b380889037380735209ebe56a",
+      "start_time": "2026-02-21 15:35:00",
+      "end_time": "2026-02-21 16:30:00",
+      "episode_number": "S2 E5",
+      "show_category": "Intrattenimento",
+      "show_description": "Ep5 di 6 Elodie è stata scelta per il nuovo film di Dario Argento, ma un evento inatteso rischia di trasformare in un horror anche la sua vita."
+    },
+    {
+      "show_name": "Call My Agent - Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/b8fa888f-6368-442d-9118-49983de1bd9e/cover?territory=IT&md5ChecksumParam=beaae67b380889037380735209ebe56a",
+      "start_time": "2026-02-21 16:30:00",
+      "end_time": "2026-02-21 17:40:00",
+      "episode_number": "S2 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Ep6 di 6 Dopo il successo oltreoceano, Sabrina Impacciatore è la nuova madrina del Festival di Venezia. Ma “jet set”, si sa, spesso fa rima con “jet lag”…."
+    },
+    {
+      "show_name": "Ordinary Joe",
+      "show_logo": "https://guidatv.sky.it/uuid/3289bf8f-91e4-4e0e-885e-ed8b98d76fc4/cover?territory=IT&md5ChecksumParam=7da4bdf5498b74ebe67fb9076d181669",
+      "start_time": "2026-02-21 17:40:00",
+      "end_time": "2026-02-21 18:30:00",
+      "episode_number": "S1 E7",
+      "show_category": "Intrattenimento",
+      "show_description": "In un lungo flashback che parte dal 2011 si scoprono nel dettaglio le origini dei tre diversi sentieri paralleli di Joe."
+    },
+    {
+      "show_name": "Ordinary Joe",
+      "show_logo": "https://guidatv.sky.it/uuid/2cd65aef-e49e-4c8f-8aab-237d51ab7716/cover?territory=IT&md5ChecksumParam=7da4bdf5498b74ebe67fb9076d181669",
+      "start_time": "2026-02-21 18:30:00",
+      "end_time": "2026-02-21 19:20:00",
+      "episode_number": "S1 E8",
+      "show_category": "Intrattenimento",
+      "show_description": "Il Joe rockstar aiuta Amy a superare un grande dolore. Il Joe infermiere aiuta qualcuno del suo passato. Nella versione da poliziotto, Joe affronta gli effetti di quanto fatto a Bobby."
+    },
+    {
+      "show_name": "The Pitt",
+      "show_logo": "https://guidatv.sky.it/uuid/e3cc1297-c58c-4cb8-bc5d-f37dab3f4357/COVER_TITLE_TALL?territory=IT&version=5e7d827b-7575-3a43-a98c-532897eee0c0&w=600&h=800&md5ChecksumParam=f75912081809aed44021b5a2ab6a5f47",
+      "start_time": "2026-02-21 19:20:00",
+      "end_time": "2026-02-21 20:15:00",
+      "episode_number": "S1 E9",
+      "show_category": "Intrattenimento",
+      "show_description": "Dopo il resoconto di Robby su un caso difficile, Dana interrompe una rissa nella sala d'attesa tra due mamme. Whitaker trova un terreno comune con il 'Kraken', mentre un incidente stradale mette sotto pressione McKay."
+    },
+    {
+      "show_name": "The Pitt",
+      "show_logo": "https://guidatv.sky.it/uuid/742189b3-a819-4b9d-a873-5cd5466f02bf/COVER_TITLE_TALL?territory=IT&version=5e7d827b-7575-3a43-a98c-532897eee0c0&w=600&h=800&md5ChecksumParam=f75912081809aed44021b5a2ab6a5f47",
+      "start_time": "2026-02-21 20:15:00",
+      "end_time": "2026-02-21 21:15:00",
+      "episode_number": "S1 E10",
+      "show_category": "Intrattenimento",
+      "show_description": "Con il pronto soccorso a corto di personale, Robby si affida alla sua squadra per colmare l'assenza di un medico. Nel frattempo, Santos esprime i suoi sospetti e Dana torna al pronto soccorso con il naso sanguinante."
+    },
+    {
+      "show_name": "The Spanish Princess",
+      "show_logo": "https://guidatv.sky.it/uuid/ace67c34-ce67-43c8-a9d7-e757cff3417a/COVER_TITLE_TALL?territory=IT&version=ebc93b74-4e6c-3e77-ac85-40c3f2fb3be6&w=600&h=800&md5ChecksumParam=35fe7b22880f45f10e18162167fc8b16",
+      "start_time": "2026-02-21 21:15:00",
+      "end_time": "2026-02-21 22:20:00",
+      "episode_number": "S2 E7",
+      "show_category": "Intrattenimento",
+      "show_description": "Una nuova religione emerge inaspettatamente. Inoltre, nuove tensioni sorgono a corte e Caterina deve fare tutto il possibile per dissuadere Enrico dalla sua paranoia, che trasforma gli amici in nemici."
+    },
+    {
+      "show_name": "The Spanish Princess",
+      "show_logo": "https://guidatv.sky.it/uuid/4df2c9cd-da0b-4b69-aaee-6601833b224a/COVER_TITLE_TALL?territory=IT&version=ebc93b74-4e6c-3e77-ac85-40c3f2fb3be6&w=600&h=800&md5ChecksumParam=35fe7b22880f45f10e18162167fc8b16",
+      "start_time": "2026-02-21 22:20:00",
+      "end_time": "2026-02-21 23:30:00",
+      "episode_number": "S2 E8",
+      "show_category": "Intrattenimento",
+      "show_description": "Henry sprofonda gradualmente nella follia e la posta in gioco per Catherine è più alta che mai."
+    },
+    {
+      "show_name": "The Spanish Princess",
+      "show_logo": "https://guidatv.sky.it/uuid/ace67c34-ce67-43c8-a9d7-e757cff3417a/COVER_TITLE_TALL?territory=IT&version=ebc93b74-4e6c-3e77-ac85-40c3f2fb3be6&w=600&h=800&md5ChecksumParam=35fe7b22880f45f10e18162167fc8b16",
+      "start_time": "2026-02-21 23:30:00",
+      "end_time": "2026-02-22 00:35:00",
+      "episode_number": "S2 E7",
+      "show_category": "Intrattenimento",
+      "show_description": "Una nuova religione emerge inaspettatamente. Inoltre, nuove tensioni sorgono a corte e Caterina deve fare tutto il possibile per dissuadere Enrico dalla sua paranoia, che trasforma gli amici in nemici."
     }
   ]
 }
