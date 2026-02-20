@@ -15,7 +15,30 @@ EPG_URLS = [
 
 OUTPUT_DIR_TODAY = "schedule/today"
 OUTPUT_DIR_TOMORROW = "schedule/tomorrow"
+FILTER_FILE = "filter.txt"
 TZ_ITALY = pytz.timezone('Europe/Rome')
+
+def load_filter(filepath):
+    """
+    Reads filter.txt and returns a dictionary mapping channel IDs to channel names.
+    Expects format: Channel.ID, Channel Name
+    """
+    allowed_channels = {}
+    if not os.path.exists(filepath):
+        print(f"Error: {filepath} not found in the current directory.")
+        return allowed_channels
+        
+    with open(filepath, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            # Ignore empty lines and comments
+            if line and not line.startswith('#'):
+                parts = line.split(',', 1)
+                if len(parts) == 2:
+                    c_id = parts[0].strip()
+                    c_name = parts[1].strip()
+                    allowed_channels[c_id] = c_name
+    return allowed_channels
 
 def get_xml_root(url):
     """
@@ -63,6 +86,12 @@ def sanitize_filename(name):
     return clean_name
 
 def extract_schedule():
+    # Load the filter list
+    allowed_channels = load_filter(FILTER_FILE)
+    if not allowed_channels:
+        print(f"No channels loaded from {FILTER_FILE}. Exiting.")
+        return
+
     # Prepare data structure: { 'Channel Name': [list of programs] }
     all_extracted_data = {}
     
@@ -75,27 +104,27 @@ def extract_schedule():
         print("Parsing XML data...")
 
         # 1. Map Channel IDs to Display Names from the XML itself
-        # We need this because <programme> tags only have the ID, not the name.
         channel_id_map = {} 
         
         for channel in root.findall('channel'):
             c_id = channel.get('id')
-            display_name = channel.find('display-name')
             
-            # Use display name if available, otherwise fallback to ID
-            c_name = display_name.text if display_name is not None else c_id
+            # Skip channels that are not in our filter.txt
+            if c_id not in allowed_channels:
+                continue
             
-            if c_id:
-                channel_id_map[c_id] = c_name
+            # Use the preferred display name from filter.txt
+            c_name = allowed_channels[c_id]
+            channel_id_map[c_id] = c_name
 
-        print(f"Found {len(channel_id_map)} channels in XML.")
+        print(f"Found {len(channel_id_map)} filtered channels in XML.")
 
         # 2. Parse Programmes
         count_progs = 0
         for prog in root.findall('programme'):
             channel_id = prog.get('channel')
             
-            # Only process if we know the channel name (which we should from step 1)
+            # Only process if we know the channel name (which is now pre-filtered)
             if channel_id in channel_id_map:
                 channel_name_clean = channel_id_map[channel_id]
                 
@@ -132,7 +161,7 @@ def extract_schedule():
                 all_extracted_data[channel_name_clean].append(program_data)
                 count_progs += 1
         
-        print(f"Extracted {count_progs} programs.")
+        print(f"Extracted {count_progs} programs for filtered channels.")
 
     # 3. Process and Save Data (Today/Tomorrow Split)
     now_italy = datetime.now(TZ_ITALY)
