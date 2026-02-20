@@ -16,6 +16,7 @@ EPG_URLS = [
 OUTPUT_DIR_TODAY = "schedule/today"
 OUTPUT_DIR_TOMORROW = "schedule/tomorrow"
 FILTER_FILE = "filter.txt"
+LOG_FILE = "scrape.log"
 TZ_ITALY = pytz.timezone('Europe/Rome')
 
 def load_filter(filepath):
@@ -163,7 +164,7 @@ def extract_schedule():
         
         print(f"Extracted {count_progs} programs for filtered channels.")
 
-    # 3. Process and Save Data (Today/Tomorrow Split)
+    # 3. Process, Save Data, and Write Log (Today/Tomorrow Split)
     now_italy = datetime.now(TZ_ITALY)
     today_date = now_italy.date()
     tomorrow_date = today_date + timedelta(days=1)
@@ -172,63 +173,80 @@ def extract_schedule():
     os.makedirs(OUTPUT_DIR_TODAY, exist_ok=True)
     os.makedirs(OUTPUT_DIR_TOMORROW, exist_ok=True)
     
-    print(f"Saving schedules for {today_date} and {tomorrow_date}...")
+    print(f"Saving schedules for {today_date} and {tomorrow_date} and writing log...")
 
     files_saved = 0
-    for ch_name, programs in all_extracted_data.items():
-        # Sort programs by start time
-        programs.sort(key=lambda x: x['start_dt'])
+    
+    # Open log file to write results
+    with open(LOG_FILE, 'w', encoding='utf-8') as log_f:
+        log_f.write(f"--- Scrape Log: {now_italy.strftime('%Y-%m-%d %H:%M:%S')} ---\n\n")
         
-        for target_date, folder in [(today_date, OUTPUT_DIR_TODAY), (tomorrow_date, OUTPUT_DIR_TOMORROW)]:
-            daily_schedule = []
+        # Iterate over ALL allowed channels from filter.txt to catch missing ones
+        for c_id, ch_name in allowed_channels.items():
+            log_f.write(f"[{ch_name} (ID: {c_id})]\n")
             
-            # Define Day Start and End in Italy time
-            day_start = TZ_ITALY.localize(datetime.combine(target_date, time.min))
-            day_end = TZ_ITALY.localize(datetime.combine(target_date, time.max))
+            programs = all_extracted_data.get(ch_name, [])
+            if programs:
+                programs.sort(key=lambda x: x['start_dt'])
             
-            for p in programs:
-                p_start = p['start_dt']
-                p_end = p['end_dt']
-                
-                # Check overlap (Start is before day end AND End is after day start)
-                if p_start <= day_end and p_end >= day_start:
-                    
-                    # Clip start time for display if it starts before today
-                    display_start = p_start
-                    if p_start < day_start:
-                        display_start = day_start
-                    
-                    fmt = "%Y-%m-%d %H:%M:%S"
-                    
-                    entry = {
-                        "show_name": p['show_name'],
-                        "show_logo": p['logo_url'],
-                        "start_time": display_start.strftime(fmt),
-                        "end_time": p_end.strftime(fmt),
-                        "episode_number": p['episode'],
-                        "show_category": p['category'],
-                        "show_description": p['description']
-                    }
-                    daily_schedule.append(entry)
-            
-            if daily_schedule:
-                json_output = {
-                    "channel_name": ch_name,
-                    "date": str(target_date),
-                    "programs": daily_schedule
-                }
-                
-                filename = f"{sanitize_filename(ch_name)}.json"
-                file_path = os.path.join(folder, filename)
-                
-                try:
-                    with open(file_path, 'w', encoding='utf-8') as f:
-                        json.dump(json_output, f, indent=2, ensure_ascii=False)
-                    files_saved += 1
-                except OSError as e:
-                    print(f"Error saving file for {ch_name}: {e}")
+            # Check for both Today and Tomorrow
+            for target_date, folder, day_label in [(today_date, OUTPUT_DIR_TODAY, "Today"), (tomorrow_date, OUTPUT_DIR_TOMORROW, "Tomorrow")]:
+                if not programs:
+                    log_f.write(f"  -> {day_label} ({target_date}): FAILED - No data found in XML source.\n")
+                    continue
 
-    print(f"Done! Saved {files_saved} JSON files.")
+                daily_schedule = []
+                
+                # Define Day Start and End in Italy time
+                day_start = TZ_ITALY.localize(datetime.combine(target_date, time.min))
+                day_end = TZ_ITALY.localize(datetime.combine(target_date, time.max))
+                
+                for p in programs:
+                    p_start = p['start_dt']
+                    p_end = p['end_dt']
+                    
+                    # Check overlap (Start is before day end AND End is after day start)
+                    if p_start <= day_end and p_end >= day_start:
+                        
+                        # Clip start time for display if it starts before today
+                        display_start = p_start if p_start >= day_start else day_start
+                        fmt = "%Y-%m-%d %H:%M:%S"
+                        
+                        entry = {
+                            "show_name": p['show_name'],
+                            "show_logo": p['logo_url'],
+                            "start_time": display_start.strftime(fmt),
+                            "end_time": p_end.strftime(fmt),
+                            "episode_number": p['episode'],
+                            "show_category": p['category'],
+                            "show_description": p['description']
+                        }
+                        daily_schedule.append(entry)
+                
+                if not daily_schedule:
+                    log_f.write(f"  -> {day_label} ({target_date}): FAILED - No programs scheduled for this specific date.\n")
+                else:
+                    json_output = {
+                        "channel_name": ch_name,
+                        "date": str(target_date),
+                        "programs": daily_schedule
+                    }
+                    
+                    filename = f"{sanitize_filename(ch_name)}.json"
+                    file_path = os.path.join(folder, filename)
+                    
+                    try:
+                        with open(file_path, 'w', encoding='utf-8') as f:
+                            json.dump(json_output, f, indent=2, ensure_ascii=False)
+                        files_saved += 1
+                        log_f.write(f"  -> {day_label} ({target_date}): SUCCESS - Saved {len(daily_schedule)} programs.\n")
+                    except OSError as e:
+                        log_f.write(f"  -> {day_label} ({target_date}): FAILED - OS Error while saving file: {e}\n")
+                        print(f"Error saving file for {ch_name}: {e}")
+            
+            log_f.write("\n") # Add a blank line between channels in the log for readability
+
+    print(f"Done! Saved {files_saved} JSON files. Check {LOG_FILE} for full details.")
 
 if __name__ == "__main__":
     extract_schedule()
