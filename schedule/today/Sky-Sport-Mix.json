@@ -1,249 +1,204 @@
 {
   "channel_name": "Sky Sport Mix",
-  "date": "2026-02-20",
+  "date": "2026-02-21",
   "programs": [
     {
-      "show_name": "Efes - Virtus Bologna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/efes-virtus-bologna.webp",
-      "start_time": "2026-02-20 00:00:00",
-      "end_time": "2026-02-20 01:25:00",
-      "episode_number": "S2025 E100",
-      "show_category": "Sport",
-      "show_description": "Le migliori squadre d'Europa si affrontano nell'Eurolega."
-    },
-    {
-      "show_name": "Ep.41",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/ep-41.webp",
-      "start_time": "2026-02-20 01:25:00",
-      "end_time": "2026-02-20 01:55:00",
-      "episode_number": "S1 E41",
-      "show_category": "Sport",
-      "show_description": "I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia."
-    },
-    {
-      "show_name": "World Athletics Indoor Tour - Stag. World Athletics Indoor Tour Gold 2026 - World Athletics Indoor Tour Gold 2026 Liévin 19/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/world-athletics-indoor-tour-stag-world-athletics-indoor-tour-gold-2026-world-athletics-indoor-tour-gold-2026-li-vin-19-02-2026.webp",
-      "start_time": "2026-02-20 01:55:00",
-      "end_time": "2026-02-20 04:10:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Lievin - L'appuntamento con i migliori meeting indoor del calendario di atletica leggera."
-    },
-    {
       "show_name": "Rugby Six Nations - Ep. 6 - Rugby Six Nations 2026 2ga Galles/ Francia 15/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/rugby-six-nations-ep-6-rugby-six-nations-2026-2ga-galles-francia-15-02-2026.webp",
-      "start_time": "2026-02-20 04:10:00",
-      "end_time": "2026-02-20 06:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/ad581548-1ca8-4f0e-9669-2ba5f31cc591/cover?territory=IT&md5ChecksumParam=fa2a942f1bf77fa8f3d2ef304090371b",
+      "start_time": "2026-02-21 00:00:00",
+      "end_time": "2026-02-21 01:30:00",
       "episode_number": "S2026 E6",
       "show_category": "Sport",
       "show_description": "Dal Principality Stadium di Cardiff, Galles."
     },
     {
-      "show_name": "Irlanda - Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/irlanda-italia.webp",
-      "start_time": "2026-02-20 06:00:00",
-      "end_time": "2026-02-20 08:00:00",
-      "episode_number": "S2026 E5",
-      "show_category": "Sport",
-      "show_description": "Copertura del Torneo 6 Nazioni U20."
-    },
-    {
-      "show_name": "Round 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/round-2.webp",
-      "start_time": "2026-02-20 08:00:00",
-      "end_time": "2026-02-20 08:15:00",
-      "episode_number": "S2026 E2",
-      "show_category": "Sport",
-      "show_description": "Rugby Six Nations Highlights 2026 Round 2 16/02/2026 - Scopriamo i momenti migliori del primo turno del \"Rugby Six Nations\" dell'anno 2026."
-    },
-    {
-      "show_name": "Rugby Six Nations Highlights - Ep. 2 - Rugby Six Nations U20 Highlights 2026 Round 2 16/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/rugby-six-nations-highlights-ep-2-rugby-six-nations-u20-highlights-2026-round-2-16-02-2026.webp",
-      "start_time": "2026-02-20 08:15:00",
-      "end_time": "2026-02-20 08:30:00",
-      "episode_number": "S2026 E2",
-      "show_category": "Sport",
-      "show_description": "Ritorniamo sulle partite del torneo internazionale di rugby under 20."
-    },
-    {
-      "show_name": "Ep.2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/ep-2.webp",
-      "start_time": "2026-02-20 08:30:00",
-      "end_time": "2026-02-20 09:00:00",
-      "episode_number": "S2026 E2",
-      "show_category": "Sport",
-      "show_description": "Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico."
-    },
-    {
-      "show_name": "Messina 1a Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/messina-1a-parte.webp",
-      "start_time": "2026-02-20 09:00:00",
-      "end_time": "2026-02-20 10:00:00",
-      "episode_number": "S1 E32",
-      "show_category": "Sport",
-      "show_description": "Dal silenzio alla scelta: Ettore Messina torna a parlare dopo le sue dimissioni. Tra vittorie e piazze che dividono, autoesigenza, pressioni e responsabilità di un allenatore."
-    },
-    {
-      "show_name": "Rally Wrc - Ep. 12 - Rally Wrc 2026 Svezia Live Stage 4 15/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/rally-wrc-ep-12-rally-wrc-2026-svezia-live-stage-4-15-02-2026.webp",
-      "start_time": "2026-02-20 10:00:00",
-      "end_time": "2026-02-20 11:15:00",
-      "episode_number": "S2026 E12",
-      "show_category": "Sport",
-      "show_description": "Segui le gare del World Rally Championship."
-    },
-    {
-      "show_name": "Ep.17",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/ep-17.webp",
-      "start_time": "2026-02-20 11:15:00",
-      "end_time": "2026-02-20 11:30:00",
-      "episode_number": "S2025 E17",
-      "show_category": "Sport",
-      "show_description": "Motonautica On Board."
-    },
-    {
-      "show_name": "World Athletics Indoor Tour - Stag. World Athletics Indoor Tour Gold 2026 - World Athletics Indoor Tour Gold 2026 Liévin 19/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/world-athletics-indoor-tour-stag-world-athletics-indoor-tour-gold-2026-world-athletics-indoor-tour-gold-2026-li-vin-19-02-2026.webp",
-      "start_time": "2026-02-20 11:30:00",
-      "end_time": "2026-02-20 13:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Lievin - L'appuntamento con i migliori meeting indoor del calendario di atletica leggera."
-    },
-    {
-      "show_name": "Ep.2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/ep-2.webp",
-      "start_time": "2026-02-20 13:30:00",
-      "end_time": "2026-02-20 14:00:00",
-      "episode_number": "S2026 E2",
-      "show_category": "Sport",
-      "show_description": "Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico."
-    },
-    {
-      "show_name": "Laureus Spirit Of Sport - Ep. 13 - Laureus Spirit Of Sport Ep.13 03/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/laureus-spirit-of-sport-ep-13-laureus-spirit-of-sport-ep-13-03-02-2026.webp",
-      "start_time": "2026-02-20 14:00:00",
-      "end_time": "2026-02-20 14:30:00",
-      "episode_number": "S2025 E13",
-      "show_category": "Sport",
-      "show_description": "Laureus Spirit Of Sport Ep.13 03/02/2026 - Laureus Spirit Of Sport."
-    },
-    {
-      "show_name": "Rugby Six Nations Highlights - Ep. 2 - Rugby Six Nations U20 Highlights 2026 Round 2 16/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/rugby-six-nations-highlights-ep-2-rugby-six-nations-u20-highlights-2026-round-2-16-02-2026.webp",
-      "start_time": "2026-02-20 14:30:00",
-      "end_time": "2026-02-20 14:45:00",
-      "episode_number": "S2026 E2",
-      "show_category": "Sport",
-      "show_description": "Ritorniamo sulle partite del torneo internazionale di rugby under 20."
-    },
-    {
       "show_name": "Civitanova - Varsavia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/civitanova-varsavia.webp",
-      "start_time": "2026-02-20 14:45:00",
-      "end_time": "2026-02-20 17:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/87269d17-e6dc-4935-bb75-bb4bf21d9d8a/cover?territory=IT&md5ChecksumParam=241efc53656b98c86805c435c9b96585",
+      "start_time": "2026-02-21 01:30:00",
+      "end_time": "2026-02-21 04:00:00",
       "episode_number": "S2025 E40",
       "show_category": "Sport",
       "show_description": "Dal Palasport Eurosuole Forum di Civitanova, Italia."
     },
     {
-      "show_name": "Federico Buffa A Teatro: Otto Infinito",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/federico-buffa-a-teatro-otto-infinito.webp",
-      "start_time": "2026-02-20 17:30:00",
-      "end_time": "2026-02-20 18:00:00",
+      "show_name": "World Athletics Indoor Tour - Stag. World Athletics Indoor Tour Gold 2026 - World Athletics Indoor Tour Gold 2026 Liévin 19/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/d98a7860-b7e6-4656-bb4e-30b63e11092f/cover?territory=IT&md5ChecksumParam=6f66eacafe9ea4e3815c022439ddfbd3",
+      "start_time": "2026-02-21 04:00:00",
+      "end_time": "2026-02-21 06:00:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Federico Buffa, la regista Marelli e il maestro Nidi aprono il backstage a Sky Sport: genesi, trama e legacy dello spettacolo su Kobe Bryant. Dal 7 febbraio a teatro."
+      "show_description": "Lievin - L'appuntamento con i migliori meeting indoor del calendario di atletica leggera."
+    },
+    {
+      "show_name": "World Athletics Indoor Tour - Stag. World Athletics Indoor Tour Gold 2026 - World Athletics Indoor Tour Gold 2026 Liévin 19/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/d98a7860-b7e6-4656-bb4e-30b63e11092f/cover?territory=IT&md5ChecksumParam=6f66eacafe9ea4e3815c022439ddfbd3",
+      "start_time": "2026-02-21 06:00:00",
+      "end_time": "2026-02-21 07:55:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Lievin - L'appuntamento con i migliori meeting indoor del calendario di atletica leggera."
+    },
+    {
+      "show_name": "Michel Platini: Le Roi",
+      "show_logo": "https://guidatv.sky.it/uuid/bd2bee7f-f123-4132-b146-b740818bd001/cover?territory=IT&md5ChecksumParam=6fe8dc3aa3a562126953f8988c42ca67",
+      "start_time": "2026-02-21 07:55:00",
+      "end_time": "2026-02-21 08:50:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Michel Platini: Le Roi - Michel Platini: Le Roi."
     },
     {
       "show_name": "Ep.2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/ep-2.webp",
-      "start_time": "2026-02-20 18:00:00",
-      "end_time": "2026-02-20 18:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/4021a8d0-e706-4933-9871-0ad6029aec08/cover?territory=IT&md5ChecksumParam=deaed84234f9ae9a41191430bf449ef2",
+      "start_time": "2026-02-21 08:50:00",
+      "end_time": "2026-02-21 09:20:00",
       "episode_number": "S2026 E2",
       "show_category": "Sport",
       "show_description": "Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico."
     },
     {
-      "show_name": "Sport Awards San Marino",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/sport-awards-san-marino.webp",
-      "start_time": "2026-02-20 18:30:00",
-      "end_time": "2026-02-20 18:45:00",
-      "episode_number": "S2024 E22",
+      "show_name": "Trentino - Ankara",
+      "show_logo": "https://guidatv.sky.it/uuid/1a64e807-2f0d-4140-b70f-18991c74d070/cover?territory=IT&md5ChecksumParam=a9db794c64cd1451de690b3e068832e4",
+      "start_time": "2026-02-21 09:20:00",
+      "end_time": "2026-02-21 11:25:00",
+      "episode_number": "S2025 E42",
       "show_category": "Sport",
-      "show_description": "Attraverso il racconto di allenatori, atleti e specialisti di settore di ieri e di oggi, scopriamo alcuni dei cambiamenti più importanti nell’evoluzione degli sport."
+      "show_description": "Segui la partita valida per la Champions League di pallavolo."
+    },
+    {
+      "show_name": "Messina 2a Parte",
+      "show_logo": "https://guidatv.sky.it/uuid/7a9de7e0-d6b2-49a9-8554-55ba332bfb84/cover?territory=IT&md5ChecksumParam=d866bd2e1b3db48db3402fc7c8cbe0e2",
+      "start_time": "2026-02-21 11:25:00",
+      "end_time": "2026-02-21 12:20:00",
+      "episode_number": "S1 E33",
+      "show_category": "Sport",
+      "show_description": "Federico Buffa Talks - Messina 2a Parte 17/02/2026 - Federico Buffa Talks."
+    },
+    {
+      "show_name": "La Valanga Azzurra",
+      "show_logo": "https://guidatv.sky.it/uuid/016365ad-8f7b-45c8-8c82-c0e8255163f0/cover?territory=IT&md5ChecksumParam=d07b2dbdc94e19d3bfc046f32a77a60e",
+      "start_time": "2026-02-21 12:20:00",
+      "end_time": "2026-02-21 13:55:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un documentario che ci racconta lo sci alpino negli anni Settanta ma, soprattutto, la mitica nazionale italiana di sci in quegli anni e i suoi successi straordinari."
     },
     {
       "show_name": "Davide Bendotti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/davide-bendotti.webp",
-      "start_time": "2026-02-20 18:45:00",
-      "end_time": "2026-02-20 19:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/7dbdaf20-02ef-494e-8eb7-eee3ee6927b7/cover?territory=IT&md5ChecksumParam=acf86cd003e6be2cf16c4b53f2246bd7",
+      "start_time": "2026-02-21 13:55:00",
+      "end_time": "2026-02-21 14:15:00",
       "episode_number": "S2026 E5",
       "show_category": "Sport",
       "show_description": "Cinque protagonisti della Squadra Nazionale Italiana raccontano aneddoti, ricordi, obiettivi, speranze e cosa significa per loro 'spirito olimpico'. Al contempo, due leggende dello sport azzurro rivivono i loro momenti magici a cinque cerchi."
     },
     {
-      "show_name": "Ibrahimovic: Io Zlatan",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/ibrahimovic-io-zlatan.webp",
-      "start_time": "2026-02-20 19:00:00",
-      "end_time": "2026-02-20 20:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Zlatan Ibrahimovic, ospite al Festival dello Sport di Trento, organizzato da Gazzetta dello Sport e Trentino, racconta la sua carriera con aneddoti e emozione."
-    },
-    {
-      "show_name": "Round 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/round-2.webp",
-      "start_time": "2026-02-20 20:00:00",
-      "end_time": "2026-02-20 20:15:00",
-      "episode_number": "S2026 E2",
-      "show_category": "Sport",
-      "show_description": "Rugby Six Nations Highlights 2026 Round 2 16/02/2026 - Scopriamo i momenti migliori del primo turno del \"Rugby Six Nations\" dell'anno 2026."
-    },
-    {
-      "show_name": "Rugby Six Nations U20 - Ep. 7 - Rugby Six Nations U20 2026 3ga Galles/ Scozia 20/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/rugby-six-nations-u20-ep-7-rugby-six-nations-u20-2026-3ga-galles-scozia-20-02-2026.webp",
-      "start_time": "2026-02-20 20:15:00",
-      "end_time": "2026-02-20 22:15:00",
-      "episode_number": "S2026 E7",
-      "show_category": "Sport",
-      "show_description": "Rugby Six Nations U20 2026 3ga Galles/ Scozia 20/02/2026."
-    },
-    {
-      "show_name": "La Giovane Italia - Ep. 3 - La Giovane Italia 2026 Ep.3 19/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/la-giovane-italia-ep-3-la-giovane-italia-2026-ep-3-19-02-2026.webp",
-      "start_time": "2026-02-20 22:15:00",
-      "end_time": "2026-02-20 22:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "La Giovane Italia 2026 Ep.3 19/02/2026 - Servizi informativi dedicati ai piu' piccoli sportivi italiani e alle realta' giovanili legate al calcio, tra trofei, incontri, e storie."
-    },
-    {
       "show_name": "Ep.3",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/ep-3.webp",
-      "start_time": "2026-02-20 22:30:00",
-      "end_time": "2026-02-20 23:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/8a008453-6ea7-465e-97ac-67147e8ab528/cover?territory=IT&md5ChecksumParam=f7d7349a1065089092ee875f210d1ada",
+      "start_time": "2026-02-21 14:15:00",
+      "end_time": "2026-02-21 14:55:00",
       "episode_number": "S2026 E3",
       "show_category": "Sport",
       "show_description": "Racconta l'Italia intrecciando la storia delle Olimpiadi e delle infrastrutture ferroviarie, mostrando come i grandi eventi abbiano accelerato il cambiamento del Paese."
     },
     {
-      "show_name": "Davide Bendotti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/davide-bendotti.webp",
-      "start_time": "2026-02-20 23:15:00",
-      "end_time": "2026-02-20 23:30:00",
-      "episode_number": "S2026 E5",
+      "show_name": "Ep.2",
+      "show_logo": "https://guidatv.sky.it/uuid/4021a8d0-e706-4933-9871-0ad6029aec08/cover?territory=IT&md5ChecksumParam=deaed84234f9ae9a41191430bf449ef2",
+      "start_time": "2026-02-21 14:55:00",
+      "end_time": "2026-02-21 15:25:00",
+      "episode_number": "S2026 E2",
       "show_category": "Sport",
-      "show_description": "Cinque protagonisti della Squadra Nazionale Italiana raccontano aneddoti, ricordi, obiettivi, speranze e cosa significa per loro 'spirito olimpico'. Al contempo, due leggende dello sport azzurro rivivono i loro momenti magici a cinque cerchi."
+      "show_description": "Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico."
     },
     {
-      "show_name": "Rugby Six Nations - Ep. 6 - Rugby Six Nations 2026 2ga Galles/ Francia 15/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/rugby-six-nations-ep-6-rugby-six-nations-2026-2ga-galles-francia-15-02-2026.webp",
-      "start_time": "2026-02-20 23:30:00",
-      "end_time": "2026-02-21 01:30:00",
-      "episode_number": "S2026 E6",
+      "show_name": "La Giovane Italia - Ep. 3 - La Giovane Italia 2026 Ep.3 19/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/2bd42b63-4230-4d3e-a3a0-c23b6ee226d7/cover?territory=IT&md5ChecksumParam=9cbbacfb912c119b5153385c38608ac6",
+      "start_time": "2026-02-21 15:25:00",
+      "end_time": "2026-02-21 15:35:00",
+      "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Dal Principality Stadium di Cardiff, Galles."
+      "show_description": "La Giovane Italia 2026 Ep.3 19/02/2026 - Servizi informativi dedicati ai piu' piccoli sportivi italiani e alle realta' giovanili legate al calcio, tra trofei, incontri, e storie."
+    },
+    {
+      "show_name": "Programmazione non disponibile",
+      "show_logo": "https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&md5ChecksumParam=4a25768e3cfcae514f94f50e5a0fe2c7",
+      "start_time": "2026-02-21 15:35:00",
+      "end_time": "2026-02-21 15:55:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Programmazione non disponibile."
+    },
+    {
+      "show_name": "Calcio Premier League - Ep. 268 - Calcio Premier League 27ga Aston Villa/ Leeds 21/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/85b928dc-c311-4a93-a5c0-88b7e0a009f3/cover?territory=IT&md5ChecksumParam=41d61ed39fae8a4d9ce670e0e9fefddb",
+      "start_time": "2026-02-21 15:55:00",
+      "end_time": "2026-02-21 18:00:00",
+      "episode_number": "S2025 E268",
+      "show_category": "Sport",
+      "show_description": "Dal Villa Park di Birmingham, Inghilterra."
+    },
+    {
+      "show_name": "Auckland",
+      "show_logo": "https://guidatv.sky.it/uuid/432c0e4e-98d2-4490-8e06-c170bf27f028/cover?territory=IT&md5ChecksumParam=ca613a9fa75453bc68e0539a88ab9558",
+      "start_time": "2026-02-21 18:00:00",
+      "end_time": "2026-02-21 19:00:00",
+      "episode_number": "S2026 E2",
+      "show_category": "Sport",
+      "show_description": "Sintesi e highlights della piu' spettacolare competizione velica internazionale dedicata ai catamarani foiling F50."
+    },
+    {
+      "show_name": "Icarus Ultra - Ep. 20 - Icarus Ultra 2025 Ep.20 16/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/c86eb876-0e54-47c2-9c94-c082d721650a/cover?territory=IT&md5ChecksumParam=22acf3826eeede441962f8259b66aaf3",
+      "start_time": "2026-02-21 19:00:00",
+      "end_time": "2026-02-21 19:30:00",
+      "episode_number": "S2025 E20",
+      "show_category": "Sport",
+      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
+    },
+    {
+      "show_name": "Zidane: Il Calcio Ai Miei Piedi",
+      "show_logo": "https://guidatv.sky.it/uuid/8db9405b-08c3-48fe-bf66-0e4b72e1ca23/cover?territory=IT&md5ChecksumParam=1071c4bf5f8881c20492996947e8a3bb",
+      "start_time": "2026-02-21 19:30:00",
+      "end_time": "2026-02-21 21:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Zidane: Il Calcio Ai Miei Piedi."
+    },
+    {
+      "show_name": "1a semifinale",
+      "show_logo": "https://guidatv.sky.it/uuid/32820001-fbc8-475c-844b-df91bf40d628/cover?territory=IT&md5ChecksumParam=95e57ddedd9c0bb301680deed431c749",
+      "start_time": "2026-02-21 21:00:00",
+      "end_time": "2026-02-21 23:00:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "ATP 500 Rio de Janeiro."
+    },
+    {
+      "show_name": "Giordano Bortolani",
+      "show_logo": "https://guidatv.sky.it/uuid/57986b1e-a28a-4d01-abee-b9a184caf6db/cover?territory=IT&md5ChecksumParam=ab14b062c58f4cca348841cfc10c1953",
+      "start_time": "2026-02-21 23:00:00",
+      "end_time": "2026-02-21 23:30:00",
+      "episode_number": "S2025 E5",
+      "show_category": "Sport",
+      "show_description": "Amadori Protein Talk: Giordano Bortolani."
+    },
+    {
+      "show_name": "Sport Awards San Marino",
+      "show_logo": "https://guidatv.sky.it/uuid/4222fcd2-a52e-471b-9107-69370f1e4c63/cover?territory=IT&md5ChecksumParam=69203b79474253964f75159f50c9c721",
+      "start_time": "2026-02-21 23:30:00",
+      "end_time": "2026-02-21 23:45:00",
+      "episode_number": "S2024 E22",
+      "show_category": "Sport",
+      "show_description": "Attraverso il racconto di allenatori, atleti e specialisti di settore di ieri e di oggi, scopriamo alcuni dei cambiamenti più importanti nell’evoluzione degli sport."
+    },
+    {
+      "show_name": "La Giovane Italia - Ep. 3 - La Giovane Italia 2026 Ep.3 19/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/2bd42b63-4230-4d3e-a3a0-c23b6ee226d7/cover?territory=IT&md5ChecksumParam=9cbbacfb912c119b5153385c38608ac6",
+      "start_time": "2026-02-21 23:45:00",
+      "end_time": "2026-02-22 00:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "La Giovane Italia 2026 Ep.3 19/02/2026 - Servizi informativi dedicati ai piu' piccoli sportivi italiani e alle realta' giovanili legate al calcio, tra trofei, incontri, e storie."
     }
   ]
 }
