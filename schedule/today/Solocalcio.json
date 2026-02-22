@@ -1,78 +1,60 @@
 {
   "channel_name": "Solocalcio",
-  "date": "2026-02-21",
+  "date": "2026-02-22",
   "programs": [
     {
-      "show_name": "Campionato Argentino Gimnasia La Plata-Estudiantes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-21 00:00:00",
-      "end_time": "2026-02-21 00:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Dall'Argentina partita valida per la 5° giornata del Torneo Apertura 2026, si sfidano Gimnasia La Plata e Estudiantes."
-    },
-    {
-      "show_name": "Campionato Saudita Al Ahli-Al Najma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-21 00:00:00",
-      "end_time": "2026-02-21 02:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Dall'Arabia Saudita partita valida per la 23° giornata della Saudi Pro League, si sfidano Al Ahli e Al Najma."
-    },
-    {
-      "show_name": "Si Live 24",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-21 02:00:00",
-      "end_time": "2026-02-21 02:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Linformazione di Sportitalia sempre aggiornata. Servizi, approfondimenti e interviste su tutti gli sport. Notizie e rassegna stampa dalla news room di Si Liver 24."
-    },
-    {
-      "show_name": "Si Live 24",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-21 02:30:00",
-      "end_time": "2026-02-21 03:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Linformazione di Sportitalia sempre aggiornata. Servizi, approfondimenti e interviste su tutti gli sport. Notizie e rassegna stampa dalla news room di Si Liver 24."
-    },
-    {
-      "show_name": "Sportitaliamercato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-21 03:00:00",
-      "end_time": "2026-02-21 04:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Sportitaliamercato, la trasmissione delle 23.00, condotta da Valentina Ballarini, con la partecipazione di Alfredo Pedullà. Notizie di mercato e approfondimenti con i temi di giornata. Ospiti in studio da Milano e Roma."
-    },
-    {
-      "show_name": "Si Live 24",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-21 04:00:00",
-      "end_time": "2026-02-21 04:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Linformazione di Sportitalia sempre aggiornata. Servizi, approfondimenti e interviste su tutti gli sport. Notizie e rassegna stampa dalla news room di Si Liver 24."
-    },
-    {
-      "show_name": "Si Live 24",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-21 04:30:00",
-      "end_time": "2026-02-21 05:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Linformazione di Sportitalia sempre aggiornata. Servizi, approfondimenti e interviste su tutti gli sport. Notizie e rassegna stampa dalla news room di Si Liver 24."
-    },
-    {
-      "show_name": "Campionato Argentino Boca Jr.-Platense",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-21 05:00:00",
+      "show_name": "Campionato Argentino Boca Jr.-Racing",
+      "show_logo": "",
+      "start_time": "2026-02-22 00:00:00",
       "end_time": "2026-02-22 00:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Dall'Argentina partita valida per la 5° giornata del Torneo Apertura 2026, si sfidano Boca Jr. e Platense."
+      "show_description": "Dalla Bombonera di Buenos Aires partita valida per la 6° giornata della Liga Professional, si sfidano Boca Jr. e Racing."
+    },
+    {
+      "show_name": "Manchester City-Fulham",
+      "show_logo": "",
+      "start_time": "2026-02-22 00:00:00",
+      "end_time": "2026-02-22 02:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Dall'Ethiad Satdium di Manchester partita valida per la 26° giornata della Premier League, si sfidano il City guidato da Pep Guardiola e il sempre temibile Fulham."
+    },
+    {
+      "show_name": "Si Live 24",
+      "show_logo": "",
+      "start_time": "2026-02-22 02:00:00",
+      "end_time": "2026-02-22 02:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Linformazione di Sportitalia sempre aggiornata. Servizi, approfondimenti e interviste su tutti gli sport. Notizie e rassegna stampa dalla news room di Si Liver 24."
+    },
+    {
+      "show_name": "Si Live 24",
+      "show_logo": "",
+      "start_time": "2026-02-22 02:30:00",
+      "end_time": "2026-02-22 03:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Linformazione di Sportitalia sempre aggiornata. Servizi, approfondimenti e interviste su tutti gli sport. Notizie e rassegna stampa dalla news room di Si Liver 24."
+    },
+    {
+      "show_name": "Manchester City-Newcastle",
+      "show_logo": "",
+      "start_time": "2026-02-22 03:00:00",
+      "end_time": "2026-02-22 05:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Dall'Ethiad Stadium di Manchester partita valida per il ritorno delle Semifinali della Carabao Cup si sfidano il Manchester City guidato da Pep Guardiola e il sempre ostico Newcastle."
+    },
+    {
+      "show_name": "Campionato Argentino Rosario Central-Talleres",
+      "show_logo": "",
+      "start_time": "2026-02-22 05:00:00",
+      "end_time": "2026-02-23 00:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Dall'Argentina partita valida per la 6° giornata della Liga Professional, si sfidano Rosario Central e Talleres."
     }
   ]
 }
