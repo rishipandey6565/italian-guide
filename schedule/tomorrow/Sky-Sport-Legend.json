@@ -1,240 +1,195 @@
 {
   "channel_name": "Sky Sport Legend",
-  "date": "2026-02-26",
+  "date": "2026-02-27",
   "programs": [
     {
-      "show_name": "Zidane: Il Calcio Ai Miei Piedi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/zidane-il-calcio-ai-miei-piedi.webp",
-      "start_time": "2026-02-26 00:00:00",
-      "end_time": "2026-02-26 00:30:00",
+      "show_name": "Conegliano - Scandicci",
+      "show_logo": "https://guidatv.sky.it/uuid/9e339c0e-1caf-4e19-9e28-e5e258cebaea/cover?territory=IT&md5ChecksumParam=aa678fe336b994a74a100198043be683",
+      "start_time": "2026-02-27 00:00:00",
+      "end_time": "2026-02-27 01:15:00",
+      "episode_number": "S2024 E51",
+      "show_category": "Sport",
+      "show_description": "Conegliano - Scandicci."
+    },
+    {
+      "show_name": "Gli Anni 90",
+      "show_logo": "https://guidatv.sky.it/uuid/c315280b-a7a5-466a-a137-89e0e8cc3ac7/cover?territory=IT&md5ChecksumParam=857c19c31c2c5eb2868f3c17d8bf4cf2",
+      "start_time": "2026-02-27 01:15:00",
+      "end_time": "2026-02-27 02:00:00",
+      "episode_number": "S1 E9",
+      "show_category": "Sport",
+      "show_description": "Due leggende del tennis italiano, Adriano Panatta e Paolo Bertolucci, ripercorrono la storia del tennis mondiale attraverso il loro inconfondibile stile: un mix di competenza tecnica, aneddoti inediti e ironia pungente."
+    },
+    {
+      "show_name": "Speciale Ducati 916",
+      "show_logo": "https://guidatv.sky.it/uuid/726cd234-4b62-4809-a244-10d1e0ca5f16/cover?territory=IT&md5ChecksumParam=4358b061f665da24c1d725925c1e4e27",
+      "start_time": "2026-02-27 02:00:00",
+      "end_time": "2026-02-27 02:30:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Campione in campo e in panchina, Zinedine Zidane si racconta al Festival dello Sport di Trento."
+      "show_description": "Alla scoperta della storia produttiva, sportiva e culturale della Ducati 916, una delle moto più iconiche di sempre."
     },
     {
-      "show_name": "Federer - Nadal. Finale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/federer-nadal-finale.webp",
-      "start_time": "2026-02-26 00:30:00",
-      "end_time": "2026-02-26 02:30:00",
-      "episode_number": "S2006 E13",
-      "show_category": "Altro",
-      "show_description": "ATP 1000 Roma: Federer - Nadal, Finale 2006."
-    },
-    {
-      "show_name": "Ep5 - Pilota ''ingegnere''",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/ep5-pilota-ingegnere.webp",
-      "start_time": "2026-02-26 02:30:00",
-      "end_time": "2026-02-26 02:45:00",
-      "episode_number": "S1 E5",
+      "show_name": "Milan - Juventus 2003",
+      "show_logo": "https://guidatv.sky.it/uuid/84f5e716-2610-4f09-862f-b279a53743b0/cover?territory=IT&md5ChecksumParam=262a48f22892e62804e0a9da212095e0",
+      "start_time": "2026-02-27 02:30:00",
+      "end_time": "2026-02-27 04:15:00",
+      "episode_number": "S1 E3",
       "show_category": "Sport",
-      "show_description": "Il Dovi è un pilota molto razionale e questo gli consente di trovare il limite di ogni moto. Andrea conferma la sua classe e si guadagna il passaggio in HRC."
+      "show_description": "UEFA Champions League Story: Milan - Juventus 2003. Finale - Tutte le emozioni della prima finale di Champions tra club italiani in cui il Milan sconfisse la Juventus per 3-2 dopo i calci di rigore."
+    },
+    {
+      "show_name": "Game, Set, Fabio. L'ultimo Wimbledon",
+      "show_logo": "https://guidatv.sky.it/uuid/4fd35725-5212-484d-8f69-da5dcf55c8d4/cover?territory=IT&md5ChecksumParam=7d088452f35902cead9c158e9f5bec1e",
+      "start_time": "2026-02-27 04:15:00",
+      "end_time": "2026-02-27 04:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Game, Set, Fabio. L'ultimo Wimbledon."
+    },
+    {
+      "show_name": "Bergomi",
+      "show_logo": "https://guidatv.sky.it/uuid/151d9477-f4da-4d07-8d6f-0956f5c660e4/cover?territory=IT&md5ChecksumParam=bff4ab5a831021360cc6e364382d1179",
+      "start_time": "2026-02-27 04:30:00",
+      "end_time": "2026-02-27 06:00:00",
+      "episode_number": "S1 E1",
+      "show_category": "Sport",
+      "show_description": "Reload."
+    },
+    {
+      "show_name": "Scugnizzi per sempre",
+      "show_logo": "https://guidatv.sky.it/uuid/ad3a913e-2fe7-40d0-aae7-42d49a3032a8/cover?territory=IT&md5ChecksumParam=9d24f1ea496532c3f5d4716a6936602d",
+      "start_time": "2026-02-27 06:00:00",
+      "end_time": "2026-02-27 07:00:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Al termine di un'altra stagione fallimentare, gli scugnizzi decidono di assumersi più responsabilità e puntare definitivamente su loro stessi, tradendo il leader della squadra, il cannoniere più forte."
+    },
+    {
+      "show_name": "Scugnizzi per sempre",
+      "show_logo": "https://guidatv.sky.it/uuid/49ade20f-9df0-473c-b150-8a7362e05343/cover?territory=IT&md5ChecksumParam=9d24f1ea496532c3f5d4716a6936602d",
+      "start_time": "2026-02-27 07:00:00",
+      "end_time": "2026-02-27 08:00:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Alla finale scudetto si affrontano di nuovo Juvecaserta e Olimpia Milano. La partita del dentro o fuori, della vittoria tanto agognata oppure dell'oblio."
+    },
+    {
+      "show_name": "Finale Maschile Agassi/ Haas",
+      "show_logo": "https://guidatv.sky.it/uuid/d02335eb-31af-4638-8564-68e930648547/cover?territory=IT&md5ChecksumParam=00930c1ffb6011a2a72d98761a174f4e",
+      "start_time": "2026-02-27 08:00:00",
+      "end_time": "2026-02-27 10:15:00",
+      "episode_number": "S2002 E1",
+      "show_category": "Sport",
+      "show_description": "2002 Finale Maschile Agassi/ Haas."
+    },
+    {
+      "show_name": "Gli Anni 90",
+      "show_logo": "https://guidatv.sky.it/uuid/c315280b-a7a5-466a-a137-89e0e8cc3ac7/cover?territory=IT&md5ChecksumParam=857c19c31c2c5eb2868f3c17d8bf4cf2",
+      "start_time": "2026-02-27 10:15:00",
+      "end_time": "2026-02-27 11:00:00",
+      "episode_number": "S1 E9",
+      "show_category": "Sport",
+      "show_description": "Due leggende del tennis italiano, Adriano Panatta e Paolo Bertolucci, ripercorrono la storia del tennis mondiale attraverso il loro inconfondibile stile: un mix di competenza tecnica, aneddoti inediti e ironia pungente."
+    },
+    {
+      "show_name": "Inter - Real Madrid 25/11/98",
+      "show_logo": "https://guidatv.sky.it/uuid/39b47060-40d0-4079-bab1-e397b3f2f9ef/cover?territory=IT&md5ChecksumParam=262a48f22892e62804e0a9da212095e0",
+      "start_time": "2026-02-27 11:00:00",
+      "end_time": "2026-02-27 13:00:00",
+      "episode_number": "S1 E158",
+      "show_category": "Sport",
+      "show_description": "UEFA Champions League Story: Inter - Real Madrid 25/11/98. 5a g. - Riviviamo i momenti piu' esaltanti di questa competizione attraverso le partite piu' interessanti. Buon divertimento!"
+    },
+    {
+      "show_name": "Marchegiani",
+      "show_logo": "https://guidatv.sky.it/uuid/2dc94659-3341-4556-b174-11ace22570b1/cover?territory=IT&md5ChecksumParam=4656c9ade7cec64aa7fd55b75e1215c7",
+      "start_time": "2026-02-27 13:00:00",
+      "end_time": "2026-02-27 13:30:00",
+      "episode_number": "S1 E2",
+      "show_category": "Sport",
+      "show_description": "Reload."
+    },
+    {
+      "show_name": "Parte 1",
+      "show_logo": "https://guidatv.sky.it/uuid/0529d488-9960-4975-b73f-cfadb422a922/cover?territory=IT&md5ChecksumParam=558e8c305ae7112a6eac478a45a7c08d",
+      "start_time": "2026-02-27 13:30:00",
+      "end_time": "2026-02-27 14:30:00",
+      "episode_number": "S1 E2",
+      "show_category": "Sport",
+      "show_description": "Milan 1994: piu' che una squadra. Parte 1 - E' una stagione ricca di contraddizioni, quella che si prepara a vivere il Milan nel 1993-1994, diviso tra la rincorsa alla Champions e la campagna elettorale di Berlusconi."
+    },
+    {
+      "show_name": "Parte 2",
+      "show_logo": "https://guidatv.sky.it/uuid/ed03e0bc-1f28-41fc-a7af-cc2b12932ede/cover?territory=IT&md5ChecksumParam=d20f2526ef6372ab57332351488bb882",
+      "start_time": "2026-02-27 14:30:00",
+      "end_time": "2026-02-27 15:30:00",
+      "episode_number": "S1 E3",
+      "show_category": "Sport",
+      "show_description": "Milan 1994: piu' che una squadra. Parte 2 - Dalla discesa in campo di Silvio Berlusconi al successo del Milan in Champions League, il racconto di una stagione memorabile attraverso le voci dei protagonisti e un ospite speciale."
+    },
+    {
+      "show_name": "The Lost Dreamteam",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-27 15:30:00",
+      "end_time": "2026-02-27 18:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "The Lost Dreamteam."
     },
     {
       "show_name": "Michel Platini: Le Roi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/michel-platini-le-roi.webp",
-      "start_time": "2026-02-26 02:45:00",
-      "end_time": "2026-02-26 03:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/bd2bee7f-f123-4132-b146-b740818bd001/cover?territory=IT&md5ChecksumParam=6fe8dc3aa3a562126953f8988c42ca67",
+      "start_time": "2026-02-27 18:00:00",
+      "end_time": "2026-02-27 19:00:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Ripercorriamo i successi di uno dei più grandi calciatori della storia, Michel Platini."
     },
     {
-      "show_name": "The Lost Dreamteam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-26 03:45:00",
-      "end_time": "2026-02-26 05:15:00",
-      "episode_number": "",
+      "show_name": "Il Tennis Futuro",
+      "show_logo": "https://guidatv.sky.it/uuid/bade814c-2a64-4a7b-9dbf-b3efc51fd0b3/cover?territory=IT&md5ChecksumParam=eb124ca11d7538f1268bb66e98488656",
+      "start_time": "2026-02-27 19:00:00",
+      "end_time": "2026-02-27 19:45:00",
+      "episode_number": "S1 E8",
       "show_category": "Sport",
-      "show_description": "The Lost Dreamteam."
+      "show_description": "Dopo aver celebrato le leggende del tennis del passato, Panatta e Bertolucci si proiettano nel 2026, analizzando quello che definiscono il \"nuovo duopolio\". Stiamo parlando dei campioni Jannik Sinner e Carlos Alcaraz."
     },
     {
-      "show_name": "Ep6 - Dream Team",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/ep6-dream-team.webp",
-      "start_time": "2026-02-26 05:15:00",
-      "end_time": "2026-02-26 05:30:00",
-      "episode_number": "S1 E6",
-      "show_category": "Sport",
-      "show_description": "Dovi: La serie."
-    },
-    {
-      "show_name": "Marocchi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/marocchi.webp",
-      "start_time": "2026-02-26 05:30:00",
-      "end_time": "2026-02-26 06:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "Sport",
-      "show_description": "Giancarlo Marocchi è un dirigente sportivo, commentatore televisivo ed ex calciatore italiano."
-    },
-    {
-      "show_name": "Scugnizzi per sempre",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/scugnizzi-per-sempre.webp",
-      "start_time": "2026-02-26 06:00:00",
-      "end_time": "2026-02-26 07:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gli scugnizzi arrivano per ben due volte a pochi punti dal trionfo, ma si schiantano contro il muro dei giganti dell'Olimpia Milano."
-    },
-    {
-      "show_name": "Scugnizzi per sempre",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/scugnizzi-per-sempre.webp",
-      "start_time": "2026-02-26 07:00:00",
-      "end_time": "2026-02-26 08:00:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Le stagioni successive regalano le prime gioie sportive. Nel 1989 va in scena la partita più epica: la finale della Coppa delle Coppe contro il grande Real Madrid."
-    },
-    {
-      "show_name": "Man Overboard",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/man-overboard.webp",
-      "start_time": "2026-02-26 08:00:00",
-      "end_time": "2026-02-26 08:30:00",
-      "episode_number": "S1 E1",
-      "show_category": "Sport",
-      "show_description": "SailGP: Uncharted."
-    },
-    {
-      "show_name": "Blood In The Water",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/blood-in-the-water.webp",
-      "start_time": "2026-02-26 08:30:00",
-      "end_time": "2026-02-26 09:00:00",
+      "show_name": "2a parte",
+      "show_logo": "https://guidatv.sky.it/uuid/100f489c-4c8c-4f12-8957-2e6253a3759c/cover?territory=IT&md5ChecksumParam=fd0e90e428ba9729b3f8bc02cc9d0689",
+      "start_time": "2026-02-27 19:45:00",
+      "end_time": "2026-02-27 20:45:00",
       "episode_number": "S1 E2",
       "show_category": "Sport",
-      "show_description": "SailGP: Uncharted."
+      "show_description": "PISTOLE E PALLONI. La storia di un gruppo stravagante, che giocava a calcio e con le pistole nel contesto di forti contrasti sociali della Roma violenta degli anni ’70."
     },
     {
-      "show_name": "The Showdown",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/the-showdown.webp",
-      "start_time": "2026-02-26 09:00:00",
-      "end_time": "2026-02-26 09:30:00",
+      "show_name": "3tre, Il Numero Magico Dello Sci",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-27 20:45:00",
+      "end_time": "2026-02-27 21:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "3tre, Il Numero Magico Dello Sci."
+    },
+    {
+      "show_name": "Il Processo del 10 Gennaio 1994",
+      "show_logo": "https://guidatv.sky.it/uuid/91082388-a577-4ac2-9e62-8e7e90e182ff/cover?territory=IT&md5ChecksumParam=1cae5d2f818e12cecc77fc6087db62c8",
+      "start_time": "2026-02-27 21:45:00",
+      "end_time": "2026-02-27 23:15:00",
       "episode_number": "S1 E3",
       "show_category": "Sport",
-      "show_description": "SailGP: Uncharted."
-    },
-    {
-      "show_name": "Boris Becker: Inside",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/boris-becker-inside.webp",
-      "start_time": "2026-02-26 09:30:00",
-      "end_time": "2026-02-26 10:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Boris Becker-Inside: da leggenda sportiva a detenuto A2923EV. Il più giovane campione di Wimbledon racconta la prigione per bancarotta, la lotta per la sopravvivenza e la sua profonda trasformazione."
-    },
-    {
-      "show_name": "Italia '90 - Quattro settimane che...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/italia-90-quattro-settimane-che.webp",
-      "start_time": "2026-02-26 10:00:00",
-      "end_time": "2026-02-26 11:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Maradona frena l'Italia di Schillaci, mentre il sogno di Gascoigne si infrange contro la Germania Ovest. Il Mondiale si avvia alla conclusione."
-    },
-    {
-      "show_name": "1999: Spagna - Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/1999-spagna-italia.webp",
-      "start_time": "2026-02-26 11:00:00",
-      "end_time": "2026-02-26 12:45:00",
-      "episode_number": "S1 E9",
-      "show_category": "Sport",
-      "show_description": "FIBA EuroBasket Story: 1999: Spagna - Italia. Finale - Gli incontri piu' avvincenti delle passate edizioni degli Europei di basket."
-    },
-    {
-      "show_name": "Ep2 - Campione del mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/ep2-campione-del-mondo.webp",
-      "start_time": "2026-02-26 12:45:00",
-      "end_time": "2026-02-26 13:00:00",
-      "episode_number": "S1 E2",
-      "show_category": "Sport",
-      "show_description": "Il Dovi è un adolescente molto promettente, ma serve una crescita progressiva per dimostrare il suo talento. Nel 2002 debutta nella classe 125 del Motomondiale e nel 2004 si laurea Campione del Mondo."
-    },
-    {
-      "show_name": "The Lost Dreamteam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-26 13:00:00",
-      "end_time": "2026-02-26 14:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "The Lost Dreamteam."
-    },
-    {
-      "show_name": "1996, L'anno Di Del Piero Parte 1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/1996-l-anno-di-del-piero-parte-1.webp",
-      "start_time": "2026-02-26 14:30:00",
-      "end_time": "2026-02-26 15:15:00",
-      "episode_number": "S2025 E1",
-      "show_category": "Sport",
-      "show_description": "Prima parte del viaggio nel passato di Alessandro Del Piero, che ripercorre uno degli anni più iconici della sua carriera: il 1996."
-    },
-    {
-      "show_name": "Parte 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/parte-2.webp",
-      "start_time": "2026-02-26 15:15:00",
-      "end_time": "2026-02-26 17:00:00",
-      "episode_number": "S2025 E2",
-      "show_category": "Sport",
-      "show_description": "Seconda parte del viaggio nel passato di Alessandro Del Piero, che ripercorre uno degli anni più iconici della sua carriera: il 1996."
-    },
-    {
-      "show_name": "Sofia Goggia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/sofia-goggia.webp",
-      "start_time": "2026-02-26 17:00:00",
-      "end_time": "2026-02-26 18:00:00",
-      "episode_number": "S1 E31",
-      "show_category": "Sport",
-      "show_description": "La campionessa campionessa olimpica nella discesa libera a Pyeongchang 2018 Sofia Goggia parla del suo rapporto con il rischio, e delle sfide in preparazione delle Olimpiadi di Milano Cortina 2026."
-    },
-    {
-      "show_name": "Julio Velasco: Le Invincibili",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-26 18:00:00",
-      "end_time": "2026-02-26 19:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Julio Velasco: Le Invincibili."
-    },
-    {
-      "show_name": "Gli anni 80",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/gli-anni-80.webp",
-      "start_time": "2026-02-26 19:00:00",
-      "end_time": "2026-02-26 19:45:00",
-      "episode_number": "S1 E7",
-      "show_category": "Sport",
-      "show_description": "Panatta&Bertolucci Tennis Heroes."
-    },
-    {
-      "show_name": "1a parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/1a-parte.webp",
-      "start_time": "2026-02-26 19:45:00",
-      "end_time": "2026-02-26 21:45:00",
-      "episode_number": "S1 E1",
-      "show_category": "Sport",
-      "show_description": "LA GRANDEZZA. La favola della squadra di Maestrelli, che dalla serie B sfiorò lo scudetto nel 73, per poi vincerlo nel 74, grazie a un allenatore bonario e psicologo."
+      "show_description": "Aldo Biscardi e Maurizio Mosca ospitano il direttore generale dell'Inter Piero Boschi e il sindaco di Napoli Antonio Bassolino per analizzare le rispettive crisi societarie."
     },
     {
       "show_name": "Flavia a New York, 10 anni dopo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/flavia-a-new-york-10-anni-dopo.webp",
-      "start_time": "2026-02-26 21:45:00",
-      "end_time": "2026-02-26 22:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/35b9478c-bbc2-4430-bea3-f752c76ceea5/cover?territory=IT&md5ChecksumParam=57b3fcf49045a67fe55472ac27aa9ef6",
+      "start_time": "2026-02-27 23:15:00",
+      "end_time": "2026-02-28 00:15:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Dieci anni dopo il trionfo allo US Open 2015, Flavia Pennetta rivive il sogno, l’impresa e l’addio che hanno segnato per sempre il tennis italiano."
-    },
-    {
-      "show_name": "Marocchi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/marocchi.webp",
-      "start_time": "2026-02-26 22:45:00",
-      "end_time": "2026-02-26 23:15:00",
-      "episode_number": "S1 E3",
-      "show_category": "Sport",
-      "show_description": "Giancarlo Marocchi è un dirigente sportivo, commentatore televisivo ed ex calciatore italiano."
-    },
-    {
-      "show_name": "Conegliano - Scandicci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/conegliano-scandicci.webp",
-      "start_time": "2026-02-26 23:15:00",
-      "end_time": "2026-02-27 01:15:00",
-      "episode_number": "S2024 E51",
-      "show_category": "Sport",
-      "show_description": "Conegliano - Scandicci."
     }
   ]
 }

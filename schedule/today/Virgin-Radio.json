@@ -1,1059 +1,1140 @@
 {
   "channel_name": "Virgin Radio",
-  "date": "2026-02-25",
+  "date": "2026-02-26",
   "programs": [
     {
-      "show_name": "Wet Leg",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:00:00",
-      "end_time": "2026-02-25 00:00:00",
+      "show_name": "Inhaler",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:00:00",
+      "end_time": "2026-02-26 00:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Wet leg."
+      "show_description": "Inhaler."
     },
     {
-      "show_name": "System Of A Down",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:00:00",
-      "end_time": "2026-02-25 00:04:00",
+      "show_name": "Jet",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:00:00",
+      "end_time": "2026-02-26 00:03:00",
       "episode_number": "",
-      "show_category": "Aerials",
-      "show_description": "SYSTEM OF A DOWN."
+      "show_category": "She's A Genius",
+      "show_description": "JET."
     },
     {
-      "show_name": "Bon Jovi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:04:00",
-      "end_time": "2026-02-25 00:08:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Bon jovi."
-    },
-    {
-      "show_name": "Inxs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:08:00",
-      "end_time": "2026-02-25 00:11:00",
-      "episode_number": "",
-      "show_category": "Beautiful Girl",
-      "show_description": "INXS."
-    },
-    {
-      "show_name": "Mumford & Sons",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:11:00",
-      "end_time": "2026-02-25 00:15:00",
+      "show_name": "Des Rocs",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:03:00",
+      "end_time": "2026-02-26 00:06:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Mumford & sons."
+      "show_description": "Des rocs."
     },
     {
-      "show_name": "Linkin Park",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:15:00",
-      "end_time": "2026-02-25 00:20:00",
+      "show_name": "Garbage",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:06:00",
+      "end_time": "2026-02-26 00:11:00",
       "episode_number": "",
-      "show_category": "Final Masquerade",
-      "show_description": "LINKIN PARK."
+      "show_category": "Stupid Girl",
+      "show_description": "GARBAGE."
     },
     {
-      "show_name": "Police",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:20:00",
-      "end_time": "2026-02-25 00:25:00",
-      "episode_number": "",
-      "show_category": "Walking On The Moon",
-      "show_description": "POLICE."
-    },
-    {
-      "show_name": "Mumford & Sons",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:25:00",
-      "end_time": "2026-02-25 00:29:00",
+      "show_name": "Foo Fighters",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:11:00",
+      "end_time": "2026-02-26 00:15:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Mumford & sons."
+      "show_description": "Foo fighters."
     },
     {
-      "show_name": "Nickelback",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:29:00",
-      "end_time": "2026-02-25 00:33:00",
-      "episode_number": "",
-      "show_category": "Musicale",
-      "show_description": "NICKELBACK."
-    },
-    {
-      "show_name": "Shinedown",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:33:00",
-      "end_time": "2026-02-25 00:36:00",
+      "show_name": "Editors",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:15:00",
+      "end_time": "2026-02-26 00:20:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Shinedown."
+      "show_description": "Editors."
+    },
+    {
+      "show_name": "The Beatles",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:20:00",
+      "end_time": "2026-02-26 00:25:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "The beatles."
+    },
+    {
+      "show_name": "Culture Wars",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:25:00",
+      "end_time": "2026-02-26 00:28:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Culture wars."
+    },
+    {
+      "show_name": "Chris Cornell",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:28:00",
+      "end_time": "2026-02-26 00:32:00",
+      "episode_number": "",
+      "show_category": "Long Gone",
+      "show_description": "CHRIS CORNELL."
+    },
+    {
+      "show_name": "Twenty One Pilots",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:32:00",
+      "end_time": "2026-02-26 00:36:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Twenty one pilots."
     },
     {
       "show_name": "Yungblud",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:36:00",
-      "end_time": "2026-02-25 00:41:00",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:36:00",
+      "end_time": "2026-02-26 00:41:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Yungblud."
     },
     {
-      "show_name": "Neil Young",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:41:00",
-      "end_time": "2026-02-25 00:44:00",
+      "show_name": "Dire Straits",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:41:00",
+      "end_time": "2026-02-26 00:45:00",
       "episode_number": "",
-      "show_category": "Rockin' In The Free World",
-      "show_description": "NEIL YOUNG."
+      "show_category": "Walk Of Life",
+      "show_description": "DIRE STRAITS."
     },
     {
-      "show_name": "Struts & Brian May",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:44:00",
-      "end_time": "2026-02-25 00:49:00",
+      "show_name": "Guns N' Roses",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:45:00",
+      "end_time": "2026-02-26 00:49:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Struts & brian may."
-    },
-    {
-      "show_name": "White Stripes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:49:00",
-      "end_time": "2026-02-25 00:53:00",
-      "episode_number": "",
-      "show_category": "Seven Nation Army",
-      "show_description": "WHITE STRIPES."
-    },
-    {
-      "show_name": "Biffy Clyro",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:53:00",
-      "end_time": "2026-02-25 00:56:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Biffy clyro."
-    },
-    {
-      "show_name": "Bruce Springsteen",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 00:56:00",
-      "end_time": "2026-02-25 01:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Bruce springsteen."
-    },
-    {
-      "show_name": "Pearl Jam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:00:00",
-      "end_time": "2026-02-25 01:03:00",
-      "episode_number": "",
-      "show_category": "The Fixer",
-      "show_description": "PEARL JAM."
-    },
-    {
-      "show_name": "Yungblud & The Smashing Pumpkins",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:03:00",
-      "end_time": "2026-02-25 01:07:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Yungblud & the smashing pumpkins."
+      "show_description": "Guns n' roses."
     },
     {
       "show_name": "U2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:07:00",
-      "end_time": "2026-02-25 01:12:00",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:49:00",
+      "end_time": "2026-02-26 00:53:00",
       "episode_number": "",
-      "show_category": "One",
+      "show_category": "Window In The Skies",
       "show_description": "U2."
     },
     {
-      "show_name": "Florence And The Machine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:12:00",
-      "end_time": "2026-02-25 01:15:00",
+      "show_name": "Alkaline Trio",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:53:00",
+      "end_time": "2026-02-26 00:57:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Florence and the machine."
-    },
-    {
-      "show_name": "The Honest Heart Collective",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:15:00",
-      "end_time": "2026-02-25 01:19:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "The honest heart collective."
-    },
-    {
-      "show_name": "Ram Jam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:19:00",
-      "end_time": "2026-02-25 01:21:00",
-      "episode_number": "",
-      "show_category": "Black Betty",
-      "show_description": "RAM JAM."
-    },
-    {
-      "show_name": "Molotovs",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:21:00",
-      "end_time": "2026-02-25 01:25:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Molotovs."
-    },
-    {
-      "show_name": "Green Day",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:25:00",
-      "end_time": "2026-02-25 01:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Green day."
-    },
-    {
-      "show_name": "White Lies",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:30:00",
-      "end_time": "2026-02-25 01:35:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "White lies."
-    },
-    {
-      "show_name": "Royal Blood",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:35:00",
-      "end_time": "2026-02-25 01:39:00",
-      "episode_number": "",
-      "show_category": "Look Like You Know",
-      "show_description": "ROYAL BLOOD."
-    },
-    {
-      "show_name": "Billy Idol",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:39:00",
-      "end_time": "2026-02-25 01:43:00",
-      "episode_number": "",
-      "show_category": "Flesh For Fantasy",
-      "show_description": "BILLY IDOL."
-    },
-    {
-      "show_name": "Sam Fender",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:43:00",
-      "end_time": "2026-02-25 01:46:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Sam fender."
+      "show_description": "Alkaline trio."
     },
     {
       "show_name": "Blink 182",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:46:00",
-      "end_time": "2026-02-25 01:50:00",
+      "show_logo": "",
+      "start_time": "2026-02-26 00:57:00",
+      "end_time": "2026-02-26 01:00:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Blink 182."
     },
     {
-      "show_name": "The Black Keys",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:50:00",
-      "end_time": "2026-02-25 01:54:00",
+      "show_name": "Bowling For Soup",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:00:00",
+      "end_time": "2026-02-26 01:04:00",
       "episode_number": "",
-      "show_category": "The Black Keys,",
-      "show_description": "THE BLACK KEYS."
+      "show_category": "",
+      "show_description": "BOWLING FOR SOUP."
+    },
+    {
+      "show_name": "Good Charlotte",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:04:00",
+      "end_time": "2026-02-26 01:06:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Good charlotte."
+    },
+    {
+      "show_name": "Stone Temple Pilots",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:06:00",
+      "end_time": "2026-02-26 01:10:00",
+      "episode_number": "",
+      "show_category": "Interstate Love Song [edit]",
+      "show_description": "STONE TEMPLE PILOTS."
+    },
+    {
+      "show_name": "Kasabian",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:10:00",
+      "end_time": "2026-02-26 01:14:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Kasabian."
+    },
+    {
+      "show_name": "The Struts",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:14:00",
+      "end_time": "2026-02-26 01:18:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "The struts."
+    },
+    {
+      "show_name": "David Bowie",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:18:00",
+      "end_time": "2026-02-26 01:22:00",
+      "episode_number": "",
+      "show_category": "Life On Mars?",
+      "show_description": "DAVID BOWIE."
+    },
+    {
+      "show_name": "Poppy.",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:22:00",
+      "end_time": "2026-02-26 01:26:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Poppy."
+    },
+    {
+      "show_name": "Placebo",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:26:00",
+      "end_time": "2026-02-26 01:34:00",
+      "episode_number": "",
+      "show_category": "Song To Say Goodbye",
+      "show_description": "PLACEBO."
+    },
+    {
+      "show_name": "Bon Jovi",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:34:00",
+      "end_time": "2026-02-26 01:37:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Bon jovi."
+    },
+    {
+      "show_name": "Foo Fighters",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:37:00",
+      "end_time": "2026-02-26 01:42:00",
+      "episode_number": "",
+      "show_category": "The Sky Is A Neighborhood",
+      "show_description": "FOO FIGHTERS."
+    },
+    {
+      "show_name": "Pretenders",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:42:00",
+      "end_time": "2026-02-26 01:46:00",
+      "episode_number": "",
+      "show_category": "Back On The Chain Gang",
+      "show_description": "PRETENDERS."
+    },
+    {
+      "show_name": "Aerosmith & Yungblud",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:46:00",
+      "end_time": "2026-02-26 01:51:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Aerosmith & yungblud."
+    },
+    {
+      "show_name": "Green Day",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:51:00",
+      "end_time": "2026-02-26 01:56:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Green day."
+    },
+    {
+      "show_name": "Shinedown",
+      "show_logo": "",
+      "start_time": "2026-02-26 01:56:00",
+      "end_time": "2026-02-26 02:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Shinedown."
+    },
+    {
+      "show_name": "All Night Rock '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 02:00:00",
+      "end_time": "2026-02-26 03:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "All night rock '26."
+    },
+    {
+      "show_name": "All Night Rock '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 03:00:00",
+      "end_time": "2026-02-26 04:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "All night rock '26."
+    },
+    {
+      "show_name": "All Night Rock '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 04:00:00",
+      "end_time": "2026-02-26 05:01:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "All night rock '26."
+    },
+    {
+      "show_name": "All Night Rock '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 05:01:00",
+      "end_time": "2026-02-26 06:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "All night rock '26."
+    },
+    {
+      "show_name": "All Night Rock '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 06:00:00",
+      "end_time": "2026-02-26 06:28:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "All night rock '26."
+    },
+    {
+      "show_name": "Virgin Radio Tgcom24 '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 06:28:00",
+      "end_time": "2026-02-26 06:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Virgin radio - tgcom24 '26."
+    },
+    {
+      "show_name": "Rock & Talk '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 06:30:00",
+      "end_time": "2026-02-26 07:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Rock & talk '26."
+    },
+    {
+      "show_name": "Rock & Talk '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 07:00:00",
+      "end_time": "2026-02-26 07:20:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Rock & talk '26."
+    },
+    {
+      "show_name": "Rock & Talk '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 07:20:00",
+      "end_time": "2026-02-26 07:52:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Rock & talk '26."
+    },
+    {
+      "show_name": "Rock & Talk '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 07:52:00",
+      "end_time": "2026-02-26 08:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Rock & talk '26."
+    },
+    {
+      "show_name": "Virgin Radio Tgcom24 '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 08:00:00",
+      "end_time": "2026-02-26 08:01:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Virgin radio - tgcom24 '26."
+    },
+    {
+      "show_name": "Rock & Talk '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 08:01:00",
+      "end_time": "2026-02-26 08:33:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Rock & talk '26."
+    },
+    {
+      "show_name": "Rock & Talk '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 08:33:00",
+      "end_time": "2026-02-26 08:53:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Rock & talk '26."
+    },
+    {
+      "show_name": "Rock & Talk '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 08:53:00",
+      "end_time": "2026-02-26 09:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Rock & talk '26."
+    },
+    {
+      "show_name": "Virgin Radio Tgcom24 '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 09:00:00",
+      "end_time": "2026-02-26 09:01:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Virgin radio - tgcom24 '26."
+    },
+    {
+      "show_name": "Morning Glory '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 09:01:00",
+      "end_time": "2026-02-26 09:21:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Morning glory '26."
+    },
+    {
+      "show_name": "Morning Glory '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 09:21:00",
+      "end_time": "2026-02-26 09:41:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Morning glory '26."
+    },
+    {
+      "show_name": "Morning Glory '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 09:41:00",
+      "end_time": "2026-02-26 10:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Morning glory '26."
+    },
+    {
+      "show_name": "Morning Glory '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 10:00:00",
+      "end_time": "2026-02-26 10:20:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Morning glory '26."
+    },
+    {
+      "show_name": "Morning Glory '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 10:20:00",
+      "end_time": "2026-02-26 10:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Morning glory '26."
+    },
+    {
+      "show_name": "Morning Glory '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 10:40:00",
+      "end_time": "2026-02-26 11:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Morning glory '26."
+    },
+    {
+      "show_name": "Personal Giulia '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 11:00:00",
+      "end_time": "2026-02-26 11:20:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Personal giulia '26."
+    },
+    {
+      "show_name": "Personal Giulia '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 11:20:00",
+      "end_time": "2026-02-26 11:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Personal giulia '26."
+    },
+    {
+      "show_name": "Personal Giulia '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 11:40:00",
+      "end_time": "2026-02-26 12:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Personal giulia '26."
+    },
+    {
+      "show_name": "Virgin Radio Tgcom24 '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 12:00:00",
+      "end_time": "2026-02-26 12:01:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Virgin radio - tgcom24 '26."
+    },
+    {
+      "show_name": "Personal Giulia '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 12:01:00",
+      "end_time": "2026-02-26 12:21:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Personal giulia '26."
+    },
+    {
+      "show_name": "Personal Giulia '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 12:21:00",
+      "end_time": "2026-02-26 12:41:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Personal giulia '26."
+    },
+    {
+      "show_name": "Personal Giulia '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 12:41:00",
+      "end_time": "2026-02-26 13:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Personal giulia '26."
+    },
+    {
+      "show_name": "Personal Giulia '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 13:00:00",
+      "end_time": "2026-02-26 13:20:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Personal giulia '26."
+    },
+    {
+      "show_name": "Personal Giulia '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 13:20:00",
+      "end_time": "2026-02-26 13:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Personal giulia '26."
+    },
+    {
+      "show_name": "Personal Giulia '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 13:40:00",
+      "end_time": "2026-02-26 14:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Personal giulia '26."
+    },
+    {
+      "show_name": "Revolver '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 14:00:00",
+      "end_time": "2026-02-26 14:21:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Revolver '26."
+    },
+    {
+      "show_name": "Revolver '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 14:21:00",
+      "end_time": "2026-02-26 14:42:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Revolver '26."
+    },
+    {
+      "show_name": "Revolver '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 14:42:00",
+      "end_time": "2026-02-26 15:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Revolver '26."
+    },
+    {
+      "show_name": "Revolver '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 15:00:00",
+      "end_time": "2026-02-26 15:20:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Revolver '26."
+    },
+    {
+      "show_name": "Revolver '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 15:20:00",
+      "end_time": "2026-02-26 15:41:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Revolver '26."
+    },
+    {
+      "show_name": "Revolver '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 15:41:00",
+      "end_time": "2026-02-26 16:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Revolver '26."
+    },
+    {
+      "show_name": "Free Rock '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 16:00:00",
+      "end_time": "2026-02-26 16:20:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Free rock '26."
+    },
+    {
+      "show_name": "Free Rock '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 16:20:00",
+      "end_time": "2026-02-26 16:41:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Free rock '26."
+    },
+    {
+      "show_name": "Free Rock '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 16:41:00",
+      "end_time": "2026-02-26 17:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Free rock '26."
+    },
+    {
+      "show_name": "Free Rock '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 17:00:00",
+      "end_time": "2026-02-26 17:20:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Free rock '26."
+    },
+    {
+      "show_name": "Free Rock '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 17:20:00",
+      "end_time": "2026-02-26 17:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Free rock '26."
+    },
+    {
+      "show_name": "Free Rock '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 17:40:00",
+      "end_time": "2026-02-26 18:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Free rock '26."
+    },
+    {
+      "show_name": "Virgin Radio Tgcom24 '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 18:00:00",
+      "end_time": "2026-02-26 18:01:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Virgin radio - tgcom24 '26."
+    },
+    {
+      "show_name": "Virgin Generation '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 18:01:00",
+      "end_time": "2026-02-26 18:21:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Virgin generation '26."
+    },
+    {
+      "show_name": "Virgin Generation '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 18:21:00",
+      "end_time": "2026-02-26 18:41:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Virgin generation '26."
+    },
+    {
+      "show_name": "Virgin Generation '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 18:41:00",
+      "end_time": "2026-02-26 19:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Virgin generation '26."
+    },
+    {
+      "show_name": "Virgin Radio Tgcom24 '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 19:00:00",
+      "end_time": "2026-02-26 19:01:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Virgin radio - tgcom24 '26."
+    },
+    {
+      "show_name": "Virgin Generation '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 19:01:00",
+      "end_time": "2026-02-26 19:21:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Virgin generation '26."
+    },
+    {
+      "show_name": "Virgin Generation '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 19:21:00",
+      "end_time": "2026-02-26 19:41:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Virgin generation '26."
+    },
+    {
+      "show_name": "Virgin Generation '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 19:41:00",
+      "end_time": "2026-02-26 20:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Virgin generation '26."
+    },
+    {
+      "show_name": "Best Rock 500 '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 20:00:00",
+      "end_time": "2026-02-26 20:20:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Best rock 500 '26."
+    },
+    {
+      "show_name": "Best Rock 500 '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 20:20:00",
+      "end_time": "2026-02-26 20:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Best rock 500 '26."
+    },
+    {
+      "show_name": "Best Rock 500 '26",
+      "show_logo": "",
+      "start_time": "2026-02-26 20:40:00",
+      "end_time": "2026-02-26 21:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Best rock 500 '26."
+    },
+    {
+      "show_name": "Red Hot Chili Peppers",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:00:00",
+      "end_time": "2026-02-26 21:04:00",
+      "episode_number": "",
+      "show_category": "By The Way",
+      "show_description": "RED HOT CHILI PEPPERS."
     },
     {
       "show_name": "Aerosmith",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 01:54:00",
-      "end_time": "2026-02-25 02:00:00",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:04:00",
+      "end_time": "2026-02-26 21:10:00",
       "episode_number": "",
-      "show_category": "Cryin'",
+      "show_category": "Livin' On The Edge",
       "show_description": "AEROSMITH."
     },
     {
-      "show_name": "All Night Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 02:00:00",
-      "end_time": "2026-02-25 03:00:00",
+      "show_name": "Bad Omens",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:10:00",
+      "end_time": "2026-02-26 21:14:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "All night rock '26."
+      "show_description": "Bad omens."
     },
     {
-      "show_name": "All Night Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 03:00:00",
-      "end_time": "2026-02-25 04:00:00",
+      "show_name": "Kasabian",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:14:00",
+      "end_time": "2026-02-26 21:19:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "All night rock '26."
+      "show_description": "Kasabian."
     },
     {
-      "show_name": "All Night Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 04:00:00",
-      "end_time": "2026-02-25 05:01:00",
+      "show_name": "Doors",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:19:00",
+      "end_time": "2026-02-26 21:22:00",
+      "episode_number": "",
+      "show_category": "Love Me Two Times",
+      "show_description": "DOORS."
+    },
+    {
+      "show_name": "Yungblud & The Smashing Pumpkins",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:22:00",
+      "end_time": "2026-02-26 21:26:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "All night rock '26."
+      "show_description": "Yungblud & the smashing pumpkins."
     },
     {
-      "show_name": "All Night Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 05:01:00",
-      "end_time": "2026-02-25 06:00:00",
+      "show_name": "Shinedown",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:26:00",
+      "end_time": "2026-02-26 21:30:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "All night rock '26."
+      "show_description": "Shinedown."
     },
     {
-      "show_name": "All Night Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 06:00:00",
-      "end_time": "2026-02-25 06:28:00",
+      "show_name": "White Lies",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:30:00",
+      "end_time": "2026-02-26 21:34:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "All night rock '26."
+      "show_description": "White lies."
     },
     {
-      "show_name": "Virgin Radio Tgcom24 '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 06:28:00",
-      "end_time": "2026-02-25 06:30:00",
+      "show_name": "Nothing But Thieves",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:34:00",
+      "end_time": "2026-02-26 21:40:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Virgin radio - tgcom24 '26."
+      "show_description": "Nothing but thieves."
     },
     {
-      "show_name": "Rock & Talk '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 06:30:00",
-      "end_time": "2026-02-25 07:00:00",
+      "show_name": "Police",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:40:00",
+      "end_time": "2026-02-26 21:44:00",
+      "episode_number": "",
+      "show_category": "Every Breath You Take",
+      "show_description": "POLICE."
+    },
+    {
+      "show_name": "Aerosmith & Yungblud",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:44:00",
+      "end_time": "2026-02-26 21:49:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Rock & talk '26."
+      "show_description": "Aerosmith & yungblud."
     },
     {
-      "show_name": "Rock & Talk '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 07:00:00",
-      "end_time": "2026-02-25 07:32:00",
+      "show_name": "Coldplay",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:49:00",
+      "end_time": "2026-02-26 21:52:00",
       "episode_number": "",
-      "show_category": "",
-      "show_description": "Rock & talk '26."
-    },
-    {
-      "show_name": "Rock & Talk '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 07:32:00",
-      "end_time": "2026-02-25 07:52:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Rock & talk '26."
-    },
-    {
-      "show_name": "Rock & Talk '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 07:52:00",
-      "end_time": "2026-02-25 08:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Rock & talk '26."
-    },
-    {
-      "show_name": "Virgin Radio Tgcom24 '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 08:00:00",
-      "end_time": "2026-02-25 08:01:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Virgin radio - tgcom24 '26."
-    },
-    {
-      "show_name": "Rock & Talk '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 08:01:00",
-      "end_time": "2026-02-25 08:21:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Rock & talk '26."
-    },
-    {
-      "show_name": "Rock & Talk '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 08:21:00",
-      "end_time": "2026-02-25 08:53:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Rock & talk '26."
-    },
-    {
-      "show_name": "Rock & Talk '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 08:53:00",
-      "end_time": "2026-02-25 09:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Rock & talk '26."
-    },
-    {
-      "show_name": "Virgin Radio Tgcom24 '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 09:00:00",
-      "end_time": "2026-02-25 09:01:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Virgin radio - tgcom24 '26."
-    },
-    {
-      "show_name": "Morning Glory '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 09:01:00",
-      "end_time": "2026-02-25 09:21:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Morning glory '26."
-    },
-    {
-      "show_name": "Morning Glory '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 09:21:00",
-      "end_time": "2026-02-25 09:41:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Morning glory '26."
-    },
-    {
-      "show_name": "Morning Glory '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 09:41:00",
-      "end_time": "2026-02-25 10:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Morning glory '26."
-    },
-    {
-      "show_name": "Morning Glory '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 10:00:00",
-      "end_time": "2026-02-25 10:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Morning glory '26."
-    },
-    {
-      "show_name": "Morning Glory '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 10:20:00",
-      "end_time": "2026-02-25 10:40:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Morning glory '26."
-    },
-    {
-      "show_name": "Morning Glory '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 10:40:00",
-      "end_time": "2026-02-25 11:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Morning glory '26."
-    },
-    {
-      "show_name": "Personal Giulia '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 11:00:00",
-      "end_time": "2026-02-25 11:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Personal giulia '26."
-    },
-    {
-      "show_name": "Personal Giulia '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 11:20:00",
-      "end_time": "2026-02-25 11:40:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Personal giulia '26."
-    },
-    {
-      "show_name": "Personal Giulia '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 11:40:00",
-      "end_time": "2026-02-25 12:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Personal giulia '26."
-    },
-    {
-      "show_name": "Virgin Radio Tgcom24 '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 12:00:00",
-      "end_time": "2026-02-25 12:01:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Virgin radio - tgcom24 '26."
-    },
-    {
-      "show_name": "Personal Giulia '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 12:01:00",
-      "end_time": "2026-02-25 12:21:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Personal giulia '26."
-    },
-    {
-      "show_name": "Personal Giulia '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 12:21:00",
-      "end_time": "2026-02-25 12:41:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Personal giulia '26."
-    },
-    {
-      "show_name": "Personal Giulia '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 12:41:00",
-      "end_time": "2026-02-25 13:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Personal giulia '26."
-    },
-    {
-      "show_name": "Personal Giulia '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 13:00:00",
-      "end_time": "2026-02-25 13:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Personal giulia '26."
-    },
-    {
-      "show_name": "Personal Giulia '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 13:20:00",
-      "end_time": "2026-02-25 13:40:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Personal giulia '26."
-    },
-    {
-      "show_name": "Personal Giulia '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 13:40:00",
-      "end_time": "2026-02-25 14:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Personal giulia '26."
-    },
-    {
-      "show_name": "Revolver '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 14:00:00",
-      "end_time": "2026-02-25 14:21:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Revolver '26."
-    },
-    {
-      "show_name": "Revolver '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 14:21:00",
-      "end_time": "2026-02-25 14:42:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Revolver '26."
-    },
-    {
-      "show_name": "Revolver '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 14:42:00",
-      "end_time": "2026-02-25 15:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Revolver '26."
-    },
-    {
-      "show_name": "Revolver '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 15:00:00",
-      "end_time": "2026-02-25 15:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Revolver '26."
-    },
-    {
-      "show_name": "Revolver '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 15:20:00",
-      "end_time": "2026-02-25 15:41:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Revolver '26."
-    },
-    {
-      "show_name": "Revolver '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 15:41:00",
-      "end_time": "2026-02-25 16:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Revolver '26."
-    },
-    {
-      "show_name": "Free Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 16:00:00",
-      "end_time": "2026-02-25 16:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Free rock '26."
-    },
-    {
-      "show_name": "Free Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 16:20:00",
-      "end_time": "2026-02-25 16:41:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Free rock '26."
-    },
-    {
-      "show_name": "Free Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 16:41:00",
-      "end_time": "2026-02-25 17:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Free rock '26."
-    },
-    {
-      "show_name": "Free Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 17:00:00",
-      "end_time": "2026-02-25 17:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Free rock '26."
-    },
-    {
-      "show_name": "Free Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 17:20:00",
-      "end_time": "2026-02-25 17:40:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Free rock '26."
-    },
-    {
-      "show_name": "Free Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 17:40:00",
-      "end_time": "2026-02-25 18:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Free rock '26."
-    },
-    {
-      "show_name": "Virgin Radio Tgcom24 '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 18:00:00",
-      "end_time": "2026-02-25 18:01:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Virgin radio - tgcom24 '26."
-    },
-    {
-      "show_name": "Virgin Generation '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 18:01:00",
-      "end_time": "2026-02-25 18:21:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Virgin generation '26."
-    },
-    {
-      "show_name": "Virgin Generation '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 18:21:00",
-      "end_time": "2026-02-25 18:41:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Virgin generation '26."
-    },
-    {
-      "show_name": "Virgin Generation '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 18:41:00",
-      "end_time": "2026-02-25 19:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Virgin generation '26."
-    },
-    {
-      "show_name": "Virgin Radio Tgcom24 '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 19:00:00",
-      "end_time": "2026-02-25 19:01:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Virgin radio - tgcom24 '26."
-    },
-    {
-      "show_name": "Virgin Generation '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 19:01:00",
-      "end_time": "2026-02-25 19:21:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Virgin generation '26."
-    },
-    {
-      "show_name": "Virgin Generation '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 19:21:00",
-      "end_time": "2026-02-25 19:41:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Virgin generation '26."
-    },
-    {
-      "show_name": "Virgin Generation '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 19:41:00",
-      "end_time": "2026-02-25 20:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Virgin generation '26."
-    },
-    {
-      "show_name": "Best Rock 500 '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 20:00:00",
-      "end_time": "2026-02-25 20:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Best rock 500 '26."
-    },
-    {
-      "show_name": "Best Rock 500 '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 20:20:00",
-      "end_time": "2026-02-25 20:40:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Best rock 500 '26."
-    },
-    {
-      "show_name": "Best Rock 500 '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 20:40:00",
-      "end_time": "2026-02-25 21:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Best rock 500 '26."
-    },
-    {
-      "show_name": "Free Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 21:00:00",
-      "end_time": "2026-02-25 21:20:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Free rock '26."
-    },
-    {
-      "show_name": "Free Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 21:20:00",
-      "end_time": "2026-02-25 21:40:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Free rock '26."
-    },
-    {
-      "show_name": "Free Rock '26",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 21:40:00",
-      "end_time": "2026-02-25 22:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Free rock '26."
-    },
-    {
-      "show_name": "Muse",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:00:00",
-      "end_time": "2026-02-25 22:04:00",
-      "episode_number": "",
-      "show_category": "Starlight",
-      "show_description": "MUSE."
-    },
-    {
-      "show_name": "R.e.m",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:04:00",
-      "end_time": "2026-02-25 22:08:00",
-      "episode_number": "",
-      "show_category": "The Sidewinder Sleeps Tonite",
-      "show_description": "R.E.M."
-    },
-    {
-      "show_name": "Lenny.",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:08:00",
-      "end_time": "2026-02-25 22:11:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Lenny."
-    },
-    {
-      "show_name": "Fantastic Negrito",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:11:00",
-      "end_time": "2026-02-25 22:16:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Fantastic negrito."
-    },
-    {
-      "show_name": "Florence And The Machine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:16:00",
-      "end_time": "2026-02-25 22:21:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Florence and the machine."
-    },
-    {
-      "show_name": "Kiss",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:21:00",
-      "end_time": "2026-02-25 22:25:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Kiss."
-    },
-    {
-      "show_name": "Wet Leg",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:25:00",
-      "end_time": "2026-02-25 22:28:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Wet leg."
-    },
-    {
-      "show_name": "Stereophonics",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:28:00",
-      "end_time": "2026-02-25 22:33:00",
-      "episode_number": "",
-      "show_category": "Dakota",
-      "show_description": "STEREOPHONICS."
+      "show_category": "In My Place",
+      "show_description": "COLDPLAY."
     },
     {
       "show_name": "Kings Of Leon",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:33:00",
-      "end_time": "2026-02-25 22:36:00",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:52:00",
+      "end_time": "2026-02-26 21:56:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Kings of leon."
     },
     {
-      "show_name": "Sigrid & Bring Me The Horizon",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:36:00",
-      "end_time": "2026-02-25 22:42:00",
+      "show_name": "Smash Mouth",
+      "show_logo": "",
+      "start_time": "2026-02-26 21:56:00",
+      "end_time": "2026-02-26 22:00:00",
       "episode_number": "",
-      "show_category": "",
-      "show_description": "Sigrid & bring me the horizon."
+      "show_category": "Walkin' On The Sun",
+      "show_description": "SMASH MOUTH."
     },
     {
-      "show_name": "Queen",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:42:00",
-      "end_time": "2026-02-25 22:46:00",
+      "show_name": "Linkin Park",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:00:00",
+      "end_time": "2026-02-26 22:04:00",
       "episode_number": "",
-      "show_category": "Kind Of Magic",
-      "show_description": "QUEEN."
+      "show_category": "In The End",
+      "show_description": "LINKIN PARK."
+    },
+    {
+      "show_name": "Twenty One Pilots",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:04:00",
+      "end_time": "2026-02-26 22:07:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Twenty one pilots."
+    },
+    {
+      "show_name": "Depeche Mode",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:07:00",
+      "end_time": "2026-02-26 22:12:00",
+      "episode_number": "",
+      "show_category": "Walking In My Shoes",
+      "show_description": "DEPECHE MODE."
+    },
+    {
+      "show_name": "Guns N' Roses",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:12:00",
+      "end_time": "2026-02-26 22:17:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Guns n' roses."
+    },
+    {
+      "show_name": "Ac Dc",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:17:00",
+      "end_time": "2026-02-26 22:22:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Ac dc."
+    },
+    {
+      "show_name": "Jimi Hendrix",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:22:00",
+      "end_time": "2026-02-26 22:26:00",
+      "episode_number": "",
+      "show_category": "All Along The Watchtower",
+      "show_description": "JIMI HENDRIX."
+    },
+    {
+      "show_name": "Black Stone Cherry",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:26:00",
+      "end_time": "2026-02-26 22:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Black stone cherry."
+    },
+    {
+      "show_name": "R.e.m",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:30:00",
+      "end_time": "2026-02-26 22:34:00",
+      "episode_number": "",
+      "show_category": "Uberlin",
+      "show_description": "R.E.M."
+    },
+    {
+      "show_name": "Des Rocs",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:34:00",
+      "end_time": "2026-02-26 22:37:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Des rocs."
+    },
+    {
+      "show_name": "Mysterines",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:37:00",
+      "end_time": "2026-02-26 22:44:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Mysterines."
+    },
+    {
+      "show_name": "U2",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:44:00",
+      "end_time": "2026-02-26 22:48:00",
+      "episode_number": "",
+      "show_category": "New Year's Day",
+      "show_description": "U2."
+    },
+    {
+      "show_name": "Foo Fighters",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:48:00",
+      "end_time": "2026-02-26 22:52:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Foo fighters."
+    },
+    {
+      "show_name": "Ben Harper",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:52:00",
+      "end_time": "2026-02-26 22:56:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Ben harper."
+    },
+    {
+      "show_name": "Bon Jovi",
+      "show_logo": "",
+      "start_time": "2026-02-26 22:56:00",
+      "end_time": "2026-02-26 23:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Bon jovi."
+    },
+    {
+      "show_name": "Biffy Clyro",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:00:00",
+      "end_time": "2026-02-26 23:04:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Biffy clyro."
+    },
+    {
+      "show_name": "Alice Cooper",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:04:00",
+      "end_time": "2026-02-26 23:09:00",
+      "episode_number": "",
+      "show_category": "Hey Stoopid",
+      "show_description": "ALICE COOPER."
+    },
+    {
+      "show_name": "Mumford & Sons",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:09:00",
+      "end_time": "2026-02-26 23:12:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Mumford & sons."
+    },
+    {
+      "show_name": "Oasis",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:12:00",
+      "end_time": "2026-02-26 23:16:00",
+      "episode_number": "",
+      "show_category": "Little By Little",
+      "show_description": "OASIS."
     },
     {
       "show_name": "Sam Fender",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:46:00",
-      "end_time": "2026-02-25 22:49:00",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:16:00",
+      "end_time": "2026-02-26 23:22:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Sam fender."
     },
     {
-      "show_name": "Offspring",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:49:00",
-      "end_time": "2026-02-25 22:52:00",
+      "show_name": "Who",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:22:00",
+      "end_time": "2026-02-26 23:26:00",
       "episode_number": "",
-      "show_category": "Hit That",
-      "show_description": "OFFSPRING."
+      "show_category": "My Generation",
+      "show_description": "WHO."
     },
     {
-      "show_name": "Mgk",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:52:00",
-      "end_time": "2026-02-25 22:56:00",
+      "show_name": "Kingfishr",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:26:00",
+      "end_time": "2026-02-26 23:28:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Mgk."
+      "show_description": "Kingfishr."
     },
     {
-      "show_name": "Depeche Mode",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 22:56:00",
-      "end_time": "2026-02-25 23:00:00",
+      "show_name": "Nickelback",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:28:00",
+      "end_time": "2026-02-26 23:32:00",
       "episode_number": "",
-      "show_category": "Home",
-      "show_description": "DEPECHE MODE."
+      "show_category": "Lullaby",
+      "show_description": "NICKELBACK."
     },
     {
-      "show_name": "Red Hot Chili Peppers",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:00:00",
-      "end_time": "2026-02-25 23:04:00",
-      "episode_number": "",
-      "show_category": "Hump De Bump",
-      "show_description": "RED HOT CHILI PEPPERS."
-    },
-    {
-      "show_name": "The Black Keys",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:04:00",
-      "end_time": "2026-02-25 23:08:00",
-      "episode_number": "",
-      "show_category": "The Black Keys,",
-      "show_description": "THE BLACK KEYS."
-    },
-    {
-      "show_name": "Blur",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:08:00",
-      "end_time": "2026-02-25 23:14:00",
-      "episode_number": "",
-      "show_category": "Coffee & TV",
-      "show_description": "BLUR."
-    },
-    {
-      "show_name": "Yungblud",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:14:00",
-      "end_time": "2026-02-25 23:17:00",
+      "show_name": "Alkaline Trio",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:32:00",
+      "end_time": "2026-02-26 23:35:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Yungblud."
+      "show_description": "Alkaline trio."
     },
     {
-      "show_name": "Noel Gallagher's High Flying Birds",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:17:00",
-      "end_time": "2026-02-25 23:23:00",
+      "show_name": "The Smashing Pumpkins",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:35:00",
+      "end_time": "2026-02-26 23:41:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Noel gallagher's high flying birds."
+      "show_description": "The smashing pumpkins."
     },
     {
-      "show_name": "Ramones",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:23:00",
-      "end_time": "2026-02-25 23:26:00",
+      "show_name": "Inxs",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:41:00",
+      "end_time": "2026-02-26 23:45:00",
       "episode_number": "",
-      "show_category": "Wanna Be Sedated",
-      "show_description": "RAMONES."
+      "show_category": "New Sensation",
+      "show_description": "INXS."
     },
     {
-      "show_name": "Neighbourhood",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:26:00",
-      "end_time": "2026-02-25 23:30:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Neighbourhood."
-    },
-    {
-      "show_name": "Coldplay",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:30:00",
-      "end_time": "2026-02-25 23:34:00",
-      "episode_number": "",
-      "show_category": "Paradise",
-      "show_description": "COLDPLAY."
-    },
-    {
-      "show_name": "Leap",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:34:00",
-      "end_time": "2026-02-25 23:38:00",
+      "show_name": "Struts & Brian May",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:45:00",
+      "end_time": "2026-02-26 23:50:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Leap."
+      "show_description": "Struts & brian may."
     },
     {
-      "show_name": "Catfish And The Bottlemen",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:38:00",
-      "end_time": "2026-02-25 23:43:00",
+      "show_name": "Wet Leg",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:50:00",
+      "end_time": "2026-02-26 23:53:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Catfish and the bottlemen."
+      "show_description": "Wet leg."
     },
     {
-      "show_name": "Bryan Adams",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:43:00",
-      "end_time": "2026-02-25 23:47:00",
-      "episode_number": "",
-      "show_category": "Somebody",
-      "show_description": "BRYAN ADAMS."
-    },
-    {
-      "show_name": "Turnstile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:47:00",
-      "end_time": "2026-02-25 23:51:00",
+      "show_name": "Iron Maiden",
+      "show_logo": "",
+      "start_time": "2026-02-26 23:53:00",
+      "end_time": "2026-02-27 00:00:00",
       "episode_number": "",
       "show_category": "",
-      "show_description": "Turnstile."
-    },
-    {
-      "show_name": "Metallica",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:51:00",
-      "end_time": "2026-02-25 23:56:00",
-      "episode_number": "",
-      "show_category": "Some Kind Of Monster",
-      "show_description": "METALLICA."
-    },
-    {
-      "show_name": "Inhaler",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-25 23:56:00",
-      "end_time": "2026-02-26 00:00:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Inhaler."
+      "show_description": "Iron maiden."
     }
   ]
 }
