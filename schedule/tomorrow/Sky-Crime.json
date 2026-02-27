@@ -1,213 +1,204 @@
 {
   "channel_name": "Sky Crime",
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "programs": [
     {
+      "show_name": "Come avvelenare tuo marito",
+      "show_logo": "https://guidatv.sky.it/uuid/9cc7fa8c-2c53-4f19-9ca4-ef1db52f7384/cover?cgid=282&territory=IT&md5ChecksumParam=e2fd1791b30ff3f4344ae40ab127def7.it",
+      "start_time": "2026-02-28 00:00:00",
+      "end_time": "2026-02-28 01:15:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Come avvelenare tuo marito - Dopo un divorzio, John Mook sposa Heather convinto di poter ricominciare. Ma dietro l'apparenza, la donna nasconde un passato criminale."
+    },
+    {
+      "show_name": "Delitti",
+      "show_logo": "https://guidatv.sky.it/uuid/cc13ae19-007b-481d-aba5-d742c714b868/COVER_TITLE_TALL?territory=IT&version=3b9ae381-97b0-36f6-83b5-9288ea35d8de&w=600&h=800&md5ChecksumParam=5bd58cdacb9bf92f815682d8114dc03d",
+      "start_time": "2026-02-28 01:15:00",
+      "end_time": "2026-02-28 02:05:00",
+      "episode_number": "S5 E4",
+      "show_category": "Intrattenimento",
+      "show_description": "Ep.4 di 8 - Gigliola Guerinoni, scarcerata nel 2014, fu responsabile della morte di vari uomini attratti da lei."
+    },
+    {
+      "show_name": "Un avvertimento prima di iniziare - Stag. 1 Ep. 5 - Sabrina Prioli",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-28 02:05:00",
+      "end_time": "2026-02-28 03:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "...iniziare: Stupro dopo stupro. Pablo Trincia incontra Sabrina, ex cooperante che, nel Sud Sudan, fu abusata dai soldati delle truppe dell'allora presidente."
+    },
+    {
+      "show_name": "Celebrity Sex Tapes",
+      "show_logo": "https://guidatv.sky.it/uuid/e084ea27-fd89-46c0-ba74-b2a0bf157124/COVER_TITLE_TALL?territory=IT&version=8fbbcb2d-96c0-3c4d-8208-69b8b801b16e&w=600&h=800&md5ChecksumParam=9162fa8750435cacf533d19a94e44235",
+      "start_time": "2026-02-28 03:00:00",
+      "end_time": "2026-02-28 03:50:00",
+      "episode_number": "S1 E7",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una maxi violazione informatica scuote il mondo delle celebrita'."
+    },
+    {
+      "show_name": "Celebrity Sex Tapes",
+      "show_logo": "https://guidatv.sky.it/uuid/e084ea27-fd89-46c0-ba74-b2a0bf157124/COVER_TITLE_TALL?territory=IT&version=8fbbcb2d-96c0-3c4d-8208-69b8b801b16e&w=600&h=800&md5ChecksumParam=9162fa8750435cacf533d19a94e44235",
+      "start_time": "2026-02-28 03:50:00",
+      "end_time": "2026-02-28 04:35:00",
+      "episode_number": "S1 E8",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Dan Benson e Maitland Ward, partiti dai teen show Disney, sono oggi tra le star piu' note dell'intrattenimento per adulti."
+    },
+    {
+      "show_name": "Processo a Michael Jackson",
+      "show_logo": "https://guidatv.sky.it/uuid/8c79e67e-537a-4d5f-95bc-508379b59eda/cover?territory=IT&md5ChecksumParam=dbe092e923b0e4649689fbede1968fb9",
+      "start_time": "2026-02-28 04:35:00",
+      "end_time": "2026-02-28 06:00:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ripercorriamo uno tra i piu' clamorosi e celebri processi alle celebrita' del secolo: il procedimento penale del 2005 contro l'icona della musica Michael Jackson."
+    },
+    {
+      "show_name": "Online - Connessioni Pericolose",
+      "show_logo": "https://guidatv.sky.it/uuid/128285d9-9e58-47e5-b8c8-a00251b8839d/cover?territory=IT&md5ChecksumParam=52c4f00ac070615c3d016d6504e3b2ca",
+      "start_time": "2026-02-28 06:00:00",
+      "end_time": "2026-02-28 06:30:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Quali sono i problemi legati alle informazioni pubblicate in rete attraverso i social media e i vari motori di ricerca? Il 20 novembre del 2012, il 15enne Andrea Spezzacatena si impicca nella sua abitazione. In molti, a partire dalla madre, puntano il dito contro il cyberbullismo..."
+    },
+    {
+      "show_name": "Saman",
+      "show_logo": "https://guidatv.sky.it/uuid/06a2e231-0b7d-4881-86f0-5e2d715317c7/COVER_TITLE_TALL?territory=IT&version=abc00ae6-d194-3170-a3c5-0e3b90c54975&w=600&h=800&md5ChecksumParam=1d7af5c31df4c921dd85a4d0d73768f9",
+      "start_time": "2026-02-28 06:30:00",
+      "end_time": "2026-02-28 08:05:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Saman Abbas, uccisa dai familiari per aver scelto la libertà: la sua storia racconta il coraggio di giovani donne pakistane che lottano per autodeterminarsi."
+    },
+    {
+      "show_name": "Il metodo Di Bella",
+      "show_logo": "https://guidatv.sky.it/uuid/27e0aa54-36ed-45ef-8802-505165527fad/COVER_TITLE_TALL?territory=IT&version=8d9c6f63-af16-3344-8589-dac22e75a98d&w=600&h=800&md5ChecksumParam=b3fc2f73c6e534a679335e8996b96587",
+      "start_time": "2026-02-28 08:05:00",
+      "end_time": "2026-02-28 09:40:00",
+      "episode_number": "",
+      "show_category": "Altro",
+      "show_description": "Una controversa terapia contro il cancro divide scienza, giustizia e opinione pubblica, riflettendo le contraddizioni di un paese tra scetticismo e speranza."
+    },
+    {
+      "show_name": "Scomparsi: Emanuela Orlandi",
+      "show_logo": "https://guidatv.sky.it/uuid/38485846-fe0d-41b0-bdb2-137358800865/cover?territory=IT&md5ChecksumParam=716a1dd2bf01cf8652e456c776672533",
+      "start_time": "2026-02-28 09:40:00",
+      "end_time": "2026-02-28 10:35:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ripercorriamo la scomparsa di Emanuela Orlandi e, attraverso il ricordo di suo fratello, analizziamo alcune domande che ancora oggi sono senza risposta."
+    },
+    {
+      "show_name": "Il Furto Del Secolo",
+      "show_logo": "https://guidatv.sky.it/uuid/2a62182a-e1e0-4ed1-bf24-d57a16367529/cover?territory=IT&md5ChecksumParam=3860f7f7202be777889f1fe14ad2d9f6",
+      "start_time": "2026-02-28 10:35:00",
+      "end_time": "2026-02-28 12:10:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il Furto Del Secolo - 16 luglio 1999: Massimo Carminati e la sua banda saccheggiano alcune delle cassette di sicurezza di una banca. Ma i criminali non erano alla ricerca di soldi..."
+    },
+    {
+      "show_name": "La Banda Della Uno Bianca",
+      "show_logo": "https://guidatv.sky.it/uuid/1b00180f-3df9-457e-a9a2-dc2e24fad43c/COVER_TITLE_TALL?territory=IT&version=e2f57288-9414-31e9-953c-a994feea383e&w=600&h=800&md5ChecksumParam=94e099dcc47c34c2d9671cc69bc050bf",
+      "start_time": "2026-02-28 12:10:00",
+      "end_time": "2026-02-28 13:05:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nell'ottobre del 1987 il trio di poliziotti Antonio Mosca, Luciano Baglioni e Pietro Costanza si spezza tragicamente sotto i colpi delle armi di una banda di ladri."
+    },
+    {
+      "show_name": "La Banda Della Uno Bianca",
+      "show_logo": "https://guidatv.sky.it/uuid/4bae4c89-4c25-464b-bfc9-e6a170d38f6c/COVER_TITLE_TALL?territory=IT&version=e2f57288-9414-31e9-953c-a994feea383e&w=600&h=800&md5ChecksumParam=94e099dcc47c34c2d9671cc69bc050bf",
+      "start_time": "2026-02-28 13:05:00",
+      "end_time": "2026-02-28 14:05:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La banda della Uno Bianca e' formata dai tre fratelli Savi. Due sono poliziotti, Fabio invece e' un agente mancato a causa di un difetto della vista."
+    },
+    {
       "show_name": "Andrew ed Epstein: scandalo a corte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/andrew-ed-epstein-scandalo-a-corte.webp",
-      "start_time": "2026-02-27 00:00:00",
-      "end_time": "2026-02-27 00:20:00",
+      "show_logo": "https://guidatv.sky.it/uuid/6a27d411-8f52-4558-bbca-1c1b04c7e0e5/COVER_TITLE_TALL?territory=IT&version=87c87c8c-60de-3cb6-a47d-8b2896bfa8fb&w=600&h=800&md5ChecksumParam=789e6a3258cae680e3a089904db057a7",
+      "start_time": "2026-02-28 14:05:00",
+      "end_time": "2026-02-28 15:35:00",
       "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
       "show_description": "Nato nell'ambiente privilegiato della famiglia reale, considerato un eroe di guerra e un modello Royal, la vita del principe Andrew cambia radicalmente quando diventa amico di Jeffrey Epstein."
     },
     {
       "show_name": "Andrew ed Epstein: scandalo a corte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/andrew-ed-epstein-scandalo-a-corte.webp",
-      "start_time": "2026-02-27 00:20:00",
-      "end_time": "2026-02-27 01:55:00",
+      "show_logo": "https://guidatv.sky.it/uuid/ed34b22a-a89a-4d07-9e25-151b0eac9f63/cover?territory=IT&md5ChecksumParam=604f0faff82104c67a0743de71831f73",
+      "start_time": "2026-02-28 15:35:00",
+      "end_time": "2026-02-28 17:10:00",
       "episode_number": "S1 E2",
       "show_category": "Mondo e Tendenze",
       "show_description": "Le ombre di un principe - La storia del principe Andrea e la decisione di raccontarsi di fronte alle telecamere di Newsnight."
     },
     {
-      "show_name": "Celebrity Sex Tapes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/celebrity-sex-tapes.webp",
-      "start_time": "2026-02-27 01:55:00",
-      "end_time": "2026-02-27 02:45:00",
-      "episode_number": "S1 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Diventata famosa con ''Teen Mom'', Farrah Abraham conquista le prime pagine dopo la diffusione del suo sex tape."
-    },
-    {
-      "show_name": "Celebrity Sex Tapes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/celebrity-sex-tapes.webp",
-      "start_time": "2026-02-27 02:45:00",
-      "end_time": "2026-02-27 03:30:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La star dei reality Mimi Faust racconta i retroscena del suo sex tape, tra i piu' venduti e discussi di sempre."
-    },
-    {
-      "show_name": "Processo a Michael Jackson",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/processo-a-michael-jackson.webp",
-      "start_time": "2026-02-27 03:30:00",
-      "end_time": "2026-02-27 04:55:00",
+      "show_name": "La banda della Magliana - La...",
+      "show_logo": "https://guidatv.sky.it/uuid/d7a23b12-7591-492a-8fea-786636a144b5/cover?cgid=282&territory=IT&md5ChecksumParam=ae619055a98d298ff0aeb08135d49688.it",
+      "start_time": "2026-02-28 17:10:00",
+      "end_time": "2026-02-28 18:10:00",
       "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Ripercorriamo uno tra i piu' clamorosi e celebri processi alle celebrita' del secolo: il procedimento penale del 2005 contro l'icona della musica Michael Jackson."
+      "show_description": "La storia di Franco Giuseppucci e' quella del fondatore della pericolosa e potente Banda della Magliana."
     },
     {
-      "show_name": "Online - Connessioni Pericolose",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/online-connessioni-pericolose.webp",
-      "start_time": "2026-02-27 04:55:00",
-      "end_time": "2026-02-27 05:25:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Quali sono i problemi legati alle informazioni pubblicate in rete attraverso i social media e i vari motori di ricerca? Irene, che sta affrontando un momento difficile, inizia un'amicizia on line con Francesco. Ma la situazione diventa pericolosa."
-    },
-    {
-      "show_name": "Online - Connessioni Pericolose",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/online-connessioni-pericolose.webp",
-      "start_time": "2026-02-27 05:25:00",
-      "end_time": "2026-02-27 06:00:00",
+      "show_name": "La banda della Magliana - La...",
+      "show_logo": "https://guidatv.sky.it/uuid/d7a23b12-7591-492a-8fea-786636a144b5/cover?cgid=282&territory=IT&md5ChecksumParam=ae619055a98d298ff0aeb08135d49688.it",
+      "start_time": "2026-02-28 18:10:00",
+      "end_time": "2026-02-28 19:05:00",
       "episode_number": "S1 E2",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Quali sono i problemi legati alle informazioni pubblicate in rete attraverso i social media e i vari motori di ricerca? Cristina, 24 anni, ha tante amiche adolescenti che non l'hanno mai vista ma che si divertono a chattare con lei, almeno fino a quando non scoprono chi sia veramente Cristina..."
+      "show_description": "La Banda deve vendicare la morte di Giuseppucci, ucciso dal clan dei Proietti e deve trovare un nuovo capo."
     },
     {
-      "show_name": "Pagato per uccidere",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/pagato-per-uccidere.webp",
-      "start_time": "2026-02-27 06:00:00",
-      "end_time": "2026-02-27 06:55:00",
+      "show_name": "La banda della Magliana - La...",
+      "show_logo": "https://guidatv.sky.it/uuid/d7a23b12-7591-492a-8fea-786636a144b5/cover?cgid=282&territory=IT&md5ChecksumParam=ae619055a98d298ff0aeb08135d49688.it",
+      "start_time": "2026-02-28 19:05:00",
+      "end_time": "2026-02-28 20:05:00",
       "episode_number": "S1 E3",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Dina Dore e' stata ritrovata soffocata nel bagagliaio della propria auto il 26 marzo del 2008."
+      "show_description": "Gli anni '80 sono segnati dall'espansione affaristica della Banda."
     },
     {
-      "show_name": "Pagato per uccidere",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/pagato-per-uccidere.webp",
-      "start_time": "2026-02-27 06:55:00",
-      "end_time": "2026-02-27 07:50:00",
+      "show_name": "La banda della Magliana - La...",
+      "show_logo": "https://guidatv.sky.it/uuid/d7a23b12-7591-492a-8fea-786636a144b5/cover?cgid=282&territory=IT&md5ChecksumParam=ae619055a98d298ff0aeb08135d49688.it",
+      "start_time": "2026-02-28 20:05:00",
+      "end_time": "2026-02-28 21:05:00",
       "episode_number": "S1 E4",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Japigia, quartiere barese: Giuseppe Sciannimanico viene freddato a colpi d'arma da fuoco da Luigi Di Gioia, assoldato per 20 mila euro da Roberto Perilli."
+      "show_description": "La storia di Franco Giuseppucci e l'ascesa della Banda della Magliana ai vertici della criminalita' romana, tra interviste inedite e documenti esclusivi."
     },
     {
-      "show_name": "Bande criminali - Le cronache...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/bande-criminali-le-cronache.webp",
-      "start_time": "2026-02-27 07:50:00",
-      "end_time": "2026-02-27 08:15:00",
-      "episode_number": "S1 E10",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Quando John Gotti si stanca dell'avidita' del boss, Paul Castellano, il destino della piu' potente famiglia mafiosa italiana di New York verra' stravolto."
-    },
-    {
-      "show_name": "Bande criminali - Le cronache...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/bande-criminali-le-cronache.webp",
-      "start_time": "2026-02-27 08:15:00",
-      "end_time": "2026-02-27 08:40:00",
-      "episode_number": "S1 E11",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "I Crips puntano a diventare la street gang dominante di Los Angeles e sono disposti a tutto."
-    },
-    {
-      "show_name": "Escobar: caccia al re dei narcos",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/escobar-caccia-al-re-dei-narcos.webp",
-      "start_time": "2026-02-27 08:40:00",
-      "end_time": "2026-02-27 10:15:00",
+      "show_name": "Delitti - Benno",
+      "show_logo": "https://guidatv.sky.it/uuid/78a27e65-f24b-427e-8f8e-7fde649ebc00/cover?territory=IT&md5ChecksumParam=8ce053f1d043c1f4c3dfab904335d9b0",
+      "start_time": "2026-02-28 21:05:00",
+      "end_time": "2026-02-28 22:40:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Il piu' grande narcotrafficante di tutti i tempi, il piu' spietato criminale che la Storia ricordi, il re dei narcos: Pablo Escobar. Ripercorriamo le tappe che hanno portato alla sua cattura."
-    },
-    {
-      "show_name": "Delitti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/delitti.webp",
-      "start_time": "2026-02-27 10:15:00",
-      "end_time": "2026-02-27 11:10:00",
-      "episode_number": "S5 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "Ep.4 di 8 - Gigliola Guerinoni, scarcerata nel 2014, fu responsabile della morte di vari uomini attratti da lei."
-    },
-    {
-      "show_name": "Celebrity Sex Tapes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/celebrity-sex-tapes.webp",
-      "start_time": "2026-02-27 11:10:00",
-      "end_time": "2026-02-27 12:00:00",
-      "episode_number": "S1 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Diventata famosa con ''Teen Mom'', Farrah Abraham conquista le prime pagine dopo la diffusione del suo sex tape."
-    },
-    {
-      "show_name": "Celebrity Sex Tapes",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/celebrity-sex-tapes.webp",
-      "start_time": "2026-02-27 12:00:00",
-      "end_time": "2026-02-27 12:50:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La star dei reality Mimi Faust racconta i retroscena del suo sex tape, tra i piu' venduti e discussi di sempre."
-    },
-    {
-      "show_name": "Processo a Michael Jackson",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/processo-a-michael-jackson.webp",
-      "start_time": "2026-02-27 12:50:00",
-      "end_time": "2026-02-27 14:20:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Ripercorriamo uno tra i piu' clamorosi e celebri processi alle celebrita' del secolo: il procedimento penale del 2005 contro l'icona della musica Michael Jackson."
-    },
-    {
-      "show_name": "I piu' spietati Serial Killer",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/i-piu-spietati-serial-killer.webp",
-      "start_time": "2026-02-27 14:20:00",
-      "end_time": "2026-02-27 15:50:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Ombre, delitti e orrore: un viaggio inquietante nelle vicende di alcuni tra i piu' spietati serial killer della storia."
-    },
-    {
-      "show_name": "Il cannibale con la balestra - Stag. 1 Ep. 1 - Il cannibale con la balestra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/il-cannibale-con-la-balestra-stag-1-ep-1-il-cannibale-con-la-balestra.webp",
-      "start_time": "2026-02-27 15:50:00",
-      "end_time": "2026-02-27 17:30:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il cannibale con la balestra - Quindici anni dopo l'arresto, il documentario ripercorre il caso Griffiths, lo studente di criminologia che divenne il famigerato ''Cannibale con la balestra''."
-    },
-    {
-      "show_name": "Il delitto di Giarre",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/il-delitto-di-giarre.webp",
-      "start_time": "2026-02-27 17:30:00",
-      "end_time": "2026-02-27 19:10:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nel 1980, Antonio Galatola, 15 anni, e Giorgio Giammona, 25, vengono ritrovati dopo due settimane, abbracciati, con dei colpi di pistola alla testa. Una tragedia divenne fondamentale nella storia del movimento di liberazione omosessuale italiano."
-    },
-    {
-      "show_name": "Delitti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/delitti.webp",
-      "start_time": "2026-02-27 19:10:00",
-      "end_time": "2026-02-27 21:05:00",
-      "episode_number": "S5 E5",
-      "show_category": "Intrattenimento",
-      "show_description": "Ep.5 di 8 - La storia dell'assassino di Monica Calo', Marco Mariolini, ossessionato dalle donne scheletriche."
+      "show_description": "Bolzano, 5 gennaio 2021. Benno Neumair denuncia la scomparsa dei genitori. Ma nasconde un segreto: l'assassino e' lui. Li ha strangolati in casa e poi gettati nell'Adige."
     },
     {
       "show_name": "Un avvertimento prima di iniziare - Stag. 1 Ep. 5 - Sabrina Prioli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-02-27 21:05:00",
-      "end_time": "2026-02-27 22:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-02-28 22:40:00",
+      "end_time": "2026-02-28 23:35:00",
       "episode_number": "",
       "show_category": "Mondo e Tendenze",
       "show_description": "...iniziare: Stupro dopo stupro. Pablo Trincia incontra Sabrina, ex cooperante che, nel Sud Sudan, fu abusata dai soldati delle truppe dell'allora presidente."
     },
     {
-      "show_name": "El Chapo: il boss dei narcos",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/el-chapo-il-boss-dei-narcos.webp",
-      "start_time": "2026-02-27 22:00:00",
-      "end_time": "2026-02-27 23:35:00",
+      "show_name": "L'uomo che sapeva tutto",
+      "show_logo": "https://guidatv.sky.it/uuid/29ed17d1-54c2-4d89-ad38-97fb38eb10fb/COVER_TITLE_TALL?territory=IT&version=41ed18a9-8a01-36a9-af7a-960eec98cfcf&w=600&h=800&md5ChecksumParam=7241b55b41e8cc4d8f51f14d507f26b5",
+      "start_time": "2026-02-28 23:35:00",
+      "end_time": "2026-03-01 01:00:00",
       "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "\"El Chapo: il boss dei narcos\" - Ripercorriamo la vita del piu' grande narcotrafficante al mondo. Scopriamo l'uomo che si nasconde dietro il mito e tentiamo di analizzare l'impatto del suo impero milionario sulla societa'."
-    },
-    {
-      "show_name": "Come avvelenare tuo marito",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/come-avvelenare-tuo-marito.webp",
-      "start_time": "2026-02-27 23:35:00",
-      "end_time": "2026-02-28 01:15:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Come avvelenare tuo marito - Dopo un divorzio, John Mook sposa Heather convinto di poter ricominciare. Ma dietro l'apparenza, la donna nasconde un passato criminale."
+      "show_category": "Altro",
+      "show_description": "Il ritratto di Federico Umberto D'Amato, burocrate che ha plasmato la storia della Prima Repubblica, manovrando segreti, dossier e silenzi. Dietro il burocrate ombroso si nasconde un volto inaspettato: quello di un gastronomo raffinato."
     }
   ]
 }
