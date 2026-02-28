@@ -1,249 +1,168 @@
 {
   "channel_name": "Sky Sport NBA",
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "programs": [
     {
+      "show_name": "Gran Bretagna - Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/83903dec-091e-4842-a70f-139aeb8d367e/cover?territory=IT&md5ChecksumParam=287f0d940cc4a666258976f1fac29f55",
+      "start_time": "2026-02-28 00:00:00",
+      "end_time": "2026-02-28 01:15:00",
+      "episode_number": "S2026 E5",
+      "show_category": "Sport",
+      "show_description": "Copertura dei preliminari della Coppa del Mondo FIBA 2027."
+    },
+    {
+      "show_name": "Matteo Soragna",
+      "show_logo": "https://guidatv.sky.it/uuid/a487340e-2ab2-479b-8a7c-17a5987fc713/cover?territory=IT&md5ChecksumParam=d74261eeb7220ea0d28713be72cadc8d",
+      "start_time": "2026-02-28 01:15:00",
+      "end_time": "2026-02-28 01:50:00",
+      "episode_number": "S2025 E6",
+      "show_category": "Sport",
+      "show_description": "Intervista a Matteo Soragna, ex nazionale basket e ora formatore Baskin, progetto che permette di far giocare assieme persone con e senza disabilità."
+    },
+    {
       "show_name": "Speciale Basket Room Final Eight",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/speciale-basket-room-final-eight.webp",
-      "start_time": "2026-02-27 00:00:00",
-      "end_time": "2026-02-27 00:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/a53db121-6ffa-4503-8511-7d98cda21991/cover?territory=IT&md5ChecksumParam=67aa706573cc05d8e8849b170ab3eee2",
+      "start_time": "2026-02-28 01:50:00",
+      "end_time": "2026-02-28 02:00:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Storie, interviste e approfondimenti ad opera della redazione Basket Sky Sport NBA."
     },
     {
-      "show_name": "NBA",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/nba.webp",
-      "start_time": "2026-02-27 00:00:00",
-      "end_time": "2026-02-27 00:15:00",
-      "episode_number": "S2025 E36",
-      "show_category": "Sport",
-      "show_description": "Il programma di approfondimento sul basket italiano ed internazionale, con video esclusivi, interviste ed ospiti in studio."
-    },
-    {
-      "show_name": "Basket Eurolega - Ep. 107 - Basket Eurolega Round 29 Baskonia/ Valencia 26/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/basket-eurolega-ep-107-basket-eurolega-round-29-baskonia-valencia-26-02-2026.webp",
-      "start_time": "2026-02-27 00:15:00",
-      "end_time": "2026-02-27 02:15:00",
-      "episode_number": "S2025 E107",
-      "show_category": "Sport",
-      "show_description": "Dalla Fernando Buesa Arena di Vitoria-Gasteiz, Spagna."
-    },
-    {
-      "show_name": "Basket Nba Action Ep.18 20/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/basket-nba-action-ep-18-20-02-2026.webp",
-      "start_time": "2026-02-27 02:15:00",
-      "end_time": "2026-02-27 02:45:00",
-      "episode_number": "S2025 E18",
-      "show_category": "Sport",
-      "show_description": "Ripercorriamo i momenti più belli ed audaci della pallacanestro americana con le giocate dei campioni dell'NBA."
-    },
-    {
-      "show_name": "NBA",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/nba.webp",
-      "start_time": "2026-02-27 02:45:00",
-      "end_time": "2026-02-27 03:00:00",
-      "episode_number": "S2025 E36",
-      "show_category": "Sport",
-      "show_description": "Il programma di approfondimento sul basket italiano ed internazionale, con video esclusivi, interviste ed ospiti in studio."
-    },
-    {
-      "show_name": "Hapoel Tel Aviv - Olimpia Milano",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/hapoel-tel-aviv-olimpia-milano.webp",
-      "start_time": "2026-02-27 03:00:00",
-      "end_time": "2026-02-27 05:00:00",
-      "episode_number": "S2025 E106",
-      "show_category": "Sport",
-      "show_description": "Dall'Arena del Gruppo Shlomo di Tel Aviv, Israele."
-    },
-    {
-      "show_name": "Giordano Bortolani",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/giordano-bortolani.webp",
-      "start_time": "2026-02-27 05:00:00",
-      "end_time": "2026-02-27 05:35:00",
-      "episode_number": "S2025 E5",
-      "show_category": "Sport",
-      "show_description": "Amadori Protein Talk: Giordano Bortolani."
-    },
-    {
-      "show_name": "Speciale Basket Room Final Eight",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/speciale-basket-room-final-eight.webp",
-      "start_time": "2026-02-27 05:35:00",
-      "end_time": "2026-02-27 05:45:00",
+      "show_name": "The Lost Dreamteam",
+      "show_logo": "https://guidatv.sky.it/uuid/7c09a5e6-89cb-45bb-8731-334516c82d47/cover?territory=IT&md5ChecksumParam=0e43bb8c267f38c26d262c2c7d727288",
+      "start_time": "2026-02-28 02:00:00",
+      "end_time": "2026-02-28 03:30:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Storie, interviste e approfondimenti ad opera della redazione Basket Sky Sport NBA."
+      "show_description": "Tra fine anni ’80 e inizio ’90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
     },
     {
-      "show_name": "NBA",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/nba.webp",
-      "start_time": "2026-02-27 05:45:00",
-      "end_time": "2026-02-27 06:00:00",
-      "episode_number": "S2025 E36",
+      "show_name": "Oklahoma City Thunder - Denver Nuggets",
+      "show_logo": "https://guidatv.sky.it/uuid/21af5034-35c1-4598-8ddb-1fe092a66a8d/cover?territory=IT&md5ChecksumParam=bdb7fc72898866d73f58bd1e0b186be1",
+      "start_time": "2026-02-28 03:30:00",
+      "end_time": "2026-02-28 06:30:00",
+      "episode_number": "S2025 E75",
       "show_category": "Sport",
-      "show_description": "Il programma di approfondimento sul basket italiano ed internazionale, con video esclusivi, interviste ed ospiti in studio."
+      "show_description": "Dal Paycom Center di Oklahoma City, Stati Uniti."
     },
     {
-      "show_name": "Denver Nuggets - Boston Celtics",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/denver-nuggets-boston-celtics.webp",
-      "start_time": "2026-02-27 06:00:00",
-      "end_time": "2026-02-27 08:00:00",
-      "episode_number": "S2025 E74",
-      "show_category": "Sport",
-      "show_description": "Dalla Ball Arena di Denver, Stati Uniti."
-    },
-    {
-      "show_name": "Speciale Basket Room Final Eight",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/speciale-basket-room-final-eight.webp",
-      "start_time": "2026-02-27 08:00:00",
-      "end_time": "2026-02-27 08:15:00",
+      "show_name": "The Lost Dreamteam",
+      "show_logo": "https://guidatv.sky.it/uuid/7c09a5e6-89cb-45bb-8731-334516c82d47/cover?territory=IT&md5ChecksumParam=0e43bb8c267f38c26d262c2c7d727288",
+      "start_time": "2026-02-28 06:30:00",
+      "end_time": "2026-02-28 08:00:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Storie, interviste e approfondimenti ad opera della redazione Basket Sky Sport NBA."
-    },
-    {
-      "show_name": "NBA",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/nba.webp",
-      "start_time": "2026-02-27 08:15:00",
-      "end_time": "2026-02-27 08:30:00",
-      "episode_number": "S2025 E36",
-      "show_category": "Sport",
-      "show_description": "Il programma di approfondimento sul basket italiano ed internazionale, con video esclusivi, interviste ed ospiti in studio."
-    },
-    {
-      "show_name": "Hapoel Tel Aviv - Olimpia Milano",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/hapoel-tel-aviv-olimpia-milano.webp",
-      "start_time": "2026-02-27 08:30:00",
-      "end_time": "2026-02-27 10:30:00",
-      "episode_number": "S2025 E106",
-      "show_category": "Sport",
-      "show_description": "Dall'Arena del Gruppo Shlomo di Tel Aviv, Israele."
-    },
-    {
-      "show_name": "Giordano Bortolani",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/giordano-bortolani.webp",
-      "start_time": "2026-02-27 10:30:00",
-      "end_time": "2026-02-27 11:00:00",
-      "episode_number": "S2025 E5",
-      "show_category": "Sport",
-      "show_description": "Amadori Protein Talk: Giordano Bortolani."
-    },
-    {
-      "show_name": "Basket Eurolega - Ep. 107 - Basket Eurolega Round 29 Baskonia/ Valencia 26/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/basket-eurolega-ep-107-basket-eurolega-round-29-baskonia-valencia-26-02-2026.webp",
-      "start_time": "2026-02-27 11:00:00",
-      "end_time": "2026-02-27 13:00:00",
-      "episode_number": "S2025 E107",
-      "show_category": "Sport",
-      "show_description": "Dalla Fernando Buesa Arena di Vitoria-Gasteiz, Spagna."
-    },
-    {
-      "show_name": "NBA",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/nba.webp",
-      "start_time": "2026-02-27 13:00:00",
-      "end_time": "2026-02-27 13:15:00",
-      "episode_number": "S2025 E36",
-      "show_category": "Sport",
-      "show_description": "Il programma di approfondimento sul basket italiano ed internazionale, con video esclusivi, interviste ed ospiti in studio."
-    },
-    {
-      "show_name": "Speciale Basket Room Final Eight",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/speciale-basket-room-final-eight.webp",
-      "start_time": "2026-02-27 13:15:00",
-      "end_time": "2026-02-27 13:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Storie, interviste e approfondimenti ad opera della redazione Basket Sky Sport NBA."
-    },
-    {
-      "show_name": "Denver Nuggets - Boston Celtics",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/denver-nuggets-boston-celtics.webp",
-      "start_time": "2026-02-27 13:30:00",
-      "end_time": "2026-02-27 15:30:00",
-      "episode_number": "S2025 E74",
-      "show_category": "Sport",
-      "show_description": "Dalla Ball Arena di Denver, Stati Uniti."
-    },
-    {
-      "show_name": "Messina 2a Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/messina-2a-parte.webp",
-      "start_time": "2026-02-27 15:30:00",
-      "end_time": "2026-02-27 16:30:00",
-      "episode_number": "S1 E33",
-      "show_category": "Sport",
-      "show_description": "Federico Buffa Talks - Messina 2a Parte 17/02/2026 - Federico Buffa Talks."
-    },
-    {
-      "show_name": "Hapoel Tel Aviv - Olimpia Milano",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/hapoel-tel-aviv-olimpia-milano.webp",
-      "start_time": "2026-02-27 16:30:00",
-      "end_time": "2026-02-27 18:25:00",
-      "episode_number": "S2025 E106",
-      "show_category": "Sport",
-      "show_description": "Dall'Arena del Gruppo Shlomo di Tel Aviv, Israele."
-    },
-    {
-      "show_name": "Ep.18",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/ep-18.webp",
-      "start_time": "2026-02-27 18:25:00",
-      "end_time": "2026-02-27 19:00:00",
-      "episode_number": "S2025 E18",
-      "show_category": "Sport",
-      "show_description": "Ep.18 - Ep.18 - I protagonisti, i temi e le tendenze della stagione NBA, tra attualita' e approfondimento."
+      "show_description": "Tra fine anni ’80 e inizio ’90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
     },
     {
       "show_name": "27/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/27-02-2026.webp",
-      "start_time": "2026-02-27 19:00:00",
-      "end_time": "2026-02-27 19:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/e5ecef30-3e80-423c-b51d-2f962b8b7acb/cover?territory=IT&md5ChecksumParam=a323b800441f6b1a2a90f9c62e18a41f",
+      "start_time": "2026-02-28 08:00:00",
+      "end_time": "2026-02-28 08:30:00",
       "episode_number": "S2025 E19",
       "show_category": "Sport",
       "show_description": "I momenti più belli del basket americano con le giocate dei campioni dell'NBA."
     },
     {
-      "show_name": "Messina 2a Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/messina-2a-parte.webp",
-      "start_time": "2026-02-27 19:30:00",
-      "end_time": "2026-02-27 20:25:00",
-      "episode_number": "S1 E33",
-      "show_category": "Sport",
-      "show_description": "Federico Buffa Talks - Messina 2a Parte 17/02/2026 - Federico Buffa Talks."
-    },
-    {
-      "show_name": "Islanda - Lituania",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/islanda-lituania.webp",
-      "start_time": "2026-02-27 20:25:00",
-      "end_time": "2026-02-27 22:30:00",
-      "episode_number": "S2026 E7",
+      "show_name": "Gran Bretagna - Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/83903dec-091e-4842-a70f-139aeb8d367e/cover?territory=IT&md5ChecksumParam=287f0d940cc4a666258976f1fac29f55",
+      "start_time": "2026-02-28 08:30:00",
+      "end_time": "2026-02-28 10:30:00",
+      "episode_number": "S2026 E5",
       "show_category": "Sport",
       "show_description": "Copertura dei preliminari della Coppa del Mondo FIBA 2027."
     },
     {
-      "show_name": "Speciale Basket Room Final Eight",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/speciale-basket-room-final-eight.webp",
-      "start_time": "2026-02-27 22:30:00",
-      "end_time": "2026-02-27 22:45:00",
-      "episode_number": "",
+      "show_name": "Ep.18",
+      "show_logo": "https://guidatv.sky.it/uuid/4dfa2b47-4c46-487e-ab18-359420113dd9/cover?territory=IT&md5ChecksumParam=bf28561e2dccc0ffa3704b9631e12eeb",
+      "start_time": "2026-02-28 10:30:00",
+      "end_time": "2026-02-28 11:00:00",
+      "episode_number": "S2025 E18",
       "show_category": "Sport",
-      "show_description": "Storie, interviste e approfondimenti ad opera della redazione Basket Sky Sport NBA."
+      "show_description": "Ep.18 - Ep.18 - I protagonisti, i temi e le tendenze della stagione NBA, tra attualita' e approfondimento."
+    },
+    {
+      "show_name": "Oklahoma City Thunder - Denver Nuggets",
+      "show_logo": "https://guidatv.sky.it/uuid/21af5034-35c1-4598-8ddb-1fe092a66a8d/cover?territory=IT&md5ChecksumParam=bdb7fc72898866d73f58bd1e0b186be1",
+      "start_time": "2026-02-28 11:00:00",
+      "end_time": "2026-02-28 13:00:00",
+      "episode_number": "S2025 E75",
+      "show_category": "Sport",
+      "show_description": "Dal Paycom Center di Oklahoma City, Stati Uniti."
     },
     {
       "show_name": "Matteo Soragna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/matteo-soragna.webp",
-      "start_time": "2026-02-27 22:45:00",
-      "end_time": "2026-02-27 23:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/a487340e-2ab2-479b-8a7c-17a5987fc713/cover?territory=IT&md5ChecksumParam=d74261eeb7220ea0d28713be72cadc8d",
+      "start_time": "2026-02-28 13:00:00",
+      "end_time": "2026-02-28 13:30:00",
       "episode_number": "S2025 E6",
       "show_category": "Sport",
       "show_description": "Intervista a Matteo Soragna, ex nazionale basket e ora formatore Baskin, progetto che permette di far giocare assieme persone con e senza disabilità."
     },
     {
       "show_name": "Gran Bretagna - Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/today/gran-bretagna-italia.webp",
-      "start_time": "2026-02-27 23:15:00",
-      "end_time": "2026-02-28 01:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/83903dec-091e-4842-a70f-139aeb8d367e/cover?territory=IT&md5ChecksumParam=287f0d940cc4a666258976f1fac29f55",
+      "start_time": "2026-02-28 13:30:00",
+      "end_time": "2026-02-28 15:30:00",
       "episode_number": "S2026 E5",
       "show_category": "Sport",
       "show_description": "Copertura dei preliminari della Coppa del Mondo FIBA 2027."
+    },
+    {
+      "show_name": "Oklahoma City Thunder - Denver Nuggets",
+      "show_logo": "https://guidatv.sky.it/uuid/21af5034-35c1-4598-8ddb-1fe092a66a8d/cover?territory=IT&md5ChecksumParam=bdb7fc72898866d73f58bd1e0b186be1",
+      "start_time": "2026-02-28 15:30:00",
+      "end_time": "2026-02-28 17:25:00",
+      "episode_number": "S2025 E75",
+      "show_category": "Sport",
+      "show_description": "Dal Paycom Center di Oklahoma City, Stati Uniti."
+    },
+    {
+      "show_name": "Ep.18",
+      "show_logo": "https://guidatv.sky.it/uuid/4dfa2b47-4c46-487e-ab18-359420113dd9/cover?territory=IT&md5ChecksumParam=bf28561e2dccc0ffa3704b9631e12eeb",
+      "start_time": "2026-02-28 17:25:00",
+      "end_time": "2026-02-28 18:05:00",
+      "episode_number": "S2025 E18",
+      "show_category": "Sport",
+      "show_description": "Ep.18 - Ep.18 - I protagonisti, i temi e le tendenze della stagione NBA, tra attualita' e approfondimento."
+    },
+    {
+      "show_name": "Lba Talk Speciale Coppa Italia... - Ep. 21 - Lba Talk Speciale Coppa Italia 28/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-28 18:05:00",
+      "end_time": "2026-02-28 19:05:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "LBA Talk: Speciale Coppa Italia."
+    },
+    {
+      "show_name": "Hapoel Tel Aviv - Olimpia Milano",
+      "show_logo": "https://guidatv.sky.it/uuid/970d876a-1008-40b4-8366-68a06f25ccda/cover?territory=IT&md5ChecksumParam=007badab2d60d3b5da051d576e03d397",
+      "start_time": "2026-02-28 19:05:00",
+      "end_time": "2026-02-28 21:00:00",
+      "episode_number": "S2025 E106",
+      "show_category": "Sport",
+      "show_description": "Dall'Arena del Gruppo Shlomo di Tel Aviv, Israele."
+    },
+    {
+      "show_name": "Oklahoma City Thunder - Denver Nuggets",
+      "show_logo": "https://guidatv.sky.it/uuid/21af5034-35c1-4598-8ddb-1fe092a66a8d/cover?territory=IT&md5ChecksumParam=bdb7fc72898866d73f58bd1e0b186be1",
+      "start_time": "2026-02-28 21:00:00",
+      "end_time": "2026-02-28 23:00:00",
+      "episode_number": "S2025 E75",
+      "show_category": "Sport",
+      "show_description": "Dal Paycom Center di Oklahoma City, Stati Uniti."
+    },
+    {
+      "show_name": "Lba Talk Speciale Coppa Italia... - Ep. 21 - Lba Talk Speciale Coppa Italia 28/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-02-28 23:00:00",
+      "end_time": "2026-03-01 00:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "LBA Talk: Speciale Coppa Italia."
     }
   ]
 }
