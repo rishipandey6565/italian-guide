@@ -1,276 +1,267 @@
 {
   "channel_name": "20",
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "programs": [
     {
-      "show_name": "Chinese Zodiac",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 00:00:00",
-      "end_time": "2026-03-02 01:04:00",
-      "episode_number": "",
-      "show_category": "Ii",
-      "show_description": "Sequel di \"Armour of God II - Operation Condor\", e diretto ed interpretato da Jackie Chan. L'avventuriero J.C. deve recuperare le 12 statue dello zodiaco cinese. Regia di J. Chan; HKG 2012."
-    },
-    {
-      "show_name": "Roswell, New Mexico",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 01:04:00",
-      "end_time": "2026-03-02 01:44:00",
-      "episode_number": "S3 E10",
-      "show_category": "Drammatico",
-      "show_description": "Isobel, Liz, Michael, Alex e Kyle cercano di trovare il modo di salvare Max. Solo Dallas puo' aiutarli, grazie a un messaggio lasciato da suo padre nella Macchina di Lockhart."
-    },
-    {
-      "show_name": "Roswell, New Mexico",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 01:44:00",
-      "end_time": "2026-03-02 02:24:00",
-      "episode_number": "S3 E11",
-      "show_category": "Drammatico",
-      "show_description": "Jones cerca di stringere un accordo con Liz, convincendola del fatto che aiutando lui salverebbe anche Max."
-    },
-    {
-      "show_name": "Show Reel",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 02:24:00",
-      "end_time": "2026-03-02 03:07:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Show reel '26."
-    },
-    {
-      "show_name": "Person Of Interest",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 03:07:00",
-      "end_time": "2026-03-02 03:49:00",
-      "episode_number": "S4 E3",
-      "show_category": "",
-      "show_description": "Reese riesce ad entrare nelle grazie del nuovo capitano Moreno risolvendo tre casi in un giorno. Fusco si occupa dell'ultimo numero che corrisponde ad Andre."
-    },
-    {
-      "show_name": "Person Of Interest",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 03:49:00",
-      "end_time": "2026-03-02 04:31:00",
-      "episode_number": "S4 E4",
-      "show_category": "",
-      "show_description": "Due bambini del ghetto si appropriano di una borsa piena di denaro, destinato ad un acquisto di droga. La Fratellanza gli da' la caccia."
-    },
-    {
-      "show_name": "R.i.s. 5 Delitti Imperfetti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/20/tomorrow/r-i-s-5-delitti-imperfetti.webp",
-      "start_time": "2026-03-02 04:31:00",
-      "end_time": "2026-03-02 05:19:00",
-      "episode_number": "S5 E2",
-      "show_category": "Poliziesco",
-      "show_description": "Venturi indaga su un inquietante caso di omicidio-suicidio, che vede coinvolto un prete. Le indagini dei RIS sveleranno che si tratta di una messinscena, dietro alla quale sembra nascondersi un complotto che potrebbe coinvolgere più persone."
-    },
-    {
-      "show_name": "Roswell, New Mexico",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 05:19:00",
-      "end_time": "2026-03-02 06:00:00",
-      "episode_number": "S3 E10",
-      "show_category": "Drammatico",
-      "show_description": "Isobel, Liz, Michael, Alex e Kyle cercano di trovare il modo di salvare Max. Solo Dallas puo' aiutarli, grazie a un messaggio lasciato da suo padre nella Macchina di Lockhart."
-    },
-    {
-      "show_name": "Show Reel",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 06:00:00",
-      "end_time": "2026-03-02 06:35:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Show reel '26."
-    },
-    {
-      "show_name": "Roswell, New Mexico",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 06:35:00",
-      "end_time": "2026-03-02 07:15:00",
-      "episode_number": "S3 E11",
-      "show_category": "Drammatico",
-      "show_description": "Jones cerca di stringere un accordo con Liz, convincendola del fatto che aiutando lui salverebbe anche Max."
-    },
-    {
-      "show_name": "All American",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 07:15:00",
-      "end_time": "2026-03-02 07:55:00",
-      "episode_number": "S4 E1",
-      "show_category": "Drammatico",
-      "show_description": "Coop e' in fin di vita, ma alla fine ce la fara'. Carrie cerca di suicidarsi coinvolgendo anche Layla, che pero' riesce a convincere la ragazza a non farlo."
-    },
-    {
-      "show_name": "All American",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 07:55:00",
-      "end_time": "2026-03-02 08:44:00",
-      "episode_number": "S4 E2",
-      "show_category": "Drammatico",
-      "show_description": "Olivia e' risoluta a mettere pace fra Spencer e Billy, soprattutto ora che Spencer e' ufficialmente il suo ragazzo, ma suo padre e' un vero osso duro."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 08:44:00",
-      "end_time": "2026-03-02 09:38:00",
-      "episode_number": "S1 E18",
-      "show_category": "Drammatico",
-      "show_description": "Reynolds e la Sharpe sono in difficolta': una dodicenne malata di fibrosi cistica mostra un quadro clinico molto complesso che i due medici non riescono a spiegarsi."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 09:38:00",
-      "end_time": "2026-03-02 10:34:00",
-      "episode_number": "S1 E19",
-      "show_category": "Drammatico",
-      "show_description": "Marie, una donna poliziotto in servizio, viene investita da un veterano di guerra che ha causato l'incidente perche' colpito da un ictus."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 10:34:00",
-      "end_time": "2026-03-02 10:57:00",
-      "episode_number": "S9 E3",
-      "show_category": "Commedia",
-      "show_description": "Le straordinarie conoscenze scientifiche dei ragazzi vengono messe alla prova quando il gruppo si ritrova con una gomma a terra."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 10:57:00",
-      "end_time": "2026-03-02 11:19:00",
-      "episode_number": "S9 E4",
-      "show_category": "Commedia",
-      "show_description": "Sheldon e' in crisi dopo aver appreso dell'intenzione di Leonard di trasferirsi da Penny. Per questo scegliera' di tornare indietro con la mente al 2003."
-    },
-    {
-      "show_name": "Supergirl",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 11:19:00",
-      "end_time": "2026-03-02 12:18:00",
-      "episode_number": "S6 E20",
-      "show_category": "Avventura",
-      "show_description": "Lo scontro tra Lex e Nyxly indebolisce sempre piu' gli abitanti di tutto il mondo e Supergirl fara' loro un discorso che entrera' nei libri di storia."
-    },
-    {
-      "show_name": "Dc's Legends Of Tomorrow",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 12:18:00",
-      "end_time": "2026-03-02 13:13:00",
-      "episode_number": "S5 E1",
-      "show_category": "",
-      "show_description": "Oliver e' morto per salvare il mondo e gli eroi si riuniscono per salvare il pianeta e combattere in onore di Green Arrow."
-    },
-    {
-      "show_name": "Chicago Fire",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 13:13:00",
-      "end_time": "2026-03-02 14:04:00",
-      "episode_number": "S11 E18",
-      "show_category": "",
-      "show_description": "Kidd viene scelta da Casey per far parte di una task force di anti-terrorismo e con l'occasione, quest'ultimo, rivedra' tutti i suoi vecchi colleghi della Cinquantuno."
-    },
-    {
-      "show_name": "All American",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 14:04:00",
-      "end_time": "2026-03-02 14:56:00",
-      "episode_number": "S4 E1",
-      "show_category": "Drammatico",
-      "show_description": "Coop e' in fin di vita, ma alla fine ce la fara'. Carrie cerca di suicidarsi coinvolgendo anche Layla, che pero' riesce a convincere la ragazza a non farlo."
-    },
-    {
-      "show_name": "All American",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 14:56:00",
-      "end_time": "2026-03-02 15:50:00",
-      "episode_number": "S4 E2",
-      "show_category": "Drammatico",
-      "show_description": "Olivia e' risoluta a mettere pace fra Spencer e Billy, soprattutto ora che Spencer e' ufficialmente il suo ragazzo, ma suo padre e' un vero osso duro."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 15:50:00",
-      "end_time": "2026-03-02 16:40:00",
-      "episode_number": "S1 E18",
-      "show_category": "Drammatico",
-      "show_description": "Reynolds e la Sharpe sono in difficolta': una dodicenne malata di fibrosi cistica mostra un quadro clinico molto complesso che i due medici non riescono a spiegarsi."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 16:40:00",
-      "end_time": "2026-03-02 17:33:00",
-      "episode_number": "S1 E19",
-      "show_category": "Drammatico",
-      "show_description": "Marie, una donna poliziotto in servizio, viene investita da un veterano di guerra che ha causato l'incidente perche' colpito da un ictus."
-    },
-    {
-      "show_name": "Supergirl",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 17:33:00",
-      "end_time": "2026-03-02 18:30:00",
-      "episode_number": "S6 E20",
-      "show_category": "Avventura",
-      "show_description": "Lo scontro tra Lex e Nyxly indebolisce sempre piu' gli abitanti di tutto il mondo e Supergirl fara' loro un discorso che entrera' nei libri di storia."
-    },
-    {
-      "show_name": "Dc's Legends Of Tomorrow",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 18:30:00",
-      "end_time": "2026-03-02 19:24:00",
-      "episode_number": "S5 E1",
-      "show_category": "",
-      "show_description": "Oliver e' morto per salvare il mondo e gli eroi si riuniscono per salvare il pianeta e combattere in onore di Green Arrow."
-    },
-    {
-      "show_name": "Chicago Fire",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 19:24:00",
-      "end_time": "2026-03-02 20:14:00",
-      "episode_number": "S11 E18",
-      "show_category": "",
-      "show_description": "Kidd viene scelta da Casey per far parte di una task force di anti-terrorismo e con l'occasione, quest'ultimo, rivedra' tutti i suoi vecchi colleghi della Cinquantuno."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 20:14:00",
-      "end_time": "2026-03-02 20:39:00",
-      "episode_number": "S9 E3",
-      "show_category": "Commedia",
-      "show_description": "Le straordinarie conoscenze scientifiche dei ragazzi vengono messe alla prova quando il gruppo si ritrova con una gomma a terra."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 20:39:00",
-      "end_time": "2026-03-02 21:09:00",
-      "episode_number": "S9 E4",
-      "show_category": "Commedia",
-      "show_description": "Sheldon e' in crisi dopo aver appreso dell'intenzione di Leonard di trasferirsi da Penny. Per questo scegliera' di tornare indietro con la mente al 2003."
-    },
-    {
-      "show_name": "Il Monaco",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-02 21:09:00",
-      "end_time": "2026-03-02 23:07:00",
-      "episode_number": "",
-      "show_category": "Azione",
-      "show_description": "Un monaco è alla ricerca di un successore in grado di custodire e difendere un antico papiro che, se decifrato e letto ad alta voce, potrebbe conferire al suo possessore enormi poteri."
-    },
-    {
       "show_name": "Io Vi Trovero'",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/20/tomorrow/io-vi-trovero.webp",
-      "start_time": "2026-03-02 23:07:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012804801000102/media/0/0/a1bbc275-4d28-4ebc-b99a-e47a2a1f1c86/493cb97b-b35e-4b75-a2b0-5b774a498b9d.jpg",
+      "start_time": "2026-03-03 00:00:00",
       "end_time": "2026-03-03 00:53:00",
       "episode_number": "",
       "show_category": "Thriller",
       "show_description": "Bryan Mills, ex agente segreto, ha abbandonato la carriera per avvicinarsi alla figlia Kim, 17 anni, che vive con la madre e un ricco patrigno a Los Angeles. Quando Kim parte per Parigi con un'amica, la situazione precipita perchè le ragazze vengono rapite da un'organizzazione dedita al traffico di donne. Con il tempo che stringe, Bryan dovrà agire in fretta per salvarle."
+    },
+    {
+      "show_name": "Roswell, New Mexico",
+      "show_logo": "",
+      "start_time": "2026-03-03 00:53:00",
+      "end_time": "2026-03-03 01:34:00",
+      "episode_number": "S3 E12",
+      "show_category": "Drammatico",
+      "show_description": "Jones riesce a chiudere tutti nella sua proiezione mentale: quando riescono a liberarsi, Dallas rimane gravemente ferito; Jones fugge via portando con se' Michael."
+    },
+    {
+      "show_name": "Roswell, New Mexico",
+      "show_logo": "",
+      "start_time": "2026-03-03 01:34:00",
+      "end_time": "2026-03-03 02:14:00",
+      "episode_number": "S3 E13",
+      "show_category": "Drammatico",
+      "show_description": "Liz e Heath trovano il modo per separare definitivamente Max da Jones, ma potrebbe essere una condizione temporanea."
+    },
+    {
+      "show_name": "Show Reel",
+      "show_logo": "",
+      "start_time": "2026-03-03 02:14:00",
+      "end_time": "2026-03-03 03:02:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Show reel '26."
+    },
+    {
+      "show_name": "Person Of Interest",
+      "show_logo": "",
+      "start_time": "2026-03-03 03:02:00",
+      "end_time": "2026-03-03 03:43:00",
+      "episode_number": "S4 E5",
+      "show_category": "",
+      "show_description": "Il nuovo numero arrivato corrisponde a Simon Lee, sondaggista del governatore Murray, nelle elezioni che si stanno per svolgere."
+    },
+    {
+      "show_name": "Person Of Interest",
+      "show_logo": "",
+      "start_time": "2026-03-03 03:43:00",
+      "end_time": "2026-03-03 04:25:00",
+      "episode_number": "S4 E6",
+      "show_category": "",
+      "show_description": "Il nuovo numero da salvare e' Walter Dang, un anonimo impiegato che si finge detective per scoprire chi ha ucciso il fratello di una sua collega della quale e' innamorato."
+    },
+    {
+      "show_name": "R.i.s. 5 Delitti Imperfetti",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F013091901000301/media/20/84/c6c73fe8-d5b6-49a9-b504-e94c17618d3c/4ca27152-bf72-4b19-9d79-3eedfee8c1c1.jpg",
+      "start_time": "2026-03-03 04:25:00",
+      "end_time": "2026-03-03 05:19:00",
+      "episode_number": "S5 E3",
+      "show_category": "Poliziesco",
+      "show_description": "L'arma del delitto di un omicidio risulta la stessa di un caso di qualche anno precedente. I RIS devono capire come e perché i due omicidi sono collegati. Intanto Venturi riesce a trovare un collegamento tra l'assassinio di don Mariano e quello di Valeria."
+    },
+    {
+      "show_name": "Roswell, New Mexico",
+      "show_logo": "",
+      "start_time": "2026-03-03 05:19:00",
+      "end_time": "2026-03-03 06:00:00",
+      "episode_number": "S3 E12",
+      "show_category": "Drammatico",
+      "show_description": "Jones riesce a chiudere tutti nella sua proiezione mentale: quando riescono a liberarsi, Dallas rimane gravemente ferito; Jones fugge via portando con se' Michael."
+    },
+    {
+      "show_name": "Show Reel",
+      "show_logo": "",
+      "start_time": "2026-03-03 06:00:00",
+      "end_time": "2026-03-03 06:41:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Show reel '26."
+    },
+    {
+      "show_name": "All American",
+      "show_logo": "",
+      "start_time": "2026-03-03 06:41:00",
+      "end_time": "2026-03-03 07:21:00",
+      "episode_number": "S4 E3",
+      "show_category": "Drammatico",
+      "show_description": "Spencer si sta preparando a partire per Toledo grazie a una promozione anticipata a scuola e Olivia e' preoccupata perche' loro due non hanno ancora fatto l'amore."
+    },
+    {
+      "show_name": "All American",
+      "show_logo": "",
+      "start_time": "2026-03-03 07:21:00",
+      "end_time": "2026-03-03 08:02:00",
+      "episode_number": "S4 E4",
+      "show_category": "Drammatico",
+      "show_description": "Si gioca il Platinum All-American e il Coach del Toledo State viene ad ammirare il suo nuovo acquisto: Spencer James."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "",
+      "start_time": "2026-03-03 08:02:00",
+      "end_time": "2026-03-03 09:00:00",
+      "episode_number": "S1 E20",
+      "show_category": "Drammatico",
+      "show_description": "Max riceve una pessima notizia e ne rimane sconvolto. Per reazione, aggredisce Reynolds ritenendolo direttamente responsabile del decesso dell'agente McNeil."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "",
+      "start_time": "2026-03-03 09:00:00",
+      "end_time": "2026-03-03 09:58:00",
+      "episode_number": "S1 E21",
+      "show_category": "Drammatico",
+      "show_description": "Mentre combatte contro il cancro, Max decide di istituire il \"Piano Famiglia del New Amsterdam\" per garantire una copertura sanitaria a tutti i malati."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "",
+      "start_time": "2026-03-03 09:58:00",
+      "end_time": "2026-03-03 10:22:00",
+      "episode_number": "S9 E5",
+      "show_category": "Commedia",
+      "show_description": "I ragazzi vogliono migliorare le loro abilita' sportive quindi Barry Kripke insegna loro a tirare di scherma."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "",
+      "start_time": "2026-03-03 10:22:00",
+      "end_time": "2026-03-03 10:51:00",
+      "episode_number": "S9 E6",
+      "show_category": "Commedia",
+      "show_description": "Sheldon e Leonard sono alle prese con un esperimento a base di elio che li portera' a fare un acquisto al mercato nero che non promette niente di buono."
+    },
+    {
+      "show_name": "Dc's Legends Of Tomorrow",
+      "show_logo": "",
+      "start_time": "2026-03-03 10:51:00",
+      "end_time": "2026-03-03 11:49:00",
+      "episode_number": "S5 E2",
+      "show_category": "",
+      "show_description": "Kevin, un cineasta, decide di realizzare un docu-film sulle Leggende e Sara si trova nel bel mezzo delle riprese."
+    },
+    {
+      "show_name": "Dc's Legends Of Tomorrow",
+      "show_logo": "",
+      "start_time": "2026-03-03 11:49:00",
+      "end_time": "2026-03-03 12:41:00",
+      "episode_number": "S5 E3",
+      "show_category": "",
+      "show_description": "1947, le Leggende sono a Los Angeles dove regna la corruzione gestita da un gangster di nome Benjamin Siegel, detto Bugsy."
+    },
+    {
+      "show_name": "Chicago Fire",
+      "show_logo": "",
+      "start_time": "2026-03-03 12:41:00",
+      "end_time": "2026-03-03 13:38:00",
+      "episode_number": "S11 E19",
+      "show_category": "",
+      "show_description": "La Cinquantuno risponde a una chiamata per spegnere un incendio causato da uno stoccaggio improprio di sostanze chimiche."
+    },
+    {
+      "show_name": "All American",
+      "show_logo": "",
+      "start_time": "2026-03-03 13:38:00",
+      "end_time": "2026-03-03 14:42:00",
+      "episode_number": "S4 E3",
+      "show_category": "Drammatico",
+      "show_description": "Spencer si sta preparando a partire per Toledo grazie a una promozione anticipata a scuola e Olivia e' preoccupata perche' loro due non hanno ancora fatto l'amore."
+    },
+    {
+      "show_name": "All American",
+      "show_logo": "",
+      "start_time": "2026-03-03 14:42:00",
+      "end_time": "2026-03-03 15:39:00",
+      "episode_number": "S4 E4",
+      "show_category": "Drammatico",
+      "show_description": "Si gioca il Platinum All-American e il Coach del Toledo State viene ad ammirare il suo nuovo acquisto: Spencer James."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "",
+      "start_time": "2026-03-03 15:39:00",
+      "end_time": "2026-03-03 16:38:00",
+      "episode_number": "S1 E20",
+      "show_category": "Drammatico",
+      "show_description": "Max riceve una pessima notizia e ne rimane sconvolto. Per reazione, aggredisce Reynolds ritenendolo direttamente responsabile del decesso dell'agente McNeil."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "",
+      "start_time": "2026-03-03 16:38:00",
+      "end_time": "2026-03-03 17:35:00",
+      "episode_number": "S1 E21",
+      "show_category": "Drammatico",
+      "show_description": "Mentre combatte contro il cancro, Max decide di istituire il \"Piano Famiglia del New Amsterdam\" per garantire una copertura sanitaria a tutti i malati."
+    },
+    {
+      "show_name": "Dc's Legends Of Tomorrow",
+      "show_logo": "",
+      "start_time": "2026-03-03 17:35:00",
+      "end_time": "2026-03-03 18:33:00",
+      "episode_number": "S5 E2",
+      "show_category": "",
+      "show_description": "Kevin, un cineasta, decide di realizzare un docu-film sulle Leggende e Sara si trova nel bel mezzo delle riprese."
+    },
+    {
+      "show_name": "Dc's Legends Of Tomorrow",
+      "show_logo": "",
+      "start_time": "2026-03-03 18:33:00",
+      "end_time": "2026-03-03 19:25:00",
+      "episode_number": "S5 E3",
+      "show_category": "",
+      "show_description": "1947, le Leggende sono a Los Angeles dove regna la corruzione gestita da un gangster di nome Benjamin Siegel, detto Bugsy."
+    },
+    {
+      "show_name": "Chicago Fire",
+      "show_logo": "",
+      "start_time": "2026-03-03 19:25:00",
+      "end_time": "2026-03-03 20:16:00",
+      "episode_number": "S11 E19",
+      "show_category": "",
+      "show_description": "La Cinquantuno risponde a una chiamata per spegnere un incendio causato da uno stoccaggio improprio di sostanze chimiche."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "",
+      "start_time": "2026-03-03 20:16:00",
+      "end_time": "2026-03-03 20:40:00",
+      "episode_number": "S9 E5",
+      "show_category": "Commedia",
+      "show_description": "I ragazzi vogliono migliorare le loro abilita' sportive quindi Barry Kripke insegna loro a tirare di scherma."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "",
+      "start_time": "2026-03-03 20:40:00",
+      "end_time": "2026-03-03 21:10:00",
+      "episode_number": "S9 E6",
+      "show_category": "Commedia",
+      "show_description": "Sheldon e Leonard sono alle prese con un esperimento a base di elio che li portera' a fare un acquisto al mercato nero che non promette niente di buono."
+    },
+    {
+      "show_name": "The Foreigner",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F308881001000102/media/23/87/b8e157e9-ff99-4f48-bc46-fa8a530ce76f/6d8033bf-d879-4f8a-8c8d-d2361b867168.jpg",
+      "start_time": "2026-03-03 21:10:00",
+      "end_time": "2026-03-03 23:36:00",
+      "episode_number": "",
+      "show_category": "Azione",
+      "show_description": "La figlia muore in un attentato e un umile negoziante di Chinatown a Londra decide di farsi giustizia da solo, costretto a spingere agli estremi i suoi limiti fisici e morali per rintracciare un gruppo di malviventi irlandesi, dei terroristi responsabili della morte della sua amata figlia dopo il fallimento del sistema giudiziario."
+    },
+    {
+      "show_name": "Torque Circuiti Di Fuoco",
+      "show_logo": "",
+      "start_time": "2026-03-03 23:36:00",
+      "end_time": "2026-03-04 01:34:00",
+      "episode_number": "",
+      "show_category": "Azione",
+      "show_description": "Cary, tornato in citta' per conquistare Shane, deve vedersela con un uomo che vuole vendetta per l'omicidio del fratello. Con Ice Cube. Regia di J. Kahn; USA 2004."
     }
   ]
 }
