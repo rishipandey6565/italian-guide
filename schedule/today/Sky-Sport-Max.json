@@ -1,195 +1,213 @@
 {
   "channel_name": "Sky Sport Max",
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "programs": [
     {
-      "show_name": "Torino - Lazio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/torino-lazio.webp",
-      "start_time": "2026-03-02 00:00:00",
-      "end_time": "2026-03-02 01:00:00",
-      "episode_number": "S2025 E80",
+      "show_name": "Motori Indycar Series 2026 - Ep. 1 - Motori Indycar Series 2026 St.Petersburg 01/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/4127283e-a560-4e8a-ab49-15d6f1be9c64/cover?territory=IT&md5ChecksumParam=5859f4953ef5cea7d52415732f9567b2",
+      "start_time": "2026-03-03 00:00:00",
+      "end_time": "2026-03-03 01:30:00",
+      "episode_number": "S2026 E1",
       "show_category": "Sport",
-      "show_description": "Dallo Stadio Olimpico di Torino, Italia."
-    },
-    {
-      "show_name": "Matteo Soragna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/matteo-soragna.webp",
-      "start_time": "2026-03-02 01:00:00",
-      "end_time": "2026-03-02 01:30:00",
-      "episode_number": "S2025 E6",
-      "show_category": "Sport",
-      "show_description": "Intervista a Matteo Soragna, ex nazionale basket e ora formatore Baskin, progetto che permette di far giocare assieme persone con e senza disabilità."
-    },
-    {
-      "show_name": "Ep.3",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/ep-3.webp",
-      "start_time": "2026-03-02 01:30:00",
-      "end_time": "2026-03-02 02:00:00",
-      "episode_number": "S2026 E3",
-      "show_category": "Sport",
-      "show_description": "Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico."
-    },
-    {
-      "show_name": "Juventus - Galatasaray",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/juventus-galatasaray.webp",
-      "start_time": "2026-03-02 02:00:00",
-      "end_time": "2026-03-02 04:00:00",
-      "episode_number": "S2025 E12",
-      "show_category": "Sport",
-      "show_description": "Dall'Allianz Stadium di Torino, Italia."
-    },
-    {
-      "show_name": "Ep.21",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/ep-21.webp",
-      "start_time": "2026-03-02 04:00:00",
-      "end_time": "2026-03-02 04:25:00",
-      "episode_number": "S2025 E21",
-      "show_category": "Sport",
-      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
-    },
-    {
-      "show_name": "Rally Wrc - Ep. 12 - Rally Wrc 2026 Svezia Live Stage 4 15/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/rally-wrc-ep-12-rally-wrc-2026-svezia-live-stage-4-15-02-2026.webp",
-      "start_time": "2026-03-02 04:25:00",
-      "end_time": "2026-03-02 06:00:00",
-      "episode_number": "S2026 E12",
-      "show_category": "Sport",
-      "show_description": "Segui le gare del World Rally Championship."
-    },
-    {
-      "show_name": "Motori World Superbike - Ep. 9 - Motori World Superbike 2026 Round 1 Australia - World Sbk Race 2 22/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/motori-world-superbike-ep-9-motori-world-superbike-2026-round-1-australia-world-sbk-race-2-22-02-2026.webp",
-      "start_time": "2026-03-02 06:00:00",
-      "end_time": "2026-03-02 07:00:00",
-      "episode_number": "S2026 E9",
-      "show_category": "Sport",
-      "show_description": "Dal Phillip Island Grand Prix Circuit di Ventnor, Australia."
-    },
-    {
-      "show_name": "Virtus Bologna - Barcellona",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/virtus-bologna-barcellona.webp",
-      "start_time": "2026-03-02 07:00:00",
-      "end_time": "2026-03-02 09:00:00",
-      "episode_number": "S2025 E105",
-      "show_category": "Sport",
-      "show_description": "Dalla Virtus Segafredo Arena di Bologna, Italia."
-    },
-    {
-      "show_name": "Attacco Mondiale",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/attacco-mondiale.webp",
-      "start_time": "2026-03-02 09:00:00",
-      "end_time": "2026-03-02 09:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Attacco Mondiale."
-    },
-    {
-      "show_name": "Inter - Genoa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/inter-genoa.webp",
-      "start_time": "2026-03-02 09:30:00",
-      "end_time": "2026-03-02 11:15:00",
-      "episode_number": "S2025 E264",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Giuseppe Meazza di Milano, Italia."
-    },
-    {
-      "show_name": "Napoli: Mezza maratona",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/napoli-mezza-maratona.webp",
-      "start_time": "2026-03-02 11:15:00",
-      "end_time": "2026-03-02 11:30:00",
-      "episode_number": "S1 E0",
-      "show_category": "Sport",
-      "show_description": "Segui il meglio delle gare di atletica."
-    },
-    {
-      "show_name": "Ep.3",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/ep-3.webp",
-      "start_time": "2026-03-02 11:30:00",
-      "end_time": "2026-03-02 12:00:00",
-      "episode_number": "S2026 E3",
-      "show_category": "Sport",
-      "show_description": "Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico."
-    },
-    {
-      "show_name": "Dragons - Benetton",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/dragons-benetton.webp",
-      "start_time": "2026-03-02 12:00:00",
-      "end_time": "2026-03-02 13:55:00",
-      "episode_number": "S2025 E21",
-      "show_category": "Sport",
-      "show_description": "Le partite del Guinness Pro14, uno dei tornei interconfederali di rugby più famosi al mondo."
-    },
-    {
-      "show_name": "Sydney: Giorno 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/sydney-giorno-2.webp",
-      "start_time": "2026-03-02 13:55:00",
-      "end_time": "2026-03-02 15:30:00",
-      "episode_number": "S2026 E6",
-      "show_category": "Sport",
-      "show_description": "Le gare del SailGP."
-    },
-    {
-      "show_name": "Messina 2a Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/messina-2a-parte.webp",
-      "start_time": "2026-03-02 15:30:00",
-      "end_time": "2026-03-02 16:30:00",
-      "episode_number": "S1 E33",
-      "show_category": "Sport",
-      "show_description": "Federico Buffa Talks - Messina 2a Parte 17/02/2026 - Federico Buffa Talks."
-    },
-    {
-      "show_name": "Borussia Dortmund - FC Bayern Monaco",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/borussia-dortmund-fc-bayern-monaco.webp",
-      "start_time": "2026-03-02 16:30:00",
-      "end_time": "2026-03-02 18:30:00",
-      "episode_number": "S2025 E130",
-      "show_category": "Sport",
-      "show_description": "Dal Signal Iduna Park di Dortmund, Germania."
-    },
-    {
-      "show_name": "Tashkent: 3a Giornata",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/tashkent-3a-giornata.webp",
-      "start_time": "2026-03-02 18:30:00",
-      "end_time": "2026-03-02 21:00:00",
-      "episode_number": "S2026 E5",
-      "show_category": "Sport",
-      "show_description": "Le azioni dei Grand Slam del Judo."
+      "show_description": "Dal circuito stradale di St. Petersburg in Florida, Stati Uniti."
     },
     {
       "show_name": "Icarus Ultra - Ep. 22 - Icarus Ultra 2025 Ep.22 02/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/icarus-ultra-ep-22-icarus-ultra-2025-ep-22-02-03-2026.webp",
-      "start_time": "2026-03-02 21:00:00",
-      "end_time": "2026-03-02 21:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5cfc4d6f-6fed-43a2-8c4c-fe4223788911/cover?territory=IT&md5ChecksumParam=da6ae55d91a9a7729b1e39081c0ba7a6",
+      "start_time": "2026-03-03 01:30:00",
+      "end_time": "2026-03-03 02:00:00",
       "episode_number": "S2025 E22",
       "show_category": "Sport",
       "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
     },
     {
-      "show_name": "Uefa Champions League Magazine - Ep. 22 - Uefa Champions League Magazine 2025/2026 Ep.22 02/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/uefa-champions-league-magazine-ep-22-uefa-champions-league-magazine-2025-2026-ep-22-02-03-2026.webp",
-      "start_time": "2026-03-02 21:30:00",
-      "end_time": "2026-03-02 22:00:00",
-      "episode_number": "S2025 E22",
+      "show_name": "Amburgo SV - RB Lipsia",
+      "show_logo": "https://guidatv.sky.it/uuid/4151daf8-2cc3-4762-ac91-517a0f548aa0/cover?territory=IT&md5ChecksumParam=42c957b5983a047117a6b2b35611af01",
+      "start_time": "2026-03-03 02:00:00",
+      "end_time": "2026-03-03 04:00:00",
+      "episode_number": "S2025 E133",
       "show_category": "Sport",
-      "show_description": "Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
+      "show_description": "Dal Volksparkstadion di Amburgo, Germania."
     },
     {
       "show_name": "Thailandia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/thailandia.webp",
-      "start_time": "2026-03-02 22:00:00",
-      "end_time": "2026-03-02 23:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/d3e1db5c-6f3f-4dc7-812a-9b4235268c7c/cover?territory=IT&md5ChecksumParam=c7a3b52b4dd473f692c14631ad8a6d21",
+      "start_time": "2026-03-03 04:00:00",
+      "end_time": "2026-03-03 04:55:00",
       "episode_number": "S2026 E1",
       "show_category": "Sport",
       "show_description": "Seguiamo insieme l'appuntamento settimanale con l'approfondimento di MotoGP, in compagnia di opinionisti, piloti e direttori tecnici."
     },
     {
-      "show_name": "Motori Indycar Series 2026 - Ep. 1 - Motori Indycar Series 2026 St.Petersburg 01/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/motori-indycar-series-2026-ep-1-motori-indycar-series-2026-st-petersburg-01-03-2026.webp",
-      "start_time": "2026-03-02 23:00:00",
-      "end_time": "2026-03-03 01:30:00",
+      "show_name": "GP Thailandia: Gara",
+      "show_logo": "https://guidatv.sky.it/uuid/aa4af803-2b8a-49cd-9777-3a77ab13c818/cover?territory=IT&md5ChecksumParam=057e10ff03d23baaebe55172884b22ed",
+      "start_time": "2026-03-03 04:55:00",
+      "end_time": "2026-03-03 06:00:00",
+      "episode_number": "S2026 E17",
+      "show_category": "Sport",
+      "show_description": "Dall'International Circuit di Buriram, Thailandia."
+    },
+    {
+      "show_name": "Thailandia",
+      "show_logo": "https://guidatv.sky.it/uuid/d3e1db5c-6f3f-4dc7-812a-9b4235268c7c/cover?territory=IT&md5ChecksumParam=c7a3b52b4dd473f692c14631ad8a6d21",
+      "start_time": "2026-03-03 06:00:00",
+      "end_time": "2026-03-03 07:00:00",
       "episode_number": "S2026 E1",
       "show_category": "Sport",
-      "show_description": "Dal circuito stradale di St. Petersburg in Florida, Stati Uniti."
+      "show_description": "Seguiamo insieme l'appuntamento settimanale con l'approfondimento di MotoGP, in compagnia di opinionisti, piloti e direttori tecnici."
+    },
+    {
+      "show_name": "Hapoel Tel Aviv - Olimpia Milano",
+      "show_logo": "https://guidatv.sky.it/uuid/970d876a-1008-40b4-8366-68a06f25ccda/cover?territory=IT&md5ChecksumParam=007badab2d60d3b5da051d576e03d397",
+      "start_time": "2026-03-03 07:00:00",
+      "end_time": "2026-03-03 09:00:00",
+      "episode_number": "S2025 E106",
+      "show_category": "Sport",
+      "show_description": "Dall'Arena del Gruppo Shlomo di Tel Aviv, Israele."
+    },
+    {
+      "show_name": "Icarus Ultra - Ep. 22 - Icarus Ultra 2025 Ep.22 02/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/5cfc4d6f-6fed-43a2-8c4c-fe4223788911/cover?territory=IT&md5ChecksumParam=da6ae55d91a9a7729b1e39081c0ba7a6",
+      "start_time": "2026-03-03 09:00:00",
+      "end_time": "2026-03-03 09:30:00",
+      "episode_number": "S2025 E22",
+      "show_category": "Sport",
+      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
+    },
+    {
+      "show_name": "Torino - Lazio",
+      "show_logo": "https://guidatv.sky.it/uuid/d72bf9c0-ec80-4a02-942b-cc815464212e/cover?territory=IT&md5ChecksumParam=937e80894b49f54400917df3f84ece7e",
+      "start_time": "2026-03-03 09:30:00",
+      "end_time": "2026-03-03 11:30:00",
+      "episode_number": "S2025 E80",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Olimpico di Torino, Italia."
+    },
+    {
+      "show_name": "Uefa Champions League Magazine - Ep. 22 - Uefa Champions League Magazine 2025/2026 Ep.22 02/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/868eb7cd-7281-41c3-b203-309fb384153d/cover?territory=IT&md5ChecksumParam=2cceed4e1fa1b4e5219d6d047e300fec",
+      "start_time": "2026-03-03 11:30:00",
+      "end_time": "2026-03-03 12:00:00",
+      "episode_number": "S2025 E22",
+      "show_category": "Sport",
+      "show_description": "Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
+    },
+    {
+      "show_name": "rlanda - Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/b1916392-bb42-4de6-8526-b39641c0fbf1/cover?territory=IT&md5ChecksumParam=a5892a6553f71664243cdb37e4b96461",
+      "start_time": "2026-03-03 12:00:00",
+      "end_time": "2026-03-03 14:00:00",
+      "episode_number": "S2026 E4",
+      "show_category": "Sport",
+      "show_description": "Dall'Aviva Stadium di Dublino, Irlanda."
+    },
+    {
+      "show_name": "Tashkent: 3a Giornata",
+      "show_logo": "https://guidatv.sky.it/uuid/f6b2c42a-0d8f-4125-b568-c169419c70d7/cover?territory=IT&md5ChecksumParam=f53b5d8872dc011ba91725645389683c",
+      "start_time": "2026-03-03 14:00:00",
+      "end_time": "2026-03-03 16:30:00",
+      "episode_number": "S2026 E5",
+      "show_category": "Sport",
+      "show_description": "Le azioni dei Grand Slam del Judo."
+    },
+    {
+      "show_name": "Napoli: Mezza maratona",
+      "show_logo": "https://guidatv.sky.it/uuid/7069bcfb-f310-41ef-9345-7ce1f1124cb2/COVER_TITLE_TALL?territory=IT&version=e3550fd2-7cc7-344e-ba16-835d2cc10012&w=600&h=800&md5ChecksumParam=14e0cbca5bed0b63a5d75062aec23323",
+      "start_time": "2026-03-03 16:30:00",
+      "end_time": "2026-03-03 16:45:00",
+      "episode_number": "S1 E0",
+      "show_category": "Sport",
+      "show_description": "Segui il meglio delle gare di atletica."
+    },
+    {
+      "show_name": "Torino - Lazio",
+      "show_logo": "https://guidatv.sky.it/uuid/d72bf9c0-ec80-4a02-942b-cc815464212e/cover?territory=IT&md5ChecksumParam=937e80894b49f54400917df3f84ece7e",
+      "start_time": "2026-03-03 16:45:00",
+      "end_time": "2026-03-03 17:15:00",
+      "episode_number": "S2025 E80",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Olimpico di Torino, Italia."
+    },
+    {
+      "show_name": "Inter - Genoa",
+      "show_logo": "https://guidatv.sky.it/uuid/cefe7205-916b-4110-b357-78424c12a046/cover?territory=IT&md5ChecksumParam=4c5cff8e71d350dd35ff50e05df2f214",
+      "start_time": "2026-03-03 17:15:00",
+      "end_time": "2026-03-03 17:45:00",
+      "episode_number": "S2025 E264",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Giuseppe Meazza di Milano, Italia."
+    },
+    {
+      "show_name": "Programmazione non disponibile",
+      "show_logo": "https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&md5ChecksumParam=4a25768e3cfcae514f94f50e5a0fe2c7",
+      "start_time": "2026-03-03 17:45:00",
+      "end_time": "2026-03-03 18:00:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Programmazione non disponibile."
+    },
+    {
+      "show_name": "Ospitaletto - Pro Patria",
+      "show_logo": "https://guidatv.sky.it/uuid/5339d931-37d3-4f80-ba03-95248e146d4f/cover?territory=IT&md5ChecksumParam=445cf06315f7a9b52bac4d07e4a89260",
+      "start_time": "2026-03-03 18:00:00",
+      "end_time": "2026-03-03 20:00:00",
+      "episode_number": "S2025 E307",
+      "show_category": "Sport",
+      "show_description": "Tutte le partite del campionato di Serie C italiano."
+    },
+    {
+      "show_name": "Uefa Champions League Magazine - Ep. 22 - Uefa Champions League Magazine 2025/2026 Ep.22 02/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/868eb7cd-7281-41c3-b203-309fb384153d/cover?territory=IT&md5ChecksumParam=2cceed4e1fa1b4e5219d6d047e300fec",
+      "start_time": "2026-03-03 20:00:00",
+      "end_time": "2026-03-03 20:30:00",
+      "episode_number": "S2025 E22",
+      "show_category": "Sport",
+      "show_description": "Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
+    },
+    {
+      "show_name": "Pallanuoto Len Champions League - Ep. 14 - Pallanuoto Len Champions League Quarti Di Finale Brescia/ Zodiac Cnab 03/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/fc736488-95e6-447e-98a4-b04ac54827c9/COVER_TITLE_TALL?territory=IT&version=39bf27b6-6fdf-313e-8e5c-edbec671d17a&w=600&h=800&md5ChecksumParam=7092d362ee496b037a2e69f22b30fdfa",
+      "start_time": "2026-03-03 20:30:00",
+      "end_time": "2026-03-03 22:00:00",
+      "episode_number": "S2025 E14",
+      "show_category": "Sport",
+      "show_description": "LEN Champions League."
+    },
+    {
+      "show_name": "Ep.3",
+      "show_logo": "https://guidatv.sky.it/uuid/e9184094-9d5a-41da-90bc-da13989357be/cover?territory=IT&md5ChecksumParam=33177a86e65231ccbd6109ef740a2450",
+      "start_time": "2026-03-03 22:00:00",
+      "end_time": "2026-03-03 22:45:00",
+      "episode_number": "S2026 E3",
+      "show_category": "Sport",
+      "show_description": "Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico."
+    },
+    {
+      "show_name": "Uefa Champions League Magazine - Ep. 22 - Uefa Champions League Magazine 2025/2026 Ep.22 02/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/868eb7cd-7281-41c3-b203-309fb384153d/cover?territory=IT&md5ChecksumParam=2cceed4e1fa1b4e5219d6d047e300fec",
+      "start_time": "2026-03-03 22:45:00",
+      "end_time": "2026-03-03 23:15:00",
+      "episode_number": "S2025 E22",
+      "show_category": "Sport",
+      "show_description": "Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
+    },
+    {
+      "show_name": "Inter - Genoa",
+      "show_logo": "https://guidatv.sky.it/uuid/cefe7205-916b-4110-b357-78424c12a046/cover?territory=IT&md5ChecksumParam=4c5cff8e71d350dd35ff50e05df2f214",
+      "start_time": "2026-03-03 23:15:00",
+      "end_time": "2026-03-03 23:30:00",
+      "episode_number": "S2025 E264",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Giuseppe Meazza di Milano, Italia."
+    },
+    {
+      "show_name": "Coppa Davis",
+      "show_logo": "https://guidatv.sky.it/uuid/fc628af4-8d76-49cd-8a69-14c7c503a0b3/cover?territory=IT&md5ChecksumParam=a7472ed4e84aaca323a8d33a5350f232",
+      "start_time": "2026-03-03 23:30:00",
+      "end_time": "2026-03-04 00:15:00",
+      "episode_number": "S1 E10",
+      "show_category": "Sport",
+      "show_description": "Due leggende del tennis italiano, Adriano Panatta e Paolo Bertolucci, ripercorrono la storia del tennis mondiale attraverso il loro inconfondibile stile: un mix di competenza tecnica, aneddoti inediti e ironia pungente."
     }
   ]
 }

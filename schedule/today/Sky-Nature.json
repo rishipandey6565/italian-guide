@@ -1,276 +1,231 @@
 {
   "channel_name": "Sky Nature",
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "programs": [
     {
-      "show_name": "Nord America selvaggio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/nord-america-selvaggio.webp",
-      "start_time": "2026-03-02 00:00:00",
-      "end_time": "2026-03-02 00:10:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Lizzie si dirige a nord per assistere in prima persona alla lenta scomparsa del ghiaccio marino. Gli orsi polari vengono sorpresi a razziare una città in cerca di cibo, dopo che i loro territori di caccia si sono ridotti."
-    },
-    {
-      "show_name": "I segreti delle acque incantate",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/i-segreti-delle-acque-incantate.webp",
-      "start_time": "2026-03-02 00:10:00",
-      "end_time": "2026-03-02 01:05:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Seguiamo i corsi d'acqua di tutto il mondo, dai fiumi vulcanici della Russia alle correnti della Florida. Guardiamo come i castori trasformano interi paesaggi con le loro dighe e poi godiamoci una giornata invernale alle terme con i lamantini."
-    },
-    {
-      "show_name": "I segreti delle acque incantate",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/i-segreti-delle-acque-incantate.webp",
-      "start_time": "2026-03-02 01:05:00",
-      "end_time": "2026-03-02 02:00:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Viaggiamo attraverso laghi mistici, dove la vita si adatta, sopravvive e si trasforma. Ammiriamo la potenza di antiche creature come la tartaruga azzannatrice, osserviamo la metamorfosi di una libellula e camminiamo a testa alta con i fenicotteri."
-    },
-    {
-      "show_name": "Borneo da salvare",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/borneo-da-salvare.webp",
-      "start_time": "2026-03-02 02:00:00",
-      "end_time": "2026-03-02 02:05:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nella cittadina di Beaufort, nel Borneo, un branco di macachi che puo' provocare un sacco di scompiglio, sta causando problemi agli abitanti del villaggio."
-    },
-    {
-      "show_name": "Brasile selvaggio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/brasile-selvaggio.webp",
-      "start_time": "2026-03-02 02:05:00",
-      "end_time": "2026-03-02 02:55:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nel cuore del Brasile, il felino piu' grande d'America, il magnifico giaguaro, regna su una terra magica ricca di bellezza e diversita' naturale."
-    },
-    {
-      "show_name": "Brasile selvaggio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/brasile-selvaggio.webp",
-      "start_time": "2026-03-02 02:55:00",
-      "end_time": "2026-03-02 03:40:00",
-      "episode_number": "S1 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Al confine meridionale del Pantanal, una vasta terra acquatica tropicale, il magnifico gattopardo americano sembra aver fatto ritorno."
-    },
-    {
-      "show_name": "Brasile selvaggio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/brasile-selvaggio.webp",
-      "start_time": "2026-03-02 03:40:00",
-      "end_time": "2026-03-02 04:30:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Al confine meridionale della foresta amazzonica brasiliana vive una delle scimmie piu' intelligenti del Nuovo Mondo: l'atele dalle basette bianche."
-    },
-    {
-      "show_name": "Brasile selvaggio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/brasile-selvaggio.webp",
-      "start_time": "2026-03-02 04:30:00",
-      "end_time": "2026-03-02 05:15:00",
-      "episode_number": "S1 E7",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Al confine settentrionale del Pantanal c'e' un laghetto che ospita un'insolita famiglia di roditori. Questi giganti sono grandi quanto una pecora!"
-    },
-    {
-      "show_name": "Predators",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/predators.webp",
-      "start_time": "2026-03-02 05:15:00",
-      "end_time": "2026-03-02 06:00:00",
+      "show_name": "Patagonia selvaggia",
+      "show_logo": "https://guidatv.sky.it/uuid/e467d059-96ca-443c-b70c-9315d75647be/COVER_TITLE_TALL?territory=IT&version=383ff148-dd55-3182-aa2b-f52d60e64c66&w=600&h=800&md5ChecksumParam=ad0572e8cc709c903262712f2f55d2f6",
+      "start_time": "2026-03-03 00:00:00",
+      "end_time": "2026-03-03 00:40:00",
       "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
-      "show_description": "In Serengeti due fratelli ghepardi devono unire le forze per sopravvivere alla siccita' e allontanare chi vuole prendersi la loro casa."
+      "show_description": "Un viaggio avventuroso in compagnia dei cowboy della Patagonia, noti anche come i Gaucho, che ci mostrano come catturare e domare i cavalli selvatici."
     },
     {
-      "show_name": "Cuccioli",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/cuccioli.webp",
-      "start_time": "2026-03-02 06:00:00",
-      "end_time": "2026-03-02 06:25:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Tutti i giganti nascono bambini. Elefanti, rinoceronti, gorilla e bisonti hanno alcuni dei cuccioli piu' belli del regno animale."
-    },
-    {
-      "show_name": "Sri Lanka: l'isola dei monsoni",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/sri-lanka-l-isola-dei-monsoni.webp",
-      "start_time": "2026-03-02 06:25:00",
-      "end_time": "2026-03-02 07:20:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una giovane femmina di leopardo si avventura da sola nello Yala National Park. Asha non ha mai lasciato il territorio di sua madre, dove si trovano le prede ideali dei leopardi, cervi maculati e cinghiali."
-    },
-    {
-      "show_name": "La vita segreta del Diavolo della...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/la-vita-segreta-del-diavolo-della.webp",
-      "start_time": "2026-03-02 07:20:00",
-      "end_time": "2026-03-02 08:10:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gli ambientalisti australiani seguono regolarmente i diavoli della Tasmania. Carlos, di due anni, e' uno di loro."
-    },
-    {
-      "show_name": "I segreti dell'Artide",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/i-segreti-dell-artide.webp",
-      "start_time": "2026-03-02 08:10:00",
-      "end_time": "2026-03-02 09:05:00",
-      "episode_number": "S2 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Ogni anno, migliaia di salmoni si dirigono a monte lungo il possente fiume Yukon, nel disperato tentativo di raggiungere i letti di deposizione delle uova."
-    },
-    {
-      "show_name": "Brasile selvaggio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/brasile-selvaggio.webp",
-      "start_time": "2026-03-02 09:05:00",
-      "end_time": "2026-03-02 10:00:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Al confine meridionale del Pantanal, la natura e' cosi' variegata che gli scienziati smaniano di sapere come interagiscano gli animali."
-    },
-    {
-      "show_name": "Brasile selvaggio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/brasile-selvaggio.webp",
-      "start_time": "2026-03-02 10:00:00",
-      "end_time": "2026-03-02 10:50:00",
+      "show_name": "Io e gli orsi polari",
+      "show_logo": "https://guidatv.sky.it/uuid/78cfeb63-b96f-409c-babd-99b966968a44/COVER_TITLE_TALL?territory=IT&version=d98a5af1-bd72-349c-8861-0249253a437b&w=600&h=800&md5ChecksumParam=8ac5186de0d9d9f02dbc45efdb4de001",
+      "start_time": "2026-03-03 00:40:00",
+      "end_time": "2026-03-03 01:40:00",
       "episode_number": "S1 E2",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Ogni anno, il Pantanal si trasforma in un paradiso per uccelli. Oltre 650 specie vi si radunano per la stagione degli accoppiamenti."
+      "show_description": "La squadra torna da Lyra e dai cuccioli, ma si rende subito conto che uno di loro è scomparso. Con uno dei cuccioli dispersi, Gordon ha paura per la sopravvivenza dei due orsi polari nell'impietoso clima artico."
     },
     {
-      "show_name": "Brasile selvaggio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/brasile-selvaggio.webp",
-      "start_time": "2026-03-02 10:50:00",
-      "end_time": "2026-03-02 11:45:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La mancanza di interazioni umane nel Pantanal lo rende un habitat perfetto per un tuonante branco di trecento pecari dalle labbra bianche."
-    },
-    {
-      "show_name": "I segreti delle acque incantate",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/i-segreti-delle-acque-incantate.webp",
-      "start_time": "2026-03-02 11:45:00",
-      "end_time": "2026-03-02 12:40:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Seguiamo i corsi d'acqua di tutto il mondo, dai fiumi vulcanici della Russia alle correnti della Florida. Guardiamo come i castori trasformano interi paesaggi con le loro dighe e poi godiamoci una giornata invernale alle terme con i lamantini."
-    },
-    {
-      "show_name": "I segreti delle acque incantate",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/i-segreti-delle-acque-incantate.webp",
-      "start_time": "2026-03-02 12:40:00",
-      "end_time": "2026-03-02 13:35:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Viaggiamo attraverso laghi mistici, dove la vita si adatta, sopravvive e si trasforma. Ammiriamo la potenza di antiche creature come la tartaruga azzannatrice, osserviamo la metamorfosi di una libellula e camminiamo a testa alta con i fenicotteri."
-    },
-    {
-      "show_name": "Grandi felini: Dall'alba al tramonto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/grandi-felini-dall-alba-al-tramonto.webp",
-      "start_time": "2026-03-02 13:35:00",
-      "end_time": "2026-03-02 14:35:00",
+      "show_name": "India selvaggia",
+      "show_logo": "https://guidatv.sky.it/uuid/6aa68347-3475-4961-a6db-99ac4a883f35/cover?territory=IT&md5ChecksumParam=3a8d82fb94bee0ee85a1db052f7d8165",
+      "start_time": "2026-03-03 01:40:00",
+      "end_time": "2026-03-03 02:30:00",
       "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Nel delta dell'Okavango, alla scoperta della complessità sociale del branco di leoni, guidato dai maschi Big Toe e Madumo, e delle sfide delle leonesse per nutrire i loro cuccioli. Le riprese notturne rivelano cacce spettacolari."
+      "show_description": "La vita degli animali iconici dell'India vista da vicino. Scopri la vita quotidiana del gibbone."
     },
     {
-      "show_name": "Grandi felini: Dall'alba al tramonto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/grandi-felini-dall-alba-al-tramonto.webp",
-      "start_time": "2026-03-02 14:35:00",
-      "end_time": "2026-03-02 15:35:00",
-      "episode_number": "S1 E2",
+      "show_name": "Vita da cuccioli",
+      "show_logo": "https://guidatv.sky.it/uuid/d0783118-5659-43bc-b8b7-6bf69c0d8e76/cover?territory=IT&md5ChecksumParam=7b43ac03a9cc5688233842716ce26473",
+      "start_time": "2026-03-03 02:30:00",
+      "end_time": "2026-03-03 03:20:00",
+      "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
-      "show_description": "I maschi del branco di leoni sono feriti e le madri con i cuccioli sono rimaste vulnerabili dopo un attacco. Xudum, la leoparda, corre dei rischi per trovare un compagno."
+      "show_description": "Il piccolo Winston ama troppo gli esseri umani e ci insegna una preziosa lezione sull’autonomia."
     },
     {
-      "show_name": "Nord America selvaggio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/nord-america-selvaggio.webp",
-      "start_time": "2026-03-02 15:35:00",
-      "end_time": "2026-03-02 16:35:00",
-      "episode_number": "S1 E4",
+      "show_name": "Straordinari Comportamenti Animali",
+      "show_logo": "https://guidatv.sky.it/uuid/6b317fae-b264-451f-a70f-a06ffff0697f/cover?territory=IT&md5ChecksumParam=2e71e2207f4f1230def0289c6988c3f4",
+      "start_time": "2026-03-03 03:20:00",
+      "end_time": "2026-03-03 04:10:00",
+      "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Lizzie nuota tra meravigliose barriere coralline, scava antichi fossili e si avventura nella giungla tropicale. I giaguari si aggirano su una spiaggia della Costa Rica."
+      "show_description": "Un pinguino offre un piccolo sasso come pegno d'amore nella sua proposta di matrimonio."
     },
     {
-      "show_name": "Nord America selvaggio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/nord-america-selvaggio.webp",
-      "start_time": "2026-03-02 16:35:00",
-      "end_time": "2026-03-02 17:35:00",
-      "episode_number": "S1 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Lizzie si immerge con gli squali toro ed esplora le paludi ultraterrene della costa del Golfo, brulicanti di alligatori affamati e astute tartarughe."
-    },
-    {
-      "show_name": "Nord America selvaggio",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/nord-america-selvaggio.webp",
-      "start_time": "2026-03-02 17:35:00",
-      "end_time": "2026-03-02 18:35:00",
+      "show_name": "I nostri migliori amici animali",
+      "show_logo": "https://guidatv.sky.it/uuid/406516ae-49ca-4b71-bf46-f911d3399514/cover?territory=IT&md5ChecksumParam=51f505934d1283403ea807e67e6e13d7",
+      "start_time": "2026-03-03 04:10:00",
+      "end_time": "2026-03-03 05:05:00",
       "episode_number": "S1 E6",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Lizzie si dirige a nord per assistere in prima persona alla lenta scomparsa del ghiaccio marino. Gli orsi polari vengono sorpresi a razziare una città in cerca di cibo, dopo che i loro territori di caccia si sono ridotti."
+      "show_description": "Ep6 - Scopriamo l'impegno di Martin per la riabilitazione dei ricci in Inghilterra, le cure dedicate da Claire al gattopardo africano Jasper, e molti altri ancora."
+    },
+    {
+      "show_name": "I suoni segreti della natura con...",
+      "show_logo": "https://guidatv.sky.it/uuid/7e700a0a-23bc-4be4-963c-6e3259de14f2/cover?territory=IT&md5ChecksumParam=00fb5a41ccb94160c51d99cc63e66bdb",
+      "start_time": "2026-03-03 05:05:00",
+      "end_time": "2026-03-03 06:00:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Seguiamo i cuccioli mentre imparano a comunicare per sopravvivere, usando il suono per chiedere aiuto nei loro primi giorni."
+    },
+    {
+      "show_name": "La quercia e i suoi abitanti",
+      "show_logo": "https://guidatv.sky.it/uuid/82437f42-502e-4f84-823d-5fa2d7436075/cover?territory=IT&md5ChecksumParam=9ddf17fe489f323d9d60c290cc4a70a7",
+      "start_time": "2026-03-03 06:00:00",
+      "end_time": "2026-03-03 07:20:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Documentario che mostra le tante famiglie di animali che abitano in una quercia di circa 210 anni.."
     },
     {
       "show_name": "I misteri del Mekong",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/i-misteri-del-mekong.webp",
-      "start_time": "2026-03-02 18:35:00",
-      "end_time": "2026-03-02 19:25:00",
+      "show_logo": "https://guidatv.sky.it/uuid/0a621fe8-dab8-41db-824f-3d440f31f800/cover?territory=IT&md5ChecksumParam=c3579cf405a050a8f2cecd8ecea5c1e7",
+      "start_time": "2026-03-03 07:20:00",
+      "end_time": "2026-03-03 08:10:00",
       "episode_number": "S1 E4",
       "show_category": "Mondo e Tendenze",
       "show_description": "Nel Sudest Asiatico, tra la Catena Annamita e il fiume Mekong vi e' Khammouane, un aspro paesaggio carsico costellato di numerose grotte."
     },
     {
       "show_name": "I misteri del Mekong",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/i-misteri-del-mekong.webp",
-      "start_time": "2026-03-02 19:25:00",
-      "end_time": "2026-03-02 20:20:00",
+      "show_logo": "https://guidatv.sky.it/uuid/0ca1420a-69f1-41e1-9070-fd6cf6dac95e/cover?territory=IT&md5ChecksumParam=c3579cf405a050a8f2cecd8ecea5c1e7",
+      "start_time": "2026-03-03 08:10:00",
+      "end_time": "2026-03-03 09:05:00",
       "episode_number": "S1 E5",
       "show_category": "Mondo e Tendenze",
       "show_description": "La Tailandia e' ricca di paesaggi variegati ricchi di foreste rigogliose, dolci colline e grandi sistemi fluviali che confluiscono nel fiume Mekong."
     },
     {
       "show_name": "Australia Selvaggia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/australia-selvaggia.webp",
-      "start_time": "2026-03-02 20:20:00",
-      "end_time": "2026-03-02 21:15:00",
+      "show_logo": "https://guidatv.sky.it/uuid/235c211e-7a18-4390-af33-2faa7c527871/cover?territory=IT&md5ChecksumParam=3af05d54742163cbc377b58d4d23a978",
+      "start_time": "2026-03-03 09:05:00",
+      "end_time": "2026-03-03 10:00:00",
       "episode_number": "S1 E2",
       "show_category": "Mondo e Tendenze",
       "show_description": "Ep2 - Lungo la costa orientale dell'Australia si estende il Great Divide, un'imponente catena montuosa che ospita una grande varietà di specie animali."
     },
     {
+      "show_name": "Io e gli orsi polari",
+      "show_logo": "https://guidatv.sky.it/uuid/78cfeb63-b96f-409c-babd-99b966968a44/COVER_TITLE_TALL?territory=IT&version=d98a5af1-bd72-349c-8861-0249253a437b&w=600&h=800&md5ChecksumParam=8ac5186de0d9d9f02dbc45efdb4de001",
+      "start_time": "2026-03-03 10:00:00",
+      "end_time": "2026-03-03 11:00:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La squadra torna da Lyra e dai cuccioli, ma si rende subito conto che uno di loro è scomparso. Con uno dei cuccioli dispersi, Gordon ha paura per la sopravvivenza dei due orsi polari nell'impietoso clima artico."
+    },
+    {
+      "show_name": "Io e gli orsi polari",
+      "show_logo": "https://guidatv.sky.it/uuid/c6e62469-bcb0-421b-83a6-77e9127c89c5/COVER_TITLE_TALL?territory=IT&version=d98a5af1-bd72-349c-8861-0249253a437b&w=600&h=800&md5ChecksumParam=8ac5186de0d9d9f02dbc45efdb4de001",
+      "start_time": "2026-03-03 11:00:00",
+      "end_time": "2026-03-03 12:00:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Dopo aver trovato Lyra in autunno, Gordon si rende conto che è molto magra e incapace di nutrire il suo cucciolo."
+    },
+    {
+      "show_name": "Grandi felini: Dall'alba al tramonto",
+      "show_logo": "https://guidatv.sky.it/uuid/e04fb504-ec6e-4e8a-95e6-f40a6965eb8e/COVER_TITLE_TALL?territory=IT&version=3c8e94da-9769-35fe-a5c8-90c042a21b05&w=600&h=800&md5ChecksumParam=122dbf51dad58fa9539dc71504f2080c",
+      "start_time": "2026-03-03 12:00:00",
+      "end_time": "2026-03-03 13:00:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nel delta dell'Okavango, alla scoperta della complessità sociale del branco di leoni, guidato dai maschi Big Toe e Madumo, e delle sfide delle leonesse per nutrire i loro cuccioli. Le riprese notturne rivelano cacce spettacolari."
+    },
+    {
+      "show_name": "Patagonia selvaggia",
+      "show_logo": "https://guidatv.sky.it/uuid/e467d059-96ca-443c-b70c-9315d75647be/COVER_TITLE_TALL?territory=IT&version=383ff148-dd55-3182-aa2b-f52d60e64c66&w=600&h=800&md5ChecksumParam=ad0572e8cc709c903262712f2f55d2f6",
+      "start_time": "2026-03-03 13:00:00",
+      "end_time": "2026-03-03 14:00:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un viaggio avventuroso in compagnia dei cowboy della Patagonia, noti anche come i Gaucho, che ci mostrano come catturare e domare i cavalli selvatici."
+    },
+    {
       "show_name": "Patagonia - La vita ai confini del mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/patagonia-la-vita-ai-confini-del-mondo.webp",
-      "start_time": "2026-03-02 21:15:00",
-      "end_time": "2026-03-02 22:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/3067d73e-dd4b-4a3f-be7e-029558680d7d/cover?territory=IT&md5ChecksumParam=661da45f6473b2ebe9e548717e5b15a6",
+      "start_time": "2026-03-03 14:00:00",
+      "end_time": "2026-03-03 14:50:00",
       "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
       "show_description": "Iniziamo il viaggio in Patagonia esplorando la Costa Atlantica dove, se da una parte la terra e' arida, dall'altra il mare e' ricco di vita."
     },
     {
       "show_name": "Patagonia - La vita ai confini del mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/patagonia-la-vita-ai-confini-del-mondo.webp",
-      "start_time": "2026-03-02 22:00:00",
-      "end_time": "2026-03-02 22:50:00",
+      "show_logo": "https://guidatv.sky.it/uuid/5fa80ee7-33f2-405b-b94a-4343a7e34348/cover?territory=IT&md5ChecksumParam=661da45f6473b2ebe9e548717e5b15a6",
+      "start_time": "2026-03-03 14:50:00",
+      "end_time": "2026-03-03 15:40:00",
       "episode_number": "S1 E2",
       "show_category": "Mondo e Tendenze",
       "show_description": "Il viaggio in Patagonia continua sulla Costa Pacifica dove le acque dei profondi fiordi diventano un'ambita meta per gli animali, come per l'uomo."
     },
     {
       "show_name": "Patagonia - La vita ai confini del mondo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/patagonia-la-vita-ai-confini-del-mondo.webp",
-      "start_time": "2026-03-02 22:50:00",
-      "end_time": "2026-03-02 23:40:00",
+      "show_logo": "https://guidatv.sky.it/uuid/21e64343-4c32-49b0-9585-3c3f5791ce80/cover?territory=IT&md5ChecksumParam=661da45f6473b2ebe9e548717e5b15a6",
+      "start_time": "2026-03-03 15:40:00",
+      "end_time": "2026-03-03 16:30:00",
       "episode_number": "S1 E3",
       "show_category": "Mondo e Tendenze",
       "show_description": "Dalle pendici delle Ande della Patagonia saliamo fino a raggiungere la terza distesa di ghiaccio piu' larga al mondo."
     },
     {
-      "show_name": "Patagonia selvaggia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Nature/today/patagonia-selvaggia.webp",
-      "start_time": "2026-03-02 23:40:00",
-      "end_time": "2026-03-03 00:40:00",
+      "show_name": "I nostri migliori amici animali",
+      "show_logo": "https://guidatv.sky.it/uuid/1e8c33b9-1dc7-4df7-8285-9ec31ed90718/cover?territory=IT&md5ChecksumParam=51f505934d1283403ea807e67e6e13d7",
+      "start_time": "2026-03-03 16:30:00",
+      "end_time": "2026-03-03 17:30:00",
       "episode_number": "S1 E1",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Un viaggio avventuroso in compagnia dei cowboy della Patagonia, noti anche come i Gaucho, che ci mostrano come catturare e domare i cavalli selvatici."
+      "show_description": "Ep1 - Conosciamo Sammi il pollo e il suo amico umano Dave in Florida, Gez e i suoi topi in Inghilterra, Zach e i suoi rinoceronti bianchi in Kenya, e tanti altri."
+    },
+    {
+      "show_name": "La gang dei babbuini",
+      "show_logo": "https://guidatv.sky.it/uuid/3fd2469f-b1c3-4770-a644-9774e0515fc8/cover?territory=IT&md5ChecksumParam=5383e1dc116245ca0531eff04bbee0cc",
+      "start_time": "2026-03-03 17:30:00",
+      "end_time": "2026-03-03 18:25:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Durante il lockdown le strade di Victoria Falls sono vuote. I babbuini devono capire come sopravvivere in questo strano mondo nuovo."
+    },
+    {
+      "show_name": "I segreti delle acque incantate",
+      "show_logo": "https://guidatv.sky.it/uuid/0eae083f-4f11-4d16-8f77-12d4393b042a/COVER_TITLE_TALL?territory=IT&version=2ea68a65-dd98-39cd-a7fc-4880ce36d562&w=600&h=800&md5ChecksumParam=cd24b4225f71eac03bb635ca011e0721",
+      "start_time": "2026-03-03 18:25:00",
+      "end_time": "2026-03-03 19:20:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Immergiamoci nelle profondità più oscure del mare per scoprire i suoi abitanti più misteriosi. Viaggiamo attraverso vaste distese di mare aperto in compagnia delle megattere, fino al fondale marino."
+    },
+    {
+      "show_name": "I segreti delle acque incantate",
+      "show_logo": "https://guidatv.sky.it/uuid/4c22a969-afee-4047-a150-7f21650938b1/COVER_TITLE_TALL?territory=IT&version=2ea68a65-dd98-39cd-a7fc-4880ce36d562&w=600&h=800&md5ChecksumParam=cd24b4225f71eac03bb635ca011e0721",
+      "start_time": "2026-03-03 19:20:00",
+      "end_time": "2026-03-03 21:15:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Avventuriamoci lungo le coste della Terra, dove mondi in collisione creano un crogiolo di biodiversità. Osserviamo le orche cacciare con precisione, strisciamo verso la salvezza con le tartarughe appena nate e ammirate i granchi scolpire."
+    },
+    {
+      "show_name": "Le coste selvagge dell'Africa",
+      "show_logo": "https://guidatv.sky.it/uuid/063b12ae-413f-40d4-bcbd-c319ef0ee918/cover?territory=IT&md5ChecksumParam=bd1a7d0ca997d87669e1f2486fe07afa",
+      "start_time": "2026-03-03 21:15:00",
+      "end_time": "2026-03-03 22:10:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Esploriamo vaste distese di alghe che costeggiano la costa sud-occidentale dell'Africa."
+    },
+    {
+      "show_name": "Le coste selvagge dell'Africa",
+      "show_logo": "https://guidatv.sky.it/uuid/ee6e86df-2634-4aeb-90f0-f8bc04d4ccb5/cover?territory=IT&md5ChecksumParam=bd1a7d0ca997d87669e1f2486fe07afa",
+      "start_time": "2026-03-03 22:10:00",
+      "end_time": "2026-03-03 23:05:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il pinguino africano si ritrova costretto a vivere in un ambiente ostile."
+    },
+    {
+      "show_name": "Meraviglie sottomarine d'Africa",
+      "show_logo": "https://guidatv.sky.it/uuid/38ecc23b-326b-4c37-ac74-4b352526f456/cover?territory=IT&md5ChecksumParam=2e99e6befc90cb0f56a551b723b161aa",
+      "start_time": "2026-03-03 23:05:00",
+      "end_time": "2026-03-04 00:00:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Paradiso inesplorato - Vicino alle coste della Tanzania c'e' una terra 'utopica', i cui habitat variegati offrono rifugio a un'infinita' di creature: si tratta dell'Isola di Mafia."
     }
   ]
 }
