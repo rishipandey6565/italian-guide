@@ -1,258 +1,69 @@
 {
   "channel_name": "Sky Investigation",
-  "date": "2026-03-04",
+  "date": "2026-03-05",
   "programs": [
     {
-      "show_name": "Sheriff Country",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/sheriff-country.webp",
-      "start_time": "2026-03-04 00:00:00",
-      "end_time": "2026-03-04 00:30:00",
-      "episode_number": "S1 E8",
+      "show_name": "The Equalizer",
+      "show_logo": "https://guidatv.sky.it/uuid/e2fc0955-6d35-4c30-831f-88a222cfb070/cover?territory=IT&md5ChecksumParam=259d50d1c67937f4c00cbc6a8be737da",
+      "start_time": "2026-03-05 00:00:00",
+      "end_time": "2026-03-05 00:30:00",
+      "episode_number": "S3 E4",
       "show_category": "Intrattenimento",
-      "show_description": "Mentre i coltivatori di cannabis di Edgewater si affannano per pagare le tasse in contanti, una violenta rapina lascia un uomo in condizioni critiche e mette a nudo la vulnerabilità del commercio legale di cannabis."
+      "show_description": "La squadra di McCall e' contattata da un club di motociclisti che vogliono tirar fuori di prigione uno di loro. Intanto il padre di Delilah cerca la verita' su Robyn."
     },
     {
       "show_name": "NCIS: New Orleans",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/ncis-new-orleans.webp",
-      "start_time": "2026-03-04 00:30:00",
-      "end_time": "2026-03-04 01:20:00",
-      "episode_number": "S4 E2",
-      "show_category": "Intrattenimento",
-      "show_description": "Pride viene sequestrato da una donna mentre si prepara a partire per una spedizione di pesca, il piano è costringerlo a localizzare un assassino seriale che sta attaccando le giovani donne nella regione del Golfo del Messico."
-    },
-    {
-      "show_name": "NCIS: New Orleans",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/ncis-new-orleans.webp",
-      "start_time": "2026-03-04 01:20:00",
-      "end_time": "2026-03-04 02:05:00",
-      "episode_number": "S4 E3",
-      "show_category": "Intrattenimento",
-      "show_description": "La squadra lavora insieme al direttore dell'FBI, Isler, per indagare sulla misteriosa scomparsa di un agente segreto russo. Tammy unisce le proprie forze con quelle di Eva Azarova per portare a termine la missione."
-    },
-    {
-      "show_name": "Delitti in Paradiso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/delitti-in-paradiso.webp",
-      "start_time": "2026-03-04 02:05:00",
-      "end_time": "2026-03-04 02:50:00",
-      "episode_number": "S1 E3",
-      "show_category": "Intrattenimento",
-      "show_description": "Poole indaga sul misterioso omicidio di una sacerdotessa voodoo: la donna aveva 'visto' la propria morte, prevedendo che sarebbe stata uccisa da un uomo sfregiato."
-    },
-    {
-      "show_name": "Delitti in Paradiso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/delitti-in-paradiso.webp",
-      "start_time": "2026-03-04 02:50:00",
-      "end_time": "2026-03-04 03:35:00",
-      "episode_number": "S1 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "Una donna arriva alla stazione di polizia sporca di sangue, dichiarando di aver sparato al marito, un violento che la maltrattava. Ma il presunto cadavere non si trova."
-    },
-    {
-      "show_name": "NCIS",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/ncis.webp",
-      "start_time": "2026-03-04 03:35:00",
-      "end_time": "2026-03-04 04:35:00",
-      "episode_number": "S13 E7",
-      "show_category": "Intrattenimento",
-      "show_description": "La squadra indaga sulla morte di un ufficiale di Marina il cui figlio e' in prigione per omicidio da 16 anni."
-    },
-    {
-      "show_name": "NCIS",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/ncis.webp",
-      "start_time": "2026-03-04 04:35:00",
-      "end_time": "2026-03-04 05:05:00",
-      "episode_number": "S13 E8",
-      "show_category": "Intrattenimento",
-      "show_description": "In Sudafrica alcuni ribelli attaccano un gruppo di medici volontari, tra i quali il marito di una ex di DiNozzo, che si rivolge a lui per aiuto."
-    },
-    {
-      "show_name": "La signora in giallo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/la-signora-in-giallo.webp",
-      "start_time": "2026-03-04 05:05:00",
-      "end_time": "2026-03-04 06:00:00",
-      "episode_number": "S7 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "Alla morte di un noto giornalista, Jessica si ritrova una scomoda eredita'. L'uomo le chiede di finire il suo libro per scagionare qualcuno."
-    },
-    {
-      "show_name": "La signora in giallo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/la-signora-in-giallo.webp",
-      "start_time": "2026-03-04 06:00:00",
-      "end_time": "2026-03-04 07:05:00",
-      "episode_number": "S7 E6",
-      "show_category": "Intrattenimento",
-      "show_description": "Fred Kepper, cliente della palestra aperta da Wayne Bennett, viene trovato ucciso. Lo sceriffo avvia le indagini, scoprendo un nesso tra i due."
-    },
-    {
-      "show_name": "Delitti in Paradiso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/delitti-in-paradiso.webp",
-      "start_time": "2026-03-04 07:05:00",
-      "end_time": "2026-03-04 08:10:00",
-      "episode_number": "S4 E7",
-      "show_category": "Intrattenimento",
-      "show_description": "La dispotica titolare di un'agenzia viaggi, sull'isola con i colleghi per un 'team building', e' uccisa a colpi di pistola. Goodman interroga gli altri membri della squadra."
-    },
-    {
-      "show_name": "Delitti in Paradiso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/delitti-in-paradiso.webp",
-      "start_time": "2026-03-04 08:10:00",
-      "end_time": "2026-03-04 09:05:00",
-      "episode_number": "S4 E8",
-      "show_category": "Intrattenimento",
-      "show_description": "Mentre indaga sulla morte di un uomo accusato di omicidio, ucciso a sua volta in prigione, Goodman e' disturbato dall'arrivo di suo padre, che ha una richiesta per lui."
-    },
-    {
-      "show_name": "NCIS: New Orleans",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/ncis-new-orleans.webp",
-      "start_time": "2026-03-04 09:05:00",
-      "end_time": "2026-03-04 09:55:00",
+      "show_logo": "https://guidatv.sky.it/uuid/f7e2885e-88d8-4551-8651-5a3dd2b58ce6/cover?territory=IT&md5ChecksumParam=69b60d97a64eb60f06abedbd1fd29e48",
+      "start_time": "2026-03-05 00:30:00",
+      "end_time": "2026-03-05 01:20:00",
       "episode_number": "S4 E4",
       "show_category": "Intrattenimento",
       "show_description": "La squadra si trova ad indagare su di un omicidio ispirato ad una vicenda avvenuta 150 anni fa che diede origine a leggende e credenze locali. Gregorio ammette di aver paura del soprannaturale."
     },
     {
       "show_name": "NCIS: New Orleans",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/ncis-new-orleans.webp",
-      "start_time": "2026-03-04 09:55:00",
-      "end_time": "2026-03-04 10:40:00",
+      "show_logo": "https://guidatv.sky.it/uuid/66de017f-e25d-4947-9c89-da38fcdd9af7/cover?territory=IT&md5ChecksumParam=69b60d97a64eb60f06abedbd1fd29e48",
+      "start_time": "2026-03-05 01:20:00",
+      "end_time": "2026-03-05 02:05:00",
       "episode_number": "S4 E5",
       "show_category": "Intrattenimento",
       "show_description": "Sebastian è messo sotto inchiesta per il proprio comportamento durante un inseguimento a piedi. L'uomo deve subire l'onta di un congedo forzato dall'FBI. Pride e il resto della squadra fanno del proprio meglio per difenderne l'onore."
     },
     {
-      "show_name": "Sheriff Country",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/sheriff-country.webp",
-      "start_time": "2026-03-04 10:40:00",
-      "end_time": "2026-03-04 11:30:00",
-      "episode_number": "S1 E7",
-      "show_category": "Intrattenimento",
-      "show_description": "Mentre indaga su una brutale aggressione alla Edgewater High, lo sceriffo Mickey Fox scopre un'inquietante rete di segreti, bugie e abusi di potere all'interno della scuola."
-    },
-    {
-      "show_name": "Sheriff Country",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/sheriff-country.webp",
-      "start_time": "2026-03-04 11:30:00",
-      "end_time": "2026-03-04 12:05:00",
-      "episode_number": "S1 E8",
-      "show_category": "Intrattenimento",
-      "show_description": "Mentre i coltivatori di cannabis di Edgewater si affannano per pagare le tasse in contanti, una violenta rapina lascia un uomo in condizioni critiche e mette a nudo la vulnerabilità del commercio legale di cannabis."
-    },
-    {
       "show_name": "Delitti in Paradiso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/delitti-in-paradiso.webp",
-      "start_time": "2026-03-04 12:05:00",
-      "end_time": "2026-03-04 12:55:00",
+      "show_logo": "https://guidatv.sky.it/uuid/8cfd5cd3-d405-4746-bf95-973aa277ec96/cover?territory=IT&md5ChecksumParam=3fa683500755a41aa96804275f8d1ab1",
+      "start_time": "2026-03-05 02:05:00",
+      "end_time": "2026-03-05 02:50:00",
       "episode_number": "S1 E5",
       "show_category": "Intrattenimento",
       "show_description": "Durante il trasporto da una prigione a un'altra, un criminale viene accoltellato. Non si capisce come, dato che in quel momento l'uomo era ammanettato a Poole."
     },
     {
       "show_name": "Delitti in Paradiso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/delitti-in-paradiso.webp",
-      "start_time": "2026-03-04 12:55:00",
-      "end_time": "2026-03-04 13:55:00",
+      "show_logo": "https://guidatv.sky.it/uuid/e16b1ea5-3f18-4718-8ac4-95ee160a7c7c/cover?territory=IT&md5ChecksumParam=3fa683500755a41aa96804275f8d1ab1",
+      "start_time": "2026-03-05 02:50:00",
+      "end_time": "2026-03-05 03:35:00",
       "episode_number": "S1 E6",
       "show_category": "Intrattenimento",
       "show_description": "Camille è in Francia, Poole è malato: così tocca a un'annoiata Angela indagare sul caso di un sommozzatore, trovato ucciso la mattina dopo aver litigato con il suo capo."
     },
     {
-      "show_name": "La signora in giallo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/la-signora-in-giallo.webp",
-      "start_time": "2026-03-04 13:55:00",
-      "end_time": "2026-03-04 14:45:00",
-      "episode_number": "S7 E5",
-      "show_category": "Intrattenimento",
-      "show_description": "A un ricevimento, Jessica racconta a un amico di aver visto una donna rubare una collana. Ma con grande sorpresa, scopre che la ladra e' la facoltosa padrona di casa."
-    },
-    {
-      "show_name": "La signora in giallo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/la-signora-in-giallo.webp",
-      "start_time": "2026-03-04 14:45:00",
-      "end_time": "2026-03-04 15:30:00",
-      "episode_number": "S7 E6",
-      "show_category": "Intrattenimento",
-      "show_description": "Fred Kepper, cliente della palestra aperta da Wayne Bennett, viene trovato ucciso. Lo sceriffo avvia le indagini, scoprendo un nesso tra i due."
-    },
-    {
       "show_name": "NCIS",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/ncis.webp",
-      "start_time": "2026-03-04 15:30:00",
-      "end_time": "2026-03-04 16:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/fd6db34d-5405-4fbe-81fd-dbbb88c7aa91/cover?territory=IT&md5ChecksumParam=9d0d43ce4d447cd24d0824d648b891ef",
+      "start_time": "2026-03-05 03:35:00",
+      "end_time": "2026-03-05 04:35:00",
       "episode_number": "S13 E9",
       "show_category": "Intrattenimento",
       "show_description": "Un sottufficiale accusato di aver ucciso la sua ex fidanzata si rivolge all'NCIS per chiedere di dimostrare la sua innocenza."
     },
     {
       "show_name": "NCIS",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/ncis.webp",
-      "start_time": "2026-03-04 16:30:00",
-      "end_time": "2026-03-04 17:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/0042b575-a8d1-45fe-be42-d951754e3d90/cover?territory=IT&md5ChecksumParam=9d0d43ce4d447cd24d0824d648b891ef",
+      "start_time": "2026-03-05 04:35:00",
+      "end_time": "2026-03-05 05:30:00",
       "episode_number": "S13 E10",
       "show_category": "Intrattenimento",
       "show_description": "Il Segretario della Difesa si rivolge alla squadra per aiutare un marinaio che avrebbe bisogno di un trapianto di midollo, ma che ha perso tutti i fratelli al fronte."
-    },
-    {
-      "show_name": "NCIS: New Orleans",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/ncis-new-orleans.webp",
-      "start_time": "2026-03-04 17:30:00",
-      "end_time": "2026-03-04 18:20:00",
-      "episode_number": "S4 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "La squadra si trova ad indagare su di un omicidio ispirato ad una vicenda avvenuta 150 anni fa che diede origine a leggende e credenze locali. Gregorio ammette di aver paura del soprannaturale."
-    },
-    {
-      "show_name": "NCIS: New Orleans",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/ncis-new-orleans.webp",
-      "start_time": "2026-03-04 18:20:00",
-      "end_time": "2026-03-04 19:15:00",
-      "episode_number": "S4 E5",
-      "show_category": "Intrattenimento",
-      "show_description": "Sebastian è messo sotto inchiesta per il proprio comportamento durante un inseguimento a piedi. L'uomo deve subire l'onta di un congedo forzato dall'FBI. Pride e il resto della squadra fanno del proprio meglio per difenderne l'onore."
-    },
-    {
-      "show_name": "Delitti in Paradiso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/delitti-in-paradiso.webp",
-      "start_time": "2026-03-04 19:15:00",
-      "end_time": "2026-03-04 21:15:00",
-      "episode_number": "S1 E5",
-      "show_category": "Intrattenimento",
-      "show_description": "Durante il trasporto da una prigione a un'altra, un criminale viene accoltellato. Non si capisce come, dato che in quel momento l'uomo era ammanettato a Poole."
-    },
-    {
-      "show_name": "Delitti in Paradiso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/delitti-in-paradiso.webp",
-      "start_time": "2026-03-04 21:15:00",
-      "end_time": "2026-03-04 22:05:00",
-      "episode_number": "S4 E7",
-      "show_category": "Intrattenimento",
-      "show_description": "La dispotica titolare di un'agenzia viaggi, sull'isola con i colleghi per un 'team building', e' uccisa a colpi di pistola. Goodman interroga gli altri membri della squadra."
-    },
-    {
-      "show_name": "Delitti in Paradiso",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/delitti-in-paradiso.webp",
-      "start_time": "2026-03-04 22:05:00",
-      "end_time": "2026-03-04 22:55:00",
-      "episode_number": "S4 E8",
-      "show_category": "Intrattenimento",
-      "show_description": "Mentre indaga sulla morte di un uomo accusato di omicidio, ucciso a sua volta in prigione, Goodman e' disturbato dall'arrivo di suo padre, che ha una richiesta per lui."
-    },
-    {
-      "show_name": "The Equalizer",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/the-equalizer.webp",
-      "start_time": "2026-03-04 22:55:00",
-      "end_time": "2026-03-04 23:45:00",
-      "episode_number": "S3 E3",
-      "show_category": "Intrattenimento",
-      "show_description": "Una giovane vedova denuncia dei tentativi di omicidio da parte del marito morto. McCall e la squadra cercano di capire cosa stia succedendo alla donna."
-    },
-    {
-      "show_name": "The Equalizer",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Investigation/tomorrow/the-equalizer.webp",
-      "start_time": "2026-03-04 23:45:00",
-      "end_time": "2026-03-05 00:30:00",
-      "episode_number": "S3 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "La squadra di McCall e' contattata da un club di motociclisti che vogliono tirar fuori di prigione uno di loro. Intanto il padre di Delilah cerca la verita' su Robyn."
     }
   ]
 }

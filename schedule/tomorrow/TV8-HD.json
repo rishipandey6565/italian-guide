@@ -1,213 +1,51 @@
 {
   "channel_name": "TV8 HD",
-  "date": "2026-03-04",
+  "date": "2026-03-05",
   "programs": [
     {
-      "show_name": "(S)ex List",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/s-ex-list.webp",
-      "start_time": "2026-03-04 00:00:00",
-      "end_time": "2026-03-04 01:40:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "L'irresistibile Anna Faris e l'aitante 'Captain America' Chris Evans in una commedia a tinte rosa. Dopo aver letto un articolo su una rivista, la trentenne Ally decide di cercare il suo principe azzurro tra i suoi 19 ex fidanzati. Verra' aiutata nell'impresa dal vicino di casa."
-    },
-    {
-      "show_name": "Black or White",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/black-or-white.webp",
-      "start_time": "2026-03-04 01:40:00",
-      "end_time": "2026-03-04 03:50:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Kevin Costner e Octavia Spencer sono i protagonisti di un emozionante dramma sul tema dell'adozione e dello scontro razziale. Un avvocato vedovo ingaggia una dura battaglia legale per ottenere la custodia della nipotina di colore quando la nonna paterna ne reclama l'affidamento."
-    },
-    {
-      "show_name": "Lady Killer",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/lady-killer.webp",
-      "start_time": "2026-03-04 03:50:00",
-      "end_time": "2026-03-04 04:40:00",
-      "episode_number": "S22 E14",
-      "show_category": "Intrattenimento",
-      "show_description": "Shirley Jo Phillips - Sono delicate, generose, vanitose ed innamorate, ma quando vengono ferite diventano vendicative e pericolose. In ogni episodio affrontiamo il caso di una donna diventata di colpo una feroce assassina."
-    },
-    {
-      "show_name": "Lady Killer",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/lady-killer.webp",
-      "start_time": "2026-03-04 04:40:00",
-      "end_time": "2026-03-04 05:30:00",
-      "episode_number": "S23 E2",
-      "show_category": "Intrattenimento",
-      "show_description": "Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? E perche' uccidono?"
-    },
-    {
-      "show_name": "'Na pizza",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/na-pizza.webp",
-      "start_time": "2026-03-04 05:30:00",
-      "end_time": "2026-03-04 06:00:00",
-      "episode_number": "S1 E1",
-      "show_category": "Intrattenimento",
-      "show_description": "Renato Bosco ospita Filippo Venturi, pizzaiolo ferrarese che si e' aggiudicato un posto in finale nel concorso 'Emergente chef pizza 2023'. La specialita'? Pizza napoletana contemporanea!"
-    },
-    {
-      "show_name": "TG24 Pagine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/tg24-pagine.webp",
-      "start_time": "2026-03-04 06:00:00",
-      "end_time": "2026-03-04 06:25:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "I quotidiani italiani e stranieri, i siti e i social nella rassegna di Sky TG24. Disponibile anche sul sito e su tutte le piattaforme."
-    },
-    {
-      "show_name": "TG24 Preview",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/tg24-preview.webp",
-      "start_time": "2026-03-04 06:25:00",
-      "end_time": "2026-03-04 06:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "TG24 Preview."
-    },
-    {
-      "show_name": "TG24 Buongiorno",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/tg24-buongiorno.webp",
-      "start_time": "2026-03-04 06:30:00",
-      "end_time": "2026-03-04 07:00:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Le notizie in primo piano, dall'Italia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live."
-    },
-    {
-      "show_name": "TG24 Buongiorno",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/tg24-buongiorno.webp",
-      "start_time": "2026-03-04 07:00:00",
-      "end_time": "2026-03-04 07:25:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Le notizie in primo piano, dall'Italia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live."
-    },
-    {
-      "show_name": "Sky Meteo24",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/sky-meteo24.webp",
-      "start_time": "2026-03-04 07:25:00",
-      "end_time": "2026-03-04 07:30:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali."
-    },
-    {
-      "show_name": "Due cuori a Parigi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/due-cuori-a-parigi.webp",
-      "start_time": "2026-03-04 07:30:00",
-      "end_time": "2026-03-04 09:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "I due colleghi Anna e Sebastian vengono erroneamente considerati una coppia dal loro piu' grande cliente e devono mantenere le apparenze per non deluderlo."
-    },
-    {
-      "show_name": "Sky TG24 in pillole",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/sky-tg24-in-pillole.webp",
-      "start_time": "2026-03-04 09:15:00",
-      "end_time": "2026-03-04 11:05:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Il telegiornale con le notizie piu' importanti del giorno."
-    },
-    {
-      "show_name": "Sky TG24 in pillole",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/sky-tg24-in-pillole.webp",
-      "start_time": "2026-03-04 11:05:00",
-      "end_time": "2026-03-04 11:10:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Il telegiornale con le notizie piu' importanti del giorno."
-    },
-    {
-      "show_name": "Bruno Barbieri - 4 Hotel",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/bruno-barbieri-4-hotel.webp",
-      "start_time": "2026-03-04 11:10:00",
-      "end_time": "2026-03-04 12:30:00",
-      "episode_number": "S4 E3",
-      "show_category": "Intrattenimento",
-      "show_description": "Non solo neve, l'Alto Adige ha altro da offrire e lo sanno bene Yutta, Stefano, Florian ed Alexander gli albergatori che si sfidano per aggiudicarsi questa puntata di 4 Hotel."
-    },
-    {
-      "show_name": "Alessandro Borghese - 4 Ristoranti...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/alessandro-borghese-4-ristoranti.webp",
-      "start_time": "2026-03-04 12:30:00",
-      "end_time": "2026-03-04 13:45:00",
-      "episode_number": "S4 E4",
-      "show_category": "Intrattenimento",
-      "show_description": "Piazze, portici, convivialita' e aperitivi. Alessandro si trova a Padova per scoprire chi tra Eleonora, Daniele, Antonio e Diego ha il miglior ristorante con bar della citta'."
-    },
-    {
-      "show_name": "Sei tu mia figlia?",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/sei-tu-mia-figlia.webp",
-      "start_time": "2026-03-04 13:45:00",
-      "end_time": "2026-03-04 15:30:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Dopo molti anni, una coppia ritrova la figlia scomparsa. Ben presto pero' si insinua in loro un atroce dubbio: e' davvero la loro bambina?"
-    },
-    {
-      "show_name": "Love by Chance",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/love-by-chance.webp",
-      "start_time": "2026-03-04 15:30:00",
-      "end_time": "2026-03-04 17:15:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Claire, una donna in carriera nel mondo della ristorazione, sembra non avere tempo da spendere in relazioni amorose. Sua madre decide di aiutarla a trovare l'uomo perfetto, senza però comunicare i propri piani alla figlia."
-    },
-    {
-      "show_name": "Il faro di Moriah",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/il-faro-di-moriah.webp",
-      "start_time": "2026-03-04 17:15:00",
-      "end_time": "2026-03-04 19:00:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Moriah, un'artigiana che vive sulla costiera francese, sogna di restaurare un faro locale. Ben, un architetto americano che arriva in città, potrebbe cambiare i suoi piani."
-    },
-    {
       "show_name": "Alessandro Borghese - 4 Ristoranti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/alessandro-borghese-4-ristoranti.webp",
-      "start_time": "2026-03-04 19:00:00",
-      "end_time": "2026-03-04 20:15:00",
-      "episode_number": "S10 E1",
-      "show_category": "Intrattenimento",
-      "show_description": "Per la prima volta nella storia di 4 Ristoranti, Alessandro Borghese ci accompagna in un viaggio da sud a nord per decretare quale sia la miglior pizzeria contemporanea d’Italia."
-    },
-    {
-      "show_name": "Celebrity Chef - Anteprima",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/celebrity-chef-anteprima.webp",
-      "start_time": "2026-03-04 20:15:00",
-      "end_time": "2026-03-04 20:20:00",
-      "episode_number": "S3 E10",
-      "show_category": "Intrattenimento",
-      "show_description": "Alessandro Borghese apre le porte dei suoi ristoranti, milanese e veneziano, a due celebrities che con l’aiuto della brigata si sfideranno ai fornelli."
-    },
-    {
-      "show_name": "Alessandro Borghese: Celebrity Chef",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/alessandro-borghese-celebrity-chef.webp",
-      "start_time": "2026-03-04 20:20:00",
-      "end_time": "2026-03-04 21:30:00",
-      "episode_number": "S4 E37",
-      "show_category": "Intrattenimento",
-      "show_description": "Alessandro Borghese oggi apre le porte del suo ristorante milanese a Serse e Giorgia Cosmi che con l’aiuto della brigata si sfideranno ai fornelli."
-    },
-    {
-      "show_name": "Alessandro Borghese: 4 ristoranti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/alessandro-borghese-4-ristoranti.webp",
-      "start_time": "2026-03-04 21:30:00",
-      "end_time": "2026-03-04 23:00:00",
-      "episode_number": "S11 E1",
-      "show_category": "Intrattenimento",
-      "show_description": "Alessandro Borghese parte alla ricerca del miglior ristorante dei Colli Piacentini, stavolta in compagnia di un'ospite speciale: Katia Follesa."
-    },
-    {
-      "show_name": "Alessandro Borghese - 4 Ristoranti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TV8-HD/tomorrow/alessandro-borghese-4-ristoranti.webp",
-      "start_time": "2026-03-04 23:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/3b799254-14b7-457f-bcd1-09342b1c0402/cover?territory=IT&md5ChecksumParam=4e92d7a65ead00c7a5936e82ffbc4ff8",
+      "start_time": "2026-03-05 00:00:00",
       "end_time": "2026-03-05 00:45:00",
       "episode_number": "S10 E12",
       "show_category": "Intrattenimento",
       "show_description": "Alessandro ci accompagna in un viaggio da nord a sud per decretare quale sia il miglior ristorante con laboratorio di pasta fresca d’Italia."
+    },
+    {
+      "show_name": "Una Famiglia All'improvviso",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-03-05 00:45:00",
+      "end_time": "2026-03-05 03:00:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "E' un giorno particolarmente difficile per l'intraprendente Sam: dopo aver fallito una contrattazione di lavoro, l'uomo apprende la notizia della scomparsa del padre."
+    },
+    {
+      "show_name": "Lady Killer",
+      "show_logo": "https://guidatv.sky.it/uuid/1466c8aa-abdb-4b82-a6d9-a32391dcb5e4/cover?territory=IT&md5ChecksumParam=888b3d43e6c17229870d30d3251bdcc8",
+      "start_time": "2026-03-05 03:00:00",
+      "end_time": "2026-03-05 03:50:00",
+      "episode_number": "S23 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? E perche' uccidono?"
+    },
+    {
+      "show_name": "Lady Killer",
+      "show_logo": "https://guidatv.sky.it/uuid/f410ea96-aba8-40b0-b4e1-49f3038c911f/cover?territory=IT&md5ChecksumParam=888b3d43e6c17229870d30d3251bdcc8",
+      "start_time": "2026-03-05 03:50:00",
+      "end_time": "2026-03-05 04:40:00",
+      "episode_number": "S23 E7",
+      "show_category": "Intrattenimento",
+      "show_description": "Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? E perche' uccidono?"
+    },
+    {
+      "show_name": "Lady Killer",
+      "show_logo": "https://guidatv.sky.it/uuid/b4413291-c2dc-43f7-98b1-ec327fda3e55/cover?territory=IT&md5ChecksumParam=888b3d43e6c17229870d30d3251bdcc8",
+      "start_time": "2026-03-05 04:40:00",
+      "end_time": "2026-03-05 05:30:00",
+      "episode_number": "S23 E10",
+      "show_category": "Intrattenimento",
+      "show_description": "Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? E perche' uccidono?"
     }
   ]
 }
