@@ -1,195 +1,42 @@
 {
   "channel_name": "Sky Sport Max",
-  "date": "2026-03-04",
+  "date": "2026-03-05",
   "programs": [
     {
-      "show_name": "Coppa Davis",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/coppa-davis.webp",
-      "start_time": "2026-03-04 00:00:00",
-      "end_time": "2026-03-04 00:15:00",
-      "episode_number": "S1 E10",
-      "show_category": "Sport",
-      "show_description": "Due leggende del tennis italiano, Adriano Panatta e Paolo Bertolucci, ripercorrono la storia del tennis mondiale attraverso il loro inconfondibile stile: un mix di competenza tecnica, aneddoti inediti e ironia pungente."
-    },
-    {
-      "show_name": "Dragons - Benetton",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/dragons-benetton.webp",
-      "start_time": "2026-03-04 00:15:00",
-      "end_time": "2026-03-04 02:00:00",
-      "episode_number": "S2025 E21",
-      "show_category": "Sport",
-      "show_description": "Le partite del Guinness Pro14, uno dei tornei interconfederali di rugby più famosi al mondo."
-    },
-    {
-      "show_name": "Inter - Genoa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/inter-genoa.webp",
-      "start_time": "2026-03-04 02:00:00",
-      "end_time": "2026-03-04 04:00:00",
-      "episode_number": "S2025 E264",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Giuseppe Meazza di Milano, Italia."
-    },
-    {
-      "show_name": "Motori World Superbike - Ep. 9 - Motori World Superbike 2026 Round 1 Australia - World Sbk Race 2 22/02/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/motori-world-superbike-ep-9-motori-world-superbike-2026-round-1-australia-world-sbk-race-2-22-02-2026.webp",
-      "start_time": "2026-03-04 04:00:00",
-      "end_time": "2026-03-04 06:00:00",
-      "episode_number": "S2026 E9",
-      "show_category": "Sport",
-      "show_description": "Dal Phillip Island Grand Prix Circuit di Ventnor, Australia."
-    },
-    {
-      "show_name": "GP Thailandia: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/gp-thailandia-gara.webp",
-      "start_time": "2026-03-04 06:00:00",
-      "end_time": "2026-03-04 07:00:00",
-      "episode_number": "S2026 E17",
-      "show_category": "Sport",
-      "show_description": "Dall'International Circuit di Buriram, Thailandia."
-    },
-    {
-      "show_name": "Italia - Gran Bretagna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/italia-gran-bretagna.webp",
-      "start_time": "2026-03-04 07:00:00",
-      "end_time": "2026-03-04 09:00:00",
-      "episode_number": "S2026 E6",
-      "show_category": "Sport",
-      "show_description": "Copertura dei preliminari della Coppa del Mondo FIBA 2027."
-    },
-    {
-      "show_name": "Matteo Soragna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/matteo-soragna.webp",
-      "start_time": "2026-03-04 09:00:00",
-      "end_time": "2026-03-04 09:30:00",
-      "episode_number": "S2025 E6",
-      "show_category": "Sport",
-      "show_description": "Intervista a Matteo Soragna, ex nazionale basket e ora formatore Baskin, progetto che permette di far giocare assieme persone con e senza disabilità."
-    },
-    {
-      "show_name": "Udinese - Fiorentina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/udinese-fiorentina.webp",
-      "start_time": "2026-03-04 09:30:00",
-      "end_time": "2026-03-04 11:15:00",
-      "episode_number": "S2025 E81",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Friuli di Udine, Italia."
-    },
-    {
-      "show_name": "San Donato: Sogno E Visione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/san-donato-sogno-e-visione.webp",
-      "start_time": "2026-03-04 11:15:00",
-      "end_time": "2026-03-04 11:30:00",
-      "episode_number": "S2025 E23",
-      "show_category": "Sport",
-      "show_description": "Oteos Ep.23 San Donato: Sogno E Visione 03/03/2026 - Oteos - On The Evolution Of Sports."
-    },
-    {
-      "show_name": "Icarus Ultra - Ep. 22 - Icarus Ultra 2025 Ep.22 02/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/icarus-ultra-ep-22-icarus-ultra-2025-ep-22-02-03-2026.webp",
-      "start_time": "2026-03-04 11:30:00",
-      "end_time": "2026-03-04 12:00:00",
-      "episode_number": "S2025 E22",
-      "show_category": "Sport",
-      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
-    },
-    {
-      "show_name": "Section Paloise - Union Bordeaux-Bègles",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/section-paloise-union-bordeaux-b-gles.webp",
-      "start_time": "2026-03-04 12:00:00",
-      "end_time": "2026-03-04 14:00:00",
-      "episode_number": "S2025 E16",
-      "show_category": "Sport",
-      "show_description": "Dallo stadio Hameau di Pau, in Aquitania, Francia."
-    },
-    {
-      "show_name": "Pallanuoto Len Champions League - Ep. 14 - Pallanuoto Len Champions League Quarti Di Finale Brescia/ Zodiac Cnab 03/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/pallanuoto-len-champions-league-ep-14-pallanuoto-len-champions-league-quarti-di-finale-brescia-zodiac-cnab-03-03-2026.webp",
-      "start_time": "2026-03-04 14:00:00",
-      "end_time": "2026-03-04 15:15:00",
-      "episode_number": "S2025 E14",
-      "show_category": "Sport",
-      "show_description": "LEN Champions League."
-    },
-    {
-      "show_name": "Thailandia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/thailandia.webp",
-      "start_time": "2026-03-04 15:15:00",
-      "end_time": "2026-03-04 16:15:00",
-      "episode_number": "S2026 E1",
-      "show_category": "Sport",
-      "show_description": "Seguiamo insieme l'appuntamento settimanale con l'approfondimento di MotoGP, in compagnia di opinionisti, piloti e direttori tecnici."
-    },
-    {
-      "show_name": "Icarus Ultra - Ep. 22 - Icarus Ultra 2025 Ep.22 02/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/icarus-ultra-ep-22-icarus-ultra-2025-ep-22-02-03-2026.webp",
-      "start_time": "2026-03-04 16:15:00",
-      "end_time": "2026-03-04 17:00:00",
-      "episode_number": "S2025 E22",
-      "show_category": "Sport",
-      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
-    },
-    {
-      "show_name": "Uefa Champions League Magazine - Ep. 22 - Uefa Champions League Magazine 2025/2026 Ep.22 02/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/uefa-champions-league-magazine-ep-22-uefa-champions-league-magazine-2025-2026-ep-22-02-03-2026.webp",
-      "start_time": "2026-03-04 17:00:00",
-      "end_time": "2026-03-04 17:30:00",
-      "episode_number": "S2025 E22",
-      "show_category": "Sport",
-      "show_description": "Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
-    },
-    {
-      "show_name": "Speciale Hazard - Il Giardino...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-04 17:30:00",
-      "end_time": "2026-03-04 18:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "... Dell'eden 27/02/2026.  Speciale Hazard - Speciale Hazard - Il Giardino..."
-    },
-    {
-      "show_name": "Gubbio - Carpi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/gubbio-carpi.webp",
-      "start_time": "2026-03-04 18:00:00",
-      "end_time": "2026-03-04 20:00:00",
-      "episode_number": "S2025 E292",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadio Pietro Barbetti di Gubbio, Italia."
-    },
-    {
-      "show_name": "Icarus Ultra - Ep. 22 - Icarus Ultra 2025 Ep.22 02/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/icarus-ultra-ep-22-icarus-ultra-2025-ep-22-02-03-2026.webp",
-      "start_time": "2026-03-04 20:00:00",
-      "end_time": "2026-03-04 20:30:00",
-      "episode_number": "S2025 E22",
-      "show_category": "Sport",
-      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
-    },
-    {
-      "show_name": "Asseco Resovia Rzeszów - Knack Roeselare",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/asseco-resovia-rzesz-w-knack-roeselare.webp",
-      "start_time": "2026-03-04 20:30:00",
-      "end_time": "2026-03-04 22:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Dall'Hala Podpromie di Rzeszów, Polonia."
-    },
-    {
-      "show_name": "Matteo Soragna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/matteo-soragna.webp",
-      "start_time": "2026-03-04 22:30:00",
-      "end_time": "2026-03-04 23:00:00",
-      "episode_number": "S2025 E6",
-      "show_category": "Sport",
-      "show_description": "Intervista a Matteo Soragna, ex nazionale basket e ora formatore Baskin, progetto che permette di far giocare assieme persone con e senza disabilità."
-    },
-    {
       "show_name": "FTC Telekom Budapest vs. Pro Recco Waterpolo 1913",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/ftc-telekom-budapest-vs-pro-recco-waterpolo-1913.webp",
-      "start_time": "2026-03-04 23:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/9eb9ee1f-38a3-4396-a698-db1d5d2a6e6b/cover?territory=IT&md5ChecksumParam=0e73af8441d1a3fa42e8c82a03f1ee2f",
+      "start_time": "2026-03-05 00:00:00",
       "end_time": "2026-03-05 00:30:00",
       "episode_number": "S2025 E13",
       "show_category": "Sport",
       "show_description": "Len Champions League."
+    },
+    {
+      "show_name": "Messina 2a Parte",
+      "show_logo": "https://guidatv.sky.it/uuid/7a9de7e0-d6b2-49a9-8554-55ba332bfb84/cover?territory=IT&md5ChecksumParam=d866bd2e1b3db48db3402fc7c8cbe0e2",
+      "start_time": "2026-03-05 00:30:00",
+      "end_time": "2026-03-05 01:30:00",
+      "episode_number": "S1 E33",
+      "show_category": "Sport",
+      "show_description": "Federico Buffa Talks - Messina 2a Parte 17/02/2026 - Federico Buffa Talks."
+    },
+    {
+      "show_name": "L'uomo Contro La Macchina",
+      "show_logo": "https://guidatv.sky.it/uuid/4edd351f-b9cd-41b9-8d4f-4f465a5e8e72/cover?territory=IT&md5ChecksumParam=04da735fa3b770755c00a60ad0525c02",
+      "start_time": "2026-03-05 01:30:00",
+      "end_time": "2026-03-05 02:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
+    },
+    {
+      "show_name": "Italia - Scozia",
+      "show_logo": "https://guidatv.sky.it/uuid/1f5cf930-f9ca-4de9-9136-3303871c8ded/COVER_TITLE_TALL?territory=IT&version=8566458d-f322-3f03-872a-ccf242c20030&w=600&h=800&md5ChecksumParam=4adb703090edf4afe4f9c294d9df2d91",
+      "start_time": "2026-03-05 02:00:00",
+      "end_time": "2026-03-05 04:00:00",
+      "episode_number": "S2026 E2",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Olimpico di Roma, Italia."
     }
   ]
 }
