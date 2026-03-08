@@ -1,24 +1,321 @@
 {
   "channel_name": "ACI Sport Tv",
-  "date": "2026-03-05",
+  "date": "2026-03-08",
   "programs": [
     {
-      "show_name": "Magazine MLMC - Road To Le Mans",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/ACI-Sport-Tv/today/magazine-mlmc-road-to-le-mans.webp",
-      "start_time": "2026-03-05 00:00:00",
-      "end_time": "2026-03-05 00:00:00",
+      "show_name": "E-Sport - Coppa Italia F4 - Misano",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 00:00:00",
+      "end_time": "2026-03-08 00:42:58",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Round 3 - Sul Circuito della Sarthe il racconto della gara, categoria di supporto della 24 Ore di Le Mans e terzo round del campionato Michelin Le Mans Cup 2025."
+      "show_description": "A Misano parte la Coppa Italia Esport Formula 4 IRacing 2026."
     },
     {
-      "show_name": "ACI Sport Tv",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/ACI-Sport-Tv/today/aci-sport-tv.webp",
-      "start_time": "2026-03-05 00:00:00",
-      "end_time": "2026-03-05 00:22:00",
+      "show_name": "Magazine MLMC - Portimao",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 00:42:58",
+      "end_time": "2026-03-08 01:10:09",
       "episode_number": "",
-      "show_category": "Altri Programmi",
-      "show_description": "ACI Sport Tv."
+      "show_category": "Sport",
+      "show_description": "Round 6 - Rush finale della Coppa MIchelin Le Mans 2025 sul circuito portoghese."
+    },
+    {
+      "show_name": "TCR EUROPE - Red Bull Ring",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 01:10:09",
+      "end_time": "2026-03-08 03:19:13",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Round 5 - Penultimo atto del TCR Europe torna in pista sul circuito del Red Bull Ring."
+    },
+    {
+      "show_name": "Magazine ACI Sport",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 03:19:13",
+      "end_time": "2026-03-08 03:50:02",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "PT 13 - La cronaca e le immagini delle gare a cura di ACI Sport. Questa settimana: il Trofeo Classic Lago di Como, la Trento Bondone, i Prototipi a Vallelunga e la FRECA a Zandvoort."
+    },
+    {
+      "show_name": "Premiazioni Campioni ACI 2025 Roma",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 03:50:02",
+      "end_time": "2026-03-08 05:03:57",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Tra le star della cerimonia inaugurale delle premiazioni ACI: Gabriele Mini, Antonio Giovinazzi e tutti i campioni siciliani premiati dalla delegazione regionale ACI Sport."
+    },
+    {
+      "show_name": "Revival ACi Sport since 2012",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 05:03:57",
+      "end_time": "2026-03-08 05:33:17",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "5 - Il fascino del passato con i passaggi e le immagini di ACI Sport dal 2012 in poi."
+    },
+    {
+      "show_name": "Ruote nella Storia",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 05:33:17",
+      "end_time": "2026-03-08 06:01:17",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "6 - Torna l'evento di ACI e ACI Storico con le vetture d'epoca in giro sempre in giro per l'Italia. Scopriamo gli appuntamenti di Prato, Pistoia e Biella."
+    },
+    {
+      "show_name": "Revival ACI Sport since 2012",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 06:01:17",
+      "end_time": "2026-03-08 06:34:07",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "1 - Il fascino del passato con i passaggi e le immagini di ACI Sport dal 2012 in poi."
+    },
+    {
+      "show_name": "Magazine ACI Sport",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 06:34:07",
+      "end_time": "2026-03-08 07:04:56",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "PT 13 - La cronaca e le immagini delle gare a cura di ACI Sport. Questa settimana: il Trofeo Classic Lago di Como, la Trento Bondone, i Prototipi a Vallelunga e la FRECA a Zandvoort."
+    },
+    {
+      "show_name": "Vallelunga - GT Sprint Cup - G1",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 07:04:56",
+      "end_time": "2026-03-08 08:21:52",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "A Vallelunga va in scena il secondo ACI Racing Weekend con i protagonisti del GT Sprint, del TCR e della F4."
+    },
+    {
+      "show_name": "Vallelunga - GT Sprint Cup - G2",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 08:21:52",
+      "end_time": "2026-03-08 09:45:25",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "A Vallelunga va in scena il secondo ACI Racing Weekend con i protagonisti del GT Sprint, del TCR e della F4."
+    },
+    {
+      "show_name": "CIRT - Foligno - Qualifyng Stage",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 09:45:25",
+      "end_time": "2026-03-08 10:31:37",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "CIRT - Foligno - Partenza",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 10:31:37",
+      "end_time": "2026-03-08 11:12:36",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "CIRT - Foligno - PS3",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 11:12:36",
+      "end_time": "2026-03-08 11:58:34",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "CIRT - Foligno - Assistenza",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 11:58:34",
+      "end_time": "2026-03-08 12:29:33",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "CIRT - Foligno - Power stage",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 12:29:33",
+      "end_time": "2026-03-08 13:15:13",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "Rally e Dintorni",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 13:15:13",
+      "end_time": "2026-03-08 13:30:45",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Alla Scoperta dei Territori che ospitano le nostre gare in giro per l'Italia. Alla scoperta di Nocera Umbra e Foligno."
+    },
+    {
+      "show_name": "Ruote nella Storia",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 13:30:45",
+      "end_time": "2026-03-08 14:02:22",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "6 - Torna l'evento di ACI e ACI Storico con le vetture d'epoca in giro sempre in giro per l'Italia. Scopriamo gli appuntamenti di Prato, Pistoia e Biella."
+    },
+    {
+      "show_name": "CIRT - Foligno - Qualifyng Stage",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 14:02:22",
+      "end_time": "2026-03-08 14:48:21",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "CIRT - Foligno - Partenza",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 14:48:21",
+      "end_time": "2026-03-08 15:29:20",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "CIRT - Foligno - PS3",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 15:29:20",
+      "end_time": "2026-03-08 16:15:19",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "CIRT - Foligno - Assistenza",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 16:15:19",
+      "end_time": "2026-03-08 16:46:18",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "CIRT - Foligno - Power stage",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 16:46:18",
+      "end_time": "2026-03-08 17:31:59",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "Dust to Dusk",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 17:31:59",
+      "end_time": "2026-03-08 17:54:14",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Ep.5 - La polvere e' solo la superficie. La prima serie originale dedicata al Rally Italia Sardegna. Uno sguardo dietro le quinte di questa leggendaria tappa del FIA WRC mondiale di rally."
+    },
+    {
+      "show_name": "Speciale Premiazione Campioni ACI 2025",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 17:54:14",
+      "end_time": "2026-03-08 18:15:06",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "ACI ha premiato i protagonisti dell'automobilismo sportivo 2025. Una serata all'insegna dell'eccellenza - organizzata da Automobile Club d'Italia e ACI Sport."
+    },
+    {
+      "show_name": "Magazine ACI Sport",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 18:15:06",
+      "end_time": "2026-03-08 18:45:40",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "PT 13 - La cronaca e le immagini delle gare a cura di ACI Sport. Questa settimana: il Trofeo Classic Lago di Como, la Trento Bondone, i Prototipi a Vallelunga e la FRECA a Zandvoort."
+    },
+    {
+      "show_name": "Rally D'Italia la Storia",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 18:45:40",
+      "end_time": "2026-03-08 18:49:39",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "1 - Rally D'Italia la Storia."
+    },
+    {
+      "show_name": "CIRT - Foligno - Qualifyng Stage",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 18:49:39",
+      "end_time": "2026-03-08 19:35:51",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "CIRT - Foligno - Partenza",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 19:35:51",
+      "end_time": "2026-03-08 21:03:02",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "CIRT - Foligno - Assistenza",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 21:03:02",
+      "end_time": "2026-03-08 21:34:14",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "CIRT - Foligno - Power stage",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 21:34:14",
+      "end_time": "2026-03-08 22:20:08",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "Rally e Dintorni",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 22:20:08",
+      "end_time": "2026-03-08 22:35:54",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Alla Scoperta dei Territori che ospitano le nostre gare in giro per l'Italia. Alla scoperta di Nocera Umbra e Foligno."
+    },
+    {
+      "show_name": "MAGAZINE MLMC 2024 - Review",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 22:35:54",
+      "end_time": "2026-03-08 23:02:50",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "In attesa della nuova stagione il racconto  della Michelin Le Mans Cup 2024. Le immagini di sei eventi, tra cui la Road To Le Mans e la 24 Ore di Le Mans."
+    },
+    {
+      "show_name": "Sotto il Casco - Parola ai protagonisti",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 23:02:50",
+      "end_time": "2026-03-08 23:59:20",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "PT 11 - Il Talk Show dedicato ai protagonisti con servizi filmati, ospiti in studio e collegamenti con i protagonisti del motorsport curato da ACI Sport."
+    },
+    {
+      "show_name": "Magazine ACI Sport",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-08 23:59:20",
+      "end_time": "2026-03-09 00:30:27",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "PT 13 - La cronaca e le immagini delle gare a cura di ACI Sport. Questa settimana: il Trofeo Classic Lago di Como, la Trento Bondone, i Prototipi a Vallelunga e la FRECA a Zandvoort."
     }
   ]
 }

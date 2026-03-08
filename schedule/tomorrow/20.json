@@ -1,15 +1,267 @@
 {
   "channel_name": "20",
-  "date": "2026-03-05",
+  "date": "2026-03-09",
   "programs": [
     {
-      "show_name": "The Foreigner",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/20/tomorrow/the-foreigner.webp",
-      "start_time": "2026-03-05 00:00:00",
-      "end_time": "2026-03-05 02:09:00",
+      "show_name": "Crank",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012820401000106/media/2/2/46e3b3b2-7503-43de-a72e-4bca1cac4184/a65c5288-0022-47a6-9b3d-85ba84dd2ae5.jpg",
+      "start_time": "2026-03-09 00:00:00",
+      "end_time": "2026-03-09 00:52:00",
       "episode_number": "",
       "show_category": "Azione",
-      "show_description": "La figlia muore in un attentato e un umile negoziante di Chinatown a Londra decide di farsi giustizia da solo, costretto a spingere agli estremi i suoi limiti fisici e morali per rintracciare un gruppo di malviventi irlandesi, dei terroristi responsabili della morte della sua amata figlia dopo il fallimento del sistema giudiziario."
+      "show_description": "Chev Chelios è un killer a cui rimane 1 sola ora di vita. Un criminale per cui lavorava gli ha iniettato nel cuore il \"cocktail di Pechino\", un veleno che arresta il battito cardiaco poco alla volta. Per rallentare l'effetto deve tenere alto il suo livello di adrenalina, e non c'è nulla di più stimolante che eliminare chiunque cerchi di ostacolarlo, per ottenere la sua vendetta."
+    },
+    {
+      "show_name": "Roswell, New Mexico",
+      "show_logo": "",
+      "start_time": "2026-03-09 00:52:00",
+      "end_time": "2026-03-09 01:32:00",
+      "episode_number": "S4 E11",
+      "show_category": "Drammatico",
+      "show_description": "Liz continua a prendere il composto sperando di riuscire a riprodurre in laboratorio la fiamma blu. I suoi amici cercano di farla disintossicare ma Clyde la rapisce."
+    },
+    {
+      "show_name": "Roswell, New Mexico",
+      "show_logo": "",
+      "start_time": "2026-03-09 01:32:00",
+      "end_time": "2026-03-09 02:12:00",
+      "episode_number": "S4 E12",
+      "show_category": "Drammatico",
+      "show_description": "Mentre Liz fa i conti con gli effetti collaterali del composto inalato, Max e Isobel si gettano nella dimensione tascabile per soccorrere Dallas, Bonnie, Michael e Alex."
+    },
+    {
+      "show_name": "Show Reel",
+      "show_logo": "",
+      "start_time": "2026-03-09 02:12:00",
+      "end_time": "2026-03-09 03:03:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Show reel '26."
+    },
+    {
+      "show_name": "Person Of Interest",
+      "show_logo": "",
+      "start_time": "2026-03-09 03:03:00",
+      "end_time": "2026-03-09 03:45:00",
+      "episode_number": "S4 E17",
+      "show_category": "",
+      "show_description": "Il numero di questo episodio e' il dottor Edwards, uno psichiatra al quale in passato hanno ucciso la moglie."
+    },
+    {
+      "show_name": "Person Of Interest",
+      "show_logo": "",
+      "start_time": "2026-03-09 03:45:00",
+      "end_time": "2026-03-09 04:26:00",
+      "episode_number": "S4 E18",
+      "show_category": "",
+      "show_description": "Il nuovo numero e' Frankie Wells, una \"cacciatrice di taglie\" arrivata a New York sulle tracce di un certo Ray Pratt."
+    },
+    {
+      "show_name": "R.i.s. 5 Delitti Imperfetti",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F013091901000901/media/20/84/c6c73fe8-d5b6-49a9-b504-e94c17618d3c/4ca27152-bf72-4b19-9d79-3eedfee8c1c1.jpg",
+      "start_time": "2026-03-09 04:26:00",
+      "end_time": "2026-03-09 05:19:00",
+      "episode_number": "S5 E9",
+      "show_category": "Poliziesco",
+      "show_description": "I RIS entrano nel mondo virtuale della setta, dove assistono a un'assemblea. Ma l'unico modo per smascherare le vere identità degli adepti è farvi infiltrare qualcuno. Intanto in una sola notte di tensione, Ghirelli e De Biase devono risolvere un caso di sequestro di persona."
+    },
+    {
+      "show_name": "Roswell, New Mexico",
+      "show_logo": "",
+      "start_time": "2026-03-09 05:19:00",
+      "end_time": "2026-03-09 06:00:00",
+      "episode_number": "S4 E11",
+      "show_category": "Drammatico",
+      "show_description": "Liz continua a prendere il composto sperando di riuscire a riprodurre in laboratorio la fiamma blu. I suoi amici cercano di farla disintossicare ma Clyde la rapisce."
+    },
+    {
+      "show_name": "Show Reel",
+      "show_logo": "",
+      "start_time": "2026-03-09 06:00:00",
+      "end_time": "2026-03-09 06:39:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Show reel '26."
+    },
+    {
+      "show_name": "All American",
+      "show_logo": "",
+      "start_time": "2026-03-09 06:39:00",
+      "end_time": "2026-03-09 07:20:00",
+      "episode_number": "S4 E11",
+      "show_category": "Drammatico",
+      "show_description": "Spencer non viene scelto nemmeno come terza riserva e quindi non potra' giocare. Questo lo rende molto nervoso ed e' inevitabile che litighi con Olivia."
+    },
+    {
+      "show_name": "All American",
+      "show_logo": "",
+      "start_time": "2026-03-09 07:20:00",
+      "end_time": "2026-03-09 08:06:00",
+      "episode_number": "S4 E12",
+      "show_category": "Drammatico",
+      "show_description": "La Commissione di Ricerca assegna una nuova Preside alla Crenshaw, ma Billy e' risoluto a mantenere il suo posto."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310092401000604/media/5/5/9121ba92-a341-4206-91a9-6ecd004579da/80f8ca2d-dc72-45dd-8d4f-053b844bfa82.jpg",
+      "start_time": "2026-03-09 08:06:00",
+      "end_time": "2026-03-09 08:59:00",
+      "episode_number": "S2 E6",
+      "show_category": "Drammatico",
+      "show_description": "Bloom inizia il suo turno in pronto soccorso trovando il reparto stranamente tranquillo, ma tempo qualche minuto si scatena l'inferno: un pulmino carico di signore dell'Alabama di ritorno da un incontro religioso è finito fuori strada."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310092401000704/media/5/5/9121ba92-a341-4206-91a9-6ecd004579da/80f8ca2d-dc72-45dd-8d4f-053b844bfa82.jpg",
+      "start_time": "2026-03-09 08:59:00",
+      "end_time": "2026-03-09 09:57:00",
+      "episode_number": "S2 E7",
+      "show_category": "Drammatico",
+      "show_description": "Reynolds prende in carico Makayla, un'adolescente malata di leucemia. Rintraccia il padre, che Makayla non ha mai conosciuto, il quale le dona il suo midollo per poi sparire di nuovo nel nulla. Kapoor invia Nathan, un giovane reduce dell'Afghanistan che ha perso una gamba, nel gruppo di supporto di Iggy, che, per aiutare il ragazzo a elaborare la sua esperienza, mette in scena coi suoi pazienti il Filottete di Sofocle."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "",
+      "start_time": "2026-03-09 09:57:00",
+      "end_time": "2026-03-09 10:21:00",
+      "episode_number": "S9 E13",
+      "show_category": "Commedia",
+      "show_description": "Sheldon ha l'influenza e i suoi amici si offrono gentilmente di assisterlo, ma vengono da lui offesi e bistrattati."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "",
+      "start_time": "2026-03-09 10:21:00",
+      "end_time": "2026-03-09 10:50:00",
+      "episode_number": "S9 E14",
+      "show_category": "Commedia",
+      "show_description": "La nonna di Sheldon fa visita al nipote e conosce Amy. L'incontro tra le due, pero', e' piuttosto burrascoso."
+    },
+    {
+      "show_name": "Dc's Legends Of Tomorrow",
+      "show_logo": "",
+      "start_time": "2026-03-09 10:50:00",
+      "end_time": "2026-03-09 11:48:00",
+      "episode_number": "S5 E10",
+      "show_category": "",
+      "show_description": "Zari e John sono sempre alla ricerca dell'anello per ricomporre il Telaio del Destino e si ritrovano risucchiati nel 1910."
+    },
+    {
+      "show_name": "Dc's Legends Of Tomorrow",
+      "show_logo": "",
+      "start_time": "2026-03-09 11:48:00",
+      "end_time": "2026-03-09 12:47:00",
+      "episode_number": "S5 E11",
+      "show_category": "",
+      "show_description": "Mentre Mick porta sua figlia a visitare la Waverider, si verifica un'avaria sulla nave che ne compromette tutte le attivita'."
+    },
+    {
+      "show_name": "Chicago Fire",
+      "show_logo": "",
+      "start_time": "2026-03-09 12:47:00",
+      "end_time": "2026-03-09 13:38:00",
+      "episode_number": "S12 E1",
+      "show_category": "Drammatico",
+      "show_description": "La Caserma 17 e' momentaneamente ospite della Caserma 21 per un incendio scoppiato in cucina. Si tratta di un semplice incidente."
+    },
+    {
+      "show_name": "All American",
+      "show_logo": "",
+      "start_time": "2026-03-09 13:38:00",
+      "end_time": "2026-03-09 14:35:00",
+      "episode_number": "S4 E11",
+      "show_category": "Drammatico",
+      "show_description": "Spencer non viene scelto nemmeno come terza riserva e quindi non potra' giocare. Questo lo rende molto nervoso ed e' inevitabile che litighi con Olivia."
+    },
+    {
+      "show_name": "All American",
+      "show_logo": "",
+      "start_time": "2026-03-09 14:35:00",
+      "end_time": "2026-03-09 15:29:00",
+      "episode_number": "S4 E12",
+      "show_category": "Drammatico",
+      "show_description": "La Commissione di Ricerca assegna una nuova Preside alla Crenshaw, ma Billy e' risoluto a mantenere il suo posto."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310092401000604/media/5/5/9121ba92-a341-4206-91a9-6ecd004579da/80f8ca2d-dc72-45dd-8d4f-053b844bfa82.jpg",
+      "start_time": "2026-03-09 15:29:00",
+      "end_time": "2026-03-09 16:22:00",
+      "episode_number": "S2 E6",
+      "show_category": "Drammatico",
+      "show_description": "Bloom inizia il suo turno in pronto soccorso trovando il reparto stranamente tranquillo, ma tempo qualche minuto si scatena l'inferno: un pulmino carico di signore dell'Alabama di ritorno da un incontro religioso è finito fuori strada."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310092401000704/media/5/5/9121ba92-a341-4206-91a9-6ecd004579da/80f8ca2d-dc72-45dd-8d4f-053b844bfa82.jpg",
+      "start_time": "2026-03-09 16:22:00",
+      "end_time": "2026-03-09 17:29:00",
+      "episode_number": "S2 E7",
+      "show_category": "Drammatico",
+      "show_description": "Reynolds prende in carico Makayla, un'adolescente malata di leucemia. Rintraccia il padre, che Makayla non ha mai conosciuto, il quale le dona il suo midollo per poi sparire di nuovo nel nulla. Kapoor invia Nathan, un giovane reduce dell'Afghanistan che ha perso una gamba, nel gruppo di supporto di Iggy, che, per aiutare il ragazzo a elaborare la sua esperienza, mette in scena coi suoi pazienti il Filottete di Sofocle."
+    },
+    {
+      "show_name": "Dc's Legends Of Tomorrow",
+      "show_logo": "",
+      "start_time": "2026-03-09 17:29:00",
+      "end_time": "2026-03-09 18:21:00",
+      "episode_number": "S5 E10",
+      "show_category": "",
+      "show_description": "Zari e John sono sempre alla ricerca dell'anello per ricomporre il Telaio del Destino e si ritrovano risucchiati nel 1910."
+    },
+    {
+      "show_name": "Dc's Legends Of Tomorrow",
+      "show_logo": "",
+      "start_time": "2026-03-09 18:21:00",
+      "end_time": "2026-03-09 19:16:00",
+      "episode_number": "S5 E11",
+      "show_category": "",
+      "show_description": "Mentre Mick porta sua figlia a visitare la Waverider, si verifica un'avaria sulla nave che ne compromette tutte le attivita'."
+    },
+    {
+      "show_name": "Chicago Fire",
+      "show_logo": "",
+      "start_time": "2026-03-09 19:16:00",
+      "end_time": "2026-03-09 20:14:00",
+      "episode_number": "S12 E1",
+      "show_category": "Drammatico",
+      "show_description": "La Caserma 17 e' momentaneamente ospite della Caserma 21 per un incendio scoppiato in cucina. Si tratta di un semplice incidente."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "",
+      "start_time": "2026-03-09 20:14:00",
+      "end_time": "2026-03-09 20:38:00",
+      "episode_number": "S9 E13",
+      "show_category": "Commedia",
+      "show_description": "Sheldon ha l'influenza e i suoi amici si offrono gentilmente di assisterlo, ma vengono da lui offesi e bistrattati."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "",
+      "start_time": "2026-03-09 20:38:00",
+      "end_time": "2026-03-09 21:10:00",
+      "episode_number": "S9 E14",
+      "show_category": "Commedia",
+      "show_description": "La nonna di Sheldon fa visita al nipote e conosce Amy. L'incontro tra le due, pero', e' piuttosto burrascoso."
+    },
+    {
+      "show_name": "Shazam!",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309243001000102/media/17/81/75672754-07f1-4461-85e4-e5cbdd1e9aa7/540ee5ea-a784-4c27-b8d0-63f55029ac60.jpg",
+      "start_time": "2026-03-09 21:10:00",
+      "end_time": "2026-03-09 23:49:00",
+      "episode_number": "",
+      "show_category": "Azione",
+      "show_description": "Il quattordicenne Billy Batson riceve da un antico mago un potere incredibile: basta gridare \"Shazam!\" per trasformarsi in un supereroe adulto con abilità straordinarie. Guidato dal migliore amico Freddy, Billy impara a usare i suoi nuovi poteri mentre il malvagio dottor Sivana cerca di impadronirsi della stessa magia. Per diventare un vero eroe, Billy dovrà capire cosa significa avere una famiglia."
+    },
+    {
+      "show_name": "Taken La Vendetta",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F304955701000102/media/31/95/385121ef-c501-48d9-a19d-ca44466cd521/be07b119-c8ec-4853-a9ce-cedd45d9ba6e.jpg",
+      "start_time": "2026-03-09 23:49:00",
+      "end_time": "2026-03-10 01:37:00",
+      "episode_number": "",
+      "show_category": "Azione",
+      "show_description": "Per Bryan Mills, ex uomo della CIA, quella che doveva essere una rilassante vacanza a Istanbul in compagnia della moglie e della figlia, si trasforma in una lotta per salvare la propria famiglia. Infatti alcuni criminali vogliono vendetta per il sangue sparso da Mills in passato. Rapiscono la moglie Lenore e anche la figlia è in pericolo di vita. Tra inseguimenti, scontri e spargimento di sangue, la furia di Mills non terminerà fino a quando non riavrà le sue donne. Sequel di \"Io vi troverò\"."
     }
   ]
 }

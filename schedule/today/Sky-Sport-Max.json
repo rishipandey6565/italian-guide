@@ -1,42 +1,177 @@
 {
   "channel_name": "Sky Sport Max",
-  "date": "2026-03-05",
+  "date": "2026-03-08",
   "programs": [
     {
-      "show_name": "FTC Telekom Budapest vs. Pro Recco Waterpolo 1913",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/ftc-telekom-budapest-vs-pro-recco-waterpolo-1913.webp",
-      "start_time": "2026-03-05 00:00:00",
-      "end_time": "2026-03-05 00:30:00",
-      "episode_number": "S2025 E13",
+      "show_name": "Italia - Inghilterra",
+      "show_logo": "https://guidatv.sky.it/uuid/672f87eb-f71b-41b2-a168-66e770b00f46/COVER_TITLE_TALL?territory=IT&version=4245490c-5bea-35fe-a408-eaebdb872198&w=600&h=800&md5ChecksumParam=5332736c273f22ef7c4890114a712d24",
+      "start_time": "2026-03-08 00:00:00",
+      "end_time": "2026-03-08 01:30:00",
+      "episode_number": "S2026 E12",
       "show_category": "Sport",
-      "show_description": "Len Champions League."
+      "show_description": "Allo Stadio Olimpico di Roma l'Italia (5 punti) cerca la prima vittoria della storia contro un'Inghilterra (5 punti) in difficoltà nel torneo. Telecronaca Pierantozzi-Fusetti."
     },
     {
-      "show_name": "Messina 2a Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/messina-2a-parte.webp",
-      "start_time": "2026-03-05 00:30:00",
-      "end_time": "2026-03-05 01:30:00",
-      "episode_number": "S1 E33",
+      "show_name": "Icarus Ultra - Ep. 22 - Icarus Ultra 2025 Ep.22 02/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/5cfc4d6f-6fed-43a2-8c4c-fe4223788911/cover?territory=IT&md5ChecksumParam=da6ae55d91a9a7729b1e39081c0ba7a6",
+      "start_time": "2026-03-08 01:30:00",
+      "end_time": "2026-03-08 02:00:00",
+      "episode_number": "S2025 E22",
       "show_category": "Sport",
-      "show_description": "Federico Buffa Talks - Messina 2a Parte 17/02/2026 - Federico Buffa Talks."
+      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
     },
     {
-      "show_name": "L'uomo Contro La Macchina",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/l-uomo-contro-la-macchina.webp",
-      "start_time": "2026-03-05 01:30:00",
-      "end_time": "2026-03-05 02:00:00",
-      "episode_number": "",
+      "show_name": "Irlanda - Galles",
+      "show_logo": "https://guidatv.sky.it/uuid/403ff778-cbc3-4653-93a6-ac9d768d9e99/cover?territory=IT&md5ChecksumParam=01993c9e98d7a95302ae38e4f6906a6d",
+      "start_time": "2026-03-08 02:00:00",
+      "end_time": "2026-03-08 04:05:00",
+      "episode_number": "S2026 E10",
       "show_category": "Sport",
-      "show_description": "Max Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare."
+      "show_description": "Dall'Aviva Stadium di Dublino, Irlanda."
     },
     {
-      "show_name": "Italia - Scozia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/today/italia-scozia.webp",
-      "start_time": "2026-03-05 02:00:00",
-      "end_time": "2026-03-05 04:00:00",
+      "show_name": "Real Madrid - Virtus Bologna",
+      "show_logo": "https://guidatv.sky.it/uuid/7bf5f6e0-28b9-4018-b300-318d6b53b3c9/cover?territory=IT&md5ChecksumParam=fc185a3c3436a36baf096c29d46c65aa",
+      "start_time": "2026-03-08 04:05:00",
+      "end_time": "2026-03-08 06:00:00",
+      "episode_number": "S2025 E111",
+      "show_category": "Sport",
+      "show_description": "Le migliori squadre d'Europa si affrontano nell'Eurolega."
+    },
+    {
+      "show_name": "Scozia - Francia",
+      "show_logo": "https://guidatv.sky.it/uuid/0d8bdc86-3c8b-476e-9283-3a40a8c0c20f/cover?territory=IT&md5ChecksumParam=61240d4d62f69b64a511a29db2dbaa82",
+      "start_time": "2026-03-08 06:00:00",
+      "end_time": "2026-03-08 08:00:00",
+      "episode_number": "S2026 E11",
+      "show_category": "Sport",
+      "show_description": "Dal Murrayfield Stadium di Edimburgo, Scozia."
+    },
+    {
+      "show_name": "Enzo Ferrari",
+      "show_logo": "https://guidatv.sky.it/uuid/40372da0-45c6-4ae6-a22e-d405de3107e4/COVER_TITLE_TALL?territory=IT&version=185128f3-858e-3402-a8db-df0ebda827eb&w=600&h=800&md5ChecksumParam=5df3a42e8cfbe42add1727132ba05fa9",
+      "start_time": "2026-03-08 08:00:00",
+      "end_time": "2026-03-08 09:00:00",
+      "episode_number": "S3 E6",
+      "show_category": "Sport",
+      "show_description": "Giorgio Porrà delinea ritratti di grandi personaggi del calcio e dello sport in genere. Grazie a interviste ai protagonisti e a chi li ha conosciuti direttamente,."
+    },
+    {
+      "show_name": "Ep.1",
+      "show_logo": "https://guidatv.sky.it/uuid/01979003-914c-4818-b25a-ed836c1f5df9/cover?territory=IT&md5ChecksumParam=bae125af13c49722ec1fa154ef3eb8b2",
+      "start_time": "2026-03-08 09:00:00",
+      "end_time": "2026-03-08 09:30:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia."
+    },
+    {
+      "show_name": "Italia - Inghilterra",
+      "show_logo": "https://guidatv.sky.it/uuid/672f87eb-f71b-41b2-a168-66e770b00f46/COVER_TITLE_TALL?territory=IT&version=4245490c-5bea-35fe-a408-eaebdb872198&w=600&h=800&md5ChecksumParam=5332736c273f22ef7c4890114a712d24",
+      "start_time": "2026-03-08 09:30:00",
+      "end_time": "2026-03-08 11:30:00",
+      "episode_number": "S2026 E12",
+      "show_category": "Sport",
+      "show_description": "Allo Stadio Olimpico di Roma l'Italia (5 punti) cerca la prima vittoria della storia contro un'Inghilterra (5 punti) in difficoltà nel torneo. Telecronaca Pierantozzi-Fusetti."
+    },
+    {
+      "show_name": "Ep.4",
+      "show_logo": "https://guidatv.sky.it/uuid/ba62d8c4-b12f-4d0e-b0ac-a62bfc406ea1/cover?territory=IT&md5ChecksumParam=045f4b01f7ece689dd9766e3c8882c68",
+      "start_time": "2026-03-08 11:30:00",
+      "end_time": "2026-03-08 12:00:00",
+      "episode_number": "S2026 E4",
+      "show_category": "Sport",
+      "show_description": "Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico."
+    },
+    {
+      "show_name": "Ep.22",
+      "show_logo": "https://guidatv.sky.it/uuid/868eb7cd-7281-41c3-b203-309fb384153d/cover?territory=IT&md5ChecksumParam=2cceed4e1fa1b4e5219d6d047e300fec",
+      "start_time": "2026-03-08 12:00:00",
+      "end_time": "2026-03-08 12:25:00",
+      "episode_number": "S2025 E22",
+      "show_category": "Sport",
+      "show_description": "Approfondimento sportivo calcistico, dedicato alla massima competizione europea per club."
+    },
+    {
+      "show_name": "Juventus - Pisa",
+      "show_logo": "https://guidatv.sky.it/uuid/a1340d73-5e29-4e96-81d7-0139b02168f6/cover?territory=IT&md5ChecksumParam=16333833987ab6788524d1b5b3195297",
+      "start_time": "2026-03-08 12:25:00",
+      "end_time": "2026-03-08 12:50:00",
+      "episode_number": "S2025 E82",
+      "show_category": "Sport",
+      "show_description": "Dall'Allianz Stadium di Torino, Italia."
+    },
+    {
+      "show_name": "Ep.1",
+      "show_logo": "https://guidatv.sky.it/uuid/01979003-914c-4818-b25a-ed836c1f5df9/cover?territory=IT&md5ChecksumParam=bae125af13c49722ec1fa154ef3eb8b2",
+      "start_time": "2026-03-08 12:50:00",
+      "end_time": "2026-03-08 13:25:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia."
+    },
+    {
+      "show_name": "Enzo Ferrari",
+      "show_logo": "https://guidatv.sky.it/uuid/40372da0-45c6-4ae6-a22e-d405de3107e4/COVER_TITLE_TALL?territory=IT&version=185128f3-858e-3402-a8db-df0ebda827eb&w=600&h=800&md5ChecksumParam=5df3a42e8cfbe42add1727132ba05fa9",
+      "start_time": "2026-03-08 13:25:00",
+      "end_time": "2026-03-08 14:25:00",
+      "episode_number": "S3 E6",
+      "show_category": "Sport",
+      "show_description": "Giorgio Porrà delinea ritratti di grandi personaggi del calcio e dello sport in genere. Grazie a interviste ai protagonisti e a chi li ha conosciuti direttamente,."
+    },
+    {
+      "show_name": "Calcio Campionato Italiano Serie C - Stag. Calcio Serie C 2025/2026 Girone C - Calcio Serie C 31ga Girone C Trapani/ Crotone 08/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/5423d072-fa5e-42cd-9da7-f102bf855d1b/cover?territory=IT&md5ChecksumParam=6ed87b8238b1c961cdd25ddef155e6cd",
+      "start_time": "2026-03-08 14:25:00",
+      "end_time": "2026-03-08 16:30:00",
+      "episode_number": "S2025 E320",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Polisportivo Provinciale di Erice, Italia."
+    },
+    {
+      "show_name": "Ep.22",
+      "show_logo": "https://guidatv.sky.it/uuid/868eb7cd-7281-41c3-b203-309fb384153d/cover?territory=IT&md5ChecksumParam=2cceed4e1fa1b4e5219d6d047e300fec",
+      "start_time": "2026-03-08 16:30:00",
+      "end_time": "2026-03-08 16:55:00",
+      "episode_number": "S2025 E22",
+      "show_category": "Sport",
+      "show_description": "Approfondimento sportivo calcistico, dedicato alla massima competizione europea per club."
+    },
+    {
+      "show_name": "Australia",
+      "show_logo": "https://guidatv.sky.it/uuid/27b29942-79a1-4a84-8808-abfc8f7730a7/cover?territory=IT&md5ChecksumParam=254fb842a5b3716920cfece2414eddbb",
+      "start_time": "2026-03-08 16:55:00",
+      "end_time": "2026-03-08 18:00:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "L'analisi del Gran Premio disputato per commentare la gara insieme agli ospiti in studio. Riviviamo i brividi della corsa attraverso le immagini più spettacolari e ascoltiamo i commenti a caldo dei protagonisti."
+    },
+    {
+      "show_name": "Gran Bretagna - Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/c8857948-ab5f-43a0-b656-f4d9d66a904b/cover?territory=IT&md5ChecksumParam=b85f9b9c3279af844cae3010635bc4ce",
+      "start_time": "2026-03-08 18:00:00",
+      "end_time": "2026-03-08 21:30:00",
       "episode_number": "S2026 E2",
       "show_category": "Sport",
-      "show_description": "Dallo Stadio Olimpico di Roma, Italia."
+      "show_description": "Dal Daikin Park di Houston, Stati Uniti."
+    },
+    {
+      "show_name": "Enzo Ferrari",
+      "show_logo": "https://guidatv.sky.it/uuid/40372da0-45c6-4ae6-a22e-d405de3107e4/COVER_TITLE_TALL?territory=IT&version=185128f3-858e-3402-a8db-df0ebda827eb&w=600&h=800&md5ChecksumParam=5df3a42e8cfbe42add1727132ba05fa9",
+      "start_time": "2026-03-08 21:30:00",
+      "end_time": "2026-03-08 22:30:00",
+      "episode_number": "S3 E6",
+      "show_category": "Sport",
+      "show_description": "Giorgio Porrà delinea ritratti di grandi personaggi del calcio e dello sport in genere. Grazie a interviste ai protagonisti e a chi li ha conosciuti direttamente,."
+    },
+    {
+      "show_name": "Genoa - Roma",
+      "show_logo": "https://guidatv.sky.it/uuid/c0969515-4f8d-41b2-92be-100105fd24cf/cover?territory=IT&md5ChecksumParam=10a36d100ae8ab0862f95c95cf538439",
+      "start_time": "2026-03-08 22:30:00",
+      "end_time": "2026-03-09 00:15:00",
+      "episode_number": "S2025 E278",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Luigi Ferraris di Genova, Italia."
     }
   ]
 }

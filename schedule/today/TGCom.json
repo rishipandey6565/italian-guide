@@ -1,33 +1,357 @@
 {
   "channel_name": "TGCom",
-  "date": "2026-03-05",
+  "date": "2026-03-08",
   "programs": [
     {
       "show_name": "Tgcom Rassegna Stampa 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TGCom/today/tgcom-rassegna-stampa-2026.webp",
-      "start_time": "2026-03-05 00:00:00",
-      "end_time": "2026-03-05 00:01:00",
+      "show_logo": "",
+      "start_time": "2026-03-08 00:00:00",
+      "end_time": "2026-03-08 00:17:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Tgcom rassegna stampa 2026."
     },
     {
+      "show_name": "Tg5 Start Tecnologia E Mobilita' 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 00:17:00",
+      "end_time": "2026-03-08 00:20:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Le notizie piu' importanti nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5."
+    },
+    {
       "show_name": "Tgcom24 Diretta Roma 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TGCom/today/tgcom24-diretta-roma-2026.webp",
-      "start_time": "2026-03-05 00:01:00",
-      "end_time": "2026-03-05 00:43:00",
+      "show_logo": "",
+      "start_time": "2026-03-08 00:20:00",
+      "end_time": "2026-03-08 00:57:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Tgcom24 diretta roma 2026."
     },
     {
       "show_name": "Tgcom Rassegna Stampa 2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/TGCom/today/tgcom-rassegna-stampa-2026.webp",
-      "start_time": "2026-03-05 00:43:00",
-      "end_time": "2026-03-05 01:01:00",
+      "show_logo": "",
+      "start_time": "2026-03-08 00:57:00",
+      "end_time": "2026-03-08 01:14:00",
       "episode_number": "",
       "show_category": "",
       "show_description": "Tgcom rassegna stampa 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 01:14:00",
+      "end_time": "2026-03-08 01:42:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 01:42:00",
+      "end_time": "2026-03-08 02:17:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Sport Mediaset La Giornata",
+      "show_logo": "",
+      "start_time": "2026-03-08 02:17:00",
+      "end_time": "2026-03-08 02:32:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Le principali notizie sportive della giornata a cura della redazione giornalistica di Sport Mediaset."
+    },
+    {
+      "show_name": "Tgcom Rassegna Stampa 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 02:32:00",
+      "end_time": "2026-03-08 02:47:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom rassegna stampa 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 02:47:00",
+      "end_time": "2026-03-08 03:14:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 03:14:00",
+      "end_time": "2026-03-08 03:49:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom Rassegna Stampa 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 03:49:00",
+      "end_time": "2026-03-08 04:04:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom rassegna stampa 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 04:04:00",
+      "end_time": "2026-03-08 04:31:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 04:31:00",
+      "end_time": "2026-03-08 05:06:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom Rassegna Stampa 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 05:06:00",
+      "end_time": "2026-03-08 05:16:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom rassegna stampa 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 05:16:00",
+      "end_time": "2026-03-08 05:46:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 05:46:00",
+      "end_time": "2026-03-08 05:59:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Simulcast Canale 5",
+      "show_logo": "",
+      "start_time": "2026-03-08 05:59:00",
+      "end_time": "2026-03-08 08:44:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Simulcast Canale 5."
+    },
+    {
+      "show_name": "Tgcom24 Diretta 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 08:44:00",
+      "end_time": "2026-03-08 09:52:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta 2026."
+    },
+    {
+      "show_name": "Tgcom24 Meteo",
+      "show_logo": "",
+      "start_time": "2026-03-08 09:52:00",
+      "end_time": "2026-03-08 09:59:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Previsioni meteorologiche del territorio italiano, diviso per zone geografiche, dettagliate e costantemente aggiornate."
+    },
+    {
+      "show_name": "Tgcom24 Diretta 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 09:59:00",
+      "end_time": "2026-03-08 11:55:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta 2026."
+    },
+    {
+      "show_name": "Tg4",
+      "show_logo": "",
+      "start_time": "2026-03-08 11:55:00",
+      "end_time": "2026-03-08 12:25:00",
+      "episode_number": "",
+      "show_category": "Telegiornale",
+      "show_description": "Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4. A seguire, le previsioni metereologiche."
+    },
+    {
+      "show_name": "Studio Aperto",
+      "show_logo": "",
+      "start_time": "2026-03-08 12:25:00",
+      "end_time": "2026-03-08 12:58:00",
+      "episode_number": "",
+      "show_category": "Telegiornale",
+      "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
+    },
+    {
+      "show_name": "Tg5",
+      "show_logo": "",
+      "start_time": "2026-03-08 12:58:00",
+      "end_time": "2026-03-08 13:35:00",
+      "episode_number": "",
+      "show_category": "Telegiornale",
+      "show_description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5."
+    },
+    {
+      "show_name": "Tgcom24 2026 Sport Mag",
+      "show_logo": "",
+      "start_time": "2026-03-08 13:35:00",
+      "end_time": "2026-03-08 13:53:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": ""
+    },
+    {
+      "show_name": "Diario Della Domenica",
+      "show_logo": "",
+      "start_time": "2026-03-08 13:53:00",
+      "end_time": "2026-03-08 15:32:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Diario della domenica."
+    },
+    {
+      "show_name": "Tgcom24 Diretta 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 15:32:00",
+      "end_time": "2026-03-08 16:53:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta 2026."
+    },
+    {
+      "show_name": "Tgcom24 Meteo",
+      "show_logo": "",
+      "start_time": "2026-03-08 16:53:00",
+      "end_time": "2026-03-08 17:00:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Previsioni meteorologiche del territorio italiano, diviso per zone geografiche, dettagliate e costantemente aggiornate."
+    },
+    {
+      "show_name": "Tgcom24 Diretta 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 17:00:00",
+      "end_time": "2026-03-08 18:15:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta 2026."
+    },
+    {
+      "show_name": "Tgcom24 Meteo",
+      "show_logo": "",
+      "start_time": "2026-03-08 18:15:00",
+      "end_time": "2026-03-08 18:21:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Previsioni meteorologiche del territorio italiano, diviso per zone geografiche, dettagliate e costantemente aggiornate."
+    },
+    {
+      "show_name": "Studio Aperto Live",
+      "show_logo": "",
+      "start_time": "2026-03-08 18:21:00",
+      "end_time": "2026-03-08 18:30:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
+    },
+    {
+      "show_name": "Studio Aperto",
+      "show_logo": "",
+      "start_time": "2026-03-08 18:30:00",
+      "end_time": "2026-03-08 18:58:00",
+      "episode_number": "",
+      "show_category": "Telegiornale",
+      "show_description": "Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto."
+    },
+    {
+      "show_name": "Tg4",
+      "show_logo": "",
+      "start_time": "2026-03-08 18:58:00",
+      "end_time": "2026-03-08 19:38:00",
+      "episode_number": "",
+      "show_category": "Telegiornale",
+      "show_description": "Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4. A seguire, le previsioni metereologiche."
+    },
+    {
+      "show_name": "Tg Dei Ragazzi 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 19:38:00",
+      "end_time": "2026-03-08 19:54:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tg dei ragazzi 2026."
+    },
+    {
+      "show_name": "Simulcast Canale 5",
+      "show_logo": "",
+      "start_time": "2026-03-08 19:54:00",
+      "end_time": "2026-03-08 20:35:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Simulcast Canale 5."
+    },
+    {
+      "show_name": "4 Di Sera Weekend '25 '26",
+      "show_logo": "",
+      "start_time": "2026-03-08 20:35:00",
+      "end_time": "2026-03-08 21:01:00",
+      "episode_number": "",
+      "show_category": "Talk Show",
+      "show_description": "Il nuovo programma di Rete4 dedicato a politica, economia e i principali casi di cronaca ed attualita'."
+    },
+    {
+      "show_name": "4 Di Sera Weekend '25 '26",
+      "show_logo": "",
+      "start_time": "2026-03-08 21:01:00",
+      "end_time": "2026-03-08 21:36:00",
+      "episode_number": "",
+      "show_category": "Talk Show",
+      "show_description": "Il nuovo programma di Rete4 dedicato a politica, economia e i principali casi di cronaca ed attualita'."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 21:36:00",
+      "end_time": "2026-03-08 23:40:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
+    },
+    {
+      "show_name": "Tgcom Rassegna Stampa 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 23:40:00",
+      "end_time": "2026-03-08 23:59:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom rassegna stampa 2026."
+    },
+    {
+      "show_name": "Tgcom24 Diretta Roma 2026",
+      "show_logo": "",
+      "start_time": "2026-03-08 23:59:00",
+      "end_time": "2026-03-09 00:35:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Tgcom24 diretta roma 2026."
     }
   ]
 }

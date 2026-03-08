@@ -1,24 +1,222 @@
 {
   "channel_name": "27 Twentyseven",
-  "date": "2026-03-05",
+  "date": "2026-03-08",
   "programs": [
     {
-      "show_name": "Casper",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/today/casper.webp",
-      "start_time": "2026-03-05 00:00:00",
-      "end_time": "2026-03-05 00:57:00",
+      "show_name": "Assassinio Sull'orient Express",
+      "show_logo": "",
+      "start_time": "2026-03-08 00:00:00",
+      "end_time": "2026-03-08 01:23:00",
       "episode_number": "",
-      "show_category": "Commedia",
-      "show_description": "Il castello di Whipstaff è notoriamente infestato da fantasmi. Per scacciarli viene chiamato il dottor Harvey che porta con sé Kat, la giovane figlia. Ma la ragazzina fa amicizia con Casper, un dolce e piccolo fantasmino."
+      "show_category": "Thriller",
+      "show_description": "Dopo lo scioccante omicidio di un ricco uomo d'affari sullo sfarzoso treno che sfreccia attraverso l'Europa nel cuore dell'inverno, il detective Hercule Poirot deve ricorrere a tutta la sua abilità per scoprire chi nel gruppo eterogeneo di passeggeri è l'assassino. Dall'omonimo romanzo di Agatha Christie."
     },
     {
-      "show_name": "Chips",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/today/chips.webp",
-      "start_time": "2026-03-05 00:57:00",
-      "end_time": "2026-03-05 01:44:00",
-      "episode_number": "S1 E2",
-      "show_category": "Azione",
-      "show_description": "Un losco individuo deruba una signora la cui macchina e' in panne, fingendosi il conducente di un camion rimorchio. Durante la fuga perde il controllo del mezzo."
+      "show_name": "Walker Texas Ranger",
+      "show_logo": "",
+      "start_time": "2026-03-08 01:23:00",
+      "end_time": "2026-03-08 02:17:00",
+      "episode_number": "S2 E9",
+      "show_category": "",
+      "show_description": "Dal magazzino della polizia sono spariti 200 chili di cocaina. Walker sospetta che qualche collega sia corrotto ed in affari con una potente organizzazione."
+    },
+    {
+      "show_name": "Walker Texas Ranger",
+      "show_logo": "",
+      "start_time": "2026-03-08 02:17:00",
+      "end_time": "2026-03-08 03:03:00",
+      "episode_number": "S2 E10",
+      "show_category": "",
+      "show_description": "Walker neutralizza uno dei due ladri che stanno rubando un furgone speciale per portatori di handicap, ma l'altro riesce a fuggire col veicolo."
+    },
+    {
+      "show_name": "Due Per Tre",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F007817101000701/media/18/82/94b51c14-9127-4a02-9639-7122377aa607/7ff8fefb-75cd-4a69-91bb-6ffef067d510.jpg",
+      "start_time": "2026-03-08 03:03:00",
+      "end_time": "2026-03-08 03:28:00",
+      "episode_number": "S2 E7",
+      "show_category": "Sit-Com",
+      "show_description": "La stabilita' della famiglia Andreoli e' in grave pericolo: a causa di un equivoco, Elena (Loretta Goggi) si convince che Giorgio (Johnny Dorelli) abbia un'amante. Disperata, ma decisa a riconquistarlo, si accorda col marito dell'ipotetica nuova fiamma di Giorgio e organizza un incontro a quattro...fortunatamente chiarificatore."
+    },
+    {
+      "show_name": "Due Per Tre",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F007817101000801/media/18/82/94b51c14-9127-4a02-9639-7122377aa607/7ff8fefb-75cd-4a69-91bb-6ffef067d510.jpg",
+      "start_time": "2026-03-08 03:28:00",
+      "end_time": "2026-03-08 03:51:00",
+      "episode_number": "S2 E8",
+      "show_category": "Sit-Com",
+      "show_description": "L'avvocato Antonioli (Johnny Dorelli) e sua moglie (Loretta Goggi) regalano alla figlia minore Niki (Margherita Lombardo) una bambola. Questa pero' non incontra i gusti della bambina, che decide di scrivere una lettera di protesta alla ditta che l'ha prodotta. Cosi' un giorno arrivano a casa Antonioli i due titolari della societa' di giocattoli con una proposta di lavoro per Niki: vogliono ingaggiare la bambina per testare i giocattoli prodotti da loro. Stipulato l'accordo, la casa di Giorgio ed Elena si riempie di giocattoli di tutti i tipi. Alla fine pero' il gioco prediletto da Niki risulta essere una semplice boccetta per fare le bolle di sapone che le ha regalato Cesira..."
+    },
+    {
+      "show_name": "I Liceali",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F300204101000601/images/Mediaset_Italia_Production_-_Main/560/28/ST000000001436-1-header-poster-320x260.jpg",
+      "start_time": "2026-03-08 03:51:00",
+      "end_time": "2026-03-08 05:24:00",
+      "episode_number": "S2 E6",
+      "show_category": "Commedia",
+      "show_description": "Mentre incalzano gli esami di maturita', Enrica si prepara al matrimonio con Enea. Cicerino si comporta da amico sincero, mettendosi da parte e, contemporaneamente, cercando di aiutare Monica a ritrovare se stessa, ad accettare la sconfitta subita e a sperare in un futuro migliore E cosi', mentre Monica torna a scuola appena in tempo per la maturita', anche il suo professore impara qualcosa: non sempre bisogna tacere, rinunciare e farsi da parte. Forse per lui ed Enrica c'e' ancora una speranza."
+    },
+    {
+      "show_name": "Camera Cafe'",
+      "show_logo": "",
+      "start_time": "2026-03-08 05:24:00",
+      "end_time": "2026-03-08 06:00:00",
+      "episode_number": "S1 E13",
+      "show_category": "",
+      "show_description": "Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe' tra colleghi, superiori e buffe vicende quotidiane."
+    },
+    {
+      "show_name": "Agenzia Rockford",
+      "show_logo": "",
+      "start_time": "2026-03-08 06:00:00",
+      "end_time": "2026-03-08 06:47:00",
+      "episode_number": "S3 E2",
+      "show_category": "",
+      "show_description": "Un medium senza scrupoli, dice alla polizia che Rockford sa di piu' su un dirigente di una casa discografica scomparso di quanto abbia detto."
+    },
+    {
+      "show_name": "La Signora Del West",
+      "show_logo": "",
+      "start_time": "2026-03-08 06:47:00",
+      "end_time": "2026-03-08 07:31:00",
+      "episode_number": "S5 E12",
+      "show_category": "",
+      "show_description": "Colleen torna a casa dal college, dopo aver superato i primi esami. Michaela sta curando un uomo per un'ernia, un altro per una scheggia alla mano."
+    },
+    {
+      "show_name": "La Signora Del West",
+      "show_logo": "",
+      "start_time": "2026-03-08 07:31:00",
+      "end_time": "2026-03-08 08:21:00",
+      "episode_number": "S5 E13",
+      "show_category": "",
+      "show_description": "La citta' si prepara a festeggiare il Natale e Brian vorrebbe addobbare il grande albero in citta', ma nessuno sembra essere disponibile ad aiutarlo."
+    },
+    {
+      "show_name": "La Signora Del West",
+      "show_logo": "",
+      "start_time": "2026-03-08 08:21:00",
+      "end_time": "2026-03-08 09:19:00",
+      "episode_number": "S5 E14",
+      "show_category": "",
+      "show_description": "Mentre Brian si sente trascurato da Michaela impegnata con Katie, Matthew dovra' vigilare sullo svolgimento dei lavori di un'impresa che sta costruendo una diga."
+    },
+    {
+      "show_name": "La Casa Nella Prateria",
+      "show_logo": "",
+      "start_time": "2026-03-08 09:19:00",
+      "end_time": "2026-03-08 10:22:00",
+      "episode_number": "S9 E9",
+      "show_category": "Commedia",
+      "show_description": "Gli abitanti di Walnut Grove apprendono con gioia che la ferrovia attraversera' la loro piccola citta' in quanto cio' significa lavoro e benessere."
+    },
+    {
+      "show_name": "La Casa Nella Prateria",
+      "show_logo": "",
+      "start_time": "2026-03-08 10:22:00",
+      "end_time": "2026-03-08 11:33:00",
+      "episode_number": "S9 E10",
+      "show_category": "",
+      "show_description": "Isaiah Edwards si innamora di una ragazza non vedente di diciannove anni. In paese tutti lo criticano."
+    },
+    {
+      "show_name": "La Casa Nella Prateria",
+      "show_logo": "",
+      "start_time": "2026-03-08 11:33:00",
+      "end_time": "2026-03-08 12:45:00",
+      "episode_number": "S9 E11",
+      "show_category": "Commedia",
+      "show_description": "Almanzo Wilder e John Carter sono fuori citta' per lavoro. Isaiah Edwards decide allora di tenere d'occhio le loro mogli."
+    },
+    {
+      "show_name": "La Signora Del West",
+      "show_logo": "",
+      "start_time": "2026-03-08 12:45:00",
+      "end_time": "2026-03-08 13:41:00",
+      "episode_number": "S5 E15",
+      "show_category": "",
+      "show_description": "Il reverendo, resosi conto di non poter piu' vivere da solo a causa della recente cecita', si trasferisce da Loren, nella stanza che una volta era di Dorothy."
+    },
+    {
+      "show_name": "La Signora Del West",
+      "show_logo": "",
+      "start_time": "2026-03-08 13:41:00",
+      "end_time": "2026-03-08 14:43:00",
+      "episode_number": "S5 E16",
+      "show_category": "",
+      "show_description": "Kid Cole e Sorella Ruth tornano a Colorado Springs. Michaela e Sully si rendono subito conto che il rapporto fra i due e' in crisi evidente."
+    },
+    {
+      "show_name": "La Signora Del West",
+      "show_logo": "",
+      "start_time": "2026-03-08 14:43:00",
+      "end_time": "2026-03-08 15:45:00",
+      "episode_number": "S5 E17",
+      "show_category": "",
+      "show_description": "Colleen torna in citta' e deve scrivere una tesina in cui ha deciso di raccontare il caso piu' eclatante che Michaela ha avuto come medico."
+    },
+    {
+      "show_name": "La Casa Nella Prateria",
+      "show_logo": "",
+      "start_time": "2026-03-08 15:45:00",
+      "end_time": "2026-03-08 16:54:00",
+      "episode_number": "S9 E12",
+      "show_category": "Commedia",
+      "show_description": "Marvin Haynes, un'anziano e malconcio dottore, cerca di aiutare la piccola Jenny Wilder, la quale, in seguito ad un incidente, e' rimasta semi paralizzata."
+    },
+    {
+      "show_name": "La Casa Nella Prateria",
+      "show_logo": "",
+      "start_time": "2026-03-08 16:54:00",
+      "end_time": "2026-03-08 17:57:00",
+      "episode_number": "S9 E13",
+      "show_category": "",
+      "show_description": "Donnie, figlio di Dixon, esce dal carcere e contatta Reno informandolo di una cassetta di sicurezza in cui Dixon che custodisce i documenti che provano la sua innocenza."
+    },
+    {
+      "show_name": "La Casa Nella Prateria",
+      "show_logo": "",
+      "start_time": "2026-03-08 17:57:00",
+      "end_time": "2026-03-08 19:07:00",
+      "episode_number": "S9 E14",
+      "show_category": "",
+      "show_description": "I famigerati fratelli Younger escono di prigione decisi a rifarsi una nuova vita. Isaiah Edward ingenuamente ed innocentemente offre loro aiuto."
+    },
+    {
+      "show_name": "Walker Texas Ranger",
+      "show_logo": "",
+      "start_time": "2026-03-08 19:07:00",
+      "end_time": "2026-03-08 20:10:00",
+      "episode_number": "S2 E11",
+      "show_category": "",
+      "show_description": "Amy, una ragazzina amica di Walker e figlia di un uomo molto ricco, viene rapita dalla mafia cinese. Tokada, capo della sicurezza del padre di Amy, si sente responsabile."
+    },
+    {
+      "show_name": "Walker Texas Ranger",
+      "show_logo": "",
+      "start_time": "2026-03-08 20:10:00",
+      "end_time": "2026-03-08 21:14:00",
+      "episode_number": "S2 E12",
+      "show_category": "",
+      "show_description": "Walker e Trivette devono occuparsi del caso di una sala da Bingo dove viene riciclato denaro sporco. Il proprietario della sala e' un delinquente ben noto a Walker."
+    },
+    {
+      "show_name": "Il Principe Cerca Moglie",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F002027401000104/media/26/90/fb1c4bc0-a416-487d-b093-9fb2f65d1692/d9c3a310-174e-452f-9a84-c85568bd0797.jpg",
+      "start_time": "2026-03-08 21:14:00",
+      "end_time": "2026-03-08 23:31:00",
+      "episode_number": "",
+      "show_category": "Commedia",
+      "show_description": "Akeem, l'erede al trono di un ricco stato africano, va a New York alla ricerca del vero amore. Si finge uno studente povero e lavora in un fast food, dove si innamora della bellissima Lisa. Che armi userà per conquistarla."
+    },
+    {
+      "show_name": "Tutto In Una Notte",
+      "show_logo": "",
+      "start_time": "2026-03-08 23:31:00",
+      "end_time": "2026-03-09 01:47:00",
+      "episode_number": "",
+      "show_category": "Avventura",
+      "show_description": "La noiosa routine di un impiegato viene spezzata dall'incontro notturno con una bella sconosciuta, inseguita da quattro killer persiani. Regia di J. Landis; USA 1985."
     }
   ]
 }
