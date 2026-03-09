@@ -1,303 +1,285 @@
 {
   "channel_name": "Sky Crime",
-  "date": "2026-03-08",
+  "date": "2026-03-09",
   "programs": [
     {
-      "show_name": "Un avvertimento prima di iniziare - Stag. 1 Ep. 6 - Vincent Plicchi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-08 00:00:00",
-      "end_time": "2026-03-08 00:15:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "...iniziare: Pablo Trincia incontra Matteo, padre di Vincent, tiktoker bolognese di 23 anni suicidatosi in diretta social."
-    },
-    {
-      "show_name": "Real Cops",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/real-cops.webp",
-      "start_time": "2026-03-08 00:15:00",
-      "end_time": "2026-03-08 00:40:00",
-      "episode_number": "S1 E10",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Dopo un pericoloso inseguimento ad alta velocita', la polizia affronta una violenta sparatoria, mentre un ladro d'auto cerca una fuga disperata in kayak."
-    },
-    {
-      "show_name": "Real Cops",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/real-cops.webp",
-      "start_time": "2026-03-08 00:40:00",
-      "end_time": "2026-03-08 01:00:00",
-      "episode_number": "S1 E11",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un ladro d'auto salta da un ponte, un fuggitivo armato irrompe in una scuola, e un sospetto in fuga tenta ogni mezzo possibile per sfuggire alla polizia."
-    },
-    {
-      "show_name": "Real Cops",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/real-cops.webp",
-      "start_time": "2026-03-08 01:00:00",
-      "end_time": "2026-03-08 01:25:00",
-      "episode_number": "S1 E12",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un ricercato travolge l'auto della polizia, gli agenti affrontano a colpi d'arma da fuoco un sospetto omicida."
-    },
-    {
-      "show_name": "Real Cops",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/real-cops.webp",
-      "start_time": "2026-03-08 01:25:00",
-      "end_time": "2026-03-08 01:50:00",
-      "episode_number": "S1 E13",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un folle inseguimento contromano, uno stallo con un ladro su un'autostrada, e un pedofilo condannato che ruba un'auto della Homeland Security."
-    },
-    {
-      "show_name": "Real Cops",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/real-cops.webp",
-      "start_time": "2026-03-08 01:50:00",
-      "end_time": "2026-03-08 02:15:00",
-      "episode_number": "S1 E14",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La polizia soccorre una madre e le sue figlie dopo un violento incidente, mentre un fuggitivo tenta una disperata fuga a nuoto."
-    },
-    {
-      "show_name": "Bande criminali - Le cronache...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/bande-criminali-le-cronache.webp",
-      "start_time": "2026-03-08 02:15:00",
-      "end_time": "2026-03-08 02:35:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gli Hells Angels di Sonny Barger stabiliscono un modello sanguinario per tutti i club di motociclisti fuorilegge che seguiranno."
-    },
-    {
-      "show_name": "Bande criminali - Le cronache...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/bande-criminali-le-cronache.webp",
-      "start_time": "2026-03-08 02:35:00",
-      "end_time": "2026-03-08 03:00:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Sinaloa e il suo leader El Chapo mirano a diventare la piu grande organizzazione di narcotrafficanti al mondo."
-    },
-    {
-      "show_name": "Bande criminali - Le cronache...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/bande-criminali-le-cronache.webp",
-      "start_time": "2026-03-08 03:00:00",
-      "end_time": "2026-03-08 03:25:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La banda criminale, ormai ramificata globalmente, tenta di espandersi nei sobborghi statunitensi."
-    },
-    {
-      "show_name": "Calciopoli - Anatomia di...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/calciopoli-anatomia-di.webp",
-      "start_time": "2026-03-08 03:25:00",
-      "end_time": "2026-03-08 04:20:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "E il marzo del 2009. Calciopoli e' un affare molto grande. Sul banco degli imputati c'e' Luciano Moggi. Il processo sta per iniziare."
-    },
-    {
-      "show_name": "Tifo criminale - lati oscuri...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/tifo-criminale-lati-oscuri.webp",
-      "start_time": "2026-03-08 04:20:00",
-      "end_time": "2026-03-08 05:10:00",
-      "episode_number": "S1 E1",
-      "show_category": "Altro",
-      "show_description": "Vincenzo Spagnolo ha 25 anni quando viene accoltellato da un tifoso del Milan nel 29 gennaio '95."
-    },
-    {
-      "show_name": "Tifo criminale - lati oscuri...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/tifo-criminale-lati-oscuri.webp",
-      "start_time": "2026-03-08 05:10:00",
-      "end_time": "2026-03-08 06:00:00",
-      "episode_number": "S1 E2",
-      "show_category": "Altro",
-      "show_description": "Prima della finale di Coppa Italia tra Napoli e Fiorentina, un bus di tifosi partenopei viene colpito da bombe carta."
-    },
-    {
-      "show_name": "EX - Non mi manchi per niente",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/ex-non-mi-manchi-per-niente.webp",
-      "start_time": "2026-03-08 06:00:00",
-      "end_time": "2026-03-08 06:45:00",
-      "episode_number": "S4 E8",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una donna prende una decisione drastica per tentare di rimanere incinta."
-    },
-    {
-      "show_name": "EX - Non mi manchi per niente",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/ex-non-mi-manchi-per-niente.webp",
-      "start_time": "2026-03-08 06:45:00",
-      "end_time": "2026-03-08 07:35:00",
-      "episode_number": "S4 E13",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una coppia scopre che in passato le loro due famiglie si sono scontrate. Una donna tenta di motivare il suo fidanzato che e' depresso, ma lo spinge verso un pericoloso incontro."
-    },
-    {
-      "show_name": "EX - Non mi manchi per niente",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/ex-non-mi-manchi-per-niente.webp",
-      "start_time": "2026-03-08 07:35:00",
-      "end_time": "2026-03-08 08:20:00",
-      "episode_number": "S4 E12",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Invitato ad una rimpatriata tra ex compagni di liceo, un uomo indossa un parrucchino. Le conseguenze si rivelano ridicole. Una donna amante della natura viene sospettata dal compagno di avere una storia con un altro."
-    },
-    {
-      "show_name": "EX - Non mi manchi per niente",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/ex-non-mi-manchi-per-niente.webp",
-      "start_time": "2026-03-08 08:20:00",
-      "end_time": "2026-03-08 09:05:00",
-      "episode_number": "S4 E11",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un artista che realizza fumetti si ispira alla sua fidanzata, ma inizia a preoccuparsi quando non distingue piu' la fantasia dalla realta'."
-    },
-    {
-      "show_name": "EX - Non mi manchi per niente",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/ex-non-mi-manchi-per-niente.webp",
-      "start_time": "2026-03-08 09:05:00",
-      "end_time": "2026-03-08 09:50:00",
-      "episode_number": "S4 E12",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una donna scopre gli oscuri segreti sul suo fidanzato."
-    },
-    {
-      "show_name": "EX - Non mi manchi per niente",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/ex-non-mi-manchi-per-niente.webp",
-      "start_time": "2026-03-08 09:50:00",
-      "end_time": "2026-03-08 10:35:00",
-      "episode_number": "S4 E13",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Una barista deve affrontare un pericoloso cliente che non accetta un 'no' come risposta."
-    },
-    {
-      "show_name": "Un avvertimento prima di iniziare - Stag. 1 Ep. 6 - Vincent Plicchi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-08 10:35:00",
-      "end_time": "2026-03-08 11:50:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "...iniziare: Pablo Trincia incontra Matteo, padre di Vincent, tiktoker bolognese di 23 anni suicidatosi in diretta social."
-    },
-    {
-      "show_name": "Mostri Senza Nome - Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/mostri-senza-nome-roma.webp",
-      "start_time": "2026-03-08 11:50:00",
-      "end_time": "2026-03-08 12:45:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un'analisi dei piu' intricati cold case romani, delitti rimasti irrisolti che tra gli anni '90 e 2000 hanno riempito le prime pagine dei giornali."
-    },
-    {
-      "show_name": "Mostri Senza Nome - Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/mostri-senza-nome-roma.webp",
-      "start_time": "2026-03-08 12:45:00",
-      "end_time": "2026-03-08 13:40:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Filippo Nigro analizza il caso di Duilio Saggia Civitelli, morto nel 1995. Mentre aspettava il treno diretto a Formia, un uomo gli spara in testa."
-    },
-    {
-      "show_name": "Mostri Senza Nome - Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/mostri-senza-nome-roma.webp",
-      "start_time": "2026-03-08 13:40:00",
-      "end_time": "2026-03-08 14:35:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Filippo Nigro indaga sull'omicidio di Antonella Di Veroli, uccisa nell'aprile del 1994. Si apre il caso, le piste si riducono e si ipotizza il delitto passionale."
-    },
-    {
-      "show_name": "Mostri Senza Nome - Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/mostri-senza-nome-roma.webp",
-      "start_time": "2026-03-08 14:35:00",
-      "end_time": "2026-03-08 15:35:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Filippo Nigro si occupa del caso di Francesca Moretti, morta dopo il ricovero in ospedale. Si pensa a una reazione allergica, ma l'autopsia mostra altro."
-    },
-    {
-      "show_name": "Sei in arresto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/sei-in-arresto.webp",
-      "start_time": "2026-03-08 15:35:00",
-      "end_time": "2026-03-08 16:55:00",
-      "episode_number": "S2 E11",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Da una chiamata al 911 per patatine fredde che porta a un'accusa di omicidio, a un fuggitivo preso sul WC, fino a un anziano...rapinatore di banca!"
-    },
-    {
-      "show_name": "Sei in arresto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/sei-in-arresto.webp",
-      "start_time": "2026-03-08 16:55:00",
-      "end_time": "2026-03-08 18:10:00",
-      "episode_number": "S2 E14",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un uomo in tutina leopardata ruba in un negozio di animali mentre una rapina a una pompa di benzina ha un colpevole...sorprendente."
-    },
-    {
-      "show_name": "Sei in arresto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/sei-in-arresto.webp",
-      "start_time": "2026-03-08 18:10:00",
-      "end_time": "2026-03-08 18:35:00",
-      "episode_number": "S2 E17",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un uomo su di giri sfida la polizia; una donna balla in strada facendo gestacci agli automobilisti; un pilota viene arrestato per aver rubato un aereo. E non e' finita qui!"
-    },
-    {
-      "show_name": "Sei in arresto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/sei-in-arresto.webp",
-      "start_time": "2026-03-08 18:35:00",
-      "end_time": "2026-03-08 19:00:00",
-      "episode_number": "S2 E18",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un uomo in barca da' di matto; un nudo in strada blocca il traffico; chi ruba una divisa da poliziotto finisce per farsi... lavare!"
-    },
-    {
-      "show_name": "Sei in arresto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/sei-in-arresto.webp",
-      "start_time": "2026-03-08 19:00:00",
-      "end_time": "2026-03-08 19:30:00",
-      "episode_number": "S2 E19",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un uomo chiama il 911... per denunciare la polizia; una donna e' accusata di rubare un cavallo e carrozza; un vicino spara ai topi nel giardino altrui."
-    },
-    {
-      "show_name": "Sei in arresto!",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/sei-in-arresto.webp",
-      "start_time": "2026-03-08 19:30:00",
-      "end_time": "2026-03-08 19:55:00",
-      "episode_number": "S2 E20",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un sospetto si schianta contro una prigione; una donna esagera al cinema; un vandalo semina il caos in una cantina vinicola!"
-    },
-    {
-      "show_name": "Homicide Squad: New Orleans",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/homicide-squad-new-orleans.webp",
-      "start_time": "2026-03-08 19:55:00",
-      "end_time": "2026-03-08 21:35:00",
-      "episode_number": "S1 E8",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il giovane Donnie Willyard affronta uno dei suoi primi casi: rintracciare il sospetto di una brutale sparatoria avvenuta davanti a un'abitazione."
-    },
-    {
       "show_name": "Penthouse - impero a luci rosse",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/penthouse-impero-a-luci-rosse.webp",
-      "start_time": "2026-03-08 21:35:00",
-      "end_time": "2026-03-08 22:25:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Negli anni 80 Penthouse e' tra le riviste di maggior successo in America."
-    },
-    {
-      "show_name": "Penthouse - impero a luci rosse",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/penthouse-impero-a-luci-rosse.webp",
-      "start_time": "2026-03-08 22:25:00",
-      "end_time": "2026-03-08 23:20:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "L'enorme successo di Penthouse nei primi anni 90 convince Bob Guccione a investire nella criogenica e in un casino' ad Atlantic City."
-    },
-    {
-      "show_name": "Penthouse - impero a luci rosse",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/today/penthouse-impero-a-luci-rosse.webp",
-      "start_time": "2026-03-08 23:20:00",
+      "show_logo": "https://guidatv.sky.it/uuid/49b97b8b-57a3-4f6c-9bd9-20d2a6a9f3c8/cover?territory=IT&md5ChecksumParam=c3fb8a6d042df27a0d872af817c587cb",
+      "start_time": "2026-03-09 00:00:00",
       "end_time": "2026-03-09 00:10:00",
       "episode_number": "S1 E4",
       "show_category": "Mondo e Tendenze",
       "show_description": "Con l'avvento del nuovo millennio la rivista Penthouse e' nei guai. Le vendite calano e Bob Guccione spinge per la pubblicazione di contenuti sempre piu' controversi."
+    },
+    {
+      "show_name": "Real Cops",
+      "show_logo": "https://guidatv.sky.it/uuid/5ad9f845-02d1-4c93-aa6d-10bd4624c3bc/cover?territory=IT&md5ChecksumParam=0c35f95c356f305bfd85dd89aa07c77c",
+      "start_time": "2026-03-09 00:10:00",
+      "end_time": "2026-03-09 00:35:00",
+      "episode_number": "S1 E15",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Gli agenti tentano manovre PIT per fermare due sospetti armati, ricercati per rapina e molto altro ancora."
+    },
+    {
+      "show_name": "Real Cops",
+      "show_logo": "https://guidatv.sky.it/uuid/5ad9f845-02d1-4c93-aa6d-10bd4624c3bc/cover?territory=IT&md5ChecksumParam=0c35f95c356f305bfd85dd89aa07c77c",
+      "start_time": "2026-03-09 00:35:00",
+      "end_time": "2026-03-09 01:05:00",
+      "episode_number": "S1 E16",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un agente della polizia statale esegue una manovra PIT su un pirata della strada. La polizia ingaggia un inseguimento ad alta velocita' con due uomini."
+    },
+    {
+      "show_name": "Real Cops",
+      "show_logo": "https://guidatv.sky.it/uuid/5ad9f845-02d1-4c93-aa6d-10bd4624c3bc/cover?territory=IT&md5ChecksumParam=0c35f95c356f305bfd85dd89aa07c77c",
+      "start_time": "2026-03-09 01:05:00",
+      "end_time": "2026-03-09 01:30:00",
+      "episode_number": "S1 E17",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Le unita' aeree e gli agenti K-9 inseguono un sospetto a piedi e in acqua. Un uomo in fuga dalla polizia viene sbalzato fuori dalla sua auto dopo un incidente."
+    },
+    {
+      "show_name": "Real Cops",
+      "show_logo": "https://guidatv.sky.it/uuid/5ad9f845-02d1-4c93-aa6d-10bd4624c3bc/cover?territory=IT&md5ChecksumParam=0c35f95c356f305bfd85dd89aa07c77c",
+      "start_time": "2026-03-09 01:30:00",
+      "end_time": "2026-03-09 01:55:00",
+      "episode_number": "S1 E18",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una donna accusata di furto sperona una pattuglia e conduce gli agenti in un inseguimento. Gli agenti inseguono un presunto ladro d'auto armato."
+    },
+    {
+      "show_name": "Real Cops",
+      "show_logo": "https://guidatv.sky.it/uuid/5ad9f845-02d1-4c93-aa6d-10bd4624c3bc/cover?territory=IT&md5ChecksumParam=0c35f95c356f305bfd85dd89aa07c77c",
+      "start_time": "2026-03-09 01:55:00",
+      "end_time": "2026-03-09 02:15:00",
+      "episode_number": "S1 E19",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Gli agenti si lanciano in un inseguimento ad alta velocita' con un uomo ricercato per aver sparato a un agente della polizia stradale e avergli rubato l'auto."
+    },
+    {
+      "show_name": "Calciopoli - Anatomia di...",
+      "show_logo": "https://guidatv.sky.it/uuid/28f1c72d-33ab-4f5b-bb73-beb6a231a596/cover?territory=IT&md5ChecksumParam=e1321347a6f17b49408ee0ffc3888ab0",
+      "start_time": "2026-03-09 02:15:00",
+      "end_time": "2026-03-09 03:15:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Sul banco degli imputati si alternano personaggi importanti dello sport. Si analizzano partite falsate, in tutti gli aspetti. L'8 novembre 2011 arriva la sentenza."
+    },
+    {
+      "show_name": "Tifo criminale - lati oscuri...",
+      "show_logo": "https://guidatv.sky.it/uuid/e3a1a7e6-9f99-4493-a9d3-64def04f9212/cover?territory=IT&md5ChecksumParam=bbc7062743a000af17129eb674bd84a2",
+      "start_time": "2026-03-09 03:15:00",
+      "end_time": "2026-03-09 04:05:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "4 casi di omicidio avvenuti all’interno del tifo calcistico. Storie di vittime e dei loro assassini, persone divise dal tifo."
+    },
+    {
+      "show_name": "Tifo criminale - lati oscuri...",
+      "show_logo": "https://guidatv.sky.it/uuid/9fdec64a-0348-4291-bf2e-e12279ed3f0b/cover?territory=IT&md5ChecksumParam=bbc7062743a000af17129eb674bd84a2",
+      "start_time": "2026-03-09 04:05:00",
+      "end_time": "2026-03-09 05:00:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "4 casi di omicidio avvenuti all’interno del tifo calcistico. Storie di vittime e dei loro assassini, persone divise dal tifo."
+    },
+    {
+      "show_name": "Profondo Nero Di Carlo Lucarelli",
+      "show_logo": "https://guidatv.sky.it/uuid/baac3604-6670-4b62-98c8-000dd3b1ba3d/cover?territory=IT&md5ChecksumParam=017903936de72ca61a9d163f74110166",
+      "start_time": "2026-03-09 05:00:00",
+      "end_time": "2026-03-09 06:00:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "In compagnia di Carlo Lucarelli, addentriamoci nei meandri piu' oscuri della mente criminale, scovando i segreti di queste persone. Leonarda Cianciulli e' passata alla storia per aver bollito con la soda caustica i resti di alcune sue vittime, per farne del sapone."
+    },
+    {
+      "show_name": "Eroi detective: la verita' ad...",
+      "show_logo": "https://guidatv.sky.it/uuid/cba89a13-1c31-4536-8283-c93b7baed8d4/cover?territory=IT&md5ChecksumParam=330076432cae764757fb9768e39f8af9",
+      "start_time": "2026-03-09 06:00:00",
+      "end_time": "2026-03-09 06:55:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nel 1979 Carl Gaimari viene ucciso nella sua casa da due uomini mascherati."
+    },
+    {
+      "show_name": "Serial Killers: Ted Bundy",
+      "show_logo": "https://guidatv.sky.it/uuid/b19e6e7c-198f-4388-a7f2-29f2c6fe4bd7/cover?territory=IT&md5ChecksumParam=3fda92e01282d9ff448b97fe722310e5",
+      "start_time": "2026-03-09 06:55:00",
+      "end_time": "2026-03-09 08:25:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Dietro il volto di uno studente, amico leale e padre di famiglia si nascondeva un serial killer che uccise piu' di 30 persone."
+    },
+    {
+      "show_name": "Predator: caccia al taxi dello stupro",
+      "show_logo": "https://guidatv.sky.it/uuid/ef8b8595-6d6b-4028-b371-5ac1716d087b/cover?territory=IT&md5ChecksumParam=b780817457b5595d0dad997a1d99df6e",
+      "start_time": "2026-03-09 08:25:00",
+      "end_time": "2026-03-09 09:15:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Predator: caccia al taxi dello stupro - La caccia a John Worboys, stupratore che ha terrorizzato piu' di 100 vittime nel suo taxi."
+    },
+    {
+      "show_name": "Un avvertimento prima di iniziare - Stag. 1 Ep. 7 - Episode 7",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-03-09 09:15:00",
+      "end_time": "2026-03-09 10:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "...iniziare: Con il suo stile narrativo immersivo, Trincia costruisce un preludio avvincente che apre le porte a una storia fatta di svolte imprevedibili e riflessioni profonde."
+    },
+    {
+      "show_name": "Delitti a circuito chiuso",
+      "show_logo": "https://guidatv.sky.it/uuid/cc378847-5269-4339-b470-1b2815bca8f3/COVER_TITLE_TALL?territory=IT&version=8c231ea0-299e-3916-b571-3d8eaf590d9c&w=600&h=800&md5ChecksumParam=56664072af8aaf18ed302a8bfad863d9",
+      "start_time": "2026-03-09 10:00:00",
+      "end_time": "2026-03-09 10:55:00",
+      "episode_number": "S9 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nel 2010, Dexter Bain, barista di 36 anni, rimane vittima di una rapina in un pub a Calgary, in Canada. L'indagine procede con operazioni sotto copertura e intercettazioni per catturare il principale sospettato."
+    },
+    {
+      "show_name": "Ti amo da morire",
+      "show_logo": "https://guidatv.sky.it/uuid/a5481d86-730a-3e77-9b73-c84e2e01da9c/cover?territory=IT&md5ChecksumParam=ab2cfeda368bb9c36a62a0f415e6e4a9",
+      "start_time": "2026-03-09 10:55:00",
+      "end_time": "2026-03-09 11:45:00",
+      "episode_number": "S1 E11",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La polizia indaga sulla vita sentimentale di una giovane madre, scoprendo una realta' inusuale e scioccante."
+    },
+    {
+      "show_name": "Ti amo da morire",
+      "show_logo": "https://guidatv.sky.it/uuid/a5481d86-730a-3e77-9b73-c84e2e01da9c/cover?territory=IT&md5ChecksumParam=ab2cfeda368bb9c36a62a0f415e6e4a9",
+      "start_time": "2026-03-09 11:45:00",
+      "end_time": "2026-03-09 12:30:00",
+      "episode_number": "S1 E12",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un veterano dei Marine che lavora come poliziotto a Memphis scompare senza lasciare traccia: le indagini rivelano una storia di tradimenti e infedelta' tra poliziotti."
+    },
+    {
+      "show_name": "Sei in arresto!",
+      "show_logo": "https://guidatv.sky.it/uuid/0ad8954e-ec6b-3940-9f9d-ac9995a107aa/cover?territory=IT&md5ChecksumParam=15eb5b73e62aabf3d3f62caf140348ad",
+      "start_time": "2026-03-09 12:30:00",
+      "end_time": "2026-03-09 12:55:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un uomo chiede alla sua ragazza di sposarlo mentre sta venendo arrestato e il dipendente di un acquario da' una mano a catturare un ladro di squali."
+    },
+    {
+      "show_name": "Sei in arresto!",
+      "show_logo": "https://guidatv.sky.it/uuid/0ad8954e-ec6b-3940-9f9d-ac9995a107aa/cover?territory=IT&md5ChecksumParam=15eb5b73e62aabf3d3f62caf140348ad",
+      "start_time": "2026-03-09 12:55:00",
+      "end_time": "2026-03-09 13:20:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Un ladro rimane incastrato in un comignolo, il proprietario di un negozio di animali coglie un ladro con serpenti nei pantaloni."
+    },
+    {
+      "show_name": "Digital forensic: sulle ...",
+      "show_logo": "https://guidatv.sky.it/uuid/e9e8c964-5b7d-4166-98c5-d14b82bee104/cover?territory=IT&md5ChecksumParam=31736e171822453dc72dc34fded0ae55",
+      "start_time": "2026-03-09 13:20:00",
+      "end_time": "2026-03-09 14:10:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Tramite strumenti digitali le forze dell'ordine riescono a smentire l'alibi di una delle ultime persone che ha visto viva una jogger 24enne."
+    },
+    {
+      "show_name": "A letto con l'assassino",
+      "show_logo": "https://guidatv.sky.it/uuid/e66fb0e6-d491-4fb4-8f46-fddc81381585/cover?territory=IT&md5ChecksumParam=675b96486781ff59de981260aa4e286f",
+      "start_time": "2026-03-09 14:10:00",
+      "end_time": "2026-03-09 15:05:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nel 1998, i figli di Arlene Fraser tornarono da scuola e non trovarono la mamma a casa. Dopo 25 anni, di lei non c'e' ancora traccia."
+    },
+    {
+      "show_name": "A letto con l'assassino",
+      "show_logo": "https://guidatv.sky.it/uuid/e66fb0e6-d491-4fb4-8f46-fddc81381585/cover?territory=IT&md5ChecksumParam=675b96486781ff59de981260aa4e286f",
+      "start_time": "2026-03-09 15:05:00",
+      "end_time": "2026-03-09 16:00:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Quando Kylie Dembrey si innamora di un ragazzaccio, Mark Sinclair, la vita della dolce 17enne diventa subito amara."
+    },
+    {
+      "show_name": "Dating death - appuntamento...",
+      "show_logo": "https://guidatv.sky.it/uuid/cc085152-4e94-47e5-9380-485a7adf298e/COVER_TITLE_TALL?territory=IT&version=345e0ff7-6f11-31cc-a3bd-3523867c2d1c&w=600&h=800&md5ChecksumParam=1f78be079ec5d586b720fd715cbc87c1",
+      "start_time": "2026-03-09 16:00:00",
+      "end_time": "2026-03-09 16:50:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Negli anni 70, l'era degli assassini seriali a Los Angeles, Rodney Alcala riesce a sfuggire alla polizia nonostante i precedenti, mettendo a segno omicidi brutali di alcune donne."
+    },
+    {
+      "show_name": "Dating death - appuntamento...",
+      "show_logo": "https://guidatv.sky.it/uuid/16948b8b-5aad-4bcb-99a3-37813a83e953/cover?territory=IT&md5ChecksumParam=c4b3ac5f9a8af00c757ad5642099ae07",
+      "start_time": "2026-03-09 16:50:00",
+      "end_time": "2026-03-09 17:40:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nonostante i precedenti come molestatore, Alcala viene assunto come tipografo al Los Angeles Times, nel mezzo delle indagini sugli Strangolatori di Hillside."
+    },
+    {
+      "show_name": "Dating death - appuntamento...",
+      "show_logo": "https://guidatv.sky.it/uuid/16948b8b-5aad-4bcb-99a3-37813a83e953/cover?territory=IT&md5ChecksumParam=c4b3ac5f9a8af00c757ad5642099ae07",
+      "start_time": "2026-03-09 17:40:00",
+      "end_time": "2026-03-09 18:30:00",
+      "episode_number": "S1 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Tramite il confronto del DNA, vengono risolti tanti casi di omicidi di donne che erano rimasti ancora senza colpevole."
+    },
+    {
+      "show_name": "Cold Case: casi irrisolti",
+      "show_logo": "https://guidatv.sky.it/uuid/c4e1fd97-6aff-496e-9abb-a218a72f1db3/COVER_TITLE_TALL?territory=IT&version=cab2ed66-d7c3-3a99-ab3a-01dae8953a55&w=600&h=800&md5ChecksumParam=990f74c80a2c9d91867177947a839970",
+      "start_time": "2026-03-09 18:30:00",
+      "end_time": "2026-03-09 19:20:00",
+      "episode_number": "S2 E11",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Quando un'insegnante molto amata viene ritrovata senza vita, il sospetto si rivolge all'ex marito. Dopo che il caso rimane irrisolto per anni, un detective intraprende una missione per ripulire il nome dell'uomo e trovare i veri assassini."
+    },
+    {
+      "show_name": "Sei in arresto!",
+      "show_logo": "https://guidatv.sky.it/uuid/0ad8954e-ec6b-3940-9f9d-ac9995a107aa/cover?territory=IT&md5ChecksumParam=15eb5b73e62aabf3d3f62caf140348ad",
+      "start_time": "2026-03-09 19:20:00",
+      "end_time": "2026-03-09 19:45:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Una sposa e il suo servizio di catering sono accusati di aver drogato gli invitati al matrimonio e una donna entra nella tana dei leoni dello zoo del Bronx."
+    },
+    {
+      "show_name": "Sei in arresto!",
+      "show_logo": "https://guidatv.sky.it/uuid/0ad8954e-ec6b-3940-9f9d-ac9995a107aa/cover?territory=IT&md5ChecksumParam=15eb5b73e62aabf3d3f62caf140348ad",
+      "start_time": "2026-03-09 19:45:00",
+      "end_time": "2026-03-09 21:05:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Due anziani vengono arrestati per invasione di proprieta' privata mentre catturano gatti randagi."
+    },
+    {
+      "show_name": "Delitti a circuito chiuso",
+      "show_logo": "https://guidatv.sky.it/uuid/11a28bf9-e778-4103-a90d-9195ab2597b7/COVER_TITLE_TALL?territory=IT&version=8c231ea0-299e-3916-b571-3d8eaf590d9c&w=600&h=800&md5ChecksumParam=56664072af8aaf18ed302a8bfad863d9",
+      "start_time": "2026-03-09 21:05:00",
+      "end_time": "2026-03-09 22:00:00",
+      "episode_number": "S9 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nel 2016, Craig Rideout, padre di sette figli, scompare dopo un tentativo di furto in casa, a Rochester, New York. Dopo il ritrovamento di un cadavere sfigurato, viene a galla qualcosa di sinistro che devasta la famiglia."
+    },
+    {
+      "show_name": "Delitti",
+      "show_logo": "https://guidatv.sky.it/uuid/54639124-6fe6-4bf7-b83c-ab48ad585414/cover?territory=IT&md5ChecksumParam=e6529b477df74fd494c2c81b469c7564",
+      "start_time": "2026-03-09 22:00:00",
+      "end_time": "2026-03-09 23:00:00",
+      "episode_number": "S6 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Melania Rea scompare nei boschi vicino ad Ascoli Piceno. 2 giorni dopo viene ritrovato il suo cadavere. Le indagini fanno emergere un delitto passionale."
+    },
+    {
+      "show_name": "Delitti",
+      "show_logo": "https://guidatv.sky.it/uuid/10506d84-77e0-4b66-9e99-a3724a9c9763/cover?territory=IT&md5ChecksumParam=e6529b477df74fd494c2c81b469c7564",
+      "start_time": "2026-03-09 23:00:00",
+      "end_time": "2026-03-10 00:00:00",
+      "episode_number": "S6 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "4 persone vengono massacrate e uccise a colpi di coltello senza alcune pieta', tra le vittime un bambino di appena due anni."
     }
   ]
 }
