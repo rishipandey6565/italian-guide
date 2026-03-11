@@ -1,240 +1,285 @@
 {
   "channel_name": "cielo",
-  "date": "2026-03-11",
+  "date": "2026-03-12",
   "programs": [
     {
-      "show_name": "Sky Sport 24 Night",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/sky-sport-24-night.webp",
-      "start_time": "2026-03-11 00:00:00",
-      "end_time": "2026-03-11 00:45:00",
-      "episode_number": "",
-      "show_category": "Informazione",
-      "show_description": "Dalla redazione di Sky Sport tutte le ultime notizie di giornata. Le immagini più belle e il commento dei nostri ospiti e inviati sui principali eventi sportivi."
+      "show_name": "Tv8 Champions Night - 11/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/435213c5-b09b-42f5-b524-dd7e5a58bc3a/cover?territory=IT&md5ChecksumParam=18dad5f365df42a7c29c521a9e315096",
+      "start_time": "2026-03-12 00:00:00",
+      "end_time": "2026-03-12 00:15:00",
+      "episode_number": "S2025 E22",
+      "show_category": "Sport",
+      "show_description": "Tv8 Champions Night."
     },
     {
-      "show_name": "Beyond the Law - L'infiltrato",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/beyond-the-law-l-infiltrato.webp",
-      "start_time": "2026-03-11 00:45:00",
-      "end_time": "2026-03-11 02:40:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Un uomo dal passato criminale cerca giustizia in una città corrotta. Armato, pericoloso e senza nulla da perdere, deve affrontare la spietata mafia locale nella sua missione di vendetta."
-    },
-    {
-      "show_name": "A Good Man",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/a-good-man.webp",
-      "start_time": "2026-03-11 02:40:00",
-      "end_time": "2026-03-11 04:40:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Inedito action con l'intramontabile Steven Seagal. Profondamente segnato dalla guerra in Iraq, Alexander lascia la divisa e si costruisce una nuova vita in Romania. Il coinvolgimento di un amico nei loschi affari della mafia cinese lo costringera' a riprendere in mano le armi."
-    },
-    {
-      "show_name": "Affari di famiglia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/affari-di-famiglia.webp",
-      "start_time": "2026-03-11 04:40:00",
-      "end_time": "2026-03-11 05:10:00",
-      "episode_number": "S6 E13",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Chumlee e Olivia si occupano di un paio di occhiali d'oro. Riusciranno a fare un buon affare o non saranno disposti a scendere a compromessi?"
-    },
-    {
-      "show_name": "Top 20 Countdown",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/top-20-countdown.webp",
-      "start_time": "2026-03-11 05:10:00",
-      "end_time": "2026-03-11 06:00:00",
-      "episode_number": "S4 E13",
+      "show_name": "Tv8 Gialappa's Night",
+      "show_logo": "https://guidatv.sky.it/uuid/f31a361b-06ad-4740-85c9-352d72023107/cover?territory=IT&md5ChecksumParam=3aa1e897114081ba71ab3e568204b83c",
+      "start_time": "2026-03-12 00:15:00",
+      "end_time": "2026-03-12 00:45:00",
+      "episode_number": "S2 E9",
       "show_category": "Intrattenimento",
-      "show_description": "Ep13 - Le nuove classifiche delle clip piu' straordinarie mai viste in televisione. Incidenti, salvataggi, esplosioni, situazioni incredibili e tanta adrenalina."
+      "show_description": "Marco e Giorgio tornano a parlare di calcio con la loro consueta irriverenza e goliardia. Gli interventi comici degli ospiti contribuiscono a mantenere sempre alto il livello di divertimento."
+    },
+    {
+      "show_name": "Gomorra - La serie",
+      "show_logo": "https://guidatv.sky.it/uuid/15197698-c1a1-42c1-8bad-9f0ef6d7f534/cover?territory=IT&md5ChecksumParam=53d56a538887168cb064564ffb277595",
+      "start_time": "2026-03-12 00:45:00",
+      "end_time": "2026-03-12 01:35:00",
+      "episode_number": "S5 E1",
+      "show_category": "Intrattenimento",
+      "show_description": "Mentre Napoli e' ormai ridotta in macerie, la guerra tra Genny e i fratelli Levante procede sempre piu' sanguinosa. Ma Genny sta per scoprire qualcosa che cambiera' tutti gli equilibri."
+    },
+    {
+      "show_name": "Gomorra - La serie",
+      "show_logo": "https://guidatv.sky.it/uuid/bb2c7830-4ec5-4ec6-97e0-6798e2b99163/cover?territory=IT&md5ChecksumParam=53d56a538887168cb064564ffb277595",
+      "start_time": "2026-03-12 01:35:00",
+      "end_time": "2026-03-12 02:25:00",
+      "episode_number": "S5 E2",
+      "show_category": "Intrattenimento",
+      "show_description": "A Riga, Genny e Ciro sono di nuovo faccia a faccia, ma non c'e' tempo per parlare. Ciro e' in affari con i russi e ora che don Aniello e' morto serve un nuovo broker o gli accordi salteranno."
+    },
+    {
+      "show_name": "Gomorra - La serie",
+      "show_logo": "https://guidatv.sky.it/uuid/4941dd58-fc73-45e3-a8f8-fa883ed531fc/cover?territory=IT&md5ChecksumParam=53d56a538887168cb064564ffb277595",
+      "start_time": "2026-03-12 02:25:00",
+      "end_time": "2026-03-12 03:15:00",
+      "episode_number": "S5 E3",
+      "show_category": "Intrattenimento",
+      "show_description": "Mentre Ruggieri continua ad indagare su Genny, a Secondigliano i Levante non sono piu' ben visti. Genny cerca di riprendersi il quartiere, ma per riuscirci gli serve un carico di cocaina."
+    },
+    {
+      "show_name": "Colonia",
+      "show_logo": "https://guidatv.sky.it/uuid/76c3b93d-e3ca-46c5-919e-0d3aaab34b66/cover?territory=IT&md5ChecksumParam=3de6051d4e550e4bfe7bae5168d12496",
+      "start_time": "2026-03-12 03:15:00",
+      "end_time": "2026-03-12 05:15:00",
+      "episode_number": "",
+      "show_category": "Film",
+      "show_description": "Emma Watson e Daniel Bruhl in una drammatica storia vera. Cile, 1973: durante il golpe di Pinochet, un fotografo tedesco viene rapito dalla polizia e condotto in una zona segreta."
+    },
+    {
+      "show_name": "Steve Austin - Sfida implacabile",
+      "show_logo": "https://guidatv.sky.it/uuid/f6d58e4c-9d28-450a-8fe4-bd8f4d3c3b46/cover?territory=IT&md5ChecksumParam=fa009e2f85675803b3e16cc36d72afd9",
+      "start_time": "2026-03-12 05:15:00",
+      "end_time": "2026-03-12 06:00:00",
+      "episode_number": "S5 E8",
+      "show_category": "Intrattenimento",
+      "show_description": "Un gruppo di diversi concorrenti, formato da uomini e donne, si cimenta in difficili sfide fisiche. Presenta Steve Austin."
     },
     {
       "show_name": "TG24 Pagine",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/tg24-pagine.webp",
-      "start_time": "2026-03-11 06:00:00",
-      "end_time": "2026-03-11 06:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/2cf17e23-fc9b-497b-ba0f-46cdca4aaa5c/COVER_TITLE_TALL?territory=IT&version=eb117ca3-4fd5-3df6-85c6-817f394f3675&w=600&h=800&md5ChecksumParam=41dceeabb68adcd313c53b111e7f3641",
+      "start_time": "2026-03-12 06:00:00",
+      "end_time": "2026-03-12 06:30:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "I quotidiani italiani e stranieri, i siti e i social nella rassegna di Sky TG24. Disponibile anche sul sito e su tutte le piattaforme."
     },
     {
       "show_name": "TG24 Preview",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/tg24-preview.webp",
-      "start_time": "2026-03-11 06:30:00",
-      "end_time": "2026-03-11 06:35:00",
+      "show_logo": "https://guidatv.sky.it/uuid/1435d750-95d0-4ad2-86df-5a12a9145183/cover?territory=IT&md5ChecksumParam=60135fff73841a9bcab0a571ff4e9537",
+      "start_time": "2026-03-12 06:30:00",
+      "end_time": "2026-03-12 06:35:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "TG24 Preview."
     },
     {
       "show_name": "TG24 Buongiorno",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/tg24-buongiorno.webp",
-      "start_time": "2026-03-11 06:35:00",
-      "end_time": "2026-03-11 07:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/9faed0fb-3233-4d57-9922-4d9ba43eaed4/cover?territory=IT&md5ChecksumParam=07b49eb421fd548d80f5f026a728e4cf",
+      "start_time": "2026-03-12 06:35:00",
+      "end_time": "2026-03-12 07:00:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Le notizie in primo piano, dall'Italia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live."
     },
     {
       "show_name": "Affari di famiglia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/affari-di-famiglia.webp",
-      "start_time": "2026-03-11 07:00:00",
-      "end_time": "2026-03-11 07:30:00",
-      "episode_number": "S3 E15",
+      "show_logo": "https://guidatv.sky.it/uuid/626f06ef-9833-4f9f-ae45-47be048c19ee/cover?territory=IT&md5ChecksumParam=b309f59ce9cf917c7454e6f537221053",
+      "start_time": "2026-03-12 07:00:00",
+      "end_time": "2026-03-12 07:30:00",
+      "episode_number": "S8 E42",
       "show_category": "Mondo e Tendenze",
-      "show_description": "Il nuovo obiettivo dei proprietari del negozio e' l'acquisto di un cappello, presumibilmente indossato dai una leggenda dei film western: John Wayne."
+      "show_description": "Corey e Chumlee analizzano una rara copia di un fumetto di Spider-Man. Intanto, Chumlee vuole una promozione, ma prima deve superare un test."
     },
     {
       "show_name": "Fratelli in affari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/fratelli-in-affari.webp",
-      "start_time": "2026-03-11 07:30:00",
-      "end_time": "2026-03-11 08:30:00",
-      "episode_number": "S7 E11",
+      "show_logo": "https://guidatv.sky.it/uuid/324e541a-5e70-4f66-bf26-a10761ecece2/cover?territory=IT&md5ChecksumParam=118a5ab458b4c872f64f13e18d409ecf",
+      "start_time": "2026-03-12 07:30:00",
+      "end_time": "2026-03-12 08:30:00",
+      "episode_number": "S7 E15",
       "show_category": "Intrattenimento",
-      "show_description": "Ep23 di 26 Kat e Ryan -Kat e Ryan sono pronti a lasciare la loro piccola casa per trovarne una piu' spaziosa. Drew li conduce subito in una proprieta' signorile."
+      "show_description": "Ep26 di 26 Brian e Angie -Dopo nove traslochi in quindici anni, Brian, Angie e i loro figli si sono recentemente stabiliti a Nashville; ma per la famiglia e' ora di trasferirsi di nuovo."
     },
     {
-      "show_name": "Fratelli in affari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/fratelli-in-affari.webp",
-      "start_time": "2026-03-11 08:30:00",
-      "end_time": "2026-03-11 09:30:00",
-      "episode_number": "S7 E12",
+      "show_name": "Fratelli in affari: Una casa e' per...",
+      "show_logo": "https://guidatv.sky.it/uuid/52be8254-b174-499d-8bc0-f9274893973d/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
+      "start_time": "2026-03-12 08:30:00",
+      "end_time": "2026-03-12 09:30:00",
+      "episode_number": "S3 E1",
       "show_category": "Intrattenimento",
-      "show_description": "Ep24 di 26 Carrie e Raza -Dopo essersi incontrati online, Carrie e Raza hanno fatto il grande passo e ora sono pronti ad affrontare la loro prima ristrutturazione insieme."
+      "show_description": "Il primo incontro tra Marlon e Katrina e' avvenuto nella casa dei genitori di Marlon. Ora, dopo 20 anni, stanno per trasferirsi proprio in quell'abitazione."
     },
     {
       "show_name": "Sky TG24 in pillole",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/sky-tg24-in-pillole.webp",
-      "start_time": "2026-03-11 09:30:00",
-      "end_time": "2026-03-11 09:35:00",
+      "show_logo": "https://guidatv.sky.it/uuid/ed268d65-0636-4a0f-bf0a-c4e892e15446/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+      "start_time": "2026-03-12 09:30:00",
+      "end_time": "2026-03-12 09:35:00",
       "episode_number": "",
       "show_category": "Informazione",
       "show_description": "Il telegiornale con le notizie piu' importanti del giorno."
     },
     {
-      "show_name": "Fratelli in affari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/fratelli-in-affari.webp",
-      "start_time": "2026-03-11 09:35:00",
-      "end_time": "2026-03-11 10:35:00",
-      "episode_number": "S7 E13",
+      "show_name": "Fratelli in affari: Una casa e' per...",
+      "show_logo": "https://guidatv.sky.it/uuid/9582a5f4-37c6-46b1-a482-f477bd83333c/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
+      "start_time": "2026-03-12 09:35:00",
+      "end_time": "2026-03-12 10:35:00",
+      "episode_number": "S3 E2",
       "show_category": "Intrattenimento",
-      "show_description": "Ep25 di 26 Carol e John -Dopo tre anni di frequentazione, Carol e John sono pronti a vivere insieme. La coppia ha messo gli occhi su una famosa localita' appena fuori Nashville."
+      "show_description": "Monica e Adrian hanno ereditato la casa di una zia di Monica, ma la struttura e' un po' vecchia e i due si rivolgono a Drew e Jonathan per fare delle modifiche."
     },
     {
       "show_name": "Friends",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/friends.webp",
-      "start_time": "2026-03-11 10:35:00",
-      "end_time": "2026-03-11 11:05:00",
-      "episode_number": "S3 E7",
-      "show_category": "Intrattenimento",
-      "show_description": "Monica va dall'ex marito di Janice per comprare un letto nuovo. Purtroppo le consegnano quello sbagliato, e lei torna con Joey per protestare."
-    },
-    {
-      "show_name": "Friends",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/friends.webp",
-      "start_time": "2026-03-11 11:05:00",
-      "end_time": "2026-03-11 11:35:00",
-      "episode_number": "S3 E8",
-      "show_category": "Intrattenimento",
-      "show_description": "Joey dice a Chandler di aver visto Janice mentre baciava il suo ex marito. Phoebe, nel frattempo, non vuole andare dal dentista."
-    },
-    {
-      "show_name": "Friends",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/friends.webp",
-      "start_time": "2026-03-11 11:35:00",
-      "end_time": "2026-03-11 12:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/59cd99c4-361b-4d08-b874-64fd978d7503/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
+      "start_time": "2026-03-12 10:35:00",
+      "end_time": "2026-03-12 11:05:00",
       "episode_number": "S3 E9",
       "show_category": "Intrattenimento",
       "show_description": "I ragazzi organizzano una partita di football. In palio c'e' la Coppa Geller, che Monica e Ross si giocavano da ragazzi. Ma nessuno vuole Rachel in squadra."
     },
     {
       "show_name": "Friends",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/friends.webp",
-      "start_time": "2026-03-11 12:05:00",
-      "end_time": "2026-03-11 12:35:00",
+      "show_logo": "https://guidatv.sky.it/uuid/e2488102-f40d-4ab5-8829-4f200ce50810/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
+      "start_time": "2026-03-12 11:05:00",
+      "end_time": "2026-03-12 11:35:00",
       "episode_number": "S3 E10",
       "show_category": "Intrattenimento",
       "show_description": "Ross causa la frattura di una gamba a una bimba scout. Per rimediare vende dolci al suo posto e le fa vincere il premio nella gara a chi ne vende di piu'."
     },
     {
-      "show_name": "MasterChef Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/masterchef-italia.webp",
-      "start_time": "2026-03-11 12:35:00",
-      "end_time": "2026-03-11 13:55:00",
-      "episode_number": "S5 E17",
+      "show_name": "Friends",
+      "show_logo": "https://guidatv.sky.it/uuid/aecf51e7-a5d7-4259-bcb6-ed55c20971a8/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
+      "start_time": "2026-03-12 11:35:00",
+      "end_time": "2026-03-12 12:05:00",
+      "episode_number": "S3 E11",
       "show_category": "Intrattenimento",
-      "show_description": "I concorrenti dovranno dimostrare ai giudici Bruno Barbieri, Joe Bastianich, Carlo Cracco e Antonino Cannavacciuolo di saper cucinare col cuore. La Mystery Box contiene un messaggio, e una richiesta, da qualcuno molto caro agli aspiranti chef. Chi non riuscira' a preparare il piatto in 60 minuti, affrontera' un difficile Invention Test."
+      "show_description": "L'inquilino che abita sopra a Monica e Rachel e' molto rumoroso, ma e' anche molto carino e nessuno osa rimproverarlo. Alla fine ci prova Phoebe."
+    },
+    {
+      "show_name": "Friends",
+      "show_logo": "https://guidatv.sky.it/uuid/6507efcf-f7ba-4e32-826a-9ddcae85d945/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
+      "start_time": "2026-03-12 12:05:00",
+      "end_time": "2026-03-12 12:35:00",
+      "episode_number": "S3 E12",
+      "show_category": "Intrattenimento",
+      "show_description": "Rachel ha un nuovo collega, ma Ross e' geloso. Intanto Monica s'innamora di un tale che scrive poesie e Joey si prepara per un nuovo provino."
     },
     {
       "show_name": "MasterChef Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/masterchef-italia.webp",
-      "start_time": "2026-03-11 13:55:00",
-      "end_time": "2026-03-11 15:15:00",
-      "episode_number": "S13 E1",
+      "show_logo": "https://guidatv.sky.it/uuid/d20b680d-1923-4081-a1e5-23192c1e8ed3/cover?territory=IT&md5ChecksumParam=1f7cc2b6344a2b5877f4d306ff50a877",
+      "start_time": "2026-03-12 12:35:00",
+      "end_time": "2026-03-12 13:55:00",
+      "episode_number": "S5 E18",
       "show_category": "Intrattenimento",
-      "show_description": "I tre giudici Antonino Cannavacciuolo, Bruno Barbieri e Giorgio Locatelli sono pronti a scovare chi sara' il 13esimo MasterChef italiano. Nei Live Cooking la tensione e' alta."
+      "show_description": "L'Isola della Giudecca e Venezia fanno da teatro alla prova in esterna. Gli aspiranti chef dovranno preparare una romantica cena per 9 coppie in luna di miele e dovranno servire la cena sulla spettacolare terrazza del Molino Stucky. Solo la brigata migliore si salvera' da un difficile Pressure Test in quattro round."
     },
     {
       "show_name": "MasterChef Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/masterchef-italia.webp",
-      "start_time": "2026-03-11 15:15:00",
-      "end_time": "2026-03-11 16:40:00",
+      "show_logo": "https://guidatv.sky.it/uuid/2a2189c1-66ec-4e2d-9a8e-4f425a83f212/COVER_TITLE_TALL?territory=IT&version=ef53ea70-c80f-358c-95c5-b5861559df01&w=600&h=800&md5ChecksumParam=0354e77140f07dbf0da33d96d1f8472d",
+      "start_time": "2026-03-12 13:55:00",
+      "end_time": "2026-03-12 15:15:00",
       "episode_number": "S13 E2",
       "show_category": "Intrattenimento",
       "show_description": "La strada per trovare i 20 componenti della Masterclass e' lunga e spesso impervia. I Live Cooking continuano tra lacrime, ricette e sorrisi: chi riuscira' a convincere i nostri chef?"
     },
     {
-      "show_name": "Cucine da incubo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/cucine-da-incubo.webp",
-      "start_time": "2026-03-11 16:40:00",
-      "end_time": "2026-03-11 17:55:00",
-      "episode_number": "S8 E5",
+      "show_name": "MasterChef Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/3d36d5b5-33b0-47a6-90e3-2a6402da1be6/cover?territory=IT&md5ChecksumParam=116881f9da1d544a332b41ff07677565",
+      "start_time": "2026-03-12 15:15:00",
+      "end_time": "2026-03-12 16:40:00",
+      "episode_number": "S13 E3",
       "show_category": "Intrattenimento",
-      "show_description": "Calabria - A Roseto Capo Spulico si trova un locale che vanta piu' di 40 anni di storia. Il fondatore, Mario, ha lasciato tutto in mano ai figli ma le cose non vanno bene."
+      "show_description": "I Live Cooking per scegliere chi degli aspiranti chef potrà accedere alla MasterClass proseguono, in un crescendo di piatti, emozioni, storie e ricette. Chi riuscirà a gestire lo stress?"
+    },
+    {
+      "show_name": "Cucine da incubo",
+      "show_logo": "https://guidatv.sky.it/uuid/6bbb79a2-2de4-4f75-900a-a67e5d29985a/cover?territory=IT&md5ChecksumParam=ba190e29a0d73ba354d5db486cdbb5dc",
+      "start_time": "2026-03-12 16:40:00",
+      "end_time": "2026-03-12 17:55:00",
+      "episode_number": "S8 E6",
+      "show_category": "Intrattenimento",
+      "show_description": "Roma - Antonino Cannavacciuolo e' a Roma per risollevare le sorti del ristorante 'Ai tre scalini', nella borgata di Torre Maura. Al suo arrivo, lo chef trova un clima teso."
     },
     {
       "show_name": "Celebrity Chef - Anteprima",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/celebrity-chef-anteprima.webp",
-      "start_time": "2026-03-11 17:55:00",
-      "end_time": "2026-03-11 18:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/32e75e53-e8b9-4985-a5c1-beac1d12b813/cover?territory=IT&md5ChecksumParam=d0cb4776b440f2d11426d2bc10451813",
+      "start_time": "2026-03-12 17:55:00",
+      "end_time": "2026-03-12 18:00:00",
       "episode_number": "S3 E10",
       "show_category": "Intrattenimento",
       "show_description": "Alessandro Borghese apre le porte dei suoi ristoranti, milanese e veneziano, a due celebrities che con l’aiuto della brigata si sfideranno ai fornelli."
     },
     {
-      "show_name": "Alessandro Borghese: Celebrity Chef",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/alessandro-borghese-celebrity-chef.webp",
-      "start_time": "2026-03-11 18:00:00",
-      "end_time": "2026-03-11 19:00:00",
-      "episode_number": "S4 E15",
+      "show_name": "Alessandro Borghese - Celebrity Chef",
+      "show_logo": "https://guidatv.sky.it/uuid/a58e60c8-4f30-4dbe-97fb-edb47197f4c5/COVER_TITLE_TALL?territory=IT&version=7cfa2e96-0e80-356f-8e13-4dc28c94244c&w=600&h=800&md5ChecksumParam=8bfec06b593013f345ce7eaa80f419f8",
+      "start_time": "2026-03-12 18:00:00",
+      "end_time": "2026-03-12 19:05:00",
+      "episode_number": "S4 E16",
       "show_category": "Intrattenimento",
-      "show_description": "Alessandro Borghese apre le porte del suo ristorante milanese a Nathalie Guetta e Vito Bucci, che con l'aiuto della brigata si sfideranno ai fornelli."
+      "show_description": "Alessandro Borghese oggi apre le porte del suo ristorante milanese a Valeria Marini e Francesco Paolantoni che con l’aiuto della brigata si sfideranno ai fornelli."
     },
     {
       "show_name": "Cucine da incubo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/cucine-da-incubo.webp",
-      "start_time": "2026-03-11 19:00:00",
-      "end_time": "2026-03-11 21:20:00",
-      "episode_number": "S8 E3",
+      "show_logo": "https://guidatv.sky.it/uuid/fe2dea4d-c0cf-4eb6-9313-f44bc938e8ea/cover?territory=IT&md5ChecksumParam=ba190e29a0d73ba354d5db486cdbb5dc",
+      "start_time": "2026-03-12 19:05:00",
+      "end_time": "2026-03-12 20:20:00",
+      "episode_number": "S8 E2",
       "show_category": "Intrattenimento",
-      "show_description": "Viterbo - Antonino Cannavacciuolo e' all'Onassis Village, gestito da Doriano e la sua compagna Monica. Le troppe idee del proprietario mettono in crisi lo staff."
+      "show_description": "Puglia - Antonino Cannavacciuolo e' a Parabita, in Salento, alla Tana degli Elfi. I servizi sono approssimativi e i piatti proposti sono tutt'altro che invitanti."
     },
     {
-      "show_name": "Attrition",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/attrition.webp",
-      "start_time": "2026-03-11 21:20:00",
-      "end_time": "2026-03-11 23:15:00",
+      "show_name": "Friends",
+      "show_logo": "https://guidatv.sky.it/uuid/6d051d95-01f1-4516-a92f-33e37866d2d1/cover?territory=IT&md5ChecksumParam=299943e85a9a0695a53bda4da201e4d1",
+      "start_time": "2026-03-12 20:20:00",
+      "end_time": "2026-03-12 20:50:00",
+      "episode_number": "S4 E14",
+      "show_category": "Intrattenimento",
+      "show_description": "Dopo tre giorni di pesca con suo padre, Joey non ha il tempo di farsi una doccia e va direttamente sul set del nuovo film con Charlton Heston, ma è alla disperata ricerca di un posto dove lavarsi."
+    },
+    {
+      "show_name": "Friends",
+      "show_logo": "https://guidatv.sky.it/uuid/c6cff762-8c67-4842-a2d9-cfa4fea9d80f/cover?territory=IT&md5ChecksumParam=299943e85a9a0695a53bda4da201e4d1",
+      "start_time": "2026-03-12 20:50:00",
+      "end_time": "2026-03-12 21:20:00",
+      "episode_number": "S4 E15",
+      "show_category": "Intrattenimento",
+      "show_description": "Chandler incontra Janice per caso e i due ricominciano a uscire insieme. Per impressionare Emily, Ross vuole a tutti i costi giocare a rugby con i suoi amici inglesi."
+    },
+    {
+      "show_name": "Rogue - Il solitario",
+      "show_logo": "https://guidatv.sky.it/uuid/d31aa2b4-cb41-4dc5-81e3-33fcff23fc85/COVER_TITLE_TALL?territory=IT&version=0dc20d08-32ba-396c-8c8b-ac3cacb9bed1&w=600&h=800&md5ChecksumParam=b67e2652ab00155c26ce739d201864e9",
+      "start_time": "2026-03-12 21:20:00",
+      "end_time": "2026-03-12 23:25:00",
       "episode_number": "",
       "show_category": "Film",
-      "show_description": "Steven Seagal in un action ambientato in Thailandia. Una ragazza dotata di poteri speciali viene rapita. Un ex soldato esperto di arti marziali riceve l'incarico di ritrovarla."
+      "show_description": "Jack è un agente dell'FBI che, sconvolto dalla morte di un collega e amico, si attiva per ottenere una vendetta personale nei confronti dell'esecutore dell'omicidio, Rogue."
     },
     {
-      "show_name": "Tv8 Champions Night - 11/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/cielo/tomorrow/tv8-champions-night-11-03-2026.webp",
-      "start_time": "2026-03-11 23:15:00",
-      "end_time": "2026-03-12 00:15:00",
-      "episode_number": "S2025 E22",
-      "show_category": "Sport",
-      "show_description": "Tv8 Champions Night."
+      "show_name": "Anteprima Sky Sport 24 Night",
+      "show_logo": "https://guidatv.sky.it/uuid/fe1326e1-6ed6-41ca-9624-551c2115088c/cover?territory=IT&md5ChecksumParam=d682349880063307a935af93d99351f9",
+      "start_time": "2026-03-12 23:25:00",
+      "end_time": "2026-03-12 23:30:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Anteprima Sky Sport 24 Night."
+    },
+    {
+      "show_name": "Sky Sport 24 Night",
+      "show_logo": "https://guidatv.sky.it/uuid/b0cec132-d1f8-4bc8-8909-00097013ab27/cover?territory=IT&md5ChecksumParam=d462a5ebe9e4bfb5aa020574205177b9",
+      "start_time": "2026-03-12 23:30:00",
+      "end_time": "2026-03-13 00:15:00",
+      "episode_number": "",
+      "show_category": "Informazione",
+      "show_description": "Dalla redazione di Sky Sport tutte le ultime notizie di giornata. Le immagini più belle e il commento dei nostri ospiti e inviati sui principali eventi sportivi."
     }
   ]
 }

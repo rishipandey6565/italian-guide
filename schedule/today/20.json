@@ -1,258 +1,249 @@
 {
   "channel_name": "20",
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "programs": [
     {
-      "show_name": "Taken La Vendetta",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/20/today/taken-la-vendetta.webp",
-      "start_time": "2026-03-10 00:00:00",
-      "end_time": "2026-03-10 01:37:00",
-      "episode_number": "",
-      "show_category": "Azione",
-      "show_description": "Per Bryan Mills, ex uomo della CIA, quella che doveva essere una rilassante vacanza a Istanbul in compagnia della moglie e della figlia, si trasforma in una lotta per salvare la propria famiglia. Infatti alcuni criminali vogliono vendetta per il sangue sparso da Mills in passato. Rapiscono la moglie Lenore e anche la figlia è in pericolo di vita. Tra inseguimenti, scontri e spargimento di sangue, la furia di Mills non terminerà fino a quando non riavrà le sue donne. Sequel di \"Io vi troverò\"."
-    },
-    {
-      "show_name": "Roswell, New Mexico",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 01:37:00",
-      "end_time": "2026-03-10 02:17:00",
-      "episode_number": "S4 E12",
-      "show_category": "Drammatico",
-      "show_description": "Mentre Liz fa i conti con gli effetti collaterali del composto inalato, Max e Isobel si gettano nella dimensione tascabile per soccorrere Dallas, Bonnie, Michael e Alex."
-    },
-    {
-      "show_name": "Roswell, New Mexico",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 02:17:00",
-      "end_time": "2026-03-10 02:58:00",
-      "episode_number": "S4 E13",
-      "show_category": "Drammatico",
-      "show_description": "Max e Isobel cercano di battere Clyde, ma questi e' troppo forte e porta via Rosa. Liz e Kyle modificano il composto alieno per ripristinare il tatuaggio di Clyde."
-    },
-    {
-      "show_name": "Show Reel",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 02:58:00",
-      "end_time": "2026-03-10 03:08:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Show reel '26."
-    },
-    {
-      "show_name": "Person Of Interest",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 03:08:00",
-      "end_time": "2026-03-10 03:49:00",
-      "episode_number": "S4 E19",
-      "show_category": "",
-      "show_description": "Il nuovo numero e' Sulaiman Khan, creatore del software antivirus piu' utilizzato al mondo. Samaritan si e' impossessato di questo software."
-    },
-    {
-      "show_name": "Person Of Interest",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 03:49:00",
-      "end_time": "2026-03-10 04:31:00",
-      "episode_number": "S4 E20",
-      "show_category": "",
-      "show_description": "Reese vuole occuparsi del nuovo numero da solo in quanto riguarda un vecchio caso irrisolto a cui si dedico' Carter."
-    },
-    {
-      "show_name": "R.i.s. 5 Delitti Imperfetti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/20/today/r-i-s-5-delitti-imperfetti.webp",
-      "start_time": "2026-03-10 04:31:00",
-      "end_time": "2026-03-10 05:19:00",
-      "episode_number": "S5 E10",
-      "show_category": "Poliziesco",
-      "show_description": "I RIS si occupano di un omicidio avvenuto durante una gara di equitazione. Intanto Flavia compie la sua operazione da infiltrata nella setta; non tutto va come previsto, ma i carabinieri riescono finalmente ad arrestare Adorni, uno dei più pericolosi assassini della setta."
-    },
-    {
-      "show_name": "Roswell, New Mexico",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 05:19:00",
-      "end_time": "2026-03-10 06:00:00",
-      "episode_number": "S4 E12",
-      "show_category": "Drammatico",
-      "show_description": "Mentre Liz fa i conti con gli effetti collaterali del composto inalato, Max e Isobel si gettano nella dimensione tascabile per soccorrere Dallas, Bonnie, Michael e Alex."
-    },
-    {
-      "show_name": "Show Reel",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 06:00:00",
-      "end_time": "2026-03-10 06:27:00",
-      "episode_number": "",
-      "show_category": "",
-      "show_description": "Show reel '26."
-    },
-    {
-      "show_name": "All American",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 06:27:00",
-      "end_time": "2026-03-10 07:07:00",
-      "episode_number": "S4 E13",
-      "show_category": "Drammatico",
-      "show_description": "I titolari della squadra chiedono a Jordan e agli altri inquilini della casa di fare una festa: e' il dazio da pagare per le matricole."
-    },
-    {
-      "show_name": "All American",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 07:07:00",
-      "end_time": "2026-03-10 07:48:00",
-      "episode_number": "S4 E14",
-      "show_category": "Drammatico",
-      "show_description": "Spencer fa la conoscenza di Davita, una calciatrice che cerca di convincerlo a entrare nel mondo delle sponsorizzazioni e del marketing."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/20/today/new-amsterdam.webp",
-      "start_time": "2026-03-10 07:48:00",
-      "end_time": "2026-03-10 08:39:00",
-      "episode_number": "S2 E8",
-      "show_category": "Drammatico",
-      "show_description": "Una paziente oncologica della dottoressa Sharpe, per sopportare i dolori, fugge dall'ospedale e si inietta eroina in un vecchio hotel abbandonato."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/20/today/new-amsterdam.webp",
-      "start_time": "2026-03-10 08:39:00",
-      "end_time": "2026-03-10 09:39:00",
-      "episode_number": "S2 E9",
-      "show_category": "Drammatico",
-      "show_description": "Mentre Bloom affronta una dolorosa fase postoperatoria, Max, dopo l'ennesima detenuta di Rikers ricoverata d'urgenza per un'infezione, riunisce un'equipe ed entra nel carcere, per eseguire controlli di routine su tutta la popolazione femminile."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 09:39:00",
-      "end_time": "2026-03-10 10:08:00",
-      "episode_number": "S9 E15",
-      "show_category": "Commedia",
-      "show_description": "Convinto che il suo destino sia insieme a Claire, Raj lascia Emily due giorni prima di San Valentino, ma andra' incontro ad una cocente delusione."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 10:08:00",
-      "end_time": "2026-03-10 10:33:00",
-      "episode_number": "S9 E16",
-      "show_category": "Commedia",
-      "show_description": "Howard apprende che diventera' padre e almeno all'inizio sembra assolutamente entusiasta della notizia."
-    },
-    {
-      "show_name": "Dc's Legends Of Tomorrow",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 10:33:00",
-      "end_time": "2026-03-10 11:31:00",
-      "episode_number": "S5 E12",
-      "show_category": "",
-      "show_description": "Le Leggende si ritrovano catapultate ai tempi del college. Fondano una sorellanza con lo scopo di recuperare un antico manufatto chiamato Calice di Dioniso."
-    },
-    {
-      "show_name": "Dc's Legends Of Tomorrow",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 11:31:00",
-      "end_time": "2026-03-10 12:29:00",
-      "episode_number": "S5 E13",
-      "show_category": "",
-      "show_description": "Dopo aver bevuto dal Calice, le Leggende acquisiscono l'immortalita' per 24 ore. Dovranno raggiungere la Waverider, ora nelle mani delle sorelle di Charlie."
-    },
-    {
-      "show_name": "Chicago Fire",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 12:29:00",
-      "end_time": "2026-03-10 13:28:00",
-      "episode_number": "S12 E2",
-      "show_category": "Drammatico",
-      "show_description": "Dopo aver sfiorato la morte ed essere tornato piu' in forma di prima, Mouch si sente un uomo nuovo e decide di voler essere chiamato col suo vero nome, \"McHolland\"."
-    },
-    {
-      "show_name": "All American",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 13:28:00",
-      "end_time": "2026-03-10 14:28:00",
-      "episode_number": "S4 E13",
-      "show_category": "Drammatico",
-      "show_description": "I titolari della squadra chiedono a Jordan e agli altri inquilini della casa di fare una festa: e' il dazio da pagare per le matricole."
-    },
-    {
-      "show_name": "All American",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 14:28:00",
-      "end_time": "2026-03-10 15:20:00",
-      "episode_number": "S4 E14",
-      "show_category": "Drammatico",
-      "show_description": "Spencer fa la conoscenza di Davita, una calciatrice che cerca di convincerlo a entrare nel mondo delle sponsorizzazioni e del marketing."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/20/today/new-amsterdam.webp",
-      "start_time": "2026-03-10 15:20:00",
-      "end_time": "2026-03-10 16:19:00",
-      "episode_number": "S2 E8",
-      "show_category": "Drammatico",
-      "show_description": "Una paziente oncologica della dottoressa Sharpe, per sopportare i dolori, fugge dall'ospedale e si inietta eroina in un vecchio hotel abbandonato."
-    },
-    {
-      "show_name": "New Amsterdam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/20/today/new-amsterdam.webp",
-      "start_time": "2026-03-10 16:19:00",
-      "end_time": "2026-03-10 17:20:00",
-      "episode_number": "S2 E9",
-      "show_category": "Drammatico",
-      "show_description": "Mentre Bloom affronta una dolorosa fase postoperatoria, Max, dopo l'ennesima detenuta di Rikers ricoverata d'urgenza per un'infezione, riunisce un'equipe ed entra nel carcere, per eseguire controlli di routine su tutta la popolazione femminile."
-    },
-    {
-      "show_name": "Dc's Legends Of Tomorrow",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 17:20:00",
-      "end_time": "2026-03-10 18:18:00",
-      "episode_number": "S5 E12",
-      "show_category": "",
-      "show_description": "Le Leggende si ritrovano catapultate ai tempi del college. Fondano una sorellanza con lo scopo di recuperare un antico manufatto chiamato Calice di Dioniso."
-    },
-    {
-      "show_name": "Dc's Legends Of Tomorrow",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 18:18:00",
-      "end_time": "2026-03-10 19:14:00",
-      "episode_number": "S5 E13",
-      "show_category": "",
-      "show_description": "Dopo aver bevuto dal Calice, le Leggende acquisiscono l'immortalita' per 24 ore. Dovranno raggiungere la Waverider, ora nelle mani delle sorelle di Charlie."
-    },
-    {
-      "show_name": "Chicago Fire",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 19:14:00",
-      "end_time": "2026-03-10 20:13:00",
-      "episode_number": "S12 E2",
-      "show_category": "Drammatico",
-      "show_description": "Dopo aver sfiorato la morte ed essere tornato piu' in forma di prima, Mouch si sente un uomo nuovo e decide di voler essere chiamato col suo vero nome, \"McHolland\"."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 20:13:00",
-      "end_time": "2026-03-10 20:37:00",
-      "episode_number": "S9 E15",
-      "show_category": "Commedia",
-      "show_description": "Convinto che il suo destino sia insieme a Claire, Raj lascia Emily due giorni prima di San Valentino, ma andra' incontro ad una cocente delusione."
-    },
-    {
-      "show_name": "The Big Bang Theory",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-10 20:37:00",
-      "end_time": "2026-03-10 21:10:00",
-      "episode_number": "S9 E16",
-      "show_category": "Commedia",
-      "show_description": "Howard apprende che diventera' padre e almeno all'inizio sembra assolutamente entusiasta della notizia."
-    },
-    {
       "show_name": "13 Hours",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/20/today/13-hours.webp",
-      "start_time": "2026-03-10 21:10:00",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F307302601000102/media/24/88/a4d95e9d-0ffc-4cc1-a4cb-ea25beb54cb0/4a27a58e-de25-49cb-8bfe-89fb4ba88f7b.jpg",
+      "start_time": "2026-03-11 00:00:00",
       "end_time": "2026-03-11 00:08:00",
       "episode_number": "",
       "show_category": "Azione",
       "show_description": "Da fatti realmente accaduti. L'11 settembre del 2012 a Bengasi, l'Ambasciata americana provvisoria è attaccata da estremisti non meglio individuati. A proteggerla arrivano da una vicina sede CIA 6 soldati professionisti: in ritardo e senza sapere la lingua, il gruppetto si muoverà per le strade della cittadina per mettere in salvo l'ambasciatore. Sarà una notte lunghissima e la vita di molte persone è nelle loro mani."
+    },
+    {
+      "show_name": "Shazam!",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309243001000102/media/17/81/75672754-07f1-4461-85e4-e5cbdd1e9aa7/540ee5ea-a784-4c27-b8d0-63f55029ac60.jpg",
+      "start_time": "2026-03-11 00:08:00",
+      "end_time": "2026-03-11 02:28:00",
+      "episode_number": "",
+      "show_category": "Azione",
+      "show_description": "Il quattordicenne Billy Batson riceve da un antico mago un potere incredibile: basta gridare \"Shazam!\" per trasformarsi in un supereroe adulto con abilità straordinarie. Guidato dal migliore amico Freddy, Billy impara a usare i suoi nuovi poteri mentre il malvagio dottor Sivana cerca di impadronirsi della stessa magia. Per diventare un vero eroe, Billy dovrà capire cosa significa avere una famiglia."
+    },
+    {
+      "show_name": "Batwoman",
+      "show_logo": "",
+      "start_time": "2026-03-11 02:28:00",
+      "end_time": "2026-03-11 03:08:00",
+      "episode_number": "S2 E1",
+      "show_category": "Avventura",
+      "show_description": "Mentre gli amici e la famiglia di Kate Kane continuano a sperare di trovarla, Ryan Wilder, una senzatetto di 25 anni, trova per caso la Bat-Tuta."
+    },
+    {
+      "show_name": "Batwoman",
+      "show_logo": "",
+      "start_time": "2026-03-11 03:08:00",
+      "end_time": "2026-03-11 03:47:00",
+      "episode_number": "S2 E2",
+      "show_category": "Avventura",
+      "show_description": "Dopo la sua avventura nei panni di Batwoman, Ryan torna alla vita di sempre. Alice elabora un perverso piano per attirare l'attenzione sia di Gotham che di Safiyah."
+    },
+    {
+      "show_name": "Show Reel",
+      "show_logo": "",
+      "start_time": "2026-03-11 03:47:00",
+      "end_time": "2026-03-11 04:36:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Show reel '26."
+    },
+    {
+      "show_name": "Person Of Interest",
+      "show_logo": "",
+      "start_time": "2026-03-11 04:36:00",
+      "end_time": "2026-03-11 05:18:00",
+      "episode_number": "S4 E21",
+      "show_category": "",
+      "show_description": "Dominic riesce a catturare Elias, Reese e Fusco ma cade nella trappola tesa da Elias e uccide il suo braccio destro Link."
+    },
+    {
+      "show_name": "Person Of Interest",
+      "show_logo": "",
+      "start_time": "2026-03-11 05:18:00",
+      "end_time": "2026-03-11 06:00:00",
+      "episode_number": "S4 E22",
+      "show_category": "",
+      "show_description": "Root e Finch sono sempre alla ricerca della Macchina, e scoprono che si nasconde nei cavi della rete elettrica nazionale. Samaritan sta per sferrare l'attacco finale."
+    },
+    {
+      "show_name": "Show Reel",
+      "show_logo": "",
+      "start_time": "2026-03-11 06:00:00",
+      "end_time": "2026-03-11 06:32:00",
+      "episode_number": "",
+      "show_category": "",
+      "show_description": "Show reel '26."
+    },
+    {
+      "show_name": "All American",
+      "show_logo": "",
+      "start_time": "2026-03-11 06:32:00",
+      "end_time": "2026-03-11 07:12:00",
+      "episode_number": "S4 E15",
+      "show_category": "Drammatico",
+      "show_description": "Olivia continua ad interessarsi alle sponsorizzazioni e agli effetti negativi sui giocatori, mentre Christel la invita a scrivere su qualcos'altro."
+    },
+    {
+      "show_name": "All American",
+      "show_logo": "",
+      "start_time": "2026-03-11 07:12:00",
+      "end_time": "2026-03-11 07:53:00",
+      "episode_number": "S4 E16",
+      "show_category": "Drammatico",
+      "show_description": "Spencer deve creare un suo brand e cerca aiuto fra i suoi amici per descrivere se stesso. Dillon e' depresso perche' un insegnante ha sminuito il suo talento."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310092401001004/media/5/5/9121ba92-a341-4206-91a9-6ecd004579da/80f8ca2d-dc72-45dd-8d4f-053b844bfa82.jpg",
+      "start_time": "2026-03-11 07:53:00",
+      "end_time": "2026-03-11 08:44:00",
+      "episode_number": "S2 E10",
+      "show_category": "Drammatico",
+      "show_description": "Le detenute di Rikers riescono a eludere la sorveglianza e una di loro, Suzan, vestita da infermiera, riesce a introdursi nella sala operatoria di Reynolds per uccidere Fran, una compagna di carcere divenuta collaboratrice di giustizia. La donna non riesce nel suo intento, ma nella colluttazione che ne nasce, Reynolds si procura una ferita da taglio al fianco. Nel frattempo, è scattato il codice Silver, che impone a chiunque si trovi nell'edificio di entrare nella prima stanza disponibile e rimanervi barricato fino al cessato allarme. Gli unici a circolare liberi, per poter coadiuvare le forze dell'ordine, sono Max e Sharpe, che cadranno ostaggio di Jackie, la mente dell'operazione, la quale li costringerà a portarla in chirurgia per terminare il lavoro che Suzan ha lasciato incompiuto, ossia uccidere Fran."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310092401001104/media/5/5/9121ba92-a341-4206-91a9-6ecd004579da/80f8ca2d-dc72-45dd-8d4f-053b844bfa82.jpg",
+      "start_time": "2026-03-11 08:44:00",
+      "end_time": "2026-03-11 09:42:00",
+      "episode_number": "S2 E11",
+      "show_category": "Drammatico",
+      "show_description": "Max mette al bando tutti i dispositivi elettronici, - computer, tablet, smartphone, - durante le visite ai pazienti. La decisione viene contestata duramente dal personale medico che, mancando Max, incalza la Sharpe, nonostante lei continui a ripetere di non essere più vicedirettore sanitario. Quando Helen scopre che Max è bloccato in pediatria con Luna, prende in mano la situazione e risolve il problema come avrebbe fatto Max, ovvero con molta inventiva e poca ortodossia."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "",
+      "start_time": "2026-03-11 09:42:00",
+      "end_time": "2026-03-11 10:05:00",
+      "episode_number": "S9 E17",
+      "show_category": "Commedia",
+      "show_description": "Guest star: Stephen Hawking. Amy vuole organizzare una festa di compleanno per Sheldon, ma lui e' contrario."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "",
+      "start_time": "2026-03-11 10:05:00",
+      "end_time": "2026-03-11 10:35:00",
+      "episode_number": "S9 E18",
+      "show_category": "Commedia",
+      "show_description": "Sheldon vuole sviluppare l'idea del giroscopio a persistenza infinita."
+    },
+    {
+      "show_name": "Dc's Legends Of Tomorrow",
+      "show_logo": "",
+      "start_time": "2026-03-11 10:35:00",
+      "end_time": "2026-03-11 11:34:00",
+      "episode_number": "S5 E14",
+      "show_category": "",
+      "show_description": "Charlie, per proteggere le Leggende dalle intenzioni malvagie delle sue sorelle Parche, decide di sparpagliarle tutte in diverse serie TV."
+    },
+    {
+      "show_name": "Dc's Legends Of Tomorrow",
+      "show_logo": "",
+      "start_time": "2026-03-11 11:34:00",
+      "end_time": "2026-03-11 12:32:00",
+      "episode_number": "S5 E15",
+      "show_category": "",
+      "show_description": "Le Leggende devono chiudere i conti con le Moire. Mentre meta' squadra e' impegnata a cercare la Waverider, l'altra meta' e' alla ricerca del Telaio."
+    },
+    {
+      "show_name": "Chicago Fire",
+      "show_logo": "",
+      "start_time": "2026-03-11 12:32:00",
+      "end_time": "2026-03-11 13:32:00",
+      "episode_number": "S12 E3",
+      "show_category": "Drammatico",
+      "show_description": "Brett e Violet seguono di nascosto una donna, vittima dell'uomo a cui si accompagna; in assenza di maggiori informazioni, dovranno ricorrere all'aiuto della polizia."
+    },
+    {
+      "show_name": "All American",
+      "show_logo": "",
+      "start_time": "2026-03-11 13:32:00",
+      "end_time": "2026-03-11 14:24:00",
+      "episode_number": "S4 E15",
+      "show_category": "Drammatico",
+      "show_description": "Olivia continua ad interessarsi alle sponsorizzazioni e agli effetti negativi sui giocatori, mentre Christel la invita a scrivere su qualcos'altro."
+    },
+    {
+      "show_name": "All American",
+      "show_logo": "",
+      "start_time": "2026-03-11 14:24:00",
+      "end_time": "2026-03-11 15:28:00",
+      "episode_number": "S4 E16",
+      "show_category": "Drammatico",
+      "show_description": "Spencer deve creare un suo brand e cerca aiuto fra i suoi amici per descrivere se stesso. Dillon e' depresso perche' un insegnante ha sminuito il suo talento."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310092401001004/media/5/5/9121ba92-a341-4206-91a9-6ecd004579da/80f8ca2d-dc72-45dd-8d4f-053b844bfa82.jpg",
+      "start_time": "2026-03-11 15:28:00",
+      "end_time": "2026-03-11 16:21:00",
+      "episode_number": "S2 E10",
+      "show_category": "Drammatico",
+      "show_description": "Le detenute di Rikers riescono a eludere la sorveglianza e una di loro, Suzan, vestita da infermiera, riesce a introdursi nella sala operatoria di Reynolds per uccidere Fran, una compagna di carcere divenuta collaboratrice di giustizia. La donna non riesce nel suo intento, ma nella colluttazione che ne nasce, Reynolds si procura una ferita da taglio al fianco. Nel frattempo, è scattato il codice Silver, che impone a chiunque si trovi nell'edificio di entrare nella prima stanza disponibile e rimanervi barricato fino al cessato allarme. Gli unici a circolare liberi, per poter coadiuvare le forze dell'ordine, sono Max e Sharpe, che cadranno ostaggio di Jackie, la mente dell'operazione, la quale li costringerà a portarla in chirurgia per terminare il lavoro che Suzan ha lasciato incompiuto, ossia uccidere Fran."
+    },
+    {
+      "show_name": "New Amsterdam",
+      "show_logo": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310092401001104/media/5/5/9121ba92-a341-4206-91a9-6ecd004579da/80f8ca2d-dc72-45dd-8d4f-053b844bfa82.jpg",
+      "start_time": "2026-03-11 16:21:00",
+      "end_time": "2026-03-11 17:19:00",
+      "episode_number": "S2 E11",
+      "show_category": "Drammatico",
+      "show_description": "Max mette al bando tutti i dispositivi elettronici, - computer, tablet, smartphone, - durante le visite ai pazienti. La decisione viene contestata duramente dal personale medico che, mancando Max, incalza la Sharpe, nonostante lei continui a ripetere di non essere più vicedirettore sanitario. Quando Helen scopre che Max è bloccato in pediatria con Luna, prende in mano la situazione e risolve il problema come avrebbe fatto Max, ovvero con molta inventiva e poca ortodossia."
+    },
+    {
+      "show_name": "Dc's Legends Of Tomorrow",
+      "show_logo": "",
+      "start_time": "2026-03-11 17:19:00",
+      "end_time": "2026-03-11 18:18:00",
+      "episode_number": "S5 E14",
+      "show_category": "",
+      "show_description": "Charlie, per proteggere le Leggende dalle intenzioni malvagie delle sue sorelle Parche, decide di sparpagliarle tutte in diverse serie TV."
+    },
+    {
+      "show_name": "Dc's Legends Of Tomorrow",
+      "show_logo": "",
+      "start_time": "2026-03-11 18:18:00",
+      "end_time": "2026-03-11 19:14:00",
+      "episode_number": "S5 E15",
+      "show_category": "",
+      "show_description": "Le Leggende devono chiudere i conti con le Moire. Mentre meta' squadra e' impegnata a cercare la Waverider, l'altra meta' e' alla ricerca del Telaio."
+    },
+    {
+      "show_name": "Chicago Fire",
+      "show_logo": "",
+      "start_time": "2026-03-11 19:14:00",
+      "end_time": "2026-03-11 20:12:00",
+      "episode_number": "S12 E3",
+      "show_category": "Drammatico",
+      "show_description": "Brett e Violet seguono di nascosto una donna, vittima dell'uomo a cui si accompagna; in assenza di maggiori informazioni, dovranno ricorrere all'aiuto della polizia."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "",
+      "start_time": "2026-03-11 20:12:00",
+      "end_time": "2026-03-11 20:36:00",
+      "episode_number": "S9 E17",
+      "show_category": "Commedia",
+      "show_description": "Guest star: Stephen Hawking. Amy vuole organizzare una festa di compleanno per Sheldon, ma lui e' contrario."
+    },
+    {
+      "show_name": "The Big Bang Theory",
+      "show_logo": "",
+      "start_time": "2026-03-11 20:36:00",
+      "end_time": "2026-03-11 21:09:00",
+      "episode_number": "S9 E18",
+      "show_category": "Commedia",
+      "show_description": "Sheldon vuole sviluppare l'idea del giroscopio a persistenza infinita."
+    },
+    {
+      "show_name": "Tenet",
+      "show_logo": "",
+      "start_time": "2026-03-11 21:09:00",
+      "end_time": "2026-03-12 00:13:00",
+      "episode_number": "",
+      "show_category": "Fantascienza",
+      "show_description": "Un agente segreto, reclutato da un'organizzazione segreta chiamata Tenet, si muove al di fuori del tempo lineare per evitare la catastrofe planetaria. Regia di C. Nolan; USA 2020."
     }
   ]
 }
