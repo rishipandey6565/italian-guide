@@ -1,258 +1,78 @@
 {
   "channel_name": "ACI Sport Tv",
-  "date": "2026-03-12",
+  "date": "2026-03-13",
   "programs": [
     {
-      "show_name": "TCR EUROPE - Hockenheimring - G2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 00:00:00",
-      "end_time": "2026-03-12 00:00:48",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Round 3 - Terzo appuntamento per il TCR Europe che tre settimane dopo i fatti di Spa-Francorchamps torna in pista ad Hockenheim."
-    },
-    {
-      "show_name": "Vallelunga - Italian F4 - G2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 00:00:48",
-      "end_time": "2026-03-12 00:48:26",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "A Vallelunga va in scena il secondo ACI Racing Weekend con i protagonisti del GT Sprint, del TCR e della F4."
-    },
-    {
-      "show_name": "Premiazioni Campioni ACI 2025 Roma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 00:48:26",
-      "end_time": "2026-03-12 02:02:10",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Tra le star della cerimonia inaugurale delle premiazioni ACI: Gabriele Mini, Antonio Giovinazzi e tutti i campioni siciliani premiati dalla delegazione regionale ACI Sport."
-    },
-    {
-      "show_name": "CIRT - Foligno - Assistenza",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 02:02:10",
-      "end_time": "2026-03-12 02:34:50",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
-    },
-    {
-      "show_name": "SPECIALE E4 - AS Motorsport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 02:34:50",
-      "end_time": "2026-03-12 02:51:08",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "SPECIALE E4 - AS Motorsport."
-    },
-    {
-      "show_name": "Ruote nella Storia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 02:51:08",
-      "end_time": "2026-03-12 03:10:32",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "6 - Torna l'evento di ACI e ACI Storico con le vetture d'epoca in giro sempre in giro per l'Italia. Scopriamo gli appuntamenti di Prato, Pistoia e Biella."
-    },
-    {
-      "show_name": "E-Sport - Coppa Italia F4 - Misano",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 03:10:32",
-      "end_time": "2026-03-12 04:51:27",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "A Misano parte la Coppa Italia Esport Formula 4 IRacing 2026."
-    },
-    {
-      "show_name": "Monza - E4 - G3",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 04:51:27",
-      "end_time": "2026-03-12 06:00:35",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Ultimo ACI Racing Weekend ella stagione 2025 a Monza per decretare i titoli tricolore in palio per il Campionato Italiano GT Sprint, E4 Championship e la Formula Regional."
-    },
-    {
-      "show_name": "FIA KARTING - Rodby karting ring",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 06:00:35",
-      "end_time": "2026-03-12 08:40:50",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Quarto ed ultimo round del Campionato Europeo OK - OK Junior - Academy Senior."
-    },
-    {
-      "show_name": "Rally D'Italia la Storia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 08:40:50",
-      "end_time": "2026-03-12 08:43:20",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "1 - Rally D'Italia la Storia."
-    },
-    {
-      "show_name": "CIRT - Foligno - PS3",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 08:43:20",
-      "end_time": "2026-03-12 09:47:05",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
-    },
-    {
-      "show_name": "CIREAS -  Coppa Citta' della Pace",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 09:47:05",
-      "end_time": "2026-03-12 11:17:41",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Round 2 - La powerstage del secondo appuntamento del Campionato Italiano Regolarita' Auto Storiche."
-    },
-    {
-      "show_name": "FRECA - SPA - G1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 11:17:41",
-      "end_time": "2026-03-12 12:09:50",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Round 2 - Secondo atto della Formula Regional Championship by Alpine sul circuito belga."
-    },
-    {
-      "show_name": "Revival ACI Sport since 2012",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 12:09:50",
-      "end_time": "2026-03-12 12:45:20",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "1 - Il fascino del passato con i passaggi e le immagini di ACI Sport dal 2012 in poi."
-    },
-    {
-      "show_name": "FRECA - SPA - G2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 12:45:20",
-      "end_time": "2026-03-12 13:38:56",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Round 2 - Secondo atto della Formula Regional Championship by Alpine sul circuito belga."
-    },
-    {
-      "show_name": "CIRT - Foligno - Assistenza",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 13:38:56",
-      "end_time": "2026-03-12 14:11:49",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
-    },
-    {
-      "show_name": "FIA ETRC - Nurburgring - G1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 14:11:49",
-      "end_time": "2026-03-12 15:10:03",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Round 4 - Tornano i giganti del Goodyear FIA ETRC 2025 sul circuito tedesco."
-    },
-    {
-      "show_name": "FIA ETRC - Nurburgring - G2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 15:10:03",
-      "end_time": "2026-03-12 16:08:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Round 4 - Tornano i giganti del Goodyear FIA ETRC 2025 sul circuito tedesco."
-    },
-    {
-      "show_name": "FIA ETRC - Nurburgring - G3",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 16:08:00",
-      "end_time": "2026-03-12 17:20:39",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Round 4 - Tornano i giganti del Goodyear FIA ETRC 2025 sul circuito tedesco."
-    },
-    {
-      "show_name": "FIA ETRC - Nurburgring - G4",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 17:20:39",
-      "end_time": "2026-03-12 18:19:05",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Round 4 - Tornano i giganti del Goodyear FIA ETRC 2025 sul circuito tedesco."
-    },
-    {
-      "show_name": "CIREAS -  Coppa Citta' della Pace",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 18:19:05",
-      "end_time": "2026-03-12 19:49:27",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Round 2 - La powerstage del secondo appuntamento del Campionato Italiano Regolarita' Auto Storiche."
-    },
-    {
-      "show_name": "Hockenheim - FRECA - G2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 19:49:27",
-      "end_time": "2026-03-12 20:48:54",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Round 9 - Penultima sfida stagionale per la Formula Regional Championship by Alpine sul circuito tedesco."
-    },
-    {
-      "show_name": "Speciale - Coppa Citta' della Pace",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 20:48:54",
-      "end_time": "2026-03-12 20:59:41",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Gli approfondimenti, i servizi e le interviste su tutti i principali eventi sportivi del fine settimana. In questo servizio la Regolarita' Auto Storiche."
-    },
-    {
-      "show_name": "Magazine ACI Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 20:59:41",
-      "end_time": "2026-03-12 21:25:21",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "PT 13 - La cronaca e le immagini delle gare a cura di ACI Sport. Questa settimana: il Trofeo Classic Lago di Como, la Trento Bondone, i Prototipi a Vallelunga e la FRECA a Zandvoort."
-    },
-    {
-      "show_name": "CIRT - Foligno - Qualifyng Stage",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 21:25:21",
-      "end_time": "2026-03-12 22:07:25",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
-    },
-    {
-      "show_name": "Magazine ACI Sport",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 22:07:25",
-      "end_time": "2026-03-12 22:33:01",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "PT 13 - La cronaca e le immagini delle gare a cura di ACI Sport. Questa settimana: il Trofeo Classic Lago di Como, la Trento Bondone, i Prototipi a Vallelunga e la FRECA a Zandvoort."
-    },
-    {
-      "show_name": "Vallelunga - Italian F4 - G3",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 22:33:01",
-      "end_time": "2026-03-12 23:21:39",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "A Vallelunga va in scena il secondo ACI Racing Weekend con i protagonisti del GT Sprint, del TCR e della F4."
-    },
-    {
       "show_name": "TCR EUROPE - Misano - G1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-12 23:21:39",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-13 00:00:00",
       "end_time": "2026-03-13 00:10:29",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Round 4 - Quarto atto del TCR Europe torna in pista sul circuito di Misano."
+    },
+    {
+      "show_name": "TCR EUROPE - Misano - G2",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-13 00:10:29",
+      "end_time": "2026-03-13 00:59:30",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Round 4 - Quarto atto del TCR Europe torna in pista sul circuito di Misano."
+    },
+    {
+      "show_name": "Vallelunga - Italian F4 - Finale",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-13 00:59:30",
+      "end_time": "2026-03-13 01:52:19",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "A Vallelunga va in scena il secondo ACI Racing Weekend con i protagonisti del GT Sprint, del TCR e della F4."
+    },
+    {
+      "show_name": "CIRT - Foligno - Partenza",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-13 01:52:19",
+      "end_time": "2026-03-13 02:36:38",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Il  Rally Citta' di Foligno apre le sfide del Campionato Italiano Rally Terra 2026 con i migliori interpreti del rallismo nazionale su fondo sterrato."
+    },
+    {
+      "show_name": "Revival ACi Sport since 2012",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-13 02:36:38",
+      "end_time": "2026-03-13 06:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "5 - Il fascino del passato con i passaggi e le immagini di ACI Sport dal 2012 in poi."
+    },
+    {
+      "show_name": "ACI Sport Tv",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-13 06:00:00",
+      "end_time": "2026-03-13 12:00:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "ACI Sport Tv."
+    },
+    {
+      "show_name": "ACI Sport Tv",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-13 12:00:00",
+      "end_time": "2026-03-13 18:00:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "ACI Sport Tv."
+    },
+    {
+      "show_name": "ACI Sport Tv",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-13 18:00:00",
+      "end_time": "2026-03-14 00:00:00",
+      "episode_number": "",
+      "show_category": "Altri Programmi",
+      "show_description": "ACI Sport Tv."
     }
   ]
 }

@@ -1,258 +1,186 @@
 {
   "channel_name": "Sky Sport NBA",
-  "date": "2026-03-13",
+  "date": "2026-03-14",
   "programs": [
     {
-      "show_name": "Nuova Zelanda - Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/nuova-zelanda-italia.webp",
-      "start_time": "2026-03-13 00:00:00",
-      "end_time": "2026-03-13 00:00:00",
-      "episode_number": "S2026 E2",
+      "show_name": "Barcellona - Hapoel IBI Tel Aviv",
+      "show_logo": "https://guidatv.sky.it/uuid/c3a761e6-8394-49c4-bf09-a041985c2c5a/cover?territory=IT&md5ChecksumParam=6408cb33c604d660b3c44e4afdd36f9c",
+      "start_time": "2026-03-14 00:00:00",
+      "end_time": "2026-03-14 01:30:00",
+      "episode_number": "S2025 E115",
       "show_category": "Sport",
-      "show_description": "FIBA Qualificazioni Mondiali Femminili 2026."
-    },
-    {
-      "show_name": "Virtus Bologna - Partizan",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/virtus-bologna-partizan.webp",
-      "start_time": "2026-03-13 00:00:00",
-      "end_time": "2026-03-13 02:00:00",
-      "episode_number": "S2025 E114",
-      "show_category": "Sport",
-      "show_description": "Dalla Virtus Segafredo Arena di Bologna, Italia."
-    },
-    {
-      "show_name": "Basket Room - Ep. 40 - Basket Room Nba 12/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/basket-room-ep-40-basket-room-nba-12-03-2026.webp",
-      "start_time": "2026-03-13 02:00:00",
-      "end_time": "2026-03-13 02:15:00",
-      "episode_number": "S2025 E40",
-      "show_category": "Sport",
-      "show_description": "Il programma di approfondimento sul basket italiano ed internazionale, con video esclusivi, interviste ed ospiti in studio."
-    },
-    {
-      "show_name": "Basket Room Serie A - Ep. 13 - Basket Room Serie A 10/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/basket-room-serie-a-ep-13-basket-room-serie-a-10-03-2026.webp",
-      "start_time": "2026-03-13 02:15:00",
-      "end_time": "2026-03-13 02:30:00",
-      "episode_number": "S2025 E13",
-      "show_category": "Sport",
-      "show_description": "L'approfondimento settimanale riguardante la pallacanestro del campionato italiano. I momenti salienti, le interviste, le immagini, le curiosità e le anticipazioni sulle partite del prossimo fine settimana della Lega Basket Serie A."
-    },
-    {
-      "show_name": "Monaco - Olympiacos",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/monaco-olympiacos.webp",
-      "start_time": "2026-03-13 02:30:00",
-      "end_time": "2026-03-13 04:30:00",
-      "episode_number": "S2025 E113",
-      "show_category": "Sport",
-      "show_description": "Dalla Salle Gaston Médecin di Monaco."
-    },
-    {
-      "show_name": "Basket Room - Ep. 40 - Basket Room Nba 12/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/basket-room-ep-40-basket-room-nba-12-03-2026.webp",
-      "start_time": "2026-03-13 04:30:00",
-      "end_time": "2026-03-13 04:45:00",
-      "episode_number": "S2025 E40",
-      "show_category": "Sport",
-      "show_description": "Il programma di approfondimento sul basket italiano ed internazionale, con video esclusivi, interviste ed ospiti in studio."
-    },
-    {
-      "show_name": "Basket Room Serie A - Ep. 13 - Basket Room Serie A 10/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/basket-room-serie-a-ep-13-basket-room-serie-a-10-03-2026.webp",
-      "start_time": "2026-03-13 04:45:00",
-      "end_time": "2026-03-13 05:00:00",
-      "episode_number": "S2025 E13",
-      "show_category": "Sport",
-      "show_description": "L'approfondimento settimanale riguardante la pallacanestro del campionato italiano. I momenti salienti, le interviste, le immagini, le curiosità e le anticipazioni sulle partite del prossimo fine settimana della Lega Basket Serie A."
-    },
-    {
-      "show_name": "Messina 1a Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/messina-1a-parte.webp",
-      "start_time": "2026-03-13 05:00:00",
-      "end_time": "2026-03-13 06:00:00",
-      "episode_number": "S1 E32",
-      "show_category": "Sport",
-      "show_description": "Dal silenzio alla scelta: Ettore Messina torna a parlare dopo le sue dimissioni. Tra vittorie e piazze che dividono, autoesigenza, pressioni e responsabilità di un allenatore."
-    },
-    {
-      "show_name": "Messina 2a Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/messina-2a-parte.webp",
-      "start_time": "2026-03-13 06:00:00",
-      "end_time": "2026-03-13 07:00:00",
-      "episode_number": "S1 E33",
-      "show_category": "Sport",
-      "show_description": "Ospite di Federico Buffa Talks, Ettore Messina si è raccontato in una lunga intervista. Tra i temi: gli anni in NBA, i Lakers e San Antonio Spurs con Popovich, gli incontri con Kobe e Ginóbili e un'apertura sul suo prossimo futuro."
-    },
-    {
-      "show_name": "Basket Room Serie A - Ep. 13 - Basket Room Serie A 10/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/basket-room-serie-a-ep-13-basket-room-serie-a-10-03-2026.webp",
-      "start_time": "2026-03-13 07:00:00",
-      "end_time": "2026-03-13 07:15:00",
-      "episode_number": "S2025 E13",
-      "show_category": "Sport",
-      "show_description": "L'approfondimento settimanale riguardante la pallacanestro del campionato italiano. I momenti salienti, le interviste, le immagini, le curiosità e le anticipazioni sulle partite del prossimo fine settimana della Lega Basket Serie A."
-    },
-    {
-      "show_name": "Basket Room - Ep. 40 - Basket Room Nba 12/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/basket-room-ep-40-basket-room-nba-12-03-2026.webp",
-      "start_time": "2026-03-13 07:15:00",
-      "end_time": "2026-03-13 07:30:00",
-      "episode_number": "S2025 E40",
-      "show_category": "Sport",
-      "show_description": "Il programma di approfondimento sul basket italiano ed internazionale, con video esclusivi, interviste ed ospiti in studio."
-    },
-    {
-      "show_name": "Virtus Bologna - Partizan",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/virtus-bologna-partizan.webp",
-      "start_time": "2026-03-13 07:30:00",
-      "end_time": "2026-03-13 09:30:00",
-      "episode_number": "S2025 E114",
-      "show_category": "Sport",
-      "show_description": "Dalla Virtus Segafredo Arena di Bologna, Italia."
-    },
-    {
-      "show_name": "Matteo Soragna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/matteo-soragna.webp",
-      "start_time": "2026-03-13 09:30:00",
-      "end_time": "2026-03-13 10:00:00",
-      "episode_number": "S2025 E6",
-      "show_category": "Sport",
-      "show_description": "Intervista a Matteo Soragna, ex nazionale basket e ora formatore Baskin, progetto che permette di far giocare assieme persone con e senza disabilità."
-    },
-    {
-      "show_name": "Nuova Zelanda - Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/nuova-zelanda-italia.webp",
-      "start_time": "2026-03-13 10:00:00",
-      "end_time": "2026-03-13 12:00:00",
-      "episode_number": "S2026 E2",
-      "show_category": "Sport",
-      "show_description": "FIBA Qualificazioni Mondiali Femminili 2026."
-    },
-    {
-      "show_name": "06/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/06-03-2026.webp",
-      "start_time": "2026-03-13 12:00:00",
-      "end_time": "2026-03-13 12:30:00",
-      "episode_number": "S2025 E20",
-      "show_category": "Sport",
-      "show_description": "I momenti più belli del basket americano con le giocate dei campioni dell'NBA."
-    },
-    {
-      "show_name": "Basket Room Serie A - Ep. 13 - Basket Room Serie A 10/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/basket-room-serie-a-ep-13-basket-room-serie-a-10-03-2026.webp",
-      "start_time": "2026-03-13 12:30:00",
-      "end_time": "2026-03-13 12:45:00",
-      "episode_number": "S2025 E13",
-      "show_category": "Sport",
-      "show_description": "L'approfondimento settimanale riguardante la pallacanestro del campionato italiano. I momenti salienti, le interviste, le immagini, le curiosità e le anticipazioni sulle partite del prossimo fine settimana della Lega Basket Serie A."
-    },
-    {
-      "show_name": "Monaco - Olympiacos",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/monaco-olympiacos.webp",
-      "start_time": "2026-03-13 12:45:00",
-      "end_time": "2026-03-13 14:45:00",
-      "episode_number": "S2025 E113",
-      "show_category": "Sport",
-      "show_description": "Dalla Salle Gaston Médecin di Monaco."
-    },
-    {
-      "show_name": "Basket Room - Ep. 40 - Basket Room Nba 12/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/basket-room-ep-40-basket-room-nba-12-03-2026.webp",
-      "start_time": "2026-03-13 14:45:00",
-      "end_time": "2026-03-13 15:00:00",
-      "episode_number": "S2025 E40",
-      "show_category": "Sport",
-      "show_description": "Il programma di approfondimento sul basket italiano ed internazionale, con video esclusivi, interviste ed ospiti in studio."
-    },
-    {
-      "show_name": "Nuova Zelanda - Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/nuova-zelanda-italia.webp",
-      "start_time": "2026-03-13 15:00:00",
-      "end_time": "2026-03-13 17:00:00",
-      "episode_number": "S2026 E2",
-      "show_category": "Sport",
-      "show_description": "FIBA Qualificazioni Mondiali Femminili 2026."
-    },
-    {
-      "show_name": "Basket Room Serie A - Ep. 13 - Basket Room Serie A 10/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/basket-room-serie-a-ep-13-basket-room-serie-a-10-03-2026.webp",
-      "start_time": "2026-03-13 17:00:00",
-      "end_time": "2026-03-13 17:15:00",
-      "episode_number": "S2025 E13",
-      "show_category": "Sport",
-      "show_description": "L'approfondimento settimanale riguardante la pallacanestro del campionato italiano. I momenti salienti, le interviste, le immagini, le curiosità e le anticipazioni sulle partite del prossimo fine settimana della Lega Basket Serie A."
-    },
-    {
-      "show_name": "Federico Buffa A Teatro: Otto Infinito",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/federico-buffa-a-teatro-otto-infinito.webp",
-      "start_time": "2026-03-13 17:15:00",
-      "end_time": "2026-03-13 17:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Federico Buffa, la regista Marelli e il maestro Nidi aprono il backstage a Sky Sport: genesi, trama e legacy dello spettacolo su Kobe Bryant. Dal 7 febbraio a teatro."
-    },
-    {
-      "show_name": "Virtus Bologna - Partizan",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/virtus-bologna-partizan.webp",
-      "start_time": "2026-03-13 17:45:00",
-      "end_time": "2026-03-13 19:45:00",
-      "episode_number": "S2025 E114",
-      "show_category": "Sport",
-      "show_description": "Dalla Virtus Segafredo Arena di Bologna, Italia."
-    },
-    {
-      "show_name": "13/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/13-03-2026.webp",
-      "start_time": "2026-03-13 19:45:00",
-      "end_time": "2026-03-13 20:15:00",
-      "episode_number": "S2025 E21",
-      "show_category": "Sport",
-      "show_description": "I momenti più belli del basket americano con le giocate dei campioni dell'NBA."
-    },
-    {
-      "show_name": "Basket Room Serie A - Ep. 13 - Basket Room Serie A 10/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/basket-room-serie-a-ep-13-basket-room-serie-a-10-03-2026.webp",
-      "start_time": "2026-03-13 20:15:00",
-      "end_time": "2026-03-13 20:30:00",
-      "episode_number": "S2025 E13",
-      "show_category": "Sport",
-      "show_description": "L'approfondimento settimanale riguardante la pallacanestro del campionato italiano. I momenti salienti, le interviste, le immagini, le curiosità e le anticipazioni sulle partite del prossimo fine settimana della Lega Basket Serie A."
-    },
-    {
-      "show_name": "EA7 Emporio Armani Milano - Maccabi Rapyd Tel Aviv",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/ea7-emporio-armani-milano-maccabi-rapyd-tel-aviv.webp",
-      "start_time": "2026-03-13 20:30:00",
-      "end_time": "2026-03-13 22:30:00",
-      "episode_number": "S2025 E116",
-      "show_category": "Sport",
-      "show_description": "Dall'Unipol Forum di Milano, Italia."
+      "show_description": "Dal Palau Blaugrana di Barcelona, Spagna."
     },
     {
       "show_name": "Amadori Protein Talk - Ep. 7 - Amadori Protein Talk Ep.7 Amedeo Della Valle 13/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/amadori-protein-talk-ep-7-amadori-protein-talk-ep-7-amedeo-della-valle-13-03-2026.webp",
-      "start_time": "2026-03-13 22:30:00",
-      "end_time": "2026-03-13 23:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/a8e947a4-da73-41df-b615-25392b66d4a5/cover?territory=IT&md5ChecksumParam=334810af73ee74aee4f031b04215327e",
+      "start_time": "2026-03-14 01:30:00",
+      "end_time": "2026-03-14 02:00:00",
       "episode_number": "S2025 E7",
       "show_category": "Sport",
       "show_description": "Sport, passione e corretta nutrizione: diamo voce ai capioni del basket di ieri e di oggi."
     },
     {
       "show_name": "Basket Room Nba Talk 13/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/basket-room-nba-talk-13-03-2026.webp",
-      "start_time": "2026-03-13 23:00:00",
-      "end_time": "2026-03-13 23:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/022ce485-d4d2-47a0-9f77-3b97dcccdd13/cover?territory=IT&md5ChecksumParam=9183c31baf8bf12fe9f9d7d4a54b37c0",
+      "start_time": "2026-03-14 02:00:00",
+      "end_time": "2026-03-14 02:30:00",
       "episode_number": "S2025 E20",
       "show_category": "Sport",
       "show_description": "I volti, le storie e le dinamiche che caratterizzano la stagione NBA, tra notizie e analisi."
     },
     {
+      "show_name": "EA7 Emporio Armani Milano - Maccabi Rapyd Tel Aviv",
+      "show_logo": "https://guidatv.sky.it/uuid/d383d1d1-1c2e-45f2-94a6-6da39390ae68/cover?territory=IT&md5ChecksumParam=946403e7b8f87a8fcc89478e79f73008",
+      "start_time": "2026-03-14 02:30:00",
+      "end_time": "2026-03-14 04:30:00",
+      "episode_number": "S2025 E116",
+      "show_category": "Sport",
+      "show_description": "Dall'Unipol Forum di Milano, Italia."
+    },
+    {
+      "show_name": "The Lost Dreamteam",
+      "show_logo": "https://guidatv.sky.it/uuid/7c09a5e6-89cb-45bb-8731-334516c82d47/cover?territory=IT&md5ChecksumParam=0e43bb8c267f38c26d262c2c7d727288",
+      "start_time": "2026-03-14 04:30:00",
+      "end_time": "2026-03-14 06:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Tra fine anni ’80 e inizio ’90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
+    },
+    {
+      "show_name": "Federico Buffa A Teatro: Otto Infinito",
+      "show_logo": "https://guidatv.sky.it/uuid/54e3b97b-9953-4f96-84eb-e697c4cfb838/cover?territory=IT&md5ChecksumParam=dce09c12757dc7526b974be518f5cc37",
+      "start_time": "2026-03-14 06:00:00",
+      "end_time": "2026-03-14 06:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Federico Buffa, la regista Marelli e il maestro Nidi aprono il backstage a Sky Sport: genesi, trama e legacy dello spettacolo su Kobe Bryant. Dal 7 febbraio a teatro."
+    },
+    {
       "show_name": "Barcellona - Hapoel IBI Tel Aviv",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-NBA/tomorrow/barcellona-hapoel-ibi-tel-aviv.webp",
-      "start_time": "2026-03-13 23:30:00",
-      "end_time": "2026-03-14 01:30:00",
+      "show_logo": "https://guidatv.sky.it/uuid/c3a761e6-8394-49c4-bf09-a041985c2c5a/cover?territory=IT&md5ChecksumParam=6408cb33c604d660b3c44e4afdd36f9c",
+      "start_time": "2026-03-14 06:30:00",
+      "end_time": "2026-03-14 08:30:00",
       "episode_number": "S2025 E115",
       "show_category": "Sport",
       "show_description": "Dal Palau Blaugrana di Barcelona, Spagna."
+    },
+    {
+      "show_name": "Basket Room Nba Talk 13/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/022ce485-d4d2-47a0-9f77-3b97dcccdd13/cover?territory=IT&md5ChecksumParam=9183c31baf8bf12fe9f9d7d4a54b37c0",
+      "start_time": "2026-03-14 08:30:00",
+      "end_time": "2026-03-14 09:00:00",
+      "episode_number": "S2025 E20",
+      "show_category": "Sport",
+      "show_description": "I volti, le storie e le dinamiche che caratterizzano la stagione NBA, tra notizie e analisi."
+    },
+    {
+      "show_name": "Basket Room Serie A - Ep. 13 - Basket Room Serie A 10/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/3287e81c-a56d-4ed9-91e3-36b7110798fb/cover?territory=IT&md5ChecksumParam=01da45ca006a20eac1a1e7289a7514cb",
+      "start_time": "2026-03-14 09:00:00",
+      "end_time": "2026-03-14 09:15:00",
+      "episode_number": "S2025 E13",
+      "show_category": "Sport",
+      "show_description": "L'approfondimento settimanale riguardante la pallacanestro del campionato italiano. I momenti salienti, le interviste, le immagini, le curiosità e le anticipazioni sulle partite del prossimo fine settimana della Lega Basket Serie A."
+    },
+    {
+      "show_name": "EA7 Emporio Armani Milano - Maccabi Rapyd Tel Aviv",
+      "show_logo": "https://guidatv.sky.it/uuid/d383d1d1-1c2e-45f2-94a6-6da39390ae68/cover?territory=IT&md5ChecksumParam=946403e7b8f87a8fcc89478e79f73008",
+      "start_time": "2026-03-14 09:15:00",
+      "end_time": "2026-03-14 11:15:00",
+      "episode_number": "S2025 E116",
+      "show_category": "Sport",
+      "show_description": "Dall'Unipol Forum di Milano, Italia."
+    },
+    {
+      "show_name": "Amadori Protein Talk - Ep. 7 - Amadori Protein Talk Ep.7 Amedeo Della Valle 13/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/a8e947a4-da73-41df-b615-25392b66d4a5/cover?territory=IT&md5ChecksumParam=334810af73ee74aee4f031b04215327e",
+      "start_time": "2026-03-14 11:15:00",
+      "end_time": "2026-03-14 11:45:00",
+      "episode_number": "S2025 E7",
+      "show_category": "Sport",
+      "show_description": "Sport, passione e corretta nutrizione: diamo voce ai capioni del basket di ieri e di oggi."
+    },
+    {
+      "show_name": "Barcellona - Hapoel IBI Tel Aviv",
+      "show_logo": "https://guidatv.sky.it/uuid/c3a761e6-8394-49c4-bf09-a041985c2c5a/cover?territory=IT&md5ChecksumParam=6408cb33c604d660b3c44e4afdd36f9c",
+      "start_time": "2026-03-14 11:45:00",
+      "end_time": "2026-03-14 13:45:00",
+      "episode_number": "S2025 E115",
+      "show_category": "Sport",
+      "show_description": "Dal Palau Blaugrana di Barcelona, Spagna."
+    },
+    {
+      "show_name": "Virtus Bologna - Partizan",
+      "show_logo": "https://guidatv.sky.it/uuid/dbdd2fb2-6620-432f-b5e2-413be6e73078/cover?territory=IT&md5ChecksumParam=7e119d2f3a085eddfd45b3b2b430324f",
+      "start_time": "2026-03-14 13:45:00",
+      "end_time": "2026-03-14 15:45:00",
+      "episode_number": "S2025 E114",
+      "show_category": "Sport",
+      "show_description": "Dalla Virtus Segafredo Arena di Bologna, Italia."
+    },
+    {
+      "show_name": "13/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/c3ba7ea8-8f9c-4077-9dda-11b1eff613a6/cover?territory=IT&md5ChecksumParam=a85a7c09423566c8d7c13e60c0b56680",
+      "start_time": "2026-03-14 15:45:00",
+      "end_time": "2026-03-14 16:15:00",
+      "episode_number": "S2025 E21",
+      "show_category": "Sport",
+      "show_description": "I momenti più belli del basket americano con le giocate dei campioni dell'NBA."
+    },
+    {
+      "show_name": "EA7 Emporio Armani Milano - Maccabi Rapyd Tel Aviv",
+      "show_logo": "https://guidatv.sky.it/uuid/d383d1d1-1c2e-45f2-94a6-6da39390ae68/cover?territory=IT&md5ChecksumParam=946403e7b8f87a8fcc89478e79f73008",
+      "start_time": "2026-03-14 16:15:00",
+      "end_time": "2026-03-14 18:15:00",
+      "episode_number": "S2025 E116",
+      "show_category": "Sport",
+      "show_description": "Dall'Unipol Forum di Milano, Italia."
+    },
+    {
+      "show_name": "Ep.18",
+      "show_logo": "https://guidatv.sky.it/uuid/81547329-f11e-4ce7-8506-f078b0292c8a/cover?territory=IT&md5ChecksumParam=9767fef3d2a75c72c095493763fbf66f",
+      "start_time": "2026-03-14 18:15:00",
+      "end_time": "2026-03-14 18:30:00",
+      "episode_number": "S2025 E18",
+      "show_category": "Sport",
+      "show_description": "Il meglio della settimana di Eurolega tra immagini, interviste e curiosità."
+    },
+    {
+      "show_name": "Final Eight Mixtape",
+      "show_logo": "https://guidatv.sky.it/uuid/85100ad9-c592-41f8-82ee-ad645034127a/cover?territory=IT&md5ChecksumParam=80b0db7cd7b7be9b2cb6b5e53e89b285",
+      "start_time": "2026-03-14 18:30:00",
+      "end_time": "2026-03-14 19:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Storie, interviste e approfondimenti ad opera della redazione Basket Sky Sport NBA."
+    },
+    {
+      "show_name": "Amadori Protein Talk - Ep. 7 - Amadori Protein Talk Ep.7 Amedeo Della Valle 13/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/a8e947a4-da73-41df-b615-25392b66d4a5/cover?territory=IT&md5ChecksumParam=334810af73ee74aee4f031b04215327e",
+      "start_time": "2026-03-14 19:30:00",
+      "end_time": "2026-03-14 20:00:00",
+      "episode_number": "S2025 E7",
+      "show_category": "Sport",
+      "show_description": "Sport, passione e corretta nutrizione: diamo voce ai capioni del basket di ieri e di oggi."
+    },
+    {
+      "show_name": "Umana Reyer Venezia - Udine",
+      "show_logo": "https://guidatv.sky.it/uuid/0a0c58d7-d6e3-4398-acbc-1de1ccac6c57/cover?territory=IT&md5ChecksumParam=c478b60e4722a9cd697446c4ac46f683",
+      "start_time": "2026-03-14 20:00:00",
+      "end_time": "2026-03-14 22:00:00",
+      "episode_number": "S2025 E43",
+      "show_category": "Sport",
+      "show_description": "Dal Palasport Taliercio di Mestre, Italia."
+    },
+    {
+      "show_name": "USA - Italia",
+      "show_logo": "https://guidatv.sky.it/uuid/43209963-b966-4534-be24-1882a1441526/cover?territory=IT&md5ChecksumParam=8e356344128a828e9faeae293bc5b162",
+      "start_time": "2026-03-14 22:00:00",
+      "end_time": "2026-03-15 00:00:00",
+      "episode_number": "S2026 E3",
+      "show_category": "Sport",
+      "show_description": "FIBA Qualificazioni Mondiali Femminili 2026."
     }
   ]
 }
