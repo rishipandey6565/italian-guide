@@ -1,258 +1,231 @@
 {
   "channel_name": "Sky Crime",
-  "date": "2026-03-14",
+  "date": "2026-03-15",
   "programs": [
     {
-      "show_name": "Delitto al Motel",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/delitto-al-motel.webp",
-      "start_time": "2026-03-14 00:00:00",
-      "end_time": "2026-03-14 00:40:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "A Baltimore la polizia indaga sul ritrovamento di un uomo morto al Deluxe Plaza Motel. La vittima e' Edward Yesaitis, veterano della marina statunitense."
-    },
-    {
-      "show_name": "Delitto al Motel",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/delitto-al-motel.webp",
-      "start_time": "2026-03-14 00:40:00",
-      "end_time": "2026-03-14 01:35:00",
-      "episode_number": "S1 E7",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La polizia riceve la chiamata di una donna che afferma che lei e i suoi amici sono stati rapiti, e che uno di loro e' stato ferito mortalmente da un colpo di pistola."
-    },
-    {
-      "show_name": "Delitto al Motel",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/delitto-al-motel.webp",
-      "start_time": "2026-03-14 01:35:00",
-      "end_time": "2026-03-14 02:25:00",
-      "episode_number": "S1 E8",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Il 32enne Brian Redding chiama la polizia locale dicendo di aver trovato la sua ragazza 16enne morta nella loro camera di motel."
-    },
-    {
-      "show_name": "Le prigioni oscure",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-14 02:25:00",
-      "end_time": "2026-03-14 02:50:00",
-      "episode_number": "S1 E11",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La Torre di Londra incute timore da secoli: da fortezza voluta da Guglielmo il Conquistatore nel 1078 a prigione nel 1101, tra torture e decapitazioni."
-    },
-    {
-      "show_name": "Le prigioni oscure",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-14 02:50:00",
-      "end_time": "2026-03-14 03:15:00",
-      "episode_number": "S1 E12",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nei primi quarant'anni di attivita' del sistema Gulag sovietico, almeno 18 milioni di persone vennero imprigionate e oltre un milione e mezzo morirono."
-    },
-    {
-      "show_name": "Un avvertimento prima di iniziare - Stag. 1 Ep. 7 - Episode 7",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-14 03:15:00",
-      "end_time": "2026-03-14 04:00:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "...iniziare: Con il suo stile narrativo immersivo, Trincia costruisce un preludio avvincente che apre le porte a una storia fatta di svolte imprevedibili e riflessioni profonde."
-    },
-    {
-      "show_name": "Rapita dal mio ragazzo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/rapita-dal-mio-ragazzo.webp",
-      "start_time": "2026-03-14 04:00:00",
-      "end_time": "2026-03-14 04:50:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Rapita dal mio ragazzo - La tragica storia di Angel Lynn, una ragazza del Leicestershire rapita da un ex violento e abbandonata in fin di vita, incapace di camminare o parlare."
-    },
-    {
-      "show_name": "Cold Case: casi irrisolti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/cold-case-casi-irrisolti.webp",
-      "start_time": "2026-03-14 04:50:00",
-      "end_time": "2026-03-14 05:35:00",
-      "episode_number": "S5 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nel 1984, Jack Kennedy trova le figlie brutalmente uccise. Il DNA, pero', non porta a nulla."
-    },
-    {
-      "show_name": "Online - Connessioni Pericolose",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/online-connessioni-pericolose.webp",
-      "start_time": "2026-03-14 05:35:00",
-      "end_time": "2026-03-14 06:00:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Quali sono i problemi legati alle informazioni pubblicate in rete attraverso i social media e i vari motori di ricerca? Cristina, 24 anni, ha tante amiche adolescenti che non l'hanno mai vista ma che si divertono a chattare con lei, almeno fino a quando non scoprono chi sia veramente Cristina..."
-    },
-    {
-      "show_name": "Online - Connessioni Pericolose",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/online-connessioni-pericolose.webp",
-      "start_time": "2026-03-14 06:00:00",
-      "end_time": "2026-03-14 06:40:00",
-      "episode_number": "S2 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Trento: una madre riceve un messaggio inquietante dalla figlia. La giovane ha tentato il suicidio. La donna si rivolge alla PolPost per capire cosa ha spinto la figlia a commettere questo gesto."
-    },
-    {
-      "show_name": "Amore malato: Gli angeli della morte di Saronno",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/amore-malato-gli-angeli-della-morte-di-saronno.webp",
-      "start_time": "2026-03-14 06:40:00",
-      "end_time": "2026-03-14 08:10:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Un medico dell'ospedale di Saronno e un'infermiera sono responsabili della morte di alcuni pazienti. Le accuse fanno finire in carcere Leonardo Cazzaniga e Laura Taroni, condottati dalla procura di Busto Arsizio. Le indagini ipotizzano 15 omicidi."
-    },
-    {
-      "show_name": "Dr. Death - Il caso Macchiarini",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/dr-death-il-caso-macchiarini.webp",
-      "start_time": "2026-03-14 08:10:00",
-      "end_time": "2026-03-14 09:40:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La storia di Paolo Macchiarini, pioniere dei trapianti di trachea, la cui ascesa finisce tra accuse di interventi senza autorizzazione."
-    },
-    {
-      "show_name": "Il delitto di Via Poma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/il-delitto-di-via-poma.webp",
-      "start_time": "2026-03-14 09:40:00",
-      "end_time": "2026-03-14 10:35:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nell'estate del 1990, una ragazza di 20 anni viene trovata senza vita nell'ufficio in cui lavora, a Roma. Uccisa con 29 coltellate, la giovane diventa il centro di un caso che sconvolge l'Italia per la sua efferatezza."
-    },
-    {
-      "show_name": "Il delitto di Via Poma",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/il-delitto-di-via-poma.webp",
-      "start_time": "2026-03-14 10:35:00",
-      "end_time": "2026-03-14 11:35:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Le indagini sulla morte di Simonetta proseguono, ma faticano a trovare una pista certa. Non ci sono testimoni dei fatti, le tracce sono poche e il caso resta pieno di zone d'ombra."
-    },
-    {
-      "show_name": "Matrimonio con delitto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/matrimonio-con-delitto.webp",
-      "start_time": "2026-03-14 11:35:00",
-      "end_time": "2026-03-14 12:20:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Nonostante un inizio difficile, Savannah e Trent Paschal sembrano la coppia perfetta. Ma, quando Savannah trova una nuova vocazione, l'amore sfocia nella gelosia e viene coinvolta anche la polizia."
-    },
-    {
-      "show_name": "Matrimonio con delitto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/matrimonio-con-delitto.webp",
-      "start_time": "2026-03-14 12:20:00",
-      "end_time": "2026-03-14 13:10:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Chiquita Tate ha il desiderio di diventare qualcuno dopo un'infanzia in poverta', con la madre tossicodipendente."
-    },
-    {
-      "show_name": "Matrimonio con delitto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/matrimonio-con-delitto.webp",
-      "start_time": "2026-03-14 13:10:00",
-      "end_time": "2026-03-14 14:05:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Tim e Barbara si innamorano subito l'uno dell'altra."
-    },
-    {
-      "show_name": "Matrimonio con delitto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/matrimonio-con-delitto.webp",
-      "start_time": "2026-03-14 14:05:00",
-      "end_time": "2026-03-14 14:55:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Susan Fortune cambia vita in Georgia dopo le violenze domestiche subite. Sposa Jake Embert, conosciuto su un sito d'incontri, ma la storia finisce in tragedia."
-    },
-    {
-      "show_name": "Matrimonio con delitto",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/matrimonio-con-delitto.webp",
-      "start_time": "2026-03-14 14:55:00",
-      "end_time": "2026-03-14 15:45:00",
-      "episode_number": "S1 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gli innamorati Christina e Jason Harris si sposano e hanno due figli. Christina fa un'agghiacciante scoperta, a cui fa seguito la sua morte."
-    },
-    {
-      "show_name": "La banda della Magliana - La...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/la-banda-della-magliana-la.webp",
-      "start_time": "2026-03-14 15:45:00",
-      "end_time": "2026-03-14 16:50:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La storia di Franco Giuseppucci e' quella del fondatore della pericolosa e potente Banda della Magliana."
-    },
-    {
-      "show_name": "La banda della Magliana - La...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/la-banda-della-magliana-la.webp",
-      "start_time": "2026-03-14 16:50:00",
-      "end_time": "2026-03-14 17:50:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La Banda deve vendicare la morte di Giuseppucci, ucciso dal clan dei Proietti e deve trovare un nuovo capo."
-    },
-    {
-      "show_name": "La banda della Magliana - La...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/la-banda-della-magliana-la.webp",
-      "start_time": "2026-03-14 17:50:00",
-      "end_time": "2026-03-14 18:55:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Gli anni '80 sono segnati dall'espansione affaristica della Banda."
-    },
-    {
-      "show_name": "La banda della Magliana - La...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/la-banda-della-magliana-la.webp",
-      "start_time": "2026-03-14 18:55:00",
-      "end_time": "2026-03-14 20:00:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La storia di Franco Giuseppucci e l'ascesa della Banda della Magliana ai vertici della criminalita' romana, tra interviste inedite e documenti esclusivi."
-    },
-    {
-      "show_name": "Bande criminali italiane",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/bande-criminali-italiane.webp",
-      "start_time": "2026-03-14 20:00:00",
-      "end_time": "2026-03-14 21:05:00",
-      "episode_number": "S1 E1",
-      "show_category": "Altro",
-      "show_description": "Nella Milano degli anni Settanta, Renato Vallanzasca organizza rapine e sequestri."
-    },
-    {
-      "show_name": "Bande criminali italiane",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/bande-criminali-italiane.webp",
-      "start_time": "2026-03-14 21:05:00",
-      "end_time": "2026-03-14 22:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "Altro",
-      "show_description": "Analisi delle bande italiane che hanno fatto la storia: fughe, lusso e violenze. Quattro storie di ribellione, fascino oscuro e disprezzo verso la società."
-    },
-    {
-      "show_name": "Bande criminali italiane",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/bande-criminali-italiane.webp",
-      "start_time": "2026-03-14 22:00:00",
-      "end_time": "2026-03-14 22:55:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Analisi delle bande italiane che hanno fatto la storia: fughe, lusso e violenze. Quattro storie di ribellione, fascino oscuro e disprezzo verso la società."
-    },
-    {
-      "show_name": "Un avvertimento prima di iniziare - Stag. 1 Ep. 7 - Episode 7",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
-      "start_time": "2026-03-14 22:55:00",
-      "end_time": "2026-03-14 23:50:00",
-      "episode_number": "",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "...iniziare: Con il suo stile narrativo immersivo, Trincia costruisce un preludio avvincente che apre le porte a una storia fatta di svolte imprevedibili e riflessioni profonde."
-    },
-    {
       "show_name": "Bande criminali - Le cronache...",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Crime/tomorrow/bande-criminali-le-cronache.webp",
-      "start_time": "2026-03-14 23:50:00",
+      "show_logo": "https://guidatv.sky.it/uuid/7f7f53f2-0826-4d18-ace3-412e99cba1fa/cover?territory=IT&md5ChecksumParam=ea3b2f42273b90ce9ba7d8a0d2a25f58",
+      "start_time": "2026-03-15 00:00:00",
       "end_time": "2026-03-15 00:15:00",
       "episode_number": "S1 E4",
       "show_category": "Mondo e Tendenze",
       "show_description": "La Chicago Outfit assume il controllo della Citta' del Vento, anche a costo di provocare la caduta di Al Capone."
+    },
+    {
+      "show_name": "Bande criminali - Le cronache...",
+      "show_logo": "https://guidatv.sky.it/uuid/7f7f53f2-0826-4d18-ace3-412e99cba1fa/cover?territory=IT&md5ChecksumParam=ea3b2f42273b90ce9ba7d8a0d2a25f58",
+      "start_time": "2026-03-15 00:15:00",
+      "end_time": "2026-03-15 00:45:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "I Bloods non si fermeranno davanti a nulla pur di combattere i loro acerrimi nemici, guadagnandosi intanto l'attenzione della cronaca nazionale."
+    },
+    {
+      "show_name": "Bande criminali - Le cronache...",
+      "show_logo": "https://guidatv.sky.it/uuid/7f7f53f2-0826-4d18-ace3-412e99cba1fa/cover?territory=IT&md5ChecksumParam=ea3b2f42273b90ce9ba7d8a0d2a25f58",
+      "start_time": "2026-03-15 00:45:00",
+      "end_time": "2026-03-15 01:10:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il Cartello di Medelli'n diventa il piu' potente trafficante di cocaina al mondo."
+    },
+    {
+      "show_name": "Uno stadio da incubo",
+      "show_logo": "https://guidatv.sky.it/uuid/8e399366-be4a-4d4e-810e-972f0a79f2f5/cover?cgid=282&territory=IT&md5ChecksumParam=385b2d8b9176725c2ca9a8082c4f4991.it",
+      "start_time": "2026-03-15 01:10:00",
+      "end_time": "2026-03-15 02:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Forze dell'ordine, sicurezza privata e medici presidiano lo stadio. In questo episodio il team resta in massima allerta per la possibile intrusione di un influencer."
+    },
+    {
+      "show_name": "Uno stadio da incubo",
+      "show_logo": "https://guidatv.sky.it/uuid/8e399366-be4a-4d4e-810e-972f0a79f2f5/cover?cgid=282&territory=IT&md5ChecksumParam=385b2d8b9176725c2ca9a8082c4f4991.it",
+      "start_time": "2026-03-15 02:00:00",
+      "end_time": "2026-03-15 02:50:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "I nuovi arrivati si affiancano ai veterani per affrontare sfide impegnative."
+    },
+    {
+      "show_name": "La cassetta dell'orrore",
+      "show_logo": "https://guidatv.sky.it/uuid/c774b790-d22f-49de-b0af-f6bcad8d2f2d/cover?cgid=282&territory=IT&md5ChecksumParam=96f8de9e5b1750f3cbfb1ab6fd06a662.it",
+      "start_time": "2026-03-15 02:50:00",
+      "end_time": "2026-03-15 04:20:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La cassetta dell'orrore - La storia di due serial killer e stupratori americani che, in appena cinque mesi del 1979, rapirono, torturarono e uccisero cinque ragazze adolescenti."
+    },
+    {
+      "show_name": "Serial Killers: Jeffrey Dahmer",
+      "show_logo": "https://guidatv.sky.it/uuid/1d17a5d7-6f6e-4b99-9f0a-00364e479454/cover?territory=IT&md5ChecksumParam=1a258983b8ccb2ec32757c076f753e77",
+      "start_time": "2026-03-15 04:20:00",
+      "end_time": "2026-03-15 06:00:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Serial Killers: Jeffrey Dahmer - Un documentario sulla mente perversa del mostruoso Jeffrey Dahmer e sulla sua doppia vita da cannibale."
+    },
+    {
+      "show_name": "Online - Connessioni Pericolose",
+      "show_logo": "https://guidatv.sky.it/uuid/bf11e8cf-2da3-410d-85df-6829a319d63b/cover?territory=IT&md5ChecksumParam=c1907048b862ab6b82800d11a7393ec6",
+      "start_time": "2026-03-15 06:00:00",
+      "end_time": "2026-03-15 06:25:00",
+      "episode_number": "S2 E3",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "'Bluewhale' e' la sfida social che incita gli adolescenti ad affrontare 50 prove in 50 giorni, fino al suicidio, tutto sistematicamente documentato. Il fenomeno ha origine in Russia."
+    },
+    {
+      "show_name": "Uno stadio da incubo",
+      "show_logo": "https://guidatv.sky.it/uuid/8e399366-be4a-4d4e-810e-972f0a79f2f5/cover?cgid=282&territory=IT&md5ChecksumParam=385b2d8b9176725c2ca9a8082c4f4991.it",
+      "start_time": "2026-03-15 06:25:00",
+      "end_time": "2026-03-15 07:15:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Il team di sicurezza seda risse e dispute per i posti, corre in aiuto di un tifoso caduto oltre un parapetto e cerca di calmare un fan fuori controllo."
+    },
+    {
+      "show_name": "Uno stadio da incubo",
+      "show_logo": "https://guidatv.sky.it/uuid/a2ecfa1a-45db-4949-a377-f08c26460e15/cover?cgid=282&territory=IT&md5ChecksumParam=385b2d8b9176725c2ca9a8082c4f4991.it",
+      "start_time": "2026-03-15 07:15:00",
+      "end_time": "2026-03-15 08:00:00",
+      "episode_number": "S1 E4",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Gli addetti alla sicurezza sono in massima allerta. Il caldo e' insopportabile e i tifosi festeggiano sotto il sole gia' ore prima del calcio d'inizio."
+    },
+    {
+      "show_name": "Uno stadio da incubo",
+      "show_logo": "https://guidatv.sky.it/uuid/a2ecfa1a-45db-4949-a377-f08c26460e15/cover?cgid=282&territory=IT&md5ChecksumParam=385b2d8b9176725c2ca9a8082c4f4991.it",
+      "start_time": "2026-03-15 08:00:00",
+      "end_time": "2026-03-15 08:50:00",
+      "episode_number": "S1 E5",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Gli agenti intervengono su piu' fronti: fermano ubriachi all'ingresso, rintracciano un ricercato tra la folla."
+    },
+    {
+      "show_name": "Uno stadio da incubo",
+      "show_logo": "https://guidatv.sky.it/uuid/67f45727-e348-401c-80da-e937b4ac260f/cover?cgid=282&territory=IT&md5ChecksumParam=385b2d8b9176725c2ca9a8082c4f4991.it",
+      "start_time": "2026-03-15 08:50:00",
+      "end_time": "2026-03-15 09:40:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "La tensione tra tifosi rivali degenera in una rissa. Gli agenti di sicurezza intervengono per riportare la calma."
+    },
+    {
+      "show_name": "Uno stadio da incubo",
+      "show_logo": "https://guidatv.sky.it/uuid/67f45727-e348-401c-80da-e937b4ac260f/cover?cgid=282&territory=IT&md5ChecksumParam=385b2d8b9176725c2ca9a8082c4f4991.it",
+      "start_time": "2026-03-15 09:40:00",
+      "end_time": "2026-03-15 10:25:00",
+      "episode_number": "S1 E8",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Sicurezza, soccorritori e polizia fronteggiano una tempesta di neve allo stadio, tra espulsioni per vaping, risse tra tifosi e l'aggressione di un minorenne."
+    },
+    {
+      "show_name": "Un avvertimento prima di iniziare - Stag. 1 Ep. 7 - Episode 7",
+      "show_logo": "https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png",
+      "start_time": "2026-03-15 10:25:00",
+      "end_time": "2026-03-15 11:15:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "...iniziare: Con il suo stile narrativo immersivo, Trincia costruisce un preludio avvincente che apre le porte a una storia fatta di svolte imprevedibili e riflessioni profonde."
+    },
+    {
+      "show_name": "Delitti - Benno",
+      "show_logo": "https://guidatv.sky.it/uuid/78a27e65-f24b-427e-8f8e-7fde649ebc00/cover?territory=IT&md5ChecksumParam=8ce053f1d043c1f4c3dfab904335d9b0",
+      "start_time": "2026-03-15 11:15:00",
+      "end_time": "2026-03-15 12:50:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Bolzano, 5 gennaio 2021. Benno Neumair denuncia la scomparsa dei genitori. Ma nasconde un segreto: l'assassino e' lui. Li ha strangolati in casa e poi gettati nell'Adige."
+    },
+    {
+      "show_name": "Matrimonio con delitto",
+      "show_logo": "https://guidatv.sky.it/uuid/e9175e07-deb5-4e16-9a47-4e2fd56257d3/cover?territory=IT&md5ChecksumParam=6271a9c3dca8a0d2ca09be0d39297711",
+      "start_time": "2026-03-15 12:50:00",
+      "end_time": "2026-03-15 13:40:00",
+      "episode_number": "S1 E6",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Lulu e Ramon Sosa si rivelano essere ottimi compagni di ballo e di vita. In seguito a problemi finanziari, pero', il rapporto si incrina."
+    },
+    {
+      "show_name": "Matrimonio con delitto",
+      "show_logo": "https://guidatv.sky.it/uuid/e9175e07-deb5-4e16-9a47-4e2fd56257d3/cover?territory=IT&md5ChecksumParam=6271a9c3dca8a0d2ca09be0d39297711",
+      "start_time": "2026-03-15 13:40:00",
+      "end_time": "2026-03-15 14:30:00",
+      "episode_number": "S1 E7",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Rebecca e Lee Cawthon sono una coppia aperta. Dopo l'inizio di una relazione con la danzatrice esotica Alite, si avvicinano anche all'amico di lei, Thad."
+    },
+    {
+      "show_name": "Matrimonio con delitto",
+      "show_logo": "https://guidatv.sky.it/uuid/e9175e07-deb5-4e16-9a47-4e2fd56257d3/cover?territory=IT&md5ChecksumParam=6271a9c3dca8a0d2ca09be0d39297711",
+      "start_time": "2026-03-15 14:30:00",
+      "end_time": "2026-03-15 15:20:00",
+      "episode_number": "S1 E8",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Toni e Harold si incontrano a un convegno medico e presto si sposano. Ma quando iniziano a scomparire soldi dal conto di Toni, i sospetti ricadono su Harold."
+    },
+    {
+      "show_name": "Matrimonio con delitto",
+      "show_logo": "https://guidatv.sky.it/uuid/e9175e07-deb5-4e16-9a47-4e2fd56257d3/cover?territory=IT&md5ChecksumParam=6271a9c3dca8a0d2ca09be0d39297711",
+      "start_time": "2026-03-15 15:20:00",
+      "end_time": "2026-03-15 16:10:00",
+      "episode_number": "S1 E9",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Ashlea ed Emmett, mormoni, si sposano dopo il college. Ma sette anni dopo, tre poliziotti bussano alla porta, avvertiti di un incidente."
+    },
+    {
+      "show_name": "Matrimonio con delitto",
+      "show_logo": "https://guidatv.sky.it/uuid/e9175e07-deb5-4e16-9a47-4e2fd56257d3/cover?territory=IT&md5ChecksumParam=6271a9c3dca8a0d2ca09be0d39297711",
+      "start_time": "2026-03-15 16:10:00",
+      "end_time": "2026-03-15 16:55:00",
+      "episode_number": "S1 E10",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Durante la luna di miele, Amanda scopre un lato nascosto del suo sposo: e' un maniaco del controllo. Quando chiede il divorzio, le cose sfuggono di mano."
+    },
+    {
+      "show_name": "Morte a Corso Francia",
+      "show_logo": "https://guidatv.sky.it/uuid/2e391f17-f7ea-4939-a504-205091865551/COVER_TITLE_TALL?territory=IT&version=1db9b927-5f3e-3279-b956-6d0b9438f8b3&w=600&h=800&md5ChecksumParam=f840883e29f3d072fe1e932908fe487b",
+      "start_time": "2026-03-15 16:55:00",
+      "end_time": "2026-03-15 17:50:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Pietro Genovese, di 21 anni, figlio del regista Paolo, investe Gaia e Camilla con il Suv, mentre rientra a casa dopo una serata passata con degli amici."
+    },
+    {
+      "show_name": "Morte a Corso Francia",
+      "show_logo": "https://guidatv.sky.it/uuid/d8626483-2581-4bb3-9b67-918d4f679647/cover?territory=IT&md5ChecksumParam=a83a6a2077bb99390456420fa133767c",
+      "start_time": "2026-03-15 17:50:00",
+      "end_time": "2026-03-15 18:45:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Poco dopo la mezzanotte del 22 dicembre 2019, a Roma due sedicenni vengono investite dal figlio di un noto regista. La tragedia segnera' la vita di tanta gente."
+    },
+    {
+      "show_name": "Il delitto Varani",
+      "show_logo": "https://guidatv.sky.it/uuid/e06b4c35-a323-4294-8b2a-1a7e40b87a18/cover?territory=IT&md5ChecksumParam=a648862902c945253b804997bb8393a8",
+      "start_time": "2026-03-15 18:45:00",
+      "end_time": "2026-03-15 21:10:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Luca Varani, 23 anni, e' la vittima di una follia insensata nata da una spirale di alcol, droga e sesso. Con l'aiuto delle testimonianze, ricostruiamo i terribili eventi accaduti quella mattina del 4 marzo 2016."
+    },
+    {
+      "show_name": "Andrew ed Epstein: scandalo a corte",
+      "show_logo": "https://guidatv.sky.it/uuid/6a27d411-8f52-4558-bbca-1c1b04c7e0e5/COVER_TITLE_TALL?territory=IT&version=87c87c8c-60de-3cb6-a47d-8b2896bfa8fb&w=600&h=800&md5ChecksumParam=789e6a3258cae680e3a089904db057a7",
+      "start_time": "2026-03-15 21:10:00",
+      "end_time": "2026-03-15 22:50:00",
+      "episode_number": "S1 E1",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nato nell'ambiente privilegiato della famiglia reale, considerato un eroe di guerra e un modello Royal, la vita del principe Andrew cambia radicalmente quando diventa amico di Jeffrey Epstein."
+    },
+    {
+      "show_name": "Andrew ed Epstein: scandalo a corte",
+      "show_logo": "https://guidatv.sky.it/uuid/ed34b22a-a89a-4d07-9e25-151b0eac9f63/cover?territory=IT&md5ChecksumParam=604f0faff82104c67a0743de71831f73",
+      "start_time": "2026-03-15 22:50:00",
+      "end_time": "2026-03-16 00:30:00",
+      "episode_number": "S1 E2",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Le ombre di un principe - La storia del principe Andrea e la decisione di raccontarsi di fronte alle telecamere di Newsnight."
     }
   ]
 }

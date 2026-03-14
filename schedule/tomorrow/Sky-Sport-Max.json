@@ -1,177 +1,186 @@
 {
   "channel_name": "Sky Sport Max",
-  "date": "2026-03-14",
+  "date": "2026-03-15",
   "programs": [
     {
-      "show_name": "Ankara Zeren Spor Kulübü - A. Carraro Prosecco DOC Imoco Conegliano",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/ankara-zeren-spor-kul-b-a-carraro-prosecco-doc-imoco-conegliano.webp",
-      "start_time": "2026-03-14 00:00:00",
-      "end_time": "2026-03-14 00:05:00",
-      "episode_number": "",
+      "show_name": "Udinese - Juventus",
+      "show_logo": "https://guidatv.sky.it/uuid/da128e33-8265-463c-bc09-3e1d73b35dbe/cover?territory=IT&md5ChecksumParam=5b2faee31944886f16de9ce0ea1bb6e4",
+      "start_time": "2026-03-15 00:00:00",
+      "end_time": "2026-03-15 01:15:00",
+      "episode_number": "S2025 E284",
       "show_category": "Sport",
-      "show_description": "Va in onda la CEV Champions League Women, la massima competizione europea di pallavolo femminile."
+      "show_description": "Dallo Stadio Friuli di Udine, Italia."
+    },
+    {
+      "show_name": "La Giovane Italia - Stag. La Giovane Italia 2026 - La Giovane Italia 2026 Ep.6 12/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/9140d74d-165e-4392-9e08-331d4e4341be/COVER_TITLE_TALL?territory=IT&version=dfc29ba0-359e-3249-a604-44e5942a06f1&w=600&h=800&md5ChecksumParam=936ea95cde4e07412af98d3e4649b36b",
+      "start_time": "2026-03-15 01:15:00",
+      "end_time": "2026-03-15 01:30:00",
+      "episode_number": "S2026 E6",
+      "show_category": "Sport",
+      "show_description": "Servizi informativi dedicati ai più piccoli sportivi italiani e alle realtà giovanili legate al calcio, tra trofei, incontri, e storie."
+    },
+    {
+      "show_name": "Europa E Conference League Remix Ep.12 13/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/e27a6580-fbca-4a5c-b812-133ce857215a/cover?territory=IT&md5ChecksumParam=46698f2bf77dd7d8c7b9fe2d4c59a8f0",
+      "start_time": "2026-03-15 01:30:00",
+      "end_time": "2026-03-15 02:00:00",
+      "episode_number": "S2025 E12",
+      "show_category": "Sport",
+      "show_description": "Andiamo a rivedere tutto quello accaduto nella giornata di Europa e Conference League con i gol, le interviste ai protagonisti e le curiosità dai campi principali."
+    },
+    {
+      "show_name": "Fiorentina - Raków Czestochowa",
+      "show_logo": "https://guidatv.sky.it/uuid/d4cd9173-ac6e-4562-a2e8-727649fd3a0b/cover?territory=IT&md5ChecksumParam=c67b9cf76d4e16a36d39f1b034fcad1c",
+      "start_time": "2026-03-15 02:00:00",
+      "end_time": "2026-03-15 04:00:00",
+      "episode_number": "S2025 E16",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Artemio Franchi di Firenze, Italia."
+    },
+    {
+      "show_name": "Australia: Gara 1",
+      "show_logo": "https://guidatv.sky.it/uuid/439b4fda-4292-4b7d-8984-9c9ddc57a450/cover?territory=IT&md5ChecksumParam=8448863dee948859257c8bbe5d8e3567",
+      "start_time": "2026-03-15 04:00:00",
+      "end_time": "2026-03-15 05:00:00",
+      "episode_number": "S2026 E6",
+      "show_category": "Sport",
+      "show_description": "Dal Phillip Island Grand Prix Circuit di Ventnor, Australia."
+    },
+    {
+      "show_name": "Motori World Superbike - Ep. 9 - Motori World Superbike 2026 Round 1 Australia - World Sbk Race 2 22/02/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/63f252c1-82b1-4d38-9353-90e25174db7e/cover?territory=IT&md5ChecksumParam=47e3f880c4b37817f5ec6f10fa627940",
+      "start_time": "2026-03-15 05:00:00",
+      "end_time": "2026-03-15 06:00:00",
+      "episode_number": "S2026 E9",
+      "show_category": "Sport",
+      "show_description": "Dal Phillip Island Grand Prix Circuit di Ventnor, Australia."
+    },
+    {
+      "show_name": "Bologna - AS Roma",
+      "show_logo": "https://guidatv.sky.it/uuid/a9304bf8-d00b-42f9-a100-e8fb9b72b200/cover?territory=IT&md5ChecksumParam=be8801d8cb321143836d0445a06c0ec7",
+      "start_time": "2026-03-15 06:00:00",
+      "end_time": "2026-03-15 08:00:00",
+      "episode_number": "S2025 E92",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Dall'Ara di Bologna, Italia."
+    },
+    {
+      "show_name": "Ep.11",
+      "show_logo": "https://guidatv.sky.it/uuid/7095019f-eda2-4617-80bc-5bbfc3baf1f0/cover?territory=IT&md5ChecksumParam=97afca5fe8192c883d5fff108dce1591",
+      "start_time": "2026-03-15 08:00:00",
+      "end_time": "2026-03-15 08:30:00",
+      "episode_number": "S2025 E11",
+      "show_category": "Sport",
+      "show_description": "Il meglio della Champions League attraverso le immagini, i gol e le interviste ai protagonisti, mixate in un montaggio spettacolare."
     },
     {
       "show_name": "Highlights Sail Gp - Ep. 3 - Hl Sail Gp 2025/2026 Sydney 07/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/highlights-sail-gp-ep-3-hl-sail-gp-2025-2026-sydney-07-03-2026.webp",
-      "start_time": "2026-03-14 00:05:00",
-      "end_time": "2026-03-14 01:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/86237b28-7846-4d81-9ec9-0f30cac84e7b/COVER_TITLE_TALL?territory=IT&version=4a9a0fbb-8950-3bf2-965d-076113ed2c45&w=600&h=800&md5ChecksumParam=ce99212cf7ce4378698e3276bcdd61fb",
+      "start_time": "2026-03-15 08:30:00",
+      "end_time": "2026-03-15 09:30:00",
       "episode_number": "S2026 E3",
       "show_category": "Sport",
       "show_description": "Sintesi e highlights della piu' spettacolare competizione velica internazionale dedicata ai catamarani foiling F50."
     },
     {
-      "show_name": "Kenya Live Stage 1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/kenya-live-stage-1.webp",
-      "start_time": "2026-03-14 01:00:00",
-      "end_time": "2026-03-14 02:00:00",
-      "episode_number": "S2026 E13",
+      "show_name": "World Baseball Classic - Ep. 8 - World Baseball Classic 2026 Italia/ Porto Rico 14/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/93aa789c-44cc-43ac-a09d-e22b3f1c4df7/COVER_TITLE_TALL?territory=IT&version=aecae92b-c115-3414-8677-492393ce7fa0&w=600&h=800&md5ChecksumParam=999c825e57c62755149def7b62ad369b",
+      "start_time": "2026-03-15 09:30:00",
+      "end_time": "2026-03-15 12:00:00",
+      "episode_number": "S2026 E8",
       "show_category": "Sport",
-      "show_description": "Segui le gare del World Rally Championship."
-    },
-    {
-      "show_name": "Calcio Uefa Champions League - Ep. 13 - Calcio Ucl Amazon Ottavi Di Finale (Andata) Real Madrid/ Manchester City 11/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/calcio-uefa-champions-league-ep-13-calcio-ucl-amazon-ottavi-di-finale-andata-real-madrid-manchester-city-11-03-2026.webp",
-      "start_time": "2026-03-14 02:00:00",
-      "end_time": "2026-03-14 06:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Dal Santiago Bernabeu di Madrid, Spagna."
-    },
-    {
-      "show_name": "Atalanta - Bayern Monaco",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/atalanta-bayern-monaco.webp",
-      "start_time": "2026-03-14 06:00:00",
-      "end_time": "2026-03-14 08:25:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Dalla New Balance Arena di Bergamo, Italia."
-    },
-    {
-      "show_name": "Trentino - Projekt Warsawa",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/trentino-projekt-warsawa.webp",
-      "start_time": "2026-03-14 08:25:00",
-      "end_time": "2026-03-14 10:30:00",
-      "episode_number": "S2025 E48",
-      "show_category": "Sport",
-      "show_description": "Dalla BTS Arena di Trento, Italia."
-    },
-    {
-      "show_name": "Kenya Live Stage 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/kenya-live-stage-2.webp",
-      "start_time": "2026-03-14 10:30:00",
-      "end_time": "2026-03-14 11:30:00",
-      "episode_number": "S2026 E14",
-      "show_category": "Sport",
-      "show_description": "Segui le gare del World Rally Championship."
-    },
-    {
-      "show_name": "Milano - Istanbul",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/milano-istanbul.webp",
-      "start_time": "2026-03-14 11:30:00",
-      "end_time": "2026-03-14 12:55:00",
-      "episode_number": "S2025 E52",
-      "show_category": "Sport",
-      "show_description": "Dalla Monza Arena di Monza, Italia."
-    },
-    {
-      "show_name": "Dakar 2026: I Signori Della Sabbia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/dakar-2026-i-signori-della-sabbia.webp",
-      "start_time": "2026-03-14 12:55:00",
-      "end_time": "2026-03-14 14:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Il resoconto della Dakar 2026 disputata per la settima volta nel deserto dell'Arabia Saudita. Curato da Sandro Donato Grosso."
-    },
-    {
-      "show_name": "Kenya Live Stage 3",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/kenya-live-stage-3.webp",
-      "start_time": "2026-03-14 14:00:00",
-      "end_time": "2026-03-14 15:00:00",
-      "episode_number": "S2026 E15",
-      "show_category": "Sport",
-      "show_description": "Segui le gare del World Rally Championship."
-    },
-    {
-      "show_name": "Motonautica On Board Ep.19 10/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/motonautica-on-board-ep-19-10-03-2026.webp",
-      "start_time": "2026-03-14 15:00:00",
-      "end_time": "2026-03-14 15:15:00",
-      "episode_number": "S2025 E19",
-      "show_category": "Sport",
-      "show_description": "... 10/03/2026 Motonautica On Board.  Motonautica On Board Ep.19 10/03/2026 - Motonautica On Board."
+      "show_description": "World Baseball Classic."
     },
     {
       "show_name": "Ep.23",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/ep-23.webp",
-      "start_time": "2026-03-14 15:15:00",
-      "end_time": "2026-03-14 15:40:00",
+      "show_logo": "https://guidatv.sky.it/uuid/8bb90c6e-c47d-4b1b-ba7e-3e80ca0cec80/cover?territory=IT&md5ChecksumParam=dcce944cc17595364a7d70b24d27d91b",
+      "start_time": "2026-03-15 12:00:00",
+      "end_time": "2026-03-15 12:30:00",
       "episode_number": "S2025 E23",
       "show_category": "Sport",
       "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
     },
     {
-      "show_name": "Programmazione non disponibile",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/programmazione-non-disponibile.webp",
-      "start_time": "2026-03-14 15:40:00",
-      "end_time": "2026-03-14 15:55:00",
-      "episode_number": "",
-      "show_category": "Intrattenimento",
-      "show_description": "Programmazione non disponibile."
-    },
-    {
-      "show_name": "Sunderland - Brighton",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/sunderland-brighton.webp",
-      "start_time": "2026-03-14 15:55:00",
-      "end_time": "2026-03-14 18:00:00",
-      "episode_number": "S2025 E297",
-      "show_category": "Sport",
-      "show_description": "Dallo Stadium of Light di Sunderland, Inghilterra."
-    },
-    {
-      "show_name": "Minotti",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/minotti.webp",
-      "start_time": "2026-03-14 18:00:00",
-      "end_time": "2026-03-14 18:30:00",
-      "episode_number": "S1 E4",
-      "show_category": "Sport",
-      "show_description": "Reload Minotti."
-    },
-    {
       "show_name": "Ep.18",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/ep-18.webp",
-      "start_time": "2026-03-14 18:30:00",
-      "end_time": "2026-03-14 18:45:00",
+      "show_logo": "https://guidatv.sky.it/uuid/b9c74b07-ed97-48c1-bd51-9f220c166eaf/cover?territory=IT&md5ChecksumParam=3bd2fad60ac04310981a6a323de6953f",
+      "start_time": "2026-03-15 12:30:00",
+      "end_time": "2026-03-15 12:40:00",
       "episode_number": "S2025 E18",
       "show_category": "Sport",
       "show_description": "... 13/03/2026 Blab Magazine. - Blab Magazine."
     },
     {
-      "show_name": "Motonautica On Board Ep.19 10/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/motonautica-on-board-ep-19-10-03-2026.webp",
-      "start_time": "2026-03-14 18:45:00",
-      "end_time": "2026-03-14 19:00:00",
-      "episode_number": "S2025 E19",
-      "show_category": "Sport",
-      "show_description": "... 10/03/2026 Motonautica On Board.  Motonautica On Board Ep.19 10/03/2026 - Motonautica On Board."
+      "show_name": "Programmazione non disponibile",
+      "show_logo": "https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png",
+      "start_time": "2026-03-15 12:40:00",
+      "end_time": "2026-03-15 12:55:00",
+      "episode_number": "",
+      "show_category": "Intrattenimento",
+      "show_description": "Programmazione non disponibile."
     },
     {
-      "show_name": "Dakar 2026: I Signori Della Sabbia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/dakar-2026-i-signori-della-sabbia.webp",
-      "start_time": "2026-03-14 19:00:00",
-      "end_time": "2026-03-14 23:30:00",
+      "show_name": "FA Women's Super League",
+      "show_logo": "https://guidatv.sky.it/uuid/013bbd8d-3d19-4be1-9a88-fa2a8205d464/cover?territory=IT&md5ChecksumParam=07a175f2096ed53d3e7d82388bc80752",
+      "start_time": "2026-03-15 12:55:00",
+      "end_time": "2026-03-15 14:55:00",
       "episode_number": "",
       "show_category": "Sport",
-      "show_description": "Il resoconto della Dakar 2026 disputata per la settima volta nel deserto dell'Arabia Saudita. Curato da Sandro Donato Grosso."
+      "show_description": "Dal Villa Park di Birmingham, Inghilterra."
     },
     {
-      "show_name": "Udinese - Juventus",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Max/tomorrow/udinese-juventus.webp",
-      "start_time": "2026-03-14 23:30:00",
-      "end_time": "2026-03-15 01:15:00",
-      "episode_number": "S2025 E284",
+      "show_name": "Ep.11",
+      "show_logo": "https://guidatv.sky.it/uuid/7095019f-eda2-4617-80bc-5bbfc3baf1f0/cover?territory=IT&md5ChecksumParam=97afca5fe8192c883d5fff108dce1591",
+      "start_time": "2026-03-15 14:55:00",
+      "end_time": "2026-03-15 15:25:00",
+      "episode_number": "S2025 E11",
       "show_category": "Sport",
-      "show_description": "Dallo Stadio Friuli di Udine, Italia."
+      "show_description": "Il meglio della Champions League attraverso le immagini, i gol e le interviste ai protagonisti, mixate in un montaggio spettacolare."
+    },
+    {
+      "show_name": "Werder Brema - Mainz",
+      "show_logo": "https://guidatv.sky.it/uuid/0214f5c4-cdcb-4e0d-9d75-319e4c897b03/cover?territory=IT&md5ChecksumParam=7a13f7c620adc0c5225a92849823db1a",
+      "start_time": "2026-03-15 15:25:00",
+      "end_time": "2026-03-15 17:25:00",
+      "episode_number": "S2025 E146",
+      "show_category": "Sport",
+      "show_description": "Dal Weserstadion di Brema, Germania."
+    },
+    {
+      "show_name": "Casertana - Monopoli",
+      "show_logo": "https://guidatv.sky.it/uuid/d79071e0-4fd4-47b8-96a9-1c7c3207260f/cover?territory=IT&md5ChecksumParam=00c1467896cbcd7eebd1e8185098996b",
+      "start_time": "2026-03-15 17:25:00",
+      "end_time": "2026-03-15 19:25:00",
+      "episode_number": "S2025 E326",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Alberto Pinto di Caserta, Campania, Italia."
+    },
+    {
+      "show_name": "VfB Stoccarda - RB Lipsia",
+      "show_logo": "https://guidatv.sky.it/uuid/dcef664d-be97-4c7a-aa50-ac9acc2d71a9/cover?territory=IT&md5ChecksumParam=f6e10e19c34c365dd44712e305473091",
+      "start_time": "2026-03-15 19:25:00",
+      "end_time": "2026-03-15 21:30:00",
+      "episode_number": "S2025 E148",
+      "show_category": "Sport",
+      "show_description": "Dalla MHPArena di Stoccarda, Germania."
+    },
+    {
+      "show_name": "L.A. Lakers - Denver",
+      "show_logo": "https://guidatv.sky.it/uuid/536c54b5-d75f-4908-83f9-af5b58a2d4d5/cover?territory=IT&md5ChecksumParam=daaa78f2790571651ffccab4aae60ffd",
+      "start_time": "2026-03-15 21:30:00",
+      "end_time": "2026-03-15 23:30:00",
+      "episode_number": "S2025 E81",
+      "show_category": "Sport",
+      "show_description": "Dalla Crypto.com Arena di Los Angeles, Stati Uniti."
+    },
+    {
+      "show_name": "Como - Roma",
+      "show_logo": "https://guidatv.sky.it/uuid/2e246ec3-03c1-473e-a680-c9c02f8ddaec/cover?territory=IT&md5ChecksumParam=8997c3e123d8c06c69e188815762abe0",
+      "start_time": "2026-03-15 23:30:00",
+      "end_time": "2026-03-16 01:15:00",
+      "episode_number": "S2025 E288",
+      "show_category": "Sport",
+      "show_description": "Dallo Stadio Giuseppe Sinigaglia di Como, Italia."
     }
   ]
 }
