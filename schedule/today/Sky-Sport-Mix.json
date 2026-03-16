@@ -1,168 +1,186 @@
 {
   "channel_name": "Sky Sport Mix",
-  "date": "2026-03-15",
+  "date": "2026-03-16",
   "programs": [
     {
-      "show_name": "USA - Italia",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/usa-italia.webp",
-      "start_time": "2026-03-15 00:00:00",
-      "end_time": "2026-03-15 00:00:00",
-      "episode_number": "S2026 E3",
+      "show_name": "Italia - Spagna",
+      "show_logo": "https://guidatv.sky.it/uuid/16bcad1e-af94-4af6-8661-70a7d4c800c6/cover?territory=IT&md5ChecksumParam=edb8b4ca163f240a69af57d90953fc53",
+      "start_time": "2026-03-16 00:00:00",
+      "end_time": "2026-03-16 00:05:00",
+      "episode_number": "S2026 E4",
       "show_category": "Sport",
       "show_description": "FIBA Qualificazioni Mondiali Femminili 2026."
     },
     {
+      "show_name": "EA7 Emporio Armani Milano - Maccabi Rapyd Tel Aviv",
+      "show_logo": "https://guidatv.sky.it/uuid/d383d1d1-1c2e-45f2-94a6-6da39390ae68/cover?territory=IT&md5ChecksumParam=946403e7b8f87a8fcc89478e79f73008",
+      "start_time": "2026-03-16 00:05:00",
+      "end_time": "2026-03-16 02:15:00",
+      "episode_number": "S2025 E116",
+      "show_category": "Sport",
+      "show_description": "Dall'Unipol Forum di Milano, Italia."
+    },
+    {
       "show_name": "Rugby Six Nations - Ep. 13 - Rugby Six Nations 2026 5ga Irlanda/ Scozia 14/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/rugby-six-nations-ep-13-rugby-six-nations-2026-5ga-irlanda-scozia-14-03-2026.webp",
-      "start_time": "2026-03-15 00:00:00",
-      "end_time": "2026-03-15 02:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/380c5edb-090b-476f-a416-f4bc2686da60/cover?territory=IT&md5ChecksumParam=777ae8411cf7dd533794694f7e032a34",
+      "start_time": "2026-03-16 02:15:00",
+      "end_time": "2026-03-16 04:05:00",
       "episode_number": "S2026 E13",
       "show_category": "Sport",
       "show_description": "Dall'Aviva Stadium di Dublino, Irlanda."
     },
     {
+      "show_name": "Kenya: Stage 5",
+      "show_logo": "https://guidatv.sky.it/uuid/5828419b-e1b0-4831-bb1a-c254bf2ccd10/cover?territory=IT&md5ChecksumParam=c8a172713cd8d438d6db5f7abf6fca5c",
+      "start_time": "2026-03-16 04:05:00",
+      "end_time": "2026-03-16 05:30:00",
+      "episode_number": "S2026 E17",
+      "show_category": "Sport",
+      "show_description": "Segui le gare del World Rally Championship."
+    },
+    {
+      "show_name": "Rally Wrc Highlight Show - Ep. 3 - Rally The Wrc Magazine 2026 Ep.3 10/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/0495113a-5ec6-4455-992b-c8a0bca0634e/cover?territory=IT&md5ChecksumParam=51e990140abd4bf1c22bc2cc1645d2cf",
+      "start_time": "2026-03-16 05:30:00",
+      "end_time": "2026-03-16 06:00:00",
+      "episode_number": "S2026 E3",
+      "show_category": "Sport",
+      "show_description": "Riviviamo le fasi più emozionanti delle gare del World Rally Championship."
+    },
+    {
+      "show_name": "Rugby Six Nations - Stag. Rugby Six Nations 2026 - Rugby Six Nations 2026 5ga Francia/ Inghilterra 14/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/0b3d2abc-dc21-44e6-97d0-3212ded1c9cf/cover?territory=IT&md5ChecksumParam=7a85c093544cdf166f36d6cae3057d81",
+      "start_time": "2026-03-16 06:00:00",
+      "end_time": "2026-03-16 08:00:00",
+      "episode_number": "S2026 E15",
+      "show_category": "Sport",
+      "show_description": "Dallo Stade de France di Saint-Denis, Francia."
+    },
+    {
+      "show_name": "Umana Reyer Venezia - Udine",
+      "show_logo": "https://guidatv.sky.it/uuid/0a0c58d7-d6e3-4398-acbc-1de1ccac6c57/cover?territory=IT&md5ChecksumParam=c478b60e4722a9cd697446c4ac46f683",
+      "start_time": "2026-03-16 08:00:00",
+      "end_time": "2026-03-16 10:00:00",
+      "episode_number": "S2025 E43",
+      "show_category": "Sport",
+      "show_description": "Dal Palasport Taliercio di Mestre, Italia."
+    },
+    {
+      "show_name": "Icarus Ultra - Ep. 24 - Icarus Ultra 2025 Ep.24 16/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/2ff18d30-274d-4a55-98d1-b7c1416b93f4/cover?territory=IT&md5ChecksumParam=59587654b9c766cb8efbed4496a7b442",
+      "start_time": "2026-03-16 10:00:00",
+      "end_time": "2026-03-16 10:30:00",
+      "episode_number": "S2025 E24",
+      "show_category": "Sport",
+      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
+    },
+    {
+      "show_name": "Messina 1a Parte",
+      "show_logo": "https://guidatv.sky.it/uuid/84535815-8aa1-4c36-9dcc-f104cd023721/cover?territory=IT&md5ChecksumParam=2411629202fb47561dc998f69cc1a38a",
+      "start_time": "2026-03-16 10:30:00",
+      "end_time": "2026-03-16 11:30:00",
+      "episode_number": "S1 E32",
+      "show_category": "Sport",
+      "show_description": "Dal silenzio alla scelta: Ettore Messina torna a parlare dopo le sue dimissioni. Tra vittorie e piazze che dividono, autoesigenza, pressioni e responsabilità di un allenatore."
+    },
+    {
+      "show_name": "Messina 2a Parte",
+      "show_logo": "https://guidatv.sky.it/uuid/7a9de7e0-d6b2-49a9-8554-55ba332bfb84/cover?territory=IT&md5ChecksumParam=d866bd2e1b3db48db3402fc7c8cbe0e2",
+      "start_time": "2026-03-16 11:30:00",
+      "end_time": "2026-03-16 12:30:00",
+      "episode_number": "S1 E33",
+      "show_category": "Sport",
+      "show_description": "Ospite di Federico Buffa Talks, Ettore Messina si è raccontato in una lunga intervista. Tra i temi: gli anni in NBA, i Lakers e San Antonio Spurs con Popovich, gli incontri con Kobe e Ginóbili e un'apertura sul suo prossimo futuro."
+    },
+    {
+      "show_name": "Ep.1",
+      "show_logo": "https://guidatv.sky.it/uuid/01979003-914c-4818-b25a-ed836c1f5df9/cover?territory=IT&md5ChecksumParam=bae125af13c49722ec1fa154ef3eb8b2",
+      "start_time": "2026-03-16 12:30:00",
+      "end_time": "2026-03-16 13:00:00",
+      "episode_number": "S2026 E1",
+      "show_category": "Sport",
+      "show_description": "I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia."
+    },
+    {
+      "show_name": "Highlights Sail Gp - Ep. 3 - Hl Sail Gp 2025/2026 Sydney 07/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/86237b28-7846-4d81-9ec9-0f30cac84e7b/COVER_TITLE_TALL?territory=IT&version=4a9a0fbb-8950-3bf2-965d-076113ed2c45&w=600&h=800&md5ChecksumParam=ce99212cf7ce4378698e3276bcdd61fb",
+      "start_time": "2026-03-16 13:00:00",
+      "end_time": "2026-03-16 14:30:00",
+      "episode_number": "S2026 E3",
+      "show_category": "Sport",
+      "show_description": "Sintesi e highlights della piu' spettacolare competizione velica internazionale dedicata ai catamarani foiling F50."
+    },
+    {
       "show_name": "Virtus Bologna - Partizan",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/virtus-bologna-partizan.webp",
-      "start_time": "2026-03-15 02:00:00",
-      "end_time": "2026-03-15 04:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/dbdd2fb2-6620-432f-b5e2-413be6e73078/cover?territory=IT&md5ChecksumParam=7e119d2f3a085eddfd45b3b2b430324f",
+      "start_time": "2026-03-16 14:30:00",
+      "end_time": "2026-03-16 16:30:00",
       "episode_number": "S2025 E114",
       "show_category": "Sport",
       "show_description": "Dalla Virtus Segafredo Arena di Bologna, Italia."
     },
     {
-      "show_name": "Rugby Six Nations - Ep. 14 - Rugby Six Nations 2026 5ga Galles/ Italia 14/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/rugby-six-nations-ep-14-rugby-six-nations-2026-5ga-galles-italia-14-03-2026.webp",
-      "start_time": "2026-03-15 04:05:00",
-      "end_time": "2026-03-15 06:00:00",
-      "episode_number": "S2026 E14",
+      "show_name": "Semifinale 1",
+      "show_logo": "https://guidatv.sky.it/uuid/53d3d7cb-cb9f-453f-b639-5aa4d023ad7d/COVER_TITLE_TALL?territory=IT&version=733d8eeb-7791-3827-ac74-f492819001cc&w=600&h=800&md5ChecksumParam=f3858d67bce1fe46ca68c2df4fadee62",
+      "start_time": "2026-03-16 16:30:00",
+      "end_time": "2026-03-16 19:00:00",
+      "episode_number": "S2026 E5",
       "show_category": "Sport",
-      "show_description": "Dal Principality Stadium di Cardiff, Galles."
-    },
-    {
-      "show_name": "Monaco - Olympiacos",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/monaco-olympiacos.webp",
-      "start_time": "2026-03-15 06:00:00",
-      "end_time": "2026-03-15 07:55:00",
-      "episode_number": "S2025 E113",
-      "show_category": "Sport",
-      "show_description": "Dalla Salle Gaston Médecin di Monaco."
-    },
-    {
-      "show_name": "Gp Cina: Gara",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/gp-cina-gara.webp",
-      "start_time": "2026-03-15 07:55:00",
-      "end_time": "2026-03-15 10:00:00",
-      "episode_number": "S2026 E2",
-      "show_category": "Sport",
-      "show_description": "F1 Kids."
-    },
-    {
-      "show_name": "Roma 1a Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/roma-1a-parte.webp",
-      "start_time": "2026-03-15 10:00:00",
-      "end_time": "2026-03-15 13:55:00",
-      "episode_number": "S2026 E1",
-      "show_category": "Sport",
-      "show_description": "... Premier League. - ... Premier League. - ... Premier League. - ... Roma 1a Parte 15/03/2026 Karate Premier League.  Karate Premier League 2026 Roma 1a Parte 15/03/2026 - Karate Premier League."
-    },
-    {
-      "show_name": "Coppa Davis",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/coppa-davis.webp",
-      "start_time": "2026-03-15 13:55:00",
-      "end_time": "2026-03-15 14:40:00",
-      "episode_number": "S1 E10",
-      "show_category": "Sport",
-      "show_description": "Due leggende del tennis italiano, Adriano Panatta e Paolo Bertolucci, ripercorrono la storia del tennis mondiale attraverso il loro inconfondibile stile: un mix di competenza tecnica, aneddoti e ironia pungente."
-    },
-    {
-      "show_name": "San Donato: Sogno E Visione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/san-donato-sogno-e-visione.webp",
-      "start_time": "2026-03-15 14:40:00",
-      "end_time": "2026-03-15 15:00:00",
-      "episode_number": "S2025 E23",
-      "show_category": "Sport",
-      "show_description": "Oteos - On The Evolution Of Sports: Attraverso il racconto di allenatori, atleti e specialisti di settore di ieri e di oggi, scopriamo alcuni dei cambiamenti più importanti nell’evoluzione degli sport."
-    },
-    {
-      "show_name": "Roma 2a Parte",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/roma-2a-parte.webp",
-      "start_time": "2026-03-15 15:00:00",
-      "end_time": "2026-03-15 18:50:00",
-      "episode_number": "S2026 E2",
-      "show_category": "Sport",
-      "show_description": "... Premier League. - ... Roma 2a Parte 15/03/2026 Karate Premier League.  Karate Premier League 2026 Roma 2a Parte 15/03/2026 - Karate Premier League."
-    },
-    {
-      "show_name": "San Donato: Sogno E Visione",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/san-donato-sogno-e-visione.webp",
-      "start_time": "2026-03-15 18:50:00",
-      "end_time": "2026-03-15 19:05:00",
-      "episode_number": "S2025 E23",
-      "show_category": "Sport",
-      "show_description": "Oteos - On The Evolution Of Sports: Attraverso il racconto di allenatori, atleti e specialisti di settore di ieri e di oggi, scopriamo alcuni dei cambiamenti più importanti nell’evoluzione degli sport."
-    },
-    {
-      "show_name": "La Giovane Italia - Stag. La Giovane Italia 2026 - La Giovane Italia 2026 Ep.6 12/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/la-giovane-italia-stag-la-giovane-italia-2026-la-giovane-italia-2026-ep-6-12-03-2026.webp",
-      "start_time": "2026-03-15 19:05:00",
-      "end_time": "2026-03-15 19:20:00",
-      "episode_number": "S2026 E6",
-      "show_category": "Sport",
-      "show_description": "Servizi informativi dedicati ai più piccoli sportivi italiani e alle realtà giovanili legate al calcio, tra trofei, incontri, e storie."
+      "show_description": "World Baseball Classic 2026."
     },
     {
       "show_name": "Enzo Ferrari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/enzo-ferrari.webp",
-      "start_time": "2026-03-15 19:20:00",
-      "end_time": "2026-03-15 20:20:00",
+      "show_logo": "https://guidatv.sky.it/uuid/40372da0-45c6-4ae6-a22e-d405de3107e4/COVER_TITLE_TALL?territory=IT&version=185128f3-858e-3402-a8db-df0ebda827eb&w=600&h=800&md5ChecksumParam=5df3a42e8cfbe42add1727132ba05fa9",
+      "start_time": "2026-03-16 19:00:00",
+      "end_time": "2026-03-16 20:00:00",
       "episode_number": "S3 E6",
       "show_category": "Sport",
       "show_description": "Giorgio Porrà delinea ritratti di grandi personaggi del calcio e dello sport in genere. Grazie a interviste ai protagonisti e a chi li ha conosciuti direttamente,."
     },
     {
-      "show_name": "Amadori Protein Talk - Ep. 7 - Amadori Protein Talk Ep.7 Amedeo Della Valle 13/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/amadori-protein-talk-ep-7-amadori-protein-talk-ep-7-amedeo-della-valle-13-03-2026.webp",
-      "start_time": "2026-03-15 20:20:00",
-      "end_time": "2026-03-15 20:50:00",
-      "episode_number": "S2025 E7",
+      "show_name": "Icarus Ultra - Ep. 24 - Icarus Ultra 2025 Ep.24 16/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/2ff18d30-274d-4a55-98d1-b7c1416b93f4/cover?territory=IT&md5ChecksumParam=59587654b9c766cb8efbed4496a7b442",
+      "start_time": "2026-03-16 20:00:00",
+      "end_time": "2026-03-16 20:30:00",
+      "episode_number": "S2025 E24",
       "show_category": "Sport",
-      "show_description": "Sport, passione e corretta nutrizione: diamo voce ai capioni del basket di ieri e di oggi."
+      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
+    },
+    {
+      "show_name": "Umana Reyer Venezia - Udine",
+      "show_logo": "https://guidatv.sky.it/uuid/0a0c58d7-d6e3-4398-acbc-1de1ccac6c57/cover?territory=IT&md5ChecksumParam=c478b60e4722a9cd697446c4ac46f683",
+      "start_time": "2026-03-16 20:30:00",
+      "end_time": "2026-03-16 22:30:00",
+      "episode_number": "S2025 E43",
+      "show_category": "Sport",
+      "show_description": "Dal Palasport Taliercio di Mestre, Italia."
+    },
+    {
+      "show_name": "La Giovane Italia - Stag. La Giovane Italia 2026 - La Giovane Italia 2026 Ep.6 12/03/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/9140d74d-165e-4392-9e08-331d4e4341be/COVER_TITLE_TALL?territory=IT&version=dfc29ba0-359e-3249-a604-44e5942a06f1&w=600&h=800&md5ChecksumParam=936ea95cde4e07412af98d3e4649b36b",
+      "start_time": "2026-03-16 22:30:00",
+      "end_time": "2026-03-16 22:45:00",
+      "episode_number": "S2026 E6",
+      "show_category": "Sport",
+      "show_description": "Servizi informativi dedicati ai più piccoli sportivi italiani e alle realtà giovanili legate al calcio, tra trofei, incontri, e storie."
     },
     {
       "show_name": "Motonautica On Board Ep.19 10/03/2026",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/motonautica-on-board-ep-19-10-03-2026.webp",
-      "start_time": "2026-03-15 20:50:00",
-      "end_time": "2026-03-15 21:05:00",
+      "show_logo": "https://guidatv.sky.it/uuid/db610a9b-3980-48a6-b920-6edd9b51e888/cover?territory=IT&md5ChecksumParam=3ee0799ddb3e8b0a348af7ddcb0eb330",
+      "start_time": "2026-03-16 22:45:00",
+      "end_time": "2026-03-16 23:00:00",
       "episode_number": "S2025 E19",
       "show_category": "Sport",
       "show_description": "Motonautica On Board."
     },
     {
-      "show_name": "Ep.23",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/ep-23.webp",
-      "start_time": "2026-03-15 21:05:00",
-      "end_time": "2026-03-15 21:35:00",
-      "episode_number": "S2025 E23",
+      "show_name": "Kenya: Stage 5",
+      "show_logo": "https://guidatv.sky.it/uuid/5828419b-e1b0-4831-bb1a-c254bf2ccd10/cover?territory=IT&md5ChecksumParam=c8a172713cd8d438d6db5f7abf6fca5c",
+      "start_time": "2026-03-16 23:00:00",
+      "end_time": "2026-03-17 00:30:00",
+      "episode_number": "S2026 E17",
       "show_category": "Sport",
-      "show_description": "Avventure, sfide, storie, imprese e tante curiosità dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
-    },
-    {
-      "show_name": "Napoli: Mezza maratona",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/napoli-mezza-maratona.webp",
-      "start_time": "2026-03-15 21:35:00",
-      "end_time": "2026-03-15 21:50:00",
-      "episode_number": "S1 E0",
-      "show_category": "Sport",
-      "show_description": "Segui il meglio delle gare di atletica."
-    },
-    {
-      "show_name": "Italia - Spagna",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Mix/today/italia-spagna.webp",
-      "start_time": "2026-03-15 21:50:00",
-      "end_time": "2026-03-16 00:00:00",
-      "episode_number": "S2026 E4",
-      "show_category": "Sport",
-      "show_description": "FIBA Qualificazioni Mondiali Femminili 2026."
+      "show_description": "Segui le gare del World Rally Championship."
     }
   ]
 }
