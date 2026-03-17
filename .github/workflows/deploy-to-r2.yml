@@ -1,0 +1,49 @@
+name: Sync to Cloudflare R2 and Purge Cache
+
+on:
+  schedule:
+    # Runs at 02:00 AM UTC every day
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Configure AWS CLI for high-concurrency
+        run: |
+          # Boost parallel connections for faster uploads of thousands of files
+          aws configure set default.s3.max_concurrent_requests 50
+          aws configure set default.s3.max_queue_size 10000
+
+      - name: Sync Schedule Folder to R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+        run: |
+          # The --delete flag ensures files removed from Git are deleted from R2
+          aws s3 sync ./schedule s3://italian-site/schedule/ \
+            --endpoint-url https://c222653e18e0baf276756cd9bcdfe36c.r2.cloudflarestorage.com \
+            --delete
+
+      - name: Sync Downloaded Images to R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+        run: |
+          aws s3 sync ./downloaded-images s3://italian-site/wp-content/uploads/downloaded-images/ \
+            --endpoint-url https://c222653e18e0baf276756cd9bcdfe36c.r2.cloudflarestorage.com \
+            --delete
+
+      - name: Purge Cloudflare Cache
+        run: |
+          curl -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CF_ZONE_ID }}/purge_cache" \
+          -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
+          -H "Content-Type: application/json" \
+          --data '{"purge_everything":true}'
