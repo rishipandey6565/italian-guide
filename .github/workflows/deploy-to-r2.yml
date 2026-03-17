@@ -28,7 +28,7 @@ jobs:
         run: |
           # The --delete flag ensures files removed from Git are deleted from R2
           aws s3 sync ./schedule s3://italian-site/schedule/ \
-            --endpoint-url https://c222653e18e0baf276756cd9bcdfe36c.r2.cloudflarestorage.com \
+            --endpoint-url https://c222653e18e0baf276756cd9bcdfe36c.eu.r2.cloudflarestorage.com/italian-site \
             --delete
 
       - name: Sync Downloaded Images to R2
