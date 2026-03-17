@@ -13,7 +13,6 @@ EPG_URLS = [
     # Add more URLs here if needed
 ]
 
-# Changed to a single output directory
 OUTPUT_DIR = "schedule"
 FILTER_FILE = "filter.txt"
 LOG_FILE = "scrape.log"
@@ -215,13 +214,12 @@ def extract_schedule():
                         time_fmt = "%H:%M:%S"
                         
                         entry = {
-                            "show_name": p['show_name'],
-                            "show_logo": p['logo_url'],
-                            "start_time": display_start.strftime(time_fmt),
-                            "end_time": p_end.strftime(time_fmt),
-                            "episode_number": p['episode'],
-                            "show_category": p['category']
-                            # show_description completely removed
+                            "name": p['show_name'],
+                            "logo": p['logo_url'],
+                            "start": display_start.strftime(time_fmt),
+                            "end": p_end.strftime(time_fmt),
+                            "episode": p['episode'],
+                            "category": p['category']
                         }
                         daily_schedule.append(entry)
                 
@@ -242,6 +240,7 @@ def extract_schedule():
                 
                 try:
                     with open(file_path, 'w', encoding='utf-8') as f:
+                        # Consider using separators=(',', ':') to minify the JSON further if human-readability isn't strictly required
                         json.dump(channel_schedule, f, indent=2, ensure_ascii=False)
                     files_saved += 1
                     log_f.write(f"  -> Merged File Saved: {file_path}\n")
