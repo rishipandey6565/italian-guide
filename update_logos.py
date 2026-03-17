@@ -2,10 +2,9 @@
 """
 Updated: 
 1. Reads JSON files directly from "schedule/"
-2. Handles new JSON structure: {"days": [{"date": "...", "programs": [...]}]}
-3. Keys updated: "show_name" -> "name", "show_logo" -> "logo"
-4. Output directory flattened: removed today/tomorrow subfolders
-5. Added file size check to avoid skipping corrupted 0-byte images
+2. Uses recursive extraction to find "programs" arrays anywhere in the JSON (fixes list/dict root errors)
+3. Output directory flattened: removed today/tomorrow subfolders
+4. Checks file size to avoid skipping corrupted 0-byte images
 """
 
 import argparse
@@ -17,7 +16,7 @@ import re
 import time
 from io import BytesIO
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, List
 
 import requests
 from PIL import Image, UnidentifiedImageError
@@ -72,7 +71,6 @@ def download_with_retries(url: str) -> bytes:
     backoff = 1
     for attempt in range(1, RETRY_COUNT + 1):
         try:
-            # Removed stream=True since we load it immediately into memory anyway
             resp = session.get(url, timeout=REQUEST_TIMEOUT)
             resp.raise_for_status()
             return resp.content
@@ -96,6 +94,25 @@ def convert_to_webp(image_bytes: bytes, out_path: Path):
     img.save(out_path, "WEBP", quality=WEBP_QUALITY, method=6)
 
 
+def extract_program_dicts(node) -> List[dict]:
+    """Recursively search for all dictionaries inside any 'programs' list."""
+    found = []
+    if isinstance(node, dict):
+        for key, value in node.items():
+            if key == "programs" and isinstance(value, list):
+                # We found a programs list! Collect all dictionaries inside it.
+                for item in value:
+                    if isinstance(item, dict):
+                        found.append(item)
+            else:
+                # Keep searching deeper
+                found.extend(extract_program_dicts(value))
+    elif isinstance(node, list):
+        for item in node:
+            found.extend(extract_program_dicts(item))
+    return found
+
+
 # -----------------------
 # Core per-JSON processing
 # -----------------------
@@ -115,30 +132,27 @@ def process_json_file(json_path: Path, out_root: Path, base_url: str, workers: i
 
     # RULE: One image per show_name
     show_to_url: Dict[str, str] = {}      # show_name -> first URL
-    show_to_indexes: Dict[str, List[Tuple[int, int]]] = {}  # show_name -> [(day_idx, program_idx)]
-
-    days = data.get("days", [])
     
-    # Extract all shows across all days in the file
-    for d_idx, day_data in enumerate(days):
-        programs = day_data.get("programs", [])
-        for p_idx, row in enumerate(programs):
-            if not isinstance(row, dict):
-                continue
-                
-            show = row.get("name", "").strip()
-            url = row.get("logo", "").strip()
+    # Store memory references to the dictionaries so we can update them in place
+    show_to_programs: Dict[str, List[dict]] = {}  
 
-            # If empty show name, skip
-            if not show:
-                continue
-            
-            # Save the first valid HTTP URL we find for this show
-            if show not in show_to_url and url.startswith("http"):
-                show_to_url[show] = url
-            
-            # Track exactly where this show is located in the nested JSON
-            show_to_indexes.setdefault(show, []).append((d_idx, p_idx))
+    # Extract all program blocks, no matter how the JSON is structured
+    all_programs = extract_program_dicts(data)
+    
+    for row in all_programs:
+        show = row.get("name", "").strip()
+        url = row.get("logo", "").strip()
+
+        # If empty show name, skip
+        if not show:
+            continue
+        
+        # Save the first valid HTTP URL we find for this show
+        if show not in show_to_url and url.startswith("http"):
+            show_to_url[show] = url
+        
+        # Track the dictionary reference
+        show_to_programs.setdefault(show, []).append(row)
 
     tasks = []
 
@@ -152,7 +166,7 @@ def process_json_file(json_path: Path, out_root: Path, base_url: str, workers: i
     def worker(task):
         show_name, url, out_path = task
 
-        # Skip if file exists AND is not empty (prevents 0-byte corrupt files from blocking downloads)
+        # Skip if file exists AND is not empty
         if out_path.exists() and out_path.stat().st_size > 0:
             return show_name, out_path, None
 
@@ -168,28 +182,25 @@ def process_json_file(json_path: Path, out_root: Path, base_url: str, workers: i
     with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as exe:
         results = list(exe.map(worker, tasks))
 
-    # Update JSON
+    # Update JSON references
     results_map = {r[0]: (r[1], r[2]) for r in results} # name -> (path, err)
 
-    for show_name, indexes in show_to_indexes.items():
+    for show_name, program_dicts in show_to_programs.items():
         if show_name in results_map:
             out_path, err = results_map[show_name]
             
             if err:
-                # Case 1: Download failed -> Use Fallback URL
                 final_url = FALLBACK_LOGO_URL
             else:
-                # Case 2: Success -> Use local WebP URL (No today/tomorrow subdirectories)
                 slug = slugify(show_name)
                 new_rel = f"{out_root.name}/{channel_folder}/{slug}.webp"
                 final_url = f"{base_url}/{new_rel}"
         else:
-            # Case 3: No URL was present originally -> Use Fallback URL
             final_url = FALLBACK_LOGO_URL
 
-        # Apply the URL to all occurrences of this show across all days
-        for d_idx, p_idx in indexes:
-            days[d_idx]["programs"][p_idx]["logo"] = final_url
+        # Apply the URL directly to the memory reference (updates 'data' automatically)
+        for p_dict in program_dicts:
+            p_dict["logo"] = final_url
 
     # Atomic Save
     temp_path = json_path.with_suffix(".tmp")
