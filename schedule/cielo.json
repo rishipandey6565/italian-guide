@@ -5,244 +5,244 @@
       "date": "2026-03-17",
       "programs": [
         {
-          "show_name": "Il mistero di Donald C.",
-          "show_logo": "https://guidatv.sky.it/uuid/71edadfa-3939-4472-b824-c44807d8e056/cover?territory=IT&md5ChecksumParam=11b833ec2bcbaef8d3c1880d163d14cd",
-          "start_time": "00:00:00",
-          "end_time": "01:25:00",
-          "episode_number": "",
-          "show_category": "Film"
+          "name": "Il mistero di Donald C.",
+          "logo": "https://guidatv.sky.it/uuid/71edadfa-3939-4472-b824-c44807d8e056/cover?territory=IT&md5ChecksumParam=11b833ec2bcbaef8d3c1880d163d14cd",
+          "start": "00:00:00",
+          "end": "01:25:00",
+          "episode": "",
+          "category": "Film"
         },
         {
-          "show_name": "The Circle",
-          "show_logo": "https://guidatv.sky.it/uuid/cfd2e4e2-2689-4ead-9872-c826bc838bec/cover?territory=IT&md5ChecksumParam=5fbc09f1ed5ce3279cf6ce1259848435",
-          "start_time": "01:25:00",
-          "end_time": "03:20:00",
-          "episode_number": "",
-          "show_category": "Film"
+          "name": "The Circle",
+          "logo": "https://guidatv.sky.it/uuid/cfd2e4e2-2689-4ead-9872-c826bc838bec/cover?territory=IT&md5ChecksumParam=5fbc09f1ed5ce3279cf6ce1259848435",
+          "start": "01:25:00",
+          "end": "03:20:00",
+          "episode": "",
+          "category": "Film"
         },
         {
-          "show_name": "Shockwave: countdown per il disastro",
-          "show_logo": "https://guidatv.sky.it/uuid/80ff64c5-6133-422e-a336-eb95628aa646/cover?territory=IT&md5ChecksumParam=068481112b1b1a88c6146788b4f80c28",
-          "start_time": "03:20:00",
-          "end_time": "04:50:00",
-          "episode_number": "",
-          "show_category": "Film"
+          "name": "Shockwave: countdown per il disastro",
+          "logo": "https://guidatv.sky.it/uuid/80ff64c5-6133-422e-a336-eb95628aa646/cover?territory=IT&md5ChecksumParam=068481112b1b1a88c6146788b4f80c28",
+          "start": "03:20:00",
+          "end": "04:50:00",
+          "episode": "",
+          "category": "Film"
         },
         {
-          "show_name": "Affari di famiglia",
-          "show_logo": "https://guidatv.sky.it/uuid/626f06ef-9833-4f9f-ae45-47be048c19ee/cover?territory=IT&md5ChecksumParam=b309f59ce9cf917c7454e6f537221053",
-          "start_time": "04:50:00",
-          "end_time": "05:15:00",
-          "episode_number": "S8 E42",
-          "show_category": "Mondo e Tendenze"
+          "name": "Affari di famiglia",
+          "logo": "https://guidatv.sky.it/uuid/626f06ef-9833-4f9f-ae45-47be048c19ee/cover?territory=IT&md5ChecksumParam=b309f59ce9cf917c7454e6f537221053",
+          "start": "04:50:00",
+          "end": "05:15:00",
+          "episode": "S8 E42",
+          "category": "Mondo e Tendenze"
         },
         {
-          "show_name": "Steve Austin - Sfida implacabile",
-          "show_logo": "https://guidatv.sky.it/uuid/830e54f6-d396-4307-95fb-12ed27e03041/cover?territory=IT&md5ChecksumParam=fa009e2f85675803b3e16cc36d72afd9",
-          "start_time": "05:15:00",
-          "end_time": "06:00:00",
-          "episode_number": "S5 E9",
-          "show_category": "Intrattenimento"
+          "name": "Steve Austin - Sfida implacabile",
+          "logo": "https://guidatv.sky.it/uuid/830e54f6-d396-4307-95fb-12ed27e03041/cover?territory=IT&md5ChecksumParam=fa009e2f85675803b3e16cc36d72afd9",
+          "start": "05:15:00",
+          "end": "06:00:00",
+          "episode": "S5 E9",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "TG24 Pagine",
-          "show_logo": "https://guidatv.sky.it/uuid/2cf17e23-fc9b-497b-ba0f-46cdca4aaa5c/COVER_TITLE_TALL?territory=IT&version=eb117ca3-4fd5-3df6-85c6-817f394f3675&w=600&h=800&md5ChecksumParam=41dceeabb68adcd313c53b111e7f3641",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": "",
-          "show_category": "Informazione"
+          "name": "TG24 Pagine",
+          "logo": "https://guidatv.sky.it/uuid/2cf17e23-fc9b-497b-ba0f-46cdca4aaa5c/COVER_TITLE_TALL?territory=IT&version=eb117ca3-4fd5-3df6-85c6-817f394f3675&w=600&h=800&md5ChecksumParam=41dceeabb68adcd313c53b111e7f3641",
+          "start": "06:00:00",
+          "end": "06:30:00",
+          "episode": "",
+          "category": "Informazione"
         },
         {
-          "show_name": "TG24 Preview",
-          "show_logo": "https://guidatv.sky.it/uuid/1435d750-95d0-4ad2-86df-5a12a9145183/cover?territory=IT&md5ChecksumParam=60135fff73841a9bcab0a571ff4e9537",
-          "start_time": "06:30:00",
-          "end_time": "06:35:00",
-          "episode_number": "",
-          "show_category": "Informazione"
+          "name": "TG24 Preview",
+          "logo": "https://guidatv.sky.it/uuid/1435d750-95d0-4ad2-86df-5a12a9145183/cover?territory=IT&md5ChecksumParam=60135fff73841a9bcab0a571ff4e9537",
+          "start": "06:30:00",
+          "end": "06:35:00",
+          "episode": "",
+          "category": "Informazione"
         },
         {
-          "show_name": "TG24 Buongiorno",
-          "show_logo": "https://guidatv.sky.it/uuid/9faed0fb-3233-4d57-9922-4d9ba43eaed4/cover?territory=IT&md5ChecksumParam=07b49eb421fd548d80f5f026a728e4cf",
-          "start_time": "06:35:00",
-          "end_time": "07:00:00",
-          "episode_number": "",
-          "show_category": "Informazione"
+          "name": "TG24 Buongiorno",
+          "logo": "https://guidatv.sky.it/uuid/9faed0fb-3233-4d57-9922-4d9ba43eaed4/cover?territory=IT&md5ChecksumParam=07b49eb421fd548d80f5f026a728e4cf",
+          "start": "06:35:00",
+          "end": "07:00:00",
+          "episode": "",
+          "category": "Informazione"
         },
         {
-          "show_name": "Affari di famiglia",
-          "show_logo": "https://guidatv.sky.it/uuid/8dbf234e-c627-450c-b2a3-5df99e476459/cover?territory=IT&md5ChecksumParam=e8f247fd6254eff6197f50b8fd3f7369",
-          "start_time": "07:00:00",
-          "end_time": "07:25:00",
-          "episode_number": "S3 E15",
-          "show_category": "Mondo e Tendenze"
+          "name": "Affari di famiglia",
+          "logo": "https://guidatv.sky.it/uuid/8dbf234e-c627-450c-b2a3-5df99e476459/cover?territory=IT&md5ChecksumParam=e8f247fd6254eff6197f50b8fd3f7369",
+          "start": "07:00:00",
+          "end": "07:25:00",
+          "episode": "S3 E15",
+          "category": "Mondo e Tendenze"
         },
         {
-          "show_name": "Affari di famiglia",
-          "show_logo": "https://guidatv.sky.it/uuid/a86b36e5-a168-4c6d-a617-d1cbcfae0b76/cover?territory=IT&md5ChecksumParam=b309f59ce9cf917c7454e6f537221053",
-          "start_time": "07:25:00",
-          "end_time": "07:50:00",
-          "episode_number": "S12 E46",
-          "show_category": "Mondo e Tendenze"
+          "name": "Affari di famiglia",
+          "logo": "https://guidatv.sky.it/uuid/a86b36e5-a168-4c6d-a617-d1cbcfae0b76/cover?territory=IT&md5ChecksumParam=b309f59ce9cf917c7454e6f537221053",
+          "start": "07:25:00",
+          "end": "07:50:00",
+          "episode": "S12 E46",
+          "category": "Mondo e Tendenze"
         },
         {
-          "show_name": "Fratelli in affari: una casa e' per...",
-          "show_logo": "https://guidatv.sky.it/uuid/449a8c72-9342-4635-bc56-8f7d93b387c7/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
-          "start_time": "07:50:00",
-          "end_time": "08:40:00",
-          "episode_number": "S3 E9",
-          "show_category": "Intrattenimento"
+          "name": "Fratelli in affari: una casa e' per...",
+          "logo": "https://guidatv.sky.it/uuid/449a8c72-9342-4635-bc56-8f7d93b387c7/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
+          "start": "07:50:00",
+          "end": "08:40:00",
+          "episode": "S3 E9",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Fratelli in affari: una casa e' per...",
-          "show_logo": "https://guidatv.sky.it/uuid/bf4b953a-2f9d-4902-91c8-6d9f2ce3cea9/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
-          "start_time": "08:40:00",
-          "end_time": "09:30:00",
-          "episode_number": "S3 E5",
-          "show_category": "Intrattenimento"
+          "name": "Fratelli in affari: una casa e' per...",
+          "logo": "https://guidatv.sky.it/uuid/bf4b953a-2f9d-4902-91c8-6d9f2ce3cea9/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
+          "start": "08:40:00",
+          "end": "09:30:00",
+          "episode": "S3 E5",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Sky TG24 in pillole",
-          "show_logo": "https://guidatv.sky.it/uuid/ed268d65-0636-4a0f-bf0a-c4e892e15446/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
-          "start_time": "09:30:00",
-          "end_time": "09:35:00",
-          "episode_number": "",
-          "show_category": "Informazione"
+          "name": "Sky TG24 in pillole",
+          "logo": "https://guidatv.sky.it/uuid/ed268d65-0636-4a0f-bf0a-c4e892e15446/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+          "start": "09:30:00",
+          "end": "09:35:00",
+          "episode": "",
+          "category": "Informazione"
         },
         {
-          "show_name": "Fratelli in affari: Una casa e' per...",
-          "show_logo": "https://guidatv.sky.it/uuid/1beda840-62e4-4a4e-b17c-29213fc9718b/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
-          "start_time": "09:35:00",
-          "end_time": "10:35:00",
-          "episode_number": "S3 E1",
-          "show_category": "Intrattenimento"
+          "name": "Fratelli in affari: Una casa e' per...",
+          "logo": "https://guidatv.sky.it/uuid/1beda840-62e4-4a4e-b17c-29213fc9718b/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
+          "start": "09:35:00",
+          "end": "10:35:00",
+          "episode": "S3 E1",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Friends",
-          "show_logo": "https://guidatv.sky.it/uuid/9831ba96-e799-4b92-a8b3-7f03e9ff90dc/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
-          "start_time": "10:35:00",
-          "end_time": "11:05:00",
-          "episode_number": "S3 E15",
-          "show_category": "Intrattenimento"
+          "name": "Friends",
+          "logo": "https://guidatv.sky.it/uuid/9831ba96-e799-4b92-a8b3-7f03e9ff90dc/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
+          "start": "10:35:00",
+          "end": "11:05:00",
+          "episode": "S3 E15",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Friends",
-          "show_logo": "https://guidatv.sky.it/uuid/0c1266d7-dc8f-49d4-9469-93f3aad68b93/cover?territory=IT&md5ChecksumParam=851f9239419ae34d760b1975bc808386",
-          "start_time": "11:05:00",
-          "end_time": "11:35:00",
-          "episode_number": "S3 E16",
-          "show_category": "Intrattenimento"
+          "name": "Friends",
+          "logo": "https://guidatv.sky.it/uuid/0c1266d7-dc8f-49d4-9469-93f3aad68b93/cover?territory=IT&md5ChecksumParam=851f9239419ae34d760b1975bc808386",
+          "start": "11:05:00",
+          "end": "11:35:00",
+          "episode": "S3 E16",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Friends",
-          "show_logo": "https://guidatv.sky.it/uuid/d0fa28bd-980c-401d-9844-f6cf3de75511/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
-          "start_time": "11:35:00",
-          "end_time": "12:05:00",
-          "episode_number": "S3 E17",
-          "show_category": "Intrattenimento"
+          "name": "Friends",
+          "logo": "https://guidatv.sky.it/uuid/d0fa28bd-980c-401d-9844-f6cf3de75511/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
+          "start": "11:35:00",
+          "end": "12:05:00",
+          "episode": "S3 E17",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Friends",
-          "show_logo": "https://guidatv.sky.it/uuid/8e39c372-a139-483c-b31a-a7f690b9de9f/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
-          "start_time": "12:05:00",
-          "end_time": "12:35:00",
-          "episode_number": "S3 E18",
-          "show_category": "Intrattenimento"
+          "name": "Friends",
+          "logo": "https://guidatv.sky.it/uuid/8e39c372-a139-483c-b31a-a7f690b9de9f/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
+          "start": "12:05:00",
+          "end": "12:35:00",
+          "episode": "S3 E18",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "MasterChef Italia",
-          "show_logo": "https://guidatv.sky.it/uuid/d2a2a6ce-ff47-49fb-bfd5-c057c9263489/cover?territory=IT&md5ChecksumParam=1f7cc2b6344a2b5877f4d306ff50a877",
-          "start_time": "12:35:00",
-          "end_time": "13:55:00",
-          "episode_number": "S5 E21",
-          "show_category": "Intrattenimento"
+          "name": "MasterChef Italia",
+          "logo": "https://guidatv.sky.it/uuid/d2a2a6ce-ff47-49fb-bfd5-c057c9263489/cover?territory=IT&md5ChecksumParam=1f7cc2b6344a2b5877f4d306ff50a877",
+          "start": "12:35:00",
+          "end": "13:55:00",
+          "episode": "S5 E21",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "MasterChef Italia",
-          "show_logo": "https://guidatv.sky.it/uuid/a2bd597d-af2e-41ea-8006-8fa3ea7f2c88/cover?territory=IT&md5ChecksumParam=116881f9da1d544a332b41ff07677565",
-          "start_time": "13:55:00",
-          "end_time": "15:15:00",
-          "episode_number": "S13 E5",
-          "show_category": "Intrattenimento"
+          "name": "MasterChef Italia",
+          "logo": "https://guidatv.sky.it/uuid/a2bd597d-af2e-41ea-8006-8fa3ea7f2c88/cover?territory=IT&md5ChecksumParam=116881f9da1d544a332b41ff07677565",
+          "start": "13:55:00",
+          "end": "15:15:00",
+          "episode": "S13 E5",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "MasterChef Italia",
-          "show_logo": "https://guidatv.sky.it/uuid/144cea78-4ba1-4714-8661-c16fca319f10/cover?territory=IT&md5ChecksumParam=116881f9da1d544a332b41ff07677565",
-          "start_time": "15:15:00",
-          "end_time": "16:40:00",
-          "episode_number": "S13 E6",
-          "show_category": "Intrattenimento"
+          "name": "MasterChef Italia",
+          "logo": "https://guidatv.sky.it/uuid/144cea78-4ba1-4714-8661-c16fca319f10/cover?territory=IT&md5ChecksumParam=116881f9da1d544a332b41ff07677565",
+          "start": "15:15:00",
+          "end": "16:40:00",
+          "episode": "S13 E6",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Cucine da incubo",
-          "show_logo": "https://guidatv.sky.it/uuid/af5fb25c-5809-4890-9066-f0df2eabb8d3/cover?territory=IT&md5ChecksumParam=edfe2eb89857cb47af89380b2929facd",
-          "start_time": "16:40:00",
-          "end_time": "17:55:00",
-          "episode_number": "S10 E3",
-          "show_category": "Intrattenimento"
+          "name": "Cucine da incubo",
+          "logo": "https://guidatv.sky.it/uuid/af5fb25c-5809-4890-9066-f0df2eabb8d3/cover?territory=IT&md5ChecksumParam=edfe2eb89857cb47af89380b2929facd",
+          "start": "16:40:00",
+          "end": "17:55:00",
+          "episode": "S10 E3",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Alessandro Borghese: Celebrity Chef",
-          "show_logo": "https://guidatv.sky.it/uuid/32e75e53-e8b9-4985-a5c1-beac1d12b813/cover?territory=IT&md5ChecksumParam=d0cb4776b440f2d11426d2bc10451813",
-          "start_time": "17:55:00",
-          "end_time": "18:00:00",
-          "episode_number": "S3 E10",
-          "show_category": "Intrattenimento"
+          "name": "Alessandro Borghese: Celebrity Chef",
+          "logo": "https://guidatv.sky.it/uuid/32e75e53-e8b9-4985-a5c1-beac1d12b813/cover?territory=IT&md5ChecksumParam=d0cb4776b440f2d11426d2bc10451813",
+          "start": "17:55:00",
+          "end": "18:00:00",
+          "episode": "S3 E10",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Alessandro Borghese: Celebrity Chef",
-          "show_logo": "https://guidatv.sky.it/uuid/fc14747a-b91a-4fda-a8a2-35a23aaaca4f/COVER_TITLE_TALL?territory=IT&version=7cfa2e96-0e80-356f-8e13-4dc28c94244c&w=600&h=800&md5ChecksumParam=8bfec06b593013f345ce7eaa80f419f8",
-          "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": "S4 E19",
-          "show_category": "Intrattenimento"
+          "name": "Alessandro Borghese: Celebrity Chef",
+          "logo": "https://guidatv.sky.it/uuid/fc14747a-b91a-4fda-a8a2-35a23aaaca4f/COVER_TITLE_TALL?territory=IT&version=7cfa2e96-0e80-356f-8e13-4dc28c94244c&w=600&h=800&md5ChecksumParam=8bfec06b593013f345ce7eaa80f419f8",
+          "start": "18:00:00",
+          "end": "19:00:00",
+          "episode": "S4 E19",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Cucine da incubo",
-          "show_logo": "https://guidatv.sky.it/uuid/7d2d821f-312a-4053-93a7-bdaee26e05f9/cover?territory=IT&md5ChecksumParam=ba190e29a0d73ba354d5db486cdbb5dc",
-          "start_time": "19:00:00",
-          "end_time": "20:30:00",
-          "episode_number": "S8 E5",
-          "show_category": "Intrattenimento"
+          "name": "Cucine da incubo",
+          "logo": "https://guidatv.sky.it/uuid/7d2d821f-312a-4053-93a7-bdaee26e05f9/cover?territory=IT&md5ChecksumParam=ba190e29a0d73ba354d5db486cdbb5dc",
+          "start": "19:00:00",
+          "end": "20:30:00",
+          "episode": "S8 E5",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Friends",
-          "show_logo": "https://guidatv.sky.it/uuid/68b45f77-d548-4344-85bd-5ffc0aab9756/cover?territory=IT&md5ChecksumParam=387bb8bc08b0b0cc6846e16060ed9550",
-          "start_time": "20:30:00",
-          "end_time": "21:00:00",
-          "episode_number": "S4 E20",
-          "show_category": "Intrattenimento"
+          "name": "Friends",
+          "logo": "https://guidatv.sky.it/uuid/68b45f77-d548-4344-85bd-5ffc0aab9756/cover?territory=IT&md5ChecksumParam=387bb8bc08b0b0cc6846e16060ed9550",
+          "start": "20:30:00",
+          "end": "21:00:00",
+          "episode": "S4 E20",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Friends",
-          "show_logo": "https://guidatv.sky.it/uuid/3a711afa-4472-4945-bb27-be81c87b37eb/cover?territory=IT&md5ChecksumParam=299943e85a9a0695a53bda4da201e4d1",
-          "start_time": "21:00:00",
-          "end_time": "21:30:00",
-          "episode_number": "S4 E21",
-          "show_category": "Intrattenimento"
+          "name": "Friends",
+          "logo": "https://guidatv.sky.it/uuid/3a711afa-4472-4945-bb27-be81c87b37eb/cover?territory=IT&md5ChecksumParam=299943e85a9a0695a53bda4da201e4d1",
+          "start": "21:00:00",
+          "end": "21:30:00",
+          "episode": "S4 E21",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Sporting CP - FK Bodø/Glimt",
-          "show_logo": "https://guidatv.sky.it/uuid/10e98001-9aae-4d74-851d-2d1e82240ed5/cover?territory=IT&md5ChecksumParam=eda8836f87b73a80beb1125c4b385dff",
-          "start_time": "21:30:00",
-          "end_time": "23:40:00",
-          "episode_number": "S2025 E164",
-          "show_category": "Sport"
+          "name": "Sporting CP - FK Bodø/Glimt",
+          "logo": "https://guidatv.sky.it/uuid/10e98001-9aae-4d74-851d-2d1e82240ed5/cover?territory=IT&md5ChecksumParam=eda8836f87b73a80beb1125c4b385dff",
+          "start": "21:30:00",
+          "end": "23:40:00",
+          "episode": "S2025 E164",
+          "category": "Sport"
         },
         {
-          "show_name": "Anteprima Sky Sport 24 Night",
-          "show_logo": "https://guidatv.sky.it/uuid/fe1326e1-6ed6-41ca-9624-551c2115088c/cover?territory=IT&md5ChecksumParam=d682349880063307a935af93d99351f9",
-          "start_time": "23:40:00",
-          "end_time": "23:45:00",
-          "episode_number": "",
-          "show_category": "Informazione"
+          "name": "Anteprima Sky Sport 24 Night",
+          "logo": "https://guidatv.sky.it/uuid/fe1326e1-6ed6-41ca-9624-551c2115088c/cover?territory=IT&md5ChecksumParam=d682349880063307a935af93d99351f9",
+          "start": "23:40:00",
+          "end": "23:45:00",
+          "episode": "",
+          "category": "Informazione"
         },
         {
-          "show_name": "Sky Sport 24 Night",
-          "show_logo": "https://guidatv.sky.it/uuid/b0cec132-d1f8-4bc8-8909-00097013ab27/cover?territory=IT&md5ChecksumParam=d462a5ebe9e4bfb5aa020574205177b9",
-          "start_time": "23:45:00",
-          "end_time": "00:45:00",
-          "episode_number": "",
-          "show_category": "Informazione"
+          "name": "Sky Sport 24 Night",
+          "logo": "https://guidatv.sky.it/uuid/b0cec132-d1f8-4bc8-8909-00097013ab27/cover?territory=IT&md5ChecksumParam=d462a5ebe9e4bfb5aa020574205177b9",
+          "start": "23:45:00",
+          "end": "00:45:00",
+          "episode": "",
+          "category": "Informazione"
         }
       ]
     },
@@ -250,212 +250,212 @@
       "date": "2026-03-18",
       "programs": [
         {
-          "show_name": "Sky Sport 24 Night",
-          "show_logo": "https://guidatv.sky.it/uuid/b0cec132-d1f8-4bc8-8909-00097013ab27/cover?territory=IT&md5ChecksumParam=d462a5ebe9e4bfb5aa020574205177b9",
-          "start_time": "00:00:00",
-          "end_time": "00:45:00",
-          "episode_number": "",
-          "show_category": "Informazione"
+          "name": "Sky Sport 24 Night",
+          "logo": "https://guidatv.sky.it/uuid/b0cec132-d1f8-4bc8-8909-00097013ab27/cover?territory=IT&md5ChecksumParam=d462a5ebe9e4bfb5aa020574205177b9",
+          "start": "00:00:00",
+          "end": "00:45:00",
+          "episode": "",
+          "category": "Informazione"
         },
         {
-          "show_name": "Rogue - Il solitario",
-          "show_logo": "https://guidatv.sky.it/uuid/d31aa2b4-cb41-4dc5-81e3-33fcff23fc85/COVER_TITLE_TALL?territory=IT&version=0dc20d08-32ba-396c-8c8b-ac3cacb9bed1&w=600&h=800&md5ChecksumParam=b67e2652ab00155c26ce739d201864e9",
-          "start_time": "00:45:00",
-          "end_time": "02:30:00",
-          "episode_number": "",
-          "show_category": "Film"
+          "name": "Rogue - Il solitario",
+          "logo": "https://guidatv.sky.it/uuid/d31aa2b4-cb41-4dc5-81e3-33fcff23fc85/COVER_TITLE_TALL?territory=IT&version=0dc20d08-32ba-396c-8c8b-ac3cacb9bed1&w=600&h=800&md5ChecksumParam=b67e2652ab00155c26ce739d201864e9",
+          "start": "00:45:00",
+          "end": "02:30:00",
+          "episode": "",
+          "category": "Film"
         },
         {
-          "show_name": "Monolith",
-          "show_logo": "https://guidatv.sky.it/uuid/4a5bd079-9eb9-4f15-95c3-63f0463d021e/cover?territory=IT&md5ChecksumParam=1178ce396d4b79b1de5d426044f7a5bf",
-          "start_time": "02:30:00",
-          "end_time": "03:55:00",
-          "episode_number": "",
-          "show_category": "Film"
+          "name": "Monolith",
+          "logo": "https://guidatv.sky.it/uuid/4a5bd079-9eb9-4f15-95c3-63f0463d021e/cover?territory=IT&md5ChecksumParam=1178ce396d4b79b1de5d426044f7a5bf",
+          "start": "02:30:00",
+          "end": "03:55:00",
+          "episode": "",
+          "category": "Film"
         },
         {
-          "show_name": "Affari di famiglia",
-          "show_logo": "https://guidatv.sky.it/uuid/5466f022-8775-4c6f-a398-685859217e51/cover?territory=IT&md5ChecksumParam=3b2c0606281d11669a6444cdccd1f0ff",
-          "start_time": "03:55:00",
-          "end_time": "04:20:00",
-          "episode_number": "S9 E20",
-          "show_category": "Mondo e Tendenze"
+          "name": "Affari di famiglia",
+          "logo": "https://guidatv.sky.it/uuid/5466f022-8775-4c6f-a398-685859217e51/cover?territory=IT&md5ChecksumParam=3b2c0606281d11669a6444cdccd1f0ff",
+          "start": "03:55:00",
+          "end": "04:20:00",
+          "episode": "S9 E20",
+          "category": "Mondo e Tendenze"
         },
         {
-          "show_name": "Top 20 Funniest",
-          "show_logo": "https://guidatv.sky.it/uuid/76c84cba-a8e6-4d7b-ba7c-caa5adc7349d/COVER_TITLE_TALL?territory=IT&version=33b18d4e-8cb4-3d4a-836f-a2214ce2ba05&w=600&h=800&md5ChecksumParam=5eeb7657fbf831b803ee020d806ffba4",
-          "start_time": "04:20:00",
-          "end_time": "05:10:00",
-          "episode_number": "S2 E2",
-          "show_category": "Intrattenimento"
+          "name": "Top 20 Funniest",
+          "logo": "https://guidatv.sky.it/uuid/76c84cba-a8e6-4d7b-ba7c-caa5adc7349d/COVER_TITLE_TALL?territory=IT&version=33b18d4e-8cb4-3d4a-836f-a2214ce2ba05&w=600&h=800&md5ChecksumParam=5eeb7657fbf831b803ee020d806ffba4",
+          "start": "04:20:00",
+          "end": "05:10:00",
+          "episode": "S2 E2",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Top 20 Countdown",
-          "show_logo": "https://guidatv.sky.it/uuid/65459162-ee1d-44f7-93a8-57673d4b9032/COVER_TITLE_TALL?territory=IT&version=40b57b5e-dc87-35bf-97f4-207c68fd0ef5&w=600&h=800&md5ChecksumParam=6ba367cf94250f4e152e5aee731aff1d",
-          "start_time": "05:10:00",
-          "end_time": "06:00:00",
-          "episode_number": "S4 E2",
-          "show_category": "Intrattenimento"
+          "name": "Top 20 Countdown",
+          "logo": "https://guidatv.sky.it/uuid/65459162-ee1d-44f7-93a8-57673d4b9032/COVER_TITLE_TALL?territory=IT&version=40b57b5e-dc87-35bf-97f4-207c68fd0ef5&w=600&h=800&md5ChecksumParam=6ba367cf94250f4e152e5aee731aff1d",
+          "start": "05:10:00",
+          "end": "06:00:00",
+          "episode": "S4 E2",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "TG24 Pagine",
-          "show_logo": "https://guidatv.sky.it/uuid/2cf17e23-fc9b-497b-ba0f-46cdca4aaa5c/COVER_TITLE_TALL?territory=IT&version=eb117ca3-4fd5-3df6-85c6-817f394f3675&w=600&h=800&md5ChecksumParam=41dceeabb68adcd313c53b111e7f3641",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": "",
-          "show_category": "Informazione"
+          "name": "TG24 Pagine",
+          "logo": "https://guidatv.sky.it/uuid/2cf17e23-fc9b-497b-ba0f-46cdca4aaa5c/COVER_TITLE_TALL?territory=IT&version=eb117ca3-4fd5-3df6-85c6-817f394f3675&w=600&h=800&md5ChecksumParam=41dceeabb68adcd313c53b111e7f3641",
+          "start": "06:00:00",
+          "end": "06:30:00",
+          "episode": "",
+          "category": "Informazione"
         },
         {
-          "show_name": "TG24 Preview",
-          "show_logo": "https://guidatv.sky.it/uuid/1435d750-95d0-4ad2-86df-5a12a9145183/cover?territory=IT&md5ChecksumParam=60135fff73841a9bcab0a571ff4e9537",
-          "start_time": "06:30:00",
-          "end_time": "06:35:00",
-          "episode_number": "",
-          "show_category": "Informazione"
+          "name": "TG24 Preview",
+          "logo": "https://guidatv.sky.it/uuid/1435d750-95d0-4ad2-86df-5a12a9145183/cover?territory=IT&md5ChecksumParam=60135fff73841a9bcab0a571ff4e9537",
+          "start": "06:30:00",
+          "end": "06:35:00",
+          "episode": "",
+          "category": "Informazione"
         },
         {
-          "show_name": "TG24 Buongiorno",
-          "show_logo": "https://guidatv.sky.it/uuid/9faed0fb-3233-4d57-9922-4d9ba43eaed4/cover?territory=IT&md5ChecksumParam=07b49eb421fd548d80f5f026a728e4cf",
-          "start_time": "06:35:00",
-          "end_time": "07:00:00",
-          "episode_number": "",
-          "show_category": "Informazione"
+          "name": "TG24 Buongiorno",
+          "logo": "https://guidatv.sky.it/uuid/9faed0fb-3233-4d57-9922-4d9ba43eaed4/cover?territory=IT&md5ChecksumParam=07b49eb421fd548d80f5f026a728e4cf",
+          "start": "06:35:00",
+          "end": "07:00:00",
+          "episode": "",
+          "category": "Informazione"
         },
         {
-          "show_name": "Affari di famiglia",
-          "show_logo": "https://guidatv.sky.it/uuid/ff03c1f5-faab-4a6b-90dd-66a0f9b96bf7/cover?territory=IT&md5ChecksumParam=b309f59ce9cf917c7454e6f537221053",
-          "start_time": "07:00:00",
-          "end_time": "07:45:00",
-          "episode_number": "S12 E1",
-          "show_category": "Mondo e Tendenze"
+          "name": "Affari di famiglia",
+          "logo": "https://guidatv.sky.it/uuid/ff03c1f5-faab-4a6b-90dd-66a0f9b96bf7/cover?territory=IT&md5ChecksumParam=b309f59ce9cf917c7454e6f537221053",
+          "start": "07:00:00",
+          "end": "07:45:00",
+          "episode": "S12 E1",
+          "category": "Mondo e Tendenze"
         },
         {
-          "show_name": "Fratelli in affari: Una casa e' per...",
-          "show_logo": "https://guidatv.sky.it/uuid/8904ce18-8322-409a-b451-c364c4deec96/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
-          "start_time": "07:45:00",
-          "end_time": "08:30:00",
-          "episode_number": "S3 E2",
-          "show_category": "Intrattenimento"
+          "name": "Fratelli in affari: Una casa e' per...",
+          "logo": "https://guidatv.sky.it/uuid/8904ce18-8322-409a-b451-c364c4deec96/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
+          "start": "07:45:00",
+          "end": "08:30:00",
+          "episode": "S3 E2",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Fratelli in affari: Una casa e' per...",
-          "show_logo": "https://guidatv.sky.it/uuid/761e95f3-6181-49fd-a805-2506d7367ec4/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
-          "start_time": "08:30:00",
-          "end_time": "09:30:00",
-          "episode_number": "S3 E6",
-          "show_category": "Intrattenimento"
+          "name": "Fratelli in affari: Una casa e' per...",
+          "logo": "https://guidatv.sky.it/uuid/761e95f3-6181-49fd-a805-2506d7367ec4/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
+          "start": "08:30:00",
+          "end": "09:30:00",
+          "episode": "S3 E6",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Sky TG24 in pillole",
-          "show_logo": "https://guidatv.sky.it/uuid/ed268d65-0636-4a0f-bf0a-c4e892e15446/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
-          "start_time": "09:30:00",
-          "end_time": "09:35:00",
-          "episode_number": "",
-          "show_category": "Informazione"
+          "name": "Sky TG24 in pillole",
+          "logo": "https://guidatv.sky.it/uuid/ed268d65-0636-4a0f-bf0a-c4e892e15446/cover?territory=IT&md5ChecksumParam=656e826866e29e46ed4c98da56262573",
+          "start": "09:30:00",
+          "end": "09:35:00",
+          "episode": "",
+          "category": "Informazione"
         },
         {
-          "show_name": "Fratelli in affari: Una casa e' per...",
-          "show_logo": "https://guidatv.sky.it/uuid/bd43432c-d1bf-4768-bc92-114d07a1347c/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
-          "start_time": "09:35:00",
-          "end_time": "10:35:00",
-          "episode_number": "S3 E5",
-          "show_category": "Intrattenimento"
+          "name": "Fratelli in affari: Una casa e' per...",
+          "logo": "https://guidatv.sky.it/uuid/bd43432c-d1bf-4768-bc92-114d07a1347c/cover?territory=IT&md5ChecksumParam=10feba6666825d7a7a5c60319cdd9b75",
+          "start": "09:35:00",
+          "end": "10:35:00",
+          "episode": "S3 E5",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Friends",
-          "show_logo": "https://guidatv.sky.it/uuid/d0fa28bd-980c-401d-9844-f6cf3de75511/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
-          "start_time": "10:35:00",
-          "end_time": "11:05:00",
-          "episode_number": "S3 E17",
-          "show_category": "Intrattenimento"
+          "name": "Friends",
+          "logo": "https://guidatv.sky.it/uuid/d0fa28bd-980c-401d-9844-f6cf3de75511/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
+          "start": "10:35:00",
+          "end": "11:05:00",
+          "episode": "S3 E17",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Friends",
-          "show_logo": "https://guidatv.sky.it/uuid/8e39c372-a139-483c-b31a-a7f690b9de9f/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
-          "start_time": "11:05:00",
-          "end_time": "11:35:00",
-          "episode_number": "S3 E18",
-          "show_category": "Intrattenimento"
+          "name": "Friends",
+          "logo": "https://guidatv.sky.it/uuid/8e39c372-a139-483c-b31a-a7f690b9de9f/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
+          "start": "11:05:00",
+          "end": "11:35:00",
+          "episode": "S3 E18",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Friends",
-          "show_logo": "https://guidatv.sky.it/uuid/70e02308-b974-4918-8f5a-cbe7b01f47db/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
-          "start_time": "11:35:00",
-          "end_time": "12:35:00",
-          "episode_number": "S3 E19",
-          "show_category": "Intrattenimento"
+          "name": "Friends",
+          "logo": "https://guidatv.sky.it/uuid/70e02308-b974-4918-8f5a-cbe7b01f47db/cover?territory=IT&md5ChecksumParam=aca80731bfc913075338b3cf20641137",
+          "start": "11:35:00",
+          "end": "12:35:00",
+          "episode": "S3 E19",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "MasterChef Italia",
-          "show_logo": "https://guidatv.sky.it/uuid/7df71392-472a-483e-a491-87107f1d41a4/cover?territory=IT&md5ChecksumParam=1f7cc2b6344a2b5877f4d306ff50a877",
-          "start_time": "12:35:00",
-          "end_time": "13:55:00",
-          "episode_number": "S5 E22",
-          "show_category": "Intrattenimento"
+          "name": "MasterChef Italia",
+          "logo": "https://guidatv.sky.it/uuid/7df71392-472a-483e-a491-87107f1d41a4/cover?territory=IT&md5ChecksumParam=1f7cc2b6344a2b5877f4d306ff50a877",
+          "start": "12:35:00",
+          "end": "13:55:00",
+          "episode": "S5 E22",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "MasterChef Italia",
-          "show_logo": "https://guidatv.sky.it/uuid/144cea78-4ba1-4714-8661-c16fca319f10/cover?territory=IT&md5ChecksumParam=116881f9da1d544a332b41ff07677565",
-          "start_time": "13:55:00",
-          "end_time": "15:15:00",
-          "episode_number": "S13 E6",
-          "show_category": "Intrattenimento"
+          "name": "MasterChef Italia",
+          "logo": "https://guidatv.sky.it/uuid/144cea78-4ba1-4714-8661-c16fca319f10/cover?territory=IT&md5ChecksumParam=116881f9da1d544a332b41ff07677565",
+          "start": "13:55:00",
+          "end": "15:15:00",
+          "episode": "S13 E6",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "MasterChef Italia",
-          "show_logo": "https://guidatv.sky.it/uuid/489af331-7f29-48aa-a3c8-dfd3d994ae6d/cover?territory=IT&md5ChecksumParam=116881f9da1d544a332b41ff07677565",
-          "start_time": "15:15:00",
-          "end_time": "16:40:00",
-          "episode_number": "S13 E7",
-          "show_category": "Intrattenimento"
+          "name": "MasterChef Italia",
+          "logo": "https://guidatv.sky.it/uuid/489af331-7f29-48aa-a3c8-dfd3d994ae6d/cover?territory=IT&md5ChecksumParam=116881f9da1d544a332b41ff07677565",
+          "start": "15:15:00",
+          "end": "16:40:00",
+          "episode": "S13 E7",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Cucine da incubo",
-          "show_logo": "https://guidatv.sky.it/uuid/c492049c-71ec-4ef7-a5b7-1414bb034587/cover?territory=IT&md5ChecksumParam=edfe2eb89857cb47af89380b2929facd",
-          "start_time": "16:40:00",
-          "end_time": "17:55:00",
-          "episode_number": "S10 E4",
-          "show_category": "Intrattenimento"
+          "name": "Cucine da incubo",
+          "logo": "https://guidatv.sky.it/uuid/c492049c-71ec-4ef7-a5b7-1414bb034587/cover?territory=IT&md5ChecksumParam=edfe2eb89857cb47af89380b2929facd",
+          "start": "16:40:00",
+          "end": "17:55:00",
+          "episode": "S10 E4",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Alessandro Borghese: Celebrity Chef",
-          "show_logo": "https://guidatv.sky.it/uuid/32e75e53-e8b9-4985-a5c1-beac1d12b813/cover?territory=IT&md5ChecksumParam=d0cb4776b440f2d11426d2bc10451813",
-          "start_time": "17:55:00",
-          "end_time": "18:00:00",
-          "episode_number": "S3 E10",
-          "show_category": "Intrattenimento"
+          "name": "Alessandro Borghese: Celebrity Chef",
+          "logo": "https://guidatv.sky.it/uuid/32e75e53-e8b9-4985-a5c1-beac1d12b813/cover?territory=IT&md5ChecksumParam=d0cb4776b440f2d11426d2bc10451813",
+          "start": "17:55:00",
+          "end": "18:00:00",
+          "episode": "S3 E10",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Alessandro Borghese: Celebrity Chef",
-          "show_logo": "https://guidatv.sky.it/uuid/1aff21de-674c-4c71-a7a1-6d209ef157a0/COVER_TITLE_TALL?territory=IT&version=7cfa2e96-0e80-356f-8e13-4dc28c94244c&w=600&h=800&md5ChecksumParam=8bfec06b593013f345ce7eaa80f419f8",
-          "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": "S4 E20",
-          "show_category": "Intrattenimento"
+          "name": "Alessandro Borghese: Celebrity Chef",
+          "logo": "https://guidatv.sky.it/uuid/1aff21de-674c-4c71-a7a1-6d209ef157a0/COVER_TITLE_TALL?territory=IT&version=7cfa2e96-0e80-356f-8e13-4dc28c94244c&w=600&h=800&md5ChecksumParam=8bfec06b593013f345ce7eaa80f419f8",
+          "start": "18:00:00",
+          "end": "19:00:00",
+          "episode": "S4 E20",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Cucine da incubo",
-          "show_logo": "https://guidatv.sky.it/uuid/6bbb79a2-2de4-4f75-900a-a67e5d29985a/cover?territory=IT&md5ChecksumParam=ba190e29a0d73ba354d5db486cdbb5dc",
-          "start_time": "19:00:00",
-          "end_time": "21:20:00",
-          "episode_number": "S8 E6",
-          "show_category": "Intrattenimento"
+          "name": "Cucine da incubo",
+          "logo": "https://guidatv.sky.it/uuid/6bbb79a2-2de4-4f75-900a-a67e5d29985a/cover?territory=IT&md5ChecksumParam=ba190e29a0d73ba354d5db486cdbb5dc",
+          "start": "19:00:00",
+          "end": "21:20:00",
+          "episode": "S8 E6",
+          "category": "Intrattenimento"
         },
         {
-          "show_name": "Acts of Violence",
-          "show_logo": "https://guidatv.sky.it/uuid/09d469ae-31ac-4dfb-b68c-e802fcfa6e4f/cover?territory=IT&md5ChecksumParam=31975f4d1e46bac77685b416d0ddfd65",
-          "start_time": "21:20:00",
-          "end_time": "23:15:00",
-          "episode_number": "",
-          "show_category": "Film"
+          "name": "Acts of Violence",
+          "logo": "https://guidatv.sky.it/uuid/09d469ae-31ac-4dfb-b68c-e802fcfa6e4f/cover?territory=IT&md5ChecksumParam=31975f4d1e46bac77685b416d0ddfd65",
+          "start": "21:20:00",
+          "end": "23:15:00",
+          "episode": "",
+          "category": "Film"
         },
         {
-          "show_name": "Tv8 Champions Night - 18/03/2026",
-          "show_logo": "https://guidatv.sky.it/uuid/297ac9b2-8e66-43d4-905a-4fa1c3c5df0f/cover?territory=IT&md5ChecksumParam=18dad5f365df42a7c29c521a9e315096",
-          "start_time": "23:15:00",
-          "end_time": "00:15:00",
-          "episode_number": "S2025 E24",
-          "show_category": "Sport"
+          "name": "Tv8 Champions Night - 18/03/2026",
+          "logo": "https://guidatv.sky.it/uuid/297ac9b2-8e66-43d4-905a-4fa1c3c5df0f/cover?territory=IT&md5ChecksumParam=18dad5f365df42a7c29c521a9e315096",
+          "start": "23:15:00",
+          "end": "00:15:00",
+          "episode": "S2025 E24",
+          "category": "Sport"
         }
       ]
     }
