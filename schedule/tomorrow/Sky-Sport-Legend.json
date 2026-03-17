@@ -1,231 +1,186 @@
 {
   "channel_name": "Sky Sport Legend",
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "programs": [
     {
-      "show_name": "Enzo Ferrari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/enzo-ferrari.webp",
-      "start_time": "2026-03-17 00:00:00",
-      "end_time": "2026-03-17 00:05:00",
-      "episode_number": "S3 E6",
-      "show_category": "Sport",
-      "show_description": "Giorgio Porrà delinea ritratti di grandi personaggi del calcio e dello sport in genere. Grazie a interviste ai protagonisti e a chi li ha conosciuti direttamente,."
-    },
-    {
-      "show_name": "Coppa Davis",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/coppa-davis.webp",
-      "start_time": "2026-03-17 00:05:00",
-      "end_time": "2026-03-17 00:55:00",
-      "episode_number": "S1 E10",
-      "show_category": "Sport",
-      "show_description": "Due leggende del tennis italiano, Adriano Panatta e Paolo Bertolucci, ripercorrono la storia del tennis mondiale attraverso il loro inconfondibile stile: un mix di competenza tecnica, aneddoti e ironia pungente."
-    },
-    {
-      "show_name": "Flavia a New York, 10 anni dopo",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/flavia-a-new-york-10-anni-dopo.webp",
-      "start_time": "2026-03-17 00:55:00",
-      "end_time": "2026-03-17 01:45:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Dieci anni dopo il trionfo allo US Open 2015, Flavia Pennetta rivive il sogno, l’impresa e l’addio che hanno segnato per sempre il tennis italiano."
-    },
-    {
       "show_name": "The Lost Dreamteam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/the-lost-dreamteam.webp",
-      "start_time": "2026-03-17 01:45:00",
-      "end_time": "2026-03-17 03:15:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Tra fine anni ’80 e inizio ’90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
-    },
-    {
-      "show_name": "Enzo Ferrari",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/enzo-ferrari.webp",
-      "start_time": "2026-03-17 03:15:00",
-      "end_time": "2026-03-17 04:15:00",
-      "episode_number": "S3 E6",
-      "show_category": "Sport",
-      "show_description": "Giorgio Porrà delinea ritratti di grandi personaggi del calcio e dello sport in genere. Grazie a interviste ai protagonisti e a chi li ha conosciuti direttamente,."
-    },
-    {
-      "show_name": "Gli Anni 90",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/gli-anni-90.webp",
-      "start_time": "2026-03-17 04:15:00",
-      "end_time": "2026-03-17 05:00:00",
-      "episode_number": "S1 E9",
-      "show_category": "Sport",
-      "show_description": "Due leggende del tennis italiano, Adriano Panatta e Paolo Bertolucci, ripercorrono la storia del tennis mondiale attraverso il loro inconfondibile stile: un mix di competenza tecnica, aneddoti inediti e ironia pungente."
-    },
-    {
-      "show_name": "3tre, Il Numero Magico Dello Sci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/3tre-il-numero-magico-dello-sci.webp",
-      "start_time": "2026-03-17 05:00:00",
-      "end_time": "2026-03-17 06:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Sky Sport racconta settantacinque anni di storia e trionfi sulla pista di Madonna di Campiglio, in Trentino Alto Adige, attraverso le voci dei campioni che hanno reso leggendaria la 3 Tre."
-    },
-    {
-      "show_name": "È stato tutto bello - Storia di Paolino e Pablito",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/stato-tutto-bello-storia-di-paolino-e-pablito.webp",
-      "start_time": "2026-03-17 06:00:00",
-      "end_time": "2026-03-17 08:00:00",
-      "episode_number": "",
-      "show_category": "Film",
-      "show_description": "Walter Veltroni racconta in un documentario la vita e la carriera di Paolo Rossi, uno degli eroi della nazionale italiana che trionfo' ai Mondiali di calcio del 1982."
-    },
-    {
-      "show_name": "3tre, Il Numero Magico Dello Sci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/3tre-il-numero-magico-dello-sci.webp",
-      "start_time": "2026-03-17 08:00:00",
-      "end_time": "2026-03-17 09:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Sky Sport racconta settantacinque anni di storia e trionfi sulla pista di Madonna di Campiglio, in Trentino Alto Adige, attraverso le voci dei campioni che hanno reso leggendaria la 3 Tre."
-    },
-    {
-      "show_name": "1996, L'anno Di Del Piero Parte 1",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/1996-l-anno-di-del-piero-parte-1.webp",
-      "start_time": "2026-03-17 09:00:00",
-      "end_time": "2026-03-17 09:45:00",
-      "episode_number": "S2025 E1",
-      "show_category": "Sport",
-      "show_description": "Prima parte del viaggio nel passato di Alessandro Del Piero, che ripercorre uno degli anni più iconici della sua carriera: il 1996."
-    },
-    {
-      "show_name": "Parte 2",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/parte-2.webp",
-      "start_time": "2026-03-17 09:45:00",
-      "end_time": "2026-03-17 10:30:00",
-      "episode_number": "S2025 E2",
-      "show_category": "Sport",
-      "show_description": "Seconda parte del viaggio nel passato di Alessandro Del Piero, che ripercorre uno degli anni più iconici della sua carriera: il 1996."
-    },
-    {
-      "show_name": "Sintesi Juventus - Ajax 1996/1997",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/sintesi-juventus-ajax-1996-1997.webp",
-      "start_time": "2026-03-17 10:30:00",
-      "end_time": "2026-03-17 11:30:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Sintesi Juventus - Ajax 1996/1997."
-    },
-    {
-      "show_name": "Il Dna Del Barca: Da Crujiff A Guardiola",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/il-dna-del-barca-da-crujiff-a-guardiola.webp",
-      "start_time": "2026-03-17 11:30:00",
-      "end_time": "2026-03-17 12:00:00",
-      "episode_number": "S1 E6",
-      "show_category": "Sport",
-      "show_description": "90/10."
-    },
-    {
-      "show_name": "Una squadra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/una-squadra.webp",
-      "start_time": "2026-03-17 12:00:00",
-      "end_time": "2026-03-17 13:00:00",
-      "episode_number": "S1 E1",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Serie Sky Original sulla finale di Coppa Davis del '76. La squadra italiana era formata da Panatta, Barazzutti, Bertolucci, Zugarelli: 4 campioni con stili diversi."
-    },
-    {
-      "show_name": "Una squadra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/una-squadra.webp",
-      "start_time": "2026-03-17 13:00:00",
-      "end_time": "2026-03-17 14:00:00",
-      "episode_number": "S1 E2",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La squadra ricorda la sconfitta in semifinale nel '74 nel Sudafrica dell'apartheid. Tre anni dopo a Barcellona l'Italia della Davis vince contro la Spagna."
-    },
-    {
-      "show_name": "Una squadra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/una-squadra.webp",
-      "start_time": "2026-03-17 14:00:00",
-      "end_time": "2026-03-17 15:00:00",
-      "episode_number": "S1 E3",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La serie Sky Original continua con il ricordo degli anni di formazione nel centro di Formia, sotto la guida di Belardinelli."
-    },
-    {
-      "show_name": "Una squadra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/una-squadra.webp",
-      "start_time": "2026-03-17 15:00:00",
-      "end_time": "2026-03-17 16:00:00",
-      "episode_number": "S1 E4",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "La squadra nel '78 destituisce Pietrangeli come capitano. Con il nuovo capitano, Bergamo, e con Panatta che ha problemi personali, la squadra perde in Ungheria."
-    },
-    {
-      "show_name": "Una squadra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/una-squadra.webp",
-      "start_time": "2026-03-17 16:00:00",
-      "end_time": "2026-03-17 17:00:00",
-      "episode_number": "S1 E5",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "I tennisti, tutti con infanzie diverse alle spalle, ripercorrono l'inizio della loro passione per il tennis."
-    },
-    {
-      "show_name": "Una squadra",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/una-squadra.webp",
-      "start_time": "2026-03-17 17:00:00",
-      "end_time": "2026-03-17 18:00:00",
-      "episode_number": "S1 E6",
-      "show_category": "Mondo e Tendenze",
-      "show_description": "Prima della finale di coppa Davis del '76 a Santiago, De Vergottini ottiene la liberazione di alcuni prigionieri politici grazie alla partecipazione degli italiani alla finale."
-    },
-    {
-      "show_name": "Sintesi Juventus - Ajax 1996/1997",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/sintesi-juventus-ajax-1996-1997.webp",
-      "start_time": "2026-03-17 18:00:00",
-      "end_time": "2026-03-17 19:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Sintesi Juventus - Ajax 1996/1997."
-    },
-    {
-      "show_name": "Marocchi",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/marocchi.webp",
-      "start_time": "2026-03-17 19:00:00",
-      "end_time": "2026-03-17 19:30:00",
-      "episode_number": "S1 E3",
-      "show_category": "Sport",
-      "show_description": "Giancarlo Marocchi è un dirigente sportivo, commentatore televisivo ed ex calciatore italiano."
-    },
-    {
-      "show_name": "Coppa Davis",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/coppa-davis.webp",
-      "start_time": "2026-03-17 19:30:00",
-      "end_time": "2026-03-17 21:00:00",
-      "episode_number": "S1 E10",
-      "show_category": "Sport",
-      "show_description": "Due leggende del tennis italiano, Adriano Panatta e Paolo Bertolucci, ripercorrono la storia del tennis mondiale attraverso il loro inconfondibile stile: un mix di competenza tecnica, aneddoti e ironia pungente."
-    },
-    {
-      "show_name": "3tre, Il Numero Magico Dello Sci",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/3tre-il-numero-magico-dello-sci.webp",
-      "start_time": "2026-03-17 21:00:00",
-      "end_time": "2026-03-17 22:00:00",
-      "episode_number": "",
-      "show_category": "Sport",
-      "show_description": "Sky Sport racconta settantacinque anni di storia e trionfi sulla pista di Madonna di Campiglio, in Trentino Alto Adige, attraverso le voci dei campioni che hanno reso leggendaria la 3 Tre."
-    },
-    {
-      "show_name": "Federica Pellegrini",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/federica-pellegrini.webp",
-      "start_time": "2026-03-17 22:00:00",
-      "end_time": "2026-03-17 23:00:00",
-      "episode_number": "S1 E27",
-      "show_category": "Sport",
-      "show_description": "Prima olimpionica azzurra nella Hall of Fame del nuoto, Federica Pellegrini ha rappresentato record e ori, ma la sua eredità va oltre i titoli. Un dono per lo sport italiano."
-    },
-    {
-      "show_name": "The Lost Dreamteam",
-      "show_logo": "https://tv-programma.it/wp-content/uploads/downloaded-images/Sky-Sport-Legend/tomorrow/the-lost-dreamteam.webp",
-      "start_time": "2026-03-17 23:00:00",
+      "show_logo": "https://guidatv.sky.it/uuid/7c09a5e6-89cb-45bb-8731-334516c82d47/cover?territory=IT&md5ChecksumParam=0e43bb8c267f38c26d262c2c7d727288",
+      "start_time": "2026-03-18 00:00:00",
       "end_time": "2026-03-18 00:30:00",
       "episode_number": "",
       "show_category": "Sport",
       "show_description": "Tra fine anni ’80 e inizio ’90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
+    },
+    {
+      "show_name": "Il Tennis Futuro",
+      "show_logo": "https://guidatv.sky.it/uuid/bade814c-2a64-4a7b-9dbf-b3efc51fd0b3/cover?territory=IT&md5ChecksumParam=eb124ca11d7538f1268bb66e98488656",
+      "start_time": "2026-03-18 00:30:00",
+      "end_time": "2026-03-18 01:15:00",
+      "episode_number": "S1 E8",
+      "show_category": "Sport",
+      "show_description": "Dopo aver celebrato le leggende del tennis del passato, Panatta e Bertolucci si proiettano nel 2026, analizzando quello che definiscono il \"nuovo duopolio\". Stiamo parlando dei campioni Jannik Sinner e Carlos Alcaraz."
+    },
+    {
+      "show_name": "Kaka': tutti i gol in Champions League",
+      "show_logo": "https://guidatv.sky.it/uuid/96a109c2-5c38-45d4-bcb0-9d00b6e3d433/cover?territory=IT&md5ChecksumParam=c249fa9f01ce9130fb6903300ecfef14",
+      "start_time": "2026-03-18 01:15:00",
+      "end_time": "2026-03-18 01:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "La magia col Celtic, la storica doppietta di Old Trafford fino all'ultima perla contro l'Atletico: riviviamo tutti i gol di Kaka' in Champions League con le maglie di Milan e Real Madrid."
+    },
+    {
+      "show_name": "Ajax - Napoli",
+      "show_logo": "https://guidatv.sky.it/uuid/7b5a51d8-295e-4a7d-8a86-b45933ac2b52/cover?territory=IT&md5ChecksumParam=50eaa6047a66619990dfb3eb07459cc9",
+      "start_time": "2026-03-18 01:30:00",
+      "end_time": "2026-03-18 03:15:00",
+      "episode_number": "S2022 E45",
+      "show_category": "Sport",
+      "show_description": "UEFA Champions League: Ajax - Napoli. 3a g. - Le emozionanti sfide per la conquista del piu' importante trofeo continentale per club di calcio. Campione in carica il Real Madrid."
+    },
+    {
+      "show_name": "Conegliano - Scandicci",
+      "show_logo": "https://guidatv.sky.it/uuid/9e339c0e-1caf-4e19-9e28-e5e258cebaea/cover?territory=IT&md5ChecksumParam=aa678fe336b994a74a100198043be683",
+      "start_time": "2026-03-18 03:15:00",
+      "end_time": "2026-03-18 05:15:00",
+      "episode_number": "S2024 E51",
+      "show_category": "Sport",
+      "show_description": "Conegliano - Scandicci."
+    },
+    {
+      "show_name": "Speciale Ducati 916",
+      "show_logo": "https://guidatv.sky.it/uuid/726cd234-4b62-4809-a244-10d1e0ca5f16/cover?territory=IT&md5ChecksumParam=4358b061f665da24c1d725925c1e4e27",
+      "start_time": "2026-03-18 05:15:00",
+      "end_time": "2026-03-18 05:45:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Alla scoperta della storia produttiva, sportiva e culturale della Ducati 916, una delle moto più iconiche di sempre."
+    },
+    {
+      "show_name": "Ep2 - Campione del mondo",
+      "show_logo": "https://guidatv.sky.it/uuid/43025dd0-0e4c-49b7-9ea4-66d8a27cbfed/cover?territory=IT&md5ChecksumParam=a35d3a4f6febb681f3451eebf8e4ef45",
+      "start_time": "2026-03-18 05:45:00",
+      "end_time": "2026-03-18 06:00:00",
+      "episode_number": "S1 E2",
+      "show_category": "Sport",
+      "show_description": "Il Dovi è un adolescente molto promettente, ma serve una crescita progressiva per dimostrare il suo talento. Nel 2002 debutta nella classe 125 del Motomondiale e nel 2004 si laurea Campione del Mondo."
+    },
+    {
+      "show_name": "King Otto - L'Olimpo del calcio",
+      "show_logo": "https://guidatv.sky.it/uuid/30f7fede-cfc8-4e3f-b67e-8d57e2be7365/cover?territory=IT&md5ChecksumParam=72f3545e1c2afd3536ef661d48ba6f3b",
+      "start_time": "2026-03-18 06:00:00",
+      "end_time": "2026-03-18 07:30:00",
+      "episode_number": "",
+      "show_category": "Mondo e Tendenze",
+      "show_description": "Nel 2004, contro ogni pronostico, la nazionale greca vinse gli Europei: autore di questo miracolo fu l'allenatore tedesco \"Re\" Otto Rehhagel."
+    },
+    {
+      "show_name": "Federer - Nadal. Finale",
+      "show_logo": "https://guidatv.sky.it/uuid/b58b510c-e27b-4b78-8ccb-7e805ab7dec2/cover?territory=IT&md5ChecksumParam=a62c594cfd9679c431ac03a52e749990",
+      "start_time": "2026-03-18 07:30:00",
+      "end_time": "2026-03-18 09:30:00",
+      "episode_number": "S2006 E13",
+      "show_category": "Altro",
+      "show_description": "ATP 1000 Roma: Federer - Nadal, Finale 2006."
+    },
+    {
+      "show_name": "Man City - Roma 30/09/14",
+      "show_logo": "https://guidatv.sky.it/uuid/954a943c-b5a9-4559-8b97-c082a7547316/cover?territory=IT&md5ChecksumParam=262a48f22892e62804e0a9da212095e0",
+      "start_time": "2026-03-18 09:30:00",
+      "end_time": "2026-03-18 11:15:00",
+      "episode_number": "S1 E76",
+      "show_category": "Sport",
+      "show_description": "UEFA Champions League Story: Man City - Roma 30/09/14. 2a g. - Riviviamo i momenti piu' esaltanti di questa competizione attraverso le partite piu' interessanti. Buon divertimento!"
+    },
+    {
+      "show_name": "Enzo Ferrari",
+      "show_logo": "https://guidatv.sky.it/uuid/40372da0-45c6-4ae6-a22e-d405de3107e4/COVER_TITLE_TALL?territory=IT&version=185128f3-858e-3402-a8db-df0ebda827eb&w=600&h=800&md5ChecksumParam=5df3a42e8cfbe42add1727132ba05fa9",
+      "start_time": "2026-03-18 11:15:00",
+      "end_time": "2026-03-18 12:15:00",
+      "episode_number": "S3 E6",
+      "show_category": "Sport",
+      "show_description": "Giorgio Porrà delinea ritratti di grandi personaggi del calcio e dello sport in genere. Grazie a interviste ai protagonisti e a chi li ha conosciuti direttamente,."
+    },
+    {
+      "show_name": "Brignone",
+      "show_logo": "https://guidatv.sky.it/uuid/3fcd1163-3744-435a-91fd-2c7a5a90a804/cover?territory=IT&md5ChecksumParam=411e8133d997e64beb23147cb815c975",
+      "start_time": "2026-03-18 12:15:00",
+      "end_time": "2026-03-18 13:15:00",
+      "episode_number": "S1 E16",
+      "show_category": "Sport",
+      "show_description": "Brignone - Racconti, ricordi, emozioni dentro la vita di una regina dello sci mondiale: Federica Brignone, a dialogo con Federico Buffa e Federico Ferri. Pt.7, ep.2."
+    },
+    {
+      "show_name": "Tutti i gol di Del Piero in Champions",
+      "show_logo": "https://guidatv.sky.it/uuid/38927475-112a-401d-adfb-513b8d5c32a4/cover?territory=IT&md5ChecksumParam=f393afa07fa0871440d30eb3c0ba8306",
+      "start_time": "2026-03-18 13:15:00",
+      "end_time": "2026-03-18 13:30:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Una compilation di gol indimenticabili: riviviamo insieme le 42 reti che la bandiera della Juventus Alessandro Del Piero ha segnato in Champions League nel corso della sua carriera."
+    },
+    {
+      "show_name": "Ep4 - La MotoGP",
+      "show_logo": "https://guidatv.sky.it/uuid/7e158518-831b-45ab-8bfb-1dd651293cd5/cover?territory=IT&md5ChecksumParam=36f8ff36a18980c9e6d8911987eafa98",
+      "start_time": "2026-03-18 13:30:00",
+      "end_time": "2026-03-18 13:45:00",
+      "episode_number": "S1 E4",
+      "show_category": "Sport",
+      "show_description": "Prosegue la collaborazione fra Dovizioso e Honda e, nel 2007, Andrea approda in MotoGP. Il “Grizzly” è il suo fisioterapista e amico: un personaggio chiave nella carriera del Dovi."
+    },
+    {
+      "show_name": "Fifa World Cup Official Films - Spagna 1982 22/05/14",
+      "show_logo": "https://guidatv.sky.it/uuid/26b66f8b-3d1a-445d-8e10-c0981fb818a6/cover?territory=IT&md5ChecksumParam=94aae3a8cf9d757bf0de640c709ca7dc",
+      "start_time": "2026-03-18 13:45:00",
+      "end_time": "2026-03-18 15:45:00",
+      "episode_number": "S1 E3",
+      "show_category": "Sport",
+      "show_description": "Il cammino verso il terzo titolo dell'Italia Mundial di Enzo Bearzot. Dalle parate di Zoff ai gol di Pablito Rossi, dalle corse sulla fascia di Bruno Conti allo storico urlo di Tardelli in finale."
+    },
+    {
+      "show_name": "90:10 - Ep. 8 - 90/10 Ep.8 Lo Sbarco Del Fenomeno: Ronnie E L'inter 16/01/2026",
+      "show_logo": "https://guidatv.sky.it/uuid/9626399b-ef30-4a01-a71c-5700fb6dbf79/cover?territory=IT&md5ChecksumParam=2b447c4ba196fe8158558cf55bc2fbe5",
+      "start_time": "2026-03-18 15:45:00",
+      "end_time": "2026-03-18 16:15:00",
+      "episode_number": "S1 E8",
+      "show_category": "Sport",
+      "show_description": "90/10."
+    },
+    {
+      "show_name": "3tre, Il Numero Magico Dello Sci",
+      "show_logo": "https://guidatv.sky.it/uuid/1a38b671-0c12-4c79-851f-b80cd547515e/cover?territory=IT&md5ChecksumParam=6dbf935d69616f5156623701e577a986",
+      "start_time": "2026-03-18 16:15:00",
+      "end_time": "2026-03-18 21:00:00",
+      "episode_number": "",
+      "show_category": "Sport",
+      "show_description": "Sky Sport racconta settantacinque anni di storia e trionfi sulla pista di Madonna di Campiglio, in Trentino Alto Adige, attraverso le voci dei campioni che hanno reso leggendaria la 3 Tre."
+    },
+    {
+      "show_name": "Parte 1",
+      "show_logo": "https://guidatv.sky.it/uuid/0529d488-9960-4975-b73f-cfadb422a922/cover?territory=IT&md5ChecksumParam=558e8c305ae7112a6eac478a45a7c08d",
+      "start_time": "2026-03-18 21:00:00",
+      "end_time": "2026-03-18 22:00:00",
+      "episode_number": "S1 E2",
+      "show_category": "Sport",
+      "show_description": "Milan 1994: piu' che una squadra. Parte 1 - E' una stagione ricca di contraddizioni, quella che si prepara a vivere il Milan nel 1993-1994, diviso tra la rincorsa alla Champions e la campagna elettorale di Berlusconi."
+    },
+    {
+      "show_name": "Parte 2",
+      "show_logo": "https://guidatv.sky.it/uuid/ed03e0bc-1f28-41fc-a7af-cc2b12932ede/cover?territory=IT&md5ChecksumParam=d20f2526ef6372ab57332351488bb882",
+      "start_time": "2026-03-18 22:00:00",
+      "end_time": "2026-03-18 23:00:00",
+      "episode_number": "S1 E3",
+      "show_category": "Sport",
+      "show_description": "Milan 1994: piu' che una squadra. Parte 2 - Dalla discesa in campo di Silvio Berlusconi al successo del Milan in Champions League, il racconto di una stagione memorabile attraverso le voci dei protagonisti e un ospite speciale."
+    },
+    {
+      "show_name": "Francia 1998",
+      "show_logo": "https://guidatv.sky.it/uuid/90dbbbc9-4d4c-4b50-a742-70c3cf40b9ed/cover?territory=IT&md5ChecksumParam=717c26de126b6062b8cc9017aa50a543",
+      "start_time": "2026-03-18 23:00:00",
+      "end_time": "2026-03-19 00:30:00",
+      "episode_number": "S1 E7",
+      "show_category": "Sport",
+      "show_description": "Fifa World Cup Official Films Collections."
     }
   ]
 }
