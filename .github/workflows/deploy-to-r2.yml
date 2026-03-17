@@ -26,9 +26,9 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: auto
         run: |
-          # The --delete flag ensures files removed from Git are deleted from R2
+          # FIXED: Removed "/italian-site" from the end of the endpoint-url
           aws s3 sync ./schedule s3://italian-site/schedule/ \
-            --endpoint-url https://c222653e18e0baf276756cd9bcdfe36c.eu.r2.cloudflarestorage.com/italian-site \
+            --endpoint-url https://c222653e18e0baf276756cd9bcdfe36c.eu.r2.cloudflarestorage.com \
             --delete
 
       - name: Sync Downloaded Images to R2
