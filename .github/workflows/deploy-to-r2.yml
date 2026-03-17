@@ -2,9 +2,8 @@ name: Sync to Cloudflare R2 and Purge Cache
 
 on:
   schedule:
-    # Runs at 02:00 AM UTC every day
     - cron: '0 2 * * *'
-  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -16,7 +15,6 @@ jobs:
 
       - name: Configure AWS CLI for high-concurrency
         run: |
-          # Boost parallel connections for faster uploads of thousands of files
           aws configure set default.s3.max_concurrent_requests 50
           aws configure set default.s3.max_queue_size 10000
 
@@ -26,7 +24,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: auto
         run: |
-          # FIXED: Removed "/italian-site" from the end of the endpoint-url
+          # Use the EU endpoint WITHOUT the bucket name at the end
           aws s3 sync ./schedule s3://italian-site/schedule/ \
             --endpoint-url https://c222653e18e0baf276756cd9bcdfe36c.eu.r2.cloudflarestorage.com \
             --delete
@@ -37,8 +35,9 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: auto
         run: |
+          # Use the same EU endpoint for consistency
           aws s3 sync ./downloaded-images s3://italian-site/wp-content/uploads/downloaded-images/ \
-            --endpoint-url https://c222653e18e0baf276756cd9bcdfe36c.r2.cloudflarestorage.com \
+            --endpoint-url https://c222653e18e0baf276756cd9bcdfe36c.eu.r2.cloudflarestorage.com \
             --delete
 
       - name: Purge Cloudflare Cache
