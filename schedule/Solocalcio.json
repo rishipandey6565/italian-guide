@@ -1,1 +1,171 @@
-{"channel_name":"Solocalcio","days":[{"date":"2026-03-21","programs":[{"name":"Campionato Argentino Union-Boca Jrs.","start":"00:00","end":"00:00"},{"name":"West Ham-Manchester City","start":"00:00","end":"02:00"},{"name":"Si Live 24","start":"02:00","end":"02:30"},{"name":"Si Live 24","start":"02:30","end":"03:00"},{"name":"Sportitaliamercato","start":"03:00","end":"04:00"},{"name":"Si Live 24","start":"04:00","end":"04:30"},{"name":"Si Live 24","start":"04:30","end":"05:00"},{"name":"Campionato Argentino Belgrano-Talleres","start":"05:00","end":"00:00"}]},{"date":"2026-03-22","programs":[{"name":"Campionato Argentino Belgrano-Talleres","start":"00:00","end":"00:00"},{"name":"West Ham-Manchester City","start":"00:00","end":"02:00"},{"name":"Si Live 24","start":"02:00","end":"02:30"},{"name":"Si Live 24","start":"02:30","end":"03:00"},{"name":"Sportitaliamercato","start":"03:00","end":"04:00"},{"name":"Si Live 24","start":"04:00","end":"04:30"},{"name":"Si Live 24","start":"04:30","end":"05:00"},{"name":"Campionato Argentino Belgrano-Talleres","start":"05:00","end":"07:00"},{"name":"Campionato Saudita Al Fateh-Al Hilal","start":"07:00","end":"08:30"},{"name":"Manchester City-Real Madrid","start":"08:30","end":"10:00"},{"name":"Aspettando il week end","start":"10:00","end":"11:00"},{"name":"Campionato Argentino Union-Boca Jrs.","start":"11:00","end":"13:00"},{"name":"Campionato Saudita Al Khallej-Al Nassr","start":"13:00","end":"15:00"},{"name":"Newcastle-Manchester City","start":"15:00","end":"17:00"},{"name":"Campionato Argentino Belgrano-Talleres","start":"17:00","end":"18:30"},{"name":"West Ham-Manchester City","start":"18:30","end":"20:00"},{"name":"Campionato Saudita Al Qadsiah-Al Ahli","start":"20:00","end":"22:00"},{"name":"Campionato Argentino Rosario Central-Banfield","start":"22:00","end":"06:00"}]}]}
+{
+    "channel_name": "Solocalcio",
+    "days": [
+        {
+            "date": "2026-03-21",
+            "programs": [
+                {
+                    "name": "Campionato Argentino Union-Boca Jrs.",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "West Ham-Manchester City",
+                    "start": "00:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:30",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sportitaliamercato",
+                    "start": "03:00",
+                    "end": "04:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:00",
+                    "end": "04:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:30",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Belgrano-Talleres",
+                    "start": "05:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-03-22",
+            "programs": [
+                {
+                    "name": "Campionato Argentino Belgrano-Talleres",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "West Ham-Manchester City",
+                    "start": "00:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:30",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sportitaliamercato",
+                    "start": "03:00",
+                    "end": "04:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:00",
+                    "end": "04:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:30",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Belgrano-Talleres",
+                    "start": "05:00",
+                    "end": "07:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Fateh-Al Hilal",
+                    "start": "07:00",
+                    "end": "08:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Real Madrid",
+                    "start": "08:30",
+                    "end": "10:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Aspettando il week end",
+                    "start": "10:00",
+                    "end": "11:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Union-Boca Jrs.",
+                    "start": "11:00",
+                    "end": "13:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Khallej-Al Nassr",
+                    "start": "13:00",
+                    "end": "15:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Newcastle-Manchester City",
+                    "start": "15:00",
+                    "end": "17:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Belgrano-Talleres",
+                    "start": "17:00",
+                    "end": "18:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "West Ham-Manchester City",
+                    "start": "18:30",
+                    "end": "20:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Qadsiah-Al Ahli",
+                    "start": "20:00",
+                    "end": "22:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Rosario Central-Banfield",
+                    "start": "22:00",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
