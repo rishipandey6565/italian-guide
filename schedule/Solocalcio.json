@@ -1,1 +1,375 @@
-{"channel_name":"Solocalcio","days":[{"date":"2026-03-29","programs":[{"name":"Campionato Argentino Independiente-Talleres","start":"00:00","end":"07:00"},{"name":"Il Mondo in Tavola (?)","start":"07:00","end":"07:30"},{"name":"Viaggio In Italia (?)","start":"07:30","end":"08:00"},{"name":"Atlante (?)","start":"08:00","end":"08:30"},{"name":"Paese Che Vai (?)","start":"08:30","end":"09:00"},{"name":"Documentario (?)","start":"09:00","end":"10:00"},{"name":"K Around The World (?)","start":"10:00","end":"10:30"},{"name":"L'Argonauta (?)","start":"10:30","end":"11:00"},{"name":"Andata e Ritorno (?)","start":"11:00","end":"11:30"},{"name":"Tesori e Meraviglie (?)","start":"11:30","end":"12:00"},{"name":"Viaggi Straordinari (?)","start":"12:00","end":"13:00"},{"name":"Gli Ultimi Paradisi (?)","start":"13:00","end":"14:00"},{"name":"Cities Of The World (?)","start":"14:00","end":"14:30"},{"name":"L'italia In Tour (?)","start":"14:30","end":"15:00"},{"name":"Il Mondo in Tavola (?)","start":"15:00","end":"15:30"},{"name":"Viaggio In Italia (?)","start":"15:30","end":"16:00"},{"name":"Atlante (?)","start":"16:00","end":"16:30"},{"name":"Paese Che Vai (?)","start":"16:30","end":"17:00"},{"name":"Documentario (?)","start":"17:00","end":"18:00"},{"name":"L'Argonauta (?)","start":"18:00","end":"18:30"},{"name":"K Around The World (?)","start":"18:30","end":"19:00"},{"name":"Andata e Ritorno (?)","start":"19:00","end":"19:30"},{"name":"Tesori e Meraviglie (?)","start":"19:30","end":"20:00"},{"name":"Viaggi Straordinari (?)","start":"20:00","end":"21:00"},{"name":"Meraviglie della Natura (?)","start":"21:00","end":"22:00"},{"name":"Cities Of The World (?)","start":"22:00","end":"22:30"},{"name":"L'italia In Tour (?)","start":"22:30","end":"23:00"},{"name":"Il Mondo in Tavola (?)","start":"23:00","end":"23:30"},{"name":"Viaggio In Italia (?)","start":"23:30","end":"00:00"}]},{"date":"2026-03-30","programs":[{"name":"Viaggio In Italia (?)","start":"00:00","end":"00:00"},{"name":"Atlante (?)","start":"00:00","end":"00:30"},{"name":"Paese Che Vai (?)","start":"00:30","end":"07:00"},{"name":"Weekend (?)","start":"07:00","end":"07:30"},{"name":"Viaggio In Italia (?)","start":"07:30","end":"08:00"},{"name":"Atlante (?)","start":"08:00","end":"08:30"},{"name":"Paese Che Vai (?)","start":"08:30","end":"09:00"},{"name":"Documentario (?)","start":"09:00","end":"10:00"},{"name":"K Around The World (?)","start":"10:00","end":"10:30"},{"name":"L'Argonauta (?)","start":"10:30","end":"11:00"},{"name":"Andata e Ritorno (?)","start":"11:00","end":"11:30"},{"name":"Tesori e Meraviglie (?)","start":"11:30","end":"12:00"},{"name":"Viaggi Straordinari (?)","start":"12:00","end":"13:00"},{"name":"Meraviglie della Natura (?)","start":"13:00","end":"14:00"},{"name":"Cities Of The World (?)","start":"14:00","end":"14:30"},{"name":"L'italia In Tour (?)","start":"14:30","end":"15:00"},{"name":"Il Mondo in Tavola (?)","start":"15:00","end":"15:30"},{"name":"Viaggio In Italia (?)","start":"15:30","end":"16:00"},{"name":"Atlante (?)","start":"16:00","end":"16:30"},{"name":"Paese Che Vai (?)","start":"16:30","end":"17:00"},{"name":"Documentario (?)","start":"17:00","end":"18:00"},{"name":"L'Argonauta (?)","start":"18:00","end":"18:30"},{"name":"K Around The World (?)","start":"18:30","end":"19:00"},{"name":"Andata e Ritorno (?)","start":"19:00","end":"19:30"},{"name":"Tesori e Meraviglie (?)","start":"19:30","end":"20:00"},{"name":"Viaggi Straordinari (?)","start":"20:00","end":"21:00"},{"name":"Meraviglie della Natura (?)","start":"21:00","end":"22:00"},{"name":"Cities Of The World (?)","start":"22:00","end":"22:30"},{"name":"L'italia In Tour (?)","start":"22:30","end":"23:00"},{"name":"Il Mondo in Tavola (?)","start":"23:00","end":"23:30"},{"name":"Viaggio In Italia (?)","start":"23:30","end":"00:00"}]}]}
+{
+    "channel_name": "Solocalcio",
+    "days": [
+        {
+            "date": "2026-03-29",
+            "programs": [
+                {
+                    "name": "Campionato Argentino Independiente-Talleres",
+                    "start": "00:00",
+                    "end": "07:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Mondo in Tavola (?)",
+                    "start": "07:00",
+                    "end": "07:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Viaggio In Italia (?)",
+                    "start": "07:30",
+                    "end": "08:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Atlante (?)",
+                    "start": "08:00",
+                    "end": "08:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Paese Che Vai (?)",
+                    "start": "08:30",
+                    "end": "09:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Documentario (?)",
+                    "start": "09:00",
+                    "end": "10:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "K Around The World (?)",
+                    "start": "10:00",
+                    "end": "10:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'Argonauta (?)",
+                    "start": "10:30",
+                    "end": "11:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Andata e Ritorno (?)",
+                    "start": "11:00",
+                    "end": "11:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tesori e Meraviglie (?)",
+                    "start": "11:30",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Viaggi Straordinari (?)",
+                    "start": "12:00",
+                    "end": "13:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Gli Ultimi Paradisi (?)",
+                    "start": "13:00",
+                    "end": "14:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cities Of The World (?)",
+                    "start": "14:00",
+                    "end": "14:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'italia In Tour (?)",
+                    "start": "14:30",
+                    "end": "15:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Mondo in Tavola (?)",
+                    "start": "15:00",
+                    "end": "15:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Viaggio In Italia (?)",
+                    "start": "15:30",
+                    "end": "16:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Atlante (?)",
+                    "start": "16:00",
+                    "end": "16:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Paese Che Vai (?)",
+                    "start": "16:30",
+                    "end": "17:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Documentario (?)",
+                    "start": "17:00",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'Argonauta (?)",
+                    "start": "18:00",
+                    "end": "18:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "K Around The World (?)",
+                    "start": "18:30",
+                    "end": "19:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Andata e Ritorno (?)",
+                    "start": "19:00",
+                    "end": "19:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tesori e Meraviglie (?)",
+                    "start": "19:30",
+                    "end": "20:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Viaggi Straordinari (?)",
+                    "start": "20:00",
+                    "end": "21:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Meraviglie della Natura (?)",
+                    "start": "21:00",
+                    "end": "22:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cities Of The World (?)",
+                    "start": "22:00",
+                    "end": "22:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'italia In Tour (?)",
+                    "start": "22:30",
+                    "end": "23:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Mondo in Tavola (?)",
+                    "start": "23:00",
+                    "end": "23:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Viaggio In Italia (?)",
+                    "start": "23:30",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-03-30",
+            "programs": [
+                {
+                    "name": "Viaggio In Italia (?)",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Atlante (?)",
+                    "start": "00:00",
+                    "end": "00:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Paese Che Vai (?)",
+                    "start": "00:30",
+                    "end": "07:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Weekend (?)",
+                    "start": "07:00",
+                    "end": "07:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Viaggio In Italia (?)",
+                    "start": "07:30",
+                    "end": "08:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Atlante (?)",
+                    "start": "08:00",
+                    "end": "08:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Paese Che Vai (?)",
+                    "start": "08:30",
+                    "end": "09:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Documentario (?)",
+                    "start": "09:00",
+                    "end": "10:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "K Around The World (?)",
+                    "start": "10:00",
+                    "end": "10:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'Argonauta (?)",
+                    "start": "10:30",
+                    "end": "11:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Andata e Ritorno (?)",
+                    "start": "11:00",
+                    "end": "11:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tesori e Meraviglie (?)",
+                    "start": "11:30",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Viaggi Straordinari (?)",
+                    "start": "12:00",
+                    "end": "13:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Meraviglie della Natura (?)",
+                    "start": "13:00",
+                    "end": "14:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cities Of The World (?)",
+                    "start": "14:00",
+                    "end": "14:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'italia In Tour (?)",
+                    "start": "14:30",
+                    "end": "15:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Mondo in Tavola (?)",
+                    "start": "15:00",
+                    "end": "15:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Viaggio In Italia (?)",
+                    "start": "15:30",
+                    "end": "16:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Atlante (?)",
+                    "start": "16:00",
+                    "end": "16:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Paese Che Vai (?)",
+                    "start": "16:30",
+                    "end": "17:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Documentario (?)",
+                    "start": "17:00",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'Argonauta (?)",
+                    "start": "18:00",
+                    "end": "18:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "K Around The World (?)",
+                    "start": "18:30",
+                    "end": "19:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Andata e Ritorno (?)",
+                    "start": "19:00",
+                    "end": "19:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tesori e Meraviglie (?)",
+                    "start": "19:30",
+                    "end": "20:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Viaggi Straordinari (?)",
+                    "start": "20:00",
+                    "end": "21:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Meraviglie della Natura (?)",
+                    "start": "21:00",
+                    "end": "22:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cities Of The World (?)",
+                    "start": "22:00",
+                    "end": "22:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'italia In Tour (?)",
+                    "start": "22:30",
+                    "end": "23:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Mondo in Tavola (?)",
+                    "start": "23:00",
+                    "end": "23:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Viaggio In Italia (?)",
+                    "start": "23:30",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
