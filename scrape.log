@@ -1,4 +1,4 @@
---- Scrape Log: 2026-04-01 20:33:25 ---
+--- Scrape Log: 2026-04-01 21:00:32 ---
 
 [Sky Crime (ID: Sky.Crime.it)]
   -> Today (2026-04-01): SUCCESS - Processed 25 programs.
@@ -119,4 +119,14 @@
   -> Today (2026-04-01): SUCCESS - Processed 53 programs.
   -> Tomorrow (2026-04-02): SUCCESS - Processed 58 programs.
   -> Merged File Saved: schedule/Comedy-Central.json
+
+[MTV Music (ID: MTV.Music.it)]
+  -> Today (2026-04-01): FAILED - No programs scheduled for this date.
+  -> Tomorrow (2026-04-02): FAILED - No programs scheduled for this date.
+  -> FAILED - No data to save for both days.
+
+[Sky Cinema Action (ID: Sky.Cinema.Action.it)]
+  -> Today (2026-04-01): SUCCESS - Processed 14 programs.
+  -> Tomorrow (2026-04-02): SUCCESS - Processed 14 programs.
+  -> Merged File Saved: schedule/Sky-Cinema-Action.json
 
