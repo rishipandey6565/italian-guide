@@ -1,4 +1,4 @@
---- Scrape Log: 2026-04-01 02:01:04 ---
+--- Scrape Log: 2026-04-01 20:33:25 ---
 
 [Sky Crime (ID: Sky.Crime.it)]
   -> Today (2026-04-01): SUCCESS - Processed 25 programs.
@@ -109,4 +109,14 @@
   -> Today (2026-04-01): SUCCESS - Processed 28 programs.
   -> Tomorrow (2026-04-02): SUCCESS - Processed 24 programs.
   -> Merged File Saved: schedule/San-Marino-RTV.json
+
+[Sky Arte (ID: Sky.Arte.it)]
+  -> Today (2026-04-01): SUCCESS - Processed 29 programs.
+  -> Tomorrow (2026-04-02): SUCCESS - Processed 22 programs.
+  -> Merged File Saved: schedule/Sky-Arte.json
+
+[Comedy Central (ID: Comedy.Central.it)]
+  -> Today (2026-04-01): SUCCESS - Processed 53 programs.
+  -> Tomorrow (2026-04-02): SUCCESS - Processed 58 programs.
+  -> Merged File Saved: schedule/Comedy-Central.json
 
