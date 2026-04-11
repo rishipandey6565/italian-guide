@@ -1,1 +1,177 @@
-{"channel_name":"Solocalcio","days":[{"date":"2026-04-11","programs":[{"name":"Campionato Argentino Independiente-Racing","start":"00:00","end":"00:00"},{"name":"Manchester City-Liverpool","start":"00:00","end":"02:00"},{"name":"Si Live 24","start":"02:00","end":"02:30"},{"name":"Si Live 24","start":"02:30","end":"03:00"},{"name":"Sportitaliamercato","start":"03:00","end":"04:00"},{"name":"Si Live 24","start":"04:00","end":"04:30"},{"name":"Si Live 24","start":"04:30","end":"05:00"},{"name":"Campionato Argentino River Plate-Belgrano","start":"05:00","end":"00:00"}]},{"date":"2026-04-12","programs":[{"name":"Campionato Argentino River Plate-Belgrano","start":"00:00","end":"00:00"},{"name":"Manchester City-Liverpool","start":"00:00","end":"02:00"},{"name":"Si Live 24","start":"02:00","end":"02:30"},{"name":"Si Live 24","start":"02:30","end":"03:00"},{"name":"Sportitaliamercato","start":"03:00","end":"04:00"},{"name":"Si Live 24","start":"04:00","end":"04:30"},{"name":"Si Live 24","start":"04:30","end":"05:00"},{"name":"Campionato Argentino River Plate-Belgrano","start":"05:00","end":"07:00"},{"name":"Campionato Saudita Al Hilal-Al Kholood","start":"07:00","end":"08:30"},{"name":"West Ham-Manchester City","start":"08:30","end":"10:00"},{"name":"Aspettando il week end","start":"10:00","end":"11:00"},{"name":"Campionato Argentino San Lorenzo-Estudiantes","start":"11:00","end":"13:00"},{"name":"Campionato Saudita Damac-Al Qadisya","start":"13:00","end":"15:00"},{"name":"Campionato Saudita Al Hilal-Al Kholood","start":"15:00","end":"17:00"},{"name":"Magazine Folgore Caratese","start":"17:00","end":"17:30"},{"name":"Manchester City-Liverpool","start":"17:30","end":"19:40"},{"name":"Inside City","start":"19:40","end":"20:00"},{"name":"Campionato Saudita Al Okhodd-Al Nassr (diretta)","start":"20:00","end":"22:00"},{"name":"Campionato Argentino River Plate-Belgrano","start":"22:00","end":"06:00"}]}]}
+{
+    "channel_name": "Solocalcio",
+    "days": [
+        {
+            "date": "2026-04-11",
+            "programs": [
+                {
+                    "name": "Campionato Argentino Independiente-Racing",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Liverpool",
+                    "start": "00:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:30",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sportitaliamercato",
+                    "start": "03:00",
+                    "end": "04:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:00",
+                    "end": "04:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:30",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino River Plate-Belgrano",
+                    "start": "05:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-04-12",
+            "programs": [
+                {
+                    "name": "Campionato Argentino River Plate-Belgrano",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Liverpool",
+                    "start": "00:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:30",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sportitaliamercato",
+                    "start": "03:00",
+                    "end": "04:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:00",
+                    "end": "04:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:30",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino River Plate-Belgrano",
+                    "start": "05:00",
+                    "end": "07:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Hilal-Al Kholood",
+                    "start": "07:00",
+                    "end": "08:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "West Ham-Manchester City",
+                    "start": "08:30",
+                    "end": "10:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Aspettando il week end",
+                    "start": "10:00",
+                    "end": "11:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino San Lorenzo-Estudiantes",
+                    "start": "11:00",
+                    "end": "13:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Damac-Al Qadisya",
+                    "start": "13:00",
+                    "end": "15:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Hilal-Al Kholood",
+                    "start": "15:00",
+                    "end": "17:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Magazine Folgore Caratese",
+                    "start": "17:00",
+                    "end": "17:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Liverpool",
+                    "start": "17:30",
+                    "end": "19:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Inside City",
+                    "start": "19:40",
+                    "end": "20:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Okhodd-Al Nassr (diretta)",
+                    "start": "20:00",
+                    "end": "22:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino River Plate-Belgrano",
+                    "start": "22:00",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
