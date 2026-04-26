@@ -1,1 +1,153 @@
-{"channel_name":"Solocalcio","days":[{"date":"2026-04-26","programs":[{"name":"Campionato Argentino Estudiantes-Talleres (diretta)","start":"00:00","end":"00:00"},{"name":"Manchester City-Arsenal","start":"00:00","end":"02:00"},{"name":"Si Live 24","start":"02:00","end":"02:30"},{"name":"Si Live 24","start":"02:30","end":"03:00"},{"name":"Campionato Argentino Defensa Y Justicia-Boca Jr.","start":"03:00","end":"05:00"},{"name":"Campionato Argentino San Lorenzo-Velez Sarfield","start":"05:00","end":"00:00"}]},{"date":"2026-04-27","programs":[{"name":"Campionato Argentino San Lorenzo-Velez Sarfield","start":"00:00","end":"00:00"},{"name":"Manchester City-Arsenal","start":"00:00","end":"02:00"},{"name":"Si Live 24","start":"02:00","end":"02:30"},{"name":"Si Live 24","start":"02:30","end":"03:00"},{"name":"Campionato Argentino Defensa Y Justicia-Boca Jr.","start":"03:00","end":"05:00"},{"name":"Campionato Argentino San Lorenzo-Velez Sarfield","start":"05:00","end":"07:00"},{"name":"Campionato Saudita Al Qadsiah-Al Shabab","start":"07:00","end":"08:30"},{"name":"Manchester City-Liverpool","start":"08:30","end":"10:00"},{"name":"Si Live 24","start":"10:00","end":"10:30"},{"name":"Si Live 24","start":"10:30","end":"11:00"},{"name":"Campionato Argentino Defensa Y Justicia-Boca Jr.","start":"11:00","end":"13:00"},{"name":"Campionato Saudita Al Hilal-Al Kholood","start":"13:00","end":"15:00"},{"name":"Brusaporto-Folgore Caratese (diretta)","start":"15:00","end":"17:00"},{"name":"Campionato Argentino Racing-Barracas","start":"17:00","end":"18:30"},{"name":"Campionato Saudita Al Qadsiah-Al Shabab","start":"18:30","end":"20:30"},{"name":"Campionato Argentino Estudiantes-Talleres","start":"20:30","end":"22:30"},{"name":"Campionato Argentino River Plate-Aldosivi","start":"22:30","end":"00:30"}]}]}
+{
+    "channel_name": "Solocalcio",
+    "days": [
+        {
+            "date": "2026-04-26",
+            "programs": [
+                {
+                    "name": "Campionato Argentino Estudiantes-Talleres (diretta)",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Arsenal",
+                    "start": "00:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:30",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Defensa Y Justicia-Boca Jr.",
+                    "start": "03:00",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino San Lorenzo-Velez Sarfield",
+                    "start": "05:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-04-27",
+            "programs": [
+                {
+                    "name": "Campionato Argentino San Lorenzo-Velez Sarfield",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Arsenal",
+                    "start": "00:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:30",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Defensa Y Justicia-Boca Jr.",
+                    "start": "03:00",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino San Lorenzo-Velez Sarfield",
+                    "start": "05:00",
+                    "end": "07:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Qadsiah-Al Shabab",
+                    "start": "07:00",
+                    "end": "08:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Liverpool",
+                    "start": "08:30",
+                    "end": "10:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "10:00",
+                    "end": "10:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "10:30",
+                    "end": "11:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Defensa Y Justicia-Boca Jr.",
+                    "start": "11:00",
+                    "end": "13:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Hilal-Al Kholood",
+                    "start": "13:00",
+                    "end": "15:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Brusaporto-Folgore Caratese (diretta)",
+                    "start": "15:00",
+                    "end": "17:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Racing-Barracas",
+                    "start": "17:00",
+                    "end": "18:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Qadsiah-Al Shabab",
+                    "start": "18:30",
+                    "end": "20:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Estudiantes-Talleres",
+                    "start": "20:30",
+                    "end": "22:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino River Plate-Aldosivi",
+                    "start": "22:30",
+                    "end": "00:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
