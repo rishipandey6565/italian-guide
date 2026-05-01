@@ -1,1 +1,73 @@
-{"channel_name":"VALUE 24 TV","days":[{"date":"2026-05-01","programs":[{"name":"Zeus","start":"00:00","end":"00:03","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"Dietro Le Quinte","start":"00:03","end":"00:32","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"},{"name":"Aggiudicato","start":"00:32","end":"01:00","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Speciale Salone del Risparmio","start":"01:00","end":"01:27","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"},{"name":"B2B Digital Insight","start":"01:27","end":"01:42","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Dietro Le Quinte","start":"01:42","end":"02:10","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"},{"name":"News","start":"02:10","end":"02:14","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"Caffe Startup","start":"02:14","end":"02:41","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"News","start":"02:41","end":"02:42","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"}]}]}
+{
+    "channel_name": "VALUE 24 TV",
+    "days": [
+        {
+            "date": "2026-05-01",
+            "programs": [
+                {
+                    "name": "Zeus",
+                    "start": "00:00",
+                    "end": "00:03",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Dietro Le Quinte",
+                    "start": "00:03",
+                    "end": "00:32",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "Aggiudicato",
+                    "start": "00:32",
+                    "end": "01:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Speciale Salone del Risparmio",
+                    "start": "01:00",
+                    "end": "01:27",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "B2B Digital Insight",
+                    "start": "01:27",
+                    "end": "01:42",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Dietro Le Quinte",
+                    "start": "01:42",
+                    "end": "02:10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "News",
+                    "start": "02:10",
+                    "end": "02:14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Caffe Startup",
+                    "start": "02:14",
+                    "end": "02:41",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "News",
+                    "start": "02:41",
+                    "end": "02:42",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                }
+            ]
+        }
+    ]
+}
