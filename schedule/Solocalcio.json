@@ -1,1 +1,261 @@
-{"channel_name":"Solocalcio","days":[{"date":"2026-05-03","programs":[{"name":"Campionato Argentino","start":"00:00","end":"00:55"},{"name":"Chi cerca trova (?)","start":"00:55","end":"01:50"},{"name":"Chi cerca trova (?)","start":"01:50","end":"02:45"},{"name":"Chi cerca trova (?)","start":"02:45","end":"03:40"},{"name":"Chi cerca trova (?)","start":"03:40","end":"04:35"},{"name":"Chi cerca trova (?)","start":"04:35","end":"05:30"},{"name":"A caccia di occasioni (?)","start":"05:30","end":"06:00"},{"name":"Chi cerca trova (?)","start":"06:00","end":"07:00"},{"name":"Chi cerca trova (?)","start":"07:00","end":"08:00"},{"name":"Casa fuori dal comune (?)","start":"08:00","end":"08:30"},{"name":"Casa fuori dal comune (?)","start":"08:30","end":"09:00"},{"name":"Casa fuori dal comune (?)","start":"09:00","end":"09:30"},{"name":"Casa fuori dal comune (?)","start":"09:30","end":"10:00"},{"name":"Casa fuori dal comune (?)","start":"10:00","end":"10:30"},{"name":"Casa fuori dal comune (?)","start":"10:30","end":"11:00"},{"name":"Casa fuori dal comune (?)","start":"11:00","end":"11:30"},{"name":"Casa fuori dal comune (?)","start":"11:30","end":"12:00"},{"name":"Casa fuori dal comune (?)","start":"12:00","end":"12:30"},{"name":"Chi cerca trova: super restauri (?)","start":"12:30","end":"13:30"},{"name":"Chi cerca trova: super restauri (?)","start":"13:30","end":"14:30"},{"name":"Chi cerca trova: super restauri (?)","start":"14:30","end":"15:30"},{"name":"Come nuova con Jennifer (?)","start":"15:30","end":"16:25"},{"name":"Come nuova con Jennifer (?)","start":"16:25","end":"17:20"},{"name":"Come nuova con Jennifer (?)","start":"17:20","end":"18:15"},{"name":"Come nuova con Jennifer (?)","start":"18:15","end":"19:10"},{"name":"Come nuova con Jennifer (?)","start":"19:10","end":"20:05"},{"name":"Come nuova con Jennifer (?)","start":"20:05","end":"21:00"},{"name":"Come nuova con Jennifer (?)","start":"21:00","end":"22:00"},{"name":"Case da incubo: Hawaii - 1^TV (?)","start":"22:00","end":"23:00"},{"name":"Case da incubo: Hawaii - 1^TV (?)","start":"23:00","end":"00:00"}]},{"date":"2026-05-04","programs":[{"name":"Case da incubo: Hawaii - 1^TV (?)","start":"00:00","end":"00:00"},{"name":"Case al mare con Christina (?)","start":"00:00","end":"01:00"},{"name":"Case al mare con Christina (?)","start":"01:00","end":"02:00"},{"name":"Case al mare con Christina (?)","start":"02:00","end":"03:00"},{"name":"Che affare! Con Tarek (?)","start":"03:00","end":"04:00"},{"name":"Che affare! Con Tarek (?)","start":"04:00","end":"05:00"},{"name":"Una coppia in affari (?)","start":"05:00","end":"05:30"},{"name":"Una coppia in affari (?)","start":"05:30","end":"06:00"},{"name":"Occasioni in riva al mare (?)","start":"06:00","end":"06:25"},{"name":"Occasioni in riva al mare (?)","start":"06:25","end":"06:50"},{"name":"Occasioni in riva al mare: Renovation (?)","start":"06:50","end":"00:00"}]}]}
+{
+    "channel_name": "Solocalcio",
+    "days": [
+        {
+            "date": "2026-05-03",
+            "programs": [
+                {
+                    "name": "Campionato Argentino",
+                    "start": "00:00",
+                    "end": "00:55",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova (?)",
+                    "start": "00:55",
+                    "end": "01:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova (?)",
+                    "start": "01:50",
+                    "end": "02:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova (?)",
+                    "start": "02:45",
+                    "end": "03:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova (?)",
+                    "start": "03:40",
+                    "end": "04:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova (?)",
+                    "start": "04:35",
+                    "end": "05:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A caccia di occasioni (?)",
+                    "start": "05:30",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova (?)",
+                    "start": "06:00",
+                    "end": "07:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova (?)",
+                    "start": "07:00",
+                    "end": "08:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa fuori dal comune (?)",
+                    "start": "08:00",
+                    "end": "08:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa fuori dal comune (?)",
+                    "start": "08:30",
+                    "end": "09:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa fuori dal comune (?)",
+                    "start": "09:00",
+                    "end": "09:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa fuori dal comune (?)",
+                    "start": "09:30",
+                    "end": "10:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa fuori dal comune (?)",
+                    "start": "10:00",
+                    "end": "10:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa fuori dal comune (?)",
+                    "start": "10:30",
+                    "end": "11:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa fuori dal comune (?)",
+                    "start": "11:00",
+                    "end": "11:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa fuori dal comune (?)",
+                    "start": "11:30",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa fuori dal comune (?)",
+                    "start": "12:00",
+                    "end": "12:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova: super restauri (?)",
+                    "start": "12:30",
+                    "end": "13:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova: super restauri (?)",
+                    "start": "13:30",
+                    "end": "14:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova: super restauri (?)",
+                    "start": "14:30",
+                    "end": "15:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Come nuova con Jennifer (?)",
+                    "start": "15:30",
+                    "end": "16:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Come nuova con Jennifer (?)",
+                    "start": "16:25",
+                    "end": "17:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Come nuova con Jennifer (?)",
+                    "start": "17:20",
+                    "end": "18:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Come nuova con Jennifer (?)",
+                    "start": "18:15",
+                    "end": "19:10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Come nuova con Jennifer (?)",
+                    "start": "19:10",
+                    "end": "20:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Come nuova con Jennifer (?)",
+                    "start": "20:05",
+                    "end": "21:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Come nuova con Jennifer (?)",
+                    "start": "21:00",
+                    "end": "22:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case da incubo: Hawaii - 1^TV (?)",
+                    "start": "22:00",
+                    "end": "23:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case da incubo: Hawaii - 1^TV (?)",
+                    "start": "23:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-04",
+            "programs": [
+                {
+                    "name": "Case da incubo: Hawaii - 1^TV (?)",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case al mare con Christina (?)",
+                    "start": "00:00",
+                    "end": "01:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case al mare con Christina (?)",
+                    "start": "01:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case al mare con Christina (?)",
+                    "start": "02:00",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "03:00",
+                    "end": "04:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "04:00",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una coppia in affari (?)",
+                    "start": "05:00",
+                    "end": "05:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una coppia in affari (?)",
+                    "start": "05:30",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Occasioni in riva al mare (?)",
+                    "start": "06:00",
+                    "end": "06:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Occasioni in riva al mare (?)",
+                    "start": "06:25",
+                    "end": "06:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Occasioni in riva al mare: Renovation (?)",
+                    "start": "06:50",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}

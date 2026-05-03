@@ -1,1 +1,288 @@
-{"channel_name":"Giallo TV","days":[{"date":"2026-05-03","programs":[{"name":"L'ispettore Barnaby","start":"00:00","end":"00:00","episode":"S1 E5"},{"name":"L'ispettore Barnaby","start":"00:00","end":"01:05","episode":"S1 E5"},{"name":"L'ispettore Barnaby","start":"01:05","end":"03:10","episode":"S1 E1"},{"name":"Murder by Numbers","start":"03:10","end":"04:20","episode":"S1 E1"},{"name":"Murder by Numbers","start":"04:20","end":"05:05","episode":"S1 E2"},{"name":"Murder by Numbers","start":"05:05","end":"06:00","episode":"S1 E3"},{"name":"A sei passi dal killer","start":"06:00","end":"06:45","episode":"S1 E3"},{"name":"A sei passi dal killer","start":"06:45","end":"07:35","episode":"S1 E4"},{"name":"Omicidi a Sandhamn - Madeleine","start":"07:35","end":"09:30","episode":"S20"},{"name":"L'ispettore Barnaby","start":"09:30","end":"11:30","episode":"S17 E1"},{"name":"Vera","start":"11:30","end":"13:30","episode":"S12 E4"},{"name":"I misteri di Brokenwood","start":"13:30","end":"15:30","episode":"S11 E3"},{"name":"McDonald & Dodds","start":"15:30","end":"17:20","episode":"S3 E2"},{"name":"Shakespeare & Hathaway","start":"17:20","end":"18:20","episode":"S3 E9"},{"name":"Shakespeare & Hathaway","start":"18:20","end":"19:20","episode":"S3 E10"},{"name":"Vera","start":"19:20","end":"21:10","episode":"S5 E1"},{"name":"I misteri di Brokenwood","start":"21:10","end":"22:55","episode":"S11 E4"},{"name":"McDonald & Dodds","start":"22:55","end":"00:00","episode":"S3 E2"}]},{"date":"2026-05-04","programs":[{"name":"McDonald & Dodds","start":"00:00","end":"00:00","episode":"S3 E2"},{"name":"McDonald & Dodds","start":"00:00","end":"00:45","episode":"S3 E2"},{"name":"L'ispettore Barnaby","start":"00:45","end":"02:45","episode":"S17 E1"},{"name":"Murder by Numbers","start":"02:45","end":"03:45","episode":"S1 E4"},{"name":"Murder by Numbers","start":"03:45","end":"04:40","episode":"S1 E5"},{"name":"Murder by Numbers","start":"04:40","end":"05:30","episode":"S1 E6"},{"name":"L'investigatore Wolfe","start":"05:30","end":"06:00","episode":"S1 E1"},{"name":"L'investigatore Wolfe","start":"06:00","end":"06:20","episode":"S3 E1"},{"name":"Murder Comes to Town","start":"06:20","end":"07:10","episode":"S5 E3"},{"name":"Murder Comes to Town","start":"07:10","end":"08:15","episode":"S5 E4"},{"name":"Il giovane ispettore Morse","start":"08:15","end":"10:15","episode":"S1 E4"},{"name":"Balthazar","start":"10:15","end":"11:25","episode":"S3 E3"},{"name":"Balthazar","start":"11:25","end":"12:40","episode":"S3 E4"},{"name":"Capitaine Marleau","start":"12:40","end":"14:35","episode":"S1 E21"},{"name":"L'ispettore Barnaby","start":"14:35","end":"16:45","episode":"S2 E3"},{"name":"Il giovane ispettore Morse","start":"16:45","end":"18:45","episode":"S2 E1"},{"name":"Balthazar","start":"18:45","end":"20:00","episode":"S3 E5"},{"name":"Balthazar","start":"20:00","end":"21:10","episode":"S3 E6"},{"name":"McDonald & Dodds","start":"21:10","end":"22:50","episode":"S3 E3"},{"name":"Shakespeare & Hathaway","start":"22:50","end":"23:50","episode":"S3 E9"},{"name":"Shakespeare & Hathaway","start":"23:50","end":"00:00","episode":"S3 E10"}]}]}
+{
+    "channel_name": "Giallo TV",
+    "days": [
+        {
+            "date": "2026-05-03",
+            "programs": [
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "00:00",
+                    "end": "01:05",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "01:05",
+                    "end": "03:10",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder by Numbers",
+                    "start": "03:10",
+                    "end": "04:20",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder by Numbers",
+                    "start": "04:20",
+                    "end": "05:05",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder by Numbers",
+                    "start": "05:05",
+                    "end": "06:00",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A sei passi dal killer",
+                    "start": "06:00",
+                    "end": "06:45",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A sei passi dal killer",
+                    "start": "06:45",
+                    "end": "07:35",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Omicidi a Sandhamn - Madeleine",
+                    "start": "07:35",
+                    "end": "09:30",
+                    "episode": "S20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "09:30",
+                    "end": "11:30",
+                    "episode": "S17 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Vera",
+                    "start": "11:30",
+                    "end": "13:30",
+                    "episode": "S12 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "13:30",
+                    "end": "15:30",
+                    "episode": "S11 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "McDonald & Dodds",
+                    "start": "15:30",
+                    "end": "17:20",
+                    "episode": "S3 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Shakespeare & Hathaway",
+                    "start": "17:20",
+                    "end": "18:20",
+                    "episode": "S3 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Shakespeare & Hathaway",
+                    "start": "18:20",
+                    "end": "19:20",
+                    "episode": "S3 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Vera",
+                    "start": "19:20",
+                    "end": "21:10",
+                    "episode": "S5 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "21:10",
+                    "end": "22:55",
+                    "episode": "S11 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "McDonald & Dodds",
+                    "start": "22:55",
+                    "end": "00:00",
+                    "episode": "S3 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-04",
+            "programs": [
+                {
+                    "name": "McDonald & Dodds",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S3 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "McDonald & Dodds",
+                    "start": "00:00",
+                    "end": "00:45",
+                    "episode": "S3 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "00:45",
+                    "end": "02:45",
+                    "episode": "S17 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder by Numbers",
+                    "start": "02:45",
+                    "end": "03:45",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder by Numbers",
+                    "start": "03:45",
+                    "end": "04:40",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder by Numbers",
+                    "start": "04:40",
+                    "end": "05:30",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'investigatore Wolfe",
+                    "start": "05:30",
+                    "end": "06:00",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'investigatore Wolfe",
+                    "start": "06:00",
+                    "end": "06:20",
+                    "episode": "S3 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder Comes to Town",
+                    "start": "06:20",
+                    "end": "07:10",
+                    "episode": "S5 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder Comes to Town",
+                    "start": "07:10",
+                    "end": "08:15",
+                    "episode": "S5 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il giovane ispettore Morse",
+                    "start": "08:15",
+                    "end": "10:15",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Balthazar",
+                    "start": "10:15",
+                    "end": "11:25",
+                    "episode": "S3 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Balthazar",
+                    "start": "11:25",
+                    "end": "12:40",
+                    "episode": "S3 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Capitaine Marleau",
+                    "start": "12:40",
+                    "end": "14:35",
+                    "episode": "S1 E21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "14:35",
+                    "end": "16:45",
+                    "episode": "S2 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il giovane ispettore Morse",
+                    "start": "16:45",
+                    "end": "18:45",
+                    "episode": "S2 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Balthazar",
+                    "start": "18:45",
+                    "end": "20:00",
+                    "episode": "S3 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Balthazar",
+                    "start": "20:00",
+                    "end": "21:10",
+                    "episode": "S3 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "McDonald & Dodds",
+                    "start": "21:10",
+                    "end": "22:50",
+                    "episode": "S3 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Shakespeare & Hathaway",
+                    "start": "22:50",
+                    "end": "23:50",
+                    "episode": "S3 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Shakespeare & Hathaway",
+                    "start": "23:50",
+                    "end": "00:00",
+                    "episode": "S3 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}

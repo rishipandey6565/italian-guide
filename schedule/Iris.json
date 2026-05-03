@@ -1,1 +1,222 @@
-{"channel_name":"Iris","days":[{"date":"2026-05-03","programs":[{"name":"Blackhat","start":"00:00","end":"02:17","category":"Azione"},{"name":"Le Colline Bruciano","start":"02:17","end":"03:48","category":"Western"},{"name":"Agguato Sul Grande Fiume","start":"03:48","end":"05:25","category":"Avventura"},{"name":"Zio Tom/addio Zio Tom","start":"05:25","end":"07:20","category":"Documentaristico"},{"name":"Nonno Felice","start":"07:20","end":"07:43","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F005514301000301/media/20/84/d20a73f5-8fe0-4e09-9208-4b7ab173ea71/bcd45928-540f-4030-8561-039a3b4a2890.jpg","episode":"S1 E3","category":"Sit-Com"},{"name":"Note Di Cinema","start":"07:43","end":"07:57","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334401001801/media/16/80/b431800d-3c5c-400e-a5fd-e8f0a6f6073c/12a8fb1a-1bcc-4dcb-b967-e4a16a286e7d.jpg","category":"Magazine"},{"name":"I Cesaroni","start":"07:57","end":"09:47","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F306223301000501/media/14/14/095206c9-8a6f-437b-89f5-c3207b59a83a/1b92fbf3-3f60-4d46-a2aa-e6e26a128de2.jpg","episode":"S6 E5","category":"Commedia"},{"name":"Sotto Il Segno Del Pericolo","start":"09:47","end":"12:36","category":"Drammatico"},{"name":"Il Curioso Caso Di Benjamin Button","start":"12:36","end":"15:48","category":"Drammatico"},{"name":"Note Di Cinema","start":"15:48","end":"16:04","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334401001901/media/16/80/b431800d-3c5c-400e-a5fd-e8f0a6f6073c/12a8fb1a-1bcc-4dcb-b967-e4a16a286e7d.jpg","category":"Magazine"},{"name":"Blackhat","start":"16:04","end":"18:41","category":"Azione"},{"name":"The Score","start":"18:41","end":"21:14","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F010953901000102/images/Mediaset_Italia_Production_-_Main/1/960/F010953901000102-1-header-poster-320x260.jpg","category":"Thriller"},{"name":"L' Uomo Del Giorno Dopo","start":"21:14","end":"00:46","category":"Avventura"}]},{"date":"2026-05-04","programs":[{"name":"L' Uomo Del Giorno Dopo","start":"00:00","end":"00:46","category":"Avventura"},{"name":"Il Curioso Caso Di Benjamin Button","start":"00:46","end":"03:29","category":"Drammatico"},{"name":"Tentacoli","start":"03:29","end":"05:09","category":"Azione"},{"name":"Zombi 2","start":"05:09","end":"06:30","category":"Horror"},{"name":"La Traversata Di Parigi","start":"06:30","end":"07:47","category":"Commedia"},{"name":"Note Di Cinema","start":"07:47","end":"08:09","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334401001901/media/16/80/b431800d-3c5c-400e-a5fd-e8f0a6f6073c/12a8fb1a-1bcc-4dcb-b967-e4a16a286e7d.jpg","category":"Magazine"},{"name":"Kojak","start":"08:09","end":"09:11","episode":"S5 E13"},{"name":"Walker Texas Ranger","start":"09:11","end":"10:02","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F010518901002103/media/3/3/3b754bb7-6a99-485b-aa33-5596bac01715/059c856b-08e8-4ada-9f0c-774d27188521.jpg","episode":"S7 E22","category":"Azione"},{"name":"L' Uomo Del Giorno Dopo","start":"10:02","end":"13:43","category":"Avventura"},{"name":"Boy Erased Vite Cancellate","start":"13:43","end":"15:55","category":"Drammatico"},{"name":"Una Pazza Giornata A New York","start":"15:55","end":"17:45","category":"Commedia"},{"name":"Emotivi Anonimi","start":"17:45","end":"19:16","category":"Commedia Romantica"},{"name":"Kojak","start":"19:16","end":"20:14","episode":"S5 E13"},{"name":"Walker Texas Ranger","start":"20:14","end":"21:12","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F010518901002103/media/3/3/3b754bb7-6a99-485b-aa33-5596bac01715/059c856b-08e8-4ada-9f0c-774d27188521.jpg","episode":"S7 E22","category":"Azione"},{"name":"Everest","start":"21:12","end":"23:38","category":"Avventura"},{"name":"L'ultimo Samurai","start":"23:38","end":"02:12","category":"Azione"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-05-03",
+            "programs": [
+                {
+                    "name": "Blackhat",
+                    "start": "00:00",
+                    "end": "02:17",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Le Colline Bruciano",
+                    "start": "02:17",
+                    "end": "03:48",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Agguato Sul Grande Fiume",
+                    "start": "03:48",
+                    "end": "05:25",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Zio Tom/addio Zio Tom",
+                    "start": "05:25",
+                    "end": "07:20",
+                    "category": "Documentaristico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nonno Felice",
+                    "start": "07:20",
+                    "end": "07:43",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/nonno-felice.webp",
+                    "episode": "S1 E3",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "07:43",
+                    "end": "07:57",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/note-di-cinema.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "I Cesaroni",
+                    "start": "07:57",
+                    "end": "09:47",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/i-cesaroni.webp",
+                    "episode": "S6 E5",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "Sotto Il Segno Del Pericolo",
+                    "start": "09:47",
+                    "end": "12:36",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Curioso Caso Di Benjamin Button",
+                    "start": "12:36",
+                    "end": "15:48",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "15:48",
+                    "end": "16:04",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/note-di-cinema.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "Blackhat",
+                    "start": "16:04",
+                    "end": "18:41",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Score",
+                    "start": "18:41",
+                    "end": "21:14",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/the-score.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "L' Uomo Del Giorno Dopo",
+                    "start": "21:14",
+                    "end": "00:46",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-04",
+            "programs": [
+                {
+                    "name": "L' Uomo Del Giorno Dopo",
+                    "start": "00:00",
+                    "end": "00:46",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Curioso Caso Di Benjamin Button",
+                    "start": "00:46",
+                    "end": "03:29",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tentacoli",
+                    "start": "03:29",
+                    "end": "05:09",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Zombi 2",
+                    "start": "05:09",
+                    "end": "06:30",
+                    "category": "Horror",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Traversata Di Parigi",
+                    "start": "06:30",
+                    "end": "07:47",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "07:47",
+                    "end": "08:09",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/note-di-cinema.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "08:09",
+                    "end": "09:11",
+                    "episode": "S5 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "09:11",
+                    "end": "10:02",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/walker-texas-ranger.webp",
+                    "episode": "S7 E22",
+                    "category": "Azione"
+                },
+                {
+                    "name": "L' Uomo Del Giorno Dopo",
+                    "start": "10:02",
+                    "end": "13:43",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Boy Erased Vite Cancellate",
+                    "start": "13:43",
+                    "end": "15:55",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una Pazza Giornata A New York",
+                    "start": "15:55",
+                    "end": "17:45",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Emotivi Anonimi",
+                    "start": "17:45",
+                    "end": "19:16",
+                    "category": "Commedia Romantica",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:16",
+                    "end": "20:14",
+                    "episode": "S5 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:14",
+                    "end": "21:12",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/walker-texas-ranger.webp",
+                    "episode": "S7 E22",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Everest",
+                    "start": "21:12",
+                    "end": "23:38",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ultimo Samurai",
+                    "start": "23:38",
+                    "end": "02:12",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
