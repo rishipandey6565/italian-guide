@@ -1,1 +1,267 @@
-{"channel_name":"Solocalcio","days":[{"date":"2026-05-04","programs":[{"name":"Case da incubo: Hawaii - 1^TV (?)","start":"00:00","end":"00:00"},{"name":"Case al mare con Christina (?)","start":"00:00","end":"01:00"},{"name":"Case al mare con Christina (?)","start":"01:00","end":"02:00"},{"name":"Case al mare con Christina (?)","start":"02:00","end":"03:00"},{"name":"Che affare! Con Tarek (?)","start":"03:00","end":"04:00"},{"name":"Che affare! Con Tarek (?)","start":"04:00","end":"05:00"},{"name":"Una coppia in affari (?)","start":"05:00","end":"05:30"},{"name":"Una coppia in affari (?)","start":"05:30","end":"06:00"},{"name":"Occasioni in riva al mare (?)","start":"06:00","end":"06:25"},{"name":"Occasioni in riva al mare (?)","start":"06:25","end":"06:50"},{"name":"Occasioni in riva al mare: Renovation (?)","start":"06:50","end":"00:00"}]},{"date":"2026-05-05","programs":[{"name":"Occasioni in riva al mare: Renovation (?)","start":"00:00","end":"00:00"},{"name":"Case al mare con Christina (?)","start":"00:00","end":"01:00"},{"name":"Case al mare con Christina (?)","start":"01:00","end":"02:00"},{"name":"Case al mare con Christina (?)","start":"02:00","end":"03:00"},{"name":"Che affare! Con Tarek (?)","start":"03:00","end":"04:00"},{"name":"Che affare! Con Tarek (?)","start":"04:00","end":"05:00"},{"name":"Una coppia in affari (?)","start":"05:00","end":"05:30"},{"name":"Una coppia in affari (?)","start":"05:30","end":"06:00"},{"name":"Occasioni in riva al mare (?)","start":"06:00","end":"06:25"},{"name":"Occasioni in riva al mare (?)","start":"06:25","end":"06:50"},{"name":"Occasioni in riva al mare: Renovation (?)","start":"06:50","end":"07:45"},{"name":"Occasioni in riva al mare: Renovation (?)","start":"07:45","end":"08:40"},{"name":"Giardini impossibili (?)","start":"08:40","end":"09:05"},{"name":"Giardini impossibili (?)","start":"09:05","end":"09:30"},{"name":"Giardini impossibili (?)","start":"09:30","end":"09:55"},{"name":"Giardini impossibili (?)","start":"09:55","end":"10:25"},{"name":"Giardini impossibili (?)","start":"10:25","end":"10:50"},{"name":"Giardini impossibili (?)","start":"10:50","end":"11:15"},{"name":"La mia casa da sogno in 100 giorni (?)","start":"11:15","end":"12:40"},{"name":"La mia casa da sogno in 100 giorni (?)","start":"12:40","end":"13:40"},{"name":"La mia casa da sogno in 100 giorni (?)","start":"13:40","end":"14:40"},{"name":"La mia casa da sogno in 100 giorni (?)","start":"14:40","end":"15:35"},{"name":"La mia casa da sogno in 100 giorni (?)","start":"15:35","end":"16:30"},{"name":"La mia casa da sogno in 100 giorni (?)","start":"16:30","end":"17:25"},{"name":"La mia casa da sogno in 100 giorni (?)","start":"17:25","end":"18:20"},{"name":"La mia casa da sogno in 100 giorni (?)","start":"18:20","end":"19:15"},{"name":"La mia casa da sogno in 100 giorni (?)","start":"19:15","end":"20:10"},{"name":"Un castello a sorpresa (?)","start":"20:10","end":"21:05"},{"name":"Un castello a sorpresa (?)","start":"21:05","end":"22:00"},{"name":"Un castello a sorpresa - 1^TV (?)","start":"22:00","end":"23:00"},{"name":"Un castello a sorpresa - 1^TV (?)","start":"23:00","end":"00:00"}]}]}
+{
+    "channel_name": "Solocalcio",
+    "days": [
+        {
+            "date": "2026-05-04",
+            "programs": [
+                {
+                    "name": "Case da incubo: Hawaii - 1^TV (?)",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case al mare con Christina (?)",
+                    "start": "00:00",
+                    "end": "01:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case al mare con Christina (?)",
+                    "start": "01:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case al mare con Christina (?)",
+                    "start": "02:00",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "03:00",
+                    "end": "04:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "04:00",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una coppia in affari (?)",
+                    "start": "05:00",
+                    "end": "05:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una coppia in affari (?)",
+                    "start": "05:30",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Occasioni in riva al mare (?)",
+                    "start": "06:00",
+                    "end": "06:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Occasioni in riva al mare (?)",
+                    "start": "06:25",
+                    "end": "06:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Occasioni in riva al mare: Renovation (?)",
+                    "start": "06:50",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-05",
+            "programs": [
+                {
+                    "name": "Occasioni in riva al mare: Renovation (?)",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case al mare con Christina (?)",
+                    "start": "00:00",
+                    "end": "01:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case al mare con Christina (?)",
+                    "start": "01:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case al mare con Christina (?)",
+                    "start": "02:00",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "03:00",
+                    "end": "04:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "04:00",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una coppia in affari (?)",
+                    "start": "05:00",
+                    "end": "05:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una coppia in affari (?)",
+                    "start": "05:30",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Occasioni in riva al mare (?)",
+                    "start": "06:00",
+                    "end": "06:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Occasioni in riva al mare (?)",
+                    "start": "06:25",
+                    "end": "06:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Occasioni in riva al mare: Renovation (?)",
+                    "start": "06:50",
+                    "end": "07:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Occasioni in riva al mare: Renovation (?)",
+                    "start": "07:45",
+                    "end": "08:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Giardini impossibili (?)",
+                    "start": "08:40",
+                    "end": "09:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Giardini impossibili (?)",
+                    "start": "09:05",
+                    "end": "09:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Giardini impossibili (?)",
+                    "start": "09:30",
+                    "end": "09:55",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Giardini impossibili (?)",
+                    "start": "09:55",
+                    "end": "10:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Giardini impossibili (?)",
+                    "start": "10:25",
+                    "end": "10:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Giardini impossibili (?)",
+                    "start": "10:50",
+                    "end": "11:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La mia casa da sogno in 100 giorni (?)",
+                    "start": "11:15",
+                    "end": "12:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La mia casa da sogno in 100 giorni (?)",
+                    "start": "12:40",
+                    "end": "13:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La mia casa da sogno in 100 giorni (?)",
+                    "start": "13:40",
+                    "end": "14:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La mia casa da sogno in 100 giorni (?)",
+                    "start": "14:40",
+                    "end": "15:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La mia casa da sogno in 100 giorni (?)",
+                    "start": "15:35",
+                    "end": "16:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La mia casa da sogno in 100 giorni (?)",
+                    "start": "16:30",
+                    "end": "17:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La mia casa da sogno in 100 giorni (?)",
+                    "start": "17:25",
+                    "end": "18:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La mia casa da sogno in 100 giorni (?)",
+                    "start": "18:20",
+                    "end": "19:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La mia casa da sogno in 100 giorni (?)",
+                    "start": "19:15",
+                    "end": "20:10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Un castello a sorpresa (?)",
+                    "start": "20:10",
+                    "end": "21:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Un castello a sorpresa (?)",
+                    "start": "21:05",
+                    "end": "22:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Un castello a sorpresa - 1^TV (?)",
+                    "start": "22:00",
+                    "end": "23:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Un castello a sorpresa - 1^TV (?)",
+                    "start": "23:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
