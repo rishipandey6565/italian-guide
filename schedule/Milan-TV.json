@@ -1,1 +1,106 @@
-{"channel_name":"Milan TV","days":[{"date":"2026-05-07","programs":[{"name":"Unlocker Albertini","start":"00:00","end":"00:05","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"AC Milan - 2025/2026","start":"00:05","end":"07:45","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"U20- Monza v Milan","start":"07:45","end":"09:30","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"Milan v Atalanta - 2023","start":"09:30","end":"11:20","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"Bologna v Milan - 2016","start":"11:20","end":"13:45","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"Inferno - 04/05/2026","start":"13:45","end":"14:40","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"HL Review 25/26","start":"14:40","end":"16:15","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"Atalanta v Milan-25/26","start":"16:15","end":"18:05","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"Review Cult Story","start":"18:05","end":"19:10","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"Atalanta v Milan-2019","start":"19:10","end":"21:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"Parma v Milan - 2006","start":"21:00","end":"22:50","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"Bologna v Milan - 2016","start":"22:50","end":"00:40","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"}]},{"date":"2026-05-08","programs":[{"name":"Bologna v Milan - 2016","start":"00:00","end":"00:40","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"}]}]}
+{
+    "channel_name": "Milan TV",
+    "days": [
+        {
+            "date": "2026-05-07",
+            "programs": [
+                {
+                    "name": "Unlocker Albertini",
+                    "start": "00:00",
+                    "end": "00:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "AC Milan - 2025/2026",
+                    "start": "00:05",
+                    "end": "07:45",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2025-2026.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "U20- Monza v Milan",
+                    "start": "07:45",
+                    "end": "09:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Milan v Atalanta - 2023",
+                    "start": "09:30",
+                    "end": "11:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Bologna v Milan - 2016",
+                    "start": "11:20",
+                    "end": "13:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Inferno - 04/05/2026",
+                    "start": "13:45",
+                    "end": "14:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "HL Review 25/26",
+                    "start": "14:40",
+                    "end": "16:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Atalanta v Milan-25/26",
+                    "start": "16:15",
+                    "end": "18:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Review Cult Story",
+                    "start": "18:05",
+                    "end": "19:10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Atalanta v Milan-2019",
+                    "start": "19:10",
+                    "end": "21:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Parma v Milan - 2006",
+                    "start": "21:00",
+                    "end": "22:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Bologna v Milan - 2016",
+                    "start": "22:50",
+                    "end": "00:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-08",
+            "programs": [
+                {
+                    "name": "Bologna v Milan - 2016",
+                    "start": "00:00",
+                    "end": "00:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                }
+            ]
+        }
+    ]
+}
