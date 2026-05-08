@@ -1,1 +1,17 @@
-{"channel_name":"Milan TV","days":[{"date":"2026-05-08","programs":[{"name":"Bologna v Milan - 2016","start":"00:00","end":"00:40","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"}]}]}
+{
+    "channel_name": "Milan TV",
+    "days": [
+        {
+            "date": "2026-05-08",
+            "programs": [
+                {
+                    "name": "Bologna v Milan - 2016",
+                    "start": "00:00",
+                    "end": "00:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                }
+            ]
+        }
+    ]
+}
