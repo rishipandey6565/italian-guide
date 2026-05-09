@@ -1,1 +1,171 @@
-{"channel_name":"Solocalcio","days":[{"date":"2026-05-09","programs":[{"name":"Campionato Argentino River Plate-Atletico Tocuman","start":"00:00","end":"00:00"},{"name":"Manchester City-Southampton","start":"00:00","end":"02:00"},{"name":"Si Live 24","start":"02:00","end":"02:30"},{"name":"Si Live 24","start":"02:30","end":"03:00"},{"name":"Sportitaliamercato","start":"03:00","end":"04:00"},{"name":"Si Live 24","start":"04:00","end":"04:30"},{"name":"Si Live 24","start":"04:30","end":"05:00"},{"name":"Campionato Argentino Central Cordoba-Boca Jr.","start":"05:00","end":"00:00"}]},{"date":"2026-05-10","programs":[{"name":"Campionato Argentino Central Cordoba-Boca Jr.","start":"00:00","end":"00:00"},{"name":"Manchester City-Southampton","start":"00:00","end":"02:00"},{"name":"Si Live 24","start":"02:00","end":"02:30"},{"name":"Si Live 24","start":"02:30","end":"03:00"},{"name":"Sportitaliamercato","start":"03:00","end":"04:00"},{"name":"Si Live 24","start":"04:00","end":"04:30"},{"name":"Si Live 24","start":"04:30","end":"05:00"},{"name":"Campionato Argentino Central Cordoba-Boca Jr.","start":"05:00","end":"07:00"},{"name":"Campionato Saudita Al Hilal-Damac","start":"07:00","end":"08:30"},{"name":"Manchester City-Everton","start":"08:30","end":"10:00"},{"name":"Aspettando il week end","start":"10:00","end":"11:00"},{"name":"Campionato Argentino Central Cordoba-Boca Jr.","start":"11:00","end":"13:00"},{"name":"Campionato Saudita Al Tawawoun-Al Itthiad","start":"13:00","end":"15:00"},{"name":"Campionato Saudita Al Khaleej-Al Hilal","start":"15:00","end":"17:00"},{"name":"Campionato Argentino River Plate-Atletico Tocuman","start":"17:00","end":"18:30"},{"name":"Manchester City-Southampton","start":"18:30","end":"20:30"},{"name":"Campionato Saudita Al Shabab-Al Nassr","start":"20:30","end":"22:30"},{"name":"Campionato Argentino","start":"22:30","end":"06:00"}]}]}
+{
+    "channel_name": "Solocalcio",
+    "days": [
+        {
+            "date": "2026-05-09",
+            "programs": [
+                {
+                    "name": "Campionato Argentino River Plate-Atletico Tocuman",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Southampton",
+                    "start": "00:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:30",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sportitaliamercato",
+                    "start": "03:00",
+                    "end": "04:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:00",
+                    "end": "04:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:30",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Central Cordoba-Boca Jr.",
+                    "start": "05:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-10",
+            "programs": [
+                {
+                    "name": "Campionato Argentino Central Cordoba-Boca Jr.",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Southampton",
+                    "start": "00:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:30",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sportitaliamercato",
+                    "start": "03:00",
+                    "end": "04:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:00",
+                    "end": "04:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:30",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Central Cordoba-Boca Jr.",
+                    "start": "05:00",
+                    "end": "07:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Hilal-Damac",
+                    "start": "07:00",
+                    "end": "08:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Everton",
+                    "start": "08:30",
+                    "end": "10:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Aspettando il week end",
+                    "start": "10:00",
+                    "end": "11:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Central Cordoba-Boca Jr.",
+                    "start": "11:00",
+                    "end": "13:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Tawawoun-Al Itthiad",
+                    "start": "13:00",
+                    "end": "15:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Khaleej-Al Hilal",
+                    "start": "15:00",
+                    "end": "17:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino River Plate-Atletico Tocuman",
+                    "start": "17:00",
+                    "end": "18:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Southampton",
+                    "start": "18:30",
+                    "end": "20:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Shabab-Al Nassr",
+                    "start": "20:30",
+                    "end": "22:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino",
+                    "start": "22:30",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
