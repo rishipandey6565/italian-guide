@@ -1,1 +1,206 @@
-{"channel_name":"Iris","days":[{"date":"2026-05-10","programs":[{"name":"Il Buio Nell'anima","start":"00:00","end":"01:58","category":"Thriller"},{"name":"Scommessa Con La Morte","start":"01:58","end":"03:29","category":"Poliziesco"},{"name":"Pat Garrett E Billy Kid","start":"03:29","end":"05:08","category":"Western"},{"name":"Ricomincio Da Zero","start":"05:08","end":"06:20","category":"Comico"},{"name":"Lo Schiaffo","start":"06:20","end":"08:09","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000342902000101/media/21/85/f4a3d063-71a7-44f6-8aa6-352d0ae04c57/181f63e2-6b95-4931-b10a-cbe9ecd29ab8.jpg","category":"Commedia"},{"name":"I Cesaroni","start":"08:09","end":"10:02","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F306223301000701/media/14/14/095206c9-8a6f-437b-89f5-c3207b59a83a/1b92fbf3-3f60-4d46-a2aa-e6e26a128de2.jpg","episode":"S6 E7","category":"Commedia"},{"name":"Giochi Di Potere","start":"10:02","end":"12:22","category":"Drammatico"},{"name":"Formula Per Un Delitto","start":"12:22","end":"14:46","category":"Thriller"},{"name":"Employee Of The Month","start":"14:46","end":"16:23","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313231701000104/media/11/11/7099fdf1-8d55-469b-af2a-c566462a851a/8f3ac3c0-e619-4e83-be23-63652799cc6d.jpg","category":"Commedia"},{"name":"Note Di Cinema","start":"16:23","end":"16:37"},{"name":"Un Alibi Perfetto","start":"16:37","end":"18:36","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F301622801000102/media/21/85/88b27a9f-9f68-4774-9529-9dc6c9fb4dda/43784f91-ac92-4040-8175-3fab9f8410e6.jpg","category":"Thriller"},{"name":"Midway","start":"18:36","end":"21:14","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309947801000102/media/16/80/8edb7800-4765-44c8-a9c7-0e4cb69bc4bf/6e1b6deb-90b6-4c6e-a682-4370bde128a3.jpg","category":"Azione"},{"name":"Demolition Man","start":"21:14","end":"23:42","category":"Avventura"},{"name":"La Moglie Dell'astronauta","start":"23:42","end":"01:42","category":"Thriller"}]},{"date":"2026-05-11","programs":[{"name":"La Moglie Dell'astronauta","start":"00:00","end":"01:42","category":"Thriller"},{"name":"Formula Per Un Delitto","start":"01:42","end":"03:38","category":"Thriller"},{"name":"Midway","start":"03:38","end":"05:46","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309947801000102/media/16/80/8edb7800-4765-44c8-a9c7-0e4cb69bc4bf/6e1b6deb-90b6-4c6e-a682-4370bde128a3.jpg","category":"Azione"},{"name":"Cosi' Bello, Cosi' Corrotto, Cosi' Conteso!","start":"05:46","end":"07:17","category":"Commedia"},{"name":"Kojak","start":"07:17","end":"08:08","episode":"S5 E18"},{"name":"Walker Texas Ranger","start":"08:08","end":"08:59","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F010837601000303/media/11/11/0575a534-3338-4920-a520-bcfec0e240eb/58d12be0-d95d-49f7-b8a9-ee7552d60df8.jpg","episode":"S8 E2","category":"Azione"},{"name":"Demolition Man","start":"08:59","end":"11:19","category":"Avventura"},{"name":"Il Principe E La Ballerina","start":"11:19","end":"13:43","category":"Commedia"},{"name":"Cimarron","start":"13:43","end":"16:35","category":"Western"},{"name":"La Versione Di Barney","start":"16:35","end":"19:12","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303293101000102/media/25/89/bdd15328-d2bf-4229-9e55-aa658e05db3a/3761a6bc-31fd-4741-a6ed-7438233ba73d.jpg","category":"Drammatico"},{"name":"Kojak","start":"19:12","end":"20:12","episode":"S5 E18"},{"name":"Walker Texas Ranger","start":"20:12","end":"21:14","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F010837601000303/media/11/11/0575a534-3338-4920-a520-bcfec0e240eb/58d12be0-d95d-49f7-b8a9-ee7552d60df8.jpg","episode":"S8 E2","category":"Azione"},{"name":"Il Colore Viola","start":"21:14","end":"00:29","category":"Drammatico"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-05-10",
+            "programs": [
+                {
+                    "name": "Il Buio Nell'anima",
+                    "start": "00:00",
+                    "end": "01:58",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Scommessa Con La Morte",
+                    "start": "01:58",
+                    "end": "03:29",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Pat Garrett E Billy Kid",
+                    "start": "03:29",
+                    "end": "05:08",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Ricomincio Da Zero",
+                    "start": "05:08",
+                    "end": "06:20",
+                    "category": "Comico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Lo Schiaffo",
+                    "start": "06:20",
+                    "end": "08:09",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/lo-schiaffo.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "I Cesaroni",
+                    "start": "08:09",
+                    "end": "10:02",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/i-cesaroni.webp",
+                    "episode": "S6 E7",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "Giochi Di Potere",
+                    "start": "10:02",
+                    "end": "12:22",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Formula Per Un Delitto",
+                    "start": "12:22",
+                    "end": "14:46",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Employee Of The Month",
+                    "start": "14:46",
+                    "end": "16:23",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/employee-of-the-month.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "16:23",
+                    "end": "16:37",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Un Alibi Perfetto",
+                    "start": "16:37",
+                    "end": "18:36",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/un-alibi-perfetto.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Midway",
+                    "start": "18:36",
+                    "end": "21:14",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/midway.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Demolition Man",
+                    "start": "21:14",
+                    "end": "23:42",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Moglie Dell'astronauta",
+                    "start": "23:42",
+                    "end": "01:42",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-11",
+            "programs": [
+                {
+                    "name": "La Moglie Dell'astronauta",
+                    "start": "00:00",
+                    "end": "01:42",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Formula Per Un Delitto",
+                    "start": "01:42",
+                    "end": "03:38",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Midway",
+                    "start": "03:38",
+                    "end": "05:46",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/midway.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Cosi' Bello, Cosi' Corrotto, Cosi' Conteso!",
+                    "start": "05:46",
+                    "end": "07:17",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "07:17",
+                    "end": "08:08",
+                    "episode": "S5 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "08:08",
+                    "end": "08:59",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/walker-texas-ranger.webp",
+                    "episode": "S8 E2",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Demolition Man",
+                    "start": "08:59",
+                    "end": "11:19",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Principe E La Ballerina",
+                    "start": "11:19",
+                    "end": "13:43",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cimarron",
+                    "start": "13:43",
+                    "end": "16:35",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Versione Di Barney",
+                    "start": "16:35",
+                    "end": "19:12",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-versione-di-barney.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:12",
+                    "end": "20:12",
+                    "episode": "S5 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:12",
+                    "end": "21:14",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/walker-texas-ranger.webp",
+                    "episode": "S8 E2",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Il Colore Viola",
+                    "start": "21:14",
+                    "end": "00:29",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
