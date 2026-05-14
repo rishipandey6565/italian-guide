@@ -1,1 +1,80 @@
-{"channel_name":"Rai Movie  5024","days":[{"date":"2026-05-14","programs":[{"name":"Il patriota","start":"00:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/eb467f0f-3098-464a-9aa6-0944efd42fd2/cover?territory=IT&md5ChecksumParam=04bba6b534acf40e09150be43eef18eb","category":"Film"},{"name":"Movie Mag","start":"00:00","end":"02:10","logo":"https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png","category":"Mondo e Tendenze"},{"name":"Nuovo Cinema Paradiso","start":"02:10","end":"08:25","logo":"https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png","category":"Mondo e Tendenze"},{"name":"La mina","start":"08:25","end":"10:05","logo":"https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png","category":"Film"},{"name":"Pattini d'argento","start":"10:05","end":"12:25","logo":"https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png","category":"Film"},{"name":"After","start":"12:25","end":"14:00","logo":"https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png","category":"Film"},{"name":"Balla coi lupi (Ext. Vers.)","start":"14:00","end":"17:05","logo":"https://guidatv.sky.it/uuid/29e24f1b-4a53-4696-b8e5-83e85dc182da/cover?territory=IT&md5ChecksumParam=323e34157bd14f17faa9669f428af4ff","category":"Film"},{"name":"Sfida all'O.K. Corral","start":"17:05","end":"19:20","logo":"https://guidatv.sky.it/uuid/9e38df05-003a-43a3-9058-3144f1eea831/cover?territory=IT&md5ChecksumParam=2313b707c8ff580a889284db4b2bfce2","category":"Film"},{"name":"Il potere dei soldi","start":"19:20","end":"21:10","logo":"https://guidatv.sky.it/uuid/20f7788f-2f67-3a33-a5d4-8b68d1079322/cover?territory=IT&md5ChecksumParam=e673a7a8bc306949726e76aaf2d53361","category":"Film"},{"name":"The Double","start":"21:10","end":"22:50","logo":"https://guidatv.sky.it/uuid/cebfe24b-d3ee-335d-b7d6-d0c9006d0566/cover?territory=IT&md5ChecksumParam=d6f60963513a090465c7bcbaadbda4af","category":"Film"}]}]}
+{
+    "channel_name": "Rai Movie  5024",
+    "days": [
+        {
+            "date": "2026-05-14",
+            "programs": [
+                {
+                    "name": "Il patriota",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Rai-Movie-5024/il-patriota.webp",
+                    "category": "Film"
+                },
+                {
+                    "name": "Movie Mag",
+                    "start": "00:00",
+                    "end": "02:10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "Nuovo Cinema Paradiso",
+                    "start": "02:10",
+                    "end": "08:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "La mina",
+                    "start": "08:25",
+                    "end": "10:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Film"
+                },
+                {
+                    "name": "Pattini d'argento",
+                    "start": "10:05",
+                    "end": "12:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Film"
+                },
+                {
+                    "name": "After",
+                    "start": "12:25",
+                    "end": "14:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Rai-Movie-5024/after.webp",
+                    "category": "Film"
+                },
+                {
+                    "name": "Balla coi lupi (Ext. Vers.)",
+                    "start": "14:00",
+                    "end": "17:05",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Rai-Movie-5024/balla-coi-lupi-ext-vers.webp",
+                    "category": "Film"
+                },
+                {
+                    "name": "Sfida all'O.K. Corral",
+                    "start": "17:05",
+                    "end": "19:20",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Rai-Movie-5024/sfida-all-o-k-corral.webp",
+                    "category": "Film"
+                },
+                {
+                    "name": "Il potere dei soldi",
+                    "start": "19:20",
+                    "end": "21:10",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Rai-Movie-5024/il-potere-dei-soldi.webp",
+                    "category": "Film"
+                },
+                {
+                    "name": "The Double",
+                    "start": "21:10",
+                    "end": "22:50",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Rai-Movie-5024/the-double.webp",
+                    "category": "Film"
+                }
+            ]
+        }
+    ]
+}
