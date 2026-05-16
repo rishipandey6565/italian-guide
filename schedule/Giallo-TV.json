@@ -1,1 +1,286 @@
-{"channel_name":"Giallo TV","days":[{"date":"2026-05-16","programs":[{"name":"Crossover: Astrid, Raphaelle e Alexandra","start":"00:00","end":"00:00"},{"name":"Crossover: Astrid, Raphaelle e Alexandra","start":"00:00","end":"01:25"},{"name":"Il giovane ispettore Morse","start":"01:25","end":"03:20","episode":"S4 E2"},{"name":"Nightmare Next Door","start":"03:20","end":"04:20","episode":"S3 E11"},{"name":"Nightmare Next Door","start":"04:20","end":"05:10","episode":"S3 E12"},{"name":"Nightmare Next Door","start":"05:10","end":"06:00","episode":"S3 E13"},{"name":"L'investigatore Wolfe","start":"06:00","end":"06:30","episode":"S2 E4"},{"name":"Torbidi delitti","start":"06:30","end":"07:25","episode":"S2 E9"},{"name":"A sei passi dal killer","start":"07:25","end":"08:20","episode":"S1 E1"},{"name":"A sei passi dal killer","start":"08:20","end":"09:15","episode":"S1 E2"},{"name":"I misteri di Whitstable Pearl","start":"09:15","end":"10:15","episode":"S1 E1"},{"name":"I misteri di Whitstable Pearl","start":"10:15","end":"11:15","episode":"S1 E2"},{"name":"L'ispettore Barnaby","start":"11:15","end":"13:15","episode":"S17 E2"},{"name":"Mademoiselle Holmes","start":"13:15","end":"14:20","episode":"S1 E3"},{"name":"Mademoiselle Holmes","start":"14:20","end":"15:25","episode":"S1 E4"},{"name":"Vera","start":"15:25","end":"17:20","episode":"S5 E2"},{"name":"Capitaine Marleau","start":"17:20","end":"19:20","episode":"S1 E37"},{"name":"L'ispettore Barnaby","start":"19:20","end":"21:10","episode":"S17 E3"},{"name":"Omicidi a Sandhamn - Brigitta","start":"21:10","end":"23:05","episode":"S22"},{"name":"I misteri di Whitstable Pearl","start":"23:05","end":"00:00","episode":"S1 E1"}]},{"date":"2026-05-17","programs":[{"name":"I misteri di Whitstable Pearl","start":"00:00","end":"00:00","episode":"S1 E1"},{"name":"I misteri di Whitstable Pearl","start":"00:00","end":"01:00","episode":"S1 E2"},{"name":"Vera","start":"01:00","end":"02:55","episode":"S5 E2"},{"name":"I Am Homicide","start":"02:55","end":"03:50","episode":"S1 E1"},{"name":"I Am Homicide","start":"03:50","end":"04:40","episode":"S1 E2"},{"name":"I Am Homicide","start":"04:40","end":"05:30","episode":"S1 E3"},{"name":"L'investigatore Wolfe","start":"05:30","end":"06:00","episode":"S1 E3"},{"name":"Torbidi delitti","start":"06:00","end":"06:55","episode":"S2 E8"},{"name":"Torbidi delitti","start":"06:55","end":"07:50","episode":"S1 E1"},{"name":"Tatort - Vienna","start":"07:50","end":"09:40","episode":"S2 E2"},{"name":"Omicidi a Sandhamn - Brigitta","start":"09:40","end":"11:30","episode":"S22"},{"name":"L'ispettore Barnaby","start":"11:30","end":"13:25","episode":"S17 E3"},{"name":"L'ispettore Dalgliesh","start":"13:25","end":"15:25","episode":"S1 E1"},{"name":"I misteri di Brokenwood","start":"15:25","end":"17:20","episode":"S11 E5"},{"name":"Due detective nell'arte","start":"17:20","end":"18:20","episode":"S1 E3"},{"name":"Due detective nell'arte","start":"18:20","end":"19:20","episode":"S1 E4"},{"name":"Vera","start":"19:20","end":"21:10","episode":"S5 E3"},{"name":"I misteri di Brokenwood - 1^TV","start":"21:10","end":"23:10","episode":"S12 E1"},{"name":"L'ispettore Dalgliesh","start":"23:10","end":"00:00","episode":"S1 E1"}]}]}
+{
+    "channel_name": "Giallo TV",
+    "days": [
+        {
+            "date": "2026-05-16",
+            "programs": [
+                {
+                    "name": "Crossover: Astrid, Raphaelle e Alexandra",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Crossover: Astrid, Raphaelle e Alexandra",
+                    "start": "00:00",
+                    "end": "01:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il giovane ispettore Morse",
+                    "start": "01:25",
+                    "end": "03:20",
+                    "episode": "S4 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "03:20",
+                    "end": "04:20",
+                    "episode": "S3 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "04:20",
+                    "end": "05:10",
+                    "episode": "S3 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "05:10",
+                    "end": "06:00",
+                    "episode": "S3 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'investigatore Wolfe",
+                    "start": "06:00",
+                    "end": "06:30",
+                    "episode": "S2 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Torbidi delitti",
+                    "start": "06:30",
+                    "end": "07:25",
+                    "episode": "S2 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A sei passi dal killer",
+                    "start": "07:25",
+                    "end": "08:20",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A sei passi dal killer",
+                    "start": "08:20",
+                    "end": "09:15",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Whitstable Pearl",
+                    "start": "09:15",
+                    "end": "10:15",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Whitstable Pearl",
+                    "start": "10:15",
+                    "end": "11:15",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "11:15",
+                    "end": "13:15",
+                    "episode": "S17 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mademoiselle Holmes",
+                    "start": "13:15",
+                    "end": "14:20",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mademoiselle Holmes",
+                    "start": "14:20",
+                    "end": "15:25",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Vera",
+                    "start": "15:25",
+                    "end": "17:20",
+                    "episode": "S5 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Capitaine Marleau",
+                    "start": "17:20",
+                    "end": "19:20",
+                    "episode": "S1 E37",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "19:20",
+                    "end": "21:10",
+                    "episode": "S17 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Omicidi a Sandhamn - Brigitta",
+                    "start": "21:10",
+                    "end": "23:05",
+                    "episode": "S22",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Whitstable Pearl",
+                    "start": "23:05",
+                    "end": "00:00",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-17",
+            "programs": [
+                {
+                    "name": "I misteri di Whitstable Pearl",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Whitstable Pearl",
+                    "start": "00:00",
+                    "end": "01:00",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Vera",
+                    "start": "01:00",
+                    "end": "02:55",
+                    "episode": "S5 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I Am Homicide",
+                    "start": "02:55",
+                    "end": "03:50",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I Am Homicide",
+                    "start": "03:50",
+                    "end": "04:40",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I Am Homicide",
+                    "start": "04:40",
+                    "end": "05:30",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'investigatore Wolfe",
+                    "start": "05:30",
+                    "end": "06:00",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Torbidi delitti",
+                    "start": "06:00",
+                    "end": "06:55",
+                    "episode": "S2 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Torbidi delitti",
+                    "start": "06:55",
+                    "end": "07:50",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tatort - Vienna",
+                    "start": "07:50",
+                    "end": "09:40",
+                    "episode": "S2 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Omicidi a Sandhamn - Brigitta",
+                    "start": "09:40",
+                    "end": "11:30",
+                    "episode": "S22",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "11:30",
+                    "end": "13:25",
+                    "episode": "S17 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Dalgliesh",
+                    "start": "13:25",
+                    "end": "15:25",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "15:25",
+                    "end": "17:20",
+                    "episode": "S11 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Due detective nell'arte",
+                    "start": "17:20",
+                    "end": "18:20",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Due detective nell'arte",
+                    "start": "18:20",
+                    "end": "19:20",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Vera",
+                    "start": "19:20",
+                    "end": "21:10",
+                    "episode": "S5 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood - 1^TV",
+                    "start": "21:10",
+                    "end": "23:10",
+                    "episode": "S12 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Dalgliesh",
+                    "start": "23:10",
+                    "end": "00:00",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
