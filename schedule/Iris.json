@@ -1,1 +1,215 @@
-{"channel_name":"Iris","days":[{"date":"2026-05-17","programs":[{"name":"Sotto Il Segno Del Pericolo","start":"00:00","end":"02:33","category":"Drammatico"},{"name":"The American","start":"02:33","end":"04:13","category":"Drammatico"},{"name":"Gli Ultimi Giorni Nel Deserto","start":"04:13","end":"05:47","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309086801000102/media/19/83/dc72c21d-9566-4344-a388-de6eb144e80d/35644682-5577-48a2-9272-13533dc6ec45.jpg","category":"Avventura"},{"name":"S.o.s. Lutezia","start":"05:47","end":"07:30","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000579901000102/media/19/83/708b596a-b236-4c15-b0af-ecc55d155540/cee31b05-2e76-4f70-a982-d3af421a142d.jpg","category":"Classici"},{"name":"I Cesaroni","start":"07:30","end":"09:24","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F306223301000901/media/14/14/095206c9-8a6f-437b-89f5-c3207b59a83a/1b92fbf3-3f60-4d46-a2aa-e6e26a128de2.jpg","episode":"S6 E9","category":"Commedia"},{"name":"La Vendetta Di Luna","start":"09:24","end":"11:19","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F308737401000104/media/19/83/8c5b23ef-95a5-4685-a08e-62b9c1cd4a6c/ab8e3ec3-7a87-4c87-8079-8bbee7880b71.jpg","category":"Thriller"},{"name":"Xtreme Measures Soluzioni Estreme","start":"11:19","end":"13:45","category":"Drammatico"},{"name":"Blue Jasmine","start":"13:45","end":"15:39","category":"Drammatico"},{"name":"Note Di Cinema","start":"15:39","end":"15:53","category":"Magazine"},{"name":"La Grande Partita","start":"15:53","end":"18:18","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F306076401000102/media/30/94/7a302c49-6dab-4680-987b-89acd2a34ee1/cb7415f6-8026-40cf-91b2-12abcc09df43.jpg","category":"Drammatico"},{"name":"Sotto Il Segno Del Pericolo","start":"18:18","end":"21:14","category":"Drammatico"},{"name":"Old","start":"21:14","end":"23:25","category":"Thriller"},{"name":"L' Uomo Del Giorno Dopo","start":"23:25","end":"02:42","category":"Avventura"}]},{"date":"2026-05-18","programs":[{"name":"L' Uomo Del Giorno Dopo","start":"00:00","end":"02:42","category":"Avventura"},{"name":"La Grande Partita","start":"02:42","end":"04:27","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F306076401000102/media/30/94/7a302c49-6dab-4680-987b-89acd2a34ee1/cb7415f6-8026-40cf-91b2-12abcc09df43.jpg","category":"Drammatico"},{"name":"Un Alibi Perfetto","start":"04:27","end":"06:06","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F301622801000102/media/21/85/88b27a9f-9f68-4774-9529-9dc6c9fb4dda/43784f91-ac92-4040-8175-3fab9f8410e6.jpg","category":"Thriller"},{"name":"Finche' C'e' Ditta C'e' Speranza","start":"06:06","end":"06:19","episode":"S4 E4"},{"name":"Nonno Felice","start":"06:19","end":"06:43","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F005514301001901/media/20/84/d20a73f5-8fe0-4e09-9208-4b7ab173ea71/bcd45928-540f-4030-8561-039a3b4a2890.jpg","episode":"S1 E19","category":"Sit-Com"},{"name":"Kojak","start":"06:43","end":"07:36","episode":"S1 E1"},{"name":"Walker Texas Ranger","start":"07:36","end":"08:27","episode":"S8 E7","category":"Azione"},{"name":"Old","start":"08:27","end":"10:34","category":"Thriller"},{"name":"Il Mucchio Selvaggio","start":"10:34","end":"13:40","category":"Western"},{"name":"Assalto Alla Diligenza La Vera Storia Di Texas Jack","start":"13:40","end":"15:35","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309277101000102/media/2/2/caa737bd-9ef0-4720-a3c8-2b627c74b720/559691ee-7fe6-4d66-a1c6-a747a80db68b.jpg","category":"Avventura"},{"name":"L' Uomo Del Giorno Dopo","start":"15:35","end":"19:11","category":"Avventura"},{"name":"Kojak","start":"19:11","end":"20:13","episode":"S1 E1"},{"name":"Walker Texas Ranger","start":"20:13","end":"21:13","episode":"S8 E7","category":"Azione"},{"name":"U 571","start":"21:13","end":"23:38","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F010555001000102/media/23/87/670aca32-0bfc-4b48-b2b9-e3e988aaa609/86123ca2-e90c-406a-9f1e-2f80a7adf317.jpg","category":"Azione"},{"name":"Everest","start":"23:38","end":"01:51","category":"Avventura"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-05-17",
+            "programs": [
+                {
+                    "name": "Sotto Il Segno Del Pericolo",
+                    "start": "00:00",
+                    "end": "02:33",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The American",
+                    "start": "02:33",
+                    "end": "04:13",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Gli Ultimi Giorni Nel Deserto",
+                    "start": "04:13",
+                    "end": "05:47",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/gli-ultimi-giorni-nel-deserto.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "S.o.s. Lutezia",
+                    "start": "05:47",
+                    "end": "07:30",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/s-o-s-lutezia.webp",
+                    "category": "Classici"
+                },
+                {
+                    "name": "I Cesaroni",
+                    "start": "07:30",
+                    "end": "09:24",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/i-cesaroni.webp",
+                    "episode": "S6 E9",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "La Vendetta Di Luna",
+                    "start": "09:24",
+                    "end": "11:19",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-vendetta-di-luna.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Xtreme Measures Soluzioni Estreme",
+                    "start": "11:19",
+                    "end": "13:45",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Blue Jasmine",
+                    "start": "13:45",
+                    "end": "15:39",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "15:39",
+                    "end": "15:53",
+                    "category": "Magazine",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Grande Partita",
+                    "start": "15:53",
+                    "end": "18:18",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-grande-partita.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Sotto Il Segno Del Pericolo",
+                    "start": "18:18",
+                    "end": "21:14",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Old",
+                    "start": "21:14",
+                    "end": "23:25",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L' Uomo Del Giorno Dopo",
+                    "start": "23:25",
+                    "end": "02:42",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-18",
+            "programs": [
+                {
+                    "name": "L' Uomo Del Giorno Dopo",
+                    "start": "00:00",
+                    "end": "02:42",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Grande Partita",
+                    "start": "02:42",
+                    "end": "04:27",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-grande-partita.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Un Alibi Perfetto",
+                    "start": "04:27",
+                    "end": "06:06",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/un-alibi-perfetto.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Finche' C'e' Ditta C'e' Speranza",
+                    "start": "06:06",
+                    "end": "06:19",
+                    "episode": "S4 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nonno Felice",
+                    "start": "06:19",
+                    "end": "06:43",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/nonno-felice.webp",
+                    "episode": "S1 E19",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:43",
+                    "end": "07:36",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:36",
+                    "end": "08:27",
+                    "episode": "S8 E7",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Old",
+                    "start": "08:27",
+                    "end": "10:34",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Mucchio Selvaggio",
+                    "start": "10:34",
+                    "end": "13:40",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Assalto Alla Diligenza La Vera Storia Di Texas Jack",
+                    "start": "13:40",
+                    "end": "15:35",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/assalto-alla-diligenza-la-vera-storia-di-texas-jack.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "L' Uomo Del Giorno Dopo",
+                    "start": "15:35",
+                    "end": "19:11",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:11",
+                    "end": "20:13",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:13",
+                    "end": "21:13",
+                    "episode": "S8 E7",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "U 571",
+                    "start": "21:13",
+                    "end": "23:38",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/u-571.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Everest",
+                    "start": "23:38",
+                    "end": "01:51",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
