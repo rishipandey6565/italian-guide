@@ -1,1 +1,106 @@
-{"channel_name":"Milan TV","days":[{"date":"2026-05-18","programs":[{"name":"AC Milan - 2025/2026","start":"00:00","end":"07:45","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"AC Milan - 2025/2026","start":"07:45","end":"08:15","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"AC Milan - 2025/2026","start":"08:15","end":"08:45","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"AC Milan - 2025/2026","start":"08:45","end":"10:50","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"AC Milan - 2025/2026","start":"10:50","end":"11:15","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"AC Milan - 2025/2026","start":"11:15","end":"12:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"AC Milan - 2025/2026","start":"12:00","end":"14:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"AC Milan - 2025/2026","start":"14:00","end":"15:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"AC Milan - 2025/2026","start":"15:00","end":"18:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"Inferno 18/05/26 Live","start":"18:00","end":"19:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"AC Milan - 2025/2026","start":"19:00","end":"23:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"AC Milan - 2025/2026","start":"23:00","end":"01:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"}]},{"date":"2026-05-19","programs":[{"name":"AC Milan - 2025/2026","start":"00:00","end":"01:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"}]}]}
+{
+    "channel_name": "Milan TV",
+    "days": [
+        {
+            "date": "2026-05-18",
+            "programs": [
+                {
+                    "name": "AC Milan - 2025/2026",
+                    "start": "00:00",
+                    "end": "07:45",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2025-2026.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "AC Milan - 2025/2026",
+                    "start": "07:45",
+                    "end": "08:15",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2025-2026.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "AC Milan - 2025/2026",
+                    "start": "08:15",
+                    "end": "08:45",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2025-2026.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "AC Milan - 2025/2026",
+                    "start": "08:45",
+                    "end": "10:50",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2025-2026.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "AC Milan - 2025/2026",
+                    "start": "10:50",
+                    "end": "11:15",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2025-2026.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "AC Milan - 2025/2026",
+                    "start": "11:15",
+                    "end": "12:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2025-2026.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "AC Milan - 2025/2026",
+                    "start": "12:00",
+                    "end": "14:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2025-2026.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "AC Milan - 2025/2026",
+                    "start": "14:00",
+                    "end": "15:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2025-2026.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "AC Milan - 2025/2026",
+                    "start": "15:00",
+                    "end": "18:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2025-2026.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Inferno 18/05/26 Live",
+                    "start": "18:00",
+                    "end": "19:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "AC Milan - 2025/2026",
+                    "start": "19:00",
+                    "end": "23:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2025-2026.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "AC Milan - 2025/2026",
+                    "start": "23:00",
+                    "end": "01:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2025-2026.webp",
+                    "category": "Informazione"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-19",
+            "programs": [
+                {
+                    "name": "AC Milan - 2025/2026",
+                    "start": "00:00",
+                    "end": "01:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2025-2026.webp",
+                    "category": "Informazione"
+                }
+            ]
+        }
+    ]
+}
