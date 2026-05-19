@@ -1,1 +1,302 @@
-{"channel_name":"Giallo TV","days":[{"date":"2026-05-19","programs":[{"name":"Due detective nell'arte","start":"00:00","end":"00:00","episode":"S1 E5"},{"name":"Due detective nell'arte","start":"00:00","end":"00:10","episode":"S1 E5"},{"name":"Due detective nell'arte","start":"00:10","end":"01:15","episode":"S1 E6"},{"name":"Il giovane ispettore Morse","start":"01:15","end":"03:10","episode":"S4 E3"},{"name":"Nightmare Next Door","start":"03:10","end":"04:15","episode":"S3 E14"},{"name":"Nightmare Next Door","start":"04:15","end":"05:10","episode":"S3 E15"},{"name":"Nightmare Next Door","start":"05:10","end":"06:00","episode":"S3 E16"},{"name":"A Crime To Remember","start":"06:00","end":"07:00","episode":"S4 E4"},{"name":"I misteri di Murdoch","start":"07:00","end":"08:00","episode":"S3 E3"},{"name":"I misteri di Murdoch","start":"08:00","end":"09:00","episode":"S3 E4"},{"name":"Il giovane ispettore Morse","start":"09:00","end":"10:55","episode":"S4 E3"},{"name":"Tom e Lola","start":"10:55","end":"12:05","episode":"S1 E1"},{"name":"Tom e Lola","start":"12:05","end":"13:10","episode":"S1 E2"},{"name":"Capitaine Marleau","start":"13:10","end":"15:10","episode":"S1 E33"},{"name":"L'ispettore Barnaby","start":"15:10","end":"17:05","episode":"S5 E2"},{"name":"Il giovane ispettore Morse","start":"17:05","end":"19:00","episode":"S4 E4"},{"name":"Tom e Lola","start":"19:00","end":"20:05","episode":"S1 E3"},{"name":"Tom e Lola","start":"20:05","end":"21:10","episode":"S1 E4"},{"name":"L'ispettore Barnaby","start":"21:10","end":"23:05","episode":"S13 E1"},{"name":"Capitaine Marleau","start":"23:05","end":"00:00","episode":"S1 E37"}]},{"date":"2026-05-20","programs":[{"name":"Capitaine Marleau","start":"00:00","end":"00:00","episode":"S1 E37"},{"name":"Capitaine Marleau","start":"00:00","end":"01:05","episode":"S1 E37"},{"name":"Il giovane ispettore Morse","start":"01:05","end":"02:55","episode":"S4 E4"},{"name":"Nightmare Next Door","start":"02:55","end":"03:50","episode":"S3 E17"},{"name":"Nightmare Next Door","start":"03:50","end":"04:40","episode":"S3 E18"},{"name":"Nightmare Next Door","start":"04:40","end":"05:30","episode":"S3 E19"},{"name":"L'investigatore Wolfe","start":"05:30","end":"06:00","episode":"S1 E5"},{"name":"A Crime To Remember","start":"06:00","end":"07:00","episode":"S4 E5"},{"name":"I misteri di Murdoch","start":"07:00","end":"08:00","episode":"S3 E5"},{"name":"I misteri di Murdoch","start":"08:00","end":"09:00","episode":"S3 E6"},{"name":"Il giovane ispettore Morse","start":"09:00","end":"10:55","episode":"S4 E4"},{"name":"Tom e Lola","start":"10:55","end":"12:00","episode":"S1 E3"},{"name":"Tom e Lola","start":"12:00","end":"13:05","episode":"S1 E4"},{"name":"Capitaine Marleau","start":"13:05","end":"15:05","episode":"S1 E34"},{"name":"L'ispettore Barnaby","start":"15:05","end":"17:00","episode":"S5 E3"},{"name":"Il giovane ispettore Morse","start":"17:00","end":"18:55","episode":"S6 E1"},{"name":"Tom e Lola","start":"18:55","end":"20:00","episode":"S1 E5"},{"name":"Tom e Lola","start":"20:00","end":"21:10","episode":"S1 E6"},{"name":"La stagista del crimine - 1^TV","start":"21:10","end":"22:10","episode":"S6 E1"},{"name":"La stagista del crimine - 1^TV","start":"22:10","end":"23:10","episode":"S6 E2"},{"name":"Mademoiselle Holmes","start":"23:10","end":"00:00","episode":"S1 E3"}]}]}
+{
+    "channel_name": "Giallo TV",
+    "days": [
+        {
+            "date": "2026-05-19",
+            "programs": [
+                {
+                    "name": "Due detective nell'arte",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Due detective nell'arte",
+                    "start": "00:00",
+                    "end": "00:10",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Due detective nell'arte",
+                    "start": "00:10",
+                    "end": "01:15",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il giovane ispettore Morse",
+                    "start": "01:15",
+                    "end": "03:10",
+                    "episode": "S4 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "03:10",
+                    "end": "04:15",
+                    "episode": "S3 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "04:15",
+                    "end": "05:10",
+                    "episode": "S3 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "05:10",
+                    "end": "06:00",
+                    "episode": "S3 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A Crime To Remember",
+                    "start": "06:00",
+                    "end": "07:00",
+                    "episode": "S4 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "07:00",
+                    "end": "08:00",
+                    "episode": "S3 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "08:00",
+                    "end": "09:00",
+                    "episode": "S3 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il giovane ispettore Morse",
+                    "start": "09:00",
+                    "end": "10:55",
+                    "episode": "S4 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tom e Lola",
+                    "start": "10:55",
+                    "end": "12:05",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tom e Lola",
+                    "start": "12:05",
+                    "end": "13:10",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Capitaine Marleau",
+                    "start": "13:10",
+                    "end": "15:10",
+                    "episode": "S1 E33",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "15:10",
+                    "end": "17:05",
+                    "episode": "S5 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il giovane ispettore Morse",
+                    "start": "17:05",
+                    "end": "19:00",
+                    "episode": "S4 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tom e Lola",
+                    "start": "19:00",
+                    "end": "20:05",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tom e Lola",
+                    "start": "20:05",
+                    "end": "21:10",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "21:10",
+                    "end": "23:05",
+                    "episode": "S13 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Capitaine Marleau",
+                    "start": "23:05",
+                    "end": "00:00",
+                    "episode": "S1 E37",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-20",
+            "programs": [
+                {
+                    "name": "Capitaine Marleau",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S1 E37",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Capitaine Marleau",
+                    "start": "00:00",
+                    "end": "01:05",
+                    "episode": "S1 E37",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il giovane ispettore Morse",
+                    "start": "01:05",
+                    "end": "02:55",
+                    "episode": "S4 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "02:55",
+                    "end": "03:50",
+                    "episode": "S3 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "03:50",
+                    "end": "04:40",
+                    "episode": "S3 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "04:40",
+                    "end": "05:30",
+                    "episode": "S3 E19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'investigatore Wolfe",
+                    "start": "05:30",
+                    "end": "06:00",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A Crime To Remember",
+                    "start": "06:00",
+                    "end": "07:00",
+                    "episode": "S4 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "07:00",
+                    "end": "08:00",
+                    "episode": "S3 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "08:00",
+                    "end": "09:00",
+                    "episode": "S3 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il giovane ispettore Morse",
+                    "start": "09:00",
+                    "end": "10:55",
+                    "episode": "S4 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tom e Lola",
+                    "start": "10:55",
+                    "end": "12:00",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tom e Lola",
+                    "start": "12:00",
+                    "end": "13:05",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Capitaine Marleau",
+                    "start": "13:05",
+                    "end": "15:05",
+                    "episode": "S1 E34",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "15:05",
+                    "end": "17:00",
+                    "episode": "S5 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il giovane ispettore Morse",
+                    "start": "17:00",
+                    "end": "18:55",
+                    "episode": "S6 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tom e Lola",
+                    "start": "18:55",
+                    "end": "20:00",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tom e Lola",
+                    "start": "20:00",
+                    "end": "21:10",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La stagista del crimine - 1^TV",
+                    "start": "21:10",
+                    "end": "22:10",
+                    "episode": "S6 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La stagista del crimine - 1^TV",
+                    "start": "22:10",
+                    "end": "23:10",
+                    "episode": "S6 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mademoiselle Holmes",
+                    "start": "23:10",
+                    "end": "00:00",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
