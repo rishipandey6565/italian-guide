@@ -1,1 +1,190 @@
-{"channel_name":"ACI Sport Tv","days":[{"date":"2026-05-22","programs":[{"name":"ADAC RAVENOL 24h N?rburgring 2026","start":"00:00","end":"09:01","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Revival ACI Sport since 2012","start":"09:01","end":"09:36","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIAR - Targa Florio - PS1","start":"09:36","end":"10:52","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Magazine ACI Sport","start":"10:52","end":"11:53","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"IMOLA - TCR Italy - G1","start":"11:53","end":"12:48","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Magazine CRZ","start":"12:48","end":"13:19","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"IMOLA - TCR Italy - G2","start":"13:19","end":"14:14","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIVCA - Magione - Div. 3-4","start":"14:14","end":"15:35","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIAR - Targa Florio - PS8","start":"15:35","end":"17:05","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIVCA - Magione - Div. 1-2","start":"17:05","end":"18:25","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Magazine CRZ","start":"18:25","end":"18:56","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIAR - Targa Florio - PS7","start":"18:56","end":"19:43","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Magazine ACI Sport","start":"19:43","end":"20:43","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Inside ACI Racing Weekend - Day 1","start":"20:43","end":"21:14","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"E-Sport Coppa It. F4 - Adelaide Circuit","start":"21:14","end":"21:15","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Inside ACI Racing Weekend - Day 1","start":"21:15","end":"21:45","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"TCR Europe - SPA -G1","start":"21:45","end":"22:37","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Inside ACI Racing Weekend - Day 1","start":"22:37","end":"23:08","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"TCR Europe - SPA -G2","start":"23:08","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"}]},{"date":"2026-05-23","programs":[{"name":"TCR Europe - SPA -G2","start":"00:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"ACI Sport Tv","start":"00:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"GT Open - SPA - Gara","start":"00:00","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"ACI Sport Tv","start":"06:00","end":"12:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"12:00","end":"18:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"18:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"}]}]}
+{
+    "channel_name": "ACI Sport Tv",
+    "days": [
+        {
+            "date": "2026-05-22",
+            "programs": [
+                {
+                    "name": "ADAC RAVENOL 24h N?rburgring 2026",
+                    "start": "00:00",
+                    "end": "09:01",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Revival ACI Sport since 2012",
+                    "start": "09:01",
+                    "end": "09:36",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIAR - Targa Florio - PS1",
+                    "start": "09:36",
+                    "end": "10:52",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Magazine ACI Sport",
+                    "start": "10:52",
+                    "end": "11:53",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "IMOLA - TCR Italy - G1",
+                    "start": "11:53",
+                    "end": "12:48",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Magazine CRZ",
+                    "start": "12:48",
+                    "end": "13:19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "IMOLA - TCR Italy - G2",
+                    "start": "13:19",
+                    "end": "14:14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIVCA - Magione - Div. 3-4",
+                    "start": "14:14",
+                    "end": "15:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIAR - Targa Florio - PS8",
+                    "start": "15:35",
+                    "end": "17:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIVCA - Magione - Div. 1-2",
+                    "start": "17:05",
+                    "end": "18:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Magazine CRZ",
+                    "start": "18:25",
+                    "end": "18:56",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIAR - Targa Florio - PS7",
+                    "start": "18:56",
+                    "end": "19:43",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Magazine ACI Sport",
+                    "start": "19:43",
+                    "end": "20:43",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Inside ACI Racing Weekend - Day 1",
+                    "start": "20:43",
+                    "end": "21:14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "E-Sport Coppa It. F4 - Adelaide Circuit",
+                    "start": "21:14",
+                    "end": "21:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Inside ACI Racing Weekend - Day 1",
+                    "start": "21:15",
+                    "end": "21:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "TCR Europe - SPA -G1",
+                    "start": "21:45",
+                    "end": "22:37",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Inside ACI Racing Weekend - Day 1",
+                    "start": "22:37",
+                    "end": "23:08",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "TCR Europe - SPA -G2",
+                    "start": "23:08",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-23",
+            "programs": [
+                {
+                    "name": "TCR Europe - SPA -G2",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "GT Open - SPA - Gara",
+                    "start": "00:00",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "06:00",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "12:00",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "18:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                }
+            ]
+        }
+    ]
+}

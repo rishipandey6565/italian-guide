@@ -1,1 +1,302 @@
-{"channel_name":"Giallo TV","days":[{"date":"2026-05-22","programs":[{"name":"I misteri di Brokenwood","start":"00:00","end":"00:00","episode":"S12 E1"},{"name":"I misteri di Brokenwood","start":"00:00","end":"01:10","episode":"S12 E1"},{"name":"Il giovane ispettore Morse","start":"01:10","end":"03:05","episode":"S6 E2"},{"name":"Nightmare Next Door","start":"03:05","end":"04:05","episode":"S3 E2"},{"name":"Nightmare Next Door","start":"04:05","end":"05:00","episode":"S3 E3"},{"name":"Nightmare Next Door","start":"05:00","end":"06:00","episode":"S3 E4"},{"name":"L'investigatore Wolfe","start":"06:00","end":"06:30","episode":"S3 E2"},{"name":"A Crime To Remember","start":"06:30","end":"07:30","episode":"S4 E7"},{"name":"I misteri di Murdoch","start":"07:30","end":"08:30","episode":"S3 E9"},{"name":"I misteri di Murdoch","start":"08:30","end":"09:30","episode":"S3 E10"},{"name":"Il giovane ispettore Morse","start":"09:30","end":"11:25","episode":"S6 E2"},{"name":"L'ispettore Barnaby","start":"11:25","end":"13:20","episode":"S14 E1"},{"name":"Capitaine Marleau","start":"13:20","end":"15:20","episode":"S1 E36"},{"name":"L'ispettore Barnaby","start":"15:20","end":"17:15","episode":"S5 E5"},{"name":"Il giovane ispettore Morse","start":"17:15","end":"19:10","episode":"S6 E3"},{"name":"L'ispettore Barnaby","start":"19:10","end":"21:10","episode":"S15 E1"},{"name":"Mademoiselle Holmes","start":"21:10","end":"22:15","episode":"S1 E5"},{"name":"Mademoiselle Holmes","start":"22:15","end":"23:20","episode":"S1 E6"},{"name":"La stagista del crimine","start":"23:20","end":"00:00","episode":"S6 E1"}]},{"date":"2026-05-23","programs":[{"name":"La stagista del crimine","start":"00:00","end":"00:00","episode":"S6 E1"},{"name":"La stagista del crimine","start":"00:00","end":"00:20","episode":"S6 E1"},{"name":"La stagista del crimine","start":"00:20","end":"01:20","episode":"S6 E2"},{"name":"Il giovane ispettore Morse","start":"01:20","end":"03:15","episode":"S6 E3"},{"name":"Nightmare Next Door","start":"03:15","end":"04:10","episode":"S3 E5"},{"name":"Nightmare Next Door","start":"04:10","end":"05:05","episode":"S3 E6"},{"name":"Nightmare Next Door","start":"05:05","end":"06:00","episode":"S3 E7"},{"name":"L'investigatore Wolfe","start":"06:00","end":"06:30","episode":"S2 E5"},{"name":"Torbidi delitti","start":"06:30","end":"07:25","episode":"S1 E5"},{"name":"A sei passi dal killer","start":"07:25","end":"08:20","episode":"S1 E3"},{"name":"A sei passi dal killer","start":"08:20","end":"09:15","episode":"S1 E4"},{"name":"I misteri di Whitstable Pearl","start":"09:15","end":"10:15","episode":"S1 E3"},{"name":"I misteri di Whitstable Pearl","start":"10:15","end":"11:15","episode":"S1 E4"},{"name":"Vera","start":"11:15","end":"13:10","episode":"S5 E3"},{"name":"Mademoiselle Holmes","start":"13:10","end":"14:15","episode":"S1 E5"},{"name":"Mademoiselle Holmes","start":"14:15","end":"15:20","episode":"S1 E6"},{"name":"La stagista del crimine","start":"15:20","end":"16:20","episode":"S6 E1"},{"name":"La stagista del crimine","start":"16:20","end":"17:20","episode":"S6 E2"},{"name":"L'ispettore Barnaby","start":"17:20","end":"19:20","episode":"S13 E1"},{"name":"L'ispettore Barnaby","start":"19:20","end":"21:10","episode":"S17 E4"},{"name":"Omicidi a Sandhamn - Linnea","start":"21:10","end":"23:05","episode":"S23"},{"name":"I misteri di Whitstable Pearl","start":"23:05","end":"00:00","episode":"S1 E3"}]}]}
+{
+    "channel_name": "Giallo TV",
+    "days": [
+        {
+            "date": "2026-05-22",
+            "programs": [
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S12 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "00:00",
+                    "end": "01:10",
+                    "episode": "S12 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il giovane ispettore Morse",
+                    "start": "01:10",
+                    "end": "03:05",
+                    "episode": "S6 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "03:05",
+                    "end": "04:05",
+                    "episode": "S3 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "04:05",
+                    "end": "05:00",
+                    "episode": "S3 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "05:00",
+                    "end": "06:00",
+                    "episode": "S3 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'investigatore Wolfe",
+                    "start": "06:00",
+                    "end": "06:30",
+                    "episode": "S3 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A Crime To Remember",
+                    "start": "06:30",
+                    "end": "07:30",
+                    "episode": "S4 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "07:30",
+                    "end": "08:30",
+                    "episode": "S3 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "08:30",
+                    "end": "09:30",
+                    "episode": "S3 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il giovane ispettore Morse",
+                    "start": "09:30",
+                    "end": "11:25",
+                    "episode": "S6 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "11:25",
+                    "end": "13:20",
+                    "episode": "S14 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Capitaine Marleau",
+                    "start": "13:20",
+                    "end": "15:20",
+                    "episode": "S1 E36",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "15:20",
+                    "end": "17:15",
+                    "episode": "S5 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il giovane ispettore Morse",
+                    "start": "17:15",
+                    "end": "19:10",
+                    "episode": "S6 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "19:10",
+                    "end": "21:10",
+                    "episode": "S15 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mademoiselle Holmes",
+                    "start": "21:10",
+                    "end": "22:15",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mademoiselle Holmes",
+                    "start": "22:15",
+                    "end": "23:20",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La stagista del crimine",
+                    "start": "23:20",
+                    "end": "00:00",
+                    "episode": "S6 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-23",
+            "programs": [
+                {
+                    "name": "La stagista del crimine",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S6 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La stagista del crimine",
+                    "start": "00:00",
+                    "end": "00:20",
+                    "episode": "S6 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La stagista del crimine",
+                    "start": "00:20",
+                    "end": "01:20",
+                    "episode": "S6 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il giovane ispettore Morse",
+                    "start": "01:20",
+                    "end": "03:15",
+                    "episode": "S6 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "03:15",
+                    "end": "04:10",
+                    "episode": "S3 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "04:10",
+                    "end": "05:05",
+                    "episode": "S3 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "05:05",
+                    "end": "06:00",
+                    "episode": "S3 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'investigatore Wolfe",
+                    "start": "06:00",
+                    "end": "06:30",
+                    "episode": "S2 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Torbidi delitti",
+                    "start": "06:30",
+                    "end": "07:25",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A sei passi dal killer",
+                    "start": "07:25",
+                    "end": "08:20",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A sei passi dal killer",
+                    "start": "08:20",
+                    "end": "09:15",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Whitstable Pearl",
+                    "start": "09:15",
+                    "end": "10:15",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Whitstable Pearl",
+                    "start": "10:15",
+                    "end": "11:15",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Vera",
+                    "start": "11:15",
+                    "end": "13:10",
+                    "episode": "S5 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mademoiselle Holmes",
+                    "start": "13:10",
+                    "end": "14:15",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mademoiselle Holmes",
+                    "start": "14:15",
+                    "end": "15:20",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La stagista del crimine",
+                    "start": "15:20",
+                    "end": "16:20",
+                    "episode": "S6 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La stagista del crimine",
+                    "start": "16:20",
+                    "end": "17:20",
+                    "episode": "S6 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "17:20",
+                    "end": "19:20",
+                    "episode": "S13 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "19:20",
+                    "end": "21:10",
+                    "episode": "S17 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Omicidi a Sandhamn - Linnea",
+                    "start": "21:10",
+                    "end": "23:05",
+                    "episode": "S23",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Whitstable Pearl",
+                    "start": "23:05",
+                    "end": "00:00",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
