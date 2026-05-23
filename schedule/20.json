@@ -1,1 +1,382 @@
-{"channel_name":"20","days":[{"date":"2026-05-23","programs":[{"name":"Attacco Al Potere","start":"00:00","end":"01:19","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F010131101000102/media/22/86/00c4248f-8631-4741-99dd-78486fa9e693/3f76ce9b-b632-4d93-b350-c56f388f67eb.jpg","category":"Azione"},{"name":"Chicago Med","start":"01:19","end":"01:59","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F307860401000203/images/Mediaset_Italia_Production_-_Main/31/8/ST000000000997-1-header-poster-320x260.jpg","episode":"S2 E2","category":"Drammatico"},{"name":"Chicago Med","start":"01:59","end":"02:39","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F307860401000303/images/Mediaset_Italia_Production_-_Main/31/8/ST000000000997-1-header-poster-320x260.jpg","episode":"S2 E3","category":"Drammatico"},{"name":"The Flash","start":"02:39","end":"03:19","episode":"S8 E3"},{"name":"The Flash","start":"03:19","end":"04:00","episode":"S8 E4"},{"name":"Show Reel","start":"04:00","end":"04:39"},{"name":"Distretto Di Polizia","start":"04:39","end":"05:19","episode":"S1 E16"},{"name":"Distretto Di Polizia","start":"05:19","end":"06:00","episode":"S1 E17"},{"name":"Show Reel","start":"06:00","end":"06:37"},{"name":"Distretto Di Polizia","start":"06:37","end":"07:17","episode":"S1 E18"},{"name":"Roswell, New Mexico","start":"07:17","end":"07:57","episode":"S2 E1"},{"name":"Roswell, New Mexico","start":"07:57","end":"08:46","episode":"S2 E2"},{"name":"New Amsterdam","start":"08:46","end":"09:44","episode":"S4 E1"},{"name":"New Amsterdam","start":"09:44","end":"10:38","episode":"S4 E2"},{"name":"New Amsterdam","start":"10:38","end":"11:34","episode":"S4 E3"},{"name":"New Amsterdam","start":"11:34","end":"12:24","episode":"S4 E4"},{"name":"New Amsterdam","start":"12:24","end":"13:21","episode":"S4 E5"},{"name":"New Amsterdam","start":"13:21","end":"14:18","episode":"S4 E6"},{"name":"New Amsterdam","start":"14:18","end":"15:12","episode":"S4 E7"},{"name":"New Amsterdam","start":"15:12","end":"16:02","episode":"S4 E8"},{"name":"New Amsterdam","start":"16:02","end":"17:02","episode":"S4 E9"},{"name":"New Amsterdam","start":"17:02","end":"17:57","episode":"S4 E10"},{"name":"New Amsterdam","start":"17:57","end":"18:59","episode":"S4 E11"},{"name":"Taken 3 L'ora Della Verita'","start":"18:59","end":"21:11","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F306415301000102/media/30/94/7ee2db36-3392-4c83-bd78-f7bcd73143b1/485d87a0-cf9a-4f02-b3cf-e2c7e16370a5.jpg","category":"Azione"},{"name":"First Strike","start":"21:11","end":"22:57","category":"Azione"},{"name":"Taf 13 The Art Of Fighting","start":"22:57","end":"01:37","category":"Altri sport"}]},{"date":"2026-05-24","programs":[{"name":"Taf 13 The Art Of Fighting","start":"00:00","end":"01:37","category":"Altri sport"},{"name":"Taken 3 L'ora Della Verita'","start":"01:37","end":"03:17","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F306415301000102/media/30/94/7ee2db36-3392-4c83-bd78-f7bcd73143b1/485d87a0-cf9a-4f02-b3cf-e2c7e16370a5.jpg","category":"Azione"},{"name":"Distretto Di Polizia","start":"03:17","end":"03:57","episode":"S1 E18"},{"name":"Show Reel","start":"03:57","end":"04:38"},{"name":"Roswell, New Mexico","start":"04:38","end":"05:19","episode":"S2 E1"},{"name":"Roswell, New Mexico","start":"05:19","end":"06:00","episode":"S2 E2"},{"name":"Show Reel","start":"06:00","end":"06:25"},{"name":"Distretto Di Polizia","start":"06:25","end":"07:06","episode":"S1 E19"},{"name":"New Amsterdam","start":"07:06","end":"07:47","episode":"S4 E9"},{"name":"New Amsterdam","start":"07:47","end":"08:36","episode":"S4 E10"},{"name":"New Amsterdam","start":"08:36","end":"09:30","episode":"S4 E11"},{"name":"New Amsterdam","start":"09:30","end":"10:19","episode":"S4 E12"},{"name":"New Amsterdam","start":"10:19","end":"11:15","episode":"S4 E13"},{"name":"New Amsterdam","start":"11:15","end":"12:05","episode":"S4 E14"},{"name":"New Amsterdam","start":"12:05","end":"12:58","episode":"S4 E15"},{"name":"New Amsterdam","start":"12:58","end":"13:50","episode":"S4 E16"},{"name":"New Amsterdam","start":"13:50","end":"14:37","episode":"S4 E17"},{"name":"New Amsterdam","start":"14:37","end":"15:29","episode":"S4 E18"},{"name":"New Amsterdam","start":"15:29","end":"16:17","episode":"S4 E19"},{"name":"New Amsterdam","start":"16:17","end":"17:11","episode":"S4 E20"},{"name":"Speciale The Art Of Fighting 13 La Grande Boxe","start":"17:11","end":"17:36"},{"name":"New Amsterdam","start":"17:36","end":"18:23","episode":"S4 E21"},{"name":"New Amsterdam","start":"18:23","end":"19:17","episode":"S4 E22"},{"name":"Codice: Swordfish","start":"19:17","end":"21:10","category":"Azione"},{"name":"Spider Man","start":"21:10","end":"23:25","category":"Azione"},{"name":"Speciale The Art Of Fighting 13 La Grande Boxe","start":"23:25","end":"23:50"},{"name":"First Strike","start":"23:50","end":"01:25","category":"Azione"}]}]}
+{
+    "channel_name": "20",
+    "days": [
+        {
+            "date": "2026-05-23",
+            "programs": [
+                {
+                    "name": "Attacco Al Potere",
+                    "start": "00:00",
+                    "end": "01:19",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/20/attacco-al-potere.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Chicago Med",
+                    "start": "01:19",
+                    "end": "01:59",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/20/chicago-med.webp",
+                    "episode": "S2 E2",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Chicago Med",
+                    "start": "01:59",
+                    "end": "02:39",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/20/chicago-med.webp",
+                    "episode": "S2 E3",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "The Flash",
+                    "start": "02:39",
+                    "end": "03:19",
+                    "episode": "S8 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Flash",
+                    "start": "03:19",
+                    "end": "04:00",
+                    "episode": "S8 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Show Reel",
+                    "start": "04:00",
+                    "end": "04:39",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "04:39",
+                    "end": "05:19",
+                    "episode": "S1 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "05:19",
+                    "end": "06:00",
+                    "episode": "S1 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Show Reel",
+                    "start": "06:00",
+                    "end": "06:37",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "06:37",
+                    "end": "07:17",
+                    "episode": "S1 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Roswell, New Mexico",
+                    "start": "07:17",
+                    "end": "07:57",
+                    "episode": "S2 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Roswell, New Mexico",
+                    "start": "07:57",
+                    "end": "08:46",
+                    "episode": "S2 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "08:46",
+                    "end": "09:44",
+                    "episode": "S4 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "09:44",
+                    "end": "10:38",
+                    "episode": "S4 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "10:38",
+                    "end": "11:34",
+                    "episode": "S4 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "11:34",
+                    "end": "12:24",
+                    "episode": "S4 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "12:24",
+                    "end": "13:21",
+                    "episode": "S4 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "13:21",
+                    "end": "14:18",
+                    "episode": "S4 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "14:18",
+                    "end": "15:12",
+                    "episode": "S4 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "15:12",
+                    "end": "16:02",
+                    "episode": "S4 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "16:02",
+                    "end": "17:02",
+                    "episode": "S4 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "17:02",
+                    "end": "17:57",
+                    "episode": "S4 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "17:57",
+                    "end": "18:59",
+                    "episode": "S4 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Taken 3 L'ora Della Verita'",
+                    "start": "18:59",
+                    "end": "21:11",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/20/taken-3-l-ora-della-verita.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "First Strike",
+                    "start": "21:11",
+                    "end": "22:57",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Taf 13 The Art Of Fighting",
+                    "start": "22:57",
+                    "end": "01:37",
+                    "category": "Altri sport",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-05-24",
+            "programs": [
+                {
+                    "name": "Taf 13 The Art Of Fighting",
+                    "start": "00:00",
+                    "end": "01:37",
+                    "category": "Altri sport",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Taken 3 L'ora Della Verita'",
+                    "start": "01:37",
+                    "end": "03:17",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/20/taken-3-l-ora-della-verita.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "03:17",
+                    "end": "03:57",
+                    "episode": "S1 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Show Reel",
+                    "start": "03:57",
+                    "end": "04:38",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Roswell, New Mexico",
+                    "start": "04:38",
+                    "end": "05:19",
+                    "episode": "S2 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Roswell, New Mexico",
+                    "start": "05:19",
+                    "end": "06:00",
+                    "episode": "S2 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Show Reel",
+                    "start": "06:00",
+                    "end": "06:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "06:25",
+                    "end": "07:06",
+                    "episode": "S1 E19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "07:06",
+                    "end": "07:47",
+                    "episode": "S4 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "07:47",
+                    "end": "08:36",
+                    "episode": "S4 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "08:36",
+                    "end": "09:30",
+                    "episode": "S4 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "09:30",
+                    "end": "10:19",
+                    "episode": "S4 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "10:19",
+                    "end": "11:15",
+                    "episode": "S4 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "11:15",
+                    "end": "12:05",
+                    "episode": "S4 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "12:05",
+                    "end": "12:58",
+                    "episode": "S4 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "12:58",
+                    "end": "13:50",
+                    "episode": "S4 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "13:50",
+                    "end": "14:37",
+                    "episode": "S4 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "14:37",
+                    "end": "15:29",
+                    "episode": "S4 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "15:29",
+                    "end": "16:17",
+                    "episode": "S4 E19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "16:17",
+                    "end": "17:11",
+                    "episode": "S4 E20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Speciale The Art Of Fighting 13 La Grande Boxe",
+                    "start": "17:11",
+                    "end": "17:36",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "17:36",
+                    "end": "18:23",
+                    "episode": "S4 E21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "New Amsterdam",
+                    "start": "18:23",
+                    "end": "19:17",
+                    "episode": "S4 E22",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Codice: Swordfish",
+                    "start": "19:17",
+                    "end": "21:10",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Spider Man",
+                    "start": "21:10",
+                    "end": "23:25",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Speciale The Art Of Fighting 13 La Grande Boxe",
+                    "start": "23:25",
+                    "end": "23:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "First Strike",
+                    "start": "23:50",
+                    "end": "01:25",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
