@@ -1,1 +1,22 @@
-{"channel_name":"Solocalcio","days":[{"date":"2026-06-03","programs":[{"name":"Weekend (?)","start":"00:00","end":"06:00"},{"name":"Il Mondo in Tavola (?)","start":"06:00","end":"06:30"}]}]}
+{
+    "channel_name": "Solocalcio",
+    "days": [
+        {
+            "date": "2026-06-03",
+            "programs": [
+                {
+                    "name": "Weekend (?)",
+                    "start": "00:00",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Mondo in Tavola (?)",
+                    "start": "06:00",
+                    "end": "06:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
