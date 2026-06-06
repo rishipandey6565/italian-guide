@@ -1,1 +1,69 @@
-{"channel_name":"Solocalcio","days":[{"date":"2026-06-06","programs":[{"name":"Weekend (?)","start":"00:00","end":"06:00"},{"name":"Il Mondo in Tavola (?)","start":"06:00","end":"06:30"},{"name":"Emozioni Dal Mondo (?)","start":"06:30","end":"00:00"}]},{"date":"2026-06-07","programs":[{"name":"Emozioni Dal Mondo (?)","start":"00:00","end":"00:00"},{"name":"Campionato Saudita Al Hilal-NEOM","start":"00:00","end":"02:00"},{"name":"Si Live 24","start":"02:00","end":"02:30"},{"name":"Si Live 24","start":"02:30","end":"03:00"},{"name":"Chelsea-Manchester City","start":"03:00","end":"05:00"},{"name":"Campionato Argentino River Plate-Belgrano","start":"05:00","end":"00:00"}]}]}
+{
+    "channel_name": "Solocalcio",
+    "days": [
+        {
+            "date": "2026-06-06",
+            "programs": [
+                {
+                    "name": "Weekend (?)",
+                    "start": "00:00",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Mondo in Tavola (?)",
+                    "start": "06:00",
+                    "end": "06:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Emozioni Dal Mondo (?)",
+                    "start": "06:30",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-06-07",
+            "programs": [
+                {
+                    "name": "Emozioni Dal Mondo (?)",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Hilal-NEOM",
+                    "start": "00:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:30",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chelsea-Manchester City",
+                    "start": "03:00",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino River Plate-Belgrano",
+                    "start": "05:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
