@@ -1,1 +1,234 @@
-{"channel_name":"Iris","days":[{"date":"2026-06-08","programs":[{"name":"Sfera","start":"00:00","end":"02:06","category":"Fantastico/Favolistico"},{"name":"Viaggio In Paradiso","start":"02:06","end":"03:37","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303055801000103/media/28/92/a0ce7e9d-6bd2-4904-8a8c-47a50e8790c1/b30a3d7c-756b-4500-b3ad-1e7e818e3c5b.jpg","category":"Azione"},{"name":"Ipotesi Di Complotto","start":"03:37","end":"05:47","category":"Thriller"},{"name":"Finche' C'e' Ditta C'e' Speranza","start":"05:47","end":"06:04","episode":"S2 E2"},{"name":"Kojak","start":"06:04","end":"06:52","episode":"S1 E16"},{"name":"Walker Texas Ranger","start":"06:52","end":"07:41","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F010837601002203/media/11/11/0575a534-3338-4920-a520-bcfec0e240eb/58d12be0-d95d-49f7-b8a9-ee7552d60df8.jpg","episode":"S8 E22","category":"Azione"},{"name":"Gli Invincibili Tre","start":"07:41","end":"09:42","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000334201000101/media/17/81/21592beb-ca83-4218-a7ad-88e8255af607/10c6f340-a292-4d69-80d9-21b4b5addf6b.jpg","category":"Avventura"},{"name":"Il Prescelto","start":"09:42","end":"11:51","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012167301000102/media/0/0/4d7f98a3-2d33-4f91-bdc0-0775f022543e/cbbe7a69-9a1b-4d1e-a857-902d99353a5f.jpg","category":"Thriller"},{"name":"Arancia Meccanica","start":"11:51","end":"14:48","category":"Drammatico"},{"name":"Cavalca Vaquero!","start":"14:48","end":"16:47","category":"Western"},{"name":"Il Grande Match","start":"16:47","end":"19:09","category":"Commedia"},{"name":"Kojak","start":"19:09","end":"20:11","episode":"S1 E16"},{"name":"Walker Texas Ranger","start":"20:11","end":"21:16","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F010837601002203/media/11/11/0575a534-3338-4920-a520-bcfec0e240eb/58d12be0-d95d-49f7-b8a9-ee7552d60df8.jpg","episode":"S8 E22","category":"Azione"},{"name":"North Country Storia Di Josey","start":"21:16","end":"23:58","category":"Drammatico"},{"name":"Land","start":"23:58","end":"01:44","category":"Drammatico"}]},{"date":"2026-06-09","programs":[{"name":"Land","start":"00:00","end":"01:44","category":"Drammatico"},{"name":"Note Di Cinema","start":"01:44","end":"01:51"},{"name":"Arancia Meccanica","start":"01:51","end":"04:04","category":"Drammatico"},{"name":"Il Grande Match","start":"04:04","end":"05:50","category":"Commedia"},{"name":"Note Di Cinema","start":"05:50","end":"06:05"},{"name":"Kojak","start":"06:05","end":"06:53","episode":"S1 E17"},{"name":"Walker Texas Ranger","start":"06:53","end":"07:34","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F010837601002303/media/11/11/0575a534-3338-4920-a520-bcfec0e240eb/58d12be0-d95d-49f7-b8a9-ee7552d60df8.jpg","episode":"S8 E23","category":"Azione"},{"name":"Avanzi Di Galera","start":"07:34","end":"09:41","category":"Drammatico"},{"name":"North Country Storia Di Josey","start":"09:41","end":"12:14","category":"Drammatico"},{"name":"Formula Per Un Delitto","start":"12:14","end":"14:45","category":"Thriller"},{"name":"Non Mangiate Le Margherite","start":"14:45","end":"17:08","category":"Commedia"},{"name":"Land","start":"17:08","end":"19:11","category":"Drammatico"},{"name":"Kojak","start":"19:11","end":"20:11","episode":"S1 E17"},{"name":"Walker Texas Ranger","start":"20:11","end":"21:11","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F010837601002303/media/11/11/0575a534-3338-4920-a520-bcfec0e240eb/58d12be0-d95d-49f7-b8a9-ee7552d60df8.jpg","episode":"S8 E23","category":"Azione"},{"name":"Sfida Nella Valle Dei Comanche","start":"21:11","end":"23:09","category":"Western"},{"name":"Uomini E Cobra","start":"23:09","end":"01:37","category":"Western"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-06-08",
+            "programs": [
+                {
+                    "name": "Sfera",
+                    "start": "00:00",
+                    "end": "02:06",
+                    "category": "Fantastico/Favolistico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Viaggio In Paradiso",
+                    "start": "02:06",
+                    "end": "03:37",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/viaggio-in-paradiso.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Ipotesi Di Complotto",
+                    "start": "03:37",
+                    "end": "05:47",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Finche' C'e' Ditta C'e' Speranza",
+                    "start": "05:47",
+                    "end": "06:04",
+                    "episode": "S2 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:04",
+                    "end": "06:52",
+                    "episode": "S1 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "06:52",
+                    "end": "07:41",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/walker-texas-ranger.webp",
+                    "episode": "S8 E22",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Gli Invincibili Tre",
+                    "start": "07:41",
+                    "end": "09:42",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/gli-invincibili-tre.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Il Prescelto",
+                    "start": "09:42",
+                    "end": "11:51",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/il-prescelto.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Arancia Meccanica",
+                    "start": "11:51",
+                    "end": "14:48",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cavalca Vaquero!",
+                    "start": "14:48",
+                    "end": "16:47",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Grande Match",
+                    "start": "16:47",
+                    "end": "19:09",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:09",
+                    "end": "20:11",
+                    "episode": "S1 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:11",
+                    "end": "21:16",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/walker-texas-ranger.webp",
+                    "episode": "S8 E22",
+                    "category": "Azione"
+                },
+                {
+                    "name": "North Country Storia Di Josey",
+                    "start": "21:16",
+                    "end": "23:58",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Land",
+                    "start": "23:58",
+                    "end": "01:44",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-06-09",
+            "programs": [
+                {
+                    "name": "Land",
+                    "start": "00:00",
+                    "end": "01:44",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "01:44",
+                    "end": "01:51",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Arancia Meccanica",
+                    "start": "01:51",
+                    "end": "04:04",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Grande Match",
+                    "start": "04:04",
+                    "end": "05:50",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "05:50",
+                    "end": "06:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:05",
+                    "end": "06:53",
+                    "episode": "S1 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "06:53",
+                    "end": "07:34",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/walker-texas-ranger.webp",
+                    "episode": "S8 E23",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Avanzi Di Galera",
+                    "start": "07:34",
+                    "end": "09:41",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "North Country Storia Di Josey",
+                    "start": "09:41",
+                    "end": "12:14",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Formula Per Un Delitto",
+                    "start": "12:14",
+                    "end": "14:45",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Non Mangiate Le Margherite",
+                    "start": "14:45",
+                    "end": "17:08",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Land",
+                    "start": "17:08",
+                    "end": "19:11",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:11",
+                    "end": "20:11",
+                    "episode": "S1 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:11",
+                    "end": "21:11",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/walker-texas-ranger.webp",
+                    "episode": "S8 E23",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Sfida Nella Valle Dei Comanche",
+                    "start": "21:11",
+                    "end": "23:09",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Uomini E Cobra",
+                    "start": "23:09",
+                    "end": "01:37",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
