@@ -1,1 +1,232 @@
-{"channel_name":"Iris","days":[{"date":"2026-06-12","programs":[{"name":"Cobra","start":"00:00","end":"01:07","category":"Avventura"},{"name":"Cattive Acque","start":"01:07","end":"03:10","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310098101000102/media/14/14/3f090d16-9f81-49ff-a1cd-97bb45fc344d/aaf94065-1b24-47d4-bed9-9ae11b9fabcf.jpg","category":"Drammatico"},{"name":"City Of Angels Citta' Degli Angeli","start":"03:10","end":"04:57","category":"Drammatico"},{"name":"Sexy Ad Alta Tensione","start":"04:57","end":"06:27","category":"Documentaristico"},{"name":"Finche' C'e' Ditta C'e' Speranza","start":"06:27","end":"06:48","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011399301001101/media/11/11/3c6f8689-4179-4c9e-ae2d-b0a7fec13782/33a4c1ca-80bf-4397-95d3-f55f594cb591.jpg","episode":"S5 E11","category":"Sit-Com"},{"name":"Kojak","start":"06:48","end":"07:36","episode":"S1 E20"},{"name":"Walker Texas Ranger","start":"07:36","end":"08:30","episode":"S1 E2"},{"name":"Ferie D'agosto","start":"08:30","end":"10:50","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F006995901000101/media/20/84/058eb7a4-944f-412f-8fb8-aa781c27a926/a70c35e9-6bd6-4918-82f5-6cbc64951bc4.jpg","category":"Commedia"},{"name":"Blue Jasmine","start":"10:50","end":"13:06","category":"Drammatico"},{"name":"Colpo Grosso Al Drago Rosso Rush Hour 2","start":"13:06","end":"14:56","category":"Azione"},{"name":"Amare E'...","start":"14:56","end":"16:52","category":"Drammatico"},{"name":"L' Oca Selvaggia Colpisce Ancora","start":"16:52","end":"19:06","category":"Guerra"},{"name":"Kojak","start":"19:06","end":"20:06","episode":"S1 E20"},{"name":"Walker Texas Ranger","start":"20:06","end":"21:50","episode":"S1 E2"},{"name":"Caro Presidente Ti Racconto 2026","start":"21:50","end":"21:56"},{"name":"Black Mass: L'ultimo Gangster","start":"21:56","end":"23:51","category":"Thriller"},{"name":"Civilta' Perduta","start":"23:51","end":"02:34","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F308170401000102/media/5/5/2d98e8c0-5999-443c-ae16-a24d8d372abd/f41badf5-6a31-4207-a586-5fb2384e8903.jpg","category":"Drammatico"}]},{"date":"2026-06-13","programs":[{"name":"Civilta' Perduta","start":"00:00","end":"02:34","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F308170401000102/media/5/5/2d98e8c0-5999-443c-ae16-a24d8d372abd/f41badf5-6a31-4207-a586-5fb2384e8903.jpg","category":"Drammatico"},{"name":"L' Oca Selvaggia Colpisce Ancora","start":"02:34","end":"04:14","category":"Guerra"},{"name":"Colpo Grosso Al Drago Rosso Rush Hour 2","start":"04:14","end":"05:41","category":"Azione"},{"name":"Note Di Cinema","start":"05:41","end":"05:49","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334401002401/media/16/80/b431800d-3c5c-400e-a5fd-e8f0a6f6073c/12a8fb1a-1bcc-4dcb-b967-e4a16a286e7d.jpg","category":"Magazine"},{"name":"Desiderando Giulia","start":"05:49","end":"06:59","category":"Drammatico"},{"name":"Finche' C'e' Ditta C'e' Speranza","start":"06:59","end":"07:19","episode":"S2 E2"},{"name":"Boomerang","start":"07:19","end":"09:18","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F004679601000101/media/29/93/1b496065-55d9-455f-aea6-2cc56fb62671/024877cd-f021-471a-95ba-26b7cb32b5c1.jpg","category":"Avventura"},{"name":"Black Mass: L'ultimo Gangster","start":"09:18","end":"11:51","category":"Thriller"},{"name":"Ancora 48 Ore","start":"11:51","end":"13:58","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F002311201000104/media/9/9/c1193350-3d94-4959-8fac-b8eaf0fd5046/148ef15c-49e9-4002-a0c7-6a2921701282.jpg","category":"Azione"},{"name":"Tutti Gli Uomini Del Presidente","start":"13:58","end":"16:37","category":"Drammatico"},{"name":"State Of Play","start":"16:37","end":"19:14","category":"Thriller"},{"name":"Cobra","start":"19:14","end":"21:14","category":"Avventura"},{"name":"Michael Clayton","start":"21:14","end":"23:39","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012167701000102/media/3/3/4ff0ec12-8668-47a2-834c-15f1d75693db/283af084-52fb-48b8-ba6d-100dbf3b6b91.jpg","category":"Thriller"},{"name":"Nessuna Verita'","start":"23:39","end":"02:10","category":"Thriller"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-06-12",
+            "programs": [
+                {
+                    "name": "Cobra",
+                    "start": "00:00",
+                    "end": "01:07",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cattive Acque",
+                    "start": "01:07",
+                    "end": "03:10",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/cattive-acque.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "City Of Angels Citta' Degli Angeli",
+                    "start": "03:10",
+                    "end": "04:57",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sexy Ad Alta Tensione",
+                    "start": "04:57",
+                    "end": "06:27",
+                    "category": "Documentaristico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Finche' C'e' Ditta C'e' Speranza",
+                    "start": "06:27",
+                    "end": "06:48",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/finche-c-e-ditta-c-e-speranza.webp",
+                    "episode": "S5 E11",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:48",
+                    "end": "07:36",
+                    "episode": "S1 E20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:36",
+                    "end": "08:30",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Ferie D'agosto",
+                    "start": "08:30",
+                    "end": "10:50",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/ferie-d-agosto.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "Blue Jasmine",
+                    "start": "10:50",
+                    "end": "13:06",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Colpo Grosso Al Drago Rosso Rush Hour 2",
+                    "start": "13:06",
+                    "end": "14:56",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Amare E'...",
+                    "start": "14:56",
+                    "end": "16:52",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L' Oca Selvaggia Colpisce Ancora",
+                    "start": "16:52",
+                    "end": "19:06",
+                    "category": "Guerra",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:06",
+                    "end": "20:06",
+                    "episode": "S1 E20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:06",
+                    "end": "21:50",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Caro Presidente Ti Racconto 2026",
+                    "start": "21:50",
+                    "end": "21:56",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Black Mass: L'ultimo Gangster",
+                    "start": "21:56",
+                    "end": "23:51",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Civilta' Perduta",
+                    "start": "23:51",
+                    "end": "02:34",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/civilta-perduta.webp",
+                    "category": "Drammatico"
+                }
+            ]
+        },
+        {
+            "date": "2026-06-13",
+            "programs": [
+                {
+                    "name": "Civilta' Perduta",
+                    "start": "00:00",
+                    "end": "02:34",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/civilta-perduta.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "L' Oca Selvaggia Colpisce Ancora",
+                    "start": "02:34",
+                    "end": "04:14",
+                    "category": "Guerra",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Colpo Grosso Al Drago Rosso Rush Hour 2",
+                    "start": "04:14",
+                    "end": "05:41",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "05:41",
+                    "end": "05:49",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/note-di-cinema.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "Desiderando Giulia",
+                    "start": "05:49",
+                    "end": "06:59",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Finche' C'e' Ditta C'e' Speranza",
+                    "start": "06:59",
+                    "end": "07:19",
+                    "episode": "S2 E2",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/finche-c-e-ditta-c-e-speranza.webp"
+                },
+                {
+                    "name": "Boomerang",
+                    "start": "07:19",
+                    "end": "09:18",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/boomerang.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Black Mass: L'ultimo Gangster",
+                    "start": "09:18",
+                    "end": "11:51",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Ancora 48 Ore",
+                    "start": "11:51",
+                    "end": "13:58",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/ancora-48-ore.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Tutti Gli Uomini Del Presidente",
+                    "start": "13:58",
+                    "end": "16:37",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "State Of Play",
+                    "start": "16:37",
+                    "end": "19:14",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cobra",
+                    "start": "19:14",
+                    "end": "21:14",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Michael Clayton",
+                    "start": "21:14",
+                    "end": "23:39",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/michael-clayton.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Nessuna Verita'",
+                    "start": "23:39",
+                    "end": "02:10",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
