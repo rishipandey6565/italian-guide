@@ -1,1 +1,99 @@
-{"channel_name":"ACI Sport Tv","days":[{"date":"2026-06-15","programs":[{"name":"Revival ACi Sport since 2012","start":"00:00","end":"00:31","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"VALENCIA - TCR WT - G3","start":"00:31","end":"01:31","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"GT CUP - Misano - G2","start":"01:31","end":"02:50","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIRC - Valli Ossolane - Arrivo","start":"02:50","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"ACI Sport Tv","start":"06:00","end":"12:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"12:00","end":"18:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"18:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"}]},{"date":"2026-06-16","programs":[{"name":"ACI Sport Tv","start":"00:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"00:00","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"06:00","end":"12:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"12:00","end":"18:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"18:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"}]}]}
+{
+    "channel_name": "ACI Sport Tv",
+    "days": [
+        {
+            "date": "2026-06-15",
+            "programs": [
+                {
+                    "name": "Revival ACi Sport since 2012",
+                    "start": "00:00",
+                    "end": "00:31",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "VALENCIA - TCR WT - G3",
+                    "start": "00:31",
+                    "end": "01:31",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "GT CUP - Misano - G2",
+                    "start": "01:31",
+                    "end": "02:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIRC - Valli Ossolane - Arrivo",
+                    "start": "02:50",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "06:00",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "12:00",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "18:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                }
+            ]
+        },
+        {
+            "date": "2026-06-16",
+            "programs": [
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "00:00",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "06:00",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "12:00",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "18:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                }
+            ]
+        }
+    ]
+}

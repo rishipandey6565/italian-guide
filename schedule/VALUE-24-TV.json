@@ -1,1 +1,178 @@
-{"channel_name":"VALUE 24 TV","days":[{"date":"2026-06-15","programs":[{"name":"Rotocalco","start":"00:00","end":"00:23","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"Zeus","start":"00:23","end":"00:47","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"Salus","start":"00:47","end":"01:11","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"PMI Stories","start":"01:11","end":"01:25","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Speciale Salone del Franchising","start":"01:25","end":"02:21","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"},{"name":"News","start":"02:21","end":"02:22","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"News","start":"02:22","end":"02:25","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"News","start":"02:25","end":"02:26","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"News","start":"02:26","end":"02:28","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"News","start":"02:28","end":"02:28","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"News","start":"02:28","end":"02:31","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"News","start":"02:31","end":"02:34","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"Italia Economia","start":"02:34","end":"02:55","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"IL BIVIO","start":"02:55","end":"03:05","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"PMI Stories","start":"03:05","end":"03:14","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Dossier Salute","start":"03:14","end":"03:21","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"News","start":"03:21","end":"03:24","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"News","start":"03:24","end":"03:26","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"Business Show","start":"03:26","end":"03:52","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Speciale Salone del Franchising","start":"03:52","end":"04:48","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"},{"name":"Dossier Salute","start":"04:48","end":"04:53","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"B2B Digital Insight","start":"04:53","end":"05:06","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Expo Ferroviaria","start":"05:06","end":"05:45","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"},{"name":"Il Festival dell economia","start":"05:45","end":"06:32","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"}]}]}
+{
+    "channel_name": "VALUE 24 TV",
+    "days": [
+        {
+            "date": "2026-06-15",
+            "programs": [
+                {
+                    "name": "Rotocalco",
+                    "start": "00:00",
+                    "end": "00:23",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Zeus",
+                    "start": "00:23",
+                    "end": "00:47",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/zeus.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Salus",
+                    "start": "00:47",
+                    "end": "01:11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "PMI Stories",
+                    "start": "01:11",
+                    "end": "01:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Speciale Salone del Franchising",
+                    "start": "01:25",
+                    "end": "02:21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "News",
+                    "start": "02:21",
+                    "end": "02:22",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/news.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "News",
+                    "start": "02:22",
+                    "end": "02:25",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/news.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "News",
+                    "start": "02:25",
+                    "end": "02:26",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/news.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "News",
+                    "start": "02:26",
+                    "end": "02:28",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/news.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "News",
+                    "start": "02:28",
+                    "end": "02:28",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/news.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "News",
+                    "start": "02:28",
+                    "end": "02:31",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/news.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "News",
+                    "start": "02:31",
+                    "end": "02:34",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/news.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Italia Economia",
+                    "start": "02:34",
+                    "end": "02:55",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "IL BIVIO",
+                    "start": "02:55",
+                    "end": "03:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "PMI Stories",
+                    "start": "03:05",
+                    "end": "03:14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Dossier Salute",
+                    "start": "03:14",
+                    "end": "03:21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "News",
+                    "start": "03:21",
+                    "end": "03:24",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/news.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "News",
+                    "start": "03:24",
+                    "end": "03:26",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/news.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Business Show",
+                    "start": "03:26",
+                    "end": "03:52",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Speciale Salone del Franchising",
+                    "start": "03:52",
+                    "end": "04:48",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "Dossier Salute",
+                    "start": "04:48",
+                    "end": "04:53",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "B2B Digital Insight",
+                    "start": "04:53",
+                    "end": "05:06",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/b2b-digital-insight.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Expo Ferroviaria",
+                    "start": "05:06",
+                    "end": "05:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "Il Festival dell economia",
+                    "start": "05:45",
+                    "end": "06:32",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Mondo e Tendenze"
+                }
+            ]
+        }
+    ]
+}

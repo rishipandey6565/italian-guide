@@ -1,1 +1,233 @@
-{"channel_name":"Iris","days":[{"date":"2026-06-15","programs":[{"name":"La Zona Morta","start":"00:00","end":"01:27","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000989001000103/images/Mediaset_Italia_Production_-_Main/63/972/F000989001000103-2-header-poster-320x260.jpg","category":"Drammatico"},{"name":"Civilta' Perduta","start":"01:27","end":"03:38","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F308170401000102/media/5/5/2d98e8c0-5999-443c-ae16-a24d8d372abd/f41badf5-6a31-4207-a586-5fb2384e8903.jpg","category":"Drammatico"},{"name":"Sfera","start":"03:38","end":"05:44","category":"Fantastico/Favolistico"},{"name":"Finche' C'e' Ditta C'e' Speranza","start":"05:44","end":"05:57","episode":"S5 E1"},{"name":"Nonno Felice","start":"05:57","end":"06:27","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009100601000201/media/4/4/ea6dd513-8258-4f2a-ab29-8e9892595ccc/183929f0-0b51-4729-8062-a4059fb5cdab.jpg","episode":"S3 E2","category":"Sit-Com"},{"name":"Kojak","start":"06:27","end":"07:15","episode":"S1 E21"},{"name":"Walker Texas Ranger","start":"07:15","end":"08:19","episode":"S1 E3"},{"name":"Il Gladiatore Di Roma","start":"08:19","end":"10:28","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000329801000101/media/14/14/51cc1aad-0419-48c2-abbe-4b90617e7e2b/89bf4beb-a6ad-40c0-8f57-593d8ef88740.jpg","category":"Avventura"},{"name":"Invasion","start":"10:28","end":"12:34","category":"Fantascienza"},{"name":"Sotto Il Segno Del Pericolo","start":"12:34","end":"15:38","category":"Drammatico"},{"name":"Boyhood","start":"15:38","end":"19:08","category":"Drammatico"},{"name":"Kojak","start":"19:08","end":"20:10","episode":"S1 E21"},{"name":"Walker Texas Ranger","start":"20:10","end":"21:16","episode":"S1 E3"},{"name":"Strangerland","start":"21:16","end":"23:32","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F306735901000103/media/18/82/422840e8-0538-4a8b-af32-5fc7d8db3ff6/5bbb4e72-766f-4b22-9a3e-fb3c08c73881.jpg","category":"Thriller"},{"name":"Eileen","start":"23:32","end":"01:24","category":"Drammatico"}]},{"date":"2026-06-16","programs":[{"name":"Eileen","start":"00:00","end":"01:24","category":"Drammatico"},{"name":"Note Di Cinema","start":"01:24","end":"01:38"},{"name":"Boyhood","start":"01:38","end":"04:18","category":"Drammatico"},{"name":"Lucrezia Borgia","start":"04:18","end":"05:50","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000671902000101/media/20/84/b2733c9e-bcf8-4d51-b5ec-9137b71ab3a6/67111fe9-0997-44e5-ac33-b983f5b7f647.jpg","category":"Classici"},{"name":"Nonno Felice","start":"05:50","end":"06:21","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009100601000301/media/4/4/ea6dd513-8258-4f2a-ab29-8e9892595ccc/183929f0-0b51-4729-8062-a4059fb5cdab.jpg","episode":"S3 E3","category":"Sit-Com"},{"name":"Kojak","start":"06:21","end":"07:10","episode":"S1 E22"},{"name":"Walker Texas Ranger","start":"07:10","end":"07:54","episode":"S1 E4"},{"name":"Il Sogno Di Zorro","start":"07:54","end":"09:57","category":"Commedia"},{"name":"La Zona Morta","start":"09:57","end":"12:09","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000989001000103/images/Mediaset_Italia_Production_-_Main/63/972/F000989001000103-2-header-poster-320x260.jpg","category":"Drammatico"},{"name":"Eileen","start":"12:09","end":"14:19","category":"Drammatico"},{"name":"42","start":"14:19","end":"16:59","category":"Drammatico"},{"name":"Attacco: Piattaforma Jennifer","start":"16:59","end":"19:11","category":"Avventura"},{"name":"Kojak","start":"19:11","end":"20:11","episode":"S1 E22"},{"name":"Walker Texas Ranger","start":"20:11","end":"21:15","episode":"S1 E4"},{"name":"La Legge Del Signore /l'uomo Senza Fucile","start":"21:15","end":"23:58","category":"Western"},{"name":"Il Vendicatore Del Texas","start":"23:58","end":"01:51","category":"Western"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-06-15",
+            "programs": [
+                {
+                    "name": "La Zona Morta",
+                    "start": "00:00",
+                    "end": "01:27",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-zona-morta.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Civilta' Perduta",
+                    "start": "01:27",
+                    "end": "03:38",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/civilta-perduta.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Sfera",
+                    "start": "03:38",
+                    "end": "05:44",
+                    "category": "Fantastico/Favolistico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Finche' C'e' Ditta C'e' Speranza",
+                    "start": "05:44",
+                    "end": "05:57",
+                    "episode": "S5 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nonno Felice",
+                    "start": "05:57",
+                    "end": "06:27",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/nonno-felice.webp",
+                    "episode": "S3 E2",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:27",
+                    "end": "07:15",
+                    "episode": "S1 E21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:15",
+                    "end": "08:19",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Gladiatore Di Roma",
+                    "start": "08:19",
+                    "end": "10:28",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/il-gladiatore-di-roma.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Invasion",
+                    "start": "10:28",
+                    "end": "12:34",
+                    "category": "Fantascienza",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sotto Il Segno Del Pericolo",
+                    "start": "12:34",
+                    "end": "15:38",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Boyhood",
+                    "start": "15:38",
+                    "end": "19:08",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:08",
+                    "end": "20:10",
+                    "episode": "S1 E21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:10",
+                    "end": "21:16",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Strangerland",
+                    "start": "21:16",
+                    "end": "23:32",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/strangerland.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Eileen",
+                    "start": "23:32",
+                    "end": "01:24",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-06-16",
+            "programs": [
+                {
+                    "name": "Eileen",
+                    "start": "00:00",
+                    "end": "01:24",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "01:24",
+                    "end": "01:38",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Boyhood",
+                    "start": "01:38",
+                    "end": "04:18",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Lucrezia Borgia",
+                    "start": "04:18",
+                    "end": "05:50",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/lucrezia-borgia.webp",
+                    "category": "Classici"
+                },
+                {
+                    "name": "Nonno Felice",
+                    "start": "05:50",
+                    "end": "06:21",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/nonno-felice.webp",
+                    "episode": "S3 E3",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:21",
+                    "end": "07:10",
+                    "episode": "S1 E22",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:10",
+                    "end": "07:54",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Sogno Di Zorro",
+                    "start": "07:54",
+                    "end": "09:57",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Zona Morta",
+                    "start": "09:57",
+                    "end": "12:09",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-zona-morta.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Eileen",
+                    "start": "12:09",
+                    "end": "14:19",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "42",
+                    "start": "14:19",
+                    "end": "16:59",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Attacco: Piattaforma Jennifer",
+                    "start": "16:59",
+                    "end": "19:11",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:11",
+                    "end": "20:11",
+                    "episode": "S1 E22",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:11",
+                    "end": "21:15",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Legge Del Signore /l'uomo Senza Fucile",
+                    "start": "21:15",
+                    "end": "23:58",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Vendicatore Del Texas",
+                    "start": "23:58",
+                    "end": "01:51",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
