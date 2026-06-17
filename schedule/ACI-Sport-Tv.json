@@ -1,1 +1,197 @@
-{"channel_name":"ACI Sport Tv","days":[{"date":"2026-06-17","programs":[{"name":"CIRC - Valli Ossolane - PS3","start":"00:00","end":"00:01","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Magazine ACI Sport","start":"00:01","end":"00:57","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIREAS - La Mille Curve","start":"00:57","end":"01:38","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"E-Sport Coppa Italia F4 - Miami","start":"01:38","end":"03:18","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIRC - Valli Ossolane - Arrivo","start":"03:18","end":"04:11","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"VALENCIA - TCR WT - G1","start":"04:11","end":"05:18","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIREAS - La Mille Curve","start":"05:18","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Magazine CRZ","start":"06:00","end":"07:02","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"MLMC - Road to le Mans","start":"07:02","end":"10:45","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIRC - Valli Ossolane - PS4","start":"10:45","end":"11:32","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"VALENCIA - TCR WT - G1","start":"11:32","end":"12:41","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIRC - Valli Ossolane - PS9","start":"12:41","end":"13:28","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"VALENCIA - TCR WT - G2","start":"13:28","end":"14:33","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Ruote nella Storia","start":"14:33","end":"15:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"FIA KARTING - Mulsen","start":"15:00","end":"17:21","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIRC - Valli Ossolane - Arrivo","start":"17:21","end":"18:13","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Magazine CRZ","start":"18:13","end":"18:58","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"VALENCIA - TCR WT - G3","start":"18:58","end":"20:04","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Cross Country Magazine","start":"20:04","end":"20:35","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"FIA KARTING - Mulsen","start":"20:35","end":"22:55","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"MLMC - Road to le Mans","start":"22:55","end":"02:38","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"}]},{"date":"2026-06-18","programs":[{"name":"MLMC - Road to le Mans","start":"00:00","end":"02:38","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"E-Sport - CI Formula 4 - Rodriguez","start":"02:38","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"ACI Sport Tv","start":"06:00","end":"12:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"12:00","end":"18:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"18:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"}]}]}
+{
+    "channel_name": "ACI Sport Tv",
+    "days": [
+        {
+            "date": "2026-06-17",
+            "programs": [
+                {
+                    "name": "CIRC - Valli Ossolane - PS3",
+                    "start": "00:00",
+                    "end": "00:01",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Magazine ACI Sport",
+                    "start": "00:01",
+                    "end": "00:57",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIREAS - La Mille Curve",
+                    "start": "00:57",
+                    "end": "01:38",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "E-Sport Coppa Italia F4 - Miami",
+                    "start": "01:38",
+                    "end": "03:18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIRC - Valli Ossolane - Arrivo",
+                    "start": "03:18",
+                    "end": "04:11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "VALENCIA - TCR WT - G1",
+                    "start": "04:11",
+                    "end": "05:18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIREAS - La Mille Curve",
+                    "start": "05:18",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Magazine CRZ",
+                    "start": "06:00",
+                    "end": "07:02",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "MLMC - Road to le Mans",
+                    "start": "07:02",
+                    "end": "10:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIRC - Valli Ossolane - PS4",
+                    "start": "10:45",
+                    "end": "11:32",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "VALENCIA - TCR WT - G1",
+                    "start": "11:32",
+                    "end": "12:41",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIRC - Valli Ossolane - PS9",
+                    "start": "12:41",
+                    "end": "13:28",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "VALENCIA - TCR WT - G2",
+                    "start": "13:28",
+                    "end": "14:33",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Ruote nella Storia",
+                    "start": "14:33",
+                    "end": "15:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "FIA KARTING - Mulsen",
+                    "start": "15:00",
+                    "end": "17:21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIRC - Valli Ossolane - Arrivo",
+                    "start": "17:21",
+                    "end": "18:13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Magazine CRZ",
+                    "start": "18:13",
+                    "end": "18:58",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "VALENCIA - TCR WT - G3",
+                    "start": "18:58",
+                    "end": "20:04",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Cross Country Magazine",
+                    "start": "20:04",
+                    "end": "20:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "FIA KARTING - Mulsen",
+                    "start": "20:35",
+                    "end": "22:55",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "MLMC - Road to le Mans",
+                    "start": "22:55",
+                    "end": "02:38",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                }
+            ]
+        },
+        {
+            "date": "2026-06-18",
+            "programs": [
+                {
+                    "name": "MLMC - Road to le Mans",
+                    "start": "00:00",
+                    "end": "02:38",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "E-Sport - CI Formula 4 - Rodriguez",
+                    "start": "02:38",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "06:00",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "12:00",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "18:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                }
+            ]
+        }
+    ]
+}

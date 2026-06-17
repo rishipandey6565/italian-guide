@@ -1,1 +1,231 @@
-{"channel_name":"Iris","days":[{"date":"2026-06-17","programs":[{"name":"La Legge Del Signore /l'uomo Senza Fucile","start":"00:00","end":"00:10","category":"Western"},{"name":"Il Vendicatore Del Texas","start":"00:10","end":"01:56","category":"Western"},{"name":"Eileen","start":"01:56","end":"03:30","category":"Drammatico"},{"name":"Attacco: Piattaforma Jennifer","start":"03:30","end":"05:06","category":"Avventura"},{"name":"La Guerra Del Ferro Ironmaster","start":"05:06","end":"06:36","category":"Azione"},{"name":"Finche' C'e' Ditta C'e' Speranza","start":"06:36","end":"06:52","episode":"S2 E2"},{"name":"Kojak","start":"06:52","end":"07:37","episode":"S2 E1"},{"name":"Walker Texas Ranger","start":"07:37","end":"08:37","episode":"S1 E5"},{"name":"Il Viaggio Di Capitan Fracassa","start":"08:37","end":"11:23","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F004348901000101/media/1/1/62a0e545-ba2c-461d-b79d-d8c12b46c38d/877b59bc-f6f0-4f5b-8b77-4c25c213ab3a.jpg","category":"Avventura"},{"name":"Strangerland","start":"11:23","end":"13:49","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F306735901000103/media/18/82/422840e8-0538-4a8b-af32-5fc7d8db3ff6/5bbb4e72-766f-4b22-9a3e-fb3c08c73881.jpg","category":"Thriller"},{"name":"Showtime","start":"13:49","end":"15:54","category":"Azione"},{"name":"La Battaglia Dei Giganti","start":"15:54","end":"19:10","category":"Guerra"},{"name":"Kojak","start":"19:10","end":"20:09","episode":"S2 E1"},{"name":"Walker Texas Ranger","start":"20:09","end":"21:16","episode":"S1 E5"},{"name":"Miami Vice","start":"21:16","end":"00:00","category":"Azione"}]},{"date":"2026-06-18","programs":[{"name":"Miami Vice","start":"00:00","end":"00:00","category":"Azione"},{"name":"Nella Valle Di Elah","start":"00:00","end":"02:20","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012704301000102/media/21/85/80207a86-6a1f-4be9-89de-2be3058b8629/94146c87-de92-4829-9142-e9d6599371d9.jpg","category":"Drammatico"},{"name":"La Battaglia Dei Giganti","start":"02:20","end":"04:45","category":"Guerra"},{"name":"Showtime","start":"04:45","end":"06:13","category":"Azione"},{"name":"Note Di Cinema","start":"06:13","end":"06:25"},{"name":"Kojak","start":"06:25","end":"07:08","episode":"S2 E2"},{"name":"Walker Texas Ranger","start":"07:08","end":"07:52","episode":"S1 E6"},{"name":"Contro 4 Bandiere","start":"07:52","end":"10:06","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F001231701000101/media/10/10/db44d070-6d71-4948-bf40-e473317c8cbb/da51c49b-6df2-4041-af02-4a3e310c786b.jpg","category":"Avventura"},{"name":"La Legge Del Signore /l'uomo Senza Fucile","start":"10:06","end":"12:47","category":"Western"},{"name":"Payback La Rivincita Di Porter","start":"12:47","end":"15:03","category":"Azione"},{"name":"La Freccia Nella Polvere","start":"15:03","end":"16:57","category":"Avventura"},{"name":"Radioactive","start":"16:57","end":"19:19","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310343101000101/media/2/2/b46284eb-2c71-4ef8-bfb8-0cd02a5ddd9f/ab1d2a1b-8db9-476e-ab80-6adcd4cb5d09.jpg","category":"Drammatico"},{"name":"Kojak","start":"19:19","end":"20:13","episode":"S2 E2"},{"name":"Walker Texas Ranger","start":"20:13","end":"21:17","episode":"S1 E6"},{"name":"D Tox","start":"21:17","end":"23:20","category":"Horror"},{"name":"48 Ore","start":"23:20","end":"01:22","category":"Azione"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-06-17",
+            "programs": [
+                {
+                    "name": "La Legge Del Signore /l'uomo Senza Fucile",
+                    "start": "00:00",
+                    "end": "00:10",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Vendicatore Del Texas",
+                    "start": "00:10",
+                    "end": "01:56",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Eileen",
+                    "start": "01:56",
+                    "end": "03:30",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Attacco: Piattaforma Jennifer",
+                    "start": "03:30",
+                    "end": "05:06",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Guerra Del Ferro Ironmaster",
+                    "start": "05:06",
+                    "end": "06:36",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Finche' C'e' Ditta C'e' Speranza",
+                    "start": "06:36",
+                    "end": "06:52",
+                    "episode": "S2 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:52",
+                    "end": "07:37",
+                    "episode": "S2 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:37",
+                    "end": "08:37",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Viaggio Di Capitan Fracassa",
+                    "start": "08:37",
+                    "end": "11:23",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/il-viaggio-di-capitan-fracassa.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Strangerland",
+                    "start": "11:23",
+                    "end": "13:49",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/strangerland.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Showtime",
+                    "start": "13:49",
+                    "end": "15:54",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Battaglia Dei Giganti",
+                    "start": "15:54",
+                    "end": "19:10",
+                    "category": "Guerra",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:10",
+                    "end": "20:09",
+                    "episode": "S2 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:09",
+                    "end": "21:16",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "21:16",
+                    "end": "00:00",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-06-18",
+            "programs": [
+                {
+                    "name": "Miami Vice",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nella Valle Di Elah",
+                    "start": "00:00",
+                    "end": "02:20",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/nella-valle-di-elah.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "La Battaglia Dei Giganti",
+                    "start": "02:20",
+                    "end": "04:45",
+                    "category": "Guerra",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Showtime",
+                    "start": "04:45",
+                    "end": "06:13",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "06:13",
+                    "end": "06:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:25",
+                    "end": "07:08",
+                    "episode": "S2 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:08",
+                    "end": "07:52",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Contro 4 Bandiere",
+                    "start": "07:52",
+                    "end": "10:06",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/contro-4-bandiere.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "La Legge Del Signore /l'uomo Senza Fucile",
+                    "start": "10:06",
+                    "end": "12:47",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Payback La Rivincita Di Porter",
+                    "start": "12:47",
+                    "end": "15:03",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Freccia Nella Polvere",
+                    "start": "15:03",
+                    "end": "16:57",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Radioactive",
+                    "start": "16:57",
+                    "end": "19:19",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/radioactive.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:19",
+                    "end": "20:13",
+                    "episode": "S2 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:13",
+                    "end": "21:17",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "D Tox",
+                    "start": "21:17",
+                    "end": "23:20",
+                    "category": "Horror",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "48 Ore",
+                    "start": "23:20",
+                    "end": "01:22",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
