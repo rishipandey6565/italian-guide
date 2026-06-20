@@ -1,1 +1,171 @@
-{"channel_name":"Solocalcio","days":[{"date":"2026-06-20","programs":[{"name":"Campionato Argentino Belgrano-Union","start":"00:00","end":"00:00"},{"name":"Manchester City-Brentford","start":"00:00","end":"02:00"},{"name":"Si Live 24","start":"02:00","end":"02:30"},{"name":"Si Live 24","start":"02:30","end":"03:00"},{"name":"Sportitaliamercato","start":"03:00","end":"04:00"},{"name":"Si Live 24","start":"04:00","end":"04:30"},{"name":"Si Live 24","start":"04:30","end":"05:00"},{"name":"Campionato Argentino Estudiantes-Racing","start":"05:00","end":"00:00"}]},{"date":"2026-06-21","programs":[{"name":"Campionato Argentino Estudiantes-Racing","start":"00:00","end":"00:00"},{"name":"Manchester City-Brentford","start":"00:00","end":"02:00"},{"name":"Si Live 24","start":"02:00","end":"02:30"},{"name":"Si Live 24","start":"02:30","end":"03:00"},{"name":"Sportitaliamercato","start":"03:00","end":"04:00"},{"name":"Si Live 24","start":"04:00","end":"04:30"},{"name":"Si Live 24","start":"04:30","end":"05:00"},{"name":"Campionato Argentino Estudiantes-Racing","start":"05:00","end":"07:00"},{"name":"Campionato Saudita Al Hilal-NEOM","start":"07:00","end":"08:30"},{"name":"Manchester City-Bournemouth","start":"08:30","end":"10:00"},{"name":"Sportitaliamercato","start":"10:00","end":"11:00"},{"name":"Campionato Argentino River Plate-Gimnasia La Plata","start":"11:00","end":"13:00"},{"name":"Diretta Gol Campionato Saudita","start":"13:00","end":"15:00"},{"name":"Manchester City-Crystal Palace","start":"15:00","end":"16:30"},{"name":"Campionato Argentino Estudiantes-Racing","start":"16:30","end":"18:00"},{"name":"Campionato Saudita Al Ahli-Al Kholood","start":"18:00","end":"20:00"},{"name":"Chelsea-Manchester City","start":"20:00","end":"22:00"},{"name":"Campionato Argentino River Plate-Belgrano","start":"22:00","end":"06:00"}]}]}
+{
+    "channel_name": "Solocalcio",
+    "days": [
+        {
+            "date": "2026-06-20",
+            "programs": [
+                {
+                    "name": "Campionato Argentino Belgrano-Union",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Brentford",
+                    "start": "00:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:30",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sportitaliamercato",
+                    "start": "03:00",
+                    "end": "04:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:00",
+                    "end": "04:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:30",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Estudiantes-Racing",
+                    "start": "05:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-06-21",
+            "programs": [
+                {
+                    "name": "Campionato Argentino Estudiantes-Racing",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Brentford",
+                    "start": "00:00",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:30",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sportitaliamercato",
+                    "start": "03:00",
+                    "end": "04:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:00",
+                    "end": "04:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "04:30",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Estudiantes-Racing",
+                    "start": "05:00",
+                    "end": "07:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Hilal-NEOM",
+                    "start": "07:00",
+                    "end": "08:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Bournemouth",
+                    "start": "08:30",
+                    "end": "10:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sportitaliamercato",
+                    "start": "10:00",
+                    "end": "11:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino River Plate-Gimnasia La Plata",
+                    "start": "11:00",
+                    "end": "13:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Diretta Gol Campionato Saudita",
+                    "start": "13:00",
+                    "end": "15:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Crystal Palace",
+                    "start": "15:00",
+                    "end": "16:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Estudiantes-Racing",
+                    "start": "16:30",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Ahli-Al Kholood",
+                    "start": "18:00",
+                    "end": "20:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chelsea-Manchester City",
+                    "start": "20:00",
+                    "end": "22:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino River Plate-Belgrano",
+                    "start": "22:00",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}

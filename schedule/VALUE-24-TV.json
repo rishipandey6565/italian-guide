@@ -1,1 +1,71 @@
-{"channel_name":"VALUE 24 TV","days":[{"date":"2026-06-20","programs":[{"name":"Business Show","start":"00:00","end":"00:04","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Caffe Startup","start":"00:04","end":"00:31","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Speciale Salone del Franchising","start":"00:31","end":"01:27","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"},{"name":"Prometeo","start":"01:27","end":"01:33","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"Expo Ferroviaria","start":"01:33","end":"02:12","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"},{"name":"Il Festival dell economia","start":"02:12","end":"02:59","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"},{"name":"Zeus","start":"02:59","end":"06:14","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"}]},{"date":"2026-06-21","programs":[{"name":"Zeus","start":"00:00","end":"06:14","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"}]}]}
+{
+    "channel_name": "VALUE 24 TV",
+    "days": [
+        {
+            "date": "2026-06-20",
+            "programs": [
+                {
+                    "name": "Business Show",
+                    "start": "00:00",
+                    "end": "00:04",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/business-show.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Caffe Startup",
+                    "start": "00:04",
+                    "end": "00:31",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/caffe-startup.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Speciale Salone del Franchising",
+                    "start": "00:31",
+                    "end": "01:27",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/speciale-salone-del-franchising.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "Prometeo",
+                    "start": "01:27",
+                    "end": "01:33",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Expo Ferroviaria",
+                    "start": "01:33",
+                    "end": "02:12",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/expo-ferroviaria.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "Il Festival dell economia",
+                    "start": "02:12",
+                    "end": "02:59",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/il-festival-dell-economia.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "Zeus",
+                    "start": "02:59",
+                    "end": "06:14",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/zeus.webp",
+                    "category": "Informazione"
+                }
+            ]
+        },
+        {
+            "date": "2026-06-21",
+            "programs": [
+                {
+                    "name": "Zeus",
+                    "start": "00:00",
+                    "end": "06:14",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/zeus.webp",
+                    "category": "Informazione"
+                }
+            ]
+        }
+    ]
+}
