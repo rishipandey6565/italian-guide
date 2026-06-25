@@ -1,1 +1,211 @@
-{"channel_name":"Iris","days":[{"date":"2026-06-25","programs":[{"name":"Il Cardellino","start":"00:00","end":"02:48","category":"Drammatico"},{"name":"Un'arida Stagione Bianca","start":"02:48","end":"04:44","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F002013801000102/media/5/5/f2254c17-6fc0-4dad-9fe9-abd2a431b6a0/43ba675c-f4b4-432f-9799-7207c0ca5cdb.jpg","category":"Drammatico"},{"name":"Una Magnum Special Per Tony Saitta","start":"04:44","end":"06:35","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000286401000102/media/0/0/400195d0-1b27-43c4-827a-07ecd40b7609/b7a39728-339a-46ac-aa27-3fe6c6d01d5e.jpg","category":"Azione"},{"name":"Kojak","start":"06:35","end":"07:23","episode":"S2 E7"},{"name":"Walker Texas Ranger","start":"07:23","end":"08:17","episode":"S1 E11"},{"name":"La Colomba Non Deve Volare","start":"08:17","end":"10:18","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F003618701000101/media/20/84/18f1310e-ee41-4439-a06f-e4bdf5f8cad3/3f252d9b-8275-46ba-a975-81ab2e116842.jpg","category":"Avventura"},{"name":"Il Grande Giorno Di Jim Flagg","start":"10:18","end":"12:17","category":"Western"},{"name":"Un Magnifico Ceffo Da Galera","start":"12:17","end":"14:31","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F003602701000102/media/16/80/c1862f43-b94b-4a4e-b3cf-34c990129358/ba4b0f52-77b4-4b72-8cad-2009f3886ef7.jpg","category":"Avventura"},{"name":"I Fuorilegge Della Valle Solitaria","start":"14:31","end":"16:08","category":"Western"},{"name":"Il Cardellino","start":"16:08","end":"19:06","category":"Drammatico"},{"name":"Kojak","start":"19:06","end":"20:08","episode":"S2 E7"},{"name":"Walker Texas Ranger","start":"20:08","end":"21:14","episode":"S1 E11"},{"name":"Dante's Peak La Furia Della Montagna","start":"21:14","end":"23:25","category":"Catastrofico"},{"name":"Ancora 48 Ore","start":"23:25","end":"01:22","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F002311201000104/media/9/9/c1193350-3d94-4959-8fac-b8eaf0fd5046/148ef15c-49e9-4002-a0c7-6a2921701282.jpg","category":"Azione"}]},{"date":"2026-06-26","programs":[{"name":"Ancora 48 Ore","start":"00:00","end":"01:22","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F002311201000104/media/9/9/c1193350-3d94-4959-8fac-b8eaf0fd5046/148ef15c-49e9-4002-a0c7-6a2921701282.jpg","category":"Azione"},{"name":"I Fuorilegge Della Valle Solitaria","start":"01:22","end":"02:51","category":"Western"},{"name":"Un Magnifico Ceffo Da Galera","start":"02:51","end":"04:31","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F003602701000102/media/16/80/c1862f43-b94b-4a4e-b3cf-34c990129358/ba4b0f52-77b4-4b72-8cad-2009f3886ef7.jpg","category":"Avventura"},{"name":"Colpo Rovente","start":"04:31","end":"05:52","category":"Giallo"},{"name":"Compagne Nude","start":"05:52","end":"06:46","category":"Drammatico"},{"name":"Kojak","start":"06:46","end":"07:34","episode":"S2 E8"},{"name":"Walker Texas Ranger","start":"07:34","end":"08:19","episode":"S1 E12"},{"name":"Marianna Ucria","start":"08:19","end":"10:35","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F007738101000101/media/15/15/494fa878-dfcf-4220-b71e-d183e33c4447/c7ae100c-e414-4855-b344-c4cb099121fc.jpg","category":"Drammatico"},{"name":"Big Gold Brick","start":"10:35","end":"13:50","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312051901000103/media/19/83/90d62241-bc60-4b8a-a9f3-fcaab749d890/ba61e3b1-c206-4484-81b0-fa65dd192721.jpg","category":"Commedia"},{"name":"Base Artica Zebra","start":"13:50","end":"16:46","category":"Avventura"},{"name":"Rapimento E Ricatto","start":"16:46","end":"19:13","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F308130401000104/media/15/15/188a3a02-b694-4eed-8184-7d153681fd99/a4f818f3-4431-45ab-a654-1a20999f7d44.jpg","category":"Thriller"},{"name":"Kojak","start":"19:13","end":"20:13","episode":"S2 E8"},{"name":"Walker Texas Ranger","start":"20:13","end":"21:17","episode":"S1 E12"},{"name":"Mandela: La Lunga Strada Verso La Liberta'","start":"21:17","end":"00:05","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305887901000102/media/9/9/1e90e7d9-101e-4140-b7f9-cdafc1cac8d6/fa4df4ae-7312-4e00-9e49-ce2ef2de73f1.jpg","category":"Drammatico"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-06-25",
+            "programs": [
+                {
+                    "name": "Il Cardellino",
+                    "start": "00:00",
+                    "end": "02:48",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Un'arida Stagione Bianca",
+                    "start": "02:48",
+                    "end": "04:44",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/un-arida-stagione-bianca.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Una Magnum Special Per Tony Saitta",
+                    "start": "04:44",
+                    "end": "06:35",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/una-magnum-special-per-tony-saitta.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:35",
+                    "end": "07:23",
+                    "episode": "S2 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:23",
+                    "end": "08:17",
+                    "episode": "S1 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Colomba Non Deve Volare",
+                    "start": "08:17",
+                    "end": "10:18",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-colomba-non-deve-volare.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Il Grande Giorno Di Jim Flagg",
+                    "start": "10:18",
+                    "end": "12:17",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Un Magnifico Ceffo Da Galera",
+                    "start": "12:17",
+                    "end": "14:31",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/un-magnifico-ceffo-da-galera.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "I Fuorilegge Della Valle Solitaria",
+                    "start": "14:31",
+                    "end": "16:08",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Cardellino",
+                    "start": "16:08",
+                    "end": "19:06",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:06",
+                    "end": "20:08",
+                    "episode": "S2 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:08",
+                    "end": "21:14",
+                    "episode": "S1 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Dante's Peak La Furia Della Montagna",
+                    "start": "21:14",
+                    "end": "23:25",
+                    "category": "Catastrofico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Ancora 48 Ore",
+                    "start": "23:25",
+                    "end": "01:22",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/ancora-48-ore.webp",
+                    "category": "Azione"
+                }
+            ]
+        },
+        {
+            "date": "2026-06-26",
+            "programs": [
+                {
+                    "name": "Ancora 48 Ore",
+                    "start": "00:00",
+                    "end": "01:22",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/ancora-48-ore.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "I Fuorilegge Della Valle Solitaria",
+                    "start": "01:22",
+                    "end": "02:51",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Un Magnifico Ceffo Da Galera",
+                    "start": "02:51",
+                    "end": "04:31",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/un-magnifico-ceffo-da-galera.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Colpo Rovente",
+                    "start": "04:31",
+                    "end": "05:52",
+                    "category": "Giallo",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Compagne Nude",
+                    "start": "05:52",
+                    "end": "06:46",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:46",
+                    "end": "07:34",
+                    "episode": "S2 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:34",
+                    "end": "08:19",
+                    "episode": "S1 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Marianna Ucria",
+                    "start": "08:19",
+                    "end": "10:35",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/marianna-ucria.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Big Gold Brick",
+                    "start": "10:35",
+                    "end": "13:50",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/big-gold-brick.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "Base Artica Zebra",
+                    "start": "13:50",
+                    "end": "16:46",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Rapimento E Ricatto",
+                    "start": "16:46",
+                    "end": "19:13",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/rapimento-e-ricatto.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:13",
+                    "end": "20:13",
+                    "episode": "S2 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:13",
+                    "end": "21:17",
+                    "episode": "S1 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mandela: La Lunga Strada Verso La Liberta'",
+                    "start": "21:17",
+                    "end": "00:05",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/mandela-la-lunga-strada-verso-la-liberta.webp",
+                    "category": "Drammatico"
+                }
+            ]
+        }
+    ]
+}
