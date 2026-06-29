@@ -1,1 +1,73 @@
-{"channel_name":"VALUE 24 TV","days":[{"date":"2026-06-29","programs":[{"name":"Business Show","start":"00:00","end":"00:25","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Aggiudicato","start":"00:25","end":"00:49","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Speciale Salone del Franchising","start":"00:49","end":"01:45","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"},{"name":"B2B Digital Insight","start":"01:45","end":"01:57","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Expo Ferroviaria","start":"01:57","end":"02:35","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"},{"name":"Il Festival dell economia","start":"02:35","end":"03:22","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"},{"name":"Business Leader Summit","start":"03:22","end":"04:30","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"},{"name":"Salus","start":"04:30","end":"05:06","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"Speciale Salone del Franchising","start":"05:06","end":"06:01","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"}]}]}
+{
+    "channel_name": "VALUE 24 TV",
+    "days": [
+        {
+            "date": "2026-06-29",
+            "programs": [
+                {
+                    "name": "Business Show",
+                    "start": "00:00",
+                    "end": "00:25",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/business-show.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Aggiudicato",
+                    "start": "00:25",
+                    "end": "00:49",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/aggiudicato.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Speciale Salone del Franchising",
+                    "start": "00:49",
+                    "end": "01:45",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/speciale-salone-del-franchising.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "B2B Digital Insight",
+                    "start": "01:45",
+                    "end": "01:57",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/b2b-digital-insight.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Expo Ferroviaria",
+                    "start": "01:57",
+                    "end": "02:35",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/expo-ferroviaria.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "Il Festival dell economia",
+                    "start": "02:35",
+                    "end": "03:22",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/il-festival-dell-economia.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "Business Leader Summit",
+                    "start": "03:22",
+                    "end": "04:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Mondo e Tendenze"
+                },
+                {
+                    "name": "Salus",
+                    "start": "04:30",
+                    "end": "05:06",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/salus.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Speciale Salone del Franchising",
+                    "start": "05:06",
+                    "end": "06:01",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/speciale-salone-del-franchising.webp",
+                    "category": "Mondo e Tendenze"
+                }
+            ]
+        }
+    ]
+}
