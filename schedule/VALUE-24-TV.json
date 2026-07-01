@@ -1,1 +1,87 @@
-{"channel_name":"VALUE 24 TV","days":[{"date":"2026-07-01","programs":[{"name":"Italia Economia","start":"00:00","end":"00:19","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"IL BIVIO","start":"00:19","end":"00:30","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"News","start":"00:30","end":"00:31","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"PMI Stories","start":"00:31","end":"00:40","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"News","start":"00:40","end":"00:40","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"News","start":"00:40","end":"00:41","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"News","start":"00:41","end":"00:41","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"B2B Digital Insight","start":"00:41","end":"00:56","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Business Show","start":"00:56","end":"01:23","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"B2B Digital Insight","start":"01:23","end":"01:35","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Expo Ferroviaria","start":"01:35","end":"02:16","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Mondo e Tendenze"}]}]}
+{
+    "channel_name": "VALUE 24 TV",
+    "days": [
+        {
+            "date": "2026-07-01",
+            "programs": [
+                {
+                    "name": "Italia Economia",
+                    "start": "00:00",
+                    "end": "00:19",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/italia-economia.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "IL BIVIO",
+                    "start": "00:19",
+                    "end": "00:30",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/il-bivio.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "News",
+                    "start": "00:30",
+                    "end": "00:31",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/news.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "PMI Stories",
+                    "start": "00:31",
+                    "end": "00:40",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/pmi-stories.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "News",
+                    "start": "00:40",
+                    "end": "00:40",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/news.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "News",
+                    "start": "00:40",
+                    "end": "00:41",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/news.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "News",
+                    "start": "00:41",
+                    "end": "00:41",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/news.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "B2B Digital Insight",
+                    "start": "00:41",
+                    "end": "00:56",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/b2b-digital-insight.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Business Show",
+                    "start": "00:56",
+                    "end": "01:23",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/business-show.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "B2B Digital Insight",
+                    "start": "01:23",
+                    "end": "01:35",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/b2b-digital-insight.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Expo Ferroviaria",
+                    "start": "01:35",
+                    "end": "02:16",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/expo-ferroviaria.webp",
+                    "category": "Mondo e Tendenze"
+                }
+            ]
+        }
+    ]
+}
