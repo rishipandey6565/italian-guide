@@ -1,1 +1,392 @@
-{"channel_name":"27 Twentyseven","days":[{"date":"2026-07-08","programs":[{"name":"Babe: Maialino Coraggioso","start":"00:00","end":"01:07","category":"Fantastico/Favolistico"},{"name":"Hazzard","start":"01:07","end":"01:58","episode":"S7 E1"},{"name":"Chips","start":"01:58","end":"02:50","episode":"S1 E63"},{"name":"Chips","start":"02:50","end":"03:37","episode":"S1 E64"},{"name":"Nonno Felice","start":"03:37","end":"03:58","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009100601003501/media/4/4/ea6dd513-8258-4f2a-ab29-8e9892595ccc/183929f0-0b51-4729-8062-a4059fb5cdab.jpg","episode":"S3 E35","category":"Sit-Com"},{"name":"Nonno Felice","start":"03:58","end":"04:22","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009100601003601/media/4/4/ea6dd513-8258-4f2a-ab29-8e9892595ccc/183929f0-0b51-4729-8062-a4059fb5cdab.jpg","episode":"S3 E36","category":"Sit-Com"},{"name":"Camera Cafe'","start":"04:22","end":"04:57","episode":"S1 E34"},{"name":"Camera Cafe'","start":"04:57","end":"05:02","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303843107001401/media/0/0/e6c6ff7d-4a09-4b48-a397-a75679f2efc8/66a10ff5-e632-4907-8843-d6ad49495b97.jpg","episode":"S6 E14","category":"Sit-Com"},{"name":"Camera Cafe'","start":"05:02","end":"05:11","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303843107002901/media/0/0/e6c6ff7d-4a09-4b48-a397-a75679f2efc8/66a10ff5-e632-4907-8843-d6ad49495b97.jpg","episode":"S1 E29","category":"Sit-Com"},{"name":"Agenzia Rockford","start":"05:11","end":"06:00","episode":"S3 E11"},{"name":"Hazzard","start":"06:00","end":"06:45","episode":"S7 E2"},{"name":"Chips","start":"06:45","end":"07:31","episode":"S1 E65"},{"name":"Chips","start":"07:31","end":"08:28","episode":"S1 E66"},{"name":"La Casa Nella Prateria","start":"08:28","end":"09:32","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"09:32","end":"10:39"},{"name":"La Casa Nella Prateria","start":"10:39","end":"11:45","category":"Commedia"},{"name":"La Signora Del West","start":"11:45","end":"12:48","episode":"S2 E10"},{"name":"La Signora Del West","start":"12:48","end":"13:48","episode":"S2 E11"},{"name":"La Signora Del West","start":"13:48","end":"14:48","episode":"S2 E12"},{"name":"La Casa Nella Prateria","start":"14:48","end":"15:52","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"15:52","end":"16:54"},{"name":"La Casa Nella Prateria","start":"16:54","end":"17:59","category":"Commedia"},{"name":"La Signora Del West","start":"17:59","end":"19:04","episode":"S2 E13"},{"name":"La Signora Del West","start":"19:04","end":"20:38","episode":"S2 E14"},{"name":"Mediaset Siamo Noi 8 Luglio 2026","start":"20:38","end":"20:41"},{"name":"La Signora Del West","start":"20:41","end":"21:11","episode":"S2 E15"},{"name":"Airport","start":"21:11","end":"23:56","category":"Drammatico"},{"name":"Insieme Per Forza","start":"23:56","end":"01:53","category":"Poliziesco"}]},{"date":"2026-07-09","programs":[{"name":"Insieme Per Forza","start":"00:00","end":"01:53","category":"Poliziesco"},{"name":"Hazzard","start":"01:53","end":"02:43","episode":"S7 E2"},{"name":"Chips","start":"02:43","end":"03:30","episode":"S1 E65"},{"name":"Chips","start":"03:30","end":"04:17","episode":"S1 E66"},{"name":"Norma E Felice","start":"04:17","end":"04:43","episode":"S1 E1"},{"name":"Norma E Felice","start":"04:43","end":"05:07","episode":"S1 E2"},{"name":"Camera Cafe'","start":"05:07","end":"05:11"},{"name":"Agenzia Rockford","start":"05:11","end":"06:15","episode":"S3 E12"},{"name":"Agenzia Rockford","start":"06:15","end":"07:07","episode":"S3 E13"},{"name":"Hazzard","start":"07:07","end":"07:59","episode":"S7 E3"},{"name":"Chips","start":"07:59","end":"08:51","episode":"S1 E67"},{"name":"Chips","start":"08:51","end":"09:43","episode":"S1 E68"},{"name":"La Casa Nella Prateria","start":"09:43","end":"10:41","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"10:41","end":"11:40"},{"name":"La Casa Nella Prateria","start":"11:40","end":"12:38","category":"Commedia"},{"name":"La Signora Del West","start":"12:38","end":"13:36","episode":"S2 E13"},{"name":"La Signora Del West","start":"13:36","end":"14:34","episode":"S2 E14"},{"name":"La Signora Del West","start":"14:34","end":"15:32","episode":"S2 E15"},{"name":"La Casa Nella Prateria","start":"15:32","end":"16:30","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"16:30","end":"17:28","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"17:28","end":"18:26","episode":"S7 E1"},{"name":"La Signora Del West","start":"18:26","end":"19:31","episode":"S2 E16"},{"name":"La Signora Del West","start":"19:31","end":"20:23","episode":"S2 E17"},{"name":"La Signora Del West","start":"20:23","end":"21:10","episode":"S2 E18"},{"name":"Derby In Famiglia","start":"21:10","end":"23:02","category":"Commedia"},{"name":"Airport","start":"23:02","end":"00:54","category":"Drammatico"}]}]}
+{
+    "channel_name": "27 Twentyseven",
+    "days": [
+        {
+            "date": "2026-07-08",
+            "programs": [
+                {
+                    "name": "Babe: Maialino Coraggioso",
+                    "start": "00:00",
+                    "end": "01:07",
+                    "category": "Fantastico/Favolistico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Hazzard",
+                    "start": "01:07",
+                    "end": "01:58",
+                    "episode": "S7 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chips",
+                    "start": "01:58",
+                    "end": "02:50",
+                    "episode": "S1 E63",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chips",
+                    "start": "02:50",
+                    "end": "03:37",
+                    "episode": "S1 E64",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nonno Felice",
+                    "start": "03:37",
+                    "end": "03:58",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/nonno-felice.webp",
+                    "episode": "S3 E35",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Nonno Felice",
+                    "start": "03:58",
+                    "end": "04:22",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/nonno-felice.webp",
+                    "episode": "S3 E36",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "04:22",
+                    "end": "04:57",
+                    "episode": "S1 E34",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "04:57",
+                    "end": "05:02",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp",
+                    "episode": "S6 E14",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "05:02",
+                    "end": "05:11",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp",
+                    "episode": "S1 E29",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Agenzia Rockford",
+                    "start": "05:11",
+                    "end": "06:00",
+                    "episode": "S3 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Hazzard",
+                    "start": "06:00",
+                    "end": "06:45",
+                    "episode": "S7 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chips",
+                    "start": "06:45",
+                    "end": "07:31",
+                    "episode": "S1 E65",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chips",
+                    "start": "07:31",
+                    "end": "08:28",
+                    "episode": "S1 E66",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "08:28",
+                    "end": "09:32",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "09:32",
+                    "end": "10:39",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "10:39",
+                    "end": "11:45",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "11:45",
+                    "end": "12:48",
+                    "episode": "S2 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "12:48",
+                    "end": "13:48",
+                    "episode": "S2 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "13:48",
+                    "end": "14:48",
+                    "episode": "S2 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "14:48",
+                    "end": "15:52",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "15:52",
+                    "end": "16:54",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "16:54",
+                    "end": "17:59",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "17:59",
+                    "end": "19:04",
+                    "episode": "S2 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "19:04",
+                    "end": "20:38",
+                    "episode": "S2 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mediaset Siamo Noi 8 Luglio 2026",
+                    "start": "20:38",
+                    "end": "20:41",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "20:41",
+                    "end": "21:11",
+                    "episode": "S2 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Airport",
+                    "start": "21:11",
+                    "end": "23:56",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Insieme Per Forza",
+                    "start": "23:56",
+                    "end": "01:53",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-07-09",
+            "programs": [
+                {
+                    "name": "Insieme Per Forza",
+                    "start": "00:00",
+                    "end": "01:53",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Hazzard",
+                    "start": "01:53",
+                    "end": "02:43",
+                    "episode": "S7 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chips",
+                    "start": "02:43",
+                    "end": "03:30",
+                    "episode": "S1 E65",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chips",
+                    "start": "03:30",
+                    "end": "04:17",
+                    "episode": "S1 E66",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Norma E Felice",
+                    "start": "04:17",
+                    "end": "04:43",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Norma E Felice",
+                    "start": "04:43",
+                    "end": "05:07",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "05:07",
+                    "end": "05:11",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp"
+                },
+                {
+                    "name": "Agenzia Rockford",
+                    "start": "05:11",
+                    "end": "06:15",
+                    "episode": "S3 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Agenzia Rockford",
+                    "start": "06:15",
+                    "end": "07:07",
+                    "episode": "S3 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Hazzard",
+                    "start": "07:07",
+                    "end": "07:59",
+                    "episode": "S7 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chips",
+                    "start": "07:59",
+                    "end": "08:51",
+                    "episode": "S1 E67",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chips",
+                    "start": "08:51",
+                    "end": "09:43",
+                    "episode": "S1 E68",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "09:43",
+                    "end": "10:41",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "10:41",
+                    "end": "11:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "11:40",
+                    "end": "12:38",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "12:38",
+                    "end": "13:36",
+                    "episode": "S2 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "13:36",
+                    "end": "14:34",
+                    "episode": "S2 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "14:34",
+                    "end": "15:32",
+                    "episode": "S2 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "15:32",
+                    "end": "16:30",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "16:30",
+                    "end": "17:28",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "17:28",
+                    "end": "18:26",
+                    "episode": "S7 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "18:26",
+                    "end": "19:31",
+                    "episode": "S2 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "19:31",
+                    "end": "20:23",
+                    "episode": "S2 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "20:23",
+                    "end": "21:10",
+                    "episode": "S2 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Derby In Famiglia",
+                    "start": "21:10",
+                    "end": "23:02",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Airport",
+                    "start": "23:02",
+                    "end": "00:54",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
