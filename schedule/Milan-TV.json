@@ -1,1 +1,24 @@
-{"channel_name":"Milan TV","days":[{"date":"2026-07-09","programs":[{"name":"AC Milan - Review","start":"00:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"AC Milan - Review","start":"00:00","end":"01:30","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"}]}]}
+{
+    "channel_name": "Milan TV",
+    "days": [
+        {
+            "date": "2026-07-09",
+            "programs": [
+                {
+                    "name": "AC Milan - Review",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "AC Milan - Review",
+                    "start": "00:00",
+                    "end": "01:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                }
+            ]
+        }
+    ]
+}
