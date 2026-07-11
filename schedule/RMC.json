@@ -1,1 +1,75 @@
-{"channel_name":"RMC","days":[{"date":"2026-07-11","programs":[{"name":"Radio Monte Carlo Evening","start":"00:00","end":"00:00"},{"name":"Radio Monte Carlo Night","start":"00:00","end":"06:00"},{"name":"Radio Monte Carlo Morning","start":"06:00","end":"12:00"},{"name":"Radio Monte Carlo Afternoon","start":"12:00","end":"18:00"},{"name":"Radio Monte Carlo Evening","start":"18:00","end":"00:00"}]},{"date":"2026-07-12","programs":[{"name":"Radio Monte Carlo Evening","start":"00:00","end":"00:00"},{"name":"Radio Monte Carlo Night","start":"00:00","end":"06:00"},{"name":"Radio Monte Carlo Morning","start":"06:00","end":"12:00"},{"name":"Radio Monte Carlo Afternoon","start":"12:00","end":"18:00"},{"name":"Radio Monte Carlo Evening","start":"18:00","end":"00:00"}]}]}
+{
+    "channel_name": "RMC",
+    "days": [
+        {
+            "date": "2026-07-11",
+            "programs": [
+                {
+                    "name": "Radio Monte Carlo Evening",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Radio Monte Carlo Night",
+                    "start": "00:00",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Radio Monte Carlo Morning",
+                    "start": "06:00",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Radio Monte Carlo Afternoon",
+                    "start": "12:00",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Radio Monte Carlo Evening",
+                    "start": "18:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-07-12",
+            "programs": [
+                {
+                    "name": "Radio Monte Carlo Evening",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Radio Monte Carlo Night",
+                    "start": "00:00",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Radio Monte Carlo Morning",
+                    "start": "06:00",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Radio Monte Carlo Afternoon",
+                    "start": "12:00",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Radio Monte Carlo Evening",
+                    "start": "18:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}

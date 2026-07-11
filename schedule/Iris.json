@@ -1,1 +1,185 @@
-{"channel_name":"Iris","days":[{"date":"2026-07-11","programs":[{"name":"Nemico Pubblico","start":"00:00","end":"02:19","category":"Drammatico"},{"name":"Havana","start":"02:19","end":"04:40","category":"Drammatico"},{"name":"Buffalo Bill E Gli Indiani","start":"04:40","end":"06:15","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000700501000102/media/21/85/03cebbd6-ec70-41a5-b6aa-4bad8b27c3e7/98e7675a-0cbd-4516-bb53-3da990631854.jpg","category":"Classici"},{"name":"Mal D'africa","start":"06:15","end":"07:48","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000570901000101/media/7/7/41550733-d541-4565-881b-635ee2611df0/6b2a27a2-af68-48ee-88c4-d9a8340a4998.jpg","category":"Documentario"},{"name":"Detective Extralarge","start":"07:48","end":"09:41","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F005809001000602/media/25/89/fe0886a2-bbc5-40fd-9a2f-154763f73e73/47c0c13c-efec-4e2b-b7e2-03452a364016.jpg","episode":"S2 E6","category":"Poliziesco"},{"name":"Salvate Il Soldato Ryan","start":"09:41","end":"13:28","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F008706101000103/media/1/1/2686fb4f-acd0-45bf-b3cf-4c2e9980f6ec/792fb6c1-5f68-418b-8358-af3cf5d9bd6a.jpg","category":"Guerra"},{"name":"Manchester By The Sea","start":"13:28","end":"16:15","category":"Drammatico"},{"name":"Forrest Gump","start":"16:15","end":"19:06","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F006213301000103/media/11/11/f23b2bea-949d-4192-bf5a-1f8c7b98e15e/c4ab2308-124c-44a5-b8bb-654434d13978.jpg","category":"Commedia"},{"name":"I.t. Una Mente Pericolosa","start":"19:06","end":"21:14","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F308067901000104/media/7/7/b68166d7-c4db-4e8a-9b41-e51b42270d86/1ba6fbf4-212f-40a2-ad9c-8f9cd460bc1e.jpg","category":"Thriller"},{"name":"15 Minuti Follia Omicida A New York","start":"21:14","end":"23:38","category":"Azione"},{"name":"The Game Nessuna Regola","start":"23:38","end":"02:09","category":"Drammatico"}]},{"date":"2026-07-12","programs":[{"name":"The Game Nessuna Regola","start":"00:00","end":"02:09","category":"Drammatico"},{"name":"Manchester By The Sea","start":"02:09","end":"04:30","category":"Drammatico"},{"name":"I.t. Una Mente Pericolosa","start":"04:30","end":"06:02","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F308067901000104/media/7/7/b68166d7-c4db-4e8a-9b41-e51b42270d86/1ba6fbf4-212f-40a2-ad9c-8f9cd460bc1e.jpg","category":"Thriller"},{"name":"Immagini Di Un Convento","start":"06:02","end":"07:01","category":"Erotico"},{"name":"Belli Dentro","start":"07:01","end":"07:17","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012045201000601/media/3/3/312dec4d-1715-4234-9267-7c47cd01fcfb/ecd51520-ba0b-42a0-8431-07696a4ac175.jpg","episode":"S1 E6","category":"Sit-Com"},{"name":"College","start":"07:17","end":"09:31","episode":"S1 E1"},{"name":"15 Minuti Follia Omicida A New York","start":"09:31","end":"12:00","category":"Azione"},{"name":"L' Isola Dell'ingiustizia Alcatraz","start":"12:00","end":"14:34","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F006539701000104/media/4/4/4f4a5667-4a75-4e5d-a24f-bdbc02e00618/c7121323-e97f-48e1-b974-ee9140076f92.jpg","category":"Drammatico"},{"name":"L' Uomo Del Giorno Dopo","start":"14:34","end":"18:28","category":"Avventura"},{"name":"Note Di Cinema","start":"18:28","end":"18:34","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334401002901/media/16/80/b431800d-3c5c-400e-a5fd-e8f0a6f6073c/12a8fb1a-1bcc-4dcb-b967-e4a16a286e7d.jpg","category":"Magazine"},{"name":"The Game Nessuna Regola","start":"18:34","end":"21:14","category":"Drammatico"},{"name":"Mad Max Oltre La Sfera Del Tuono","start":"21:14","end":"23:28","category":"Azione"},{"name":"Alien","start":"23:28","end":"01:49","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F001150201000105/media/7/7/5354fbcd-9025-4ec6-922c-bcf370da971b/48d6ccd7-9348-4799-a4b9-df3dba5306d0.jpg","category":"Fantascienza"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-07-11",
+            "programs": [
+                {
+                    "name": "Nemico Pubblico",
+                    "start": "00:00",
+                    "end": "02:19",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Havana",
+                    "start": "02:19",
+                    "end": "04:40",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Buffalo Bill E Gli Indiani",
+                    "start": "04:40",
+                    "end": "06:15",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/buffalo-bill-e-gli-indiani.webp",
+                    "category": "Classici"
+                },
+                {
+                    "name": "Mal D'africa",
+                    "start": "06:15",
+                    "end": "07:48",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/mal-d-africa.webp",
+                    "category": "Documentario"
+                },
+                {
+                    "name": "Detective Extralarge",
+                    "start": "07:48",
+                    "end": "09:41",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/detective-extralarge.webp",
+                    "episode": "S2 E6",
+                    "category": "Poliziesco"
+                },
+                {
+                    "name": "Salvate Il Soldato Ryan",
+                    "start": "09:41",
+                    "end": "13:28",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/salvate-il-soldato-ryan.webp",
+                    "category": "Guerra"
+                },
+                {
+                    "name": "Manchester By The Sea",
+                    "start": "13:28",
+                    "end": "16:15",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Forrest Gump",
+                    "start": "16:15",
+                    "end": "19:06",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/forrest-gump.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "I.t. Una Mente Pericolosa",
+                    "start": "19:06",
+                    "end": "21:14",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/i-t-una-mente-pericolosa.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "15 Minuti Follia Omicida A New York",
+                    "start": "21:14",
+                    "end": "23:38",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Game Nessuna Regola",
+                    "start": "23:38",
+                    "end": "02:09",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-07-12",
+            "programs": [
+                {
+                    "name": "The Game Nessuna Regola",
+                    "start": "00:00",
+                    "end": "02:09",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester By The Sea",
+                    "start": "02:09",
+                    "end": "04:30",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I.t. Una Mente Pericolosa",
+                    "start": "04:30",
+                    "end": "06:02",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/i-t-una-mente-pericolosa.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Immagini Di Un Convento",
+                    "start": "06:02",
+                    "end": "07:01",
+                    "category": "Erotico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Belli Dentro",
+                    "start": "07:01",
+                    "end": "07:17",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/belli-dentro.webp",
+                    "episode": "S1 E6",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "College",
+                    "start": "07:17",
+                    "end": "09:31",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "15 Minuti Follia Omicida A New York",
+                    "start": "09:31",
+                    "end": "12:00",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L' Isola Dell'ingiustizia Alcatraz",
+                    "start": "12:00",
+                    "end": "14:34",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/l-isola-dell-ingiustizia-alcatraz.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "L' Uomo Del Giorno Dopo",
+                    "start": "14:34",
+                    "end": "18:28",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "18:28",
+                    "end": "18:34",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/note-di-cinema.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "The Game Nessuna Regola",
+                    "start": "18:34",
+                    "end": "21:14",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mad Max Oltre La Sfera Del Tuono",
+                    "start": "21:14",
+                    "end": "23:28",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Alien",
+                    "start": "23:28",
+                    "end": "01:49",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/alien.webp",
+                    "category": "Fantascienza"
+                }
+            ]
+        }
+    ]
+}
