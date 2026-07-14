@@ -1,1 +1,315 @@
-{"channel_name":"Solocalcio","days":[{"date":"2026-07-14","programs":[{"name":"SOS: case impossibili (?)","start":"00:00","end":"00:00"},{"name":"SOS: case impossibili (?)","start":"00:00","end":"01:00"},{"name":"Che affare! Con Tarek (?)","start":"01:00","end":"01:55"},{"name":"Che affare! Con Tarek (?)","start":"01:55","end":"02:50"},{"name":"Che affare! Con Tarek (?)","start":"02:50","end":"03:20"},{"name":"Che affare! Con Tarek (?)","start":"03:20","end":"03:45"},{"name":"Che affare! Con Tarek (?)","start":"03:45","end":"04:15"},{"name":"Che affare! Con Tarek (?)","start":"04:15","end":"04:40"},{"name":"Una coppia in affari (?)","start":"04:40","end":"05:10"},{"name":"Una coppia in affari (?)","start":"05:10","end":"05:35"},{"name":"Una coppia in affari (?)","start":"05:35","end":"06:00"},{"name":"Case impossibili: Alaska (?)","start":"06:00","end":"06:30"},{"name":"Case impossibili: Alaska (?)","start":"06:30","end":"06:55"},{"name":"Case impossibili: Alaska (?)","start":"06:55","end":"00:00"}]},{"date":"2026-07-15","programs":[{"name":"Case impossibili: Alaska (?)","start":"00:00","end":"00:00"},{"name":"SOS: case impossibili (?)","start":"00:00","end":"01:00"},{"name":"Che affare! Con Tarek (?)","start":"01:00","end":"01:55"},{"name":"Che affare! Con Tarek (?)","start":"01:55","end":"02:50"},{"name":"Che affare! Con Tarek (?)","start":"02:50","end":"03:20"},{"name":"Che affare! Con Tarek (?)","start":"03:20","end":"03:45"},{"name":"Che affare! Con Tarek (?)","start":"03:45","end":"04:15"},{"name":"Che affare! Con Tarek (?)","start":"04:15","end":"04:40"},{"name":"Una coppia in affari (?)","start":"04:40","end":"05:10"},{"name":"Una coppia in affari (?)","start":"05:10","end":"05:35"},{"name":"Una coppia in affari (?)","start":"05:35","end":"06:00"},{"name":"Case impossibili: Alaska (?)","start":"06:00","end":"06:30"},{"name":"Case impossibili: Alaska (?)","start":"06:30","end":"06:55"},{"name":"Case impossibili: Alaska (?)","start":"06:55","end":"07:20"},{"name":"Case impossibili: Alaska (?)","start":"07:20","end":"07:50"},{"name":"Case impossibili: Alaska (?)","start":"07:50","end":"08:20"},{"name":"Case impossibili: Alaska (?)","start":"08:20","end":"08:50"},{"name":"Case impossibili: Alaska (?)","start":"08:50","end":"09:20"},{"name":"Case impossibili: Alaska (?)","start":"09:20","end":"09:45"},{"name":"Case impossibili: Alaska (?)","start":"09:45","end":"10:15"},{"name":"Case impossibili: Alaska (?)","start":"10:15","end":"10:45"},{"name":"Case impossibili: Alaska (?)","start":"10:45","end":"11:10"},{"name":"Case impossibili: Alaska (?)","start":"11:10","end":"11:35"},{"name":"Casa su misura: casa di montagna (?)","start":"11:35","end":"12:35"},{"name":"Casa su misura: casa di montagna (?)","start":"12:35","end":"13:35"},{"name":"Casa su misura: casa di montagna (?)","start":"13:35","end":"14:35"},{"name":"Casa su misura: Benvenuti a casa (?)","start":"14:35","end":"15:35"},{"name":"Casa su misura: Benvenuti a casa (?)","start":"15:35","end":"16:30"},{"name":"Casa su misura: Benvenuti a casa (?)","start":"16:30","end":"17:25"},{"name":"Casa su misura: Benvenuti a casa (?)","start":"17:25","end":"18:20"},{"name":"Casa su misura: Benvenuti a casa (?)","start":"18:20","end":"19:15"},{"name":"Casa su misura: Benvenuti a casa (?)","start":"19:15","end":"20:10"},{"name":"Chi cerca trova: super restauri (?)","start":"20:10","end":"21:05"},{"name":"Chi cerca trova: super restauri (?)","start":"21:05","end":"22:00"},{"name":"Chi cerca trova: super restauri (?)","start":"22:00","end":"23:00"},{"name":"Chi cerca trova: super restauri (?)","start":"23:00","end":"00:00"}]}]}
+{
+    "channel_name": "Solocalcio",
+    "days": [
+        {
+            "date": "2026-07-14",
+            "programs": [
+                {
+                    "name": "SOS: case impossibili (?)",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "SOS: case impossibili (?)",
+                    "start": "00:00",
+                    "end": "01:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "01:00",
+                    "end": "01:55",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "01:55",
+                    "end": "02:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "02:50",
+                    "end": "03:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "03:20",
+                    "end": "03:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "03:45",
+                    "end": "04:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "04:15",
+                    "end": "04:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una coppia in affari (?)",
+                    "start": "04:40",
+                    "end": "05:10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una coppia in affari (?)",
+                    "start": "05:10",
+                    "end": "05:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una coppia in affari (?)",
+                    "start": "05:35",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "06:00",
+                    "end": "06:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "06:30",
+                    "end": "06:55",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "06:55",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-07-15",
+            "programs": [
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "SOS: case impossibili (?)",
+                    "start": "00:00",
+                    "end": "01:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "01:00",
+                    "end": "01:55",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "01:55",
+                    "end": "02:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "02:50",
+                    "end": "03:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "03:20",
+                    "end": "03:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "03:45",
+                    "end": "04:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Che affare! Con Tarek (?)",
+                    "start": "04:15",
+                    "end": "04:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una coppia in affari (?)",
+                    "start": "04:40",
+                    "end": "05:10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una coppia in affari (?)",
+                    "start": "05:10",
+                    "end": "05:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una coppia in affari (?)",
+                    "start": "05:35",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "06:00",
+                    "end": "06:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "06:30",
+                    "end": "06:55",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "06:55",
+                    "end": "07:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "07:20",
+                    "end": "07:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "07:50",
+                    "end": "08:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "08:20",
+                    "end": "08:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "08:50",
+                    "end": "09:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "09:20",
+                    "end": "09:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "09:45",
+                    "end": "10:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "10:15",
+                    "end": "10:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "10:45",
+                    "end": "11:10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Case impossibili: Alaska (?)",
+                    "start": "11:10",
+                    "end": "11:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa su misura: casa di montagna (?)",
+                    "start": "11:35",
+                    "end": "12:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa su misura: casa di montagna (?)",
+                    "start": "12:35",
+                    "end": "13:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa su misura: casa di montagna (?)",
+                    "start": "13:35",
+                    "end": "14:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa su misura: Benvenuti a casa (?)",
+                    "start": "14:35",
+                    "end": "15:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa su misura: Benvenuti a casa (?)",
+                    "start": "15:35",
+                    "end": "16:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa su misura: Benvenuti a casa (?)",
+                    "start": "16:30",
+                    "end": "17:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa su misura: Benvenuti a casa (?)",
+                    "start": "17:25",
+                    "end": "18:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa su misura: Benvenuti a casa (?)",
+                    "start": "18:20",
+                    "end": "19:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa su misura: Benvenuti a casa (?)",
+                    "start": "19:15",
+                    "end": "20:10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova: super restauri (?)",
+                    "start": "20:10",
+                    "end": "21:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova: super restauri (?)",
+                    "start": "21:05",
+                    "end": "22:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova: super restauri (?)",
+                    "start": "22:00",
+                    "end": "23:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chi cerca trova: super restauri (?)",
+                    "start": "23:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
