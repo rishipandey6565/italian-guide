@@ -1,1 +1,398 @@
-{"channel_name":"27 Twentyseven","days":[{"date":"2026-07-16","programs":[{"name":"A X L Un'amicizia Extraordinaria","start":"00:00","end":"00:57","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309302001000102/media/18/82/901ac0d7-fc47-40cf-a496-9938336a1080/3a9bbf20-1f05-4e40-9a94-d0b84bd2fbdd.jpg","category":"Avventura"},{"name":"Miami Vice","start":"00:57","end":"01:48","episode":"S1 E1"},{"name":"Miami Vice","start":"01:48","end":"02:38","episode":"S1 E2"},{"name":"Norma E Felice","start":"02:38","end":"03:00","episode":"S1 E15"},{"name":"Norma E Felice","start":"03:00","end":"03:22","episode":"S1 E16"},{"name":"Casa Dolce Casa","start":"03:22","end":"03:45","episode":"S1 E5"},{"name":"Casa Dolce Casa","start":"03:45","end":"04:05","episode":"S1 E6"},{"name":"Matrimoni E Altre Follie","start":"04:05","end":"05:30","episode":"S1 E4","category":"Commedia"},{"name":"Camera Cafe'","start":"05:30","end":"05:38","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303843107002301/media/0/0/e6c6ff7d-4a09-4b48-a397-a75679f2efc8/66a10ff5-e632-4907-8843-d6ad49495b97.jpg","episode":"S6 E23","category":"Sit-Com"},{"name":"Camera Cafe'","start":"05:38","end":"06:00","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012852804009901/media/7/7/096f279c-b65b-47eb-85ca-cc5d44a5e04c/9db48595-0e2c-448c-b4e0-c3393923558e.jpg","episode":"S5 E99","category":"Sit-Com"},{"name":"Camera Cafe'","start":"06:00","end":"06:36","episode":"S1 E35"},{"name":"Agenzia Rockford","start":"06:36","end":"07:24","episode":"S3 E20"},{"name":"Miami Vice","start":"07:24","end":"08:16","episode":"S1 E3"},{"name":"Miami Vice","start":"08:16","end":"09:19","episode":"S1 E4"},{"name":"La Casa Nella Prateria","start":"09:19","end":"10:21","episode":"S7 E17"},{"name":"La Casa Nella Prateria","start":"10:21","end":"11:26","episode":"S7 E18"},{"name":"La Casa Nella Prateria","start":"11:26","end":"12:29","episode":"S7 E19"},{"name":"La Signora Del West","start":"12:29","end":"13:26","episode":"S3 E7"},{"name":"La Signora Del West","start":"13:26","end":"14:16","episode":"S3 E8"},{"name":"La Signora Del West","start":"14:16","end":"15:14","episode":"S3 E9"},{"name":"La Casa Nella Prateria","start":"15:14","end":"16:14","episode":"S7 E20"},{"name":"La Casa Nella Prateria","start":"16:14","end":"17:15","episode":"S7 E21"},{"name":"La Casa Nella Prateria","start":"17:15","end":"18:13","episode":"S7 E22"},{"name":"La Signora Del West","start":"18:13","end":"19:12","episode":"S3 E10"},{"name":"La Signora Del West","start":"19:12","end":"20:11","episode":"S3 E11"},{"name":"La Signora Del West","start":"20:11","end":"21:10","episode":"S3 E12"},{"name":"La Piccola Boss","start":"21:10","end":"23:15","category":"Commedia"},{"name":"Assassinio Allo Specchio","start":"23:15","end":"01:13","category":"Giallo"}]},{"date":"2026-07-17","programs":[{"name":"Assassinio Allo Specchio","start":"00:00","end":"01:13","category":"Giallo"},{"name":"Miami Vice","start":"01:13","end":"02:07","episode":"S1 E3"},{"name":"Miami Vice","start":"02:07","end":"02:52","episode":"S1 E4"},{"name":"Norma E Felice","start":"02:52","end":"03:16","episode":"S1 E17"},{"name":"Norma E Felice","start":"03:16","end":"03:41","episode":"S1 E18"},{"name":"Casa Dolce Casa","start":"03:41","end":"04:04","episode":"S1 E7"},{"name":"Casa Dolce Casa","start":"04:04","end":"04:27","episode":"S1 E8"},{"name":"Matrimoni E Altre Follie","start":"04:27","end":"06:00","episode":"S1 E5","category":"Commedia"},{"name":"Camera Cafe'","start":"06:00","end":"06:35","episode":"S1 E3"},{"name":"Agenzia Rockford","start":"06:35","end":"07:21","episode":"S3 E21"},{"name":"Miami Vice","start":"07:21","end":"08:14","episode":"S1 E5"},{"name":"Miami Vice","start":"08:14","end":"09:16","episode":"S1 E7"},{"name":"La Casa Nella Prateria","start":"09:16","end":"10:18","episode":"S7 E20"},{"name":"La Casa Nella Prateria","start":"10:18","end":"11:19","episode":"S7 E21"},{"name":"La Casa Nella Prateria","start":"11:19","end":"12:18","episode":"S7 E22"},{"name":"La Signora Del West","start":"12:18","end":"13:17","episode":"S3 E10"},{"name":"La Signora Del West","start":"13:17","end":"14:15","episode":"S3 E11"},{"name":"La Signora Del West","start":"14:15","end":"15:14","episode":"S3 E12"},{"name":"La Casa Nella Prateria","start":"15:14","end":"16:12","episode":"S8 E1"},{"name":"La Casa Nella Prateria","start":"16:12","end":"17:13","episode":"S8 E2","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"17:13","end":"18:14","episode":"S8 E3"},{"name":"La Signora Del West","start":"18:14","end":"19:10","episode":"S3 E13"},{"name":"La Signora Del West","start":"19:10","end":"20:10","episode":"S3 E14"},{"name":"La Signora Del West","start":"20:10","end":"21:09","episode":"S3 E15"},{"name":"Havana","start":"21:09","end":"23:55","category":"Drammatico"},{"name":"La Piccola Boss","start":"23:55","end":"01:49","category":"Commedia"}]}]}
+{
+    "channel_name": "27 Twentyseven",
+    "days": [
+        {
+            "date": "2026-07-16",
+            "programs": [
+                {
+                    "name": "A X L Un'amicizia Extraordinaria",
+                    "start": "00:00",
+                    "end": "00:57",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/a-x-l-un-amicizia-extraordinaria.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "00:57",
+                    "end": "01:48",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "01:48",
+                    "end": "02:38",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Norma E Felice",
+                    "start": "02:38",
+                    "end": "03:00",
+                    "episode": "S1 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Norma E Felice",
+                    "start": "03:00",
+                    "end": "03:22",
+                    "episode": "S1 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa Dolce Casa",
+                    "start": "03:22",
+                    "end": "03:45",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa Dolce Casa",
+                    "start": "03:45",
+                    "end": "04:05",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Matrimoni E Altre Follie",
+                    "start": "04:05",
+                    "end": "05:30",
+                    "episode": "S1 E4",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "05:30",
+                    "end": "05:38",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp",
+                    "episode": "S6 E23",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "05:38",
+                    "end": "06:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp",
+                    "episode": "S5 E99",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "06:00",
+                    "end": "06:36",
+                    "episode": "S1 E35",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp"
+                },
+                {
+                    "name": "Agenzia Rockford",
+                    "start": "06:36",
+                    "end": "07:24",
+                    "episode": "S3 E20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "07:24",
+                    "end": "08:16",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "08:16",
+                    "end": "09:19",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "09:19",
+                    "end": "10:21",
+                    "episode": "S7 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "10:21",
+                    "end": "11:26",
+                    "episode": "S7 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "11:26",
+                    "end": "12:29",
+                    "episode": "S7 E19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "12:29",
+                    "end": "13:26",
+                    "episode": "S3 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "13:26",
+                    "end": "14:16",
+                    "episode": "S3 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "14:16",
+                    "end": "15:14",
+                    "episode": "S3 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "15:14",
+                    "end": "16:14",
+                    "episode": "S7 E20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "16:14",
+                    "end": "17:15",
+                    "episode": "S7 E21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "17:15",
+                    "end": "18:13",
+                    "episode": "S7 E22",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "18:13",
+                    "end": "19:12",
+                    "episode": "S3 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "19:12",
+                    "end": "20:11",
+                    "episode": "S3 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "20:11",
+                    "end": "21:10",
+                    "episode": "S3 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Piccola Boss",
+                    "start": "21:10",
+                    "end": "23:15",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Assassinio Allo Specchio",
+                    "start": "23:15",
+                    "end": "01:13",
+                    "category": "Giallo",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-07-17",
+            "programs": [
+                {
+                    "name": "Assassinio Allo Specchio",
+                    "start": "00:00",
+                    "end": "01:13",
+                    "category": "Giallo",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "01:13",
+                    "end": "02:07",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "02:07",
+                    "end": "02:52",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Norma E Felice",
+                    "start": "02:52",
+                    "end": "03:16",
+                    "episode": "S1 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Norma E Felice",
+                    "start": "03:16",
+                    "end": "03:41",
+                    "episode": "S1 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa Dolce Casa",
+                    "start": "03:41",
+                    "end": "04:04",
+                    "episode": "S1 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa Dolce Casa",
+                    "start": "04:04",
+                    "end": "04:27",
+                    "episode": "S1 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Matrimoni E Altre Follie",
+                    "start": "04:27",
+                    "end": "06:00",
+                    "episode": "S1 E5",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "06:00",
+                    "end": "06:35",
+                    "episode": "S1 E3",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp"
+                },
+                {
+                    "name": "Agenzia Rockford",
+                    "start": "06:35",
+                    "end": "07:21",
+                    "episode": "S3 E21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "07:21",
+                    "end": "08:14",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "08:14",
+                    "end": "09:16",
+                    "episode": "S1 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "09:16",
+                    "end": "10:18",
+                    "episode": "S7 E20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "10:18",
+                    "end": "11:19",
+                    "episode": "S7 E21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "11:19",
+                    "end": "12:18",
+                    "episode": "S7 E22",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "12:18",
+                    "end": "13:17",
+                    "episode": "S3 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "13:17",
+                    "end": "14:15",
+                    "episode": "S3 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "14:15",
+                    "end": "15:14",
+                    "episode": "S3 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "15:14",
+                    "end": "16:12",
+                    "episode": "S8 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "16:12",
+                    "end": "17:13",
+                    "episode": "S8 E2",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "17:13",
+                    "end": "18:14",
+                    "episode": "S8 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "18:14",
+                    "end": "19:10",
+                    "episode": "S3 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "19:10",
+                    "end": "20:10",
+                    "episode": "S3 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "20:10",
+                    "end": "21:09",
+                    "episode": "S3 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Havana",
+                    "start": "21:09",
+                    "end": "23:55",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Piccola Boss",
+                    "start": "23:55",
+                    "end": "01:49",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
