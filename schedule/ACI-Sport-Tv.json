@@ -1,1 +1,99 @@
-{"channel_name":"ACI Sport Tv","days":[{"date":"2026-07-20","programs":[{"name":"FIA ETRC - Nurburging - G2","start":"00:00","end":"00:01","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"FIA ETRC - Nurburging - G3","start":"00:01","end":"00:52","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"E-Sport Coppa It. F4 - Adelaide Circuit","start":"00:52","end":"02:38","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"FIA ETRC - Nurburging - G4","start":"02:38","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"ACI Sport Tv","start":"06:00","end":"12:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"12:00","end":"18:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"18:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"}]},{"date":"2026-07-21","programs":[{"name":"ACI Sport Tv","start":"00:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"00:00","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"06:00","end":"12:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"12:00","end":"18:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"18:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"}]}]}
+{
+    "channel_name": "ACI Sport Tv",
+    "days": [
+        {
+            "date": "2026-07-20",
+            "programs": [
+                {
+                    "name": "FIA ETRC - Nurburging - G2",
+                    "start": "00:00",
+                    "end": "00:01",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "FIA ETRC - Nurburging - G3",
+                    "start": "00:01",
+                    "end": "00:52",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "E-Sport Coppa It. F4 - Adelaide Circuit",
+                    "start": "00:52",
+                    "end": "02:38",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "FIA ETRC - Nurburging - G4",
+                    "start": "02:38",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "06:00",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "12:00",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "18:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                }
+            ]
+        },
+        {
+            "date": "2026-07-21",
+            "programs": [
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "00:00",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "06:00",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "12:00",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "18:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                }
+            ]
+        }
+    ]
+}
