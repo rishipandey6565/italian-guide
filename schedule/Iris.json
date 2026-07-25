@@ -1,1 +1,190 @@
-{"channel_name":"Iris","days":[{"date":"2026-07-25","programs":[{"name":"L' Isola Dell'ingiustizia Alcatraz","start":"00:00","end":"02:15","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F006539701000104/media/4/4/4f4a5667-4a75-4e5d-a24f-bdbc02e00618/c7121323-e97f-48e1-b974-ee9140076f92.jpg","category":"Drammatico"},{"name":"I Signori Della Truffa","start":"02:15","end":"04:18","category":"Commedia"},{"name":"The War","start":"04:18","end":"06:17","category":"Avventura"},{"name":"Il Capitano Della Legione","start":"06:17","end":"07:51","category":"Commedia"},{"name":"College","start":"07:51","end":"10:13","episode":"S1 E4"},{"name":"L' Isola Dell'ingiustizia Alcatraz","start":"10:13","end":"12:46","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F006539701000104/media/4/4/4f4a5667-4a75-4e5d-a24f-bdbc02e00618/c7121323-e97f-48e1-b974-ee9140076f92.jpg","category":"Drammatico"},{"name":"The Courier","start":"12:46","end":"14:31","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F308729601000102/media/22/86/7fa79417-baaf-47b3-b595-df24a2943d5f/993b8563-9f9c-4b8d-b5a0-cdfde8d54d78.jpg","category":"Azione"},{"name":"Facile Preda","start":"14:31","end":"16:24","category":"Thriller"},{"name":"L'arma Dell'inganno Operation Mincemeat","start":"16:24","end":"18:52","category":"Drammatico"},{"name":"Giochi Di Potere","start":"18:52","end":"21:14","category":"Drammatico"},{"name":"Cape Fear Il Promontorio Della Paura","start":"21:14","end":"23:51","category":"Thriller"},{"name":"15 Minuti Follia Omicida A New York","start":"23:51","end":"02:11","category":"Azione"}]},{"date":"2026-07-26","programs":[{"name":"15 Minuti Follia Omicida A New York","start":"00:00","end":"02:11","category":"Azione"},{"name":"The Courier","start":"02:11","end":"03:41","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F308729601000102/media/22/86/7fa79417-baaf-47b3-b595-df24a2943d5f/993b8563-9f9c-4b8d-b5a0-cdfde8d54d78.jpg","category":"Azione"},{"name":"Giochi Di Potere","start":"03:41","end":"05:34","category":"Drammatico"},{"name":"La Via Del Rhum","start":"05:34","end":"07:27","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000352501000102/media/12/12/d85473c0-6a04-4832-9358-063642f432b9/fe074416-b19e-48bf-afb2-47ffa6bc2425.jpg","category":"Strakult"},{"name":"College","start":"07:27","end":"09:30","episode":"S1 E5"},{"name":"Cape Fear Il Promontorio Della Paura","start":"09:30","end":"12:12","category":"Thriller"},{"name":"15 Minuti Follia Omicida A New York","start":"12:12","end":"14:36","category":"Azione"},{"name":"Il Professore E Il Pazzo","start":"14:36","end":"17:02","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309555701000101/media/0/0/a66b2b34-6e32-4e4c-be74-7b1f219c45de/418ff3e2-c60b-4a03-85b0-2d873257f2cc.jpg","category":"Drammatico"},{"name":"Note Di Cinema","start":"17:02","end":"17:20","category":"Magazine"},{"name":"Viaggio In Paradiso","start":"17:20","end":"19:14","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303055801000103/media/28/92/a0ce7e9d-6bd2-4904-8a8c-47a50e8790c1/b30a3d7c-756b-4500-b3ad-1e7e818e3c5b.jpg","category":"Azione"},{"name":"Payback La Rivincita Di Porter","start":"19:14","end":"21:14","category":"Azione"},{"name":"Agents Secrets","start":"21:14","end":"23:26","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011466401000102/media/1/1/e9d09a52-3945-47df-8a84-b413bbebe8db/eb8d6665-6acd-407c-992c-7c8f865f3a4b.jpg","category":"Thriller"},{"name":"Un Piano Perfetto","start":"23:26","end":"01:34","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305516601000103/media/8/8/e06c0086-e28c-4eaf-8a25-e11a3d512a77/b8fc4aee-63fa-4a19-b971-cba6f179307d.jpg","category":"Avventura"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-07-25",
+            "programs": [
+                {
+                    "name": "L' Isola Dell'ingiustizia Alcatraz",
+                    "start": "00:00",
+                    "end": "02:15",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/l-isola-dell-ingiustizia-alcatraz.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "I Signori Della Truffa",
+                    "start": "02:15",
+                    "end": "04:18",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The War",
+                    "start": "04:18",
+                    "end": "06:17",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Capitano Della Legione",
+                    "start": "06:17",
+                    "end": "07:51",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "College",
+                    "start": "07:51",
+                    "end": "10:13",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L' Isola Dell'ingiustizia Alcatraz",
+                    "start": "10:13",
+                    "end": "12:46",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/l-isola-dell-ingiustizia-alcatraz.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "The Courier",
+                    "start": "12:46",
+                    "end": "14:31",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/the-courier.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Facile Preda",
+                    "start": "14:31",
+                    "end": "16:24",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'arma Dell'inganno Operation Mincemeat",
+                    "start": "16:24",
+                    "end": "18:52",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Giochi Di Potere",
+                    "start": "18:52",
+                    "end": "21:14",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cape Fear Il Promontorio Della Paura",
+                    "start": "21:14",
+                    "end": "23:51",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "15 Minuti Follia Omicida A New York",
+                    "start": "23:51",
+                    "end": "02:11",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-07-26",
+            "programs": [
+                {
+                    "name": "15 Minuti Follia Omicida A New York",
+                    "start": "00:00",
+                    "end": "02:11",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Courier",
+                    "start": "02:11",
+                    "end": "03:41",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/the-courier.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Giochi Di Potere",
+                    "start": "03:41",
+                    "end": "05:34",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Via Del Rhum",
+                    "start": "05:34",
+                    "end": "07:27",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-via-del-rhum.webp",
+                    "category": "Strakult"
+                },
+                {
+                    "name": "College",
+                    "start": "07:27",
+                    "end": "09:30",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cape Fear Il Promontorio Della Paura",
+                    "start": "09:30",
+                    "end": "12:12",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "15 Minuti Follia Omicida A New York",
+                    "start": "12:12",
+                    "end": "14:36",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Professore E Il Pazzo",
+                    "start": "14:36",
+                    "end": "17:02",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/il-professore-e-il-pazzo.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "17:02",
+                    "end": "17:20",
+                    "category": "Magazine",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Viaggio In Paradiso",
+                    "start": "17:20",
+                    "end": "19:14",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/viaggio-in-paradiso.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Payback La Rivincita Di Porter",
+                    "start": "19:14",
+                    "end": "21:14",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Agents Secrets",
+                    "start": "21:14",
+                    "end": "23:26",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/agents-secrets.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Un Piano Perfetto",
+                    "start": "23:26",
+                    "end": "01:34",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/un-piano-perfetto.webp",
+                    "category": "Avventura"
+                }
+            ]
+        }
+    ]
+}
