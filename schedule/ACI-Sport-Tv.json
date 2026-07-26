@@ -1,1 +1,232 @@
-{"channel_name":"ACI Sport Tv","days":[{"date":"2026-07-26","programs":[{"name":"GT Cup - Mugello - Gara 1","start":"00:00","end":"01:09","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"F4 - Mugello - Gara 2","start":"01:09","end":"02:04","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"GT4 - Mugello - Gara 1","start":"02:04","end":"03:16","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Revival ACI Sport since 2012","start":"03:16","end":"03:49","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Inside ACI Racing Weekend","start":"03:49","end":"04:20","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"F4 - Mugello - Gara 1","start":"04:20","end":"05:15","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Cross Country Magazine","start":"05:15","end":"05:46","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Magazine CRZ","start":"05:46","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Magazine ACI Sport","start":"06:00","end":"07:06","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIGE - Coppa d'oro delle Dolomiti","start":"07:06","end":"08:03","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Speciale Rally di Roma - Oltre la gara","start":"08:03","end":"08:23","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Ruote nella Storia","start":"08:23","end":"08:49","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"F4 - Mugello - Gara 2","start":"08:49","end":"09:49","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"TCR Italy - Mugello - Gara 2","start":"09:49","end":"10:47","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CISP - Mugello - Gara 2","start":"10:47","end":"11:48","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"GT3 - Mugello - Gara 2","start":"11:48","end":"13:03","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Magazine ACI Sport","start":"13:03","end":"14:19","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"GT Cup - Mugello - Gara 2","start":"14:19","end":"15:40","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"F4 - Mugello - Gara 4","start":"15:40","end":"16:51","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"GT4 - Mugello - Gara 2","start":"16:51","end":"17:42","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIK - Val Vibrata - Finali","start":"17:42","end":"21:27","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Inside ACI Racing Weekend (Finale)","start":"21:27","end":"21:43","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Magazine ACI Sport","start":"21:43","end":"22:49","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Cross Country Magazine","start":"22:49","end":"23:19","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"F4 - Mugello - Gara 3","start":"23:19","end":"00:15","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"}]},{"date":"2026-07-27","programs":[{"name":"F4 - Mugello - Gara 3","start":"00:00","end":"00:15","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"TCR Italy - Mugello - Gara 2","start":"00:15","end":"01:11","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"CIK - Val Vibrata - Finali","start":"01:11","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"ACI Sport Tv","start":"06:00","end":"12:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"12:00","end":"18:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"18:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"}]}]}
+{
+    "channel_name": "ACI Sport Tv",
+    "days": [
+        {
+            "date": "2026-07-26",
+            "programs": [
+                {
+                    "name": "GT Cup - Mugello - Gara 1",
+                    "start": "00:00",
+                    "end": "01:09",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "F4 - Mugello - Gara 2",
+                    "start": "01:09",
+                    "end": "02:04",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "GT4 - Mugello - Gara 1",
+                    "start": "02:04",
+                    "end": "03:16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Revival ACI Sport since 2012",
+                    "start": "03:16",
+                    "end": "03:49",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Inside ACI Racing Weekend",
+                    "start": "03:49",
+                    "end": "04:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "F4 - Mugello - Gara 1",
+                    "start": "04:20",
+                    "end": "05:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Cross Country Magazine",
+                    "start": "05:15",
+                    "end": "05:46",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Magazine CRZ",
+                    "start": "05:46",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Magazine ACI Sport",
+                    "start": "06:00",
+                    "end": "07:06",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIGE - Coppa d'oro delle Dolomiti",
+                    "start": "07:06",
+                    "end": "08:03",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Speciale Rally di Roma - Oltre la gara",
+                    "start": "08:03",
+                    "end": "08:23",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Ruote nella Storia",
+                    "start": "08:23",
+                    "end": "08:49",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "F4 - Mugello - Gara 2",
+                    "start": "08:49",
+                    "end": "09:49",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "TCR Italy - Mugello - Gara 2",
+                    "start": "09:49",
+                    "end": "10:47",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CISP - Mugello - Gara 2",
+                    "start": "10:47",
+                    "end": "11:48",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "GT3 - Mugello - Gara 2",
+                    "start": "11:48",
+                    "end": "13:03",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Magazine ACI Sport",
+                    "start": "13:03",
+                    "end": "14:19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "GT Cup - Mugello - Gara 2",
+                    "start": "14:19",
+                    "end": "15:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "F4 - Mugello - Gara 4",
+                    "start": "15:40",
+                    "end": "16:51",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "GT4 - Mugello - Gara 2",
+                    "start": "16:51",
+                    "end": "17:42",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIK - Val Vibrata - Finali",
+                    "start": "17:42",
+                    "end": "21:27",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Inside ACI Racing Weekend (Finale)",
+                    "start": "21:27",
+                    "end": "21:43",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Magazine ACI Sport",
+                    "start": "21:43",
+                    "end": "22:49",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Cross Country Magazine",
+                    "start": "22:49",
+                    "end": "23:19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "F4 - Mugello - Gara 3",
+                    "start": "23:19",
+                    "end": "00:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                }
+            ]
+        },
+        {
+            "date": "2026-07-27",
+            "programs": [
+                {
+                    "name": "F4 - Mugello - Gara 3",
+                    "start": "00:00",
+                    "end": "00:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "TCR Italy - Mugello - Gara 2",
+                    "start": "00:15",
+                    "end": "01:11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "CIK - Val Vibrata - Finali",
+                    "start": "01:11",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "06:00",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "12:00",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "18:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                }
+            ]
+        }
+    ]
+}
