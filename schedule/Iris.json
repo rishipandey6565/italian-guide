@@ -1,1 +1,229 @@
-{"channel_name":"Iris","days":[{"date":"2026-07-27","programs":[{"name":"Un Piano Perfetto","start":"00:00","end":"01:36","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305516601000103/media/8/8/e06c0086-e28c-4eaf-8a25-e11a3d512a77/b8fc4aee-63fa-4a19-b971-cba6f179307d.jpg","category":"Avventura"},{"name":"Il Professore E Il Pazzo","start":"01:36","end":"03:39","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309555701000101/media/0/0/a66b2b34-6e32-4e4c-be74-7b1f219c45de/418ff3e2-c60b-4a03-85b0-2d873257f2cc.jpg","category":"Drammatico"},{"name":"Payback La Rivincita Di Porter","start":"03:39","end":"05:16","category":"Azione"},{"name":"Desiderando Giulia","start":"05:16","end":"06:27","category":"Drammatico"},{"name":"Kojak","start":"06:27","end":"07:14","episode":"S3 E4"},{"name":"Walker Texas Ranger","start":"07:14","end":"08:10","episode":"S2 E13","category":"Poliziesco"},{"name":"A 077 Sfida Ai Killers","start":"08:10","end":"10:06","category":"Spionaggio"},{"name":"Agents Secrets","start":"10:06","end":"12:27","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011466401000102/media/1/1/e9d09a52-3945-47df-8a84-b413bbebe8db/eb8d6665-6acd-407c-992c-7c8f865f3a4b.jpg","category":"Thriller"},{"name":"Vita & Virginia","start":"12:27","end":"14:46","category":"Biografico"},{"name":"L'appartamento","start":"14:46","end":"17:13","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F007817601000101/media/19/83/76a7b6cb-a97f-4135-8612-82973780b800/11287c89-4bc3-4de4-90c3-1e05fd177666.jpg","category":"Commedia"},{"name":"Viaggio In Paradiso","start":"17:13","end":"19:10","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303055801000103/media/28/92/a0ce7e9d-6bd2-4904-8a8c-47a50e8790c1/b30a3d7c-756b-4500-b3ad-1e7e818e3c5b.jpg","category":"Azione"},{"name":"Kojak","start":"19:10","end":"20:09","episode":"S3 E4"},{"name":"Walker Texas Ranger","start":"20:09","end":"21:13","episode":"S2 E13","category":"Poliziesco"},{"name":"Una Donna Promettente","start":"21:13","end":"23:27","category":"Drammatico"},{"name":"Jane Eyre","start":"23:27","end":"01:43","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F006275701000101/media/9/9/68a289c0-7323-498b-ae3b-de1b72170792/dc4315f1-538d-4c29-9650-38dac7c1d6e4.jpg","category":"Drammatico"}]},{"date":"2026-07-28","programs":[{"name":"Jane Eyre","start":"00:00","end":"01:43","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F006275701000101/media/9/9/68a289c0-7323-498b-ae3b-de1b72170792/dc4315f1-538d-4c29-9650-38dac7c1d6e4.jpg","category":"Drammatico"},{"name":"Note Di Cinema","start":"01:43","end":"01:55","category":"Magazine"},{"name":"Vita & Virginia","start":"01:55","end":"03:41","category":"Biografico"},{"name":"Viaggio In Paradiso","start":"03:41","end":"05:10","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303055801000103/media/28/92/a0ce7e9d-6bd2-4904-8a8c-47a50e8790c1/b30a3d7c-756b-4500-b3ad-1e7e818e3c5b.jpg","category":"Azione"},{"name":"I Cinque Dell'adamello","start":"05:10","end":"06:43","category":"Drammatico"},{"name":"Kojak","start":"06:43","end":"07:30","episode":"S3 E5"},{"name":"Walker Texas Ranger","start":"07:30","end":"08:16","episode":"S2 E14","category":"Poliziesco"},{"name":"Un Piano Perfetto","start":"08:16","end":"11:06","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305516601000103/media/8/8/e06c0086-e28c-4eaf-8a25-e11a3d512a77/b8fc4aee-63fa-4a19-b971-cba6f179307d.jpg","category":"Avventura"},{"name":"Psycho","start":"11:06","end":"13:22","category":"Thriller"},{"name":"La Mia Africa","start":"13:22","end":"16:33","category":"Drammatico"},{"name":"As You Like It Come Vi Piace","start":"16:33","end":"19:12","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012515401000102/media/10/10/2eae2c33-dcdf-48b8-8c5c-f54e13ea6afb/81bdfe8e-7722-41d0-a89b-fd422d2942e5.jpg","category":"Commedia"},{"name":"Kojak","start":"19:12","end":"20:11","episode":"S3 E5"},{"name":"Walker Texas Ranger","start":"20:11","end":"21:16","episode":"S2 E14","category":"Poliziesco"},{"name":"Posta Grossa A Dodge City","start":"21:16","end":"23:18","category":"Western"},{"name":"Sfida A White Buffalo","start":"23:18","end":"01:21","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000700701000102/media/17/81/22b21c32-6c24-4c11-910c-a48efabc453f/a7ca677f-d503-40b7-be79-ffe0e3618697.jpg","category":"Avventura"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-07-27",
+            "programs": [
+                {
+                    "name": "Un Piano Perfetto",
+                    "start": "00:00",
+                    "end": "01:36",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/un-piano-perfetto.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Il Professore E Il Pazzo",
+                    "start": "01:36",
+                    "end": "03:39",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/il-professore-e-il-pazzo.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Payback La Rivincita Di Porter",
+                    "start": "03:39",
+                    "end": "05:16",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Desiderando Giulia",
+                    "start": "05:16",
+                    "end": "06:27",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:27",
+                    "end": "07:14",
+                    "episode": "S3 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:14",
+                    "end": "08:10",
+                    "episode": "S2 E13",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A 077 Sfida Ai Killers",
+                    "start": "08:10",
+                    "end": "10:06",
+                    "category": "Spionaggio",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Agents Secrets",
+                    "start": "10:06",
+                    "end": "12:27",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/agents-secrets.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Vita & Virginia",
+                    "start": "12:27",
+                    "end": "14:46",
+                    "category": "Biografico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'appartamento",
+                    "start": "14:46",
+                    "end": "17:13",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/l-appartamento.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "Viaggio In Paradiso",
+                    "start": "17:13",
+                    "end": "19:10",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/viaggio-in-paradiso.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:10",
+                    "end": "20:09",
+                    "episode": "S3 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:09",
+                    "end": "21:13",
+                    "episode": "S2 E13",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una Donna Promettente",
+                    "start": "21:13",
+                    "end": "23:27",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Jane Eyre",
+                    "start": "23:27",
+                    "end": "01:43",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/jane-eyre.webp",
+                    "category": "Drammatico"
+                }
+            ]
+        },
+        {
+            "date": "2026-07-28",
+            "programs": [
+                {
+                    "name": "Jane Eyre",
+                    "start": "00:00",
+                    "end": "01:43",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/jane-eyre.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "01:43",
+                    "end": "01:55",
+                    "category": "Magazine",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Vita & Virginia",
+                    "start": "01:55",
+                    "end": "03:41",
+                    "category": "Biografico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Viaggio In Paradiso",
+                    "start": "03:41",
+                    "end": "05:10",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/viaggio-in-paradiso.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "I Cinque Dell'adamello",
+                    "start": "05:10",
+                    "end": "06:43",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:43",
+                    "end": "07:30",
+                    "episode": "S3 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:30",
+                    "end": "08:16",
+                    "episode": "S2 E14",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Un Piano Perfetto",
+                    "start": "08:16",
+                    "end": "11:06",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/un-piano-perfetto.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Psycho",
+                    "start": "11:06",
+                    "end": "13:22",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Mia Africa",
+                    "start": "13:22",
+                    "end": "16:33",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "As You Like It Come Vi Piace",
+                    "start": "16:33",
+                    "end": "19:12",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/as-you-like-it-come-vi-piace.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:12",
+                    "end": "20:11",
+                    "episode": "S3 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:11",
+                    "end": "21:16",
+                    "episode": "S2 E14",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Posta Grossa A Dodge City",
+                    "start": "21:16",
+                    "end": "23:18",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sfida A White Buffalo",
+                    "start": "23:18",
+                    "end": "01:21",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/sfida-a-white-buffalo.webp",
+                    "category": "Avventura"
+                }
+            ]
+        }
+    ]
+}
