@@ -1,1 +1,59 @@
-{"channel_name":"VALUE 24 TV","days":[{"date":"2026-08-01","programs":[{"name":"Aggiudicato","start":"00:00","end":"00:07","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Business Show","start":"00:07","end":"00:33","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Caffe Startup","start":"00:33","end":"01:00","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Prometeo","start":"01:00","end":"01:05","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Informazione"},{"name":"Rinascimento Digitale","start":"01:05","end":"01:30","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Expo Ferroviaria","start":"01:30","end":"02:08","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"},{"name":"Il Festival dell economia","start":"02:08","end":"02:57","logo":"https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png","category":"Intrattenimento"}]}]}
+{
+    "channel_name": "VALUE 24 TV",
+    "days": [
+        {
+            "date": "2026-08-01",
+            "programs": [
+                {
+                    "name": "Aggiudicato",
+                    "start": "00:00",
+                    "end": "00:07",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/aggiudicato.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Business Show",
+                    "start": "00:07",
+                    "end": "00:33",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/business-show.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Caffe Startup",
+                    "start": "00:33",
+                    "end": "01:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/caffe-startup.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Prometeo",
+                    "start": "01:00",
+                    "end": "01:05",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/prometeo.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Rinascimento Digitale",
+                    "start": "01:05",
+                    "end": "01:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Expo Ferroviaria",
+                    "start": "01:30",
+                    "end": "02:08",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/expo-ferroviaria.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Il Festival dell economia",
+                    "start": "02:08",
+                    "end": "02:57",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/VALUE-24-TV/il-festival-dell-economia.webp",
+                    "category": "Intrattenimento"
+                }
+            ]
+        }
+    ]
+}
