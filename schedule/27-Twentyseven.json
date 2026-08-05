@@ -1,1 +1,383 @@
-{"channel_name":"27 Twentyseven","days":[{"date":"2026-08-05","programs":[{"name":"Heart Of The Sea Le Origini Di Moby Dick","start":"00:00","end":"01:31","category":"Azione"},{"name":"Miami Vice","start":"01:31","end":"02:18","episode":"S2 E9"},{"name":"Miami Vice","start":"02:18","end":"03:04","episode":"S2 E10"},{"name":"Nonno Felice","start":"03:04","end":"03:27","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009042701001601/media/5/5/2785c3cf-5fca-458a-abcf-ab0c26887181/de6b2eaa-0610-49e4-8467-211342749349.jpg","episode":"S2 E16","category":"Sit-Com"},{"name":"Casa Dolce Casa","start":"03:27","end":"03:48","episode":"S3 E5"},{"name":"Casa Dolce Casa","start":"03:48","end":"04:10","episode":"S3 E6"},{"name":"Codice Rosso","start":"04:10","end":"06:00","episode":"S1 E5"},{"name":"Camera Cafe'","start":"06:00","end":"06:35","episode":"S1 E48"},{"name":"Camera Cafe'","start":"06:35","end":"06:43","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303843107003601/media/0/0/e6c6ff7d-4a09-4b48-a397-a75679f2efc8/66a10ff5-e632-4907-8843-d6ad49495b97.jpg","episode":"S1 E36","category":"Sit-Com"},{"name":"Agenzia Rockford","start":"06:43","end":"07:30","episode":"S4 E18"},{"name":"Miami Vice","start":"07:30","end":"08:22","episode":"S2 E11"},{"name":"Miami Vice","start":"08:22","end":"09:26","episode":"S2 E12"},{"name":"La Casa Nella Prateria","start":"09:26","end":"10:28","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"10:28","end":"11:24","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"11:24","end":"12:26","category":"Commedia"},{"name":"La Signora Del West","start":"12:26","end":"13:23","episode":"S5 E8"},{"name":"La Signora Del West","start":"13:23","end":"14:20","episode":"S5 E9"},{"name":"La Signora Del West","start":"14:20","end":"15:17","episode":"S5 E10"},{"name":"La Casa Nella Prateria","start":"15:17","end":"16:17","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"16:17","end":"17:18","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"17:18","end":"18:19","category":"Commedia"},{"name":"La Signora Del West","start":"18:19","end":"19:16","episode":"S5 E11"},{"name":"La Signora Del West","start":"19:16","end":"20:16","episode":"S5 E12"},{"name":"La Signora Del West","start":"20:16","end":"21:19","episode":"S5 E13"},{"name":"La Storia Infinita 2","start":"21:19","end":"23:12","category":"Fantastico/Favolistico"},{"name":"Chips","start":"23:12","end":"01:08","category":"Azione"}]},{"date":"2026-08-06","programs":[{"name":"Chips","start":"00:00","end":"01:08","category":"Azione"},{"name":"Miami Vice","start":"01:08","end":"02:00","episode":"S2 E11"},{"name":"Miami Vice","start":"02:00","end":"02:47","episode":"S2 E12"},{"name":"Nonno Felice","start":"02:47","end":"03:12","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009042701001701/media/5/5/2785c3cf-5fca-458a-abcf-ab0c26887181/de6b2eaa-0610-49e4-8467-211342749349.jpg","episode":"S2 E17","category":"Sit-Com"},{"name":"Casa Dolce Casa","start":"03:12","end":"03:35","episode":"S3 E7"},{"name":"Casa Dolce Casa","start":"03:35","end":"03:58","episode":"S3 E8"},{"name":"Codice Rosso","start":"03:58","end":"05:41","episode":"S1 E6"},{"name":"Camera Cafe'","start":"05:41","end":"06:25","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012852804000601/media/7/7/096f279c-b65b-47eb-85ca-cc5d44a5e04c/9db48595-0e2c-448c-b4e0-c3393923558e.jpg","episode":"S5 E6","category":"Sit-Com"},{"name":"Agenzia Rockford","start":"06:25","end":"07:22","episode":"S4 E18"},{"name":"Agenzia Rockford","start":"07:22","end":"08:19","episode":"S4 E19"},{"name":"Miami Vice","start":"08:19","end":"09:01","episode":"S2 E13"},{"name":"Miami Vice","start":"09:01","end":"09:43","episode":"S2 E14"},{"name":"La Casa Nella Prateria","start":"09:43","end":"10:41","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"10:41","end":"11:40","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"11:40","end":"12:38","category":"Commedia"},{"name":"La Signora Del West","start":"12:38","end":"13:36","episode":"S5 E11"},{"name":"La Signora Del West","start":"13:36","end":"14:34","episode":"S5 E12"},{"name":"La Signora Del West","start":"14:34","end":"15:32","episode":"S5 E13"},{"name":"La Casa Nella Prateria","start":"15:32","end":"16:30","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"16:30","end":"17:28","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"17:28","end":"18:26","category":"Commedia"},{"name":"La Signora Del West","start":"18:26","end":"19:31","episode":"S5 E14"},{"name":"La Signora Del West","start":"19:31","end":"20:23","episode":"S5 E15"},{"name":"La Signora Del West","start":"20:23","end":"21:10","episode":"S5 E16"},{"name":"Magic In The Moonlight","start":"21:10","end":"23:02","category":"Commedia"},{"name":"La Storia Infinita 2","start":"23:02","end":"00:54","category":"Fantastico/Favolistico"}]}]}
+{
+    "channel_name": "27 Twentyseven",
+    "days": [
+        {
+            "date": "2026-08-05",
+            "programs": [
+                {
+                    "name": "Heart Of The Sea Le Origini Di Moby Dick",
+                    "start": "00:00",
+                    "end": "01:31",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "01:31",
+                    "end": "02:18",
+                    "episode": "S2 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "02:18",
+                    "end": "03:04",
+                    "episode": "S2 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nonno Felice",
+                    "start": "03:04",
+                    "end": "03:27",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/nonno-felice.webp",
+                    "episode": "S2 E16",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Casa Dolce Casa",
+                    "start": "03:27",
+                    "end": "03:48",
+                    "episode": "S3 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa Dolce Casa",
+                    "start": "03:48",
+                    "end": "04:10",
+                    "episode": "S3 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Codice Rosso",
+                    "start": "04:10",
+                    "end": "06:00",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "06:00",
+                    "end": "06:35",
+                    "episode": "S1 E48",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "06:35",
+                    "end": "06:43",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp",
+                    "episode": "S1 E36",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Agenzia Rockford",
+                    "start": "06:43",
+                    "end": "07:30",
+                    "episode": "S4 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "07:30",
+                    "end": "08:22",
+                    "episode": "S2 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "08:22",
+                    "end": "09:26",
+                    "episode": "S2 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "09:26",
+                    "end": "10:28",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "10:28",
+                    "end": "11:24",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "11:24",
+                    "end": "12:26",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "12:26",
+                    "end": "13:23",
+                    "episode": "S5 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "13:23",
+                    "end": "14:20",
+                    "episode": "S5 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "14:20",
+                    "end": "15:17",
+                    "episode": "S5 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "15:17",
+                    "end": "16:17",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "16:17",
+                    "end": "17:18",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "17:18",
+                    "end": "18:19",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "18:19",
+                    "end": "19:16",
+                    "episode": "S5 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "19:16",
+                    "end": "20:16",
+                    "episode": "S5 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "20:16",
+                    "end": "21:19",
+                    "episode": "S5 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Storia Infinita 2",
+                    "start": "21:19",
+                    "end": "23:12",
+                    "category": "Fantastico/Favolistico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chips",
+                    "start": "23:12",
+                    "end": "01:08",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-08-06",
+            "programs": [
+                {
+                    "name": "Chips",
+                    "start": "00:00",
+                    "end": "01:08",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "01:08",
+                    "end": "02:00",
+                    "episode": "S2 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "02:00",
+                    "end": "02:47",
+                    "episode": "S2 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nonno Felice",
+                    "start": "02:47",
+                    "end": "03:12",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/nonno-felice.webp",
+                    "episode": "S2 E17",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Casa Dolce Casa",
+                    "start": "03:12",
+                    "end": "03:35",
+                    "episode": "S3 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Casa Dolce Casa",
+                    "start": "03:35",
+                    "end": "03:58",
+                    "episode": "S3 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Codice Rosso",
+                    "start": "03:58",
+                    "end": "05:41",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "05:41",
+                    "end": "06:25",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp",
+                    "episode": "S5 E6",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Agenzia Rockford",
+                    "start": "06:25",
+                    "end": "07:22",
+                    "episode": "S4 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Agenzia Rockford",
+                    "start": "07:22",
+                    "end": "08:19",
+                    "episode": "S4 E19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "08:19",
+                    "end": "09:01",
+                    "episode": "S2 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miami Vice",
+                    "start": "09:01",
+                    "end": "09:43",
+                    "episode": "S2 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "09:43",
+                    "end": "10:41",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "10:41",
+                    "end": "11:40",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "11:40",
+                    "end": "12:38",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "12:38",
+                    "end": "13:36",
+                    "episode": "S5 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "13:36",
+                    "end": "14:34",
+                    "episode": "S5 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "14:34",
+                    "end": "15:32",
+                    "episode": "S5 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "15:32",
+                    "end": "16:30",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "16:30",
+                    "end": "17:28",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "17:28",
+                    "end": "18:26",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "18:26",
+                    "end": "19:31",
+                    "episode": "S5 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "19:31",
+                    "end": "20:23",
+                    "episode": "S5 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "20:23",
+                    "end": "21:10",
+                    "episode": "S5 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Magic In The Moonlight",
+                    "start": "21:10",
+                    "end": "23:02",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Storia Infinita 2",
+                    "start": "23:02",
+                    "end": "00:54",
+                    "category": "Fantastico/Favolistico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
