@@ -1,1 +1,398 @@
-{"channel_name":"20","days":[{"date":"2026-08-08","programs":[{"name":"Overdrive","start":"00:00","end":"00:39","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F308184301000102/media/21/85/78ddc22e-56cf-4760-8975-6e70e583df55/14a56188-288d-4617-82b1-66886fdef917.jpg","category":"Azione"},{"name":"Chicago Med","start":"00:39","end":"01:19","episode":"S7 E12"},{"name":"Chicago Med","start":"01:19","end":"01:58","episode":"S7 E13"},{"name":"Superman & Lois","start":"01:58","end":"02:39","episode":"S3 E1","category":"Azione"},{"name":"Superman & Lois","start":"02:39","end":"03:19","episode":"S3 E2","category":"Azione"},{"name":"Show Reel","start":"03:19","end":"03:59"},{"name":"Roswell, New Mexico","start":"03:59","end":"04:39","episode":"S4 E7"},{"name":"Distretto Di Polizia","start":"04:39","end":"05:19","episode":"S6 E8"},{"name":"Distretto Di Polizia","start":"05:19","end":"06:00","episode":"S6 E9"},{"name":"Show Reel","start":"06:00","end":"06:30"},{"name":"Distretto Di Polizia","start":"06:30","end":"07:10","episode":"S6 E10"},{"name":"Roswell, New Mexico","start":"07:10","end":"07:50","episode":"S4 E8"},{"name":"Distretto Di Polizia","start":"07:50","end":"08:37","episode":"S6 E10"},{"name":"Legacies","start":"08:37","end":"09:26","episode":"S4 E17"},{"name":"Legacies","start":"09:26","end":"10:17","episode":"S4 E18"},{"name":"Legacies","start":"10:17","end":"11:08","episode":"S4 E19"},{"name":"Station 19","start":"11:08","end":"11:57","episode":"S5 E1"},{"name":"Station 19","start":"11:57","end":"12:49","episode":"S5 E2"},{"name":"Station 19","start":"12:49","end":"13:38","episode":"S5 E3"},{"name":"Station 19","start":"13:38","end":"14:30","episode":"S5 E4"},{"name":"Station 19","start":"14:30","end":"15:16","episode":"S5 E5"},{"name":"Station 19","start":"15:16","end":"16:07","episode":"S5 E6"},{"name":"Station 19","start":"16:07","end":"17:00","episode":"S5 E7"},{"name":"Station 19","start":"17:00","end":"17:50","episode":"S5 E8"},{"name":"Station 19","start":"17:50","end":"18:38","episode":"S5 E9"},{"name":"Van Helsing","start":"18:38","end":"21:08","category":"Fantastico/Favolistico"},{"name":"Smokin' Aces","start":"21:08","end":"23:15","category":"Azione"},{"name":"Beast","start":"23:15","end":"00:51","category":"Avventura"}]},{"date":"2026-08-09","programs":[{"name":"Beast","start":"00:00","end":"00:51","category":"Avventura"},{"name":"Van Helsing","start":"00:51","end":"02:54","category":"Fantastico/Favolistico"},{"name":"Show Reel","start":"02:54","end":"03:19"},{"name":"Roswell, New Mexico","start":"03:19","end":"03:59","episode":"S4 E8"},{"name":"Distretto Di Polizia","start":"03:59","end":"04:39","episode":"S6 E8"},{"name":"Distretto Di Polizia","start":"04:39","end":"05:19","episode":"S6 E9"},{"name":"Distretto Di Polizia","start":"05:19","end":"06:00","episode":"S6 E10"},{"name":"Show Reel","start":"06:00","end":"06:34"},{"name":"Distretto Di Polizia","start":"06:34","end":"07:14","episode":"S6 E11"},{"name":"Distretto Di Polizia","start":"07:14","end":"07:54","episode":"S6 E12"},{"name":"Distretto Di Polizia","start":"07:54","end":"08:39","episode":"S6 E13"},{"name":"Roswell, New Mexico","start":"08:39","end":"09:28","episode":"S4 E9"},{"name":"Roswell, New Mexico","start":"09:28","end":"10:15","episode":"S4 E10"},{"name":"Legacies","start":"10:15","end":"11:06","episode":"S4 E19"},{"name":"Legacies","start":"11:06","end":"11:55","episode":"S4 E20"},{"name":"Station 19","start":"11:55","end":"12:40","episode":"S5 E10"},{"name":"Station 19","start":"12:40","end":"13:31","episode":"S5 E11"},{"name":"Station 19","start":"13:31","end":"14:22","episode":"S5 E12"},{"name":"Station 19","start":"14:22","end":"15:11","episode":"S5 E13"},{"name":"Station 19","start":"15:11","end":"15:57","episode":"S5 E14"},{"name":"Station 19","start":"15:57","end":"16:50","episode":"S5 E15"},{"name":"Station 19","start":"16:50","end":"17:42","episode":"S5 E16"},{"name":"Station 19","start":"17:42","end":"18:29","episode":"S5 E17"},{"name":"Station 19","start":"18:29","end":"19:18","episode":"S5 E18"},{"name":"Precious Cargo","start":"19:18","end":"21:07","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F307924601000102/media/18/82/1e730f73-18aa-43fd-a923-e48267aa0333/5557533b-6e70-4b91-a82c-e7f650099d60.jpg","category":"Azione"},{"name":"La Fuga Dell'assassino","start":"21:07","end":"22:51","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309608201000102/media/6/6/0a04cb9a-bea9-423f-bea2-f140ed02790d/c0106c8d-612f-49ee-86fd-5c18ef314605.jpg","category":"Azione"},{"name":"Smokin' Aces","start":"22:51","end":"00:48","category":"Azione"}]}]}
+{
+    "channel_name": "20",
+    "days": [
+        {
+            "date": "2026-08-08",
+            "programs": [
+                {
+                    "name": "Overdrive",
+                    "start": "00:00",
+                    "end": "00:39",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/20/overdrive.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Chicago Med",
+                    "start": "00:39",
+                    "end": "01:19",
+                    "episode": "S7 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chicago Med",
+                    "start": "01:19",
+                    "end": "01:58",
+                    "episode": "S7 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Superman & Lois",
+                    "start": "01:58",
+                    "end": "02:39",
+                    "episode": "S3 E1",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Superman & Lois",
+                    "start": "02:39",
+                    "end": "03:19",
+                    "episode": "S3 E2",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Show Reel",
+                    "start": "03:19",
+                    "end": "03:59",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Roswell, New Mexico",
+                    "start": "03:59",
+                    "end": "04:39",
+                    "episode": "S4 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "04:39",
+                    "end": "05:19",
+                    "episode": "S6 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "05:19",
+                    "end": "06:00",
+                    "episode": "S6 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Show Reel",
+                    "start": "06:00",
+                    "end": "06:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "06:30",
+                    "end": "07:10",
+                    "episode": "S6 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Roswell, New Mexico",
+                    "start": "07:10",
+                    "end": "07:50",
+                    "episode": "S4 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "07:50",
+                    "end": "08:37",
+                    "episode": "S6 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Legacies",
+                    "start": "08:37",
+                    "end": "09:26",
+                    "episode": "S4 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Legacies",
+                    "start": "09:26",
+                    "end": "10:17",
+                    "episode": "S4 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Legacies",
+                    "start": "10:17",
+                    "end": "11:08",
+                    "episode": "S4 E19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "11:08",
+                    "end": "11:57",
+                    "episode": "S5 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "11:57",
+                    "end": "12:49",
+                    "episode": "S5 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "12:49",
+                    "end": "13:38",
+                    "episode": "S5 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "13:38",
+                    "end": "14:30",
+                    "episode": "S5 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "14:30",
+                    "end": "15:16",
+                    "episode": "S5 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "15:16",
+                    "end": "16:07",
+                    "episode": "S5 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "16:07",
+                    "end": "17:00",
+                    "episode": "S5 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "17:00",
+                    "end": "17:50",
+                    "episode": "S5 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "17:50",
+                    "end": "18:38",
+                    "episode": "S5 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Van Helsing",
+                    "start": "18:38",
+                    "end": "21:08",
+                    "category": "Fantastico/Favolistico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Smokin' Aces",
+                    "start": "21:08",
+                    "end": "23:15",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Beast",
+                    "start": "23:15",
+                    "end": "00:51",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-08-09",
+            "programs": [
+                {
+                    "name": "Beast",
+                    "start": "00:00",
+                    "end": "00:51",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Van Helsing",
+                    "start": "00:51",
+                    "end": "02:54",
+                    "category": "Fantastico/Favolistico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Show Reel",
+                    "start": "02:54",
+                    "end": "03:19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Roswell, New Mexico",
+                    "start": "03:19",
+                    "end": "03:59",
+                    "episode": "S4 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "03:59",
+                    "end": "04:39",
+                    "episode": "S6 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "04:39",
+                    "end": "05:19",
+                    "episode": "S6 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "05:19",
+                    "end": "06:00",
+                    "episode": "S6 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Show Reel",
+                    "start": "06:00",
+                    "end": "06:34",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "06:34",
+                    "end": "07:14",
+                    "episode": "S6 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "07:14",
+                    "end": "07:54",
+                    "episode": "S6 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "07:54",
+                    "end": "08:39",
+                    "episode": "S6 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Roswell, New Mexico",
+                    "start": "08:39",
+                    "end": "09:28",
+                    "episode": "S4 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Roswell, New Mexico",
+                    "start": "09:28",
+                    "end": "10:15",
+                    "episode": "S4 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Legacies",
+                    "start": "10:15",
+                    "end": "11:06",
+                    "episode": "S4 E19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Legacies",
+                    "start": "11:06",
+                    "end": "11:55",
+                    "episode": "S4 E20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "11:55",
+                    "end": "12:40",
+                    "episode": "S5 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "12:40",
+                    "end": "13:31",
+                    "episode": "S5 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "13:31",
+                    "end": "14:22",
+                    "episode": "S5 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "14:22",
+                    "end": "15:11",
+                    "episode": "S5 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "15:11",
+                    "end": "15:57",
+                    "episode": "S5 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "15:57",
+                    "end": "16:50",
+                    "episode": "S5 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "16:50",
+                    "end": "17:42",
+                    "episode": "S5 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "17:42",
+                    "end": "18:29",
+                    "episode": "S5 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Station 19",
+                    "start": "18:29",
+                    "end": "19:18",
+                    "episode": "S5 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Precious Cargo",
+                    "start": "19:18",
+                    "end": "21:07",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/20/precious-cargo.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "La Fuga Dell'assassino",
+                    "start": "21:07",
+                    "end": "22:51",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/20/la-fuga-dell-assassino.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Smokin' Aces",
+                    "start": "22:51",
+                    "end": "00:48",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}

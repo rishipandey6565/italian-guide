@@ -1,1 +1,337 @@
-{"channel_name":"Giallo TV","days":[{"date":"2026-08-08","programs":[{"name":"Soko Kitzbuhel - Misteri tra le montagne","start":"00:00","end":"00:00","episode":"S7 E4"},{"name":"Crociera con delitto","start":"00:00","end":"01:00","episode":"S1 E5"},{"name":"Crociera con delitto","start":"01:00","end":"01:55","episode":"S1 E6"},{"name":"I misteri di Murdoch","start":"01:55","end":"02:55","episode":"S6 E2"},{"name":"Quattro donne e un funerale","start":"02:55","end":"03:55","episode":"S8 E3"},{"name":"Quattro donne e un funerale","start":"03:55","end":"04:45","episode":"S8 E4"},{"name":"Nightmare Next Door","start":"04:45","end":"05:35","episode":"S3 E11"},{"name":"So chi mi ha ucciso","start":"05:35","end":"06:00","episode":"S3 E8"},{"name":"So chi mi ha ucciso","start":"06:00","end":"06:20","episode":"S3 E4"},{"name":"Disappeared","start":"06:20","end":"07:10","episode":"S5 E8"},{"name":"Disappeared","start":"07:10","end":"08:05","episode":"S5 E9"},{"name":"I Pennac - Indagini in famiglia","start":"08:05","end":"09:05","episode":"S1 E1"},{"name":"I Pennac - Indagini in famiglia","start":"09:05","end":"10:10","episode":"S1 E2"},{"name":"Soko Kitzbuhel - Misteri tra le montagne","start":"10:10","end":"11:05","episode":"S7 E2"},{"name":"Soko Kitzbuhel - Misteri tra le montagne","start":"11:05","end":"12:05","episode":"S7 E3"},{"name":"Soko Kitzbuhel - Misteri tra le montagne","start":"12:05","end":"13:05","episode":"S7 E4"},{"name":"I misteri di Brokenwood","start":"13:05","end":"15:10","episode":"S4 E1"},{"name":"The Chelsea Detective","start":"15:10","end":"16:55","episode":"S3 E3"},{"name":"L'ispettore Barnaby","start":"16:55","end":"19:05","episode":"S1 E1"},{"name":"L'ispettore Barnaby","start":"19:05","end":"21:10","episode":"S5 E2"},{"name":"Miss Fisher: delitti e misteri","start":"21:10","end":"22:20","episode":"S2 E2"},{"name":"Miss Fisher: delitti e misteri","start":"22:20","end":"23:30","episode":"S2 E3"},{"name":"Soko Kitzbuhel - Misteri tra le montagne","start":"23:30","end":"00:00","episode":"S7 E2"}]},{"date":"2026-08-09","programs":[{"name":"Soko Kitzbuhel - Misteri tra le montagne","start":"00:00","end":"00:00","episode":"S7 E2"},{"name":"Soko Kitzbuhel - Misteri tra le montagne","start":"00:00","end":"00:25","episode":"S7 E2"},{"name":"Soko Kitzbuhel - Misteri tra le montagne","start":"00:25","end":"01:20","episode":"S7 E3"},{"name":"Soko Kitzbuhel - Misteri tra le montagne","start":"01:20","end":"02:20","episode":"S7 E4"},{"name":"Tandem","start":"02:20","end":"03:20","episode":"S7 E5"},{"name":"Tandem","start":"03:20","end":"04:20","episode":"S7 E6"},{"name":"Disappeared","start":"04:20","end":"05:10","episode":"S5 E8"},{"name":"Disappeared","start":"05:10","end":"06:00","episode":"S5 E9"},{"name":"So chi mi ha ucciso","start":"06:00","end":"06:25","episode":"S3 E2"},{"name":"Disappeared","start":"06:25","end":"07:15","episode":"S5 E10"},{"name":"Disappeared","start":"07:15","end":"08:15","episode":"S5 E11"},{"name":"Disappeared","start":"08:15","end":"09:15","episode":"S5 E12"},{"name":"I Pennac - Indagini in famiglia","start":"09:15","end":"10:20","episode":"S1 E3"},{"name":"I Pennac - Indagini in famiglia","start":"10:20","end":"11:25","episode":"S1 E4"},{"name":"Quattro donne e un funerale","start":"11:25","end":"12:25","episode":"S1 E9"},{"name":"Quattro donne e un funerale","start":"12:25","end":"13:30","episode":"S1 E10"},{"name":"Crociera con delitto","start":"13:30","end":"14:25","episode":"S1 E5"},{"name":"Crociera con delitto","start":"14:25","end":"15:25","episode":"S1 E6"},{"name":"Vera","start":"15:25","end":"17:20","episode":"S3 E2"},{"name":"McDonald & Dodds","start":"17:20","end":"19:05","episode":"S3 E3"},{"name":"L'ispettore Barnaby","start":"19:05","end":"21:10","episode":"S5 E3"},{"name":"Vera","start":"21:10","end":"22:55","episode":"S3 E3"},{"name":"I misteri di Brokenwood","start":"22:55","end":"00:00","episode":"S4 E4"}]}]}
+{
+    "channel_name": "Giallo TV",
+    "days": [
+        {
+            "date": "2026-08-08",
+            "programs": [
+                {
+                    "name": "Soko Kitzbuhel - Misteri tra le montagne",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S7 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Crociera con delitto",
+                    "start": "00:00",
+                    "end": "01:00",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Crociera con delitto",
+                    "start": "01:00",
+                    "end": "01:55",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "01:55",
+                    "end": "02:55",
+                    "episode": "S6 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Quattro donne e un funerale",
+                    "start": "02:55",
+                    "end": "03:55",
+                    "episode": "S8 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Quattro donne e un funerale",
+                    "start": "03:55",
+                    "end": "04:45",
+                    "episode": "S8 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nightmare Next Door",
+                    "start": "04:45",
+                    "end": "05:35",
+                    "episode": "S3 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "So chi mi ha ucciso",
+                    "start": "05:35",
+                    "end": "06:00",
+                    "episode": "S3 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "So chi mi ha ucciso",
+                    "start": "06:00",
+                    "end": "06:20",
+                    "episode": "S3 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "06:20",
+                    "end": "07:10",
+                    "episode": "S5 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "07:10",
+                    "end": "08:05",
+                    "episode": "S5 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I Pennac - Indagini in famiglia",
+                    "start": "08:05",
+                    "end": "09:05",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I Pennac - Indagini in famiglia",
+                    "start": "09:05",
+                    "end": "10:10",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Soko Kitzbuhel - Misteri tra le montagne",
+                    "start": "10:10",
+                    "end": "11:05",
+                    "episode": "S7 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Soko Kitzbuhel - Misteri tra le montagne",
+                    "start": "11:05",
+                    "end": "12:05",
+                    "episode": "S7 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Soko Kitzbuhel - Misteri tra le montagne",
+                    "start": "12:05",
+                    "end": "13:05",
+                    "episode": "S7 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "13:05",
+                    "end": "15:10",
+                    "episode": "S4 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Chelsea Detective",
+                    "start": "15:10",
+                    "end": "16:55",
+                    "episode": "S3 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "16:55",
+                    "end": "19:05",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "19:05",
+                    "end": "21:10",
+                    "episode": "S5 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miss Fisher: delitti e misteri",
+                    "start": "21:10",
+                    "end": "22:20",
+                    "episode": "S2 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miss Fisher: delitti e misteri",
+                    "start": "22:20",
+                    "end": "23:30",
+                    "episode": "S2 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Soko Kitzbuhel - Misteri tra le montagne",
+                    "start": "23:30",
+                    "end": "00:00",
+                    "episode": "S7 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-08-09",
+            "programs": [
+                {
+                    "name": "Soko Kitzbuhel - Misteri tra le montagne",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S7 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Soko Kitzbuhel - Misteri tra le montagne",
+                    "start": "00:00",
+                    "end": "00:25",
+                    "episode": "S7 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Soko Kitzbuhel - Misteri tra le montagne",
+                    "start": "00:25",
+                    "end": "01:20",
+                    "episode": "S7 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Soko Kitzbuhel - Misteri tra le montagne",
+                    "start": "01:20",
+                    "end": "02:20",
+                    "episode": "S7 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tandem",
+                    "start": "02:20",
+                    "end": "03:20",
+                    "episode": "S7 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tandem",
+                    "start": "03:20",
+                    "end": "04:20",
+                    "episode": "S7 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "04:20",
+                    "end": "05:10",
+                    "episode": "S5 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "05:10",
+                    "end": "06:00",
+                    "episode": "S5 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "So chi mi ha ucciso",
+                    "start": "06:00",
+                    "end": "06:25",
+                    "episode": "S3 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "06:25",
+                    "end": "07:15",
+                    "episode": "S5 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "07:15",
+                    "end": "08:15",
+                    "episode": "S5 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "08:15",
+                    "end": "09:15",
+                    "episode": "S5 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I Pennac - Indagini in famiglia",
+                    "start": "09:15",
+                    "end": "10:20",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I Pennac - Indagini in famiglia",
+                    "start": "10:20",
+                    "end": "11:25",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Quattro donne e un funerale",
+                    "start": "11:25",
+                    "end": "12:25",
+                    "episode": "S1 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Quattro donne e un funerale",
+                    "start": "12:25",
+                    "end": "13:30",
+                    "episode": "S1 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Crociera con delitto",
+                    "start": "13:30",
+                    "end": "14:25",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Crociera con delitto",
+                    "start": "14:25",
+                    "end": "15:25",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Vera",
+                    "start": "15:25",
+                    "end": "17:20",
+                    "episode": "S3 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "McDonald & Dodds",
+                    "start": "17:20",
+                    "end": "19:05",
+                    "episode": "S3 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "19:05",
+                    "end": "21:10",
+                    "episode": "S5 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Vera",
+                    "start": "21:10",
+                    "end": "22:55",
+                    "episode": "S3 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "22:55",
+                    "end": "00:00",
+                    "episode": "S4 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
