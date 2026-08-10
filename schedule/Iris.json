@@ -1,1 +1,230 @@
-{"channel_name":"Iris","days":[{"date":"2026-08-10","programs":[{"name":"Agents Secrets","start":"00:00","end":"01:45","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011466401000102/media/1/1/e9d09a52-3945-47df-8a84-b413bbebe8db/eb8d6665-6acd-407c-992c-7c8f865f3a4b.jpg","category":"Thriller"},{"name":"Scent Of A Woman Profumo Di Donna","start":"01:45","end":"04:16","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F005496001000103/media/22/86/e836fb82-c872-4e1c-a94d-c4be139fd290/70faa297-29d0-4bcd-9b20-2bf71740f6f6.jpg","category":"Drammatico"},{"name":"Ancora Vivo","start":"04:16","end":"05:51","category":"Drammatico"},{"name":"Note Di Cinema","start":"05:51","end":"06:00"},{"name":"Finche' C'e' Ditta C'e' Speranza","start":"06:00","end":"06:36","episode":"S2 E16"},{"name":"Kojak","start":"06:36","end":"07:23","episode":"S3 E14"},{"name":"Walker Texas Ranger","start":"07:23","end":"08:17","episode":"S3 E2"},{"name":"Ray Master L'inafferrabile","start":"08:17","end":"10:14","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F003692901000101/media/14/14/ef78de0f-f6f7-46fd-9ce2-68b3865f2aea/027a6f44-de72-413c-8442-c721af69586a.jpg","category":"Drammatico"},{"name":"L'ultima Missione","start":"10:14","end":"12:50","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012997101000105/media/17/81/003c074c-acb0-439f-995c-66b0c7910788/67e5c7b8-ff46-4f87-9ffc-5b52c300cf23.jpg","category":"Thriller"},{"name":"Il Tiranno Banderas","start":"12:50","end":"14:47","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F006366101000101/media/13/13/f09c5249-cbf5-41ec-a3f7-916ead868603/c42a1010-f456-4694-8e58-911be47f3acb.jpg","category":"Drammatico"},{"name":"Frammenti Dal Passato Reminiscence","start":"14:47","end":"17:11","category":"Mistery"},{"name":"Confine A Nord","start":"17:11","end":"19:14","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309611001000102/media/11/11/4a7fe529-84f4-421a-918d-136381b48ec3/59092868-b124-4659-b6fe-9080b8ff9b1c.jpg","category":"Drammatico"},{"name":"Kojak","start":"19:14","end":"20:10","episode":"S3 E14"},{"name":"Walker Texas Ranger","start":"20:10","end":"21:13","episode":"S3 E2"},{"name":"The Burning Plain Il Confine Della Solitudine","start":"21:13","end":"23:18","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F300584001000103/images/Mediaset_Italia_Production_-_Main/798/232/F300584001000103-2-header-poster-320x260.jpg","category":"Drammatico"},{"name":"Madres Paralelas","start":"23:18","end":"01:32","category":"Drammatico"}]},{"date":"2026-08-11","programs":[{"name":"Madres Paralelas","start":"00:00","end":"01:32","category":"Drammatico"},{"name":"Note Di Cinema","start":"01:32","end":"01:42"},{"name":"Frammenti Dal Passato Reminiscence","start":"01:42","end":"03:33","category":"Mistery"},{"name":"Confine A Nord","start":"03:33","end":"05:13","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309611001000102/media/11/11/4a7fe529-84f4-421a-918d-136381b48ec3/59092868-b124-4659-b6fe-9080b8ff9b1c.jpg","category":"Drammatico"},{"name":"Cenerentola","start":"05:13","end":"06:13","category":"Commedia"},{"name":"Kojak","start":"06:13","end":"07:02","episode":"S3 E15"},{"name":"Walker Texas Ranger","start":"07:02","end":"07:45","episode":"S3 E3"},{"name":"The Burning Plain Il Confine Della Solitudine","start":"07:45","end":"10:37","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F300584001000103/images/Mediaset_Italia_Production_-_Main/798/232/F300584001000103-2-header-poster-320x260.jpg","category":"Drammatico"},{"name":"Gli Intrighi Del Potere Nixon","start":"10:37","end":"14:17","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F007019201000103/media/5/5/f04ecdbb-9ba7-4c52-89ea-21f861ae25c5/cad366fd-5260-42b0-a9a5-687ee355639a.jpg","category":"Drammatico"},{"name":"Agents Secrets","start":"14:17","end":"16:39","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011466401000102/media/1/1/e9d09a52-3945-47df-8a84-b413bbebe8db/eb8d6665-6acd-407c-992c-7c8f865f3a4b.jpg","category":"Thriller"},{"name":"Michael Clayton","start":"16:39","end":"19:11","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012167701000102/media/3/3/4ff0ec12-8668-47a2-834c-15f1d75693db/283af084-52fb-48b8-ba6d-100dbf3b6b91.jpg","category":"Thriller"},{"name":"Kojak","start":"19:11","end":"20:11","episode":"S3 E15"},{"name":"Walker Texas Ranger","start":"20:11","end":"21:13","episode":"S3 E3"},{"name":"Lo Sperone Insanguinato","start":"21:13","end":"23:06","category":"Western"},{"name":"Quel Maledetto Colpo Al Rio Grande Express","start":"23:06","end":"01:01","category":"Western"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-08-10",
+            "programs": [
+                {
+                    "name": "Agents Secrets",
+                    "start": "00:00",
+                    "end": "01:45",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/agents-secrets.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Scent Of A Woman Profumo Di Donna",
+                    "start": "01:45",
+                    "end": "04:16",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/scent-of-a-woman-profumo-di-donna.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Ancora Vivo",
+                    "start": "04:16",
+                    "end": "05:51",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "05:51",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Finche' C'e' Ditta C'e' Speranza",
+                    "start": "06:00",
+                    "end": "06:36",
+                    "episode": "S2 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:36",
+                    "end": "07:23",
+                    "episode": "S3 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:23",
+                    "end": "08:17",
+                    "episode": "S3 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Ray Master L'inafferrabile",
+                    "start": "08:17",
+                    "end": "10:14",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/ray-master-l-inafferrabile.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "L'ultima Missione",
+                    "start": "10:14",
+                    "end": "12:50",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/l-ultima-missione.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Il Tiranno Banderas",
+                    "start": "12:50",
+                    "end": "14:47",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/il-tiranno-banderas.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Frammenti Dal Passato Reminiscence",
+                    "start": "14:47",
+                    "end": "17:11",
+                    "category": "Mistery",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Confine A Nord",
+                    "start": "17:11",
+                    "end": "19:14",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/confine-a-nord.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:14",
+                    "end": "20:10",
+                    "episode": "S3 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:10",
+                    "end": "21:13",
+                    "episode": "S3 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Burning Plain Il Confine Della Solitudine",
+                    "start": "21:13",
+                    "end": "23:18",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/the-burning-plain-il-confine-della-solitudine.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Madres Paralelas",
+                    "start": "23:18",
+                    "end": "01:32",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-08-11",
+            "programs": [
+                {
+                    "name": "Madres Paralelas",
+                    "start": "00:00",
+                    "end": "01:32",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "01:32",
+                    "end": "01:42",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Frammenti Dal Passato Reminiscence",
+                    "start": "01:42",
+                    "end": "03:33",
+                    "category": "Mistery",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Confine A Nord",
+                    "start": "03:33",
+                    "end": "05:13",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/confine-a-nord.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Cenerentola",
+                    "start": "05:13",
+                    "end": "06:13",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:13",
+                    "end": "07:02",
+                    "episode": "S3 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:02",
+                    "end": "07:45",
+                    "episode": "S3 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Burning Plain Il Confine Della Solitudine",
+                    "start": "07:45",
+                    "end": "10:37",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/the-burning-plain-il-confine-della-solitudine.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Gli Intrighi Del Potere Nixon",
+                    "start": "10:37",
+                    "end": "14:17",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/gli-intrighi-del-potere-nixon.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Agents Secrets",
+                    "start": "14:17",
+                    "end": "16:39",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/agents-secrets.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Michael Clayton",
+                    "start": "16:39",
+                    "end": "19:11",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/michael-clayton.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:11",
+                    "end": "20:11",
+                    "episode": "S3 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:11",
+                    "end": "21:13",
+                    "episode": "S3 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Lo Sperone Insanguinato",
+                    "start": "21:13",
+                    "end": "23:06",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Quel Maledetto Colpo Al Rio Grande Express",
+                    "start": "23:06",
+                    "end": "01:01",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
