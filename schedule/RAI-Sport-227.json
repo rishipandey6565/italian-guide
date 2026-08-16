@@ -1,1 +1,197 @@
-{"channel_name":"RAI Sport   227","days":[{"date":"2026-08-17","programs":[{"name":"Europei di Atletica - Stag. 2026 - 7a giornata: sessione serale (terza parte)","start":"00:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Ginnastica Ritmica","start":"00:00","end":"03:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"European Aquatics Championships","start":"03:00","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"La Nuova DS - Stag. 2026 - DS Calcio Mercato - Puntata del 16/08/2026","start":"06:00","end":"07:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Europei di Atletica","start":"07:00","end":"09:10","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Europei di Atletica","start":"09:10","end":"11:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Ginnastica Ritmica","start":"11:00","end":"16:05","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Ginnastica Artistica","start":"16:05","end":"17:55","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"European Aquatics Championships","start":"17:55","end":"19:30","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Ciclismo","start":"19:30","end":"20:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Sci Nautico","start":"20:00","end":"20:35","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Atletica","start":"20:35","end":"21:05","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Ginnastica Ritmica","start":"21:05","end":"02:30","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"}]},{"date":"2026-08-18","programs":[{"name":"Ginnastica Ritmica","start":"00:00","end":"02:30","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Ginnastica Artistica","start":"02:30","end":"04:20","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Europei di Atletica","start":"04:20","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Mondiale Motocross","start":"06:00","end":"07:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Mondiale Motocross","start":"07:00","end":"08:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"European Aquatics Championships","start":"08:00","end":"10:05","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"European Aquatics Championships","start":"10:05","end":"12:35","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Ciclismo","start":"12:35","end":"13:05","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Sci Nautico","start":"13:05","end":"13:35","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Ginnastica Artistica","start":"13:35","end":"15:20","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Calcio","start":"15:20","end":"17:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Ginnastica Ritmica","start":"17:00","end":"23:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"European Aquatics Championships","start":"23:00","end":"00:45","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"}]}]}
+{
+    "channel_name": "RAI Sport   227",
+    "days": [
+        {
+            "date": "2026-08-17",
+            "programs": [
+                {
+                    "name": "Europei di Atletica - Stag. 2026 - 7a giornata: sessione serale (terza parte)",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Ginnastica Ritmica",
+                    "start": "00:00",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "European Aquatics Championships",
+                    "start": "03:00",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "La Nuova DS - Stag. 2026 - DS Calcio Mercato - Puntata del 16/08/2026",
+                    "start": "06:00",
+                    "end": "07:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Europei di Atletica",
+                    "start": "07:00",
+                    "end": "09:10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Europei di Atletica",
+                    "start": "09:10",
+                    "end": "11:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Ginnastica Ritmica",
+                    "start": "11:00",
+                    "end": "16:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Ginnastica Artistica",
+                    "start": "16:05",
+                    "end": "17:55",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "European Aquatics Championships",
+                    "start": "17:55",
+                    "end": "19:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Ciclismo",
+                    "start": "19:30",
+                    "end": "20:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Sci Nautico",
+                    "start": "20:00",
+                    "end": "20:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Atletica",
+                    "start": "20:35",
+                    "end": "21:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Ginnastica Ritmica",
+                    "start": "21:05",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                }
+            ]
+        },
+        {
+            "date": "2026-08-18",
+            "programs": [
+                {
+                    "name": "Ginnastica Ritmica",
+                    "start": "00:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Ginnastica Artistica",
+                    "start": "02:30",
+                    "end": "04:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Europei di Atletica",
+                    "start": "04:20",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Mondiale Motocross",
+                    "start": "06:00",
+                    "end": "07:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Mondiale Motocross",
+                    "start": "07:00",
+                    "end": "08:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "European Aquatics Championships",
+                    "start": "08:00",
+                    "end": "10:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "European Aquatics Championships",
+                    "start": "10:05",
+                    "end": "12:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Ciclismo",
+                    "start": "12:35",
+                    "end": "13:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Sci Nautico",
+                    "start": "13:05",
+                    "end": "13:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Ginnastica Artistica",
+                    "start": "13:35",
+                    "end": "15:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Calcio",
+                    "start": "15:20",
+                    "end": "17:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Ginnastica Ritmica",
+                    "start": "17:00",
+                    "end": "23:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "European Aquatics Championships",
+                    "start": "23:00",
+                    "end": "00:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                }
+            ]
+        }
+    ]
+}
