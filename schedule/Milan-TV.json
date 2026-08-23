@@ -1,1 +1,17 @@
-{"channel_name":"Milan TV","days":[{"date":"2026-08-24","programs":[{"name":"Ac Milan - 2026/2027","start":"00:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"}]}]}
+{
+    "channel_name": "Milan TV",
+    "days": [
+        {
+            "date": "2026-08-24",
+            "programs": [
+                {
+                    "name": "Ac Milan - 2026/2027",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Milan-TV/ac-milan-2026-2027.webp",
+                    "category": "Informazione"
+                }
+            ]
+        }
+    ]
+}
