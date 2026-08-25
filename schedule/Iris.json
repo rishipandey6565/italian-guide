@@ -1,1 +1,218 @@
-{"channel_name":"Iris","days":[{"date":"2026-08-26","programs":[{"name":"L' Indiana Bianca","start":"00:00","end":"01:16","category":"Western"},{"name":"L'ultima Missione","start":"01:16","end":"03:19","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012997101000105/media/17/81/003c074c-acb0-439f-995c-66b0c7910788/67e5c7b8-ff46-4f87-9ffc-5b52c300cf23.jpg","category":"Thriller"},{"name":"Grace Di Monaco","start":"03:19","end":"04:54","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305633201000102/media/2/2/23cd6642-7167-4b22-ae94-f2d6c9364c2e/c31e8db1-41c0-4890-80fa-12ae82726df6.jpg","category":"Drammatico"},{"name":"Cresceranno I Carciofi A Mimongo","start":"04:54","end":"07:01","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F007586701000101/media/0/0/6bd2af45-cd10-46f5-9f98-369eaf61b6c2/15ebd1cd-3171-4348-b363-bd5ebedc8151.jpg","category":"Commedia"},{"name":"Kojak","start":"07:01","end":"07:49","episode":"S4 E2"},{"name":"Walker Texas Ranger","start":"07:49","end":"08:47","episode":"S3 E14"},{"name":"Secondo Ponzio Pilato","start":"08:47","end":"10:55","category":"Drammatico"},{"name":"I Quattro Del Texas","start":"10:55","end":"13:18","category":"Western"},{"name":"La Chiave Di Sara","start":"13:18","end":"15:24","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303678601000102/media/22/86/14679567-3acd-45d1-9095-e30b72ef3c51/0ab182fa-e3f8-4550-9b3c-c69639e5ee14.jpg","category":"Drammatico"},{"name":"L' Indiana Bianca","start":"15:24","end":"17:22","category":"Western"},{"name":"Sfida Nell'alta Sierra","start":"17:22","end":"19:15","category":"Western"},{"name":"Kojak","start":"19:15","end":"20:12","episode":"S4 E2"},{"name":"Walker Texas Ranger","start":"20:12","end":"21:12","episode":"S3 E14"},{"name":"Apocalypse Now","start":"21:12","end":"00:10","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000623601000106/media/0/0/0484ae96-152a-4045-9b20-6911966ac2f9/d368dd4b-c568-4040-80ea-0eb358442351.jpg","category":"Guerra"}]},{"date":"2026-08-27","programs":[{"name":"Apocalypse Now","start":"00:00","end":"00:10","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000623601000106/media/0/0/0484ae96-152a-4045-9b20-6911966ac2f9/d368dd4b-c568-4040-80ea-0eb358442351.jpg","category":"Guerra"},{"name":"L' Uomo Che Uccise Don Chisciotte","start":"00:10","end":"02:24","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309250501000102/media/22/86/ecdcf77d-dd30-4b07-8714-e9217202089b/4a222ba3-6f67-44ac-a60f-3e14b3a9907b.jpg","category":"Avventura"},{"name":"Quattro Amici E Un Matrimonio","start":"02:24","end":"04:01","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012829401000105/media/1/1/35715fa1-e34b-4541-b9dd-118e82d140ad/e33eb1a6-46fc-4d0e-859d-7a661a32809d.jpg","category":"Commedia"},{"name":"Sfida Nell'alta Sierra","start":"04:01","end":"05:32","category":"Western"},{"name":"Note Di Cinema","start":"05:32","end":"05:55","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334401003501/media/16/80/b431800d-3c5c-400e-a5fd-e8f0a6f6073c/12a8fb1a-1bcc-4dcb-b967-e4a16a286e7d.jpg","category":"Magazine"},{"name":"Kojak","start":"05:55","end":"06:43","episode":"S4 E3"},{"name":"Walker Texas Ranger","start":"06:43","end":"07:27","episode":"S3 E15"},{"name":"Apocalypse Now","start":"07:27","end":"11:02","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000623601000106/media/0/0/0484ae96-152a-4045-9b20-6911966ac2f9/d368dd4b-c568-4040-80ea-0eb358442351.jpg","category":"Guerra"},{"name":"L' Uomo Che Uccise Don Chisciotte","start":"11:02","end":"13:47","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309250501000102/media/22/86/ecdcf77d-dd30-4b07-8714-e9217202089b/4a222ba3-6f67-44ac-a60f-3e14b3a9907b.jpg","category":"Avventura"},{"name":"The Game Nessuna Regola","start":"13:47","end":"16:27","category":"Drammatico"},{"name":"Rapimento E Riscatto","start":"16:27","end":"19:14","category":"Azione"},{"name":"Kojak","start":"19:14","end":"20:13","episode":"S4 E3"},{"name":"Walker Texas Ranger","start":"20:13","end":"21:16","episode":"S3 E15"},{"name":"Passenger 57 Terrore Ad Alta Quota","start":"21:16","end":"23:08","category":"Drammatico"},{"name":"All Is Lost Tutto E' Perduto","start":"23:08","end":"01:19","category":"Azione"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-08-26",
+            "programs": [
+                {
+                    "name": "L' Indiana Bianca",
+                    "start": "00:00",
+                    "end": "01:16",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ultima Missione",
+                    "start": "01:16",
+                    "end": "03:19",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/l-ultima-missione.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Grace Di Monaco",
+                    "start": "03:19",
+                    "end": "04:54",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/grace-di-monaco.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Cresceranno I Carciofi A Mimongo",
+                    "start": "04:54",
+                    "end": "07:01",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/cresceranno-i-carciofi-a-mimongo.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "07:01",
+                    "end": "07:49",
+                    "episode": "S4 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:49",
+                    "end": "08:47",
+                    "episode": "S3 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Secondo Ponzio Pilato",
+                    "start": "08:47",
+                    "end": "10:55",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I Quattro Del Texas",
+                    "start": "10:55",
+                    "end": "13:18",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Chiave Di Sara",
+                    "start": "13:18",
+                    "end": "15:24",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-chiave-di-sara.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "L' Indiana Bianca",
+                    "start": "15:24",
+                    "end": "17:22",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sfida Nell'alta Sierra",
+                    "start": "17:22",
+                    "end": "19:15",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:15",
+                    "end": "20:12",
+                    "episode": "S4 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:12",
+                    "end": "21:12",
+                    "episode": "S3 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Apocalypse Now",
+                    "start": "21:12",
+                    "end": "00:10",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/apocalypse-now.webp",
+                    "category": "Guerra"
+                }
+            ]
+        },
+        {
+            "date": "2026-08-27",
+            "programs": [
+                {
+                    "name": "Apocalypse Now",
+                    "start": "00:00",
+                    "end": "00:10",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/apocalypse-now.webp",
+                    "category": "Guerra"
+                },
+                {
+                    "name": "L' Uomo Che Uccise Don Chisciotte",
+                    "start": "00:10",
+                    "end": "02:24",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/l-uomo-che-uccise-don-chisciotte.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Quattro Amici E Un Matrimonio",
+                    "start": "02:24",
+                    "end": "04:01",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/quattro-amici-e-un-matrimonio.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "Sfida Nell'alta Sierra",
+                    "start": "04:01",
+                    "end": "05:32",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "05:32",
+                    "end": "05:55",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/note-di-cinema.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "05:55",
+                    "end": "06:43",
+                    "episode": "S4 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "06:43",
+                    "end": "07:27",
+                    "episode": "S3 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Apocalypse Now",
+                    "start": "07:27",
+                    "end": "11:02",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/apocalypse-now.webp",
+                    "category": "Guerra"
+                },
+                {
+                    "name": "L' Uomo Che Uccise Don Chisciotte",
+                    "start": "11:02",
+                    "end": "13:47",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/l-uomo-che-uccise-don-chisciotte.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "The Game Nessuna Regola",
+                    "start": "13:47",
+                    "end": "16:27",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Rapimento E Riscatto",
+                    "start": "16:27",
+                    "end": "19:14",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:14",
+                    "end": "20:13",
+                    "episode": "S4 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:13",
+                    "end": "21:16",
+                    "episode": "S3 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Passenger 57 Terrore Ad Alta Quota",
+                    "start": "21:16",
+                    "end": "23:08",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "All Is Lost Tutto E' Perduto",
+                    "start": "23:08",
+                    "end": "01:19",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
