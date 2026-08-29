@@ -1,1 +1,24 @@
-{"channel_name":"Milan TV","days":[{"date":"2026-08-29","programs":[{"name":"Ac Milan Cult Review","start":"00:00","end":"00:15","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"},{"name":"Milan Venezia-26/27","start":"00:15","end":"03:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Informazione"}]}]}
+{
+    "channel_name": "Milan TV",
+    "days": [
+        {
+            "date": "2026-08-29",
+            "programs": [
+                {
+                    "name": "Ac Milan Cult Review",
+                    "start": "00:00",
+                    "end": "00:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                },
+                {
+                    "name": "Milan Venezia-26/27",
+                    "start": "00:15",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Informazione"
+                }
+            ]
+        }
+    ]
+}
