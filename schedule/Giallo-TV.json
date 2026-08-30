@@ -1,1 +1,316 @@
-{"channel_name":"Giallo TV","days":[{"date":"2026-08-30","programs":[{"name":"Soko Kitzbuhel - Misteri tra le montagne","start":"00:00","end":"00:00","episode":"S7 E11"},{"name":"Soko Kitzbuhel - Misteri tra le montagne","start":"00:00","end":"00:15","episode":"S7 E11"},{"name":"Soko Kitzbuhel - Misteri tra le montagne","start":"00:15","end":"01:10","episode":"S7 E12"},{"name":"Soko Kitzbuhel - Misteri tra le montagne","start":"01:10","end":"02:10","episode":"S7 E13"},{"name":"Balthazar","start":"02:10","end":"03:10","episode":"S4 E5"},{"name":"Balthazar","start":"03:10","end":"04:15","episode":"S4 E6"},{"name":"Disappeared","start":"04:15","end":"05:05","episode":"S1 E1"},{"name":"Disappeared","start":"05:05","end":"06:00","episode":"S1 E2"},{"name":"Disappeared","start":"06:00","end":"06:45","episode":"S1 E3"},{"name":"Disappeared","start":"06:45","end":"07:40","episode":"S1 E4"},{"name":"A sei passi dal killer","start":"07:40","end":"08:40","episode":"S1 E5"},{"name":"Tandem","start":"08:40","end":"09:45","episode":"S7 E8"},{"name":"Tandem","start":"09:45","end":"10:45","episode":"S7 E9"},{"name":"Quattro donne e un funerale","start":"10:45","end":"11:55","episode":"S2 E5"},{"name":"Quattro donne e un funerale","start":"11:55","end":"13:00","episode":"S2 E6"},{"name":"Crociera con delitto","start":"13:00","end":"14:00","episode":"S2 E3"},{"name":"Crociera con delitto","start":"14:00","end":"15:05","episode":"S2 E4"},{"name":"Vera","start":"15:05","end":"17:05","episode":"S4 E1"},{"name":"I misteri di Brokenwood","start":"17:05","end":"19:00","episode":"S4 E4"},{"name":"L'ispettore Barnaby","start":"19:00","end":"21:10","episode":"S6 E4"},{"name":"Vera","start":"21:10","end":"23:10","episode":"S4 E2"},{"name":"Le indagini di Roy Grace","start":"23:10","end":"00:00","episode":"S3 E1"}]},{"date":"2026-08-31","programs":[{"name":"Le indagini di Roy Grace","start":"00:00","end":"00:00","episode":"S3 E1"},{"name":"Le indagini di Roy Grace","start":"00:00","end":"01:00","episode":"S3 E1"},{"name":"Balthazar","start":"01:00","end":"02:10","episode":"S4 E7"},{"name":"Balthazar","start":"02:10","end":"03:15","episode":"S4 E8"},{"name":"Disappeared","start":"03:15","end":"04:10","episode":"S1 E3"},{"name":"Disappeared","start":"04:10","end":"05:05","episode":"S1 E4"},{"name":"A sei passi dal killer","start":"05:05","end":"06:00","episode":"S1 E6"},{"name":"I misteri di Murdoch","start":"06:00","end":"06:45","episode":"S12 E16"},{"name":"I misteri di Murdoch","start":"06:45","end":"07:40","episode":"S12 E17"},{"name":"I misteri di Murdoch","start":"07:40","end":"08:35","episode":"S12 E18"},{"name":"L'ispettore Barnaby","start":"08:35","end":"10:30","episode":"S16 E4"},{"name":"I misteri di Brokenwood","start":"10:30","end":"12:35","episode":"S10 E2"},{"name":"Mademoiselle Holmes","start":"12:35","end":"13:40","episode":"S2 E1"},{"name":"Mademoiselle Holmes","start":"13:40","end":"14:50","episode":"S2 E2"},{"name":"I misteri di Murdoch","start":"14:50","end":"15:55","episode":"S8 E3"},{"name":"I misteri di Murdoch","start":"15:55","end":"17:00","episode":"S8 E4"},{"name":"I misteri di Brokenwood","start":"17:00","end":"19:00","episode":"S10 E3"},{"name":"L'ispettore Barnaby","start":"19:00","end":"21:10","episode":"S5 E2"},{"name":"Crociera con delitto","start":"21:10","end":"22:10","episode":"S2 E5"},{"name":"Crociera con delitto","start":"22:10","end":"23:10","episode":"S2 E6"},{"name":"I misteri di Brokenwood","start":"23:10","end":"00:00","episode":"S9 E3"}]}]}
+{
+    "channel_name": "Giallo TV",
+    "days": [
+        {
+            "date": "2026-08-30",
+            "programs": [
+                {
+                    "name": "Soko Kitzbuhel - Misteri tra le montagne",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S7 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Soko Kitzbuhel - Misteri tra le montagne",
+                    "start": "00:00",
+                    "end": "00:15",
+                    "episode": "S7 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Soko Kitzbuhel - Misteri tra le montagne",
+                    "start": "00:15",
+                    "end": "01:10",
+                    "episode": "S7 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Soko Kitzbuhel - Misteri tra le montagne",
+                    "start": "01:10",
+                    "end": "02:10",
+                    "episode": "S7 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Balthazar",
+                    "start": "02:10",
+                    "end": "03:10",
+                    "episode": "S4 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Balthazar",
+                    "start": "03:10",
+                    "end": "04:15",
+                    "episode": "S4 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "04:15",
+                    "end": "05:05",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "05:05",
+                    "end": "06:00",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "06:00",
+                    "end": "06:45",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "06:45",
+                    "end": "07:40",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A sei passi dal killer",
+                    "start": "07:40",
+                    "end": "08:40",
+                    "episode": "S1 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tandem",
+                    "start": "08:40",
+                    "end": "09:45",
+                    "episode": "S7 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tandem",
+                    "start": "09:45",
+                    "end": "10:45",
+                    "episode": "S7 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Quattro donne e un funerale",
+                    "start": "10:45",
+                    "end": "11:55",
+                    "episode": "S2 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Quattro donne e un funerale",
+                    "start": "11:55",
+                    "end": "13:00",
+                    "episode": "S2 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Crociera con delitto",
+                    "start": "13:00",
+                    "end": "14:00",
+                    "episode": "S2 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Crociera con delitto",
+                    "start": "14:00",
+                    "end": "15:05",
+                    "episode": "S2 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Vera",
+                    "start": "15:05",
+                    "end": "17:05",
+                    "episode": "S4 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "17:05",
+                    "end": "19:00",
+                    "episode": "S4 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "19:00",
+                    "end": "21:10",
+                    "episode": "S6 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Vera",
+                    "start": "21:10",
+                    "end": "23:10",
+                    "episode": "S4 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Le indagini di Roy Grace",
+                    "start": "23:10",
+                    "end": "00:00",
+                    "episode": "S3 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-08-31",
+            "programs": [
+                {
+                    "name": "Le indagini di Roy Grace",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S3 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Le indagini di Roy Grace",
+                    "start": "00:00",
+                    "end": "01:00",
+                    "episode": "S3 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Balthazar",
+                    "start": "01:00",
+                    "end": "02:10",
+                    "episode": "S4 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Balthazar",
+                    "start": "02:10",
+                    "end": "03:15",
+                    "episode": "S4 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "03:15",
+                    "end": "04:10",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "04:10",
+                    "end": "05:05",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A sei passi dal killer",
+                    "start": "05:05",
+                    "end": "06:00",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "06:00",
+                    "end": "06:45",
+                    "episode": "S12 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "06:45",
+                    "end": "07:40",
+                    "episode": "S12 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "07:40",
+                    "end": "08:35",
+                    "episode": "S12 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "08:35",
+                    "end": "10:30",
+                    "episode": "S16 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "10:30",
+                    "end": "12:35",
+                    "episode": "S10 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mademoiselle Holmes",
+                    "start": "12:35",
+                    "end": "13:40",
+                    "episode": "S2 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mademoiselle Holmes",
+                    "start": "13:40",
+                    "end": "14:50",
+                    "episode": "S2 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "14:50",
+                    "end": "15:55",
+                    "episode": "S8 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "15:55",
+                    "end": "17:00",
+                    "episode": "S8 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "17:00",
+                    "end": "19:00",
+                    "episode": "S10 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "19:00",
+                    "end": "21:10",
+                    "episode": "S5 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Crociera con delitto",
+                    "start": "21:10",
+                    "end": "22:10",
+                    "episode": "S2 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Crociera con delitto",
+                    "start": "22:10",
+                    "end": "23:10",
+                    "episode": "S2 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "23:10",
+                    "end": "00:00",
+                    "episode": "S9 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
