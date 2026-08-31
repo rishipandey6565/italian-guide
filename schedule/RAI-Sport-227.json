@@ -1,1 +1,190 @@
-{"channel_name":"RAI Sport   227","days":[{"date":"2026-08-31","programs":[{"name":"Ciclismo - Mountain Bike","start":"00:00","end":"01:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Ciclismo","start":"01:00","end":"01:30","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Europei di Pallavolo femminile","start":"01:30","end":"03:50","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Giochi del Mediterraneo","start":"03:50","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Pallavolo","start":"06:00","end":"08:40","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"La Domenica Sportiva - Stag. 2026 - Puntata del 30/08/2026","start":"08:40","end":"10:30","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Giochi del Mediterraneo","start":"10:30","end":"10:55","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Ciclismo - Mountain Bike","start":"10:55","end":"13:15","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Giochi del Mediterraneo","start":"13:15","end":"13:45","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Memory - Rai Sport","start":"13:45","end":"14:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Giochi del Mediterraneo","start":"14:00","end":"18:50","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Europei di Pallavolo femminile","start":"18:50","end":"20:20","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Serie C","start":"20:20","end":"22:35","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Corsa in Montagna","start":"22:35","end":"23:05","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Canoa","start":"23:05","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"}]},{"date":"2026-09-01","programs":[{"name":"Canoa","start":"00:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Baseball","start":"00:00","end":"03:15","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Europei di Pallavolo femminile","start":"03:15","end":"05:15","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Ciclismo - Mountain Bike","start":"05:15","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Il Processo del Lunedi'","start":"06:00","end":"07:20","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Europei di Pallavolo femminile","start":"07:20","end":"09:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Giochi del Mediterraneo","start":"09:00","end":"13:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"European Aquatics Championships","start":"13:00","end":"14:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Giochi del Mediterraneo","start":"14:00","end":"23:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Canoa","start":"23:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"}]}]}
+{
+    "channel_name": "RAI Sport   227",
+    "days": [
+        {
+            "date": "2026-08-31",
+            "programs": [
+                {
+                    "name": "Ciclismo - Mountain Bike",
+                    "start": "00:00",
+                    "end": "01:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Ciclismo",
+                    "start": "01:00",
+                    "end": "01:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Europei di Pallavolo femminile",
+                    "start": "01:30",
+                    "end": "03:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Giochi del Mediterraneo",
+                    "start": "03:50",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Pallavolo",
+                    "start": "06:00",
+                    "end": "08:40",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/RAI-Sport-227/pallavolo.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "La Domenica Sportiva - Stag. 2026 - Puntata del 30/08/2026",
+                    "start": "08:40",
+                    "end": "10:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Giochi del Mediterraneo",
+                    "start": "10:30",
+                    "end": "10:55",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Ciclismo - Mountain Bike",
+                    "start": "10:55",
+                    "end": "13:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Giochi del Mediterraneo",
+                    "start": "13:15",
+                    "end": "13:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Memory - Rai Sport",
+                    "start": "13:45",
+                    "end": "14:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Giochi del Mediterraneo",
+                    "start": "14:00",
+                    "end": "18:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Europei di Pallavolo femminile",
+                    "start": "18:50",
+                    "end": "20:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Serie C",
+                    "start": "20:20",
+                    "end": "22:35",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/RAI-Sport-227/serie-c.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Corsa in Montagna",
+                    "start": "22:35",
+                    "end": "23:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Canoa",
+                    "start": "23:05",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-01",
+            "programs": [
+                {
+                    "name": "Canoa",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Baseball",
+                    "start": "00:00",
+                    "end": "03:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Europei di Pallavolo femminile",
+                    "start": "03:15",
+                    "end": "05:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Ciclismo - Mountain Bike",
+                    "start": "05:15",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Il Processo del Lunedi'",
+                    "start": "06:00",
+                    "end": "07:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Europei di Pallavolo femminile",
+                    "start": "07:20",
+                    "end": "09:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Giochi del Mediterraneo",
+                    "start": "09:00",
+                    "end": "13:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "European Aquatics Championships",
+                    "start": "13:00",
+                    "end": "14:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Giochi del Mediterraneo",
+                    "start": "14:00",
+                    "end": "23:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Canoa",
+                    "start": "23:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                }
+            ]
+        }
+    ]
+}

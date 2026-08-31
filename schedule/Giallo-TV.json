@@ -1,1 +1,316 @@
-{"channel_name":"Giallo TV","days":[{"date":"2026-08-31","programs":[{"name":"Le indagini di Roy Grace","start":"00:00","end":"00:00","episode":"S3 E1"},{"name":"Le indagini di Roy Grace","start":"00:00","end":"01:00","episode":"S3 E1"},{"name":"Balthazar","start":"01:00","end":"02:10","episode":"S4 E7"},{"name":"Balthazar","start":"02:10","end":"03:15","episode":"S4 E8"},{"name":"Disappeared","start":"03:15","end":"04:10","episode":"S1 E3"},{"name":"Disappeared","start":"04:10","end":"05:05","episode":"S1 E4"},{"name":"A sei passi dal killer","start":"05:05","end":"06:00","episode":"S1 E6"},{"name":"I misteri di Murdoch","start":"06:00","end":"06:45","episode":"S12 E16"},{"name":"I misteri di Murdoch","start":"06:45","end":"07:40","episode":"S12 E17"},{"name":"I misteri di Murdoch","start":"07:40","end":"08:35","episode":"S12 E18"},{"name":"L'ispettore Barnaby","start":"08:35","end":"10:30","episode":"S16 E4"},{"name":"I misteri di Brokenwood","start":"10:30","end":"12:35","episode":"S10 E2"},{"name":"Mademoiselle Holmes","start":"12:35","end":"13:40","episode":"S2 E1"},{"name":"Mademoiselle Holmes","start":"13:40","end":"14:50","episode":"S2 E2"},{"name":"I misteri di Murdoch","start":"14:50","end":"15:55","episode":"S8 E3"},{"name":"I misteri di Murdoch","start":"15:55","end":"17:00","episode":"S8 E4"},{"name":"I misteri di Brokenwood","start":"17:00","end":"19:00","episode":"S10 E3"},{"name":"L'ispettore Barnaby","start":"19:00","end":"21:10","episode":"S5 E2"},{"name":"Crociera con delitto","start":"21:10","end":"22:10","episode":"S2 E5"},{"name":"Crociera con delitto","start":"22:10","end":"23:10","episode":"S2 E6"},{"name":"I misteri di Brokenwood","start":"23:10","end":"00:00","episode":"S9 E3"}]},{"date":"2026-09-01","programs":[{"name":"I misteri di Brokenwood","start":"00:00","end":"00:00","episode":"S9 E3"},{"name":"I misteri di Brokenwood","start":"00:00","end":"01:15","episode":"S9 E3"},{"name":"I misteri di Murdoch","start":"01:15","end":"02:10","episode":"S8 E3"},{"name":"I misteri di Murdoch","start":"02:10","end":"03:15","episode":"S8 E4"},{"name":"Torbidi delitti","start":"03:15","end":"04:10","episode":"S5 E9"},{"name":"Torbidi delitti","start":"04:10","end":"05:05","episode":"S5 E10"},{"name":"Il delitto della porta accanto","start":"05:05","end":"06:00","episode":"S3 E4"},{"name":"L'investigatore Wolfe","start":"06:00","end":"06:30","episode":"S1 E1"},{"name":"Murder by Numbers","start":"06:30","end":"07:25","episode":"S1 E1"},{"name":"Murder by Numbers","start":"07:25","end":"08:20","episode":"S1 E2"},{"name":"L'ispettore Barnaby","start":"08:20","end":"10:10","episode":"S16 E5"},{"name":"I misteri di Brokenwood","start":"10:10","end":"12:10","episode":"S10 E3"},{"name":"Mademoiselle Holmes","start":"12:10","end":"13:10","episode":"S2 E3"},{"name":"Mademoiselle Holmes","start":"13:10","end":"14:10","episode":"S2 E4"},{"name":"I misteri di Murdoch","start":"14:10","end":"15:10","episode":"S8 E5"},{"name":"I misteri di Murdoch","start":"15:10","end":"16:10","episode":"S8 E6"},{"name":"I misteri di Murdoch","start":"16:10","end":"17:10","episode":"S8 E7"},{"name":"I misteri di Brokenwood","start":"17:10","end":"19:10","episode":"S10 E4"},{"name":"L'ispettore Barnaby","start":"19:10","end":"21:10","episode":"S5 E3"},{"name":"La stagista del crimine - 1^TV","start":"21:10","end":"22:10","episode":"S8 E1"},{"name":"La stagista del crimine - 1^TV","start":"22:10","end":"23:10","episode":"S8 E2"},{"name":"Miss Fisher: delitti e misteri","start":"23:10","end":"00:00","episode":"S2 E8"}]}]}
+{
+    "channel_name": "Giallo TV",
+    "days": [
+        {
+            "date": "2026-08-31",
+            "programs": [
+                {
+                    "name": "Le indagini di Roy Grace",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S3 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Le indagini di Roy Grace",
+                    "start": "00:00",
+                    "end": "01:00",
+                    "episode": "S3 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Balthazar",
+                    "start": "01:00",
+                    "end": "02:10",
+                    "episode": "S4 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Balthazar",
+                    "start": "02:10",
+                    "end": "03:15",
+                    "episode": "S4 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "03:15",
+                    "end": "04:10",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disappeared",
+                    "start": "04:10",
+                    "end": "05:05",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A sei passi dal killer",
+                    "start": "05:05",
+                    "end": "06:00",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "06:00",
+                    "end": "06:45",
+                    "episode": "S12 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "06:45",
+                    "end": "07:40",
+                    "episode": "S12 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "07:40",
+                    "end": "08:35",
+                    "episode": "S12 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "08:35",
+                    "end": "10:30",
+                    "episode": "S16 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "10:30",
+                    "end": "12:35",
+                    "episode": "S10 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mademoiselle Holmes",
+                    "start": "12:35",
+                    "end": "13:40",
+                    "episode": "S2 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mademoiselle Holmes",
+                    "start": "13:40",
+                    "end": "14:50",
+                    "episode": "S2 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "14:50",
+                    "end": "15:55",
+                    "episode": "S8 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "15:55",
+                    "end": "17:00",
+                    "episode": "S8 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "17:00",
+                    "end": "19:00",
+                    "episode": "S10 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "19:00",
+                    "end": "21:10",
+                    "episode": "S5 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Crociera con delitto",
+                    "start": "21:10",
+                    "end": "22:10",
+                    "episode": "S2 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Crociera con delitto",
+                    "start": "22:10",
+                    "end": "23:10",
+                    "episode": "S2 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "23:10",
+                    "end": "00:00",
+                    "episode": "S9 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-01",
+            "programs": [
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S9 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "00:00",
+                    "end": "01:15",
+                    "episode": "S9 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "01:15",
+                    "end": "02:10",
+                    "episode": "S8 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "02:10",
+                    "end": "03:15",
+                    "episode": "S8 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Torbidi delitti",
+                    "start": "03:15",
+                    "end": "04:10",
+                    "episode": "S5 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Torbidi delitti",
+                    "start": "04:10",
+                    "end": "05:05",
+                    "episode": "S5 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il delitto della porta accanto",
+                    "start": "05:05",
+                    "end": "06:00",
+                    "episode": "S3 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'investigatore Wolfe",
+                    "start": "06:00",
+                    "end": "06:30",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder by Numbers",
+                    "start": "06:30",
+                    "end": "07:25",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder by Numbers",
+                    "start": "07:25",
+                    "end": "08:20",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "08:20",
+                    "end": "10:10",
+                    "episode": "S16 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "10:10",
+                    "end": "12:10",
+                    "episode": "S10 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mademoiselle Holmes",
+                    "start": "12:10",
+                    "end": "13:10",
+                    "episode": "S2 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mademoiselle Holmes",
+                    "start": "13:10",
+                    "end": "14:10",
+                    "episode": "S2 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "14:10",
+                    "end": "15:10",
+                    "episode": "S8 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "15:10",
+                    "end": "16:10",
+                    "episode": "S8 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "16:10",
+                    "end": "17:10",
+                    "episode": "S8 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Brokenwood",
+                    "start": "17:10",
+                    "end": "19:10",
+                    "episode": "S10 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "19:10",
+                    "end": "21:10",
+                    "episode": "S5 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La stagista del crimine - 1^TV",
+                    "start": "21:10",
+                    "end": "22:10",
+                    "episode": "S8 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La stagista del crimine - 1^TV",
+                    "start": "22:10",
+                    "end": "23:10",
+                    "episode": "S8 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miss Fisher: delitti e misteri",
+                    "start": "23:10",
+                    "end": "00:00",
+                    "episode": "S2 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
