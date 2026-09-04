@@ -1,1 +1,418 @@
-{"channel_name":"20","days":[{"date":"2026-09-04","programs":[{"name":"The Next Three Days","start":"00:00","end":"01:41","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303277101000102/media/6/6/30d64e55-527f-428f-8e29-509f1eafa3b3/df8d5a07-a0ed-498c-9888-7836fbbfe5d5.jpg","category":"Drammatico"},{"name":"Chicago Med","start":"01:41","end":"02:21","episode":"S9 E6"},{"name":"Chicago Med","start":"02:21","end":"03:00","episode":"S9 E7"},{"name":"The Flash","start":"03:00","end":"03:41","episode":"S7 E16"},{"name":"The Flash","start":"03:41","end":"04:21","episode":"S7 E17"},{"name":"Show Reel","start":"04:21","end":"04:39"},{"name":"Distretto Di Polizia","start":"04:39","end":"05:19","episode":"S8 E23"},{"name":"Distretto Di Polizia","start":"05:19","end":"06:00","episode":"S8 E24"},{"name":"Show Reel","start":"06:00","end":"06:27"},{"name":"Distretto Di Polizia","start":"06:27","end":"07:07","episode":"S8 E25"},{"name":"Distretto Di Polizia","start":"07:07","end":"07:48","episode":"S8 E26"},{"name":"Distretto Di Polizia","start":"07:48","end":"08:34","episode":"S9 E1"},{"name":"Kung Fu","start":"08:34","end":"09:19","episode":"S1 E11"},{"name":"Kung Fu","start":"09:19","end":"10:06","episode":"S1 E12"},{"name":"The Last Ship","start":"10:06","end":"10:55","episode":"S2 E10","category":"Azione"},{"name":"The Last Ship","start":"10:55","end":"11:41","episode":"S2 E11","category":"Azione"},{"name":"The Big Bang Theory","start":"11:41","end":"12:04","episode":"S8 E16","category":"Commedia"},{"name":"The Big Bang Theory","start":"12:04","end":"12:29","episode":"S8 E17","category":"Commedia"},{"name":"The Flash","start":"12:29","end":"13:15","episode":"S7 E18"},{"name":"The Flash","start":"13:15","end":"14:00","episode":"S8 E1"},{"name":"Chicago Fire","start":"14:00","end":"14:50","episode":"S8 E16"},{"name":"Chicago Med","start":"14:50","end":"15:35","episode":"S9 E8"},{"name":"Chicago Med","start":"15:35","end":"16:22","episode":"S9 E9"},{"name":"Kung Fu","start":"16:22","end":"17:14","episode":"S1 E11"},{"name":"Kung Fu","start":"17:14","end":"18:00","episode":"S1 E12"},{"name":"The Last Ship","start":"18:00","end":"18:50","episode":"S2 E10","category":"Azione"},{"name":"The Last Ship","start":"18:50","end":"19:36","episode":"S2 E11","category":"Azione"},{"name":"Chicago Fire","start":"19:36","end":"20:22","episode":"S8 E16"},{"name":"The Big Bang Theory","start":"20:22","end":"20:43","episode":"S8 E16","category":"Commedia"},{"name":"The Big Bang Theory","start":"20:43","end":"21:09","episode":"S8 E17","category":"Commedia"},{"name":"World War Z","start":"21:09","end":"23:18","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305213001000103/media/10/10/39b5259f-1583-4a23-8204-09db30e9284c/4d075a30-a8cf-42d7-85c2-d2efc62015df.jpg","category":"Azione"},{"name":"Blackhat","start":"23:18","end":"01:29","category":"Azione"}]},{"date":"2026-09-05","programs":[{"name":"Blackhat","start":"00:00","end":"01:29","category":"Azione"},{"name":"Chicago Med","start":"01:29","end":"02:09","episode":"S9 E8"},{"name":"Chicago Med","start":"02:09","end":"02:48","episode":"S9 E9"},{"name":"The Flash","start":"02:48","end":"03:29","episode":"S7 E18"},{"name":"The Flash","start":"03:29","end":"04:09","episode":"S8 E1"},{"name":"Show Reel","start":"04:09","end":"04:39"},{"name":"Distretto Di Polizia","start":"04:39","end":"05:19","episode":"S8 E26"},{"name":"Distretto Di Polizia","start":"05:19","end":"06:00","episode":"S9 E1"},{"name":"Show Reel","start":"06:00","end":"06:50"},{"name":"Distretto Di Polizia","start":"06:50","end":"07:36","episode":"S8 E11"},{"name":"Distretto Di Polizia","start":"07:36","end":"08:34","episode":"S8 E12"},{"name":"Roswell, New Mexico","start":"08:34","end":"09:31","episode":"S4 E12"},{"name":"Legacies","start":"09:31","end":"10:23","episode":"S4 E8"},{"name":"Legacies","start":"10:23","end":"11:21","episode":"S4 E9"},{"name":"Legacies","start":"11:21","end":"12:19","episode":"S4 E10"},{"name":"Legacies","start":"12:19","end":"13:15","episode":"S4 E11"},{"name":"La Brea","start":"13:15","end":"14:14","episode":"S2 E1"},{"name":"La Brea","start":"14:14","end":"15:13","episode":"S2 E2"},{"name":"La Brea","start":"15:13","end":"16:11","episode":"S2 E3"},{"name":"La Brea","start":"16:11","end":"17:09","episode":"S2 E4"},{"name":"La Brea","start":"17:09","end":"18:06","episode":"S2 E5"},{"name":"La Brea","start":"18:06","end":"19:05","episode":"S2 E6"},{"name":"Ghost Rider Spirito Di Vendetta","start":"19:05","end":"21:10","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F304277701000103/media/19/83/40a4105b-ad4c-410c-874b-190593bcbc11/b3a8564b-4919-4128-b4bc-e41fbe5b824e.jpg","category":"Azione"},{"name":"Code Name Banshee","start":"21:10","end":"23:16","category":"Azione"},{"name":"World War Z","start":"23:16","end":"01:44","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F305213001000103/media/10/10/39b5259f-1583-4a23-8204-09db30e9284c/4d075a30-a8cf-42d7-85c2-d2efc62015df.jpg","category":"Azione"}]}]}
+{
+    "channel_name": "20",
+    "days": [
+        {
+            "date": "2026-09-04",
+            "programs": [
+                {
+                    "name": "The Next Three Days",
+                    "start": "00:00",
+                    "end": "01:41",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/20/the-next-three-days.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Chicago Med",
+                    "start": "01:41",
+                    "end": "02:21",
+                    "episode": "S9 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chicago Med",
+                    "start": "02:21",
+                    "end": "03:00",
+                    "episode": "S9 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Flash",
+                    "start": "03:00",
+                    "end": "03:41",
+                    "episode": "S7 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Flash",
+                    "start": "03:41",
+                    "end": "04:21",
+                    "episode": "S7 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Show Reel",
+                    "start": "04:21",
+                    "end": "04:39",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "04:39",
+                    "end": "05:19",
+                    "episode": "S8 E23",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "05:19",
+                    "end": "06:00",
+                    "episode": "S8 E24",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Show Reel",
+                    "start": "06:00",
+                    "end": "06:27",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "06:27",
+                    "end": "07:07",
+                    "episode": "S8 E25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "07:07",
+                    "end": "07:48",
+                    "episode": "S8 E26",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "07:48",
+                    "end": "08:34",
+                    "episode": "S9 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kung Fu",
+                    "start": "08:34",
+                    "end": "09:19",
+                    "episode": "S1 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kung Fu",
+                    "start": "09:19",
+                    "end": "10:06",
+                    "episode": "S1 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Last Ship",
+                    "start": "10:06",
+                    "end": "10:55",
+                    "episode": "S2 E10",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Last Ship",
+                    "start": "10:55",
+                    "end": "11:41",
+                    "episode": "S2 E11",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Big Bang Theory",
+                    "start": "11:41",
+                    "end": "12:04",
+                    "episode": "S8 E16",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Big Bang Theory",
+                    "start": "12:04",
+                    "end": "12:29",
+                    "episode": "S8 E17",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Flash",
+                    "start": "12:29",
+                    "end": "13:15",
+                    "episode": "S7 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Flash",
+                    "start": "13:15",
+                    "end": "14:00",
+                    "episode": "S8 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chicago Fire",
+                    "start": "14:00",
+                    "end": "14:50",
+                    "episode": "S8 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chicago Med",
+                    "start": "14:50",
+                    "end": "15:35",
+                    "episode": "S9 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chicago Med",
+                    "start": "15:35",
+                    "end": "16:22",
+                    "episode": "S9 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kung Fu",
+                    "start": "16:22",
+                    "end": "17:14",
+                    "episode": "S1 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kung Fu",
+                    "start": "17:14",
+                    "end": "18:00",
+                    "episode": "S1 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Last Ship",
+                    "start": "18:00",
+                    "end": "18:50",
+                    "episode": "S2 E10",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Last Ship",
+                    "start": "18:50",
+                    "end": "19:36",
+                    "episode": "S2 E11",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chicago Fire",
+                    "start": "19:36",
+                    "end": "20:22",
+                    "episode": "S8 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Big Bang Theory",
+                    "start": "20:22",
+                    "end": "20:43",
+                    "episode": "S8 E16",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Big Bang Theory",
+                    "start": "20:43",
+                    "end": "21:09",
+                    "episode": "S8 E17",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "World War Z",
+                    "start": "21:09",
+                    "end": "23:18",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/20/world-war-z.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Blackhat",
+                    "start": "23:18",
+                    "end": "01:29",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-05",
+            "programs": [
+                {
+                    "name": "Blackhat",
+                    "start": "00:00",
+                    "end": "01:29",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chicago Med",
+                    "start": "01:29",
+                    "end": "02:09",
+                    "episode": "S9 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chicago Med",
+                    "start": "02:09",
+                    "end": "02:48",
+                    "episode": "S9 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Flash",
+                    "start": "02:48",
+                    "end": "03:29",
+                    "episode": "S7 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Flash",
+                    "start": "03:29",
+                    "end": "04:09",
+                    "episode": "S8 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Show Reel",
+                    "start": "04:09",
+                    "end": "04:39",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "04:39",
+                    "end": "05:19",
+                    "episode": "S8 E26",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "05:19",
+                    "end": "06:00",
+                    "episode": "S9 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Show Reel",
+                    "start": "06:00",
+                    "end": "06:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "06:50",
+                    "end": "07:36",
+                    "episode": "S8 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Distretto Di Polizia",
+                    "start": "07:36",
+                    "end": "08:34",
+                    "episode": "S8 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Roswell, New Mexico",
+                    "start": "08:34",
+                    "end": "09:31",
+                    "episode": "S4 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Legacies",
+                    "start": "09:31",
+                    "end": "10:23",
+                    "episode": "S4 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Legacies",
+                    "start": "10:23",
+                    "end": "11:21",
+                    "episode": "S4 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Legacies",
+                    "start": "11:21",
+                    "end": "12:19",
+                    "episode": "S4 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Legacies",
+                    "start": "12:19",
+                    "end": "13:15",
+                    "episode": "S4 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Brea",
+                    "start": "13:15",
+                    "end": "14:14",
+                    "episode": "S2 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Brea",
+                    "start": "14:14",
+                    "end": "15:13",
+                    "episode": "S2 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Brea",
+                    "start": "15:13",
+                    "end": "16:11",
+                    "episode": "S2 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Brea",
+                    "start": "16:11",
+                    "end": "17:09",
+                    "episode": "S2 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Brea",
+                    "start": "17:09",
+                    "end": "18:06",
+                    "episode": "S2 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Brea",
+                    "start": "18:06",
+                    "end": "19:05",
+                    "episode": "S2 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Ghost Rider Spirito Di Vendetta",
+                    "start": "19:05",
+                    "end": "21:10",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/20/ghost-rider-spirito-di-vendetta.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Code Name Banshee",
+                    "start": "21:10",
+                    "end": "23:16",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "World War Z",
+                    "start": "23:16",
+                    "end": "01:44",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/20/world-war-z.webp",
+                    "category": "Azione"
+                }
+            ]
+        }
+    ]
+}

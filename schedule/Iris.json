@@ -1,1 +1,204 @@
-{"channel_name":"Iris","days":[{"date":"2026-09-04","programs":[{"name":"Resa Dei Conti A Little Tokyo","start":"00:00","end":"00:48","category":"Poliziesco"},{"name":"King Of Thieves","start":"00:48","end":"02:40","category":"Crime"},{"name":"Giochi Di Potere","start":"02:40","end":"04:31","category":"Drammatico"},{"name":"La Capanna Dello Zio Tom","start":"04:31","end":"06:50","category":"Drammatico"},{"name":"Kojak","start":"06:50","end":"07:37","episode":"S4 E9"},{"name":"Walker Texas Ranger","start":"07:37","end":"08:29","episode":"S3 E21"},{"name":"Italiani A Rio","start":"08:29","end":"10:15","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F001414801000101/media/31/95/3110f2c9-044e-4b5b-afd0-391ec23206e7/4f1ca419-5a97-49ac-9732-45c5926833f3.jpg","category":"Comico"},{"name":"Joker","start":"10:15","end":"12:48","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309927601000103/media/7/7/197f584d-b367-4357-be23-cd2f6baceb67/330a87fb-da6c-4d1f-9fdf-ef05c1900d08.jpg","category":"Drammatico"},{"name":"Seduzione Pericolosa","start":"12:48","end":"15:07","category":"Giallo"},{"name":"Angelica","start":"15:07","end":"17:24","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000384401000102/media/25/89/8e56b8e0-9bf4-49db-9f42-fc4bbaf529a9/5ce44ed0-29b8-4795-b10d-669364966c79.jpg","category":"Avventura"},{"name":"Due Padri Di Troppo","start":"17:24","end":"19:21","category":"Commedia"},{"name":"Kojak","start":"19:21","end":"20:15","episode":"S4 E9"},{"name":"Walker Texas Ranger","start":"20:15","end":"21:12","episode":"S3 E21"},{"name":"Red Snake","start":"21:12","end":"23:25","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309922101000102/media/13/13/655e3ede-b342-4942-86ff-a3e294d0ce38/21f0f6ea-2db0-4cd6-aa49-fc1f70f0eca1.jpg","category":"Azione"},{"name":"Defiance I Giorni Del Coraggio","start":"23:25","end":"01:54","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F301253601000103/media/6/6/d97c0b92-9cc1-4434-a970-544d630cffc5/dd18bd65-059b-48d1-b138-622ad5fd8513.jpg","category":"Drammatico"}]},{"date":"2026-09-05","programs":[{"name":"Defiance I Giorni Del Coraggio","start":"00:00","end":"01:54","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F301253601000103/media/6/6/d97c0b92-9cc1-4434-a970-544d630cffc5/dd18bd65-059b-48d1-b138-622ad5fd8513.jpg","category":"Drammatico"},{"name":"Due Padri Di Troppo","start":"01:54","end":"03:32","category":"Commedia"},{"name":"Seduzione Pericolosa","start":"03:32","end":"05:21","category":"Giallo"},{"name":"Ragtime","start":"05:21","end":"07:23","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F001316301000102/media/13/13/9837394c-f285-4ab6-8138-c9a8742c4332/4eca47d9-449c-4eab-ad3d-ef4a11e54c3c.jpg","category":"Drammatico"},{"name":"I Ragazzi Della 3c","start":"07:23","end":"09:24","episode":"S2 E4"},{"name":"Red Snake","start":"09:24","end":"11:47","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309922101000102/media/13/13/655e3ede-b342-4942-86ff-a3e294d0ce38/21f0f6ea-2db0-4cd6-aa49-fc1f70f0eca1.jpg","category":"Azione"},{"name":"Defiance I Giorni Del Coraggio","start":"11:47","end":"14:35","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F301253601000103/media/6/6/d97c0b92-9cc1-4434-a970-544d630cffc5/dd18bd65-059b-48d1-b138-622ad5fd8513.jpg","category":"Drammatico"},{"name":"Poseidon","start":"14:35","end":"16:44","category":"Drammatico"},{"name":"The Game Nessuna Regola","start":"16:44","end":"19:22","category":"Drammatico"},{"name":"Resa Dei Conti A Little Tokyo","start":"19:22","end":"21:14","category":"Poliziesco"},{"name":"Murder At 1600 Delitto Alla Casa Bianca","start":"21:14","end":"23:26","category":"Poliziesco"},{"name":"I Molti Santi Del New Jersey","start":"23:26","end":"01:50","category":"Drammatico"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-09-04",
+            "programs": [
+                {
+                    "name": "Resa Dei Conti A Little Tokyo",
+                    "start": "00:00",
+                    "end": "00:48",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "King Of Thieves",
+                    "start": "00:48",
+                    "end": "02:40",
+                    "category": "Crime",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Giochi Di Potere",
+                    "start": "02:40",
+                    "end": "04:31",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Capanna Dello Zio Tom",
+                    "start": "04:31",
+                    "end": "06:50",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:50",
+                    "end": "07:37",
+                    "episode": "S4 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:37",
+                    "end": "08:29",
+                    "episode": "S3 E21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Italiani A Rio",
+                    "start": "08:29",
+                    "end": "10:15",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/italiani-a-rio.webp",
+                    "category": "Comico"
+                },
+                {
+                    "name": "Joker",
+                    "start": "10:15",
+                    "end": "12:48",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/joker.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Seduzione Pericolosa",
+                    "start": "12:48",
+                    "end": "15:07",
+                    "category": "Giallo",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Angelica",
+                    "start": "15:07",
+                    "end": "17:24",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/angelica.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Due Padri Di Troppo",
+                    "start": "17:24",
+                    "end": "19:21",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:21",
+                    "end": "20:15",
+                    "episode": "S4 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:15",
+                    "end": "21:12",
+                    "episode": "S3 E21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Red Snake",
+                    "start": "21:12",
+                    "end": "23:25",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/red-snake.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Defiance I Giorni Del Coraggio",
+                    "start": "23:25",
+                    "end": "01:54",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/defiance-i-giorni-del-coraggio.webp",
+                    "category": "Drammatico"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-05",
+            "programs": [
+                {
+                    "name": "Defiance I Giorni Del Coraggio",
+                    "start": "00:00",
+                    "end": "01:54",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/defiance-i-giorni-del-coraggio.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Due Padri Di Troppo",
+                    "start": "01:54",
+                    "end": "03:32",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Seduzione Pericolosa",
+                    "start": "03:32",
+                    "end": "05:21",
+                    "category": "Giallo",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Ragtime",
+                    "start": "05:21",
+                    "end": "07:23",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/ragtime.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "I Ragazzi Della 3c",
+                    "start": "07:23",
+                    "end": "09:24",
+                    "episode": "S2 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Red Snake",
+                    "start": "09:24",
+                    "end": "11:47",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/red-snake.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Defiance I Giorni Del Coraggio",
+                    "start": "11:47",
+                    "end": "14:35",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/defiance-i-giorni-del-coraggio.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Poseidon",
+                    "start": "14:35",
+                    "end": "16:44",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Game Nessuna Regola",
+                    "start": "16:44",
+                    "end": "19:22",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Resa Dei Conti A Little Tokyo",
+                    "start": "19:22",
+                    "end": "21:14",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder At 1600 Delitto Alla Casa Bianca",
+                    "start": "21:14",
+                    "end": "23:26",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I Molti Santi Del New Jersey",
+                    "start": "23:26",
+                    "end": "01:50",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
