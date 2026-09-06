@@ -1,1 +1,226 @@
-{"channel_name":"Iris","days":[{"date":"2026-09-06","programs":[{"name":"I Molti Santi Del New Jersey","start":"00:00","end":"01:33","category":"Drammatico"},{"name":"The Game Nessuna Regola","start":"01:33","end":"03:38","category":"Drammatico"},{"name":"Gli Ultimi Giorni Nel Deserto","start":"03:38","end":"05:12","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309086801000102/media/19/83/dc72c21d-9566-4344-a388-de6eb144e80d/35644682-5577-48a2-9272-13533dc6ec45.jpg","category":"Avventura"},{"name":"Compagne Nude","start":"05:12","end":"06:21","category":"Drammatico"},{"name":"Una Donna Allo Specchio","start":"06:21","end":"07:37","category":"Commedia"},{"name":"Belli Dentro","start":"07:37","end":"08:13","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012535301001301/media/28/92/e168d954-fadf-4452-974d-26e41f1957fa/9eb2fa51-ec21-4a93-8224-023cbd1f0a08.jpg","episode":"S2 E13","category":"Sit-Com"},{"name":"I Ragazzi Della 3c","start":"08:13","end":"10:24","episode":"S2 E5"},{"name":"I Molti Santi Del New Jersey","start":"10:24","end":"12:51","category":"Drammatico"},{"name":"Murder At 1600 Delitto Alla Casa Bianca","start":"12:51","end":"15:04","category":"Poliziesco"},{"name":"I Bambini Del Treno","start":"15:04","end":"16:57","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312100201000104/media/2/2/11f6f559-6a98-4431-a569-31e1e4e335a1/430b7de5-ad5f-42e2-a174-3b617dd96583.jpg","category":"Avventura"},{"name":"Note Di Cinema","start":"16:57","end":"17:09","category":"Magazine"},{"name":"Michael Clayton","start":"17:09","end":"19:24","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012167701000102/media/3/3/4ff0ec12-8668-47a2-834c-15f1d75693db/283af084-52fb-48b8-ba6d-100dbf3b6b91.jpg","category":"Thriller"},{"name":"La Legge Del Crimine","start":"19:24","end":"21:16","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F301656001000102/media/17/81/5da150dc-8509-432a-8e17-0a15b7fb9198/75bf7cca-d339-44c3-8aa5-e69df2b33b41.jpg","category":"Azione"},{"name":"Il Patto Dei Lupi","start":"21:16","end":"23:56","category":"Azione"},{"name":"Il Cavaliere Di Lagardere","start":"23:56","end":"02:22","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F008707401000101/media/15/15/9c18a364-e677-443b-9441-ab49e754bdf1/1f209d0c-27c2-4f25-97c5-c78d86df927f.jpg","category":"Avventura"}]},{"date":"2026-09-07","programs":[{"name":"Il Cavaliere Di Lagardere","start":"00:00","end":"02:22","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F008707401000101/media/15/15/9c18a364-e677-443b-9441-ab49e754bdf1/1f209d0c-27c2-4f25-97c5-c78d86df927f.jpg","category":"Avventura"},{"name":"I Bambini Del Treno","start":"02:22","end":"04:00","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312100201000104/media/2/2/11f6f559-6a98-4431-a569-31e1e4e335a1/430b7de5-ad5f-42e2-a174-3b617dd96583.jpg","category":"Avventura"},{"name":"Michael Clayton","start":"04:00","end":"05:54","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012167701000102/media/3/3/4ff0ec12-8668-47a2-834c-15f1d75693db/283af084-52fb-48b8-ba6d-100dbf3b6b91.jpg","category":"Thriller"},{"name":"Pagato Per Uccidere","start":"05:54","end":"07:08","category":"Drammatico"},{"name":"Kojak","start":"07:08","end":"08:00","episode":"S4 E10"},{"name":"Walker Texas Ranger","start":"08:00","end":"08:50","episode":"S3 E22"},{"name":"Dov'e' Finita La 7a Compagnia?","start":"08:50","end":"10:42","category":"Commedia"},{"name":"Il Patto Dei Lupi","start":"10:42","end":"13:38","category":"Azione"},{"name":"Cattivi Vicini","start":"13:38","end":"15:28","category":"Commedia"},{"name":"Colpo A Rischio","start":"15:28","end":"17:27","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309611501000102/media/16/80/fe93057b-33de-4e05-a6de-9e044c3ac4ca/fca8dde1-dc64-49af-a1c2-90b4818c6bd9.jpg","category":"Azione"},{"name":"Facile Preda","start":"17:27","end":"19:15","category":"Thriller"},{"name":"Kojak","start":"19:15","end":"20:12","episode":"S4 E10"},{"name":"Walker Texas Ranger","start":"20:12","end":"21:11","episode":"S3 E22"},{"name":"Harriet","start":"21:11","end":"23:37","category":"Biografico"},{"name":"La Signora Dello Zoo Di Varsavia","start":"23:37","end":"01:56","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F307983201000102/media/19/83/dddf667d-b727-4cda-a4d7-b4022849e771/c7b30084-4c68-4ed1-af56-78c510b04f6f.jpg","category":"Drammatico"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-09-06",
+            "programs": [
+                {
+                    "name": "I Molti Santi Del New Jersey",
+                    "start": "00:00",
+                    "end": "01:33",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Game Nessuna Regola",
+                    "start": "01:33",
+                    "end": "03:38",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Gli Ultimi Giorni Nel Deserto",
+                    "start": "03:38",
+                    "end": "05:12",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/gli-ultimi-giorni-nel-deserto.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Compagne Nude",
+                    "start": "05:12",
+                    "end": "06:21",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Una Donna Allo Specchio",
+                    "start": "06:21",
+                    "end": "07:37",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Belli Dentro",
+                    "start": "07:37",
+                    "end": "08:13",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/belli-dentro.webp",
+                    "episode": "S2 E13",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "I Ragazzi Della 3c",
+                    "start": "08:13",
+                    "end": "10:24",
+                    "episode": "S2 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I Molti Santi Del New Jersey",
+                    "start": "10:24",
+                    "end": "12:51",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder At 1600 Delitto Alla Casa Bianca",
+                    "start": "12:51",
+                    "end": "15:04",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I Bambini Del Treno",
+                    "start": "15:04",
+                    "end": "16:57",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/i-bambini-del-treno.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "16:57",
+                    "end": "17:09",
+                    "category": "Magazine",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Michael Clayton",
+                    "start": "17:09",
+                    "end": "19:24",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/michael-clayton.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "La Legge Del Crimine",
+                    "start": "19:24",
+                    "end": "21:16",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-legge-del-crimine.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Il Patto Dei Lupi",
+                    "start": "21:16",
+                    "end": "23:56",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Cavaliere Di Lagardere",
+                    "start": "23:56",
+                    "end": "02:22",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/il-cavaliere-di-lagardere.webp",
+                    "category": "Avventura"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-07",
+            "programs": [
+                {
+                    "name": "Il Cavaliere Di Lagardere",
+                    "start": "00:00",
+                    "end": "02:22",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/il-cavaliere-di-lagardere.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "I Bambini Del Treno",
+                    "start": "02:22",
+                    "end": "04:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/i-bambini-del-treno.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Michael Clayton",
+                    "start": "04:00",
+                    "end": "05:54",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/michael-clayton.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Pagato Per Uccidere",
+                    "start": "05:54",
+                    "end": "07:08",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "07:08",
+                    "end": "08:00",
+                    "episode": "S4 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "08:00",
+                    "end": "08:50",
+                    "episode": "S3 E22",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Dov'e' Finita La 7a Compagnia?",
+                    "start": "08:50",
+                    "end": "10:42",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Patto Dei Lupi",
+                    "start": "10:42",
+                    "end": "13:38",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cattivi Vicini",
+                    "start": "13:38",
+                    "end": "15:28",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Colpo A Rischio",
+                    "start": "15:28",
+                    "end": "17:27",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/colpo-a-rischio.webp",
+                    "category": "Azione"
+                },
+                {
+                    "name": "Facile Preda",
+                    "start": "17:27",
+                    "end": "19:15",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:15",
+                    "end": "20:12",
+                    "episode": "S4 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:12",
+                    "end": "21:11",
+                    "episode": "S3 E22",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Harriet",
+                    "start": "21:11",
+                    "end": "23:37",
+                    "category": "Biografico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Dello Zoo Di Varsavia",
+                    "start": "23:37",
+                    "end": "01:56",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-signora-dello-zoo-di-varsavia.webp",
+                    "category": "Drammatico"
+                }
+            ]
+        }
+    ]
+}
