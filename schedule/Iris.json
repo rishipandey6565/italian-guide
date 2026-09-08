@@ -1,1 +1,225 @@
-{"channel_name":"Iris","days":[{"date":"2026-09-08","programs":[{"name":"La Signora Dello Zoo Di Varsavia","start":"00:00","end":"01:56","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F307983201000102/media/19/83/dddf667d-b727-4cda-a4d7-b4022849e771/c7b30084-4c68-4ed1-af56-78c510b04f6f.jpg","category":"Drammatico"},{"name":"Note Di Cinema","start":"01:56","end":"02:02","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334401003701/media/16/80/b431800d-3c5c-400e-a5fd-e8f0a6f6073c/12a8fb1a-1bcc-4dcb-b967-e4a16a286e7d.jpg","category":"Magazine"},{"name":"Facile Preda","start":"02:02","end":"03:31","category":"Thriller"},{"name":"Cattivi Vicini","start":"03:31","end":"05:04","category":"Commedia"},{"name":"Profondo Rosso","start":"05:04","end":"07:15","category":"Thriller"},{"name":"Kojak","start":"07:15","end":"08:06","episode":"S4 E11"},{"name":"Walker Texas Ranger","start":"08:06","end":"09:02","episode":"S3 E23"},{"name":"Zorro Il Cavaliere Della Vendetta","start":"09:02","end":"10:49","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000337301000101/media/4/4/7244549d-ea7d-4cfb-9041-a19c904299d7/919b7263-01bc-4974-85b0-68354b72fa98.jpg","category":"Avventura"},{"name":"Harriet","start":"10:49","end":"13:26","category":"Biografico"},{"name":"Testimone Involontario","start":"13:26","end":"15:26","category":"Thriller"},{"name":"Confidence La Truffa Perfetta","start":"15:26","end":"17:24","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011291101000102/media/22/86/3a3e8260-0466-4588-8e1b-b94d813163ac/15751f79-5a3c-4851-b61c-2800575c515a.jpg","category":"Thriller"},{"name":"Volano Coltelli","start":"17:24","end":"19:22","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309794401000102/media/11/11/1bd576a9-4548-436e-9252-7498b2cd23cd/c07ce8e0-f31d-4cbc-a5ce-916d3379f38f.jpg","category":"Drammatico"},{"name":"Kojak","start":"19:22","end":"20:16","episode":"S4 E11"},{"name":"Walker Texas Ranger","start":"20:16","end":"21:14","episode":"S3 E23"},{"name":"Corvo Rosso Non Avrai Il Mio Scalpo","start":"21:14","end":"23:25","category":"Avventura"},{"name":"La Freccia Nella Polvere","start":"23:25","end":"01:06","category":"Avventura"}]},{"date":"2026-09-09","programs":[{"name":"La Freccia Nella Polvere","start":"00:00","end":"01:06","category":"Avventura"},{"name":"Testimone Involontario","start":"01:06","end":"02:47","category":"Thriller"},{"name":"Confidence La Truffa Perfetta","start":"02:47","end":"04:19","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F011291101000102/media/22/86/3a3e8260-0466-4588-8e1b-b94d813163ac/15751f79-5a3c-4851-b61c-2800575c515a.jpg","category":"Thriller"},{"name":"Puccini","start":"04:19","end":"06:13","category":"Drammatico"},{"name":"Foglio Di Via","start":"06:13","end":"06:57","category":"Drammatico"},{"name":"Kojak","start":"06:57","end":"07:45","episode":"S4 E12"},{"name":"Walker Texas Ranger","start":"07:45","end":"08:28","episode":"S3 E24"},{"name":"Corvo Rosso Non Avrai Il Mio Scalpo","start":"08:28","end":"11:22","category":"Avventura"},{"name":"Nemico Pubblico","start":"11:22","end":"14:13","category":"Drammatico"},{"name":"La Piccola Boss","start":"14:13","end":"16:34","category":"Commedia"},{"name":"La Signora Dello Zoo Di Varsavia","start":"16:34","end":"19:13","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F307983201000102/media/19/83/dddf667d-b727-4cda-a4d7-b4022849e771/c7b30084-4c68-4ed1-af56-78c510b04f6f.jpg","category":"Drammatico"},{"name":"Kojak","start":"19:13","end":"20:12","episode":"S4 E12"},{"name":"Walker Texas Ranger","start":"20:12","end":"21:14","episode":"S3 E24"},{"name":"Elvis","start":"21:14","end":"00:18","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F311821201000103/media/9/9/54041588-e0fa-4c5e-9106-9bf58fbb6940/aa471000-66ed-4df2-9fa4-b677ec9d52a4.jpg","category":"Drammatico"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-09-08",
+            "programs": [
+                {
+                    "name": "La Signora Dello Zoo Di Varsavia",
+                    "start": "00:00",
+                    "end": "01:56",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-signora-dello-zoo-di-varsavia.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "01:56",
+                    "end": "02:02",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/note-di-cinema.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "Facile Preda",
+                    "start": "02:02",
+                    "end": "03:31",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cattivi Vicini",
+                    "start": "03:31",
+                    "end": "05:04",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Profondo Rosso",
+                    "start": "05:04",
+                    "end": "07:15",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "07:15",
+                    "end": "08:06",
+                    "episode": "S4 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "08:06",
+                    "end": "09:02",
+                    "episode": "S3 E23",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Zorro Il Cavaliere Della Vendetta",
+                    "start": "09:02",
+                    "end": "10:49",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/zorro-il-cavaliere-della-vendetta.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Harriet",
+                    "start": "10:49",
+                    "end": "13:26",
+                    "category": "Biografico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Testimone Involontario",
+                    "start": "13:26",
+                    "end": "15:26",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Confidence La Truffa Perfetta",
+                    "start": "15:26",
+                    "end": "17:24",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/confidence-la-truffa-perfetta.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Volano Coltelli",
+                    "start": "17:24",
+                    "end": "19:22",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/volano-coltelli.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:22",
+                    "end": "20:16",
+                    "episode": "S4 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:16",
+                    "end": "21:14",
+                    "episode": "S3 E23",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Corvo Rosso Non Avrai Il Mio Scalpo",
+                    "start": "21:14",
+                    "end": "23:25",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Freccia Nella Polvere",
+                    "start": "23:25",
+                    "end": "01:06",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-09",
+            "programs": [
+                {
+                    "name": "La Freccia Nella Polvere",
+                    "start": "00:00",
+                    "end": "01:06",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Testimone Involontario",
+                    "start": "01:06",
+                    "end": "02:47",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Confidence La Truffa Perfetta",
+                    "start": "02:47",
+                    "end": "04:19",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/confidence-la-truffa-perfetta.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Puccini",
+                    "start": "04:19",
+                    "end": "06:13",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Foglio Di Via",
+                    "start": "06:13",
+                    "end": "06:57",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:57",
+                    "end": "07:45",
+                    "episode": "S4 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:45",
+                    "end": "08:28",
+                    "episode": "S3 E24",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Corvo Rosso Non Avrai Il Mio Scalpo",
+                    "start": "08:28",
+                    "end": "11:22",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nemico Pubblico",
+                    "start": "11:22",
+                    "end": "14:13",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Piccola Boss",
+                    "start": "14:13",
+                    "end": "16:34",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Dello Zoo Di Varsavia",
+                    "start": "16:34",
+                    "end": "19:13",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-signora-dello-zoo-di-varsavia.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:13",
+                    "end": "20:12",
+                    "episode": "S4 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:12",
+                    "end": "21:14",
+                    "episode": "S3 E24",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Elvis",
+                    "start": "21:14",
+                    "end": "00:18",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/elvis.webp",
+                    "category": "Drammatico"
+                }
+            ]
+        }
+    ]
+}
