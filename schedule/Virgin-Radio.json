@@ -1,1 +1,201 @@
-{"channel_name":"Virgin Radio","days":[{"date":"2026-09-10","programs":[{"name":"Placebo .","start":"00:00","end":"00:02"},{"name":"Des Rocs","start":"00:02","end":"00:05"},{"name":"Counting Crows","start":"00:05","end":"00:10","category":"Mr. Jones"},{"name":"Sam Fender","start":"00:10","end":"00:13"},{"name":"Yungblud","start":"00:13","end":"00:19"},{"name":"Roxy Music","start":"00:19","end":"00:22","category":"Love Is The Drug"},{"name":"Turnstile","start":"00:22","end":"00:26"},{"name":"Richard Ashcroft","start":"00:26","end":"00:31","category":"Break The Night With Colour"},{"name":"Yungblud & The Smashing Pumpkins","start":"00:31","end":"00:35"},{"name":"Kid Rock","start":"00:35","end":"00:40","category":"Tennessee Mountain Top"},{"name":"Billy Squier","start":"00:40","end":"00:44","category":"The Stroke"},{"name":"Florence And The Machine","start":"00:44","end":"00:48"},{"name":"Nickelback","start":"00:48","end":"00:52","category":"Far Away"},{"name":"Kings Of Leon","start":"00:52","end":"00:55"},{"name":"Rolling Stones","start":"00:55","end":"01:00","category":"Like A Rolling Stone"},{"name":"Coldplay","start":"01:00","end":"01:04","category":"Life In Technicolor Ii"},{"name":"Leap","start":"01:04","end":"01:08"},{"name":"Red Hot Chili Peppers","start":"01:08","end":"01:12","category":"Around The World"},{"name":"Mumford & Sons","start":"01:12","end":"01:16"},{"name":"Shinedown","start":"01:16","end":"01:22"},{"name":"Kiss","start":"01:22","end":"01:26"},{"name":"The Black Moods","start":"01:26","end":"01:29"},{"name":"Biffy Clyro","start":"01:29","end":"01:33"},{"name":"Slash Ft. Myles Kennedy & The Conspirators","start":"01:33","end":"01:39"},{"name":"Ramones","start":"01:39","end":"01:43","category":"Do You Remember Rock 'n' Roll Radio?"},{"name":"Oasis","start":"01:43","end":"01:47","category":"The Shock Of The Lightning"},{"name":"Wet Leg","start":"01:47","end":"02:00"},{"name":"All Night Rock '26","start":"02:00","end":"03:00"},{"name":"All Night Rock '26","start":"03:00","end":"04:00"},{"name":"All Night Rock '26","start":"04:00","end":"05:01"}]}]}
+{
+    "channel_name": "Virgin Radio",
+    "days": [
+        {
+            "date": "2026-09-10",
+            "programs": [
+                {
+                    "name": "Placebo .",
+                    "start": "00:00",
+                    "end": "00:02",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Des Rocs",
+                    "start": "00:02",
+                    "end": "00:05",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Counting Crows",
+                    "start": "00:05",
+                    "end": "00:10",
+                    "category": "Mr. Jones",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sam Fender",
+                    "start": "00:10",
+                    "end": "00:13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Yungblud",
+                    "start": "00:13",
+                    "end": "00:19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Roxy Music",
+                    "start": "00:19",
+                    "end": "00:22",
+                    "category": "Love Is The Drug",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Turnstile",
+                    "start": "00:22",
+                    "end": "00:26",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Richard Ashcroft",
+                    "start": "00:26",
+                    "end": "00:31",
+                    "category": "Break The Night With Colour",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Yungblud & The Smashing Pumpkins",
+                    "start": "00:31",
+                    "end": "00:35",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kid Rock",
+                    "start": "00:35",
+                    "end": "00:40",
+                    "category": "Tennessee Mountain Top",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Billy Squier",
+                    "start": "00:40",
+                    "end": "00:44",
+                    "category": "The Stroke",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Florence And The Machine",
+                    "start": "00:44",
+                    "end": "00:48",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nickelback",
+                    "start": "00:48",
+                    "end": "00:52",
+                    "category": "Far Away",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kings Of Leon",
+                    "start": "00:52",
+                    "end": "00:55",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Rolling Stones",
+                    "start": "00:55",
+                    "end": "01:00",
+                    "category": "Like A Rolling Stone",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Coldplay",
+                    "start": "01:00",
+                    "end": "01:04",
+                    "category": "Life In Technicolor Ii",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Leap",
+                    "start": "01:04",
+                    "end": "01:08",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Red Hot Chili Peppers",
+                    "start": "01:08",
+                    "end": "01:12",
+                    "category": "Around The World",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mumford & Sons",
+                    "start": "01:12",
+                    "end": "01:16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Shinedown",
+                    "start": "01:16",
+                    "end": "01:22",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kiss",
+                    "start": "01:22",
+                    "end": "01:26",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Black Moods",
+                    "start": "01:26",
+                    "end": "01:29",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Biffy Clyro",
+                    "start": "01:29",
+                    "end": "01:33",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Slash Ft. Myles Kennedy & The Conspirators",
+                    "start": "01:33",
+                    "end": "01:39",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Ramones",
+                    "start": "01:39",
+                    "end": "01:43",
+                    "category": "Do You Remember Rock 'n' Roll Radio?",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Oasis",
+                    "start": "01:43",
+                    "end": "01:47",
+                    "category": "The Shock Of The Lightning",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Wet Leg",
+                    "start": "01:47",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "All Night Rock '26",
+                    "start": "02:00",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "All Night Rock '26",
+                    "start": "03:00",
+                    "end": "04:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "All Night Rock '26",
+                    "start": "04:00",
+                    "end": "05:01",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
