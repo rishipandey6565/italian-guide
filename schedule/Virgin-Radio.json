@@ -1,1 +1,243 @@
-{"channel_name":"Virgin Radio","days":[{"date":"2026-09-12","programs":[{"name":"Yungblud & The Smashing Pumpkins","start":"00:00","end":"00:00"},{"name":"Morrissey","start":"00:00","end":"00:03","category":"That's How People Grow Up"},{"name":"Kings Of Leon","start":"00:03","end":"00:07"},{"name":"Oasis","start":"00:07","end":"00:11","category":"Roll With It"},{"name":"Mumford & Sons","start":"00:11","end":"00:14"},{"name":"Fantastic Negrito","start":"00:14","end":"00:20"},{"name":"Clash","start":"00:20","end":"00:22","category":"Fought The Law"},{"name":"Lenny.","start":"00:22","end":"00:25"},{"name":"Daughtry","start":"00:25","end":"00:29","category":"It's Not Over"},{"name":"Biffy Clyro","start":"00:29","end":"00:33"},{"name":"The War On Drugs","start":"00:33","end":"00:40"},{"name":"Tom Petty And Heartbrakers","start":"00:40","end":"00:44","category":"Runnin' Down A Dream"},{"name":"Struts & Brian May","start":"00:44","end":"00:49"},{"name":"R.e.m","start":"00:49","end":"00:53","category":"Until The Day Is Done"},{"name":"Wet Leg","start":"00:53","end":"00:57"},{"name":"Yungblud","start":"00:57","end":"01:00"},{"name":"The Killers","start":"01:00","end":"01:04"},{"name":"Good Charlotte","start":"01:04","end":"01:07"},{"name":"Blur","start":"01:07","end":"01:13","category":"Tender"},{"name":"Sam Fender","start":"01:13","end":"01:16"},{"name":"Mgk","start":"01:16","end":"01:21"},{"name":"T.rex","start":"01:21","end":"01:25","category":"Get It On"},{"name":"Bad Omens","start":"01:25","end":"01:29"},{"name":"Nickelback","start":"01:29","end":"01:34","category":"Photograph"},{"name":"The Black Keys","start":"01:34","end":"01:37","category":"The Black Keys,"},{"name":"Stereophonics","start":"01:37","end":"01:41"},{"name":"Cure","start":"01:41","end":"01:45","category":"Close To Me"},{"name":"Florence And The Machine","start":"01:45","end":"01:48"},{"name":"Chris Cornell","start":"01:48","end":"01:52","category":"You Know My Name"},{"name":"Leap","start":"01:52","end":"01:56"},{"name":"Jake Bugg","start":"01:56","end":"02:00"},{"name":"All Night Rock '26","start":"02:00","end":"03:00"},{"name":"All Night Rock '26","start":"03:00","end":"04:00"},{"name":"All Night Rock '26","start":"04:00","end":"05:01"},{"name":"All Night Rock '26","start":"05:01","end":"06:00"}]},{"date":"2026-09-13","programs":[{"name":"All Night Rock '26","start":"00:00","end":"06:00"}]}]}
+{
+    "channel_name": "Virgin Radio",
+    "days": [
+        {
+            "date": "2026-09-12",
+            "programs": [
+                {
+                    "name": "Yungblud & The Smashing Pumpkins",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Morrissey",
+                    "start": "00:00",
+                    "end": "00:03",
+                    "category": "That's How People Grow Up",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kings Of Leon",
+                    "start": "00:03",
+                    "end": "00:07",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Oasis",
+                    "start": "00:07",
+                    "end": "00:11",
+                    "category": "Roll With It",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mumford & Sons",
+                    "start": "00:11",
+                    "end": "00:14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Fantastic Negrito",
+                    "start": "00:14",
+                    "end": "00:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Clash",
+                    "start": "00:20",
+                    "end": "00:22",
+                    "category": "Fought The Law",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Lenny.",
+                    "start": "00:22",
+                    "end": "00:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Daughtry",
+                    "start": "00:25",
+                    "end": "00:29",
+                    "category": "It's Not Over",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Biffy Clyro",
+                    "start": "00:29",
+                    "end": "00:33",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The War On Drugs",
+                    "start": "00:33",
+                    "end": "00:40",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Tom Petty And Heartbrakers",
+                    "start": "00:40",
+                    "end": "00:44",
+                    "category": "Runnin' Down A Dream",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Struts & Brian May",
+                    "start": "00:44",
+                    "end": "00:49",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "R.e.m",
+                    "start": "00:49",
+                    "end": "00:53",
+                    "category": "Until The Day Is Done",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Wet Leg",
+                    "start": "00:53",
+                    "end": "00:57",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Yungblud",
+                    "start": "00:57",
+                    "end": "01:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Killers",
+                    "start": "01:00",
+                    "end": "01:04",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Good Charlotte",
+                    "start": "01:04",
+                    "end": "01:07",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Blur",
+                    "start": "01:07",
+                    "end": "01:13",
+                    "category": "Tender",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sam Fender",
+                    "start": "01:13",
+                    "end": "01:16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Mgk",
+                    "start": "01:16",
+                    "end": "01:21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "T.rex",
+                    "start": "01:21",
+                    "end": "01:25",
+                    "category": "Get It On",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Bad Omens",
+                    "start": "01:25",
+                    "end": "01:29",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Nickelback",
+                    "start": "01:29",
+                    "end": "01:34",
+                    "category": "Photograph",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Black Keys",
+                    "start": "01:34",
+                    "end": "01:37",
+                    "category": "The Black Keys,",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Stereophonics",
+                    "start": "01:37",
+                    "end": "01:41",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cure",
+                    "start": "01:41",
+                    "end": "01:45",
+                    "category": "Close To Me",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Florence And The Machine",
+                    "start": "01:45",
+                    "end": "01:48",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Chris Cornell",
+                    "start": "01:48",
+                    "end": "01:52",
+                    "category": "You Know My Name",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Leap",
+                    "start": "01:52",
+                    "end": "01:56",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Jake Bugg",
+                    "start": "01:56",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "All Night Rock '26",
+                    "start": "02:00",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "All Night Rock '26",
+                    "start": "03:00",
+                    "end": "04:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "All Night Rock '26",
+                    "start": "04:00",
+                    "end": "05:01",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "All Night Rock '26",
+                    "start": "05:01",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-13",
+            "programs": [
+                {
+                    "name": "All Night Rock '26",
+                    "start": "00:00",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
