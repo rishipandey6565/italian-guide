@@ -1,1 +1,153 @@
-{"channel_name":"Solocalcio","days":[{"date":"2026-09-13","programs":[{"name":"Campionato Argentino Atletico Tocuman-River Plate (diretta)","start":"00:00","end":"00:30"},{"name":"Campionato Saudita Al Taawoun-Al Hilal","start":"00:30","end":"02:00"},{"name":"Si Live 24","start":"02:00","end":"02:30"},{"name":"Si Live 24","start":"02:30","end":"03:00"},{"name":"Manchester City-Bournemouth","start":"03:00","end":"05:00"},{"name":"Campionato Argentino San Lorenzo-Talleres","start":"05:00","end":"00:30"}]},{"date":"2026-09-14","programs":[{"name":"Campionato Argentino San Lorenzo-Talleres","start":"00:00","end":"00:30"},{"name":"Campionato Saudita Al Taawoun-Al Hilal","start":"00:30","end":"02:00"},{"name":"Si Live 24","start":"02:00","end":"02:30"},{"name":"Si Live 24","start":"02:30","end":"03:00"},{"name":"Manchester City-Bournemouth","start":"03:00","end":"05:00"},{"name":"Campionato Argentino San Lorenzo-Talleres","start":"05:00","end":"07:00"},{"name":"Campionato Saudita Al Khaleej-Al Nassr","start":"07:00","end":"08:30"},{"name":"Arsenal-Manchester City","start":"08:30","end":"10:00"},{"name":"Si Live 24","start":"10:00","end":"10:30"},{"name":"Si Live 24","start":"10:30","end":"11:00"},{"name":"Campionato Argentino Rosario Central-Newell's","start":"11:00","end":"13:00"},{"name":"Manchester City-Coventry City","start":"13:00","end":"15:00"},{"name":"FC Porto-Manchester City","start":"15:00","end":"17:00"},{"name":"Campionato Argentino Atletico Tocuman-River Plate","start":"17:00","end":"18:30"},{"name":"Campionato Saudita Al Ahli-Al Hazem","start":"18:30","end":"20:30"},{"name":"Campionato Saudita Al Taawoun-Al Hilal","start":"20:30","end":"22:00"},{"name":"Campionato Argentino Boca Jr.-Central Cordoba","start":"22:00","end":"00:00"}]}]}
+{
+    "channel_name": "Solocalcio",
+    "days": [
+        {
+            "date": "2026-09-13",
+            "programs": [
+                {
+                    "name": "Campionato Argentino Atletico Tocuman-River Plate (diretta)",
+                    "start": "00:00",
+                    "end": "00:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Taawoun-Al Hilal",
+                    "start": "00:30",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:30",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Bournemouth",
+                    "start": "03:00",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino San Lorenzo-Talleres",
+                    "start": "05:00",
+                    "end": "00:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-14",
+            "programs": [
+                {
+                    "name": "Campionato Argentino San Lorenzo-Talleres",
+                    "start": "00:00",
+                    "end": "00:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Taawoun-Al Hilal",
+                    "start": "00:30",
+                    "end": "02:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:00",
+                    "end": "02:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "02:30",
+                    "end": "03:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Bournemouth",
+                    "start": "03:00",
+                    "end": "05:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino San Lorenzo-Talleres",
+                    "start": "05:00",
+                    "end": "07:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Khaleej-Al Nassr",
+                    "start": "07:00",
+                    "end": "08:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Arsenal-Manchester City",
+                    "start": "08:30",
+                    "end": "10:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "10:00",
+                    "end": "10:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Live 24",
+                    "start": "10:30",
+                    "end": "11:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Rosario Central-Newell's",
+                    "start": "11:00",
+                    "end": "13:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Manchester City-Coventry City",
+                    "start": "13:00",
+                    "end": "15:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "FC Porto-Manchester City",
+                    "start": "15:00",
+                    "end": "17:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Atletico Tocuman-River Plate",
+                    "start": "17:00",
+                    "end": "18:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Ahli-Al Hazem",
+                    "start": "18:30",
+                    "end": "20:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Saudita Al Taawoun-Al Hilal",
+                    "start": "20:30",
+                    "end": "22:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Campionato Argentino Boca Jr.-Central Cordoba",
+                    "start": "22:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
