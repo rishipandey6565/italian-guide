@@ -1,1 +1,295 @@
-{"channel_name":"Giallo TV","days":[{"date":"2026-09-15","programs":[{"name":"Jacobs: un veterinario per agente","start":"00:00","end":"00:00","episode":"S1 E1"},{"name":"Jacobs: un veterinario per agente","start":"00:00","end":"01:00","episode":"S1 E1"},{"name":"Shetland","start":"01:00","end":"03:30","episode":"S2 E2"},{"name":"Torbidi delitti","start":"03:30","end":"04:20","episode":"S4 E6"},{"name":"Murder Comes to Town","start":"04:20","end":"05:10","episode":"S4 E4"},{"name":"A sei passi dal killer","start":"05:10","end":"06:00","episode":"S1 E1"},{"name":"A sei passi dal killer","start":"06:00","end":"07:00","episode":"S1 E6"},{"name":"Il delitto della porta accanto","start":"07:00","end":"08:00","episode":"S3 E9"},{"name":"A Crime To Remember","start":"08:00","end":"09:00","episode":"S5 E2"},{"name":"I misteri di Murdoch","start":"09:00","end":"10:00","episode":"S9 E14"},{"name":"I misteri di Murdoch","start":"10:00","end":"11:00","episode":"S9 E15"},{"name":"L'Ispettore Gently","start":"11:00","end":"12:55","episode":"S2 E3"},{"name":"L'ispettore Barnaby","start":"12:55","end":"14:50","episode":"S18 E6"},{"name":"I misteri di Murdoch","start":"14:50","end":"15:50","episode":"S9 E16"},{"name":"I misteri di Murdoch","start":"15:50","end":"16:50","episode":"S9 E17"},{"name":"Shetland","start":"16:50","end":"19:10","episode":"S2 E3"},{"name":"L'Ispettore Gently","start":"19:10","end":"21:10","episode":"S2 E4"},{"name":"La stagista del crimine - 1^TV","start":"21:10","end":"22:10","episode":"S8 E5"},{"name":"La stagista del crimine - 1^TV","start":"22:10","end":"23:10","episode":"S8 E6"},{"name":"Miss Fisher: delitti e misteri","start":"23:10","end":"00:00","episode":"S2 E12"}]},{"date":"2026-09-16","programs":[{"name":"Miss Fisher: delitti e misteri","start":"00:00","end":"00:00","episode":"S2 E12"},{"name":"Miss Fisher: delitti e misteri","start":"00:00","end":"00:15","episode":"S2 E12"},{"name":"Miss Fisher: delitti e misteri","start":"00:15","end":"01:20","episode":"S2 E13"},{"name":"Shetland","start":"01:20","end":"03:40","episode":"S2 E3"},{"name":"Torbidi delitti","start":"03:40","end":"04:35","episode":"S4 E7"},{"name":"Murder Comes to Town","start":"04:35","end":"05:30","episode":"S4 E5"},{"name":"L'investigatore Wolfe","start":"05:30","end":"06:00","episode":"S1 E6"},{"name":"Delitti di provincia","start":"06:00","end":"07:00","episode":"S1 E1"},{"name":"Il delitto della porta accanto","start":"07:00","end":"08:00","episode":"S3 E11"},{"name":"A Crime To Remember","start":"08:00","end":"09:00","episode":"S5 E3"},{"name":"I misteri di Murdoch","start":"09:00","end":"10:00","episode":"S9 E16"},{"name":"I misteri di Murdoch","start":"10:00","end":"11:00","episode":"S9 E17"},{"name":"L'Ispettore Gently","start":"11:00","end":"12:55","episode":"S2 E4"},{"name":"L'ispettore Barnaby","start":"12:55","end":"14:50","episode":"S19 E1"},{"name":"I misteri di Murdoch","start":"14:50","end":"15:50","episode":"S9 E18"},{"name":"I misteri di Murdoch","start":"15:50","end":"16:50","episode":"S10 E1"},{"name":"Shetland","start":"16:50","end":"19:10","episode":"S3 E1"},{"name":"L'Ispettore Gently","start":"19:10","end":"21:10","episode":"S3 E1"},{"name":"The Chelsea Detective","start":"21:10","end":"23:10","episode":"S3 E4"},{"name":"Cooper & Fry","start":"23:10","end":"00:00","episode":"S1 E3"}]}]}
+{
+    "channel_name": "Giallo TV",
+    "days": [
+        {
+            "date": "2026-09-15",
+            "programs": [
+                {
+                    "name": "Jacobs: un veterinario per agente",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Jacobs: un veterinario per agente",
+                    "start": "00:00",
+                    "end": "01:00",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Shetland",
+                    "start": "01:00",
+                    "end": "03:30",
+                    "episode": "S2 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Torbidi delitti",
+                    "start": "03:30",
+                    "end": "04:20",
+                    "episode": "S4 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder Comes to Town",
+                    "start": "04:20",
+                    "end": "05:10",
+                    "episode": "S4 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A sei passi dal killer",
+                    "start": "05:10",
+                    "end": "06:00",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A sei passi dal killer",
+                    "start": "06:00",
+                    "end": "07:00",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il delitto della porta accanto",
+                    "start": "07:00",
+                    "end": "08:00",
+                    "episode": "S3 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A Crime To Remember",
+                    "start": "08:00",
+                    "end": "09:00",
+                    "episode": "S5 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "09:00",
+                    "end": "10:00",
+                    "episode": "S9 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "10:00",
+                    "end": "11:00",
+                    "episode": "S9 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'Ispettore Gently",
+                    "start": "11:00",
+                    "end": "12:55",
+                    "episode": "S2 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "12:55",
+                    "end": "14:50",
+                    "episode": "S18 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "14:50",
+                    "end": "15:50",
+                    "episode": "S9 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "15:50",
+                    "end": "16:50",
+                    "episode": "S9 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Shetland",
+                    "start": "16:50",
+                    "end": "19:10",
+                    "episode": "S2 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'Ispettore Gently",
+                    "start": "19:10",
+                    "end": "21:10",
+                    "episode": "S2 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La stagista del crimine - 1^TV",
+                    "start": "21:10",
+                    "end": "22:10",
+                    "episode": "S8 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La stagista del crimine - 1^TV",
+                    "start": "22:10",
+                    "end": "23:10",
+                    "episode": "S8 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miss Fisher: delitti e misteri",
+                    "start": "23:10",
+                    "end": "00:00",
+                    "episode": "S2 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-16",
+            "programs": [
+                {
+                    "name": "Miss Fisher: delitti e misteri",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "episode": "S2 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miss Fisher: delitti e misteri",
+                    "start": "00:00",
+                    "end": "00:15",
+                    "episode": "S2 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Miss Fisher: delitti e misteri",
+                    "start": "00:15",
+                    "end": "01:20",
+                    "episode": "S2 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Shetland",
+                    "start": "01:20",
+                    "end": "03:40",
+                    "episode": "S2 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Torbidi delitti",
+                    "start": "03:40",
+                    "end": "04:35",
+                    "episode": "S4 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Murder Comes to Town",
+                    "start": "04:35",
+                    "end": "05:30",
+                    "episode": "S4 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'investigatore Wolfe",
+                    "start": "05:30",
+                    "end": "06:00",
+                    "episode": "S1 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Delitti di provincia",
+                    "start": "06:00",
+                    "end": "07:00",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il delitto della porta accanto",
+                    "start": "07:00",
+                    "end": "08:00",
+                    "episode": "S3 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "A Crime To Remember",
+                    "start": "08:00",
+                    "end": "09:00",
+                    "episode": "S5 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "09:00",
+                    "end": "10:00",
+                    "episode": "S9 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "10:00",
+                    "end": "11:00",
+                    "episode": "S9 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'Ispettore Gently",
+                    "start": "11:00",
+                    "end": "12:55",
+                    "episode": "S2 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'ispettore Barnaby",
+                    "start": "12:55",
+                    "end": "14:50",
+                    "episode": "S19 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "14:50",
+                    "end": "15:50",
+                    "episode": "S9 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I misteri di Murdoch",
+                    "start": "15:50",
+                    "end": "16:50",
+                    "episode": "S10 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Shetland",
+                    "start": "16:50",
+                    "end": "19:10",
+                    "episode": "S3 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'Ispettore Gently",
+                    "start": "19:10",
+                    "end": "21:10",
+                    "episode": "S3 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Chelsea Detective",
+                    "start": "21:10",
+                    "end": "23:10",
+                    "episode": "S3 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cooper & Fry",
+                    "start": "23:10",
+                    "end": "00:00",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
