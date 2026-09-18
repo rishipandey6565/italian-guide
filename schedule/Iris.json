@@ -1,1 +1,213 @@
-{"channel_name":"Iris","days":[{"date":"2026-09-18","programs":[{"name":"Il Patto Dei Lupi","start":"00:00","end":"02:08","category":"Azione"},{"name":"Disastro A Hollywood","start":"02:08","end":"03:48","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012885301000105/media/27/91/05d95325-06cc-44dd-852f-b27d46c65f0c/7f5c18b6-f079-4511-ab69-a1f774004f77.jpg","category":"Commedia"},{"name":"Tentacoli","start":"03:48","end":"05:25","category":"Azione"},{"name":"Il Tradimento Passato Che Uccide","start":"05:25","end":"06:54","category":"Drammatico"},{"name":"Kojak","start":"06:54","end":"07:47","episode":"S4 E19"},{"name":"Walker Texas Ranger","start":"07:47","end":"08:34","episode":"S4 E5"},{"name":"The Departed Il Bene E Il Male","start":"08:34","end":"11:45","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012166901000102/media/24/88/099810d2-35a4-4358-a274-84cac2f23bdb/74a7f419-5d6e-4a75-8d1b-9a98f92dbe11.jpg","category":"Thriller"},{"name":"Profumo Storia Di Un Assassino","start":"11:45","end":"14:51","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012167001000102/media/30/94/0d973593-7e8f-4bd5-859d-24c1afa657ec/57e2385a-9fe6-48df-9dea-357b74b5021d.jpg","category":"Drammatico"},{"name":"La Meravigliosa Angelica","start":"14:51","end":"17:05","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000384101000102/media/10/10/ea9a1173-b4a5-495d-b1e4-850a43d862ae/a6be4bba-cef1-4453-a8e7-b7eb971175db.jpg","category":"Avventura"},{"name":"The Burning Plain Il Confine Della Solitudine","start":"17:05","end":"19:13","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F300584001000103/images/Mediaset_Italia_Production_-_Main/798/232/F300584001000103-2-header-poster-320x260.jpg","category":"Drammatico"},{"name":"Kojak","start":"19:13","end":"20:13","episode":"S4 E19"},{"name":"Walker Texas Ranger","start":"20:13","end":"21:18","episode":"S4 E5"},{"name":"Lo Straniero Senza Nome","start":"21:18","end":"23:29","category":"Western"},{"name":"Richard Jewell","start":"23:29","end":"02:07","category":"Drammatico"}]},{"date":"2026-09-19","programs":[{"name":"Richard Jewell","start":"00:00","end":"02:07","category":"Drammatico"},{"name":"The Burning Plain Il Confine Della Solitudine","start":"02:07","end":"03:49","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F300584001000103/images/Mediaset_Italia_Production_-_Main/798/232/F300584001000103-2-header-poster-320x260.jpg","category":"Drammatico"},{"name":"Profumo Storia Di Un Assassino","start":"03:49","end":"06:04","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012167001000102/media/30/94/0d973593-7e8f-4bd5-859d-24c1afa657ec/57e2385a-9fe6-48df-9dea-357b74b5021d.jpg","category":"Drammatico"},{"name":"Belli Dentro","start":"06:04","end":"06:30","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012873101000601/media/17/81/88f1cc6f-6f0a-46d0-bc3c-6660dbe62c88/33e7b384-5b70-4666-b266-e6442e662b3c.jpg","episode":"S3 E6","category":"Sit-Com"},{"name":"Belli Dentro","start":"06:30","end":"06:52","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012873101001001/media/17/81/88f1cc6f-6f0a-46d0-bc3c-6660dbe62c88/33e7b384-5b70-4666-b266-e6442e662b3c.jpg","episode":"S3 E10","category":"Sit-Com"},{"name":"I Ragazzi Della 3c","start":"06:52","end":"08:58","episode":"S3 E3"},{"name":"Lo Straniero Senza Nome","start":"08:58","end":"11:12","category":"Western"},{"name":"Senza Tregua","start":"11:12","end":"13:23","category":"Avventura"},{"name":"Richard Jewell","start":"13:23","end":"16:04","category":"Drammatico"},{"name":"The Burning Plain Il Confine Della Solitudine","start":"16:04","end":"18:22","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F300584001000103/images/Mediaset_Italia_Production_-_Main/798/232/F300584001000103-2-header-poster-320x260.jpg","category":"Drammatico"},{"name":"Sotto Il Segno Del Pericolo","start":"18:22","end":"21:14","category":"Drammatico"},{"name":"Il Silenzio Degli Innocenti","start":"21:14","end":"23:37","category":"Thriller"},{"name":"Scuola Di Cult","start":"23:37","end":"23:43","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334801002201/media/14/14/9ff12859-e928-4465-ba0b-d8bafe6a093f/f415b471-9f9a-42f4-a1d0-69692045f1dc.jpg","category":"Magazine"},{"name":"Murder At 1600 Delitto Alla Casa Bianca","start":"23:43","end":"01:54","category":"Poliziesco"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-09-18",
+            "programs": [
+                {
+                    "name": "Il Patto Dei Lupi",
+                    "start": "00:00",
+                    "end": "02:08",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Disastro A Hollywood",
+                    "start": "02:08",
+                    "end": "03:48",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/disastro-a-hollywood.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "Tentacoli",
+                    "start": "03:48",
+                    "end": "05:25",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Tradimento Passato Che Uccide",
+                    "start": "05:25",
+                    "end": "06:54",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:54",
+                    "end": "07:47",
+                    "episode": "S4 E19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "07:47",
+                    "end": "08:34",
+                    "episode": "S4 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Departed Il Bene E Il Male",
+                    "start": "08:34",
+                    "end": "11:45",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/the-departed-il-bene-e-il-male.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "Profumo Storia Di Un Assassino",
+                    "start": "11:45",
+                    "end": "14:51",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/profumo-storia-di-un-assassino.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "La Meravigliosa Angelica",
+                    "start": "14:51",
+                    "end": "17:05",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-meravigliosa-angelica.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "The Burning Plain Il Confine Della Solitudine",
+                    "start": "17:05",
+                    "end": "19:13",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/the-burning-plain-il-confine-della-solitudine.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:13",
+                    "end": "20:13",
+                    "episode": "S4 E19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:13",
+                    "end": "21:18",
+                    "episode": "S4 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Lo Straniero Senza Nome",
+                    "start": "21:18",
+                    "end": "23:29",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Richard Jewell",
+                    "start": "23:29",
+                    "end": "02:07",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-19",
+            "programs": [
+                {
+                    "name": "Richard Jewell",
+                    "start": "00:00",
+                    "end": "02:07",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Burning Plain Il Confine Della Solitudine",
+                    "start": "02:07",
+                    "end": "03:49",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/the-burning-plain-il-confine-della-solitudine.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Profumo Storia Di Un Assassino",
+                    "start": "03:49",
+                    "end": "06:04",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/profumo-storia-di-un-assassino.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Belli Dentro",
+                    "start": "06:04",
+                    "end": "06:30",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/belli-dentro.webp",
+                    "episode": "S3 E6",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Belli Dentro",
+                    "start": "06:30",
+                    "end": "06:52",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/belli-dentro.webp",
+                    "episode": "S3 E10",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "I Ragazzi Della 3c",
+                    "start": "06:52",
+                    "end": "08:58",
+                    "episode": "S3 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Lo Straniero Senza Nome",
+                    "start": "08:58",
+                    "end": "11:12",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Senza Tregua",
+                    "start": "11:12",
+                    "end": "13:23",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Richard Jewell",
+                    "start": "13:23",
+                    "end": "16:04",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Burning Plain Il Confine Della Solitudine",
+                    "start": "16:04",
+                    "end": "18:22",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/the-burning-plain-il-confine-della-solitudine.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Sotto Il Segno Del Pericolo",
+                    "start": "18:22",
+                    "end": "21:14",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Silenzio Degli Innocenti",
+                    "start": "21:14",
+                    "end": "23:37",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Scuola Di Cult",
+                    "start": "23:37",
+                    "end": "23:43",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/scuola-di-cult.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "Murder At 1600 Delitto Alla Casa Bianca",
+                    "start": "23:43",
+                    "end": "01:54",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
