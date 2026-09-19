@@ -1,1 +1,206 @@
-{"channel_name":"Iris","days":[{"date":"2026-09-19","programs":[{"name":"Richard Jewell","start":"00:00","end":"02:07","category":"Drammatico"},{"name":"The Burning Plain Il Confine Della Solitudine","start":"02:07","end":"03:49","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F300584001000103/images/Mediaset_Italia_Production_-_Main/798/232/F300584001000103-2-header-poster-320x260.jpg","category":"Drammatico"},{"name":"Profumo Storia Di Un Assassino","start":"03:49","end":"06:05","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012167001000102/media/30/94/0d973593-7e8f-4bd5-859d-24c1afa657ec/57e2385a-9fe6-48df-9dea-357b74b5021d.jpg","category":"Drammatico"},{"name":"Belli Dentro","start":"06:05","end":"06:30","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012873101000601/media/17/81/88f1cc6f-6f0a-46d0-bc3c-6660dbe62c88/33e7b384-5b70-4666-b266-e6442e662b3c.jpg","episode":"S3 E6","category":"Sit-Com"},{"name":"Belli Dentro","start":"06:30","end":"07:08","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012873101001001/media/17/81/88f1cc6f-6f0a-46d0-bc3c-6660dbe62c88/33e7b384-5b70-4666-b266-e6442e662b3c.jpg","episode":"S3 E10","category":"Sit-Com"},{"name":"I Ragazzi Della 3c","start":"07:08","end":"09:07","episode":"S3 E3"},{"name":"Lo Straniero Senza Nome","start":"09:07","end":"11:19","category":"Western"},{"name":"Senza Tregua","start":"11:19","end":"13:26","category":"Avventura"},{"name":"Richard Jewell","start":"13:26","end":"16:13","category":"Drammatico"},{"name":"The Burning Plain Il Confine Della Solitudine","start":"16:13","end":"18:19","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F300584001000103/images/Mediaset_Italia_Production_-_Main/798/232/F300584001000103-2-header-poster-320x260.jpg","category":"Drammatico"},{"name":"Sotto Il Segno Del Pericolo","start":"18:19","end":"21:14","category":"Drammatico"},{"name":"Il Silenzio Degli Innocenti","start":"21:14","end":"23:35","category":"Thriller"},{"name":"Scuola Di Cult","start":"23:35","end":"23:49","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334801002201/media/14/14/9ff12859-e928-4465-ba0b-d8bafe6a093f/f415b471-9f9a-42f4-a1d0-69692045f1dc.jpg","category":"Magazine"},{"name":"Murder At 1600 Delitto Alla Casa Bianca","start":"23:49","end":"01:58","category":"Poliziesco"}]},{"date":"2026-09-20","programs":[{"name":"Murder At 1600 Delitto Alla Casa Bianca","start":"00:00","end":"01:58","category":"Poliziesco"},{"name":"Sotto Il Segno Del Pericolo","start":"01:58","end":"04:14","category":"Drammatico"},{"name":"The Burning Plain Il Confine Della Solitudine","start":"04:14","end":"05:57","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F300584001000103/images/Mediaset_Italia_Production_-_Main/798/232/F300584001000103-2-header-poster-320x260.jpg","category":"Drammatico"},{"name":"Gli Orizzonti Del Sole","start":"05:57","end":"07:00","category":"Drammatico"},{"name":"I Ragazzi Della 3c","start":"07:00","end":"08:57","episode":"S3 E4"},{"name":"Il Silenzio Degli Innocenti","start":"08:57","end":"11:22","category":"Thriller"},{"name":"La Chiave Di Sara","start":"11:22","end":"13:39","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303678601000102/media/22/86/14679567-3acd-45d1-9095-e30b72ef3c51/0ab182fa-e3f8-4550-9b3c-c69639e5ee14.jpg","category":"Drammatico"},{"name":"La Signora Dello Zoo Di Varsavia","start":"13:39","end":"16:09","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F307983201000102/media/19/83/dddf667d-b727-4cda-a4d7-b4022849e771/c7b30084-4c68-4ed1-af56-78c510b04f6f.jpg","category":"Drammatico"},{"name":"Note Di Cinema","start":"16:09","end":"16:24","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334401003901/media/16/80/b431800d-3c5c-400e-a5fd-e8f0a6f6073c/12a8fb1a-1bcc-4dcb-b967-e4a16a286e7d.jpg","category":"Magazine"},{"name":"Nella Valle Di Elah","start":"16:24","end":"18:54","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012704301000102/media/21/85/80207a86-6a1f-4be9-89de-2be3058b8629/94146c87-de92-4829-9142-e9d6599371d9.jpg","category":"Drammatico"},{"name":"Murder At 1600 Delitto Alla Casa Bianca","start":"18:54","end":"21:14","category":"Poliziesco"},{"name":"The Untouchables Gli Intoccabili","start":"21:14","end":"23:47","category":"Thriller"},{"name":"Motherless Brooklyn","start":"23:47","end":"02:31","category":"Crime"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-09-19",
+            "programs": [
+                {
+                    "name": "Richard Jewell",
+                    "start": "00:00",
+                    "end": "02:07",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Burning Plain Il Confine Della Solitudine",
+                    "start": "02:07",
+                    "end": "03:49",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/the-burning-plain-il-confine-della-solitudine.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Profumo Storia Di Un Assassino",
+                    "start": "03:49",
+                    "end": "06:05",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/profumo-storia-di-un-assassino.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Belli Dentro",
+                    "start": "06:05",
+                    "end": "06:30",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/belli-dentro.webp",
+                    "episode": "S3 E6",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Belli Dentro",
+                    "start": "06:30",
+                    "end": "07:08",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/belli-dentro.webp",
+                    "episode": "S3 E10",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "I Ragazzi Della 3c",
+                    "start": "07:08",
+                    "end": "09:07",
+                    "episode": "S3 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Lo Straniero Senza Nome",
+                    "start": "09:07",
+                    "end": "11:19",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Senza Tregua",
+                    "start": "11:19",
+                    "end": "13:26",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Richard Jewell",
+                    "start": "13:26",
+                    "end": "16:13",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Burning Plain Il Confine Della Solitudine",
+                    "start": "16:13",
+                    "end": "18:19",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/the-burning-plain-il-confine-della-solitudine.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Sotto Il Segno Del Pericolo",
+                    "start": "18:19",
+                    "end": "21:14",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Silenzio Degli Innocenti",
+                    "start": "21:14",
+                    "end": "23:35",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Scuola Di Cult",
+                    "start": "23:35",
+                    "end": "23:49",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/scuola-di-cult.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "Murder At 1600 Delitto Alla Casa Bianca",
+                    "start": "23:49",
+                    "end": "01:58",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-20",
+            "programs": [
+                {
+                    "name": "Murder At 1600 Delitto Alla Casa Bianca",
+                    "start": "00:00",
+                    "end": "01:58",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sotto Il Segno Del Pericolo",
+                    "start": "01:58",
+                    "end": "04:14",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Burning Plain Il Confine Della Solitudine",
+                    "start": "04:14",
+                    "end": "05:57",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/the-burning-plain-il-confine-della-solitudine.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Gli Orizzonti Del Sole",
+                    "start": "05:57",
+                    "end": "07:00",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I Ragazzi Della 3c",
+                    "start": "07:00",
+                    "end": "08:57",
+                    "episode": "S3 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Silenzio Degli Innocenti",
+                    "start": "08:57",
+                    "end": "11:22",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Chiave Di Sara",
+                    "start": "11:22",
+                    "end": "13:39",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-chiave-di-sara.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "La Signora Dello Zoo Di Varsavia",
+                    "start": "13:39",
+                    "end": "16:09",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-signora-dello-zoo-di-varsavia.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "16:09",
+                    "end": "16:24",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/note-di-cinema.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "Nella Valle Di Elah",
+                    "start": "16:24",
+                    "end": "18:54",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/nella-valle-di-elah.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Murder At 1600 Delitto Alla Casa Bianca",
+                    "start": "18:54",
+                    "end": "21:14",
+                    "category": "Poliziesco",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "The Untouchables Gli Intoccabili",
+                    "start": "21:14",
+                    "end": "23:47",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Motherless Brooklyn",
+                    "start": "23:47",
+                    "end": "02:31",
+                    "category": "Crime",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
