@@ -1,1 +1,120 @@
-{"channel_name":"ACI Sport Tv","days":[{"date":"2026-09-21","programs":[{"name":"DTM - SACHSENRING - G2","start":"00:00","end":"00:23","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Inside ACI Racing Weekend Finale","start":"00:23","end":"00:38","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"FREC - HOCKENHEIM - G1","start":"00:38","end":"01:29","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Speciale F1 - GP d'Italia","start":"01:29","end":"01:54","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Cross Country Magazine","start":"01:54","end":"02:25","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"FREC - HOCKENHEIM - G2","start":"02:25","end":"02:42","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Cross Country Magazine","start":"02:42","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"ACI Sport Tv","start":"06:00","end":"12:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"12:00","end":"18:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"18:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"}]},{"date":"2026-09-22","programs":[{"name":"ACI Sport Tv","start":"00:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"00:00","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"06:00","end":"12:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"12:00","end":"18:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"},{"name":"ACI Sport Tv","start":"18:00","end":"00:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Altri Programmi"}]}]}
+{
+    "channel_name": "ACI Sport Tv",
+    "days": [
+        {
+            "date": "2026-09-21",
+            "programs": [
+                {
+                    "name": "DTM - SACHSENRING - G2",
+                    "start": "00:00",
+                    "end": "00:23",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Inside ACI Racing Weekend Finale",
+                    "start": "00:23",
+                    "end": "00:38",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "FREC - HOCKENHEIM - G1",
+                    "start": "00:38",
+                    "end": "01:29",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Speciale F1 - GP d'Italia",
+                    "start": "01:29",
+                    "end": "01:54",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Cross Country Magazine",
+                    "start": "01:54",
+                    "end": "02:25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "FREC - HOCKENHEIM - G2",
+                    "start": "02:25",
+                    "end": "02:42",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Cross Country Magazine",
+                    "start": "02:42",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "06:00",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "12:00",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "18:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-22",
+            "programs": [
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "00:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "00:00",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "06:00",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "12:00",
+                    "end": "18:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                },
+                {
+                    "name": "ACI Sport Tv",
+                    "start": "18:00",
+                    "end": "00:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Altri Programmi"
+                }
+            ]
+        }
+    ]
+}
