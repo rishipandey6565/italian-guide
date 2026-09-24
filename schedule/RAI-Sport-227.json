@@ -1,1 +1,197 @@
-{"channel_name":"RAI Sport   227","days":[{"date":"2026-09-24","programs":[{"name":"Calcio: Mondiali Under 20","start":"00:00","end":"01:45","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Mondiali di Ciclismo","start":"01:45","end":"04:20","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Tiro a Volo","start":"04:20","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Europei di Pallavolo maschile","start":"06:00","end":"08:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Calcio: Mondiali Under 20","start":"08:00","end":"10:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Europei di Pallavolo maschile","start":"10:00","end":"12:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Calcio: Mondiali Under 20","start":"12:00","end":"14:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Canoa","start":"14:00","end":"16:55","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Mondiali di Ciclismo","start":"16:55","end":"18:45","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Radiocorsa","start":"18:45","end":"19:25","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Ciclismo","start":"19:25","end":"23:20","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Reparto Corse","start":"23:20","end":"23:45","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Sport"},{"name":"Automobilismo","start":"23:45","end":"00:55","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"}]},{"date":"2026-09-25","programs":[{"name":"Automobilismo","start":"00:00","end":"00:55","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Automobilismo","start":"00:55","end":"02:05","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Mondiali di Ciclismo","start":"02:05","end":"06:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Canoa","start":"06:00","end":"09:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Canoa","start":"09:00","end":"13:10","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Mondiale Motocross","start":"13:10","end":"14:00","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Canoa","start":"14:00","end":"17:45","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Gli imperdibili","start":"17:45","end":"17:50","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Mondiali di Ciclismo","start":"17:50","end":"19:30","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"UEFA Nations League","start":"19:30","end":"20:15","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Corsa in Montagna","start":"20:15","end":"20:50","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Europei di Pallavolo maschile","start":"20:50","end":"23:30","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"},{"name":"Mondiali di Ciclismo","start":"23:30","end":"02:15","logo":"https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png","category":"Intrattenimento"}]}]}
+{
+    "channel_name": "RAI Sport   227",
+    "days": [
+        {
+            "date": "2026-09-24",
+            "programs": [
+                {
+                    "name": "Calcio: Mondiali Under 20",
+                    "start": "00:00",
+                    "end": "01:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Mondiali di Ciclismo",
+                    "start": "01:45",
+                    "end": "04:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Tiro a Volo",
+                    "start": "04:20",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Europei di Pallavolo maschile",
+                    "start": "06:00",
+                    "end": "08:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Calcio: Mondiali Under 20",
+                    "start": "08:00",
+                    "end": "10:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Europei di Pallavolo maschile",
+                    "start": "10:00",
+                    "end": "12:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Calcio: Mondiali Under 20",
+                    "start": "12:00",
+                    "end": "14:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Canoa",
+                    "start": "14:00",
+                    "end": "16:55",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Mondiali di Ciclismo",
+                    "start": "16:55",
+                    "end": "18:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Radiocorsa",
+                    "start": "18:45",
+                    "end": "19:25",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/RAI-Sport-227/radiocorsa.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Ciclismo",
+                    "start": "19:25",
+                    "end": "23:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Reparto Corse",
+                    "start": "23:20",
+                    "end": "23:45",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/RAI-Sport-227/reparto-corse.webp",
+                    "category": "Sport"
+                },
+                {
+                    "name": "Automobilismo",
+                    "start": "23:45",
+                    "end": "00:55",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/RAI-Sport-227/automobilismo.webp",
+                    "category": "Intrattenimento"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-25",
+            "programs": [
+                {
+                    "name": "Automobilismo",
+                    "start": "00:00",
+                    "end": "00:55",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/RAI-Sport-227/automobilismo.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Automobilismo",
+                    "start": "00:55",
+                    "end": "02:05",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/RAI-Sport-227/automobilismo.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Mondiali di Ciclismo",
+                    "start": "02:05",
+                    "end": "06:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Canoa",
+                    "start": "06:00",
+                    "end": "09:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Canoa",
+                    "start": "09:00",
+                    "end": "13:10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Mondiale Motocross",
+                    "start": "13:10",
+                    "end": "14:00",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Canoa",
+                    "start": "14:00",
+                    "end": "17:45",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Gli imperdibili",
+                    "start": "17:45",
+                    "end": "17:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Mondiali di Ciclismo",
+                    "start": "17:50",
+                    "end": "19:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "UEFA Nations League",
+                    "start": "19:30",
+                    "end": "20:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Corsa in Montagna",
+                    "start": "20:15",
+                    "end": "20:50",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Europei di Pallavolo maschile",
+                    "start": "20:50",
+                    "end": "23:30",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                },
+                {
+                    "name": "Mondiali di Ciclismo",
+                    "start": "23:30",
+                    "end": "02:15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp",
+                    "category": "Intrattenimento"
+                }
+            ]
+        }
+    ]
+}
