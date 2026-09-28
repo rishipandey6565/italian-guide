@@ -1,1 +1,241 @@
-{"channel_name":"Iris","days":[{"date":"2026-09-28","programs":[{"name":"Quei Bravi Ragazzi","start":"00:00","end":"00:01","category":"Drammatico"},{"name":"American History","start":"00:01","end":"02:16","episode":"S10","category":"Drammatico"},{"name":"Land Of The Lost","start":"02:16","end":"03:51","category":"Avventura"},{"name":"Il Tempo Delle Mele 3","start":"03:51","end":"05:31","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F001626901000103/media/11/11/7a48ebb3-9c23-42d3-977b-13bb3ea2b992/0a749b34-bc2a-474b-bb6f-49e4dcd22214.jpg","category":"Commedia Romantica"},{"name":"Cinema","start":"05:31","end":"06:35","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F001807801000101/media/15/15/4d98a3ec-c3c2-4722-98aa-0f54014edd65/2c0e2f1d-1828-4681-bace-8413c2c2d917.jpg","category":"Drammatico"},{"name":"Riavanti Marsch!","start":"06:35","end":"08:39","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000913701000101/media/6/6/400478aa-c260-4e65-9416-9f4e4f2a4da0/11ddbbce-57a0-49bc-b606-5f4c802ddbfc.jpg","category":"Comico"},{"name":"Quei Bravi Ragazzi","start":"08:39","end":"11:28","category":"Drammatico"},{"name":"Kojak","start":"11:28","end":"12:28","episode":"S4 E25"},{"name":"Walker Texas Ranger","start":"12:28","end":"13:24","episode":"S4 E11"},{"name":"Jude","start":"13:24","end":"15:56","category":"Drammatico"},{"name":"L'indomabile Angelica","start":"15:56","end":"17:44","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000384201000102/media/31/95/7dd9f512-cc27-4f5f-af6a-9b43c94043ca/33bb04bd-d051-4da6-bfb5-c28849fdb535.jpg","category":"Avventura"},{"name":"Memorie Di Un Pesce Rosso","start":"17:44","end":"19:22","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F302131401000102/media/6/6/7282e5d0-120a-44c3-b0ef-60ff10c2e0ad/e32b8f1c-be07-4f94-bb38-75c21af36c47.jpg","category":"Commedia"},{"name":"Kojak","start":"19:22","end":"20:16","episode":"S4 E25"},{"name":"Walker Texas Ranger","start":"20:16","end":"21:16","episode":"S4 E11"},{"name":"Unbroken","start":"21:16","end":"23:54","category":"Azione"},{"name":"La Teoria Del Tutto","start":"23:54","end":"02:11","category":"Biografico"}]},{"date":"2026-09-29","programs":[{"name":"La Teoria Del Tutto","start":"00:00","end":"02:11","category":"Biografico"},{"name":"Note Di Cinema","start":"02:11","end":"02:20"},{"name":"Jude","start":"02:20","end":"04:17","category":"Drammatico"},{"name":"Memorie Di Un Pesce Rosso","start":"04:17","end":"05:38","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F302131401000102/media/6/6/7282e5d0-120a-44c3-b0ef-60ff10c2e0ad/e32b8f1c-be07-4f94-bb38-75c21af36c47.jpg","category":"Commedia"},{"name":"Belli Dentro","start":"05:38","end":"06:29","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012873101001801/media/17/81/88f1cc6f-6f0a-46d0-bc3c-6660dbe62c88/33e7b384-5b70-4666-b266-e6442e662b3c.jpg","episode":"S3 E18","category":"Sit-Com"},{"name":"Zorro Alla Corte Di Spagna","start":"06:29","end":"08:31","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F001738001000101/media/7/7/49078fc0-e80a-409d-af7b-febecdd8bc98/02ead057-adb1-48ce-864b-e4f513cbf97f.jpg","category":"Avventura"},{"name":"American History","start":"08:31","end":"10:25","episode":"S10","category":"Drammatico"},{"name":"Kojak","start":"10:25","end":"11:12","episode":"S5 E1"},{"name":"Walker Texas Ranger","start":"11:12","end":"11:53","episode":"S4 E12"},{"name":"Queen & Slim","start":"11:53","end":"14:40","category":"Drammatico"},{"name":"By The Sea","start":"14:40","end":"17:14","category":"Drammatico"},{"name":"Land Shark: Rischio A Wall Street","start":"17:14","end":"19:12","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F302046101000102/media/10/10/2b78ac6e-5030-4dd4-84d9-9869a370bfc6/264c2a7c-3a98-41b7-ac7f-f78f996d51ff.jpg","category":"Drammatico"},{"name":"Kojak","start":"19:12","end":"20:11","episode":"S5 E1"},{"name":"Walker Texas Ranger","start":"20:11","end":"21:12","episode":"S4 E12"},{"name":"Il Pistolero Di Dio","start":"21:12","end":"23:05","category":"Western"},{"name":"Agguato Sul Grande Fiume","start":"23:05","end":"01:11","category":"Avventura"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-09-28",
+            "programs": [
+                {
+                    "name": "Quei Bravi Ragazzi",
+                    "start": "00:00",
+                    "end": "00:01",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "American History",
+                    "start": "00:01",
+                    "end": "02:16",
+                    "episode": "S10",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Land Of The Lost",
+                    "start": "02:16",
+                    "end": "03:51",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Tempo Delle Mele 3",
+                    "start": "03:51",
+                    "end": "05:31",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/il-tempo-delle-mele-3.webp",
+                    "category": "Commedia Romantica"
+                },
+                {
+                    "name": "Cinema",
+                    "start": "05:31",
+                    "end": "06:35",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/cinema.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Riavanti Marsch!",
+                    "start": "06:35",
+                    "end": "08:39",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/riavanti-marsch.webp",
+                    "category": "Comico"
+                },
+                {
+                    "name": "Quei Bravi Ragazzi",
+                    "start": "08:39",
+                    "end": "11:28",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "11:28",
+                    "end": "12:28",
+                    "episode": "S4 E25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "12:28",
+                    "end": "13:24",
+                    "episode": "S4 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Jude",
+                    "start": "13:24",
+                    "end": "15:56",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'indomabile Angelica",
+                    "start": "15:56",
+                    "end": "17:44",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/l-indomabile-angelica.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Memorie Di Un Pesce Rosso",
+                    "start": "17:44",
+                    "end": "19:22",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/memorie-di-un-pesce-rosso.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:22",
+                    "end": "20:16",
+                    "episode": "S4 E25",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:16",
+                    "end": "21:16",
+                    "episode": "S4 E11",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Unbroken",
+                    "start": "21:16",
+                    "end": "23:54",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Teoria Del Tutto",
+                    "start": "23:54",
+                    "end": "02:11",
+                    "category": "Biografico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-09-29",
+            "programs": [
+                {
+                    "name": "La Teoria Del Tutto",
+                    "start": "00:00",
+                    "end": "02:11",
+                    "category": "Biografico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "02:11",
+                    "end": "02:20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Jude",
+                    "start": "02:20",
+                    "end": "04:17",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Memorie Di Un Pesce Rosso",
+                    "start": "04:17",
+                    "end": "05:38",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/memorie-di-un-pesce-rosso.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "Belli Dentro",
+                    "start": "05:38",
+                    "end": "06:29",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/belli-dentro.webp",
+                    "episode": "S3 E18",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Zorro Alla Corte Di Spagna",
+                    "start": "06:29",
+                    "end": "08:31",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/zorro-alla-corte-di-spagna.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "American History",
+                    "start": "08:31",
+                    "end": "10:25",
+                    "episode": "S10",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "10:25",
+                    "end": "11:12",
+                    "episode": "S5 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "11:12",
+                    "end": "11:53",
+                    "episode": "S4 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Queen & Slim",
+                    "start": "11:53",
+                    "end": "14:40",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "By The Sea",
+                    "start": "14:40",
+                    "end": "17:14",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Land Shark: Rischio A Wall Street",
+                    "start": "17:14",
+                    "end": "19:12",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/land-shark-rischio-a-wall-street.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:12",
+                    "end": "20:11",
+                    "episode": "S5 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:11",
+                    "end": "21:12",
+                    "episode": "S4 E12",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Pistolero Di Dio",
+                    "start": "21:12",
+                    "end": "23:05",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Agguato Sul Grande Fiume",
+                    "start": "23:05",
+                    "end": "01:11",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
