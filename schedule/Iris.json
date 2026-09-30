@@ -1,1 +1,248 @@
-{"channel_name":"Iris","days":[{"date":"2026-09-30","programs":[{"name":"Agguato Sul Grande Fiume","start":"00:00","end":"00:55","category":"Avventura"},{"name":"Queen & Slim","start":"00:55","end":"03:06","category":"Drammatico"},{"name":"Land Shark: Rischio A Wall Street","start":"03:06","end":"04:27","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F302046101000102/media/10/10/2b78ac6e-5030-4dd4-84d9-9869a370bfc6/264c2a7c-3a98-41b7-ac7f-f78f996d51ff.jpg","category":"Drammatico"},{"name":"Note Di Cinema","start":"04:27","end":"04:35","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334401004001/media/16/80/b431800d-3c5c-400e-a5fd-e8f0a6f6073c/12a8fb1a-1bcc-4dcb-b967-e4a16a286e7d.jpg","category":"Magazine"},{"name":"Finche' C'e' Ditta C'e' Speranza","start":"04:35","end":"04:55","episode":"S1 E2"},{"name":"Belli Dentro","start":"04:55","end":"05:20","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012873101001801/media/17/81/88f1cc6f-6f0a-46d0-bc3c-6660dbe62c88/33e7b384-5b70-4666-b266-e6442e662b3c.jpg","episode":"S3 E18","category":"Sit-Com"},{"name":"Belli Dentro","start":"05:20","end":"05:36","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012873101001901/media/17/81/88f1cc6f-6f0a-46d0-bc3c-6660dbe62c88/33e7b384-5b70-4666-b266-e6442e662b3c.jpg","episode":"S3 E19","category":"Sit-Com"},{"name":"Il Tigre","start":"05:36","end":"07:36","category":"Ita"},{"name":"Unbroken","start":"07:36","end":"10:17","category":"Azione"},{"name":"Kojak","start":"10:17","end":"11:05","episode":"S5 E2"},{"name":"Walker Texas Ranger","start":"11:05","end":"11:50","episode":"S4 E13"},{"name":"Cake","start":"11:50","end":"14:04","category":"Drammatico"},{"name":"Agguato Sul Grande Fiume","start":"14:04","end":"16:18","category":"Avventura"},{"name":"Note Di Cinema Happy Birthday","start":"16:18","end":"16:24","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334701000501/media/16/80/b431800d-3c5c-400e-a5fd-e8f0a6f6073c/12a8fb1a-1bcc-4dcb-b967-e4a16a286e7d.jpg","category":"Magazine"},{"name":"Get On Up La Storia Di James Brown","start":"16:24","end":"19:13","category":"Biografico"},{"name":"Kojak","start":"19:13","end":"20:12","episode":"S5 E2"},{"name":"Walker Texas Ranger","start":"20:12","end":"21:14","episode":"S4 E13"},{"name":"L'uomo Che Sussurrava Ai Cavalli","start":"21:14","end":"00:57","category":"Drammatico"}]},{"date":"2026-10-01","programs":[{"name":"L'uomo Che Sussurrava Ai Cavalli","start":"00:00","end":"00:57","category":"Drammatico"},{"name":"Get On Up La Storia Di James Brown","start":"00:57","end":"03:20","category":"Biografico"},{"name":"Agguato Sul Grande Fiume","start":"03:20","end":"04:56","category":"Avventura"},{"name":"La Guerra Segreta","start":"04:56","end":"06:44","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000303901000102/media/4/4/fc551cd0-38bd-4c30-9929-c73295be1c16/0602798d-d28d-455f-8838-e1a8e1cec4fd.jpg","category":"Commedia"},{"name":"Il Figlio Dello Sceicco","start":"06:44","end":"08:42","category":"Avventura"},{"name":"Il Pistolero Di Dio","start":"08:42","end":"10:33","category":"Western"},{"name":"Kojak","start":"10:33","end":"11:20","episode":"S5 E3"},{"name":"Walker Texas Ranger","start":"11:20","end":"12:05","episode":"S4 E14"},{"name":"Payback La Rivincita Di Porter","start":"12:05","end":"14:19","category":"Azione"},{"name":"Il Bounty","start":"14:19","end":"17:01","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000988601000102/media/25/89/ecf174e0-74a2-49a1-ba9b-97287f21dda5/c1465f25-b219-4610-81f0-9a816eaefdc2.jpg","category":"Avventura"},{"name":"In Viaggio Con Charlie","start":"17:01","end":"19:14","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309025501000102/media/10/10/6a249b32-2c4a-4804-b492-b1cba639ec5a/6736ef6a-222e-4487-b446-0355b095d67d.jpg","category":"Avventura"},{"name":"Kojak","start":"19:14","end":"20:13","episode":"S5 E3"},{"name":"Walker Texas Ranger","start":"20:13","end":"21:15","episode":"S4 E14"},{"name":"Arma Letale","start":"21:15","end":"23:32","category":"Azione"},{"name":"Senza Tregua","start":"23:32","end":"01:37","category":"Avventura"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-09-30",
+            "programs": [
+                {
+                    "name": "Agguato Sul Grande Fiume",
+                    "start": "00:00",
+                    "end": "00:55",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Queen & Slim",
+                    "start": "00:55",
+                    "end": "03:06",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Land Shark: Rischio A Wall Street",
+                    "start": "03:06",
+                    "end": "04:27",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/land-shark-rischio-a-wall-street.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "04:27",
+                    "end": "04:35",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/note-di-cinema.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "Finche' C'e' Ditta C'e' Speranza",
+                    "start": "04:35",
+                    "end": "04:55",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Belli Dentro",
+                    "start": "04:55",
+                    "end": "05:20",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/belli-dentro.webp",
+                    "episode": "S3 E18",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Belli Dentro",
+                    "start": "05:20",
+                    "end": "05:36",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/belli-dentro.webp",
+                    "episode": "S3 E19",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Il Tigre",
+                    "start": "05:36",
+                    "end": "07:36",
+                    "category": "Ita",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Unbroken",
+                    "start": "07:36",
+                    "end": "10:17",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "10:17",
+                    "end": "11:05",
+                    "episode": "S5 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "11:05",
+                    "end": "11:50",
+                    "episode": "S4 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cake",
+                    "start": "11:50",
+                    "end": "14:04",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Agguato Sul Grande Fiume",
+                    "start": "14:04",
+                    "end": "16:18",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema Happy Birthday",
+                    "start": "16:18",
+                    "end": "16:24",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/note-di-cinema-happy-birthday.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "Get On Up La Storia Di James Brown",
+                    "start": "16:24",
+                    "end": "19:13",
+                    "category": "Biografico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:13",
+                    "end": "20:12",
+                    "episode": "S5 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:12",
+                    "end": "21:14",
+                    "episode": "S4 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "L'uomo Che Sussurrava Ai Cavalli",
+                    "start": "21:14",
+                    "end": "00:57",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-10-01",
+            "programs": [
+                {
+                    "name": "L'uomo Che Sussurrava Ai Cavalli",
+                    "start": "00:00",
+                    "end": "00:57",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Get On Up La Storia Di James Brown",
+                    "start": "00:57",
+                    "end": "03:20",
+                    "category": "Biografico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Agguato Sul Grande Fiume",
+                    "start": "03:20",
+                    "end": "04:56",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Guerra Segreta",
+                    "start": "04:56",
+                    "end": "06:44",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-guerra-segreta.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "Il Figlio Dello Sceicco",
+                    "start": "06:44",
+                    "end": "08:42",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Pistolero Di Dio",
+                    "start": "08:42",
+                    "end": "10:33",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "10:33",
+                    "end": "11:20",
+                    "episode": "S5 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "11:20",
+                    "end": "12:05",
+                    "episode": "S4 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Payback La Rivincita Di Porter",
+                    "start": "12:05",
+                    "end": "14:19",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Bounty",
+                    "start": "14:19",
+                    "end": "17:01",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/il-bounty.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "In Viaggio Con Charlie",
+                    "start": "17:01",
+                    "end": "19:14",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/in-viaggio-con-charlie.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:14",
+                    "end": "20:13",
+                    "episode": "S5 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:13",
+                    "end": "21:15",
+                    "episode": "S4 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Arma Letale",
+                    "start": "21:15",
+                    "end": "23:32",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Senza Tregua",
+                    "start": "23:32",
+                    "end": "01:37",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
