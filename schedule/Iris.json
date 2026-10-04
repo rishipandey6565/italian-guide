@@ -1,1 +1,205 @@
-{"channel_name":"Iris","days":[{"date":"2026-10-04","programs":[{"name":"La Talpa","start":"00:00","end":"01:59","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F304203001000104/media/15/15/f2e8e6b1-50d6-4be6-b94d-de6b73adfbff/80563b5c-4f11-4a39-9f15-e54dfb2b220b.jpg","category":"Thriller"},{"name":"I Tre Giorni Del Condor","start":"01:59","end":"04:00","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000700601000104/media/5/5/f341350e-7224-4c5b-8713-df796f67ee11/cc5c9a00-7c87-4a08-92fd-2e95b83c3065.jpg","category":"Drammatico"},{"name":"Corvo Rosso Non Avrai Il Mio Scalpo","start":"04:00","end":"05:46","category":"Avventura"},{"name":"Si Chiude All'alba","start":"05:46","end":"06:55","category":"Commedia"},{"name":"Caro Maestro","start":"06:55","end":"08:48","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F006550501000301/media/16/80/8b4120cb-ee17-4212-961f-750ca0de8569/9084feec-aab5-4728-bdc5-d0322a6985ef.jpg","episode":"S1 E3","category":"Commedia"},{"name":"La Giusta Causa","start":"08:48","end":"11:01","category":"Thriller"},{"name":"Motherless Brooklyn","start":"11:01","end":"13:55","category":"Crime"},{"name":"King Of Thieves","start":"13:55","end":"16:14","category":"Crime"},{"name":"Note Di Cinema","start":"16:14","end":"16:24","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334401004101/media/16/80/b431800d-3c5c-400e-a5fd-e8f0a6f6073c/12a8fb1a-1bcc-4dcb-b967-e4a16a286e7d.jpg","category":"Magazine"},{"name":"Se Mi Lasci Ti Cancello","start":"16:24","end":"18:42","category":"Commedia"},{"name":"La Recluta","start":"18:42","end":"21:14","category":"Giallo"},{"name":"Bastardi Senza Gloria","start":"21:14","end":"00:12","category":"Azione"}]},{"date":"2026-10-05","programs":[{"name":"Bastardi Senza Gloria","start":"00:00","end":"00:12","category":"Azione"},{"name":"Boogie Nights L'altra Hollywood","start":"00:12","end":"03:11","category":"Commedia"},{"name":"Se Mi Lasci Ti Cancello","start":"03:11","end":"05:01","category":"Commedia"},{"name":"King Of Thieves","start":"05:01","end":"06:29","category":"Crime"},{"name":"Orazio","start":"06:29","end":"07:15","episode":"S1 E1"},{"name":"Kojak","start":"07:15","end":"08:02","episode":"S5 E5"},{"name":"Kojak","start":"08:02","end":"08:50","episode":"S5 E6"},{"name":"Bastardi Senza Gloria","start":"08:50","end":"11:48","category":"Azione"},{"name":"Role Models","start":"11:48","end":"13:58","category":"Commedia"},{"name":"I Molti Santi Del New Jersey","start":"13:58","end":"16:30","category":"Drammatico"},{"name":"La Tempesta Perfetta","start":"16:30","end":"19:12","category":"Thriller"},{"name":"Kojak","start":"19:12","end":"20:11","episode":"S5 E5"},{"name":"Walker Texas Ranger","start":"20:11","end":"21:14","episode":"S4 E16"},{"name":"King Arthur","start":"21:14","end":"23:46","category":"Avventura"},{"name":"Harriet","start":"23:46","end":"02:16","category":"Biografico"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-10-04",
+            "programs": [
+                {
+                    "name": "La Talpa",
+                    "start": "00:00",
+                    "end": "01:59",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/la-talpa.webp",
+                    "category": "Thriller"
+                },
+                {
+                    "name": "I Tre Giorni Del Condor",
+                    "start": "01:59",
+                    "end": "04:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/i-tre-giorni-del-condor.webp",
+                    "category": "Drammatico"
+                },
+                {
+                    "name": "Corvo Rosso Non Avrai Il Mio Scalpo",
+                    "start": "04:00",
+                    "end": "05:46",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Si Chiude All'alba",
+                    "start": "05:46",
+                    "end": "06:55",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Caro Maestro",
+                    "start": "06:55",
+                    "end": "08:48",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/caro-maestro.webp",
+                    "episode": "S1 E3",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "La Giusta Causa",
+                    "start": "08:48",
+                    "end": "11:01",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Motherless Brooklyn",
+                    "start": "11:01",
+                    "end": "13:55",
+                    "category": "Crime",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "King Of Thieves",
+                    "start": "13:55",
+                    "end": "16:14",
+                    "category": "Crime",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "16:14",
+                    "end": "16:24",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/note-di-cinema.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "Se Mi Lasci Ti Cancello",
+                    "start": "16:24",
+                    "end": "18:42",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Recluta",
+                    "start": "18:42",
+                    "end": "21:14",
+                    "category": "Giallo",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Bastardi Senza Gloria",
+                    "start": "21:14",
+                    "end": "00:12",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-10-05",
+            "programs": [
+                {
+                    "name": "Bastardi Senza Gloria",
+                    "start": "00:00",
+                    "end": "00:12",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Boogie Nights L'altra Hollywood",
+                    "start": "00:12",
+                    "end": "03:11",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Se Mi Lasci Ti Cancello",
+                    "start": "03:11",
+                    "end": "05:01",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "King Of Thieves",
+                    "start": "05:01",
+                    "end": "06:29",
+                    "category": "Crime",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Orazio",
+                    "start": "06:29",
+                    "end": "07:15",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "07:15",
+                    "end": "08:02",
+                    "episode": "S5 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "08:02",
+                    "end": "08:50",
+                    "episode": "S5 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Bastardi Senza Gloria",
+                    "start": "08:50",
+                    "end": "11:48",
+                    "category": "Azione",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Role Models",
+                    "start": "11:48",
+                    "end": "13:58",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "I Molti Santi Del New Jersey",
+                    "start": "13:58",
+                    "end": "16:30",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Tempesta Perfetta",
+                    "start": "16:30",
+                    "end": "19:12",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:12",
+                    "end": "20:11",
+                    "episode": "S5 E5",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:11",
+                    "end": "21:14",
+                    "episode": "S4 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "King Arthur",
+                    "start": "21:14",
+                    "end": "23:46",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Harriet",
+                    "start": "23:46",
+                    "end": "02:16",
+                    "category": "Biografico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
