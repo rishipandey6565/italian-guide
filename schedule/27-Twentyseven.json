@@ -1,1 +1,382 @@
-{"channel_name":"27 Twentyseven","days":[{"date":"2026-10-06","programs":[{"name":"Due Nel Mirino","start":"00:00","end":"01:45","category":"Commedia"},{"name":"Super Car","start":"01:45","end":"02:35","episode":"S3 E13"},{"name":"Super Car","start":"02:35","end":"03:22","episode":"S3 E14"},{"name":"La Signora Del West","start":"03:22","end":"04:07","episode":"S6 E19"},{"name":"La Signora Del West","start":"04:07","end":"04:51","episode":"S6 E20"},{"name":"La Signora Del West","start":"04:51","end":"05:35","episode":"S6 E21"},{"name":"Camera Cafe'","start":"05:35","end":"05:40"},{"name":"Camera Cafe'","start":"05:40","end":"06:00","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012852804000201/media/7/7/096f279c-b65b-47eb-85ca-cc5d44a5e04c/9db48595-0e2c-448c-b4e0-c3393923558e.jpg","episode":"S5 E2","category":"Sit-Com"},{"name":"Camera Cafe'","start":"06:00","end":"06:06"},{"name":"Camera Cafe'","start":"06:06","end":"06:12","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F303843107004101/media/0/0/e6c6ff7d-4a09-4b48-a397-a75679f2efc8/66a10ff5-e632-4907-8843-d6ad49495b97.jpg","episode":"S6 E41","category":"Sit-Com"},{"name":"Nonno Felice","start":"06:12","end":"06:35","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009042701000401/media/5/5/2785c3cf-5fca-458a-abcf-ab0c26887181/de6b2eaa-0610-49e4-8467-211342749349.jpg","episode":"S2 E4","category":"Sit-Com"},{"name":"Super Car","start":"06:35","end":"07:22","episode":"S3 E15"},{"name":"Super Car","start":"07:22","end":"08:14","episode":"S3 E16"},{"name":"La Casa Nella Prateria","start":"08:14","end":"09:16","episode":"S9 E7"},{"name":"La Casa Nella Prateria","start":"09:16","end":"10:17","episode":"S9 E8"},{"name":"La Casa Nella Prateria","start":"10:17","end":"11:18","episode":"S9 E9","category":"Commedia"},{"name":"La Signora Del West","start":"11:18","end":"12:16","episode":"S6 E22"},{"name":"La Signora Del West","start":"12:16","end":"13:15","episode":"S1 E1"},{"name":"La Signora Del West","start":"13:15","end":"14:12","episode":"S1 E2"},{"name":"La Casa Nella Prateria","start":"14:12","end":"15:12","episode":"S9 E10"},{"name":"La Casa Nella Prateria","start":"15:12","end":"16:13","episode":"S9 E11","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"16:13","end":"17:14","episode":"S9 E12","category":"Commedia"},{"name":"Colombo","start":"17:14","end":"19:10"},{"name":"Colombo","start":"19:10","end":"21:16","category":"Crime"},{"name":"La Famiglia Addams","start":"21:16","end":"23:07","category":"Commedia"},{"name":"Molto Incinta","start":"23:07","end":"01:35","category":"Commedia"}]},{"date":"2026-10-07","programs":[{"name":"Molto Incinta","start":"00:00","end":"01:35","category":"Commedia"},{"name":"Super Car","start":"01:35","end":"02:22","episode":"S3 E15"},{"name":"Super Car","start":"02:22","end":"03:09","episode":"S3 E16"},{"name":"La Signora Del West","start":"03:09","end":"03:54","episode":"S6 E22"},{"name":"La Signora Del West","start":"03:54","end":"04:40","episode":"S1 E1"},{"name":"La Signora Del West","start":"04:40","end":"05:27","episode":"S1 E2"},{"name":"Camera Cafe'","start":"05:27","end":"05:31"},{"name":"Camera Cafe'","start":"05:31","end":"05:35"},{"name":"Camera Cafe'","start":"05:35","end":"06:00","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F012852804004801/media/7/7/096f279c-b65b-47eb-85ca-cc5d44a5e04c/9db48595-0e2c-448c-b4e0-c3393923558e.jpg","episode":"S5 E48","category":"Sit-Com"},{"name":"Camera Cafe'","start":"06:00","end":"06:06"},{"name":"Nonno Felice","start":"06:06","end":"06:29","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F009042701000401/media/5/5/2785c3cf-5fca-458a-abcf-ab0c26887181/de6b2eaa-0610-49e4-8467-211342749349.jpg","episode":"S2 E4","category":"Sit-Com"},{"name":"Super Car","start":"06:29","end":"07:15","episode":"S3 E17"},{"name":"Super Car","start":"07:15","end":"07:59","episode":"S3 E18"},{"name":"La Casa Nella Prateria","start":"07:59","end":"09:05","episode":"S9 E10"},{"name":"La Casa Nella Prateria","start":"09:05","end":"10:06","episode":"S9 E11","category":"Commedia"},{"name":"La Casa Nella Prateria","start":"10:06","end":"11:06","episode":"S9 E12","category":"Commedia"},{"name":"La Signora Del West","start":"11:06","end":"12:05","episode":"S1 E2"},{"name":"La Signora Del West","start":"12:05","end":"13:05","episode":"S1 E3"},{"name":"La Signora Del West","start":"13:05","end":"14:05","episode":"S1 E4"},{"name":"La Casa Nella Prateria","start":"14:05","end":"15:06","episode":"S9 E13"},{"name":"La Casa Nella Prateria","start":"15:06","end":"16:08","episode":"S9 E14"},{"name":"La Casa Nella Prateria","start":"16:08","end":"17:06","episode":"S9 E15"},{"name":"Colombo","start":"17:06","end":"19:09","category":"Crime"},{"name":"Colombo","start":"19:09","end":"21:10"},{"name":"Non E' Mai Troppo Tardi","start":"21:10","end":"22:57","category":"Commedia"},{"name":"La Famiglia Addams","start":"22:57","end":"00:52","category":"Commedia"}]}]}
+{
+    "channel_name": "27 Twentyseven",
+    "days": [
+        {
+            "date": "2026-10-06",
+            "programs": [
+                {
+                    "name": "Due Nel Mirino",
+                    "start": "00:00",
+                    "end": "01:45",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Super Car",
+                    "start": "01:45",
+                    "end": "02:35",
+                    "episode": "S3 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Super Car",
+                    "start": "02:35",
+                    "end": "03:22",
+                    "episode": "S3 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "03:22",
+                    "end": "04:07",
+                    "episode": "S6 E19",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "04:07",
+                    "end": "04:51",
+                    "episode": "S6 E20",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "04:51",
+                    "end": "05:35",
+                    "episode": "S6 E21",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "05:35",
+                    "end": "05:40",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "05:40",
+                    "end": "06:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp",
+                    "episode": "S5 E2",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "06:00",
+                    "end": "06:06",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "06:06",
+                    "end": "06:12",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp",
+                    "episode": "S6 E41",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Nonno Felice",
+                    "start": "06:12",
+                    "end": "06:35",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/nonno-felice.webp",
+                    "episode": "S2 E4",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Super Car",
+                    "start": "06:35",
+                    "end": "07:22",
+                    "episode": "S3 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Super Car",
+                    "start": "07:22",
+                    "end": "08:14",
+                    "episode": "S3 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "08:14",
+                    "end": "09:16",
+                    "episode": "S9 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "09:16",
+                    "end": "10:17",
+                    "episode": "S9 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "10:17",
+                    "end": "11:18",
+                    "episode": "S9 E9",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "11:18",
+                    "end": "12:16",
+                    "episode": "S6 E22",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "12:16",
+                    "end": "13:15",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "13:15",
+                    "end": "14:12",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "14:12",
+                    "end": "15:12",
+                    "episode": "S9 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "15:12",
+                    "end": "16:13",
+                    "episode": "S9 E11",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "16:13",
+                    "end": "17:14",
+                    "episode": "S9 E12",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Colombo",
+                    "start": "17:14",
+                    "end": "19:10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Colombo",
+                    "start": "19:10",
+                    "end": "21:16",
+                    "category": "Crime",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Famiglia Addams",
+                    "start": "21:16",
+                    "end": "23:07",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Molto Incinta",
+                    "start": "23:07",
+                    "end": "01:35",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-10-07",
+            "programs": [
+                {
+                    "name": "Molto Incinta",
+                    "start": "00:00",
+                    "end": "01:35",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Super Car",
+                    "start": "01:35",
+                    "end": "02:22",
+                    "episode": "S3 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Super Car",
+                    "start": "02:22",
+                    "end": "03:09",
+                    "episode": "S3 E16",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "03:09",
+                    "end": "03:54",
+                    "episode": "S6 E22",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "03:54",
+                    "end": "04:40",
+                    "episode": "S1 E1",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "04:40",
+                    "end": "05:27",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "05:27",
+                    "end": "05:31",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "05:31",
+                    "end": "05:35",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "05:35",
+                    "end": "06:00",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp",
+                    "episode": "S5 E48",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Camera Cafe'",
+                    "start": "06:00",
+                    "end": "06:06",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/camera-cafe.webp"
+                },
+                {
+                    "name": "Nonno Felice",
+                    "start": "06:06",
+                    "end": "06:29",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/27-Twentyseven/nonno-felice.webp",
+                    "episode": "S2 E4",
+                    "category": "Sit-Com"
+                },
+                {
+                    "name": "Super Car",
+                    "start": "06:29",
+                    "end": "07:15",
+                    "episode": "S3 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Super Car",
+                    "start": "07:15",
+                    "end": "07:59",
+                    "episode": "S3 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "07:59",
+                    "end": "09:05",
+                    "episode": "S9 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "09:05",
+                    "end": "10:06",
+                    "episode": "S9 E11",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "10:06",
+                    "end": "11:06",
+                    "episode": "S9 E12",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "11:06",
+                    "end": "12:05",
+                    "episode": "S1 E2",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "12:05",
+                    "end": "13:05",
+                    "episode": "S1 E3",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Signora Del West",
+                    "start": "13:05",
+                    "end": "14:05",
+                    "episode": "S1 E4",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "14:05",
+                    "end": "15:06",
+                    "episode": "S9 E13",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "15:06",
+                    "end": "16:08",
+                    "episode": "S9 E14",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Casa Nella Prateria",
+                    "start": "16:08",
+                    "end": "17:06",
+                    "episode": "S9 E15",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Colombo",
+                    "start": "17:06",
+                    "end": "19:09",
+                    "category": "Crime",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Colombo",
+                    "start": "19:09",
+                    "end": "21:10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Non E' Mai Troppo Tardi",
+                    "start": "21:10",
+                    "end": "22:57",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Famiglia Addams",
+                    "start": "22:57",
+                    "end": "00:52",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,218 @@
-{"channel_name":"Iris","days":[{"date":"2026-10-06","programs":[{"name":"Harriet","start":"00:00","end":"02:16","category":"Biografico"},{"name":"Note Di Cinema","start":"02:16","end":"02:22","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314334401004101/media/16/80/b431800d-3c5c-400e-a5fd-e8f0a6f6073c/12a8fb1a-1bcc-4dcb-b967-e4a16a286e7d.jpg","category":"Magazine"},{"name":"I Molti Santi Del New Jersey","start":"02:22","end":"04:27","category":"Drammatico"},{"name":"La Tempesta Perfetta","start":"04:27","end":"06:03","category":"Thriller"},{"name":"Kojak","start":"06:03","end":"06:51","episode":"S5 E7"},{"name":"Kojak","start":"06:51","end":"07:38","episode":"S5 E8"},{"name":"Le Tre Spade Di Zorro","start":"07:38","end":"09:41","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000336401000101/media/4/4/cd9e4e5a-f973-47dd-883a-5d857a061263/33c176cf-f9fa-440f-b4a1-9f7a89e797b0.jpg","category":"Avventura"},{"name":"King Arthur","start":"09:41","end":"12:13","category":"Avventura"},{"name":"Cavalli Selvaggi","start":"12:13","end":"14:30","category":"Crime"},{"name":"Harriet","start":"14:30","end":"17:07","category":"Biografico"},{"name":"Il Sole Nella Stanza","start":"17:07","end":"19:12","category":"Commedia"},{"name":"Kojak","start":"19:12","end":"20:11","episode":"S5 E6"},{"name":"Walker Texas Ranger","start":"20:11","end":"21:14","episode":"S4 E17"},{"name":"La Frustata","start":"21:14","end":"23:08","category":"Western"},{"name":"Sfida Nell'alta Sierra","start":"23:08","end":"01:07","category":"Western"}]},{"date":"2026-10-07","programs":[{"name":"Sfida Nell'alta Sierra","start":"00:00","end":"01:07","category":"Western"},{"name":"Cavalli Selvaggi","start":"01:07","end":"02:56","category":"Crime"},{"name":"Il Sole Nella Stanza","start":"02:56","end":"04:25","category":"Commedia"},{"name":"Puccini","start":"04:25","end":"06:25","category":"Drammatico"},{"name":"Kojak","start":"06:25","end":"07:12","episode":"S5 E9"},{"name":"Kojak","start":"07:12","end":"07:58","episode":"S5 E10"},{"name":"Lo Scatenato","start":"07:58","end":"09:58","logo":"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F000303601000101/media/3/3/b00e129b-2c03-4486-9777-41b70f4aa7e4/c3bbf7ca-042e-4a0c-9cbd-41b4cb04a289.jpg","category":"Commedia"},{"name":"La Frustata","start":"09:58","end":"11:51","category":"Western"},{"name":"Paura","start":"11:51","end":"14:01","category":"Thriller"},{"name":"Ophelia","start":"14:01","end":"16:20","category":"Storico"},{"name":"Il Giorno Dello Sciacallo","start":"16:20","end":"19:13","category":"Giallo"},{"name":"Kojak","start":"19:13","end":"20:12","episode":"S5 E7"},{"name":"Walker Texas Ranger","start":"20:12","end":"21:15","episode":"S4 E18"},{"name":"Flight","start":"21:15","end":"00:00","category":"Drammatico"}]}]}
+{
+    "channel_name": "Iris",
+    "days": [
+        {
+            "date": "2026-10-06",
+            "programs": [
+                {
+                    "name": "Harriet",
+                    "start": "00:00",
+                    "end": "02:16",
+                    "category": "Biografico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Note Di Cinema",
+                    "start": "02:16",
+                    "end": "02:22",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/note-di-cinema.webp",
+                    "category": "Magazine"
+                },
+                {
+                    "name": "I Molti Santi Del New Jersey",
+                    "start": "02:22",
+                    "end": "04:27",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Tempesta Perfetta",
+                    "start": "04:27",
+                    "end": "06:03",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:03",
+                    "end": "06:51",
+                    "episode": "S5 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:51",
+                    "end": "07:38",
+                    "episode": "S5 E8",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Le Tre Spade Di Zorro",
+                    "start": "07:38",
+                    "end": "09:41",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/le-tre-spade-di-zorro.webp",
+                    "category": "Avventura"
+                },
+                {
+                    "name": "King Arthur",
+                    "start": "09:41",
+                    "end": "12:13",
+                    "category": "Avventura",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cavalli Selvaggi",
+                    "start": "12:13",
+                    "end": "14:30",
+                    "category": "Crime",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Harriet",
+                    "start": "14:30",
+                    "end": "17:07",
+                    "category": "Biografico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Sole Nella Stanza",
+                    "start": "17:07",
+                    "end": "19:12",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:12",
+                    "end": "20:11",
+                    "episode": "S5 E6",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:11",
+                    "end": "21:14",
+                    "episode": "S4 E17",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "La Frustata",
+                    "start": "21:14",
+                    "end": "23:08",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Sfida Nell'alta Sierra",
+                    "start": "23:08",
+                    "end": "01:07",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        },
+        {
+            "date": "2026-10-07",
+            "programs": [
+                {
+                    "name": "Sfida Nell'alta Sierra",
+                    "start": "00:00",
+                    "end": "01:07",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Cavalli Selvaggi",
+                    "start": "01:07",
+                    "end": "02:56",
+                    "category": "Crime",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Sole Nella Stanza",
+                    "start": "02:56",
+                    "end": "04:25",
+                    "category": "Commedia",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Puccini",
+                    "start": "04:25",
+                    "end": "06:25",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "06:25",
+                    "end": "07:12",
+                    "episode": "S5 E9",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "07:12",
+                    "end": "07:58",
+                    "episode": "S5 E10",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Lo Scatenato",
+                    "start": "07:58",
+                    "end": "09:58",
+                    "logo": "https://cdn.tv-programma.it/wp-content/uploads/downloaded-images/Iris/lo-scatenato.webp",
+                    "category": "Commedia"
+                },
+                {
+                    "name": "La Frustata",
+                    "start": "09:58",
+                    "end": "11:51",
+                    "category": "Western",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Paura",
+                    "start": "11:51",
+                    "end": "14:01",
+                    "category": "Thriller",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Ophelia",
+                    "start": "14:01",
+                    "end": "16:20",
+                    "category": "Storico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Il Giorno Dello Sciacallo",
+                    "start": "16:20",
+                    "end": "19:13",
+                    "category": "Giallo",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Kojak",
+                    "start": "19:13",
+                    "end": "20:12",
+                    "episode": "S5 E7",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Walker Texas Ranger",
+                    "start": "20:12",
+                    "end": "21:15",
+                    "episode": "S4 E18",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                },
+                {
+                    "name": "Flight",
+                    "start": "21:15",
+                    "end": "00:00",
+                    "category": "Drammatico",
+                    "logo": "https://tv-programma.it/wp-content/uploads/2026/02/sample-image.webp"
+                }
+            ]
+        }
+    ]
+}
