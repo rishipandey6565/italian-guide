@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-Updated: 
-1. Reads JSON files directly from "schedule/"
-2. Uses recursive extraction to find "programs" arrays anywhere in the JSON (fixes list/dict root errors)
-3. Output directory flattened: removed today/tomorrow subfolders
-4. Checks file size to avoid skipping corrupted 0-byte images
+Logo Downloader and Schedule Updater
+1. Reads JSON files from "schedule/"
+2. Downloads show logos concurrently, converts to WebP, and saves to "downloaded-images/<channel-folder>/"
+3. Reuses already downloaded images between individual channel schedules and the master "all-channel.json"
+4. Preserves JSON minification (separators=(',', ':')) by default to save storage and CDN bandwidth
+5. Atomic write with .tmp files to prevent corruption
 """
 
 import argparse
@@ -16,7 +17,7 @@ import re
 import time
 from io import BytesIO
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Tuple
 
 import requests
 from PIL import Image, UnidentifiedImageError
@@ -54,6 +55,13 @@ session.mount('http://', adapter)
 # -----------------------
 # Helpers
 # -----------------------
+def sanitize_filename(name: str) -> str:
+    """Converts 'Sky Serie' to 'Sky-Serie' and removes illegal chars, matching epg_ripper.py"""
+    clean_name = re.sub(r'[^a-zA-Z0-9]', '-', name).strip('-')
+    clean_name = re.sub(r'-+', '-', clean_name)
+    return clean_name or "unknown"
+
+
 def slugify(name: str) -> str:
     """Convert show_name to south-park.webp style."""
     name = name.lower()
@@ -100,12 +108,10 @@ def extract_program_dicts(node) -> List[dict]:
     if isinstance(node, dict):
         for key, value in node.items():
             if key == "programs" and isinstance(value, list):
-                # We found a programs list! Collect all dictionaries inside it.
                 for item in value:
                     if isinstance(item, dict):
                         found.append(item)
             else:
-                # Keep searching deeper
                 found.extend(extract_program_dicts(value))
     elif isinstance(node, list):
         for item in node:
@@ -113,10 +119,38 @@ def extract_program_dicts(node) -> List[dict]:
     return found
 
 
+def extract_programs_by_channel(data, default_folder: str) -> List[Tuple[str, dict]]:
+    """
+    Returns a list of (channel_folder, program_dict) tuples.
+    Correctly associates programs with their channel folder,
+    including master list format (all-channel.json) and individual channel format.
+    """
+    results = []
+    if isinstance(data, list):
+        for item in data:
+            if isinstance(item, dict) and "channel_name" in item and "programs" in item:
+                ch_name = item.get("channel_name", "")
+                ch_folder = sanitize_filename(ch_name) if ch_name else default_folder
+                progs = item.get("programs", [])
+                if isinstance(progs, list):
+                    for p in progs:
+                        if isinstance(p, dict):
+                            results.append((ch_folder, p))
+            else:
+                for p in extract_program_dicts(item):
+                    results.append((default_folder, p))
+    elif isinstance(data, dict):
+        ch_name = data.get("channel_name", "")
+        ch_folder = sanitize_filename(ch_name) if ch_name else default_folder
+        for p in extract_program_dicts(data):
+            results.append((ch_folder, p))
+    return results
+
+
 # -----------------------
 # Core per-JSON processing
 # -----------------------
-def process_json_file(json_path: Path, out_root: Path, base_url: str, workers: int):
+def process_json_file(json_path: Path, out_root: Path, base_url: str, workers: int, minify: bool = True):
     logger.info(f"Processing {json_path}")
 
     try:
@@ -125,87 +159,83 @@ def process_json_file(json_path: Path, out_root: Path, base_url: str, workers: i
         logger.error(f"Invalid JSON {json_path} : {e}")
         return
 
-    # Channel folder is based on the file name (e.g., "20.json" -> "20")
-    channel_folder = json_path.stem
-    target_dir = out_root / channel_folder
-    ensure_dir(target_dir)
+    default_folder = json_path.stem
+    items = extract_programs_by_channel(data, default_folder)
+    if not items:
+        logger.warning(f"No programs found in {json_path}")
+        return
 
-    # RULE: One image per show_name
-    show_to_url: Dict[str, str] = {}      # show_name -> first URL
-    
-    # Store memory references to the dictionaries so we can update them in place
-    show_to_programs: Dict[str, List[dict]] = {}  
+    # Track unique download tasks and program dict references by (channel_folder, show_name)
+    channel_show_to_url: Dict[Tuple[str, str], str] = {}
+    channel_show_to_programs: Dict[Tuple[str, str], List[dict]] = {}
 
-    # Extract all program blocks, no matter how the JSON is structured
-    all_programs = extract_program_dicts(data)
-    
-    for row in all_programs:
+    for ch_folder, row in items:
         show = row.get("name", "").strip()
         url = row.get("logo", "").strip()
 
-        # If empty show name, skip
         if not show:
             continue
-        
-        # Save the first valid HTTP URL we find for this show
-        if show not in show_to_url and url.startswith("http"):
-            show_to_url[show] = url
-        
-        # Track the dictionary reference
-        show_to_programs.setdefault(show, []).append(row)
+
+        key = (ch_folder, show)
+        if key not in channel_show_to_url and url.startswith("http"):
+            channel_show_to_url[key] = url
+
+        channel_show_to_programs.setdefault(key, []).append(row)
 
     tasks = []
-
-    # Prepare tasks only for shows that actually have a URL
-    for show_name, url in show_to_url.items():
+    for (ch_folder, show_name), url in channel_show_to_url.items():
+        target_dir = out_root / ch_folder
+        ensure_dir(target_dir)
         slug = slugify(show_name)
         out_path = target_dir / f"{slug}.webp"
-        tasks.append((show_name, url, out_path))
+        tasks.append((ch_folder, show_name, url, out_path))
 
     # Multi-threaded downloading
     def worker(task):
-        show_name, url, out_path = task
+        ch_folder, show_name, url, out_path = task
 
         # Skip if file exists AND is not empty
         if out_path.exists() and out_path.stat().st_size > 0:
-            return show_name, out_path, None
+            return (ch_folder, show_name), out_path, None
 
         try:
             content = download_with_retries(url)
             convert_to_webp(content, out_path)
-            logger.info(f"Saved {out_path.name}")
-            return show_name, out_path, None
+            logger.info(f"Saved {ch_folder}/{out_path.name}")
+            return (ch_folder, show_name), out_path, None
         except Exception as e:
-            logger.error(f"Failed {show_name}: {e}")
-            return show_name, out_path, e
+            logger.error(f"Failed [{ch_folder}] {show_name}: {e}")
+            return (ch_folder, show_name), out_path, e
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as exe:
         results = list(exe.map(worker, tasks))
 
-    # Update JSON references
-    results_map = {r[0]: (r[1], r[2]) for r in results} # name -> (path, err)
+    results_map = {r[0]: (r[1], r[2]) for r in results}
 
-    for show_name, program_dicts in show_to_programs.items():
-        if show_name in results_map:
-            out_path, err = results_map[show_name]
-            
+    for (ch_folder, show_name), program_dicts in channel_show_to_programs.items():
+        if (ch_folder, show_name) in results_map:
+            out_path, err = results_map[(ch_folder, show_name)]
             if err:
                 final_url = FALLBACK_LOGO_URL
             else:
                 slug = slugify(show_name)
-                new_rel = f"{out_root.name}/{channel_folder}/{slug}.webp"
+                new_rel = f"{out_root.name}/{ch_folder}/{slug}.webp"
                 final_url = f"{base_url}/{new_rel}"
         else:
             final_url = FALLBACK_LOGO_URL
 
-        # Apply the URL directly to the memory reference (updates 'data' automatically)
+        # Update JSON references in memory
         for p_dict in program_dicts:
             p_dict["logo"] = final_url
 
     # Atomic Save
     temp_path = json_path.with_suffix(".tmp")
     try:
-        temp_path.write_text(json.dumps(data, indent=4, ensure_ascii=False), encoding="utf-8")
+        if minify:
+            content = json.dumps(data, separators=(',', ':'), ensure_ascii=False)
+        else:
+            content = json.dumps(data, indent=4, ensure_ascii=False)
+        temp_path.write_text(content, encoding="utf-8")
         os.replace(temp_path, json_path)
     except Exception as e:
         logger.error(f"Failed to save JSON {json_path}: {e}")
@@ -217,25 +247,32 @@ def process_json_file(json_path: Path, out_root: Path, base_url: str, workers: i
 # Main
 # -----------------------
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--schedules-dir", default=DEFAULT_SCHEDULES_DIR)
-    parser.add_argument("--out-dir", default=DEFAULT_OUT_DIR)
-    parser.add_argument("--base-url", default=DEFAULT_BASE_URL)
-    parser.add_argument("--workers", type=int, default=DEFAULT_WORKERS)
+    parser = argparse.ArgumentParser(description="Download TV show logos and update schedule JSON files.")
+    parser.add_argument("--schedules-dir", default=DEFAULT_SCHEDULES_DIR, help="Path to schedules directory")
+    parser.add_argument("--out-dir", default=DEFAULT_OUT_DIR, help="Path to output images directory")
+    parser.add_argument("--base-url", default=DEFAULT_BASE_URL, help="Base CDN URL for uploaded images")
+    parser.add_argument("--workers", type=int, default=DEFAULT_WORKERS, help="Number of concurrent download workers")
+    parser.add_argument("--pretty", action="store_true", help="Output indented JSON instead of minified JSON")
     args = parser.parse_args()
 
     schedules_dir = Path(args.schedules_dir)
     out_root = Path(args.out_dir)
     base_url = args.base_url.rstrip("/")
     workers = args.workers
+    minify = not args.pretty
 
     if not schedules_dir.exists():
         logger.error(f"Schedules directory '{schedules_dir}' does not exist.")
         return
 
-    # Process all JSON files directly inside the schedule directory
-    for json_path in sorted(schedules_dir.glob("*.json")):
-        process_json_file(json_path, out_root, base_url, workers)
+    # Process all channel files first, then all-channel.json last
+    # This ensures images are already downloaded and can be reused instantly
+    all_json_files = sorted(schedules_dir.glob("*.json"))
+    channel_files = [p for p in all_json_files if p.name != "all-channel.json"]
+    master_files = [p for p in all_json_files if p.name == "all-channel.json"]
+
+    for json_path in channel_files + master_files:
+        process_json_file(json_path, out_root, base_url, workers, minify=minify)
 
 
 if __name__ == "__main__":
